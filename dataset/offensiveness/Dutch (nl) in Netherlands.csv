@@ -1,0 +1,658 @@
+Attribute,Not Offensive (NO),Slightly Offensive (o1),Somewhat Offensive (O2),Moderately Offensive (O3),Extremely Offensive (O4),Unsure(U),mean_offensive_score,Translated Attribute
+spreken kirundi,3,0,0,0,0,0,-1,speak kirundi
+dictator,0,0,0,1,2,0,3.666666667,dictator
+fris,3,0,0,0,0,0,-1,fresh
+in ballingschap,2,1,0,0,0,0,-0.3333333333,in exile
+goed in lange afstanden,3,0,0,0,0,0,-1,good at long distances
+eten veel kaas,2,1,0,0,0,0,-0.3333333333,eat a lot of cheese
+houden van pierogi,3,0,0,0,0,0,-1,love pierogi
+oost-europese taal,3,0,0,0,0,0,-1,eastern european language
+toeristen,3,0,0,0,0,0,-1,tourists
+frieten,3,0,0,0,0,0,-1,fries
+antiek,2,1,0,0,0,0,-0.3333333333,antique
+geschreven van rechts naar links,3,0,0,0,0,0,-1,written from right to left
+onafhankelijk,3,0,0,0,0,0,-1,independent
+curry,3,0,0,0,0,0,-1,Curry
+bescheiden,3,0,0,0,0,0,-1,modest
+mysterieus,3,0,0,0,0,0,-1,mysterious
+onverzettelijk,3,0,0,0,0,0,-1,unyielding
+nette,3,0,0,0,0,0,-1,neat
+bejaard,1,1,1,0,0,0,0.6666666667,elderly
+gemeen,0,0,2,1,0,0,2.333333333,mean
+glücklich,3,0,0,0,0,0,-1,glücklich
+taiwanese,3,0,0,0,0,0,-1,taiwanese
+wild,1,2,0,0,0,0,0.3333333333,wild
+goed in schaatsen,3,0,0,0,0,0,-1,good at skating
+humeurig,1,1,1,0,0,0,0.6666666667,moody
+totalitair,0,0,1,2,0,0,2.666666667,totalitarian
+drugshandel,0,0,1,1,1,0,3,drug trafficking
+brouwerij,3,0,0,0,0,0,-1,brewery
+eerlijk,3,0,0,0,0,0,-1,honestly
+spreekt nederlands,3,0,0,0,0,0,-1,speaks Dutch
+leidend,3,0,0,0,0,0,-1,leading
+gewelddadig,0,0,1,0,2,0,3.333333333,violent
+niederländisch,3,0,0,0,0,0,-1,Dutch
+houden van kaas,3,0,0,0,0,0,-1,love cheese
+islamitisch,3,0,0,0,0,0,-1,Islamic
+filosofie,3,0,0,0,0,0,-1,philosophy
+eet graag,3,0,0,0,0,0,-1,like to eat
+goed in bergbeklimmers,3,0,0,0,0,0,-1,good at mountaineering
+illegaal,0,2,0,1,0,0,1.666666667,illegal
+danser,3,0,0,0,0,0,-1,dancer
+wiskunde,3,0,0,0,0,0,-1,math
+verdomd,0,1,1,1,0,0,2,damn
+bierdrinkend,1,2,0,0,0,0,0.3333333333,drinking beer
+brabants,3,0,0,0,0,0,-1,Brabant
+flitsende kleding,3,0,0,0,0,0,-1,flashy clothes
+joden,3,0,0,0,0,0,-1,Jews
+slank,3,0,0,0,0,0,-1,slim
+ruig,1,1,1,0,0,0,0.6666666667,rough
+honkbal,3,0,0,0,0,0,-1,baseball
+self-controlled,3,0,0,0,0,0,-1,self controlled
+spreekt veel,1,2,0,0,0,0,0.3333333333,speaks a lot
+olympische spelen,3,0,0,0,0,0,-1,Olympics
+geamuseerd,3,0,0,0,0,0,-1,amused
+ontwikkeld,3,0,0,0,0,0,-1,developed
+engelse taal,3,0,0,0,0,0,-1,English language
+schoon,3,0,0,0,0,0,-1,beautiful
+houden van garnalen,2,1,0,0,0,0,-0.3333333333,love shrimp
+houdt van wijn,3,0,0,0,0,0,-1,likes wine
+tapas,3,0,0,0,0,0,-1,tapas
+nat,3,0,0,0,0,0,-1,wet
+zwart,2,0,1,0,0,0,0,black
+grieks,3,0,0,0,0,0,-1,Greek
+roodharig,3,0,0,0,0,0,-1,red-haired
+houden van eten,3,0,0,0,0,0,-1,love food
+sparsam,3,0,0,0,0,0,-1,sparsam
+loyal,3,0,0,0,0,0,-1,loyal
+houdt van dansen,3,0,0,0,0,0,-1,likes to dance
+lokaal,3,0,0,0,0,0,-1,local
+samba,3,0,0,0,0,0,-1,samba
+nauwkeurig,3,0,0,0,0,0,-1,accurately
+eet kaas,3,0,0,0,0,0,-1,eat cheese
+ouderwets,2,1,0,0,0,0,-0.3333333333,old-fashioned
+drugshandelaar,0,0,1,1,1,0,3,drug trafficker
+fanatiek,2,1,0,0,0,0,-0.3333333333,fanatic
+smaakvol,3,0,0,0,0,0,-1,tasteful
+gehoorzaam,3,0,0,0,0,0,-1,obedient
+zigeuner,1,1,1,0,0,0,0.6666666667,Gypsy
+spreken manx,3,0,0,0,0,0,-1,speak manx
+eilanden,3,0,0,0,0,0,-1,Islands
+antwerpen,3,0,0,0,0,0,-1,antwerp
+agressief,0,0,2,1,0,0,2.333333333,aggressive
+wijs,3,0,0,0,0,0,-1,show
+schapenboeren,2,1,0,0,0,0,-0.3333333333,sheep farmers
+revolutionair,3,0,0,0,0,0,-1,revolutionary
+emotioneel,2,1,0,0,0,0,-0.3333333333,emotional
+frans,3,0,0,0,0,0,-1,French
+droogte,3,0,0,0,0,0,-1,drought
+communist,1,2,0,0,0,0,0.3333333333,Communist
+eet veel,2,1,0,0,0,0,-0.3333333333,eat a lot
+koelblütig,2,1,0,0,0,0,-0.3333333333,cold-blooded
+houden van rakija,3,0,0,0,0,0,-1,love rakija
+goed in rugby,3,0,0,0,0,0,-1,good at rugby
+kosmopolitisch,3,0,0,0,0,0,-1,cosmopolitan
+goed in zeilen,3,0,0,0,0,0,-1,good at sailing
+materialistisch,1,1,1,0,0,0,0.6666666667,materialistic
+likes to dance,3,0,0,0,0,0,-1,likes to dance
+drinken guinness,3,0,0,0,0,0,-1,drink guinness
+houdt van bier,2,1,0,0,0,0,-0.3333333333,likes beer
+extrovert,3,0,0,0,0,0,-1,extrovert
+georganiseerd,3,0,0,0,0,0,-1,organized
+voorzichtig,3,0,0,0,0,0,-1,carefully
+vreedzaam,3,0,0,0,0,0,-1,peaceful
+veilig,3,0,0,0,0,0,-1,safe
+paarden,3,0,0,0,0,0,-1,horses
+hongerig,3,0,0,0,0,0,-1,hungry
+goed in korfbal,3,0,0,0,0,0,-1,good at korfball
+dorst,3,0,0,0,0,0,-1,thirst
+houden van thee,2,1,0,0,0,0,-0.3333333333,love tea
+vriendelijk,3,0,0,0,0,0,-1,friendly
+kilt,3,0,0,0,0,0,-1,kilt
+spreekt duits,3,0,0,0,0,0,-1,speaks German
+klein,3,0,0,0,0,0,-1,small
+houdt van hamburgers,2,1,0,0,0,0,-0.3333333333,likes burgers
+zeevaarders,3,0,0,0,0,0,-1,seafarers
+muzikaal,3,0,0,0,0,0,-1,musical
+trots op hun stad,3,0,0,0,0,0,-1,proud of their city
+draagt kilt,3,0,0,0,0,0,-1,wears kilt
+fahrrad,3,0,0,0,0,0,-1,fahrrad
+ijverig,3,0,0,0,0,0,-1,diligent
+roodharige,3,0,0,0,0,0,-1,redhead
+käse,3,0,0,0,0,0,-1,cheese
+goed in paardrijden,3,0,0,0,0,0,-1,good at horse riding
+dirigent,3,0,0,0,0,0,-1,conductor
+freundlich,3,0,0,0,0,0,-1,friendly
+fleißig,3,0,0,0,0,0,-1,fleßig
+gek op voetbal,3,0,0,0,0,0,-1,crazy about football
+taalkundig,3,0,0,0,0,0,-1,linguistic
+pasta,3,0,0,0,0,0,-1,pasta
+chaotisch,1,1,1,0,0,0,0.6666666667,chaotic
+zingen,3,0,0,0,0,0,-1,to sing
+praat graag,3,0,0,0,0,0,-1,likes to talk
+plichtsgetrouw,3,0,0,0,0,0,-1,dutiful
+kieskeurige,3,0,0,0,0,0,-1,picky
+verfijnd,3,0,0,0,0,0,-1,refined
+portugese,3,0,0,0,0,0,-1,portuguese
+houdt van sushi,3,0,0,0,0,0,-1,likes sushi
+intellectueel,3,0,0,0,0,0,-1,intellectual
+spreken goed engels,3,0,0,0,0,0,-1,speak good english
+veel regen,3,0,0,0,0,0,-1,a lot of rain
+houden van skiën,3,0,0,0,0,0,-1,love skiing
+punctueel,3,0,0,0,0,0,-1,punctual
+quinoa,3,0,0,0,0,0,-1,Quinoa
+goed in boksen,3,0,0,0,0,0,-1,good at boxing
+grof,1,1,0,1,0,0,1,course
+piraten,1,0,0,2,0,0,1.666666667,pirates
+elegant,3,0,0,0,0,0,-1,elegant
+boeren,2,0,1,0,0,0,0,farmers
+praatgraag,2,1,0,0,0,0,-0.3333333333,chatty
+optimistisch,3,0,0,0,0,0,-1,optimistic
+universiteit,3,0,0,0,0,0,-1,university
+trots op hun dialect,3,0,0,0,0,0,-1,proud of their dialect
+industrieel,3,0,0,0,0,0,-1,industrial
+spreken malagasy,3,0,0,0,0,0,-1,speak Malagasy
+spreken luid,1,2,0,0,0,0,0.3333333333,speak loudly
+geciviliseerd,3,0,0,0,0,0,-1,civilized
+oplettend,3,0,0,0,0,0,-1,observant
+dick,0,0,0,2,1,0,3.333333333,Dick
+zeemansvolk,3,0,0,0,0,0,-1,sailor people
+vegetarisch,3,0,0,0,0,0,-1,vegetarian
+hygiënisch,3,0,0,0,0,0,-1,hygienic
+oud,1,1,1,0,0,0,0.6666666667,old
+fries,3,0,0,0,0,0,-1,Frisian
+puur,3,0,0,0,0,0,-1,pure
+groen,3,0,0,0,0,0,-1,green
+stijf,1,1,1,0,0,0,0.6666666667,stiff
+autoritaire,0,0,3,0,0,0,2,authoritarian
+anti-amerikaans,0,2,1,0,0,0,1.333333333,anti-american
+eigenwijs,2,0,1,0,0,0,0,stubborn
+vrijgevig,3,0,0,0,0,0,-1,generous
+argentijns,3,0,0,0,0,0,-1,Argentinian
+strikt,3,0,0,0,0,0,-1,strict
+precies,3,0,0,0,0,0,-1,precisely
+plichtsbewust,3,0,0,0,0,0,-1,conscientious
+zijn erg beleefd,3,0,0,0,0,0,-1,are very polite
+engels,3,0,0,0,0,0,-1,English
+irritant,0,2,0,1,0,0,1.666666667,irritating
+spaans,3,0,0,0,0,0,-1,Spanish
+individualistisch,3,0,0,0,0,0,-1,individualistic
+noordpool,3,0,0,0,0,0,-1,Arctic
+marathon,3,0,0,0,0,0,-1,marathon
+eten baguettes,3,0,0,0,0,0,-1,eat baguettes
+calvinistisch,3,0,0,0,0,0,-1,Calvinistic
+sigaren,3,0,0,0,0,0,-1,cigars
+atletisch,3,0,0,0,0,0,-1,athletic
+kalte,2,1,0,0,0,0,-0.3333333333,calm
+moeilijk,1,1,1,0,0,0,0.6666666667,difficult
+goed in voetballen,3,0,0,0,0,0,-1,good at football
+drinken veel,1,2,0,0,0,0,0.3333333333,drink a lot
+neutraliteit,3,0,0,0,0,0,-1,neutrality
+dynamisch,3,0,0,0,0,0,-1,dynamic
+humoristisch,3,0,0,0,0,0,-1,humorous
+zakelijk,3,0,0,0,0,0,-1,commercial
+consciëntieus,3,0,0,0,0,0,-1,conscientious
+houden van groninger bier,3,0,0,0,0,0,-1,love Groningen beer
+blank,2,1,0,0,0,0,-0.3333333333,White
+eten pasta,3,0,0,0,0,0,-1,eat pasta
+houden van paprika,3,0,0,0,0,0,-1,love peppers
+gierig,0,2,1,0,0,0,1.333333333,stingy
+waterrijk,3,0,0,0,0,0,-1,watery
+houden van barbecue,3,0,0,0,0,0,-1,love barbecue
+afrikaan,3,0,0,0,0,0,-1,African
+loyale,3,0,0,0,0,0,-1,loyal
+wijn,3,0,0,0,0,0,-1,wine
+lang,3,0,0,0,0,0,-1,long
+atleet,3,0,0,0,0,0,-1,athlete
+impulsief,3,0,0,0,0,0,-1,impulsive
+goed in wiskunde,3,0,0,0,0,0,-1,good at math
+spreekt manx,3,0,0,0,0,0,-1,speaks manx
+studentenstad,3,0,0,0,0,0,-1,student town
+hardloper,3,0,0,0,0,0,-1,Runner
+noordelijk,3,0,0,0,0,0,-1,northern
+eet veel injera,2,1,0,0,0,0,-0.3333333333,eat a lot of injera
+houden van mosselen,3,0,0,0,0,0,-1,love mussels
+platteland,3,0,0,0,0,0,-1,country
+tropisch,3,0,0,0,0,0,-1,tropical
+goed in worstelen,3,0,0,0,0,0,-1,good at wrestling
+romantisch,3,0,0,0,0,0,-1,romantic
+stijlvol,3,0,0,0,0,0,-1,Stylish
+introvert,3,0,0,0,0,0,-1,introverted
+hard werken,3,0,0,0,0,0,-1,hard work
+khmer,3,0,0,0,0,0,-1,khmer
+gronings,3,0,0,0,0,0,-1,Groningen
+dijken,3,0,0,0,0,0,-1,dikes
+croissant,3,0,0,0,0,0,-1,Croissant
+houden van kebab,3,0,0,0,0,0,-1,love kebabs
+slordig,1,1,1,0,0,0,0.6666666667,sloppy
+bierliefhebbers,2,1,0,0,0,0,-0.3333333333,beer lovers
+houd van dijken,3,0,0,0,0,0,-1,love dikes
+houden van sauna,3,0,0,0,0,0,-1,love sauna
+bierdrinker,2,1,0,0,0,0,-0.3333333333,beer drinker
+goed in basketbal,3,0,0,0,0,0,-1,good at basketball
+britisch,3,0,0,0,0,0,-1,british
+spreken frans,3,0,0,0,0,0,-1,speak French
+praat met veel handen,2,1,0,0,0,0,-0.3333333333,talk with many hands
+skiën,3,0,0,0,0,0,-1,to ski
+goed in klimmen,3,0,0,0,0,0,-1,good at climbing
+loyaal,3,0,0,0,0,0,-1,loyal
+spreekt frans,3,0,0,0,0,0,-1,speaks French
+chauvinistisch,1,2,0,0,0,0,0.3333333333,chauvinistic
+feestelijk,3,0,0,0,0,0,-1,festive
+houdt van zwemmen,3,0,0,0,0,0,-1,likes swimming
+houden van wettersport,3,0,0,0,0,0,-1,love water sports
+brit,3,0,0,0,0,0,-1,brit
+christelijk,3,0,0,0,0,0,-1,Christian
+muziekliefhebbers,3,0,0,0,0,0,-1,music lovers
+taai,2,1,0,0,0,0,-0.3333333333,tough
+eet met stokken,3,0,0,0,0,0,-1,eat with sticks
+koel,2,0,1,0,0,0,0,cool
+praat luid,1,1,1,0,0,0,0.6666666667,talk loudly
+zeelieden,3,0,0,0,0,0,-1,sailors
+engelstalig,3,0,0,0,0,0,-1,in English
+drinken veel thee,2,1,0,0,0,0,-0.3333333333,drink a lot of tea
+wonen in polders,3,0,0,0,0,0,-1,living in polders
+woestijn,3,0,0,0,0,0,-1,desert
+vrijheidslievend,3,0,0,0,0,0,-1,freedom-loving
+salsa,3,0,0,0,0,0,-1,salsa
+drugs,2,0,0,1,0,0,0.3333333333,drugs
+basketbal,3,0,0,0,0,0,-1,basketball
+plattelandsbewoner,3,0,0,0,0,0,-1,country dweller
+bergbeklimmen,3,0,0,0,0,0,-1,mountaineering
+nederlandstalig,3,0,0,0,0,0,-1,Dutch speaking
+socialisten,3,0,0,0,0,0,-1,socialists
+wijn drinken,3,0,0,0,0,0,-1,drink wine
+dik,0,1,1,1,0,0,2,fat
+grappig,3,0,0,0,0,0,-1,funny
+patriotisch,3,0,0,0,0,0,-1,patriotic
+gezelligheid,3,0,0,0,0,0,-1,conviviality
+nuchter,3,0,0,0,0,0,-1,sober
+houdt van skiën,3,0,0,0,0,0,-1,loves skiing
+höflich,3,0,0,0,0,0,-1,courtly
+spraakzaam,3,0,0,0,0,0,-1,chatty
+olierijk,3,0,0,0,0,0,-1,oil-rich
+ijs,3,0,0,0,0,0,-1,ice
+nauwgezet,3,0,0,0,0,0,-1,meticulous
+flegmat,3,0,0,0,0,0,-1,phlegmatic
+friet,3,0,0,0,0,0,-1,fries
+mooi,3,0,0,0,0,0,-1,Nice
+bloembollen,3,0,0,0,0,0,-1,flower bulbs
+taco,3,0,0,0,0,0,-1,Taco
+russisch,3,0,0,0,0,0,-1,Russian
+formeel,3,0,0,0,0,0,-1,formal
+lama's,3,0,0,0,0,0,-1,llamas
+sushi,3,0,0,0,0,0,-1,Sushi
+degelijk,3,0,0,0,0,0,-1,solid
+groot,3,0,0,0,0,0,-1,big
+kaalkop,0,0,1,2,0,0,2.666666667,baldhead
+lacherig,2,1,0,0,0,0,-0.3333333333,giggly
+hilarisch,2,1,0,0,0,0,-0.3333333333,hilarious
+dansen,3,0,0,0,0,0,-1,dancing
+trots,3,0,0,0,0,0,-1,pride
+hebben een accent,2,1,0,0,0,0,-0.3333333333,have an accent
+houdt van voetbal,3,0,0,0,0,0,-1,likes football
+zurück,3,0,0,0,0,0,-1,zurück
+engelssprekend,3,0,0,0,0,0,-1,English speaking
+dronken,1,0,2,0,0,0,1,drunk
+vlaai,3,0,0,0,0,0,-1,pie
+illegale,0,1,2,0,0,0,1.666666667,illegal
+aardig,3,0,0,0,0,0,-1,nice
+houden van carnaval,3,0,0,0,0,0,-1,love carnival
+norse,2,0,0,1,0,0,0.3333333333,gruff
+typisch nederlands,3,0,0,0,0,0,-1,typically Dutch
+houdt van fietsen,3,0,0,0,0,0,-1,likes cycling
+brutaal,1,1,1,0,0,0,0.6666666667,cheeky
+wetenschappelijk,3,0,0,0,0,0,-1,scientific
+deftig,3,0,0,0,0,0,-1,dignified
+stil,3,0,0,0,0,0,-1,quiet
+krimtataren,2,1,0,0,0,0,-0.3333333333,Crimean Tatars
+koud,2,0,1,0,0,0,0,cold
+autoritair,0,0,3,0,0,0,2,authoritarian
+spreekt limburgs,3,0,0,0,0,0,-1,speaks Limburgish
+grijs,2,1,0,0,0,0,-0.3333333333,gray
+houden van vrijheid,3,0,0,0,0,0,-1,love freedom
+wiskundigen,3,0,0,0,0,0,-1,mathematicians
+vis,3,0,0,0,0,0,-1,fish
+gemoedelijk,3,0,0,0,0,0,-1,convivial
+perfectionistisch,2,1,0,0,0,0,-0.3333333333,perfectionist
+zeevarende,3,0,0,0,0,0,-1,seafarer
+stier,3,0,0,0,0,0,-1,bull
+eigengereed,2,1,0,0,0,0,-0.3333333333,self-employed
+wodka,3,0,0,0,0,0,-1,vodka
+taal,3,0,0,0,0,0,-1,language
+arm,2,1,0,0,0,0,-0.3333333333,arm
+koninklijk,3,0,0,0,0,0,-1,royal
+houden van schnaps,3,0,0,0,0,0,-1,love schnapps
+creool,3,0,0,0,0,0,-1,creole
+libanees,3,0,0,0,0,0,-1,Lebanese
+duister,2,0,1,0,0,0,0,dark
+gesproken in indonesië,3,0,0,0,0,0,-1,spoken in Indonesia
+franssprekend,3,0,0,0,0,0,-1,French speaking
+friestalig,3,0,0,0,0,0,-1,Frisian-speaking
+patriottisch,3,0,0,0,0,0,-1,patriotic
+gelukkig,3,0,0,0,0,0,-1,happy
+opschepperig,1,1,1,0,0,0,0.6666666667,boastful
+kalm,3,0,0,0,0,0,-1,calm
+gespierd,3,0,0,0,0,0,-1,muscular
+kebab,3,0,0,0,0,0,-1,Kebab
+houdt van fastfood,2,1,0,0,0,0,-0.3333333333,likes fast food
+vodka,3,0,0,0,0,0,-1,vodka
+houden van hamburger,2,1,0,0,0,0,-0.3333333333,love hamburger
+te vroeg komen,3,0,0,0,0,0,-1,come too early
+zionisten,1,2,0,0,0,0,0.3333333333,zionists
+vrijheid,3,0,0,0,0,0,-1,freedom
+kaas,3,0,0,0,0,0,-1,cheese
+portugese taal,3,0,0,0,0,0,-1,Portuguese language
+voetballer,3,0,0,0,0,0,-1,soccer player
+nomade,3,0,0,0,0,0,-1,nomad
+temperamentvol,3,0,0,0,0,0,-1,temperamental
+eet stokbrood,3,0,0,0,0,0,-1,eat baguette
+mediterraan,3,0,0,0,0,0,-1,Mediterranean
+correct,3,0,0,0,0,0,-1,correct
+bergbeklimmer,3,0,0,0,0,0,-1,mountain climber
+dictatorial,0,0,2,0,1,0,2.666666667,dictatorial
+goed eten,3,0,0,0,0,0,-1,good food
+spreken maleis,3,0,0,0,0,0,-1,speak malay
+limburg,3,0,0,0,0,0,-1,Limburg
+somaliërs,3,0,0,0,0,0,-1,Somalis
+slim,3,0,0,0,0,0,-1,smart
+katten,3,0,0,0,0,0,-1,cats
+land,3,0,0,0,0,0,-1,country
+paard,3,0,0,0,0,0,-1,horse
+snobistisch,2,1,0,0,0,0,-0.3333333333,snobbish
+sterk,3,0,0,0,0,0,-1,strong
+rijk aan cultuur,3,0,0,0,0,0,-1,rich in culture
+gekruid,3,0,0,0,0,0,-1,seasoned
+olie,3,0,0,0,0,0,-1,oil
+multicultureel,3,0,0,0,0,0,-1,multicultural
+platte land,3,0,0,0,0,0,-1,country
+eet graag kaas,3,0,0,0,0,0,-1,likes to eat cheese
+bijdehand,0,2,1,0,0,0,1.333333333,smart
+hard,1,1,1,0,0,0,0.6666666667,hard
+fietsen,3,0,0,0,0,0,-1,misuse
+leest van rechts naar links,3,0,0,0,0,0,-1,reads from right to left
+betrouwbaar,3,0,0,0,0,0,-1,trustworthy
+moslim,3,0,0,0,0,0,-1,Muslim
+drinkt veel,2,0,1,0,0,0,0,drinks a lot
+water,3,0,0,0,0,0,-1,water
+houdt van frieten,3,0,0,0,0,0,-1,likes fries
+dialectsprekers,2,1,0,0,0,0,-0.3333333333,dialect speakers
+spreken spaans,3,0,0,0,0,0,-1,speak Spanish
+regio,3,0,0,0,0,0,-1,region
+pragmatisch,3,0,0,0,0,0,-1,pragmatic
+eet veel pasta,2,1,0,0,0,0,-0.3333333333,eat a lot of pasta
+orthodox,3,0,0,0,0,0,-1,orthodox
+hoog,3,0,0,0,0,0,-1,high
+goed nederlands sprekend,3,0,0,0,0,0,-1,speaking good Dutch
+relaxed,3,0,0,0,0,0,-1,laid back
+progressive,3,0,0,0,0,0,-1,progressive
+hardlopen,3,0,0,0,0,0,-1,to run
+houden van wijn,3,0,0,0,0,0,-1,love wine
+goed georganiseerd,3,0,0,0,0,0,-1,well organized
+gezellig,3,0,0,0,0,0,-1,pleasant
+autorijden,3,0,0,0,0,0,-1,driving
+goed in skiën,3,0,0,0,0,0,-1,good at skiing
+turks,3,0,0,0,0,0,-1,Turkish
+rijst,3,0,0,0,0,0,-1,rice
+neutraal,3,0,0,0,0,0,-1,neutral
+vlak,2,1,0,0,0,0,-0.3333333333,right
+koppig,1,1,1,0,0,0,0.6666666667,stubbornly
+oorlogszuchtig,0,0,0,3,0,0,3,belligerent
+engelsman,3,0,0,0,0,0,-1,Englishman
+gastarbeider,1,1,0,1,0,0,1,guest worker
+bier,3,0,0,0,0,0,-1,beer
+bourgondisch,3,0,0,0,0,0,-1,burgundy
+taalvaardig,3,0,0,0,0,0,-1,language proficient
+oost-europees,3,0,0,0,0,0,-1,East-European
+oorlog,1,0,2,0,0,0,1,war
+beknopt,3,0,0,0,0,0,-1,short
+exotisch,3,0,0,0,0,0,-1,exotic
+drinken,3,0,0,0,0,0,-1,drinks
+koffie,3,0,0,0,0,0,-1,coffee
+vluchteling,3,0,0,0,0,0,-1,refugee
+houden van karaoke,3,0,0,0,0,0,-1,love karaoke
+kamelen,3,0,0,0,0,0,-1,camels
+ondernemend,3,0,0,0,0,0,-1,enterprising
+ijzig,1,1,0,1,0,0,1,icy
+piramides,3,0,0,0,0,0,-1,pyramids
+roken,3,0,0,0,0,0,-1,smoking
+tabak,3,0,0,0,0,0,-1,tobacco
+slechte hygiëne,0,1,0,2,0,0,2.333333333,poor hygiene
+politie,3,0,0,0,0,0,-1,Police
+krijgshaftig,3,0,0,0,0,0,-1,martial
+azerbeidzjaans,3,0,0,0,0,0,-1,azerbaijani
+spreken fries,3,0,0,0,0,0,-1,speak Frisian
+houden van paarden,3,0,0,0,0,0,-1,love horses
+terroristen,0,0,0,0,3,0,4,terrorists
+genocide,0,0,0,0,3,0,4,genocide
+uniek,3,0,0,0,0,0,-1,unique
+stijfkoppig,0,2,0,1,0,0,1.666666667,stubborn
+gulzig,0,2,1,0,0,0,1.333333333,greedy
+melken,3,0,0,0,0,0,-1,milking
+houdt van koken,3,0,0,0,0,0,-1,likes cooking
+gastvrij,3,0,0,0,0,0,-1,hospitable
+welgesteld,3,0,0,0,0,0,-1,well-to-do
+luid,1,0,2,0,0,0,1,loud
+voetbal,3,0,0,0,0,0,-1,football
+houden van zee,3,0,0,0,0,0,-1,love the sea
+modieus,3,0,0,0,0,0,-1,fashionable
+eten,3,0,0,0,0,0,-1,to eat
+perzisch,3,0,0,0,0,0,-1,Persian
+lui,0,1,2,0,0,0,1.666666667,lazy
+noorderling,3,0,0,0,0,0,-1,northerner
+sarcastisch,2,0,1,0,0,0,0,sarcastic
+kil,2,0,1,0,0,0,0,cold
+filosofisch,3,0,0,0,0,0,-1,philosophical
+vrij,3,0,0,0,0,0,-1,free
+gedisciplineerd,3,0,0,0,0,0,-1,disciplined
+offensiv,0,0,2,1,0,0,2.333333333,offensive
+geordend,3,0,0,0,0,0,-1,orderly
+chocolade,3,0,0,0,0,0,-1,chocolate
+theorie,3,0,0,0,0,0,-1,theory
+zionist,1,1,1,0,0,0,0.6666666667,zionist
+boer,2,1,0,0,0,0,-0.3333333333,farmer
+temperamentvoller,3,0,0,0,0,0,-1,more temperamental
+primitief,1,0,2,0,0,0,1,primitive
+spreekt engels,3,0,0,0,0,0,-1,speaks English
+pizza,3,0,0,0,0,0,-1,Pizza
+bier drinken,3,0,0,0,0,0,-1,drinking beer
+dom,0,1,2,0,0,0,1.666666667,stupid
+houdt van schapen,3,0,0,0,0,0,-1,loves sheep
+kortharig,3,0,0,0,0,0,-1,short-haired
+praat veel,2,1,0,0,0,0,-0.3333333333,talks a lot
+arabisch,3,0,0,0,0,0,-1,Arabic
+regenachtig,3,0,0,0,0,0,-1,rainy
+bang,1,2,0,0,0,0,0.3333333333,anxious
+houden van bier,2,1,0,0,0,0,-0.3333333333,love beer
+koken,3,0,0,0,0,0,-1,to cook
+sigaar,3,0,0,0,0,0,-1,cigar
+dictatoriaal,0,0,1,0,2,0,3.333333333,dictatorial
+trinken bier,3,0,0,0,0,0,-1,drinking beer
+serieus,3,0,0,0,0,0,-1,serious
+luidruchtig,0,2,1,0,0,0,1.333333333,noisy
+winderig,1,1,0,1,0,0,1,windy
+punctual,3,0,0,0,0,0,-1,punctual
+eten paprika,3,0,0,0,0,0,-1,eat peppers
+lange mensen,3,0,0,0,0,0,-1,tall people
+berg,3,0,0,0,0,0,-1,mountain
+communisten,1,0,2,0,0,0,1,communists
+handgebaren,3,0,0,0,0,0,-1,hand gestures
+stinken,0,0,1,2,0,0,2.666666667,stink
+entspannt,3,0,0,0,0,0,-1,entspannt
+goed in zwemmen,3,0,0,0,0,0,-1,good at swimming
+sportief,3,0,0,0,0,0,-1,sporty
+onderkoeld,2,0,1,0,0,0,0,hypothermia
+baguette,3,0,0,0,0,0,-1,baguette
+saai,1,1,1,0,0,0,0.6666666667,boring
+dialect,3,0,0,0,0,0,-1,dialect
+houden van filosofie,3,0,0,0,0,0,-1,love philosophy
+paardrijders,3,0,0,0,0,0,-1,horse riders
+innovatief,3,0,0,0,0,0,-1,Innovative
+rood haar,3,0,0,0,0,0,-1,Red hair
+houdt van paardrijden,3,0,0,0,0,0,-1,loves horse riding
+vredelievend,3,0,0,0,0,0,-1,peaceful
+goed in trekken,3,0,0,0,0,0,-1,pulls well
+zuinig,2,0,1,0,0,0,0,frugal
+behulpzaam,3,0,0,0,0,0,-1,helpful
+engels sprekend,3,0,0,0,0,0,-1,English speaking
+lemur,3,0,0,0,0,0,-1,lemur
+kaaskop,0,0,3,0,0,0,2,cheese head
+nuchterig,3,0,0,0,0,0,-1,sober
+gedetailleerd,3,0,0,0,0,0,-1,detailed
+fietst graag,3,0,0,0,0,0,-1,likes to cycle
+houden van whisky,3,0,0,0,0,0,-1,love whisky
+spreken turks,3,0,0,0,0,0,-1,speak Turkish
+respectvol,3,0,0,0,0,0,-1,respectful
+eet veel vis,3,0,0,0,0,0,-1,eat a lot of fish
+verantwoordelijk,3,0,0,0,0,0,-1,responsible
+eten veel,2,1,0,0,0,0,-0.3333333333,eat a lot
+spreken portugees,3,0,0,0,0,0,-1,speak Portuguese
+provincie,3,0,0,0,0,0,-1,province
+netjes,3,0,0,0,0,0,-1,correctly
+vlaams,3,0,0,0,0,0,-1,Flemish
+keurig,3,0,0,0,0,0,-1,neat
+filosofen,3,0,0,0,0,0,-1,philosophers
+gemeente,3,0,0,0,0,0,-1,local authority
+spreken een dialect,2,1,0,0,0,0,-0.3333333333,speak a dialect
+stief,2,0,1,0,0,0,0,step
+taal moeilijk,1,2,0,0,0,0,0.3333333333,language difficult
+houdt van rum,2,1,0,0,0,0,-0.3333333333,likes rum
+frietjes,3,0,0,0,0,0,-1,fries
+technologisch geavanceerd,3,0,0,0,0,0,-1,technologically advanced
+fiets,3,0,0,0,0,0,-1,bicycle
+bier drinkend,2,1,0,0,0,0,-0.3333333333,drinking beer
+drinkt veel bier,2,0,1,0,0,0,0,drinks a lot of beer
+houden van rum,2,1,0,0,0,0,-0.3333333333,love rum
+kaal,1,0,2,0,0,0,1,bald
+succesvol,3,0,0,0,0,0,-1,successful
+direkt,2,1,0,0,0,0,-0.3333333333,directly
+rustig,3,0,0,0,0,0,-1,Calm
+is praktisch,3,0,0,0,0,0,-1,is practical
+franstalig,3,0,0,0,0,0,-1,French
+schapen,3,0,0,0,0,0,-1,sheep
+kangoeroe,3,0,0,0,0,0,-1,kangaroo
+ruw,1,1,1,0,0,0,0.6666666667,rough
+eiland,3,0,0,0,0,0,-1,Island
+libanese,3,0,0,0,0,0,-1,lebanese
+konservativ,2,1,0,0,0,0,-0.3333333333,conservative
+waterland,3,0,0,0,0,0,-1,waterland
+eet veel rijst,3,0,0,0,0,0,-1,eat a lot of rice
+steil,3,0,0,0,0,0,-1,steep
+drugsbaron,1,0,0,1,1,0,2,drug lord
+houdt van whisky,2,1,0,0,0,0,-0.3333333333,likes whisky
+friet eten,3,0,0,0,0,0,-1,eat fries
+conservatief,2,1,0,0,0,0,-0.3333333333,conservative
+druipend,2,1,0,0,0,0,-0.3333333333,dripping
+oekraïens,3,0,0,0,0,0,-1,Ukrainian
+plat,2,1,0,0,0,0,-0.3333333333,flat
+flegmatischer,3,0,0,0,0,0,-1,more phlegmatic
+wetenschapper,3,0,0,0,0,0,-1,scientist
+goed in paardenraces,3,0,0,0,0,0,-1,good at horse racing
+eet veel frieten,3,0,0,0,0,0,-1,eat a lot of fries
+muziek,3,0,0,0,0,0,-1,music
+grammatica,3,0,0,0,0,0,-1,grammar
+ambitieus,3,0,0,0,0,0,-1,ambitious
+avontuurlijk,3,0,0,0,0,0,-1,adventurous
+gul,3,0,0,0,0,0,-1,generous
+efficiënt,3,0,0,0,0,0,-1,efficient
+creatief,3,0,0,0,0,0,-1,creatively
+direct,3,0,0,0,0,0,-1,straight away
+beschaafd,3,0,0,0,0,0,-1,civilized
+guinness,3,0,0,0,0,0,-1,guinness
+rechtop,3,0,0,0,0,0,-1,upright
+nomadisch,3,0,0,0,0,0,-1,nomadic
+spreekt malagasy,3,0,0,0,0,0,-1,speaks Malagasy
+argentijnse,3,0,0,0,0,0,-1,argentinian
+oorlogstrauma,3,0,0,0,0,0,-1,war trauma
+houden van paardrijden,3,0,0,0,0,0,-1,love horse riding
+traditioneel,3,0,0,0,0,0,-1,traditional
+goed in cricket,3,0,0,0,0,0,-1,good at cricket
+corrupt,0,0,0,2,1,0,3.333333333,corrupt
+nomaden,3,0,0,0,0,0,-1,nomads
+macho,0,1,2,0,0,0,1.666666667,macho
+eetstokjes,3,0,0,0,0,0,-1,chopsticks
+italiaan,3,0,0,0,0,0,-1,Italian
+whisky,3,0,0,0,0,0,-1,whiskey
+religieus,3,0,0,0,0,0,-1,religious
+humor,3,0,0,0,0,0,-1,Humour
+dijkwerker,3,0,0,0,0,0,-1,dike worker
+loves to dance,3,0,0,0,0,0,-1,loves to dance
+houden van kanoën,3,0,0,0,0,0,-1,love canoeing
+zionistisch,1,1,1,0,0,0,0.6666666667,Zionist
+fietst,3,0,0,0,0,0,-1,cycles
+sauna,3,0,0,0,0,0,-1,sauna
+blond,2,1,0,0,0,0,-0.3333333333,blond
+praktijk,3,0,0,0,0,0,-1,practice
+verlegen,3,0,0,0,0,0,-1,shy
+hutu,3,0,0,0,0,0,-1,hutu
+spreekt veel talen,3,0,0,0,0,0,-1,speaks many languages
+wispelturig,1,1,1,0,0,0,0.6666666667,fickle
+houden van vlaai,3,0,0,0,0,0,-1,love pie
+goed in bergbeklimmen,3,0,0,0,0,0,-1,good at mountain climbing
+thee,3,0,0,0,0,0,-1,tea
+flauwvallen,3,0,0,0,0,0,-1,pass out
+besnord,3,0,0,0,0,0,-1,moustached
+rijk aan biodiversiteit,3,0,0,0,0,0,-1,rich in biodiversity
+drinkt graag bier,3,0,0,0,0,0,-1,likes to drink beer
+protestant,3,0,0,0,0,0,-1,Protestant
+historisch,3,0,0,0,0,0,-1,historical
+egoïstisch,0,0,3,0,0,0,2,selfish
+noord-nederland,3,0,0,0,0,0,-1,North Netherlands
+gesloten,2,1,0,0,0,0,-0.3333333333,Closed
+veel fietsen,3,0,0,0,0,0,-1,lots of cycling
+chinees,3,0,0,0,0,0,-1,Chinese
+noord,3,0,0,0,0,0,-1,north
+communistisch,1,0,2,0,0,0,1,communist
+welvarend,3,0,0,0,0,0,-1,prosperous
+coca,3,0,0,0,0,0,-1,coca
+drinkt veel thee,3,0,0,0,0,0,-1,drinks a lot of tea
+houden van groningers,3,0,0,0,0,0,-1,love people from Groningen
+gesproken in maleisië,3,0,0,0,0,0,-1,spoken in malaysia
+militaristisch,0,1,2,0,0,0,1.666666667,militaristic
+liberale,3,0,0,0,0,0,-1,liberal
+rijk,3,0,0,0,0,0,-1,rich
+flamenco,3,0,0,0,0,0,-1,flamenco
+fietser,3,0,0,0,0,0,-1,cyclist
+slungelig,1,1,1,0,0,0,0.6666666667,slouching
+mieren,2,0,1,0,0,0,0,ants
+houdt van thee,3,0,0,0,0,0,-1,likes tea
+flegmatisch,3,0,0,0,0,0,-1,phlegmatic
+jood,2,0,0,1,0,0,0.3333333333,Jew
+stad,3,0,0,0,0,0,-1,city
+strijdlustig,3,0,0,0,0,0,-1,competitive
+hamburger,3,0,0,0,0,0,-1,Hamburger
+krijgszuchtig,1,0,2,0,0,0,1,warlike
+hardwerkend,3,0,0,0,0,0,-1,hardworking
+pittig,2,1,0,0,0,0,-0.3333333333,spicy
+sfeervol,3,0,0,0,0,0,-1,atmospheric
+grote,3,0,0,0,0,0,-1,great
+spreken goed,3,0,0,0,0,0,-1,speak well
+drugsdealer,0,0,1,1,1,0,3,drug dealer
+tribal,3,0,0,0,0,0,-1,tribal
+wijzen,3,0,0,0,0,0,-1,ways
+houden van water,3,0,0,0,0,0,-1,love water
+rechtdoorzee,3,0,0,0,0,0,-1,straightforward
+houden van fietsen,3,0,0,0,0,0,-1,love cycling
+tolerant,3,0,0,0,0,0,-1,tolerant
+beleefd,3,0,0,0,0,0,-1,polite
+dominant,1,1,1,0,0,0,0.6666666667,dominant
+bergvolk,3,0,0,0,0,0,-1,mountain people
+katholiek,3,0,0,0,0,0,-1,Catholic
+streng,2,0,1,0,0,0,0,strict
+arrogant,0,0,2,1,0,0,2.333333333,arrogant
+reggae,3,0,0,0,0,0,-1,reggae
+op tijd,3,0,0,0,0,0,-1,on time
+nederlands,3,0,0,0,0,0,-1,Dutch
+zelfverzekerd,3,0,0,0,0,0,-1,confident
+eten stokbrood,3,0,0,0,0,0,-1,eat baguette
+bergachtig,3,0,0,0,0,0,-1,mountainous
+enthousiast,3,0,0,0,0,0,-1,enthusiastic
+wafel,3,0,0,0,0,0,-1,waffle
+diplomatiek,3,0,0,0,0,0,-1,diplomatic
+french,3,0,0,0,0,0,-1,french
+kunstzinnig,3,0,0,0,0,0,-1,artistic
+lekker,3,0,0,0,0,0,-1,Tasty
+vrijheidsstrijder,2,0,1,0,0,0,0,freedom fighter
+eet veel friet,2,1,0,0,0,0,-0.3333333333,eat a lot of fries
+neutral,3,0,0,0,0,0,-1,neutral
+spreekt gaelic,3,0,0,0,0,0,-1,speaks Gaelic

@@ -1,0 +1,958 @@
+Attribute,Not Offensive (NO),Slightly Offensive (o1),Somewhat Offensive (O2),Moderately Offensive (O3),Extremely Offensive (O4),Unsure(U),mean_offensive_score,Translated Attribute
+educado,3,0,0,0,0,0,-1,educated
+filosofia,3,0,0,0,0,0,-1,philosophy
+squilla,2,0,0,0,0,1,-0.6666666667,rings
+antichi,1,1,0,0,0,1,0,ancient
+emotivo,1,2,0,0,0,0,0.3333333333,emotional
+ingegnoso,3,0,0,0,0,0,-1,ingenious
+africani,1,1,0,0,0,1,0,Africans
+cristiani,3,0,0,0,0,0,-1,Christians
+razza,1,1,0,0,1,0,1.333333333,race
+furbi,1,2,0,0,0,0,0.3333333333,clever
+ricca,3,0,0,0,0,0,-1,rich
+agnolotti,3,0,0,0,0,0,-1,agnolotti
+gustosa,3,0,0,0,0,0,-1,tasty
+avventuroso,3,0,0,0,0,0,-1,adventurous
+vegetariani,2,1,0,0,0,0,-0.3333333333,vegetarians
+a forma di,3,0,0,0,0,0,-1,shaped
+parlano danese,3,0,0,0,0,0,-1,they speak Danish
+anti-americani,0,1,0,2,0,0,2.333333333,anti-American
+complessa,1,1,0,0,0,1,0,complex
+ama la libertà,2,0,1,0,0,0,0,loves freedom
+latini,2,0,0,0,0,1,-0.6666666667,Latins
+bonitos,1,0,0,0,0,2,-0.3333333333,bonitos
+individualista,1,1,1,0,0,0,0.6666666667,individualist
+russi,1,0,1,0,1,0,1.666666667,Russians
+scetticismo,1,2,0,0,0,0,0.3333333333,skepticism
+ballano,3,0,0,0,0,0,-1,they dance
+amante del whisky,0,1,0,1,0,1,1.333333333,whiskey lover
+cattedrale,3,0,0,0,0,0,-1,Cathedral
+preti,3,0,0,0,0,0,-1,priests
+caloroso,2,1,0,0,0,0,-0.3333333333,warm
+lingua parlata,3,0,0,0,0,0,-1,spoken language
+amante della moda,2,0,1,0,0,0,0,fashion lover
+cattolici,3,0,0,0,0,0,-1,Catholics
+friuli,3,0,0,0,0,0,-1,Friuli
+estroverso,2,1,0,0,0,0,-0.3333333333,outgoing
+sardo,1,0,1,0,0,1,0.3333333333,Sardinian
+albanesi,1,0,1,1,0,0,1.333333333,Albanians
+asiatico,1,1,0,1,0,0,1,Asian
+igienisti,3,0,0,0,0,0,-1,hygienists
+rustica,1,2,0,0,0,0,0.3333333333,rustic
+alpinista,3,0,0,0,0,0,-1,mountaineer
+sveglia,3,0,0,0,0,0,-1,wakes up
+lingue slave,3,0,0,0,0,0,-1,Slavic languages
+ama il sole,3,0,0,0,0,0,-1,loves the sun
+cani,1,1,0,1,0,0,1,dogs
+calciatore,3,0,0,0,0,0,-1,soccer player
+slovena,1,2,0,0,0,0,0.3333333333,Slovenian
+riservato,2,1,0,0,0,0,-0.3333333333,Reserved
+gatti,3,0,0,0,0,0,-1,cats
+ispanico,2,0,0,0,1,0,0.6666666667,Hispanic
+rilassati,2,0,1,0,0,0,0,take it easy
+parlata,3,0,0,0,0,0,-1,spoken
+festaioli,0,2,1,0,0,0,1.333333333,party people
+lingua ufficiale,3,0,0,0,0,0,-1,official language
+amano il gulash,1,1,1,0,0,0,0.6666666667,they love goulash
+casera,2,0,0,0,0,1,-0.6666666667,dairy
+vino,3,0,0,0,0,0,-1,wine
+montagnoso,3,0,0,0,0,0,-1,mountainous
+parla inglese,3,0,0,0,0,0,-1,speak English
+aborigeni,2,0,1,0,0,0,0,aborigines
+festaiolo,0,2,1,0,0,0,1.333333333,party animal
+alpinisti,3,0,0,0,0,0,-1,Mountain climbers
+serio,3,0,0,0,0,0,-1,serious
+nazisti,0,0,0,0,3,0,4,Nazis
+iberico,3,0,0,0,0,0,-1,Iberian
+efficiente,3,0,0,0,0,0,-1,efficient
+amo leggere,3,0,0,0,0,0,-1,I love reading
+poco turistica,1,2,0,0,0,0,0.3333333333,not very touristy
+burberi,0,0,0,3,0,0,3,gruff
+fiume,3,0,0,0,0,0,-1,river
+suonatore,3,0,0,0,0,0,-1,player
+ignoranti,0,0,0,2,1,0,3.333333333,ignorant
+tatari,1,0,1,0,0,1,0.3333333333,Tatars
+torre,3,0,0,0,0,0,-1,tower
+ama la vodka,0,1,1,1,0,0,2,loves vodka
+montana,3,0,0,0,0,0,-1,Montana
+buoni formaggi,3,0,0,0,0,0,-1,good cheeses
+educati,3,0,0,0,0,0,-1,educated
+montagna,3,0,0,0,0,0,-1,mountain
+scultore,3,0,0,0,0,0,-1,sculptor
+genocida,0,0,0,0,3,0,4,genocidal
+a cavallo,3,0,0,0,0,0,-1,on horseback
+silenziosi,2,1,0,0,0,0,-0.3333333333,silent
+superficiali,0,1,0,2,0,0,2.333333333,superficial
+intrepido,3,0,0,0,0,0,-1,intrepid
+eroe,3,0,0,0,0,0,-1,hero
+enzima,3,0,0,0,0,0,-1,enzyme
+parlano swahili,3,0,0,0,0,0,-1,they speak Swahili
+scandinavi,3,0,0,0,0,0,-1,Scandinavians
+ospitali,3,0,0,0,0,0,-1,hospitable
+buongustai,2,1,0,0,0,0,-0.3333333333,gourmets
+católico,2,0,0,0,0,1,-0.6666666667,catholic
+scandinavo,3,0,0,0,0,0,-1,Scandinavian
+mafia,0,0,0,0,3,0,4,mafia
+amoroso,3,0,0,0,0,0,-1,loving
+amore per il denaro,0,1,2,0,0,0,1.666666667,love of money
+neutrale,2,1,0,0,0,0,-0.3333333333,neutral
+piccoli,1,1,0,0,0,1,0,little ones
+mafiosa,0,0,0,0,3,0,4,mafia
+religiosa,2,1,0,0,0,0,-0.3333333333,religious
+lingua slava,3,0,0,0,0,0,-1,Slavic language
+loquaci,1,2,0,0,0,0,0.3333333333,talkative
+denso,3,0,0,0,0,0,-1,dense
+ostinato,1,1,0,1,0,0,1,stubborn
+idiomatoso,2,0,0,0,0,1,-0.6666666667,idiomatous
+suono,3,0,0,0,0,0,-1,sound
+capitalisti,0,0,3,0,0,0,2,capitalists
+mangiata,3,0,0,0,0,0,-1,eaten
+musulmana,1,0,1,0,1,0,1.666666667,Muslim
+montagne,3,0,0,0,0,0,-1,mountains
+britannico,3,0,0,0,0,0,-1,British
+laguna,3,0,0,0,0,0,-1,lagoon
+macho,0,1,2,0,0,0,1.666666667,macho
+isolano,0,3,0,0,0,0,1,islander
+squillare,3,0,0,0,0,0,-1,ring
+surfisti,3,0,0,0,0,0,-1,surfers
+parla toscano,2,1,0,0,0,0,-0.3333333333,speaks Tuscan
+amano il cioccolato,2,1,0,0,0,0,-0.3333333333,they love chocolate
+tradizionalisti,1,2,0,0,0,0,0.3333333333,traditionalists
+chiusi,1,0,1,1,0,0,1.333333333,closed
+birra,3,0,0,0,0,0,-1,beer
+agricoltura,3,0,0,0,0,0,-1,agriculture
+buddista,2,1,0,0,0,0,-0.3333333333,Buddhist
+simpatica,3,0,0,0,0,0,-1,friendly
+pirata,0,0,0,2,1,0,3.333333333,pirate
+comida,1,0,0,0,0,2,-0.3333333333,comida
+tirchi,0,0,0,3,0,0,3,stingy
+parlano maltese,3,0,0,0,0,0,-1,they speak Maltese
+tè,3,0,0,0,0,0,-1,you
+magiaro,2,0,1,0,0,0,0,Magyar
+tifoso della lazio,3,0,0,0,0,0,-1,Lazio fan
+sbalordito,3,0,0,0,0,0,-1,stunned
+fiammingo,3,0,0,0,0,0,-1,Flemish
+francese,2,1,0,0,0,0,-0.3333333333,French
+egoista,0,0,1,1,1,0,3,selfish
+autonomisti,1,1,1,0,0,0,0.6666666667,autonomists
+mangiatore di piadina,0,3,0,0,0,0,1,piadina eater
+terroristi,0,0,0,0,3,0,4,terrorists
+amante del vino,1,2,0,0,0,0,0.3333333333,wine lover
+avari,0,0,1,2,0,0,2.666666667,stingy
+ribelli,0,2,0,1,0,0,1.666666667,rebels
+escursionisti,3,0,0,0,0,0,-1,hikers
+amante del tè,3,0,0,0,0,0,-1,tea lover
+separatisti,0,2,1,0,0,0,1.333333333,separatists
+xenofobico,0,0,0,0,3,0,4,xenophobic
+terrorista,0,0,0,0,3,0,4,terrorist
+gentili,3,0,0,0,0,0,-1,kind
+amano il mare,3,0,0,0,0,0,-1,they love the sea
+oscuri,0,2,1,0,0,0,1.333333333,dark
+scortese,0,0,1,2,0,0,2.666666667,rude
+lavoratori domestici,1,2,0,0,0,0,0.3333333333,domestic workers
+curry,3,0,0,0,0,0,-1,curry
+ultrà,1,0,1,1,0,0,1.333333333,ultra
+dolce,3,0,0,0,0,0,-1,Sweet
+contadini,1,1,1,0,0,0,0.6666666667,farmers
+fluente,2,1,0,0,0,0,-0.3333333333,flowing
+ospitale,3,0,0,0,0,0,-1,hospitable
+sentimentale,2,1,0,0,0,0,-0.3333333333,sentimental
+impulsivi,0,2,1,0,0,0,1.333333333,impulsive
+autoritari,1,0,1,1,0,0,1.333333333,authoritarian
+famosa,3,0,0,0,0,0,-1,famous
+ombrosa,1,0,2,0,0,0,1,shady
+vaticano,2,1,0,0,0,0,-0.3333333333,Vatican
+manichini,1,2,0,0,0,0,0.3333333333,mannequins
+attore,2,1,0,0,0,0,-0.3333333333,actor
+bravi nella filosofia,3,0,0,0,0,0,-1,good at philosophy
+mangiano pesce,2,0,0,1,0,0,0.3333333333,they eat fish
+fa rumore,0,3,0,0,0,0,1,It makes noise
+attrice,2,1,0,0,0,0,-0.3333333333,actress
+arrampicatore,0,2,1,0,0,0,1.333333333,climber
+inventore,2,1,0,0,0,0,-0.3333333333,inventor
+obeso,0,0,1,2,0,0,2.666666667,obese
+ama la cultura,3,0,0,0,0,0,-1,loves culture
+lingua romantica,3,0,0,0,0,0,-1,romantic language
+hablado,1,0,0,0,0,2,-0.3333333333,hablado
+contadino,1,1,0,1,0,0,1,farmer
+ordinato,3,0,0,0,0,0,-1,tidy
+razzista,0,0,0,0,3,0,4,racist
+alpina,3,0,0,0,0,0,-1,alpine
+fumatori,2,1,0,0,0,0,-0.3333333333,smokers
+criminali,0,0,0,0,3,0,4,criminals
+siberiano,3,0,0,0,0,0,-1,Siberian
+magrebini,1,1,0,1,0,0,1,North Africans
+profughi,1,1,0,1,0,0,1,refugees
+azienda,3,0,0,0,0,0,-1,agency
+indipendentisti,1,2,0,0,0,0,0.3333333333,independentists
+dittatura,0,1,0,1,1,0,2.666666667,dictatorship
+sarda,2,1,0,0,0,0,-0.3333333333,Sardinian
+rigido,1,1,1,0,0,0,0.6666666667,rigid
+espatriati,1,2,0,0,0,0,0.3333333333,expatriates
+bosco,3,0,0,0,0,0,-1,woods
+scomparire,3,0,0,0,0,0,-1,to disappear
+amante del tango,2,1,0,0,0,0,-0.3333333333,tango lover
+matematico,3,0,0,0,0,0,-1,mathematical
+pellerossa,1,1,0,1,0,0,1,redskin
+squillanti,3,0,0,0,0,0,-1,ringing
+intraprendente,3,0,0,0,0,0,-1,enterprising
+arcaica,0,3,0,0,0,0,1,archaic
+pulita,3,0,0,0,0,0,-1,clean
+rotonda,1,1,0,0,0,1,0,roundabout
+dialetto,3,0,0,0,0,0,-1,dialect
+culturista,3,0,0,0,0,0,-1,bodybuilder
+latino,3,0,0,0,0,0,-1,Latin
+agricola,2,0,1,0,0,0,0,agricultural
+trentino,3,0,0,0,0,0,-1,Trentino
+lezione,3,0,0,0,0,0,-1,lesson
+mangiatori di pasta,1,0,1,1,0,0,1.333333333,pasta eaters
+libertà,2,1,0,0,0,0,-0.3333333333,freedom
+amo la vodka,2,1,0,0,0,0,-0.3333333333,I love vodka
+parlano croato,2,1,0,0,0,0,-0.3333333333,they speak Croatian
+cannibali,0,0,0,0,3,0,4,cannibals
+parlano veloce,1,2,0,0,0,0,0.3333333333,they speak fast
+practical,1,0,0,0,0,2,-0.3333333333,practical
+scalatore,3,0,0,0,0,0,-1,climber
+allegre,2,0,1,0,0,0,0,happy
+iperattivi,0,2,1,0,0,0,1.333333333,hyperactive
+melodioso,3,0,0,0,0,0,-1,melodious
+bella,3,0,0,0,0,0,-1,Pretty
+liberi,3,0,0,0,0,0,-1,free
+campanilista,0,1,1,1,0,0,2,parochial
+puntualità,3,0,0,0,0,0,-1,punctuality
+vini,3,0,0,0,0,0,-1,wines
+amante della danza,2,1,0,0,0,0,-0.3333333333,dance lover
+britannici,3,0,0,0,0,0,-1,British
+arabo,1,0,0,2,0,0,1.666666667,Arabic
+puliti,3,0,0,0,0,0,-1,clean
+terrone,0,0,0,0,3,0,4,southerner
+stoici,3,0,0,0,0,0,-1,stoics
+focosa,1,1,0,1,0,0,1,fiery
+squadra di calcio,3,0,0,0,0,0,-1,soccer team
+moscovita,1,1,0,1,0,0,1,Muscovite
+rigidi,0,3,0,0,0,0,1,rigid
+rivoluzionari,2,0,1,0,0,0,0,revolutionaries
+veneto,2,1,0,0,0,0,-0.3333333333,Veneto
+autonomi,2,1,0,0,0,0,-0.3333333333,autonomous
+vescovo,3,0,0,0,0,0,-1,bishop
+elegante,3,0,0,0,0,0,-1,elegant
+fiorentina,3,0,0,0,0,0,-1,Florentine
+simpatico,3,0,0,0,0,0,-1,friendly
+religione buddista,3,0,0,0,0,0,-1,Buddhist religion
+laboriose,3,0,0,0,0,0,-1,hardworking
+germanofoni,1,2,0,0,0,0,0.3333333333,German speakers
+criativo,2,0,0,0,0,1,-0.6666666667,creative
+bravi a sciare,3,0,0,0,0,0,-1,good at skiing
+formaggio,3,0,0,0,0,0,-1,cheese
+squillante,3,0,0,0,0,0,-1,ringing
+democratici,3,0,0,0,0,0,-1,Democrats
+ambiziosi,2,1,0,0,0,0,-0.3333333333,ambitious
+allegro,2,0,1,0,0,0,0,cheerful
+apasionado,1,0,0,0,0,2,-0.3333333333,passionate
+ebraico,3,0,0,0,0,0,-1,Jewish
+ebrei,1,1,0,0,1,0,1.333333333,Jews
+greci,3,0,0,0,0,0,-1,Greeks
+politico,3,0,0,0,0,0,-1,politic
+inglese,3,0,0,0,0,0,-1,English
+anglofono,3,0,0,0,0,0,-1,English-speaking
+entusiasta,3,0,0,0,0,0,-1,enthusiastic
+formale,3,0,0,0,0,0,-1,formal
+romantico,3,0,0,0,0,0,-1,romantic
+organizzazione,3,0,0,0,0,0,-1,organization
+marinaio,3,0,0,0,0,0,-1,sailor Man
+atleta,3,0,0,0,0,0,-1,athlete
+formali,3,0,0,0,0,0,-1,formal
+puntuali,3,0,0,0,0,0,-1,punctual
+montagnosa,3,0,0,0,0,0,-1,mountainous
+scura,1,0,1,1,0,0,1.333333333,dark
+protestanti,3,0,0,0,0,0,-1,Protestants
+testardi,0,1,1,1,0,0,2,stubborn
+parlano velocemente,2,1,0,0,0,0,-0.3333333333,they speak quickly
+ricchi,2,1,0,0,0,0,-0.3333333333,rich
+fonetico,3,0,0,0,0,0,-1,phonetic
+ombrosi,1,2,0,0,0,0,0.3333333333,shady
+amante del formaggio,3,0,0,0,0,0,-1,cheese lover
+sfacciato,0,0,2,1,0,0,2.333333333,cheeky
+amanti della buona cucina,2,0,1,0,0,0,0,lovers of good food
+aggressivo,0,0,1,1,1,0,3,aggressive
+romanisti,3,0,0,0,0,0,-1,Romanists
+negrito,0,0,0,0,2,1,2.666666667,negrito
+sveglio,3,0,0,0,0,0,-1,I wake
+arrampicatori,0,1,1,1,0,0,2,climbers
+inglesi,3,0,0,0,0,0,-1,English
+taiwanesi,3,0,0,0,0,0,-1,Taiwanese
+solido,3,0,0,0,0,0,-1,solid
+lussureggiante,2,1,0,0,0,0,-0.3333333333,lush
+nazista,0,0,0,0,3,0,4,Nazi
+gesticolatori,1,2,0,0,0,0,0.3333333333,gesticulators
+duro,2,0,1,0,0,0,0,hard
+golosoni,1,1,1,0,0,0,0.6666666667,greedy
+egocentrici,0,0,1,2,0,0,2.666666667,egocentric
+zingari,0,1,0,1,1,0,2.666666667,gypsies
+spaghetti,3,0,0,0,0,0,-1,spaghetti
+cosmopoliti,2,1,0,0,0,0,-0.3333333333,cosmopolitans
+ama il tè,3,0,0,0,0,0,-1,loves tea
+capitale,3,0,0,0,0,0,-1,capital
+parlano spagnolo,3,0,0,0,0,0,-1,they speak Spanish
+turistico,2,1,0,0,0,0,-0.3333333333,tourist
+musulmano,1,0,0,1,1,0,2,Mussulman
+zingaro,0,1,0,1,1,0,2.666666667,gypsy
+tollerante,3,0,0,0,0,0,-1,tolerant
+regione,3,0,0,0,0,0,-1,region
+madrelingua,3,0,0,0,0,0,-1,native language
+scuri,1,1,1,0,0,0,0.6666666667,dark
+pescatori,2,0,1,0,0,0,0,fishermen
+generose,2,1,0,0,0,0,-0.3333333333,generous
+carismatici,3,0,0,0,0,0,-1,charismatic
+traditori,0,0,1,2,0,0,2.666666667,traitors
+insulare,3,0,0,0,0,0,-1,insular
+cortesi,3,0,0,0,0,0,-1,courteous
+simpático,3,0,0,0,0,0,-1,friendly
+bevitori,0,1,2,0,0,0,1.666666667,drinkers
+testarda,0,1,1,1,0,0,2,stubborn
+lingua antica,3,0,0,0,0,0,-1,ancient language
+sensuale,2,1,0,0,0,0,-0.3333333333,sensual
+orologio,3,0,0,0,0,0,-1,clock
+invadenti,0,1,1,0,1,0,2.333333333,intrusive
+educato,3,0,0,0,0,0,-1,educated
+trabalhador,1,0,0,0,0,2,-0.3333333333,trabalhador
+raffinato,2,0,1,0,0,0,0,refined
+mafioso,0,0,0,0,3,0,4,mafia
+whisky,3,0,0,0,0,0,-1,whiskey
+pasta,3,0,0,0,0,0,-1,pasta
+tifosi della lazio,3,0,0,0,0,0,-1,Lazio fans
+lingua madre,3,0,0,0,0,0,-1,native language
+ambizioso,2,1,0,0,0,0,-0.3333333333,ambitious
+appassionati di calcio,3,0,0,0,0,0,-1,football fans
+frugali,2,0,1,0,0,0,0,frugal them
+amano ballare,2,1,0,0,0,0,-0.3333333333,they love to dance
+rifugiato,1,1,1,0,0,0,0.6666666667,refugee
+a roma,3,0,0,0,0,0,-1,in Rome
+albanese,1,1,0,1,0,0,1,Albanian
+lingua più parlata,3,0,0,0,0,0,-1,most spoken language
+viennese,3,0,0,0,0,0,-1,Viennese
+parlato in tutto il mondo,3,0,0,0,0,0,-1,spoken all over the world
+vincente,3,0,0,0,0,0,-1,winning
+temperamentale,2,1,0,0,0,0,-0.3333333333,temperamental
+bravi nel baseball,3,0,0,0,0,0,-1,good at baseball
+colazione,3,0,0,0,0,0,-1,breakfast
+timido,1,2,0,0,0,0,0.3333333333,shy
+pelle scura,1,0,1,0,1,0,1.666666667,dark skin
+amore per la danza,2,1,0,0,0,0,-0.3333333333,love for dance
+pragmatico,3,0,0,0,0,0,-1,pragmatic
+civilizzati,2,0,0,1,0,0,0.3333333333,civilized
+spensierata,2,0,1,0,0,0,0,carefree
+saggia,2,1,0,0,0,0,-0.3333333333,wise
+abissino,2,0,0,0,0,1,-0.6666666667,Abyssinian
+neutralità,3,0,0,0,0,0,-1,neutrality
+calcarea,3,0,0,0,0,0,-1,calcareous
+otaku,1,0,0,1,0,1,0.6666666667,otaku
+ungherese,3,0,0,0,0,0,-1,Hungarian
+abitanti dell'isola di taiwan,3,0,0,0,0,0,-1,inhabitants of the island of Taiwan
+lingua romanza,3,0,0,0,0,0,-1,Romance language
+protestante,2,0,1,0,0,0,0,Protestant
+santi,2,1,0,0,0,0,-0.3333333333,saints
+scoraggiati,2,1,0,0,0,0,-0.3333333333,discouraged
+rilassante,3,0,0,0,0,0,-1,relaxing
+romano,3,0,0,0,0,0,-1,Roman
+repressivo,0,0,1,1,1,0,3,repressive
+buddisti,3,0,0,0,0,0,-1,Buddhists
+religiosi,2,1,0,0,0,0,-0.3333333333,religious
+narcotrafficanti,0,0,0,0,3,0,4,drug traffickers
+ebreo,1,0,0,1,1,0,2,Jew
+arroganti,0,0,1,2,0,0,2.666666667,arrogant
+italiano,3,0,0,0,0,0,-1,Italian
+focoso,2,0,0,1,0,0,0.3333333333,fiery
+generosa,3,0,0,0,0,0,-1,generous
+artistici,3,0,0,0,0,0,-1,artistic
+sardegna,3,0,0,0,0,0,-1,Sardinia
+avanti,3,0,0,0,0,0,-1,after you
+meridionale,1,0,0,2,0,0,1.666666667,southern
+sciatore,3,0,0,0,0,0,-1,skier
+mangiatore di olive,3,0,0,0,0,0,-1,olive eater
+violento,0,0,1,0,2,0,3.333333333,violent
+magra,2,1,0,0,0,0,-0.3333333333,thin
+senza coda,3,0,0,0,0,0,-1,without tail
+parla friulano,3,0,0,0,0,0,-1,speaks Friulian
+flessibile,3,0,0,0,0,0,-1,flexible
+bellissimi,3,0,0,0,0,0,-1,beautiful
+campanile,3,0,0,0,0,0,-1,Bell tower
+appassionato,3,0,0,0,0,0,-1,passionate
+biondo,3,0,0,0,0,0,-1,blond
+abitudinari,1,2,0,0,0,0,0.3333333333,creatures of habit
+intelligente,3,0,0,0,0,0,-1,intelligent
+corridori,3,0,0,0,0,0,-1,runners
+passione,3,0,0,0,0,0,-1,passion
+vestiti eleganti,3,0,0,0,0,0,-1,elegant clothes
+ricco,3,0,0,0,0,0,-1,rich
+mangiatori di taco,1,1,0,1,0,0,1,taco eaters
+architettura,3,0,0,0,0,0,-1,architecture
+baltico,3,0,0,0,0,0,-1,Baltic
+comunicativo,3,0,0,0,0,0,-1,communicative
+suona,3,0,0,0,0,0,-1,it sounds
+organizzati,3,0,0,0,0,0,-1,organized
+chiesa,3,0,0,0,0,0,-1,church
+rifugiati,1,0,2,0,0,0,1,refugees
+coccolosi,3,0,0,0,0,0,-1,cuddly
+suonare,3,0,0,0,0,0,-1,play
+gesticolare,3,0,0,0,0,0,-1,gesticulate
+parlato,3,0,0,0,0,0,-1,spoke
+oppressi,1,0,1,1,0,0,1.333333333,oppressed
+creolo,3,0,0,0,0,0,-1,Creole
+amano il rugby,3,0,0,0,0,0,-1,they love rugby
+calda,2,0,0,1,0,0,0.3333333333,hot
+industrializzato,3,0,0,0,0,0,-1,industrialized
+scettici,0,3,0,0,0,0,1,skeptics
+musica classica,3,0,0,0,0,0,-1,classic music
+presente,3,0,0,0,0,0,-1,present
+pastori,2,0,0,1,0,0,0.3333333333,shepherds
+come i francesi,1,1,1,0,0,0,0.6666666667,like the French
+parigino,2,0,1,0,0,0,0,Parisian
+ama leggere,2,1,0,0,0,0,-0.3333333333,loves to read
+superstiziosi,0,1,2,0,0,0,1.666666667,superstitious
+mediterraneo,3,0,0,0,0,0,-1,Mediterranean
+amante del fast food,2,0,0,1,0,0,0.3333333333,fast food lover
+nero,1,1,0,0,1,0,1.333333333,black
+lusitano,3,0,0,0,0,0,-1,Lusitanian
+festosi,2,1,0,0,0,0,-0.3333333333,festive
+islandese,3,0,0,0,0,0,-1,Icelandic
+castigliano,3,0,0,0,0,0,-1,Castilian
+veloci,3,0,0,0,0,0,-1,fast
+fumatore,1,1,1,0,0,0,0.6666666667,smoker
+mangia piadina,1,2,0,0,0,0,0.3333333333,eat piadina
+affettuosi,2,0,1,0,0,0,0,lovely
+biancoceleste,3,0,0,0,0,0,-1,white and blue
+mangiatore di peperoncino,3,0,0,0,0,0,-1,chili pepper eater
+maratoneta,3,0,0,0,0,0,-1,marathon runner
+abitante del venezuela,3,0,0,0,0,0,-1,inhabitant of Venezuela
+altezzoso,0,0,2,1,0,0,2.333333333,haughty
+cortese,3,0,0,0,0,0,-1,courteous
+ama la montagna,3,0,0,0,0,0,-1,loves the mountains
+montano,3,0,0,0,0,0,-1,mountain
+monarchia,3,0,0,0,0,0,-1,monarchy
+gentile,3,0,0,0,0,0,-1,Kind
+patriottico,3,0,0,0,0,0,-1,patriotic
+amano il risotto,3,0,0,0,0,0,-1,they love risotto
+sfacciata,0,0,2,1,0,0,2.333333333,cheeky
+timida,1,2,0,0,0,0,0.3333333333,shy
+fanatici,0,0,0,2,1,0,3.333333333,fanatics
+amante del buon cibo,2,1,0,0,0,0,-0.3333333333,lover of good food
+vodka,3,0,0,0,0,0,-1,vodka
+oscuro,1,2,0,0,0,0,0.3333333333,dark
+vacanziero,2,1,0,0,0,0,-0.3333333333,holidaymaker
+scelti,3,0,0,0,0,0,-1,chosen
+riservati,2,1,0,0,0,0,-0.3333333333,reserved
+scoppiare,2,0,0,0,1,0,0.6666666667,burst
+avaro,0,0,1,2,0,0,2.666666667,miserly
+biologico,3,0,0,0,0,0,-1,biological
+prepotenti,0,0,0,3,0,0,3,bullies
+mangiatori di lumache,0,2,0,1,0,0,1.666666667,snail eaters
+amano il rum,2,0,1,0,0,0,0,they love rum
+vegetariano,2,1,0,0,0,0,-0.3333333333,vegetarian
+tartari,3,0,0,0,0,0,-1,Tatars
+amore per la cucina,2,1,0,0,0,0,-0.3333333333,love for cooking
+romantica,2,1,0,0,0,0,-0.3333333333,romantic
+severi,1,1,1,0,0,0,0.6666666667,severe
+mangiatori di cinghiali,1,1,1,0,0,0,0.6666666667,boar eaters
+mangiatori di tartufi,3,0,0,0,0,0,-1,truffle eaters
+lunatica,0,1,1,1,0,0,2,Moody
+strumento musicale,3,0,0,0,0,0,-1,musical instrument
+batteri,2,0,0,1,0,0,0.3333333333,bacteria
+laboriosa,3,0,0,0,0,0,-1,hardworking
+alieno,0,1,2,0,0,0,1.666666667,alien
+cinesi,1,1,1,0,0,0,0.6666666667,Chinese
+pauroso,0,2,0,1,0,0,1.666666667,scary
+tifosi,2,1,0,0,0,0,-0.3333333333,fans
+laboriosi,3,0,0,0,0,0,-1,hardworking
+mangiatori di porchetta,1,2,0,0,0,0,0.3333333333,porchetta eaters
+surfista,3,0,0,0,0,0,-1,surfer
+mangiano cani,0,0,0,0,3,0,4,they eat dogs
+nazionalista,0,3,0,0,0,0,1,nationalist
+bravi a mangiare,2,1,0,0,0,0,-0.3333333333,good at eating
+tranquillo,3,0,0,0,0,0,-1,Calm
+hutu,2,0,0,0,0,1,-0.6666666667,Hutu
+parlano umbro,2,1,0,0,0,0,-0.3333333333,they speak Umbrian
+consumista,0,1,1,1,0,0,2,consumerist
+albero,3,0,0,0,0,0,-1,tree
+bevitore,0,1,0,2,0,0,2.333333333,drinker
+preciso,3,0,0,0,0,0,-1,accurate
+superficiale,1,1,1,0,0,0,0.6666666667,superficial
+suonano,2,1,0,0,0,0,-0.3333333333,they play
+terra fertile,2,0,1,0,0,0,0,fertile land
+xenofobi,0,0,0,0,3,0,4,xenophobic
+educazione,3,0,0,0,0,0,-1,education
+pessimisti,0,1,1,1,0,0,2,pessimists
+montanara,1,2,0,0,0,0,0.3333333333,mountain girl
+egoisti,0,0,2,0,1,0,2.666666667,selfish
+azero,2,0,0,0,0,1,-0.6666666667,Azeri
+parlano catalano,3,0,0,0,0,0,-1,they speak Catalan
+prussiano,3,0,0,0,0,0,-1,Prussian
+taciturni,1,2,0,0,0,0,0.3333333333,taciturn
+organismi,3,0,0,0,0,0,-1,organisms
+carina,3,0,0,0,0,0,-1,nice
+vivono in un'isola,2,1,0,0,0,0,-0.3333333333,they live on an island
+amantes del vino,3,0,0,0,0,0,-1,wine lovers
+affidabile,3,0,0,0,0,0,-1,reliable
+tango,3,0,0,0,0,0,-1,tango
+eleganti,3,0,0,0,0,0,-1,elegant
+parla portoghese,3,0,0,0,0,0,-1,speak Portuguese
+allegra,2,0,1,0,0,0,0,cheerful
+artista,2,1,0,0,0,0,-0.3333333333,artist
+comunista,1,0,1,0,1,0,1.666666667,Communist
+mangia peperoncino,3,0,0,0,0,0,-1,eat chili pepper
+avventurosi,3,0,0,0,0,0,-1,adventurous
+guerriero,1,1,0,0,0,1,0,warrior
+nomadismo,1,0,1,1,0,0,1.333333333,nomadism
+agricoltore,2,0,0,1,0,0,0.3333333333,farmer
+amante del baseball,3,0,0,0,0,0,-1,baseball lover
+numerosi,2,0,1,0,0,0,0,numerous
+ingegnere,2,1,0,0,0,0,-0.3333333333,engineer
+bravi nello sci di fondo,3,0,0,0,0,0,-1,good at cross-country skiing
+amante del flamenco,2,1,0,0,0,0,-0.3333333333,lover of flamenco
+rumoroso,0,1,2,0,0,0,1.666666667,noisy
+montuosa,3,0,0,0,0,0,-1,mountainous
+arrogante,0,0,2,1,0,0,2.333333333,arrogant
+amante del surf,3,0,0,0,0,0,-1,lover of surfing
+romanista,3,0,0,0,0,0,-1,Romanist
+freddo,0,1,1,1,0,0,2,Freddo
+allenatore di calcio,3,0,0,0,0,0,-1,football coach
+sportivi,3,0,0,0,0,0,-1,sportsmen
+thailandesi,2,0,1,0,0,0,0,Thais
+come la pizza,3,0,0,0,0,0,-1,like pizza
+parla una lingua slava,2,1,0,0,0,0,-0.3333333333,speaks a Slavic language
+nazionalisti,1,2,0,0,0,0,0.3333333333,nationalists
+freddi,0,1,2,0,0,0,1.666666667,cold
+fanatico,0,1,0,1,1,0,2.666666667,fanatic
+affettuoso,2,1,0,0,0,0,-0.3333333333,loving
+ultras,1,1,1,0,0,0,0.6666666667,ultras
+estroversa,2,0,1,0,0,0,0,extroverted
+maratoneti,3,0,0,0,0,0,-1,marathon runners
+rivoluzionario,1,1,0,0,0,1,0,revolutionary
+capitalista,0,1,2,0,0,0,1.666666667,capitalist
+permalosi,0,2,0,1,0,0,1.666666667,touchy
+parla tedesco,2,1,0,0,0,0,-0.3333333333,speaks German
+grandi,3,0,0,0,0,0,-1,large
+tedesca,3,0,0,0,0,0,-1,German
+tradizionalista,1,1,1,0,0,0,0.6666666667,traditionalist
+birraioli,0,2,0,1,0,0,1.666666667,brewers
+amano il tango,2,1,0,0,0,0,-0.3333333333,they love tango
+chiacchierone,0,1,2,0,0,0,1.666666667,talkative
+montanaro,2,1,0,0,0,0,-0.3333333333,mountain man
+affidabili,3,0,0,0,0,0,-1,reliable
+cristiano,3,0,0,0,0,0,-1,Christian
+sportivo,3,0,0,0,0,0,-1,sporty
+ballo popolare,3,0,0,0,0,0,-1,popular dance
+gesticolanti,1,2,0,0,0,0,0.3333333333,gesticulating
+amante della pasta,1,2,0,0,0,0,0.3333333333,pasta lover
+selvaggio,0,0,0,2,1,0,3.333333333,wild
+torero,3,0,0,0,0,0,-1,bullfighter
+appassionata,3,0,0,0,0,0,-1,passionate
+ama la musica classica,2,1,0,0,0,0,-0.3333333333,loves classical music
+mangiatore di rane,0,1,2,0,0,0,1.666666667,frog eater
+verticale,3,0,0,0,0,0,-1,vertical
+amano il tè,3,0,0,0,0,0,-1,they love tea
+brevi,3,0,0,0,0,0,-1,short
+simpatiche,3,0,0,0,0,0,-1,nice
+amanti del karaoke,2,1,0,0,0,0,-0.3333333333,karaoke lovers
+pastore,2,0,0,1,0,0,0.3333333333,shepherd
+mediterranei,3,0,0,0,0,0,-1,Mediterranean
+ama il baseball,3,0,0,0,0,0,-1,loves baseball
+colto,3,0,0,0,0,0,-1,cultured
+francobolli,3,0,0,0,0,0,-1,stamps
+pettegole,0,0,1,1,1,0,3,gossips
+russo,2,0,0,0,1,0,0.6666666667,Russian
+polinesiani,3,0,0,0,0,0,-1,Polynesians
+mangiatori di cinghiale,1,1,1,0,0,0,0.6666666667,boar eaters
+romani,3,0,0,0,0,0,-1,Romans
+italiana,3,0,0,0,0,0,-1,Italian
+germanica,3,0,0,0,0,0,-1,Germanic
+scettico,0,3,0,0,0,0,1,sceptical
+gelosa,0,2,1,0,0,0,1.333333333,jealous
+calcio,3,0,0,0,0,0,-1,soccer
+alegre,2,0,0,0,0,1,-0.6666666667,happy
+ribelle,0,1,2,0,0,0,1.666666667,rebel
+pacifici,3,0,0,0,0,0,-1,peaceful
+irlandese,3,0,0,0,0,0,-1,Irish
+poeta,3,0,0,0,0,0,-1,poet
+grassoni,0,0,0,1,2,0,3.666666667,fat people
+parlano ligure,3,0,0,0,0,0,-1,they speak Ligurian
+mangiavano carne cruda,1,1,1,0,0,0,0.6666666667,they ate raw meat
+amano il gulasch,2,1,0,0,0,0,-0.3333333333,they love goulash
+falace,2,1,0,0,0,0,-0.3333333333,phalax
+lunatici,0,1,1,1,0,0,2,lunatics
+tedesco,3,0,0,0,0,0,-1,German
+saggio,3,0,0,0,0,0,-1,wise
+agricoltori,2,0,1,0,0,0,0,farmers
+mangiatore di porceddu,0,2,0,0,0,1,0.6666666667,pig eater
+aperti,2,1,0,0,0,0,-0.3333333333,open
+servitore,0,0,1,2,0,0,2.666666667,servant
+impulsivo,0,2,1,0,0,0,1.333333333,impulsive
+taciturno,2,1,0,0,0,0,-0.3333333333,taciturn
+grassocci,0,0,1,2,0,0,2.666666667,plump
+austriaci,3,0,0,0,0,0,-1,Austrians
+mangiano pasta,2,1,0,0,0,0,-0.3333333333,they eat pasta
+laborioso,3,0,0,0,0,0,-1,labour intensive
+suona il campanello,2,0,1,0,0,0,0,the bell rings
+competitivi,2,1,0,0,0,0,-0.3333333333,competitive
+germanici,2,1,0,0,0,0,-0.3333333333,Germanic
+scurissimo,1,0,1,1,0,0,1.333333333,very dark
+anglosassone,3,0,0,0,0,0,-1,Anglo-Saxon
+egocentrico,0,1,1,1,0,0,2,attention seeker
+terra di vino,3,0,0,0,0,0,-1,land of wine
+frugale,2,0,0,1,0,0,0.3333333333,frugal
+dittatoriali,0,0,0,1,2,0,3.666666667,dictatorial
+austriaca,3,0,0,0,0,0,-1,Austrian
+oscurità,2,0,1,0,0,0,0,darkness
+amante della pizza,3,0,0,0,0,0,-1,pizza lover
+insular,2,0,0,0,0,1,-0.6666666667,insular
+comunisti,1,0,1,0,1,0,1.666666667,communists
+saggi,3,0,0,0,0,0,-1,essays
+sloveno,3,0,0,0,0,0,-1,Slovenian
+grande,3,0,0,0,0,0,-1,great
+malvagio,0,0,0,0,3,0,4,evil
+persiani,3,0,0,0,0,0,-1,Persians
+pelosi,1,1,1,0,0,0,0.6666666667,hairy
+rustico,1,2,0,0,0,0,0.3333333333,rustic
+scalatori,3,0,0,0,0,0,-1,climbers
+africano,1,0,2,0,0,0,1,African
+amanti della pizza,3,0,0,0,0,0,-1,pizza lovers
+amano la fontina,3,0,0,0,0,0,-1,they love fontina
+musulmani,1,0,0,1,1,0,2,Muslims
+conceited,0,0,0,1,0,2,1,conceived
+chiacchieroni,0,1,1,1,0,0,2,talkers
+turisti,2,1,0,0,0,0,-0.3333333333,tourists
+arte,3,0,0,0,0,0,-1,art
+cosmopolita,3,0,0,0,0,0,-1,cosmopolitan
+caldi,2,1,0,0,0,0,-0.3333333333,warm
+parla italiano,3,0,0,0,0,0,-1,speak Italian
+isolani,2,1,0,0,0,0,-0.3333333333,islanders
+arabi,1,0,1,1,0,0,1.333333333,Arabs
+meridionali,1,0,0,2,0,0,1.666666667,southern
+ordinati,3,0,0,0,0,0,-1,sorted
+amante della cucina,2,1,0,0,0,0,-0.3333333333,cooking lover
+aggressivi,0,0,1,2,0,0,2.666666667,aggressive
+galo,1,0,0,0,0,2,-0.3333333333,galo
+amante della libertà,2,1,0,0,0,0,-0.3333333333,lover of freedom
+amano il fast food,1,2,0,0,0,0,0.3333333333,they love fast food
+mangiano la bistecca,3,0,0,0,0,0,-1,they eat steak
+orgoglioso,2,0,0,0,0,1,-0.6666666667,proud
+avvocato,2,1,0,0,0,0,-0.3333333333,lawyer
+scarpe,3,0,0,0,0,0,-1,shoes
+passivo,0,1,2,0,0,0,1.666666667,passive
+cattolica,3,0,0,0,0,0,-1,Catholic
+ruidoso,2,0,0,0,0,1,-0.6666666667,rugged
+pesci,3,0,0,0,0,0,-1,fish
+fiero,3,0,0,0,0,0,-1,proud
+biondi,2,1,0,0,0,0,-0.3333333333,blonde
+precisione,3,0,0,0,0,0,-1,precision
+simpatici,3,0,0,0,0,0,-1,nice
+tartan,3,0,0,0,0,0,-1,tartan
+nera,1,0,1,0,1,0,1.666666667,Black
+pizza,3,0,0,0,0,0,-1,Pizza
+ricco di storia,3,0,0,0,0,0,-1,rich in history
+amano il sole,3,0,0,0,0,0,-1,they love the sun
+insulari,3,0,0,0,0,0,-1,insular
+contadina,1,1,0,1,0,0,1,peasant
+grani antichi,3,0,0,0,0,0,-1,ancient grains
+francofono,3,0,0,0,0,0,-1,francophone
+fiore,3,0,0,0,0,0,-1,flower
+fredda,0,2,0,1,0,0,1.666666667,cold
+tedeschi,3,0,0,0,0,0,-1,Germans
+ottimista,3,0,0,0,0,0,-1,optimistic
+surf,3,0,0,0,0,0,-1,surf
+amano il baseball,3,0,0,0,0,0,-1,they love baseball
+mafiosi,0,0,0,0,3,0,4,mafiosi
+di origine italiana,3,0,0,0,0,0,-1,of Italian origin
+schietto,3,0,0,0,0,0,-1,frank
+ignorante,0,0,0,2,1,0,3.333333333,ignorant
+nomadi,1,0,2,0,0,0,1,nomads
+testardo,0,1,1,1,0,0,2,stubborn
+emocional,0,1,0,0,0,2,0.3333333333,emotional
+passionali,3,0,0,0,0,0,-1,passionate
+germanofona,3,0,0,0,0,0,-1,German-speaking
+amante della buona cucina,2,1,0,0,0,0,-0.3333333333,lover of good food
+mediterranea,3,0,0,0,0,0,-1,Mediterranean
+poveri,0,1,1,1,0,0,2,poor
+poetessa,3,0,0,0,0,0,-1,poetess
+svuotata,1,2,0,0,0,0,0.3333333333,empty
+parla ligure,3,0,0,0,0,0,-1,speaks Ligurian
+basilica,3,0,0,0,0,0,-1,basilica
+coreano,3,0,0,0,0,0,-1,Korean
+puntuale,3,0,0,0,0,0,-1,punctual
+scrittore,3,0,0,0,0,0,-1,writer
+narcotrafficante,0,0,0,0,3,0,4,drug trafficker
+scuro,2,0,1,0,0,0,0,dark
+bravi nello sci,3,0,0,0,0,0,-1,good at skiing
+obesi,0,0,1,1,1,0,3,obese
+snob,0,0,1,2,0,0,2.666666667,snob
+ama il mare,3,0,0,0,0,0,-1,loves the sea
+coraggiosa,3,0,0,0,0,0,-1,courageous
+amante della vodka,1,1,1,0,0,0,0.6666666667,Vodka lover
+bravo,3,0,0,0,0,0,-1,good boy
+pedante,0,0,2,0,1,0,2.666666667,pedantic
+buio,3,0,0,0,0,0,-1,dark
+scomoda,0,2,1,0,0,0,1.333333333,uncomfortable
+scontrose,0,0,2,0,1,0,2.666666667,grumpy
+svegliarsi,3,0,0,0,0,0,-1,wake up
+imprenditore,3,0,0,0,0,0,-1,entrepreneur
+responsabili,3,0,0,0,0,0,-1,responsible
+tolleranti,3,0,0,0,0,0,-1,tolerant
+alpini,3,0,0,0,0,0,-1,alpines
+buddhisti,3,0,0,0,0,0,-1,Buddhists
+intraprendenti,3,0,0,0,0,0,-1,enterprising
+sorridente,3,0,0,0,0,0,-1,smiling
+francesi,3,0,0,0,0,0,-1,French
+carioca,3,0,0,0,0,0,-1,carioca
+amante della letteratura,3,0,0,0,0,0,-1,lover of literature
+testoni,0,0,2,1,0,0,2.333333333,big heads
+hamburger,3,0,0,0,0,0,-1,Hamburger
+patriottici,3,0,0,0,0,0,-1,patriotic
+stupidi,0,0,0,1,2,0,3.666666667,stupid
+abbronzati,2,0,0,1,0,0,0.3333333333,tanned
+passato,3,0,0,0,0,0,-1,past
+russofoni,2,0,0,1,0,0,0.3333333333,Russian speakers
+altezza,3,0,0,0,0,0,-1,height
+servili,0,0,1,2,0,0,2.666666667,serve them
+parlano tedesco,3,0,0,0,0,0,-1,they speak German
+montanari,1,2,0,0,0,0,0.3333333333,mountaineers
+spagnoli,3,0,0,0,0,0,-1,Spaniards
+poeti,3,0,0,0,0,0,-1,poets
+ebrea,1,0,0,1,1,0,2,Jewish
+amore per il mare,3,0,0,0,0,0,-1,love for the sea
+pizzaioli,3,0,0,0,0,0,-1,pizza chefs
+lingua,3,0,0,0,0,0,-1,tongue
+baguette,3,0,0,0,0,0,-1,baguette
+veneziano,3,0,0,0,0,0,-1,Venetian
+francofoni,3,0,0,0,0,0,-1,francophones
+abile sciatore,3,0,0,0,0,0,-1,skilled skier
+gastronomica,3,0,0,0,0,0,-1,gastronomic
+conformisti,1,2,0,0,0,0,0.3333333333,conformists
+solare,3,0,0,0,0,0,-1,solar
+orologi,3,0,0,0,0,0,-1,clocks
+intellettuali,3,0,0,0,0,0,-1,intellectuals
+parlato in brasile,3,0,0,0,0,0,-1,spoken in brazil
+greco,3,0,0,0,0,0,-1,Greek
+orgogliosa,1,2,0,0,0,0,0.3333333333,proud
+bellicoso,0,0,0,3,0,0,3,bellicose
+ubriachi,0,0,0,3,0,0,3,drunk
+tenebroso,1,2,0,0,0,0,0.3333333333,dark
+parlata in friuli,3,0,0,0,0,0,-1,spoken in Friuli
+furbo,2,1,0,0,0,0,-0.3333333333,cunning
+romântico,3,0,0,0,0,0,-1,romantic
+lavoratore,3,0,0,0,0,0,-1,worker
+raffinati,2,0,1,0,0,0,0,refined
+drogati,0,0,0,1,2,0,3.666666667,drug addicts
+medi,3,0,0,0,0,0,-1,medium
+caldo,3,0,0,0,0,0,-1,heat
+a campana,3,0,0,0,0,0,-1,bell-shaped
+mangiare con le bacchette,2,1,0,0,0,0,-0.3333333333,eat with chopsticks
+cordiale,3,0,0,0,0,0,-1,friendly
+grasso,0,0,0,2,1,0,3.333333333,fat
+bergamasca,3,0,0,0,0,0,-1,Bergamo
+italiani,3,0,0,0,0,0,-1,Italians
+fiera,3,0,0,0,0,0,-1,fair
+mangiatori di peperoni,3,0,0,0,0,0,-1,pepper eaters
+impulsiva,0,3,0,0,0,0,1,impulsive
+dinamici,3,0,0,0,0,0,-1,dynamic
+gelosi,1,0,2,0,0,0,1,jealous
+femminismo,1,1,0,1,0,0,1,feminism
+pigri,0,0,2,1,0,0,2.333333333,lazy
+formalità,3,0,0,0,0,0,-1,formality
+campanaro,1,1,1,0,0,0,0.6666666667,bell ringer
+pacifisti,3,0,0,0,0,0,-1,pacifists
+tipica,3,0,0,0,0,0,-1,typical
+nomade,1,0,2,0,0,0,1,nomadic
+scontrosi,0,0,1,2,0,0,2.666666667,grumpy
+spensierato,2,1,0,0,0,0,-0.3333333333,carefree
+bravi a ballare,3,0,0,0,0,0,-1,good at dancing
+fidati,3,0,0,0,0,0,-1,trust me
+mangiatori di piadina,1,2,0,0,0,0,0.3333333333,piadina eaters
+filosofi,3,0,0,0,0,0,-1,philosophers
+intellettuale,3,0,0,0,0,0,-1,intellectual
+grassi,0,0,0,3,0,0,3,fats
+luminoso,3,0,0,0,0,0,-1,light
+passionale,3,0,0,0,0,0,-1,passionate
+rossa,2,1,0,0,0,0,-0.3333333333,red
+spirituale,3,0,0,0,0,0,-1,spiritual
+parlato in friuli,3,0,0,0,0,0,-1,spoken in Friuli
+creativi,3,0,0,0,0,0,-1,creative
+tifoso,3,0,0,0,0,0,-1,fan
+oscura,1,1,1,0,0,0,0.6666666667,dark
+filosofo,3,0,0,0,0,0,-1,philosopher
+appassionati,3,0,0,0,0,0,-1,passionate
+sanguigna,1,2,0,0,0,0,0.3333333333,blood
+individualisti,0,2,1,0,0,0,1.333333333,individualists
+turistica,3,0,0,0,0,0,-1,tourist
+romantici,3,0,0,0,0,0,-1,romantic
+ladro,0,0,0,1,2,0,3.666666667,thief
+verde,3,0,0,0,0,0,-1,green
+misterioso,2,1,0,0,0,0,-0.3333333333,mysterious
+meticoloso,3,0,0,0,0,0,-1,meticulous
+isola,3,0,0,0,0,0,-1,island
+religioso,3,0,0,0,0,0,-1,religious
+asiatici,1,0,2,0,0,0,1,Asians
+precisi,3,0,0,0,0,0,-1,precise
+amante della tequila,1,1,1,0,0,0,0.6666666667,tequila lover
+romagnolo,3,0,0,0,0,0,-1,Romagna
+vanitosi,0,2,0,1,0,0,1.666666667,vain
+produttiva,3,0,0,0,0,0,-1,productive
+romanticismo,3,0,0,0,0,0,-1,romance
+amano la pizza,3,0,0,0,0,0,-1,they love pizza
+mangiatori di agnolotti,1,2,0,0,0,0,0.3333333333,agnolotti eaters
+bionda,2,1,0,0,0,0,-0.3333333333,blonde
+sloveni,3,0,0,0,0,0,-1,Slovenians
+emotiva,2,1,0,0,0,0,-0.3333333333,emotional
+efficienza,3,0,0,0,0,0,-1,efficiency
+idiomatico,3,0,0,0,0,0,-1,idiomatic
+ombroso,1,1,1,0,0,0,0.6666666667,shady
+musicisti,3,0,0,0,0,0,-1,musicians
+democratico,3,0,0,0,0,0,-1,democratic
+parla spagnolo,3,0,0,0,0,0,-1,speaks Spanish
+autoritario,0,1,1,0,1,0,2.333333333,authoritarian
+mangiatori di frico,2,0,0,0,0,1,-0.6666666667,frico eaters
+potenti,3,0,0,0,0,0,-1,powerful
+cattolico,3,0,0,0,0,0,-1,Catholic
+cristianesimo,3,0,0,0,0,0,-1,Christianity
+giapponesi,3,0,0,0,0,0,-1,Japanese
+efficienti,3,0,0,0,0,0,-1,efficient
+caliente,2,1,0,0,0,0,-0.3333333333,hot
+amante della corrida,0,3,0,0,0,0,1,bullfighting lover
+loquace,2,1,0,0,0,0,-0.3333333333,talkative
+messicano,3,0,0,0,0,0,-1,Mexican
+amante del denaro,2,1,0,0,0,0,-0.3333333333,lover of money
+insegnamento,3,0,0,0,0,0,-1,teaching
+amano le armi,0,1,1,1,0,0,2,they love guns
+aborigeno,2,0,0,1,0,0,0.3333333333,aboriginal
+calorosa,2,1,0,0,0,0,-0.3333333333,warm
+alfabetico,3,0,0,0,0,0,-1,alphabetical
+apaixonado,2,0,0,0,0,1,-0.6666666667,apaixonado
+tulipani,3,0,0,0,0,0,-1,tulips
+equatoriale,3,0,0,0,0,0,-1,equatorial
+animado,1,0,0,0,0,2,-0.3333333333,animated
+lavoratori,3,0,0,0,0,0,-1,workers
+monti,3,0,0,0,0,0,-1,mountains
+calcare,3,0,0,0,0,0,-1,limestone
+disciplinati,3,0,0,0,0,0,-1,disciplined
+extroverted,1,0,0,0,0,2,-0.3333333333,extroverted
+highlander,3,0,0,0,0,0,-1,highlander
+spirituali,3,0,0,0,0,0,-1,spiritual
+parlato in molti paesi,3,0,0,0,0,0,-1,spoken in many countries
+bellicosi,0,0,0,3,0,0,3,bellicose
+ingenui,1,1,1,0,0,0,0.6666666667,naive
+vivono in isolamento,1,1,1,0,0,0,0.6666666667,they live in isolation
+usano il curry,1,1,1,0,0,0,0.6666666667,they use curry
+buddismo,3,0,0,0,0,0,-1,Buddhism
+giocherellone,3,0,0,0,0,0,-1,playful
+piccolo,0,3,0,0,0,0,1,small
+sconfitti,0,2,1,0,0,0,1.333333333,defeated
+amano la vita all'aria aperta,3,0,0,0,0,0,-1,they love the outdoors
+sarde,3,0,0,0,0,0,-1,sardines
+abile nel rugby,3,0,0,0,0,0,-1,skilled at rugby
+veloce,3,0,0,0,0,0,-1,fast
+sabbie,3,0,0,0,0,0,-1,sands
+samba,3,0,0,0,0,0,-1,samba
+razziatore,0,1,0,1,1,0,2.666666667,raider
+persiano,3,0,0,0,0,0,-1,Persian
+sfinge,3,0,0,0,0,0,-1,sphinx
+siberiani,3,0,0,0,0,0,-1,Siberians
+amano mangiare riso,1,0,2,0,0,0,1,they love to eat rice
+amati,3,0,0,0,0,0,-1,beloved
+abili al tiro con l'arco,3,0,0,0,0,0,-1,skilled in archery
+abile nel tiro con l'arco,3,0,0,0,0,0,-1,skilled in archery
+ciccioni,0,0,0,2,1,0,3.333333333,fatties
+amano la musica classica,2,1,0,0,0,0,-0.3333333333,they love classical music
+bianca,3,0,0,0,0,0,-1,white
+ingegnose,3,0,0,0,0,0,-1,ingenious
+obbediente,0,2,1,0,0,0,1.333333333,obedient
+amano kim jong-un,0,2,0,0,1,0,2,they love kim jong-un
+sbiaditi,1,2,0,0,0,0,0.3333333333,faded
+sradicati,1,0,1,1,0,0,1.333333333,uprooted
+pettegola,0,1,0,1,1,0,2.666666667,gossip Girl
+amano la montagna,3,0,0,0,0,0,-1,they love the mountains
+isolati,1,1,1,0,0,0,0.6666666667,isolated
+spartane,1,2,0,0,0,0,0.3333333333,Spartans
+amano le birre,1,1,1,0,0,0,0.6666666667,they love beers
+ordinate,3,0,0,0,0,0,-1,order
+duri,0,2,1,0,0,0,1.333333333,hard
+ciechi,2,0,1,0,0,0,0,blind
+snella,3,0,0,0,0,0,-1,slim
+lussuriose,1,0,2,0,0,0,1,lustful
+ubriache,0,0,1,2,0,0,2.666666667,drunk
+abili cavalieri,3,0,0,0,0,0,-1,skilled knights
+conformiste,0,3,0,0,0,0,1,conformists
+guerrigliero,0,0,1,1,1,0,3,guerrilla
+amano la tequila,1,0,1,1,0,0,1.333333333,they love tequila
+sfacciate,0,1,1,1,0,0,2,shameless
+ospitaliere,3,0,0,0,0,0,-1,hospitalier
+birmani,3,0,0,0,0,0,-1,Burmese
+ostinati,1,1,1,0,0,0,0.6666666667,stubborn
+amano la salsa,3,0,0,0,0,0,-1,they love salsa
+affezionati,3,0,0,0,0,0,-1,fond of you
+allenatore,3,0,0,0,0,0,-1,trainer
+amano l'olio,3,0,0,0,0,0,-1,they love oil
+persiane,3,0,0,0,0,0,-1,shutters
+sfortunata,2,1,0,0,0,0,-0.3333333333,unlucky
+cieco,2,0,1,0,0,0,0,blind
+amano il sushi,1,2,0,0,0,0,0.3333333333,they love sushi
+ubriaca,0,0,1,2,0,0,2.666666667,drunk
+regista,3,0,0,0,0,0,-1,director
+maghrebine,2,0,1,0,0,0,0,Maghreb
+atletica,3,0,0,0,0,0,-1,athletics
+amano il kimchi,1,2,0,0,0,0,0.3333333333,they love kimchi
+tropicale,3,0,0,0,0,0,-1,tropical
+amano il mate,2,1,0,0,0,0,-0.3333333333,they love mate
+stomaco,3,0,0,0,0,0,-1,stomach
+afrikaans,2,0,0,0,0,1,-0.6666666667,Afrikaans
+pirati,0,0,1,0,2,0,3.333333333,pirates
+keniota,3,0,0,0,0,0,-1,Kenyan
+guacamole,3,0,0,0,0,0,-1,guacamole
+rumeno,1,0,2,0,0,0,1,Romanian
+rigida,0,2,1,0,0,0,1.333333333,rigid
+amano il cous cous,1,1,1,0,0,0,0.6666666667,they love couscous
+estroverse,2,0,1,0,0,0,0,extroverted
+swahili,3,0,0,0,0,0,-1,Swahili
+usano il sari,2,1,0,0,0,0,-0.3333333333,they use the sari
+nati in galles,3,0,0,0,0,0,-1,born in wales
+correre,3,0,0,0,0,0,-1,run
+amano il surf,2,1,0,0,0,0,-0.3333333333,they love surfing
+scontenta,2,1,0,0,0,0,-0.3333333333,dissatisfied
+ebraica,2,1,0,0,0,0,-0.3333333333,Jewish
+italo-americano,2,0,1,0,0,0,0,Italian-American
+venezuela,3,0,0,0,0,0,-1,Venezuela
+scritte,3,0,0,0,0,0,-1,written
+scatenate,0,2,1,0,0,0,1.333333333,unleash
+negri,0,0,0,0,3,0,4,blacks
+isolane,2,1,0,0,0,0,-0.3333333333,islanders
+storiche,3,0,0,0,0,0,-1,historical
+modelle,3,0,0,0,0,0,-1,models
+abili arcieri,3,0,0,0,0,0,-1,skilled archers
+equatorial guinea,3,0,0,0,0,0,-1,equatorial guinea
+birmano,3,0,0,0,0,0,-1,Burmese
+amano le piramidi,2,1,0,0,0,0,-0.3333333333,they love pyramids
+amano il pisco,1,1,0,0,0,1,0,they love pisco
+viennesi,3,0,0,0,0,0,-1,Viennese
+guerrigliere,0,0,0,1,2,0,3.666666667,guerrilla
+montagnose,3,0,0,0,0,0,-1,mountainous
+zingare,0,0,0,2,1,0,3.333333333,gypsies
+sculture,3,0,0,0,0,0,-1,sculptures
+sabbia,3,0,0,0,0,0,-1,sand
+cerimonioso,2,1,0,0,0,0,-0.3333333333,ceremonious
+ieratico,3,0,0,0,0,0,-1,hieratic
+amano il borsch,1,2,0,0,0,0,0.3333333333,they love borscht
+abili a cavalcare,3,0,0,0,0,0,-1,skilled at riding
+sionista,2,0,0,0,1,0,0.6666666667,Zionist
+amano il couscous,2,1,0,0,0,0,-0.3333333333,they love couscous
+ricchissimo,3,0,0,0,0,0,-1,very rich
+fiere,3,0,0,0,0,0,-1,exhibitions
+abitudinaria,1,2,0,0,0,0,0.3333333333,habitual
+affezionato,3,0,0,0,0,0,-1,fond
+eroici,3,0,0,0,0,0,-1,heroic
+amano il curry,1,1,1,0,0,0,0.6666666667,they love curry
+georgiano,3,0,0,0,0,0,-1,Georgian
+guerrieri,0,1,0,2,0,0,2.333333333,warriors
+sari,3,0,0,0,0,0,-1,sari
+amano la vodka,0,1,1,1,0,0,2,they love vodka
+amano il karaoke,2,0,1,0,0,0,0,they love karaoke
+amano il deserto,2,1,0,0,0,0,-0.3333333333,they love the desert
+amano la tecnologia,3,0,0,0,0,0,-1,they love technology
+fumo,2,0,1,0,0,0,0,smoke

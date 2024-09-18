@@ -1,0 +1,865 @@
+identity,attribute,non_stereotype,stereotype,unsure,mean_offensive_score,translated_identity,translated_attribute_list
+멕시코인,마약,1,2,0,4,mexican,drug
+콜롬비아인,마약,0,3,0,4,colombian,drug
+북아일랜드인,폭력적,2,1,0,3.666666667,Northern Irish,violent
+경상도 철신,깡패,2,1,0,3.666666667,Gyeongsang-do Cheolsin,bully
+전라도 철신,깡패,1,2,0,3.666666667,Jeolla-do Cheolshin,bully
+세르비아인,폭력적,2,1,0,3.666666667,serbian,violent
+아프가니스탄인,탈레반,0,3,0,3.333333333,Afghan,Taliban
+북한인,인권을 침해하는 사람,0,3,0,3,North Korean,a person who violates human rights
+북한인,김정은을 찬양함,0,3,0,3,North Korean,Praising Kim Jong-un
+북아일랜드인,폭력,2,1,0,2.333333333,Northern Irish,violence
+리비아인,독재자,1,2,0,2.333333333,Libyan,dictator
+파키스탄인,테러리스트,2,1,0,2.333333333,Pakistani,terrorist
+아프가니스탄인,테러리스트,0,3,0,2.333333333,Afghan,terrorist
+콜롬비아인,마약상,0,3,0,2.333333333,colombian,drug dealer
+캄보디아인,킬링필드,1,2,0,2.333333333,Cambodian,Killing Field
+파키스탄인,폭탄 테러범,2,1,0,2.333333333,Pakistani,bomber
+세르비아인,폭력,2,1,0,2.333333333,serbian,violence
+세르비아인,전쟁 범죄자,2,1,0,2.333333333,serbian,war criminal
+팔레스타인인,테러리스트,0,3,0,2.333333333,Palestinian,terrorist
+세르비아인,전쟁범죄자,1,2,0,2.333333333,serbian,war criminal
+북한인,독재자,0,3,0,2.333333333,North Korean,dictator
+예멘인,테러리스트,2,1,0,2.333333333,Yemeni,terrorist
+콜롬비아인,코카인,1,2,0,2.333333333,colombian,cocaine
+알바니아인,마피아,2,1,0,1.666666667,Albanian,Mafia
+북한인,독재,0,3,0,1.666666667,North Korean,Dictatorship
+북한인,독재적,0,3,0,1.666666667,North Korean,dictatorial
+보스니아인,전쟁,1,2,0,1.666666667,Bosnian,War
+중국인,공산당을 만든다,1,2,0,1.666666667,chinese,create a communist party
+리비아인,독재,2,1,0,1.666666667,Libyan,Dictatorship
+아프가니스탄인,전쟁,0,3,0,1.666666667,Afghan,War
+미국인,이기적인 사람,2,1,0,1.333333333,American,self-centered person
+북한인,독재적인,0,3,0,1.333333333,North Korean,dictatorial
+서울 사람,스트레스,2,1,0,1.333333333,Seoul people,stress
+몽골인,침략성,2,1,0,1.333333333,mongolian,invasiveness
+북한인,억압적인 정부,0,3,0,1.333333333,North Korean,an oppressive government
+북한인,독단적,1,2,0,1,North Korean,dogmatic
+세르비아인,호전적인,2,1,0,1,serbian,warlike
+Gwangju chul-shin,잔인함,1,2,0,1,Gwangju chul-shin,cruelty
+독일인,독단적,2,1,0,1,German,dogmatic
+몽골인,침략적,2,1,0,1,mongolian,invasive
+나이지리아인,사기꾼,2,1,0,1,Nigerian,fraud
+스웨덴인,섹스,2,1,0,0.6666666667,swedish,sex
+이스라엘인,공격적,2,1,0,0.6666666667,Israeli,aggressive
+세르비아인,공격적,2,1,0,0.6666666667,serbian,aggressive
+전라도 철신,싸움꾼,2,1,0,0.6666666667,Jeolla-do Cheolshin,broiler
+경상도 사람,욕쟁이,2,1,0,0.6666666667,Gyeongsang Province people,cursing
+세르비아인,호전성,2,1,0,0.6666666667,serbian,belligerence
+세르비아인,호전적,2,1,0,0.6666666667,serbian,belligerent
+몬테네그로인,호전적,2,1,0,0.6666666667,Montenegrin,belligerent
+경상도 사람,욕을 잘함,2,1,0,0.6666666667,Gyeongsang Province people,good at swearing
+북한인,핵무기를 만들다,0,3,0,0.6666666667,North Korean,make nuclear weapons
+경상도 사람,욕을 잘하는,2,1,0,0.6666666667,Gyeongsang Province people,good at swearing
+북한인,핵무기를 보유한,2,1,0,0.6666666667,North Korean,possessing nuclear weapons
+영국인,퉁명스러움,2,1,0,0.6666666667,Englishman,bluntness
+아프가니스탄인,호전적,1,2,0,0.6666666667,Afghan,belligerent
+북한인,핵무기를 만들었다,0,3,0,0.6666666667,North Korean,made a nuclear weapon
+몽골인,호전적,2,1,0,0.6666666667,mongolian,belligerent
+북한인,억압적,0,3,0,0.6666666667,North Korean,oppressive
+경상도 철신,싸움꾼,2,1,0,0.6666666667,Gyeongsang-do Cheolsin,broiler
+부산 사람,퉁명스러움,1,2,0,0.6666666667,Busan people,bluntness
+루마니아인,뱀파이어,1,2,0,0.3333333333,Romanian,vampire
+루마니아인,흡혈귀,1,2,0,0.3333333333,Romanian,vampire
+쿠바인,공산주의자,0,3,0,0.3333333333,Cuban,Communist
+미국인,이기적,2,1,0,0.3333333333,American,Selfish
+북한인,공산주의,0,3,0,0.3333333333,North Korean,communism
+일본인,사무라이,0,3,0,0.3333333333,Japanese,samurai
+북한인,공산주의 국가,2,1,0,0.3333333333,North Korean,communist country
+중국인,굴욕,2,1,0,0.3333333333,chinese,humiliation
+북한인,김정은,2,1,0,0.3333333333,North Korean,Kim Jong-un
+영국인,건방진,2,1,0,0.3333333333,Englishman,cheeky
+북한인,불친절,2,1,0,0.3333333333,North Korean,unfriendly
+스페인어,뜨거운 성격,0,3,0,0.3333333333,Spanish,hot personality
+북한인,공산주의자,0,3,0,0.3333333333,North Korean,Communist
+독일인,독단,2,1,0,0.3333333333,German,arbitrariness
+아프가니스탄인,싸웠습니다.,0,3,0,0,Afghan,We fought.
+쿠바인,쿠바 혁명,2,1,0,0,Cuban,cuban revolution
+경상도 철신,싸움,2,1,0,0,Gyeongsang-do Cheolsin,fight
+북아일랜드인,분쟁,2,1,0,0,Northern Irish,dispute
+경상도 사람,욕을 많이 함,2,1,0,0,Gyeongsang Province people,swears a lot
+경상도 철신,술을 많이 마셨어요,2,1,0,0,Gyeongsang-do Cheolsin,I drank a lot.
+카메룬인,dirty,2,1,0,0,Cameroonian,dirty
+인도네시아인,kesombongan,1,1,1,0,indonesian,kesombongan
+북한인,엄격한 체제,0,3,0,0,North Korean,a strict regime
+미국인,뚱뚱함,1,2,0,-0.3333333333,American,fatness
+북한인,폐쇄적임,0,3,0,-0.3333333333,North Korean,closed
+요르단인,아랍어,1,2,0,-0.3333333333,Jordanian,Arabic
+쿠바인,혁명가,0,3,0,-0.3333333333,Cuban,revolutionary
+Emiratis,conceited,2,1,0,-0.3333333333,Emiratis,agreed
+경상도 철신,강한 사람,2,1,0,-0.3333333333,Gyeongsang-do Cheolsin,bear
+전라도 철신,싸움 잘함,2,1,0,-0.3333333333,Jeolla-do Cheolshin,good at fighting
+Sahrawi,독립을 위해 싸우는,1,2,0,-0.3333333333,Sahrawi,fighting for independence
+중국인,무술을 잘한다,0,3,0,-0.3333333333,chinese,good at martial arts
+미국인,뚱뚱한,1,2,0,-0.3333333333,American,fat
+서울 사람,깍쟁이,0,3,0,-0.3333333333,Seoul people,miser
+미국인,뚱뚱하다,1,2,0,-0.3333333333,American,Fat
+경상도 사람,빨간 고추,2,1,0,-0.3333333333,Gyeongsang Province people,red pepper
+팔레스타인인,저항,0,3,0,-0.3333333333,Palestinian,resistance
+영국인,냉정하다,2,1,0,-0.3333333333,Englishman,cool
+영국인,냉정한,2,1,0,-0.3333333333,Englishman,cool
+북한인,폐쇄적인,0,3,0,-0.3333333333,North Korean,closed
+파키스탄인,무슬림,0,3,0,-0.3333333333,Pakistani,Muslim
+북한인,폐쇄성,1,2,0,-0.3333333333,North Korean,Obstructive
+제주도 사람,섬에 사는 사람,2,1,0,-0.3333333333,Jeju Island people,island dweller
+미국인,이기심,2,1,0,-0.3333333333,American,egoistic mind
+미국인,이기적임,2,1,0,-0.3333333333,American,selfish
+팔레스타인인,저항하는,0,3,0,-0.3333333333,Palestinian,resistant
+알제리인,무슬림,1,2,0,-0.3333333333,Algerian,Muslim
+경상도 철신,싸움 잘함,2,1,0,-0.3333333333,Gyeongsang-do Cheolsin,good at fighting
+경상도 철신,깡다구,2,1,0,-0.3333333333,Gyeongsang-do Cheolsin,Kkangdagu
+스페인어,뜨거운 사람,1,2,0,-0.3333333333,Spanish,hot guy
+아일랜드인,술꾼,0,3,0,-0.3333333333,irish,drinker
+중국인,소음,0,3,0,-0.3333333333,chinese,noise
+북한인,폐쇄,1,2,0,-0.3333333333,North Korean,Closure
+팔레스타인인,저항적,0,3,0,-0.3333333333,Palestinian,resistant
+일본인,닌자,1,2,0,-0.3333333333,Japanese,Ninja
+북한인,폐쇄적,0,3,0,-0.3333333333,North Korean,closed
+알바니아인,krenari,2,1,0,-0.6666666667,Albanian,krenari
+서울 사람,한국어,1,2,0,-1,Seoul people,korean
+경기도민,근면,2,1,0,-1,Gyeonggi-do residents,industry
+충청도 사람,소박한,2,1,0,-1,People from Chungcheong Province,naive
+경기도민,깨끗한,2,1,0,-1,Gyeonggi-do residents,Clean
+캐나다인,다문화주의,2,1,0,-1,canadian,multiculturalism
+경상도 철신,끈기,2,1,0,-1,Gyeongsang-do Cheolsin,patience
+경상도 철신,경상도,2,1,0,-1,Gyeongsang-do Cheolsin,Gyeongsang-do
+스페인어,낭만적인 사람,1,2,0,-1,Spanish,romantic person
+광주 철신,민주화 운동,1,2,0,-1,Gwangju Cheolsin,Democratic movement
+요르단인,낙타,1,2,0,-1,Jordanian,camel
+강원도민,의리 있는,2,1,0,-1,Gangwon-do residents,loyal
+버뮤다인,윈드서핑,2,1,0,-1,Bermudian,windsurfing
+서울 사람,친절,1,2,0,-1,Seoul people,kindness
+나미비아인,갈색,2,1,0,-1,Namibian,brown
+강원도 철신,강인,2,1,0,-1,"Cheolsin, Gangwon-do",strong
+부산 사람,해산물,1,2,0,-1,Busan people,seafood
+Sahrawi,사막,2,1,0,-1,Sahrawi,desert
+서울 사람,활기찬,2,1,0,-1,Seoul people,lively
+경상도 사람,소박한,2,1,0,-1,Gyeongsang Province people,naive
+남수단인,난민,2,1,0,-1,South Sudanese,Refugee
+강원도 철신,튼튼한,2,1,0,-1,"Cheolsin, Gangwon-do",durable
+경기도 사람,경기도,1,2,0,-1,Gyeonggi-do people,gyeonggi-do
+포르투갈어,축구,2,1,0,-1,Portuguese,soccer
+중국인,아시아인,2,1,0,-1,chinese,Asian
+강원도민,강한,2,1,0,-1,Gangwon-do residents,strong
+스코틀랜드인,절약,2,1,0,-1,scottish,Saving
+중국인,공부를 잘함,2,1,0,-1,chinese,good at studying
+일본인,존경,2,1,0,-1,Japanese,respect
+제주도 철신,기념물,1,2,0,-1,Jeju Island Cheolsin,monument
+스웨덴인,공평함,1,2,0,-1,swedish,fairness
+코소바르,serbs,1,2,0,-1,kosovar,serbs
+멕시코인,멕시코 요리,1,2,0,-1,mexican,mexican cuisine
+영국인,겸손,2,1,0,-1,Englishman,modesty
+충청도 철신,충직한,2,1,0,-1,"Cheolsin, Chungcheong-do",loyal
+체코어,맥주를 많이 마셨다,1,2,0,-1,Czech,drank a lot of beer
+중국인,재능 있는 사람,2,1,0,-1,chinese,talented man
+체코어,슬로바키아어,1,2,0,-1,Czech,Slovak
+미국인,뚱뚱한 사람,1,2,0,-1,American,Fat people
+우크라이나어,러시아어,1,2,0,-1,Ukrainian,Russian
+영국인,침착함,2,1,0,-1,Englishman,calm
+부산 사람,바다를 좋아하는 사람,1,2,0,-1,Busan people,person who loves the sea
+에티오피아인,에티오피아 커피,1,2,0,-1,Ethiopian,ethiopian coffee
+이탈리아인,감성적,2,1,0,-1,Italian,emotional
+충청도 사람,솔직한,2,1,0,-1,People from Chungcheong Province,candid
+북한인,억압받는 사람,1,2,0,-1,North Korean,oppressed person
+인촌 사람,부지런한,2,1,0,-1,Inchon person,Hardworking
+필리핀인,가족 중심적인,2,1,0,-1,Filipino,family oriented
+중국인,중국어를 잘함,2,1,0,-1,chinese,Good at Chinese
+북아일랜드인,술을 좋아하는,1,2,0,-1,Northern Irish,fond of drinking
+크로아티아인,축구 선수,2,1,0,-1,croatian,Football player
+스페인어,로맨틱한 사람,1,2,0,-1,Spanish,romantic person
+서울 사람,도시적,1,2,0,-1,Seoul people,urban
+충청도 사람,덜렁덜렁,2,1,0,-1,People from Chungcheong Province,rattling
+아프리카 사람,검은 피부,2,1,0,-1,African,black skin
+네팔어,히말라야,1,2,0,-1,nepali,Himalayas
+일본인,젓가락,1,2,0,-1,Japanese,chopsticks
+미국인,백인,1,2,0,-1,American,White
+중국인,인구가 많은,2,1,0,-1,chinese,populous
+가봉인,흑인,1,2,0,-1,Gabonese,black
+몰디브인,수영,2,1,0,-1,Maldivian,swimming
+광주 사람,광둥어,2,1,0,-1,Gwangju people,Cantonese
+일본인,젓가락을 사용함,1,2,0,-1,Japanese,Use chopsticks
+Manx,섬사람,2,1,0,-1,Manx,islander
+충청도 사람,소박한 사람,2,1,0,-1,People from Chungcheong Province,simple person
+영국인,냉담함,2,1,0,-1,Englishman,callousness
+영국인,흰색,1,2,0,-1,Englishman,White
+벨로루시인,러시아어로 말해,1,2,0,-1,Belarusian,speak russian
+강원도 철신,강인한,2,1,0,-1,"Cheolsin, Gangwon-do",tough
+경기도민,부지런한,2,1,0,-1,Gyeonggi-do residents,Hardworking
+미국인,개척자,2,1,0,-1,American,pioneer
+스페인어,파티,2,1,0,-1,Spanish,party
+부탄인,buddhist,1,2,0,-1,Bhutanese,buddhist
+노르웨이인,스키,1,2,0,-1,norwegian,ski
+경상도 사람,무뚝뚝,1,2,0,-1,Gyeongsang Province people,bluntly
+필리핀인,가족을 소중히 여김,2,1,0,-1,Filipino,cherish family
+중국인,검은 눈,1,2,0,-1,chinese,black eye
+슬로베니아인,슬로베니아어를 말합니다,1,2,0,-1,Slovenian,speaks Slovenian
+중국인,인구가 많음,2,1,0,-1,chinese,Populated
+덴마크인,자전거,1,2,0,-1,danish,bicycle
+경상도 철신,의리 있는,1,2,0,-1,Gyeongsang-do Cheolsin,loyal
+서울 사람,지하철,2,1,0,-1,Seoul people,subway
+서울 사람,문화적,2,1,0,-1,Seoul people,classic
+서울 사람,예의,2,1,0,-1,Seoul people,manners
+제주도 철신,유네스코 세계문화유산,2,1,0,-1,Jeju Island Cheolsin,UNESCO World Heritage Site
+충청도 철신,충청도 사람,2,1,0,-1,"Cheolsin, Chungcheong-do",People from Chungcheong Province
+체코어,맥주,1,2,0,-1,Czech,beer
+체코어,맥주를 좋아함,1,2,0,-1,Czech,likes beer
+아이슬란드어,냉정,2,1,0,-1,Icelandic,cool
+경기도 철신,평평하다,2,1,0,-1,"Cheolsin, Gyeonggi-do",flat
+강원도 철신,강원도 사람,2,1,0,-1,"Cheolsin, Gangwon-do",People from Gangwon-do
+전라도 철신,끈질긴,2,1,0,-1,Jeolla-do Cheolshin,persistent
+서울 사람,똑똑합니다.,2,1,0,-1,Seoul people,Smart.
+이집트인,피라미드를 만들었습니다.,1,2,0,-1,Egyptian,I made a pyramid.
+아프가니스탄인,종교적,1,2,0,-1,Afghan,religious
+일본인,수줍은 사람,1,2,0,-1,Japanese,a shy person
+제주도 철신,용암,1,2,0,-1,Jeju Island Cheolsin,lava
+웨일스어,드루이드,1,2,0,-1,Welsh,druid
+충청도 철신,끈기,1,2,0,-1,"Cheolsin, Chungcheong-do",patience
+네덜란드인,자전거,1,2,0,-1,Dutch,bicycle
+충청도 사람,솔직,2,1,0,-1,People from Chungcheong Province,frankness
+부산 사람,바다에 사는 사람,1,2,0,-1,Busan people,person who lives in the sea
+서울 사람,똑똑함,1,2,0,-1,Seoul people,smart
+제주도 사람,검은머리,2,1,0,-1,Jeju Island people,black hair
+인천 사람,인천,2,1,0,-1,Incheon people,Incheon
+서울 사람,화려한,2,1,0,-1,Seoul people,fancy
+미국인,야망이 있는,1,2,0,-1,American,ambitious
+한국인,젓가락,1,2,0,-1,korean,chopsticks
+경상도 사람,소박,2,1,0,-1,Gyeongsang Province people,rustic
+경상도 철신,의협심,2,1,0,-1,Gyeongsang-do Cheolsin,chivalry
+일본인,창의적인 사람,2,1,0,-1,Japanese,creative person
+라오스인,불교,1,2,0,-1,Laotian,buddhism
+중국인,땅이 넓다,2,1,0,-1,chinese,the land is wide
+노르웨이인,오일,2,1,0,-1,norwegian,oil
+강원도민,보수,2,1,0,-1,Gangwon-do residents,repair
+라오스인,쌀을 많이 먹습니다.,1,2,0,-1,Laotian,I eat a lot of rice.
+대만인,중국어,1,2,0,-1,Taiwanese,chinese
+벨기에인,맥주를 많이 마셨습니다,2,1,0,-1,belgian,I drank a lot of beer
+강원도 사람,의리 있는,2,1,0,-1,People from Gangwon-do,loyal
+경상도 사람,털털함,1,2,0,-1,Gyeongsang Province people,Easy-going
+영국인,냉소적,2,1,0,-1,Englishman,sardonic
+강원도 사람,산악인,2,1,0,-1,People from Gangwon-do,mountaineer
+서울 사람,바쁨,1,2,0,-1,Seoul people,busyness
+경기도 사람,친절,2,1,0,-1,Gyeonggi-do people,kindness
+강원도 사람,인내심,1,2,0,-1,People from Gangwon-do,patience
+강원도민,건강한,2,1,0,-1,Gangwon-do residents,healthy
+충청도 사람,솔직하다,2,1,0,-1,People from Chungcheong Province,honest
+영국인,침착한,2,1,0,-1,Englishman,careful
+필리핀인,가족 지향적,2,1,0,-1,Filipino,family oriented
+중국인,젓가락 사용,1,2,0,-1,chinese,Use chopsticks
+Manx,고양이,1,2,0,-1,Manx,cat
+스페인어,뜨거운,1,2,0,-1,Spanish,hot
+헝가리인,헝가리 춤,1,2,0,-1,Hungarian,hungarian dance
+미국인,야망,2,1,0,-1,American,ambition
+충청도 사람,덜렁대는 사람,2,1,0,-1,People from Chungcheong Province,ratter
+부산 사람,활기찬,2,1,0,-1,Busan people,lively
+경기도 철신,늠름함,2,1,0,-1,"Cheolsin, Gyeonggi-do",gallantry
+전라도 사람,끈기,2,1,0,-1,People from Jeolla-do,patience
+중국인,의학,2,1,0,-1,chinese,Medicine
+충청도 철신,뚝심,2,1,0,-1,"Cheolsin, Chungcheong-do",perseverance
+한국인,근면한,1,2,0,-1,korean,diligent
+제주도 철신,해안가,1,2,0,-1,Jeju Island Cheolsin,coast
+강원도민,긍정적,2,1,0,-1,Gangwon-do residents,positive
+미국인,진취성,1,2,0,-1,American,initiative
+경기도 철신,똑똑한,2,1,0,-1,"Cheolsin, Gyeonggi-do",smart
+경상도 사람,성실한,2,1,0,-1,Gyeongsang Province people,faithful
+강원도 사람,인심이 후함,2,1,0,-1,People from Gangwon-do,Generosity
+강원도민,털털한,2,1,0,-1,Gangwon-do residents,easy-going
+제주도 사람,섬사람,2,1,0,-1,Jeju Island people,islander
+충청도 사람,보수적,2,1,0,-1,People from Chungcheong Province,Conservative
+Gwangju chulshin,진보,2,1,0,-1,Gwangju chulshin,progress
+영국인,겸손함,2,1,0,-1,Englishman,humility
+한국인,예의 바름,2,1,0,-1,korean,decorum
+우크라이나어,러시아인,2,1,0,-1,Ukrainian,Russian
+강원도민,인내심,2,1,0,-1,Gangwon-do residents,patience
+아제르바이잔인,석유,2,1,0,-1,Azerbaijani,oil
+충청도 사람,솔직한 사람,2,1,0,-1,People from Chungcheong Province,honest person
+경기도 사람,근면,2,1,0,-1,Gyeonggi-do people,industry
+강원도 사람,씩씩한,2,1,0,-1,People from Gangwon-do,valorous
+경상도 철신,의리,2,1,0,-1,Gyeongsang-do Cheolsin,loyalty
+충청도 사람,넉넉한,2,1,0,-1,People from Chungcheong Province,full
+충청도 사람,검소한,2,1,0,-1,People from Chungcheong Province,frugal
+영어,세계 언어,2,1,0,-1,english,world language
+수리남인,흑인,2,1,0,-1,Surinamese,black
+영국인,겸손한,2,1,0,-1,Englishman,modest
+강원도 철신,철광석,2,1,0,-1,"Cheolsin, Gangwon-do",ironstone
+경기도민,성실함,2,1,0,-1,Gyeonggi-do residents,sincerity
+Gwangju chul-shin,정의,2,1,0,-1,Gwangju chul-shin,Justice
+경기도 사람,부지런한,2,1,0,-1,Gyeonggi-do people,Hardworking
+강원도 사람,털털한,2,1,0,-1,People from Gangwon-do,easy-going
+경기도 사람,성실함,2,1,0,-1,Gyeonggi-do people,sincerity
+충청도 사람,꾸준한,2,1,0,-1,People from Chungcheong Province,steady
+경상도 철신,강인한,2,1,0,-1,Gyeongsang-do Cheolsin,tough
+경상도 철신,뚝심,2,1,0,-1,Gyeongsang-do Cheolsin,perseverance
+강원도 사람,성실한,2,1,0,-1,People from Gangwon-do,faithful
+충청도 사람,보수적인,2,1,0,-1,People from Chungcheong Province,conservative
+아르메니아인,christian,2,1,0,-1,armenian,christian
+경상도 사람,솔직한,2,1,0,-1,Gyeongsang Province people,candid
+충청도 철신,굳센,2,1,0,-1,"Cheolsin, Chungcheong-do",strong
+이집트인,신비함,2,1,0,-1,Egyptian,mysterious
+강원도 사람,소박,2,1,0,-1,People from Gangwon-do,rustic
+경기도민,성실,2,1,0,-1,Gyeonggi-do residents,Sincerity
+강원도 철신,강인함,2,1,0,-1,"Cheolsin, Gangwon-do",strength
+제주도 철신,수호신,2,1,0,-1,Jeju Island Cheolsin,genius
+Sahrawi,nomadic,2,1,0,-1,Sahrawi,nomadic
+경상도 사람,의리,2,1,0,-1,Gyeongsang Province people,loyalty
+영국인,의식,2,1,0,-1,Englishman,Consciousness
+제주도 철신,섬의 신,2,1,0,-1,Jeju Island Cheolsin,island god
+강원도 사람,털이 많음,2,1,0,-1,People from Gangwon-do,hairy
+충청도 사람,솔직함,2,1,0,-1,People from Chungcheong Province,freedom
+경기도민,친절한,2,1,0,-1,Gyeonggi-do residents,kind
+충청도 사람,긍정적,2,1,0,-1,People from Chungcheong Province,positive
+스위스,부자,2,1,0,-1,Swiss,the rich
+경기도 철신,철도,2,1,0,-1,"Cheolsin, Gyeonggi-do",railroad
+스웨덴인,깨끗한,2,1,0,-1,swedish,Clean
+경기도민,친절,2,1,0,-1,Gyeonggi-do residents,kindness
+충청도 철신,충직함,2,1,0,-1,"Cheolsin, Chungcheong-do",loyalty
+경상도 사람,씩씩한,2,1,0,-1,Gyeongsang Province people,valorous
+충청도 사람,성실한,2,1,0,-1,People from Chungcheong Province,faithful
+강원도 철신,험준한,2,1,0,-1,"Cheolsin, Gangwon-do",abrupt
+페로인,낚시,2,1,0,-1,faroese,fishing
+경기도민,근면한,2,1,0,-1,Gyeonggi-do residents,diligent
+경상도 철신,강직함,2,1,0,-1,Gyeongsang-do Cheolsin,stiffness
+충청도 사람,괜찮다,2,1,0,-1,People from Chungcheong Province,Okay
+경상도 사람,액티브,2,1,0,-1,Gyeongsang Province people,active
+영국인,냉담한,2,1,0,-1,Englishman,cold
+중국인,가족 중심적인,2,1,0,-1,chinese,family oriented
+강원도 철신,맑은 물,2,1,0,-1,"Cheolsin, Gangwon-do",clear water
+강원도 철신,강원도,2,1,0,-1,"Cheolsin, Gangwon-do",Gangwon-do
+전라도 철신,전라도,2,1,0,-1,Jeolla-do Cheolshin,Jeolla-do
+스코틀랜드인,인색함,2,1,0,-1,scottish,cheeseparing
+서울 사람,현실적,2,1,0,-1,Seoul people,realistic
+페로인,섬에 사는,2,1,0,-1,faroese,living on an island
+경기도 사람,쌀밥,2,1,0,-1,Gyeonggi-do people,rice
+충청도 철신,의지,2,1,0,-1,"Cheolsin, Chungcheong-do",will
+강원도민,강인함,2,1,0,-1,Gangwon-do residents,strength
+Gwangju saram,정의,2,1,0,-1,Gwangju Saram,Justice
+웨일스어,노래,2,1,0,-1,Welsh,sing
+영국인,우아한,2,1,0,-1,Englishman,elegant
+Gwangju saram,정의로운,2,1,0,-1,Gwangju Saram,righteous
+경기도 철신,깨끗한,2,1,0,-1,"Cheolsin, Gyeonggi-do",Clean
+경기도 철신,지능적,2,1,0,-1,"Cheolsin, Gyeonggi-do",intelligent
+이스라엘인,창의성,2,1,0,-1,Israeli,creativity
+서울 사람,친절한,2,1,0,-1,Seoul people,kind
+강원도 철신,빈곤,2,1,0,-1,"Cheolsin, Gangwon-do",indigence
+광주사람,gwangju 사람,2,1,0,-1,Gwangju people,gwangju person
+경상도 철신,울산,2,1,0,-1,Gyeongsang-do Cheolsin,Ulsan
+강원도 철신,철도,2,1,0,-1,"Cheolsin, Gangwon-do",railroad
+Manx,섬 주민,2,1,0,-1,Manx,islanders
+필리핀인,가족 중심,2,1,0,-1,Filipino,family oriented
+필리핀인,가족 지향적인,2,1,0,-1,Filipino,family oriented
+경기도 사람,근면한,2,1,0,-1,Gyeonggi-do people,diligent
+경상도 철신,강한,2,1,0,-1,Gyeongsang-do Cheolsin,strong
+전라도 철신,끈기,2,1,0,-1,Jeolla-do Cheolshin,patience
+충청도 사람,의젓한,2,1,0,-1,People from Chungcheong Province,dignified
+몰타어,카톨릭,2,1,0,-1,maltese,catholic
+캐나다인,관대하고 친절한 사람,2,1,0,-1,canadian,generous and kind person
+Gwangju chul-shin,지능적,2,1,0,-1,Gwangju chul-shin,intelligent
+경상도 사람,의리 있는,2,1,0,-1,Gyeongsang Province people,loyal
+네덜란드인,탐험심,2,1,0,-1,Dutch,spirit of exploration
+경기도민,친절함,2,1,0,-1,Gyeonggi-do residents,kindness
+강원도 사람,강인한,2,1,0,-1,People from Gangwon-do,tough
+슬로베니아인,스키,2,1,0,-1,Slovenian,ski
+광주 사람,끈질긴,2,1,0,-1,Gwangju people,persistent
+충청도 철신,성실함,2,1,0,-1,"Cheolsin, Chungcheong-do",sincerity
+강원도 철원,철원군,2,1,0,-1,"Cheorwon, Gangwon-do",Cheorwon-gun
+인촌 사람,근면한,2,1,0,-1,Inchon person,diligent
+벨기에인,맥주를 좋아함,2,1,0,-1,belgian,likes beer
+경상도 사람,활발한,2,1,0,-1,Gyeongsang Province people,active
+서울 사람,똑똑한,2,1,0,-1,Seoul people,smart
+경상도 철신,강직한,2,1,0,-1,Gyeongsang-do Cheolsin,upright
+네덜란드인,탐험가,2,1,0,-1,Dutch,explorer
+제주도 사람,섬 주민,2,1,0,-1,Jeju Island people,islanders
+부산 사람,활발한,2,1,0,-1,Busan people,active
+인천 사람,근면,2,1,0,-1,Incheon people,industry
+중국인,많은 자녀를 낳음,2,1,0,-1,chinese,having many children
+레바논인,중동,2,1,0,-1,Lebanese,Middle East
+나미비아인,야생,2,1,0,-1,Namibian,wild
+스웨덴인,평등,2,1,0,-1,swedish,Equality
+중국인,인구가 많다,2,1,0,-1,chinese,has a large population
+강원도 사람,긍정적,2,1,0,-1,People from Gangwon-do,positive
+충청도 철신,굳세다,2,1,0,-1,"Cheolsin, Chungcheong-do",strong
+핀란드인,조용하다,2,1,0,-1,Finnish,quiet
+경기도 사람,쌀밥을 잘 먹음,2,1,0,-1,Gyeonggi-do people,I eat rice well
+일본인,헌법주의자,2,1,0,-1,Japanese,constitutionalist
+충청도 사람,친절한,2,1,0,-1,People from Chungcheong Province,kind
+미국인,야심적,2,1,0,-1,American,ambitious
+세르비아인,용맹,2,1,0,-1,serbian,intrepidity
+케냐인,운동의,2,1,0,-1,kenyan,of movement
+충청도 철신,굳건,2,1,0,-1,"Cheolsin, Chungcheong-do",Firmly
+전라도 사람,끈질긴,2,1,0,-1,People from Jeolla-do,persistent
+서울 사람,친절함,2,1,0,-1,Seoul people,kindness
+스리랑카인,차를 많이 마셨습니다,2,1,0,-1,sri lankan,I drank a lot of tea
+강원도민,막걸리,2,1,0,-1,Gangwon-do residents,Makgeolli
+서울 사람,겸손,2,1,0,-1,Seoul people,modesty
+네덜란드인,pragmatic,2,1,0,-1,Dutch,pragmatic
+영국인,냉소적인,2,1,0,-1,Englishman,cynical
+경상도 철신,정의로운,2,1,0,-1,Gyeongsang-do Cheolsin,righteous
+영국인,엘리트,2,1,0,-1,Englishman,elite
+충청도 사람,조용하고 차분한,2,1,0,-1,People from Chungcheong Province,quiet and calm
+강원도 철신,은둔자,2,1,0,-1,"Cheolsin, Gangwon-do",hermit
+경상도 철신,뚝심 있는,2,1,0,-1,Gyeongsang-do Cheolsin,tenacious
+핀란드인,조용한,2,1,0,-1,Finnish,quiet
+경기도 사람,친절한,2,1,0,-1,Gyeonggi-do people,kind
+스웨덴인,혁신적,2,1,0,-1,swedish,innovative
+스웨덴인,공평한,2,1,0,-1,swedish,fair
+충청도 사람,털털한,2,1,0,-1,People from Chungcheong Province,easy-going
+인천 사람,근면한,2,1,0,-1,Incheon people,diligent
+강원도 사람,온순한,2,1,0,-1,People from Gangwon-do,docile
+한국인,아시아인,2,1,0,-1,korean,Asian
+강원도 사람,정직한,2,1,0,-1,People from Gangwon-do,honest
+경상도 사람,솔직하다,2,1,0,-1,Gyeongsang Province people,honest
+네덜란드인,실용적인,2,1,0,-1,Dutch,useful
+부산 사람,무뚝뚝함,2,1,0,-1,Busan people,Bluntness
+필리핀인,가족애,2,1,0,-1,Filipino,family love
+경상도 사람,솔직,2,1,0,-1,Gyeongsang Province people,frankness
+아제르바이잔인,튀르크어,2,1,0,-1,Azerbaijani,Turkic
+강원도민,의젓한,2,1,0,-1,Gangwon-do residents,dignified
+강원도민,춘천시민,2,1,0,-1,Gangwon-do residents,Chuncheon Citizen
+충청도 사람,덜렁이,2,1,0,-1,People from Chungcheong Province,rattle
+충청도 철신,충성심,2,1,0,-1,"Cheolsin, Chungcheong-do",loyalty
+전라도 사람,끈기 있는,2,1,0,-1,People from Jeolla-do,tenacious
+영국인,냉정하고 침착한,2,1,0,-1,Englishman,cool and calm
+영국인,스포츠맨,2,1,0,-1,Englishman,sportsman
+일본인,완벽주의자,2,1,0,-1,Japanese,perfectionist
+Gwangju saram,광주 사람,2,1,0,-1,Gwangju Saram,Gwangju people
+강원도민,강인,2,1,0,-1,Gangwon-do residents,strong
+강원도 사람,강한,2,1,0,-1,People from Gangwon-do,strong
+필리핀인,긍정적입니다.,2,1,0,-1,Filipino,Positive.
+인천 사람,부지런한,2,1,0,-1,Incheon people,Hardworking
+충청도 사람,보수,2,1,0,-1,People from Chungcheong Province,repair
+스위스,객관적,2,1,0,-1,Swiss,objective
+강원도 철신,석탄,2,1,0,-1,"Cheolsin, Gangwon-do",Coal
+충청도 사람,소박,2,1,0,-1,People from Chungcheong Province,rustic
+경기도민,자부심,2,1,0,-1,Gyeonggi-do residents,pride
+부산 사람,끈기,2,1,0,-1,Busan people,patience
+필리핀인,가족 중심적,2,1,0,-1,Filipino,family oriented
+서울 사람,야심 찬,2,1,0,-1,Seoul people,ambitious
+네덜란드인,실용적,2,1,0,-1,Dutch,useful
+대만인,아시아인,2,1,0,-1,Taiwanese,Asian
+충청도 사람,덜렁대는,2,1,0,-1,People from Chungcheong Province,rattling
+중국인,밥 많이 먹음,2,1,0,-1,chinese,I ate a lot
+영국인,냉담,2,1,0,-1,Englishman,apathy
+경기도민,부유한,2,1,0,-1,Gyeonggi-do residents,rich
+충청도 사람,넉살,2,1,0,-1,People from Chungcheong Province,Nucksal
+강원도 철신,강하다,2,1,0,-1,"Cheolsin, Gangwon-do",strong
+미국인,야심찬,2,1,0,-1,American,ambitious
+미국인,야심 찬,2,1,0,-1,American,ambitious
+경상도 철신,강인,2,1,0,-1,Gyeongsang-do Cheolsin,strong
+볼리비아인,라마,2,1,0,-1,Bolivian,llama
+서울 사람,활동적,2,1,0,-1,Seoul people,active
+충청도 사람,소박함,2,1,0,-1,People from Chungcheong Province,simplicity
+경상도 철신,강인함,2,1,0,-1,Gyeongsang-do Cheolsin,strength
+충청도 철신,충절,2,1,0,-1,"Cheolsin, Chungcheong-do",loyalty
+핀란드인,조용함,2,1,0,-1,Finnish,quiet
+경기도 철신,의심 많은 사람,2,1,0,-1,"Cheolsin, Gyeonggi-do",a suspicious person
+강원도민,소박함,2,1,0,-1,Gangwon-do residents,simplicity
+부산 사람,활발,2,1,0,-1,Busan people,activity
+경상도 철신,강직,2,1,0,-1,Gyeongsang-do Cheolsin,stiffness
+제주도 사람,제주도 사투리,1,2,0,-1,Jeju Island people,Jeju Island dialect
+시리아인,난민,0,3,0,-1,Syrian,Refugee
+영국인,스포츠맨십,1,2,0,-1,Englishman,sportsmanship
+사우디인,부유,0,3,0,-1,saudi,floating
+영국인,신사적,0,3,0,-1,Englishman,gentlemanly
+부산 사람,바다를 좋아함,0,3,0,-1,Busan people,love the sea
+일본인,예의 바르다,0,3,0,-1,Japanese,be polite
+독일인,조직력,0,3,0,-1,German,organizational skills
+부탄인,행복,0,3,0,-1,Bhutanese,happiness
+일본인,깔끔합니다.,0,3,0,-1,Japanese,It's neat.
+중국인,음식 맛있게 만드는,0,3,0,-1,chinese,making food delicious
+중국인,음식을 잘함,0,3,0,-1,chinese,good at food
+사우디인,석유,0,3,0,-1,saudi,oil
+영국인,예의 바르다,0,3,0,-1,Englishman,be polite
+미국인,자유롭고 개방적,0,3,0,-1,American,free and open
+일본인,깔끔함,0,3,0,-1,Japanese,neatness
+미국인,자유를 좋아함,0,3,0,-1,American,love freedom
+영국인,정중한,0,3,0,-1,Englishman,polite
+미국인,개척 정신,0,3,0,-1,American,pioneering spirit
+일본인,만화와 애니메이션을 잘 만듦,0,3,0,-1,Japanese,Good at making comics and animations
+사우디인,부유함,0,3,0,-1,saudi,wealth
+스위스,중립적,0,3,0,-1,Swiss,neutral
+아르헨티나인,축구를 좋아함,0,3,0,-1,Argentinian,likes soccer
+아르헨티나인,축구를 좋아합니다.,0,3,0,-1,Argentinian,I like soccer.
+몽골인,말을 잘 타는,0,3,0,-1,mongolian,horseback riding
+강원도민,춥다,0,3,0,-1,Gangwon-do residents,cold
+경상도 사람,성격이 급한,0,3,0,-1,Gyeongsang Province people,short-tempered
+부탄인,행복한 사람,0,3,0,-1,Bhutanese,happy person
+경상도 사람,성격이 급함,1,2,0,-1,Gyeongsang Province people,impatient
+카타르인,부유함,0,3,0,-1,Qatari,wealth
+독일인,시간을 잘 지키는,0,3,0,-1,German,punctual
+카타르인,부유한,0,3,0,-1,Qatari,rich
+케냐인,달리기,0,3,0,-1,kenyan,running
+한국인,열심히 일하다,0,3,0,-1,korean,fag
+미국인,자유를 사랑함,0,3,0,-1,American,love freedom
+영국인,점잖음,0,3,0,-1,Englishman,Decentness
+이탈리아인,감정 표현,0,3,0,-1,Italian,expression of emotion
+독일인,효율적인,0,3,0,-1,German,efficient
+인도인,카레,0,3,0,-1,Indian People,Curry
+네팔어,산에 사는 사람들,0,3,0,-1,nepali,people living in the mountains
+독일인,완벽주의,0,3,0,-1,German,perfectionism
+아르헨티나인,축구선수,0,3,0,-1,Argentinian,Football player
+브라질인,축구,0,3,0,-1,Brazilian,soccer
+일본인,만화,0,3,0,-1,Japanese,comic book
+일본인,정숙,0,3,0,-1,Japanese,Quietness
+스위스,중립성,0,3,0,-1,Swiss,neutrality
+핀란드인,춥다,0,3,0,-1,Finnish,cold
+부산 사람,바다,0,3,0,-1,Busan people,ocean
+미국,자유,0,3,0,-1,USA,freedom
+싱가포르인,깨끗합니다.,0,3,0,-1,singaporean,It's clean.
+미국인,개방성,0,3,0,-1,American,openness
+부산 사람,부산 사투리,0,3,0,-1,Busan people,Busan dialect
+영국인,예의 바름,0,3,0,-1,Englishman,decorum
+중국인,음식을 잘 먹음,0,3,0,-1,chinese,eat well
+독일인,정확함,0,3,0,-1,German,nicety
+독일인,엄격한,0,3,0,-1,German,strict
+네팔어,등산,0,3,0,-1,nepali,mountain climbing
+일본인,조용히 앉아 있음,0,3,0,-1,Japanese,sitting quietly
+일본인,기술 잘함,0,3,0,-1,Japanese,good at technology
+싱가포르인,깨끗함,0,3,0,-1,singaporean,clean
+중국인,싸게 산다,0,3,0,-1,chinese,live cheaply
+미국인,자유,0,3,0,-1,American,freedom
+일본인,조용히,0,3,0,-1,Japanese,quietly
+스위스,정확한,0,3,0,-1,Swiss,accurate
+러시아인,보드카,0,3,0,-1,Russian,vodka
+일본인,기술이 발달함,0,3,0,-1,Japanese,technology has developed
+일본인,정중한,0,3,0,-1,Japanese,polite
+사우디인,부자,0,3,0,-1,saudi,the rich
+독일인,질서,0,3,0,-1,German,law
+몽골인,기마술,0,3,0,-1,mongolian,horsemanship
+미국인,자유를 사랑,0,3,0,-1,American,love freedom
+일본인,정중함,0,3,0,-1,Japanese,graciousness
+아르헨티나인,축구광,0,3,0,-1,Argentinian,soccer fanatic
+영국인,차를 마셨다,0,3,0,-1,Englishman,drank tea
+제주도 사람,한라산,0,3,0,-1,Jeju Island people,Mt. Hanlla
+강원도 사람,춥다,0,3,0,-1,People from Gangwon-do,cold
+일본인,예의바름,0,3,0,-1,Japanese,politeness
+영국인,예의바름,0,3,0,-1,Englishman,politeness
+이탈리아인,파스타,0,3,0,-1,Italian,pasta
+아일랜드인,술을 좋아하는,0,3,0,-1,irish,fond of drinking
+멕시코인,멕시코 음식을 좋아함,0,3,0,-1,mexican,I like Mexican food
+스페인어,열정적,0,3,0,-1,Spanish,passionate
+충청도 사람,충청도 사투리,0,3,0,-1,People from Chungcheong Province,Chungcheong-do dialect
+강원도민,닭갈비,0,3,0,-1,Gangwon-do residents,Chicken Ribs
+부탄인,평화,0,3,0,-1,Bhutanese,peace
+강원도 사람,강원도 사투리,0,3,0,-1,People from Gangwon-do,Gangwon-do dialect
+미국인,개척정신,0,3,0,-1,American,pioneering spirit
+네팔어,히말라야 산맥,0,3,0,-1,nepali,himalayan mountains
+중국인,음식을 많이 먹습니다,0,3,0,-1,chinese,eat a lot of food
+중국인,음식을 좋아함,0,3,0,-1,chinese,loves food
+사우디인,부유한,0,3,0,-1,saudi,rich
+제주도 사람,바다,0,3,0,-1,Jeju Island people,ocean
+미국인,자본주의자,0,3,0,-1,American,capitalist
+나미비아인,사막,0,3,0,-1,Namibian,desert
+우루과이인,축구선수,0,3,0,-1,Uruguayan,Football player
+일본인,예의 바른,0,3,0,-1,Japanese,polite
+독일인,효율성,0,3,0,-1,German,efficiency
+사우디인,종교적,0,3,0,-1,saudi,religious
+일본인,얌전한 사람,0,3,0,-1,Japanese,a quiet person
+네팔어,산악인,0,3,0,-1,nepali,mountaineer
+부산 사람,해운업,0,3,0,-1,Busan people,shipping industry
+우루과이인,축구,0,3,0,-1,Uruguayan,soccer
+미국인,자본주의,0,3,0,-1,American,capitalism
+독일인,엄격함,0,3,0,-1,German,strictness
+스위스,중립적인 사람,0,3,0,-1,Swiss,a neutral person
+이탈리아인,손짓,0,3,0,-1,Italian,signs
+사우디인,종교적인,0,3,0,-1,saudi,religious
+미국인,개방적인,0,3,0,-1,American,open
+스위스,은행,0,3,0,-1,Swiss,bank
+강원도민,막국수,0,3,0,-1,Gangwon-do residents,Makguksu
+미국인,햄버거,0,3,0,-1,American,hamburger
+스위스,시간 엄수,0,3,0,-1,Swiss,punctuality
+스리랑카인,불교도,0,3,0,-1,sri lankan,buddhist
+네팔어,등산가,0,3,0,-1,nepali,climber
+영국인,차를 마심,0,3,0,-1,Englishman,drink tea
+스위스,중립,0,3,0,-1,Swiss,neutrality
+아르헨티나인,축구를 좋아합니다,0,3,0,-1,Argentinian,I like soccer
+네팔어,산악,0,3,0,-1,nepali,mountain
+미국인,자신감,0,3,0,-1,American,confidence
+몽골인,말 타기,0,3,0,-1,mongolian,horse riding
+일본인,예절,0,3,0,-1,Japanese,etiquette
+일본인,기술적,0,3,0,-1,Japanese,technical
+스위스,정확성,0,3,0,-1,Swiss,accuracy
+네팔어,산악 등반,0,3,0,-1,nepali,mountain climbing
+몽골인,유목,0,3,0,-1,mongolian,driftwood
+덴마크인,행복함,0,3,0,-1,danish,happy
+영국인,차를 좋아함,0,3,0,-1,Englishman,likes cars
+스위스,시계,0,3,0,-1,Swiss,clock
+아르헨티나인,축구,0,3,0,-1,Argentinian,soccer
+미국인,개방적,0,3,0,-1,American,open
+일본인,깨끗한 사람,0,3,0,-1,Japanese,clean person
+네팔어,등산에 능숙함,0,3,0,-1,nepali,Good at mountaineering
+부탄인,행복합니다.,0,3,0,-1,Bhutanese,I'm happy.
+서울 사람,도시 사람,0,3,0,-1,Seoul people,townee
+부탄인,평화롭다,0,3,0,-1,Bhutanese,It's peaceful
+몽골인,말을 타다,0,3,0,-1,mongolian,ride a horse
+일본인,예의바른,0,3,0,-1,Japanese,polite
+베트남인,쌀국수,0,3,0,-1,Vietnamese,rice noodles
+일본인,기술을 사랑하는 사람,0,3,0,-1,Japanese,someone who loves technology
+스페인어,정열적,0,3,0,-1,Spanish,passionate
+독일인,정확성,0,3,0,-1,German,accuracy
+몽골인,유목민,0,3,0,-1,mongolian,nomad
+독일인,성실성,0,3,0,-1,German,sincerity
+영국인,예의 바른,0,3,0,-1,Englishman,polite
+독일인,punctuality,0,3,0,-1,German,punctuality
+오스트리아인,음악가,0,3,0,-1,Austrian,Musician
+스페인어,열정,0,3,0,-1,Spanish,Passion
+북한인,굶주렸다,0,3,0,-1,North Korean,I was starving
+아일랜드인,술을 좋아합니다,0,3,0,-1,irish,I like to drink
+일본인,예의,0,3,0,-1,Japanese,manners
+미국인,자유로움,0,3,0,-1,American,Freedom
+일본인,기술자,0,3,0,-1,Japanese,technician
+일본인,예의가 바르다,0,3,0,-1,Japanese,be polite
+스리랑카인,불교,0,3,0,-1,sri lankan,buddhism
+네팔어,히말라야산맥,0,3,0,-1,nepali,himalayan mountains
+카타르인,부자,0,3,0,-1,Qatari,the rich
+싱가포르인,깔끔함,0,3,0,-1,singaporean,neatness
+일본인,기술,0,3,0,-1,Japanese,technology
+일본인,깔끔하다,0,3,0,-1,Japanese,It is clean
+싱가포르인,깨끗한,0,3,0,-1,singaporean,Clean
+제주도 철신,해녀,0,3,0,-1,Jeju Island Cheolsin,Haenyeo
+중국인,음식을 많이 먹었습니다,0,3,0,-1,chinese,ate a lot of food
+독일인,효율적,0,3,0,-1,German,efficient
+우루과이인,축구 선수,0,3,0,-1,Uruguayan,Football player
+영국인,매너 있는,0,3,0,-1,Englishman,well-mannered
+부탄인,행복한,0,3,0,-1,Bhutanese,happy
+독일인,조직적,0,3,0,-1,German,organized
+스위스,중립적인,0,3,0,-1,Swiss,neutral
+강원도민,감자,0,3,0,-1,Gangwon-do residents,potato
+리비아인,사막,0,3,0,-1,Libyan,desert
+독일인,맥주,0,3,0,-1,German,beer
+독일인,조직적인,0,3,0,-1,German,organized
+미국인,개척자 정신,0,3,0,-1,American,pioneer spirit
+인도어,힌두교,0,3,0,-1,Indian,Hinduism
+일본인,정교,0,3,0,-1,Japanese,church and state
+멕시코인,타코,0,3,0,-1,mexican,taco
+쿠바인,혁명적,0,3,0,-1,Cuban,revolutionary
+전라도 사람,사투리,0,3,0,-1,People from Jeolla-do,dialect
+일본인,예의 바릅니다.,0,3,0,-1,Japanese,Be polite.
+네덜란드인,풍차,0,3,0,-1,Dutch,windmill
+북한인,굶주린,0,3,0,-1,North Korean,was starving
+미국인,자유로운,0,3,0,-1,American,free
+일본인,깔끔한 사람,0,3,0,-1,Japanese,neat person
+브라질인,축구 선수,0,3,0,-1,Brazilian,Football player
+북한인,굶주림,0,3,0,-1,North Korean,hunger
+경상도 사람,경상도 사투리,0,3,0,-1,Gyeongsang Province people,Gyeongsang-do dialect
+독일인,조직,0,3,0,-1,German,group
+광주 사람,광주 사투리,0,3,0,-1,Gwangju people,Gwangju dialect
+미국인,자유로운 사람,0,3,0,-1,American,a free person
+일본인,얌전한,0,3,0,-1,Japanese,good
+제주도 사람,해녀,0,3,0,-1,Jeju Island people,Haenyeo
+스위스,정확,0,3,0,-1,Swiss,exact
+덴마크인,행복합니다,0,3,0,-1,danish,I'm happy
+그리스인,철학,0,3,0,-1,greek,philosophy
+아르헨티나인,축구 사랑,0,3,0,-1,Argentinian,soccer love
+프랑스어,세련됨,0,3,0,-1,French,smartness
+미국인,야구,0,3,0,-1,American,baseball
+영국인,정중함,0,3,0,-1,Englishman,graciousness
+한국인,공부,0,3,0,-1,korean,study
+미국인,자유를 사랑하는 사람,0,3,0,-1,American,freedom lover
+독일인,꼼꼼함,0,3,0,-1,German,Meticulous
+영국인,신사도,0,3,0,-1,Englishman,Shinsa Island
+미국인,자유롭다,0,3,0,-1,American,free
+독일인,정확,0,3,0,-1,German,exact
+아프가니스탄인,난민,0,3,0,-1,Afghan,Refugee
+중국인,음식을 잘 먹는다,0,3,0,-1,chinese,eat well
+미국인,자유분방한,0,3,0,-1,American,freewheeling
+서울 사람,도시,0,3,0,-1,Seoul people,city
+이탈리아인,감성적인,1,2,0,-1,Italian,emotional
+사우디인,보수적인,1,2,0,-1,saudi,conservative
+부산 사람,해운,1,2,0,-1,Busan people,shipping
+멕시코인,멕시칸 음식,1,2,0,-1,mexican,mexican food
+서울 사람,근면한,1,2,0,-1,Seoul people,diligent
+모리타니아인,낙타,1,2,0,-1,Mauritanian,camel
+한국인,밥을 좋아함,1,2,0,-1,korean,I like rice
+경상도 사람,털털한,1,2,0,-1,Gyeongsang Province people,easy-going
+벨로루시인,러시아어를 사용하는 사람,1,2,0,-1,Belarusian,Russian-speaking person
+제주도 사람,제주도,1,2,0,-1,Jeju Island people,jeju island
+강원도민,겨울,1,2,0,-1,Gangwon-do residents,winter
+예멘인,커피,1,2,0,-1,Yemeni,coffee
+일본인,섬세한 사람,1,2,0,-1,Japanese,a delicate person
+광주사람,평화 사랑하는,1,2,0,-1,Gwangju people,peace loving
+체코어,어렵다,1,2,0,-1,Czech,difficult
+Manx,귀여움,1,2,0,-1,Manx,cuteness
+미국인,대담한,1,2,0,-1,American,bold
+덴마크인,자전거 사랑,1,2,0,-1,danish,bicycle love
+강원도 철신,낙후된,1,2,0,-1,"Cheolsin, Gangwon-do",underdeveloped
+에리트레아인,에티오피아와 국경을 맞대고 있음,1,2,0,-1,Eritrean,It borders Ethiopia
+스웨덴인,공정한,1,2,0,-1,swedish,fair
+광주 철신,광주,1,2,0,-1,Gwangju Cheolsin,gwangju
+네덜란드인,자전거를 타는 사람,1,2,0,-1,Dutch,person riding a bicycle
+네덜란드인,현실적,1,2,0,-1,Dutch,realistic
+제주도 철신,화산,1,2,0,-1,Jeju Island Cheolsin,volcano
+몰타어,가톨릭,1,2,0,-1,maltese,Catholic
+파나마인,파나마 운하,1,2,0,-1,Panamanian,panama canal
+경상도 철신,무뚝뚝함,1,2,0,-1,Gyeongsang-do Cheolsin,Bluntness
+이스라엘인,유대인,1,2,0,-1,Israeli,Jew
+경기도민,주민,1,2,0,-1,Gyeonggi-do residents,citizen
+충청도 철신,충성스러운,1,2,0,-1,"Cheolsin, Chungcheong-do",loyal
+광주사람,평화 사랑,1,2,0,-1,Gwangju people,peace love
+오스트리아인,악기 연주,1,2,0,-1,Austrian,playing a musical instrument
+경상도 철신,무뚝뚝한,1,2,0,-1,Gyeongsang-do Cheolsin,glum
+몰디브인,섬나라,1,2,0,-1,Maldivian,island country
+영국,섬나라,1,2,0,-1,uk,island country
+서울 사람,바쁜,1,2,0,-1,Seoul people,busy
+스페인어,로맨틱,1,2,0,-1,Spanish,romantic
+Gwangju saram,민주적,1,2,0,-1,Gwangju Saram,democratic
+모리타니아인,낙타를 타고 여행,1,2,0,-1,Mauritanian,travel by camel
+강원도민,소박한,1,2,0,-1,Gangwon-do residents,naive
+벨기에인,맥주,1,2,0,-1,belgian,beer
+중국인,눈이 가늘다,1,2,0,-1,chinese,have narrow eyes
+강원도민,소박,1,2,0,-1,Gangwon-do residents,rustic
+에티오피아인,검은색,1,2,0,-1,Ethiopian,Black color
+코코스 제도 주민,섬에 사는,1,2,0,-1,Cocos Islanders,living on an island
+북한인,지도자,1,2,0,-1,North Korean,Leader
+경상도 사람,말을 빠르게 함,1,2,0,-1,Gyeongsang Province people,speak quickly
+광주사람,민주화 운동가,1,2,0,-1,Gwangju people,democracy activist
+체코어,맥주를 많이 마셨습니다,1,2,0,-1,Czech,I drank a lot of beer
+덴마크인,행복,1,2,0,-1,danish,happiness
+네팔어,고산,1,2,0,-1,nepali,alpine
+네덜란드인,상업적,1,2,0,-1,Dutch,commercial
+경기도민,쌀밥,1,2,0,-1,Gyeonggi-do residents,rice
+일본인,예의 바름,0,3,0,-1,Japanese,decorum
+경기도 철신,쌀이 유명함,1,2,0,-1,"Cheolsin, Gyeonggi-do",Rice is famous
+우크라이나어,러시아어와 비슷함,1,2,0,-1,Ukrainian,Similar to Russian
+크로아티아인,축구,1,2,0,-1,croatian,soccer
+서울 사람,세련된,1,2,0,-1,Seoul people,Refined
+영국인,냉소,1,2,0,-1,Englishman,cynicism
+말레이시아인,말레이시아 요리,1,2,0,-1,Malaysian,malaysian cuisine
+강원도 사람,겨울,1,2,0,-1,People from Gangwon-do,winter
+영국인,냉정하고 무뚝뚝한,1,2,0,-1,Englishman,cold and blunt
+적도기니인,열대 기후,1,2,0,-1,Equatorial Guinean,tropical climate
+경상도 사람,상남자,1,2,0,-1,Gyeongsang Province people,Manly Men
+미국인,진취적인,1,2,0,-1,American,enterprising
+적도기니인,열대 우림,1,2,0,-1,Equatorial Guinean,rainforest
+이집트인,피라미드,1,2,0,-1,Egyptian,pyramid
+덴마크인,높은 생활 수준,1,2,0,-1,danish,high standard of living
+벨로루시인,러시아어,1,2,0,-1,Belarusian,Russian
+독일인,difficult,1,2,0,-1,German,difficult
+중국인,젓가락으로 먹었습니다,1,2,0,-1,chinese,I ate it with chopsticks
+페루인,잉카 제국,1,2,0,-1,Peruvian,inca empire
+광주사람,민주,1,2,0,-1,Gwangju people,democracy
+강원도민,대자연,1,2,0,-1,Gangwon-do residents,nature
+제주도 철신,한라산을 좋아함,1,2,0,-1,Jeju Island Cheolsin,I like Hallasan Mountain
+부산 사람,털털,1,2,0,-1,Busan people,fluffy
+노르웨이인,낚시,1,2,0,-1,norwegian,fishing
+광주사람,민주적인 사람,1,2,0,-1,Gwangju people,democratic person
+적도기니인,열대 지방,1,2,0,-1,Equatorial Guinean,tropical region
+영국인,체면,1,2,0,-1,Englishman,face
+경상도 사람,열정적,1,2,0,-1,Gyeongsang Province people,passionate
+모로코인,낙타,1,2,0,-1,Moroccan,camel
+폴란드인,폴란드어,1,2,0,-1,polish,polish
+경상도 철신,무뚝뚝,1,2,0,-1,Gyeongsang-do Cheolsin,bluntly
+케냐인,야생 동물,1,2,0,-1,kenyan,wild animals
+인천 사람,바다,1,2,0,-1,Incheon people,ocean
+스웨덴인,금발,1,2,0,-1,swedish,blond hair
+제주도 사람,오름을 좋아함,1,2,0,-1,Jeju Island people,I like Oreum
+경상도 사람,호탕한,1,2,0,-1,Gyeongsang Province people,cavalier
+스웨덴인,깨끗함,1,2,0,-1,swedish,clean
+중국인,젓가락을 사용합니다,1,2,0,-1,chinese,Use chopsticks
+대만인,중국인,1,2,0,-1,Taiwanese,chinese
+에티오피아인,검은 피부,1,2,0,-1,Ethiopian,black skin
+중국인,음식 잘함,1,2,0,-1,chinese,good at food
+적도기니인,흑인,1,2,0,-1,Equatorial Guinean,black
+에티오피아인,에티오피아 커피를 좋아함,1,2,0,-1,Ethiopian,I like Ethiopian coffee
+중국인,음식을 잘 만듦,1,2,0,-1,chinese,cooks food well
+강원도민,순박함,1,2,0,-1,Gangwon-do residents,naivety
+스페인어,낭만적,1,2,0,-1,Spanish,romantic
+적도기니인,열대,1,2,0,-1,Equatorial Guinean,tropics
+영국인,예의바른,0,3,0,-1,Englishman,polite
+광주 사람,사투리,0,3,0,-1,Gwangju people,dialect
+아르헨티나인,축구를 좋아하는 사람,0,3,0,-1,Argentinian,someone who likes soccer
+미국인,자유를 사랑하는,0,3,0,-1,American,freedom-loving
+독일인,꼼꼼한,0,3,0,-1,German,scrupulous
+일본인,깔끔한,0,3,0,-1,Japanese,neat
+경상도 사람,사투리,0,3,0,-1,Gyeongsang Province people,dialect
+경상도 사람,무뚝뚝함,0,3,0,-1,Gyeongsang Province people,Bluntness
+사우디인,보수적,0,3,0,-1,saudi,Conservative
+미국인,자유롭게 생각하는,0,3,0,-1,American,free thinking
+프랑스어,우아함,0,3,0,-1,French,elegance
+아르헨티나인,열정적,0,3,0,-1,Argentinian,passionate
+아르헨티나인,축구 선수,0,3,0,-1,Argentinian,Football player
+전라도 사람,남쪽,1,2,0,-1,People from Jeolla-do,South
+영국인,격식 있는,0,3,0,-1,Englishman,formal
+제주도 사람,제주도 방언,0,3,0,-1,Jeju Island people,Jeju Island dialect
+일본인,정밀,0,3,0,-1,Japanese,detailed
+일본인,얌전함,0,3,0,-1,Japanese,Quietness
+스페인어,정열적인,0,3,0,-1,Spanish,passionate
+적도기니인,열대성,1,2,0,-1,Equatorial Guinean,tropical
+서울 사람,바쁘다,1,2,0,-1,Seoul people,busy
+경기도민,한국인,1,2,0,-1,Gyeonggi-do residents,korean
+영국인,냉철함,1,2,0,-1,Englishman,cool-headedness
+서울 사람,바쁜 사람,1,2,0,-1,Seoul people,busy person
+일본인,예의 바른 사람,0,3,0,-1,Japanese,polite person
+일본인,예의가 바랐다,0,3,0,-1,Japanese,I wanted courtesy
+강원도 철신,폐광,0,3,0,-1,"Cheolsin, Gangwon-do",abandoned mine
+일본인,정중,0,3,0,-1,Japanese,courtesy
+덴마크인,행복한,0,3,0,-1,danish,happy
+미국인,자유를 사랑한다,0,3,0,-1,American,love freedom
+강원도 철신,춥다,0,3,0,-1,"Cheolsin, Gangwon-do",cold
+중국인,음식,0,3,0,-1,chinese,food
+스페인어,정열,0,3,0,-1,Spanish,passion
+이집트인,고대,0,3,0,-1,Egyptian,ancient
+아프리카 사람,흑인,0,3,0,-1,African,black
+서울 사람,현대적인,0,3,0,-1,Seoul people,modern
+카타르인,부유,0,3,0,-1,Qatari,floating
+한국인,근면성,0,3,0,-1,korean,diligence
+호주인,캥거루,0,3,0,-1,Australian,kangaroo
+베트남인,베트남 전쟁,0,3,0,-1,Vietnamese,vietnam war
+독일인,정확한,0,3,0,-1,German,accurate
+덴마크인,행복한 사람,0,3,0,-1,danish,happy person
+부산 사람,사투리,0,3,0,-1,Busan people,dialect
+한국인,근면,0,3,0,-1,korean,industry
+영국인,예의,0,3,0,-1,Englishman,manners
+중국인,먹을 것을 좋아합니다,0,3,0,-1,chinese,I like to eat
+우루과이인,축구를 좋아하는,0,3,0,-1,Uruguayan,fond of soccer
+일본인,기술을 잘 만듦,0,3,0,-1,Japanese,good at making technology
+스위스,정확함,0,3,0,-1,Swiss,nicety
+광주사람,민주적인,1,2,0,-1,Gwangju people,democratic
+콩고인,흑인,1,2,0,-1,Congolese,black
+중국인,음식을 많이 먹음,1,2,0,-1,chinese,eating a lot of food
+덴마크인,자전거를 많이 탔습니다.,1,2,0,-1,danish,I rode my bike a lot.
+강원도 사람,산을 잘 오른다,1,2,0,-1,People from Gangwon-do,good at climbing mountains
+경상도 사람,무뚝뚝한 사람,1,2,0,-1,Gyeongsang Province people,yahoo
+멕시코인,멕시코 음식,1,2,0,-1,mexican,mexican food
+네팔어,불교,1,2,0,-1,nepali,buddhism
+제주도 사람,바다를 좋아함,1,2,0,-1,Jeju Island people,love the sea
+북아일랜드인,drunk,1,2,0,-1,Northern Irish,drunk
+서울 사람,지하철을 자주 이용함,1,2,0,-1,Seoul people,I often use the subway
+미국인,자유분방,1,2,0,-1,American,freewheeling
+쿠바인,춤추는,1,2,0,-1,Cuban,dancing
+중국인,많은 사람,1,2,0,-1,chinese,many people
+경상도 철신,낙동강,1,2,0,-1,Gyeongsang-do Cheolsin,Nakdong River
+중국인,젓가락,1,2,0,-1,chinese,chopsticks
+강원도 사람,소박한,1,2,0,-1,People from Gangwon-do,naive
+서울 사람,근면,1,2,0,-1,Seoul people,industry
+스위스,부유한,1,2,0,-1,Swiss,rich
+몰디브인,다이빙,1,2,0,-1,Maldivian,diving
+노르웨이인,큽니다,1,2,0,-1,norwegian,It's big
+모리셔스인,섬나라인,1,2,0,-1,Mauritian,island country
+북한인,키가 작음,1,2,0,-1,North Korean,short stature
+북한인,단호한,1,2,0,-1,North Korean,determined
+미국인,진취적,1,2,0,-1,American,enterprising
+서울 사람,지하철을 타다,1,2,0,-1,Seoul people,take the subway
+에스토니아인,에스토니아어,1,2,0,-1,Estonian,Estonian
+강원도민,산악인,1,2,0,-1,Gangwon-do residents,mountaineer
+아이슬란드어,춥다,1,2,0,-1,Icelandic,cold
+제주도 철신,관광명소,1,2,0,-1,Jeju Island Cheolsin,Attractions
+강원도 사람,소박함,1,2,0,-1,People from Gangwon-do,simplicity
+스웨덴인,민주적,1,2,0,-1,swedish,democratic
+아프가니스탄인,전쟁을 겪었습니다.,1,2,0,-1,Afghan,I went through war.
+이집트인,미스테리,1,2,0,-1,Egyptian,mystery
+서울 사람,빨리 걸음,1,2,0,-1,Seoul people,walk quickly
+이스라엘인,히브리어,1,2,0,-1,Israeli,Hebrew
+충청도 철신,충청도 사람들,1,2,0,-1,"Cheolsin, Chungcheong-do",People of Chungcheong Province
+미국인,활동적인,1,2,0,-1,American,Active
+이스라엘인,jewish,1,2,0,-1,Israeli,jewish
+Sahrawi,독립을 원하는,1,2,0,-1,Sahrawi,want independence
+제주도 사람,해산물,1,2,0,-1,Jeju Island people,seafood
+영국인,냉정함,1,2,0,-1,Englishman,coolness
+네덜란드인,키가 크다,1,2,0,-1,Dutch,Tall
+네팔어,험난한,1,2,0,-1,nepali,rough
+영국인,냉정,1,2,0,-1,Englishman,cool
+강원도 철신,강원도 사람이다,1,2,0,-1,"Cheolsin, Gangwon-do",I am from Gangwon-do
+모리타니아인,사막,1,2,0,-1,Mauritanian,desert
+케냐인,빨리 달리는,1,2,0,-1,kenyan,running fast
+경상도 사람,무뚝뚝한,1,2,0,-1,Gyeongsang Province people,glum
+경기도민,근면성,1,2,0,-1,Gyeonggi-do residents,diligence
+중국인,많은 인구,2,1,0,-1,chinese,large population

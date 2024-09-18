@@ -1,0 +1,1038 @@
+identity,attribute,non_stereotype,stereotype,unsure,mean_offensive_score,translated_identity,translated_attribute_list
+Surinamer,drogenhändler,1,2,0,4,Surinamese,drug dealer
+Kolumbianer,drogenhändler,0,3,0,4,Colombians,drug dealer
+Palästinenser,terroristen,0,3,0,4,Palestinians,terrorists
+Afghanen,terroristen,0,3,0,4,Afghans,terrorists
+Spanisch,criminal,2,1,0,4,Spanish,criminal
+Spanisch,kriminell,0,3,0,3.666666667,Spanish,criminal
+Palästinenser,terrorist,0,3,0,3.666666667,Palestinians,terrorist
+Anhalter,kriminell,1,2,0,3.666666667,Hitchhiker,criminal
+Hamburger,kriminell,2,1,0,3.666666667,hamburger,criminal
+Afghanen,terrorist,0,3,0,3.666666667,Afghans,terrorist
+Rheinländer,dick,2,1,0,3.333333333,Rhinelander,thick
+Westfälisch,dick,2,1,0,3.333333333,Westphalian,thick
+Amerikaner,dick,0,3,0,3.333333333,American,thick
+Pfälzer,dick,2,1,0,3.333333333,Palatinate,thick
+Spanisch,illegal,2,1,0,3.333333333,Spanish,illegal
+Nigerianer,betrüger,2,1,0,3.333333333,Nigerians,cheater
+Pommer,dick,1,2,0,3.333333333,Pomeranian,thick
+Briten,arrogant,0,3,0,3,British,arrogant
+Amerikaner,arrogant,0,3,0,3,American,arrogant
+Franzose,arrogant,1,2,0,3,Frenchman,arrogant
+Engländer,arrogant,0,3,0,3,English people,arrogant
+Berliner,arrogant,0,3,0,3,Donut,arrogant
+Preußen,arrogant,1,2,0,3,Prussia,arrogant
+Hannoveraner,arrogant,1,2,0,3,Hanoverians,arrogant
+Kubaner,kommunist,0,3,0,3,Cuban,Communist
+Franzosen,arrogant,0,3,0,3,French people,arrogant
+Französisch,arrogant,0,3,0,3,French,arrogant
+Rheinländer,geizig,0,3,0,2.666666667,Rhinelander,stingy
+Briten,snobistisch,1,2,0,2.666666667,British,snobbish
+Preußen,aggressiv,0,3,0,2.666666667,Prussia,aggressive
+Schleswiger,geizig,2,1,0,2.666666667,Schleswiger,stingy
+Gambisch,aggressiv,1,2,0,2.666666667,Gambian,aggressive
+Serben,aggressiv,0,3,0,2.666666667,Serbs,aggressive
+Anhalter,aggressiv,1,2,0,2.666666667,Hitchhiker,aggressive
+Engländer,schlecht,2,1,0,2.666666667,English people,bad
+Franken,aggressiv,0,3,0,2.666666667,Franconia,aggressive
+Franken,geizig,1,2,0,2.666666667,Franconia,stingy
+Amerikaner,dumm,2,1,0,2.666666667,American,dumb
+Schwaben,geizig,1,2,0,2.666666667,Swabia,stingy
+Amerikaner,egoistisch,0,3,0,2.666666667,American,egotistical
+Briten,kolonialistisch,0,3,0,2.666666667,British,colonialist
+Anhalter,betrügerisch,1,2,0,2.666666667,Hitchhiker,fraudulent
+Anhalter,unhöflich,1,2,0,2.666666667,Hitchhiker,impolite
+Hannoveraner,schick,2,1,0,2.333333333,Hanoverians,chic
+Saudis,verschwenderisch,0,3,0,2.333333333,Saudis,wasteful
+Französisch,schick,1,2,0,2.333333333,French,chic
+Anhalter,belästigend,2,1,0,2.333333333,Hitchhiker,harassing
+Südafrikaner,rassistisch,2,1,0,2.333333333,South African,racist
+Bosnier,kriegsverbrecher,1,2,0,2.333333333,Bosnian,war criminal
+Franken,gierig,1,2,0,2.333333333,Franconia,greedy
+Preußen,kriegerisch,0,3,0,2,Prussia,warlike
+Franken,kriegerisch,0,3,0,2,Franconia,warlike
+Nordkoreaner,brutal,0,3,0,2,North Koreans,brutally
+Palästinenser,unterdrückt,0,3,0,2,Palestinians,suppressed
+Hamburger,kaufsüchtig,1,2,0,2,hamburger,addicted to shopping
+Nordkoreaner,tyrannisch,0,3,0,2,North Koreans,tyrannical
+Mongolisch,kriegerisch,1,2,0,2,Mongolian,warlike
+Äquatoguineer,korrupt,0,3,0,2,Equatoguineans,corrupt
+Nordkoreaner,diktatur,0,3,0,2,North Koreans,dictatorship
+Kokosinselbewohner,nackt,2,1,0,2,Cocos Islanders,naked
+Pommern,kriegerisch,2,1,0,2,Pomerania,warlike
+Nordkoreaner,unterdrückt,1,2,0,2,North Koreans,suppressed
+Nordkoreaner,diktator,0,3,0,2,North Koreans,dictator
+Südsudanesen,kriegerisch,1,2,0,2,South Sudanese,warlike
+Serben,kriegerisch,1,2,0,2,Serbs,warlike
+Iraner,schiitischer muslim,1,1,1,2,Iranians,Shia Muslim
+Syrisch,flüchtlinge,0,3,0,2,Syrian,refugees
+Franken,barbarisch,0,3,0,2,Franconia,barbaric
+Serben,brutal,0,3,0,2,Serbs,brutally
+Rheinländer,redselig,2,1,0,2,Rhinelander,talkative
+Bosnier,kriegerisch,1,2,0,2,Bosnian,warlike
+Albanisch,mafia,1,2,0,2,Albanian,mafia
+Anhalter,bettler,2,1,0,1.666666667,Hitchhiker,beggar
+Preußen,militaristisch,0,3,0,1.666666667,Prussia,militaristic
+Hamburger,schmutzig,2,1,0,1.666666667,hamburger,dirty
+Nordkoreaner,diktatorisch,0,3,0,1.666666667,North Koreans,dictatorial
+Anhalter,gefährlich,1,2,0,1.666666667,Hitchhiker,dangerous
+Preußen,autoritär,1,2,0,1.666666667,Prussia,authoritarian
+Israelisch,zionistisch,1,2,0,1.666666667,Israeli,Zionist
+Anhalter,betteln,2,1,0,1.666666667,Hitchhiker,beg
+Ruander,ethnische säuberung,2,1,0,1.666666667,Rwandans,ethnic cleansing
+Nordiren,rebellisch,2,1,0,1.666666667,Northern Irish,rebellious
+Nordkoreaner,autoritär,0,3,0,1.666666667,North Koreans,authoritarian
+Syrisch,flüchtling,0,3,0,1.666666667,Syrian,refugee
+Palästinenser,leiden unter armut,1,2,0,1.666666667,Palestinians,suffer from poverty
+Anhalter,verärgert,2,1,0,1.666666667,Hitchhiker,annoyed
+Nordkoreaner,feindselig,0,3,0,1.666666667,North Koreans,hostile
+Ruander,gewalttätig,0,3,0,1.333333333,Rwandans,violent
+Briten,exzentrisch,1,2,0,1.333333333,British,eccentric
+Israelisch,streitlustig,1,2,0,1.333333333,Israeli,belligerent
+Franken,kämpferisch,1,2,0,1.333333333,Franconia,combative
+Palästinenser,kämpferisch,0,3,0,1.333333333,Palestinians,combative
+Gambisch,riskant,1,2,0,1.333333333,Gambian,risky
+Manx,gefährdet,2,1,0,1.333333333,Manx,endangered
+Anhalter,hilflos,1,2,0,1.333333333,Hitchhiker,helpless
+Serben,gewalttätig,0,3,0,1.333333333,Serbs,violent
+Schottisch,mürrisch,1,2,0,1.333333333,Scottish,grumpy
+Eritreer,asylbewerber,0,3,0,1.333333333,Eritreans,Asylum seekers
+Anhalter,nachlässig,1,2,0,1.333333333,Hitchhiker,careless
+Mecklenburger,unfreundlich,1,2,0,1.333333333,Mecklenburg,unfriendly
+Tschechisch,weniger höflich,2,1,0,1.333333333,Czech,less polite
+Pommer,mürrisch,1,2,0,1.333333333,Pomeranian,grumpy
+Niederländer,pragmatisch,1,2,0,1.333333333,Dutch,pragmatic
+Nordiren,mürrisch,0,3,0,1.333333333,Northern Irish,grumpy
+Ungarisch,ungeduldige,2,1,0,1.333333333,Hungarian,impatient
+Spanisch,stierkampf,0,3,0,1,Spanish,bullfight
+Hamburger,ungesund,1,2,0,1,hamburger,unhealthy
+Syrisch,flüchten,0,3,0,1,Syrian,escape
+Anhalter,verzweifelt,2,1,0,1,Hitchhiker,desperate
+Madagassisch,exotisch,1,2,0,1,Malagasy,exotic
+Estnisch,skurrile,0,3,0,1,Estonian,bizarre
+Südsudanesen,verhungert,0,3,0,1,South Sudanese,starved
+Anhalter,lästig,1,2,0,1,Hitchhiker,annoying
+Anhalter,obdachloser,2,1,0,1,Hitchhiker,homeless person
+Kolumbianer,drogen,0,3,0,1,Colombians,drugs
+Badenser,träge,1,2,0,1,Badenser,sluggish
+Ungarisch,ungeduldig,1,2,0,0.6666666667,Hungarian,impatient
+Sachsen,stur,1,2,0,0.6666666667,Saxony,stubborn
+Schlesier,stur,1,2,0,0.6666666667,Silesians,stubborn
+Saarländer,stur,1,2,0,0.6666666667,Saarlander,stubborn
+Südsudanesen,arm,1,2,0,0.6666666667,South Sudanese,poor
+Badener,schwätzig,1,2,0,0.6666666667,Baden,chatty
+Pommern,hartnäckig,1,2,0,0.6666666667,Pomerania,stubborn
+Italiener,chaotisch,1,2,0,0.6666666667,Italian,chaotic
+Rheinländer,streitsüchtig,1,2,0,0.6666666667,Rhinelander,argumentative
+Israelisch,juden,1,2,0,0.6666666667,Israeli,Jews
+Holsteiner,stur,1,2,0,0.6666666667,Holsteiner,stubborn
+Berliner,chaotisch,1,2,0,0.6666666667,Donut,chaotic
+Hannoveraner,stur,1,2,0,0.6666666667,Hanoverians,stubborn
+Pfälzer,stur,1,2,0,0.6666666667,Palatinate,stubborn
+Schlesier,hartnäckig,1,2,0,0.6666666667,Silesians,stubborn
+Brandenburger,stur,1,2,0,0.6666666667,Brandenburg,stubborn
+Franken,hartnäckig,1,2,0,0.6666666667,Franconia,stubborn
+Ungarisch,stur,0,3,0,0.6666666667,Hungarian,stubborn
+Rheinländer,stur,0,3,0,0.6666666667,Rhinelander,stubborn
+Sierra-Leoner,arm,1,2,0,0.6666666667,Sierra Leoneans,poor
+Schleswiger,streitsüchtig,1,2,0,0.6666666667,Schleswiger,argumentative
+Estnisch,stur,1,2,0,0.6666666667,Estonian,stubborn
+Pommern,stur,1,2,0,0.6666666667,Pomerania,stubborn
+Mecklenburger,stur,1,2,0,0.6666666667,Mecklenburg,stubborn
+Israelisch,streitsüchtig,1,2,0,0.6666666667,Israeli,argumentative
+Pfälzer,streitsüchtig,0,2,1,0.6666666667,Palatinate,argumentative
+Moldawier,arm,0,3,0,0.6666666667,Moldovans,poor
+Schleswiger,stur,1,2,0,0.6666666667,Schleswiger,stubborn
+Westfälisch,stur,1,2,0,0.6666666667,Westphalian,stubborn
+Finnen,stur,1,2,0,0.6666666667,Finns,stubborn
+Franken,stur,0,3,0,0.6666666667,Franconia,stubborn
+Anhalter,arm,1,2,0,0.6666666667,Hitchhiker,poor
+Thüringer,stur,1,2,0,0.6666666667,Thuringian,stubborn
+Franken,streitsüchtig,0,3,0,0.6666666667,Franconia,argumentative
+Nordiren,streitsüchtig,1,2,0,0.6666666667,Northern Irish,argumentative
+Kokosinselbewohner,einsam,2,1,0,0.6666666667,Cocos Islanders,lonely
+Israelisch,jude,2,1,0,0.6666666667,Israeli,Jew
+Niederländer,stur,2,1,0,0.6666666667,Dutch,stubborn
+Russisch,stur,0,3,0,0.6666666667,Russian,stubborn
+Holsteiner,kuh,2,1,0,0.6666666667,Holsteiner,cow
+Laoten,arm,2,1,0,0.6666666667,Laotians,poor
+Hamburger,stur,2,1,0,0.6666666667,hamburger,stubborn
+Somalis,piraten,0,3,0,0.6666666667,Somalis,pirates
+Amerikaner,fett,0,3,0,0.6666666667,American,fat
+Hamburger,fett,2,1,0,0.6666666667,hamburger,fat
+Salvadorianer,arm,0,3,0,0.6666666667,Salvadorans,poor
+Manx,stur,2,1,0,0.6666666667,Manx,stubborn
+Ungarisch,ungläubig,2,1,0,0.6666666667,Hungarian,incredulous
+Anhalter,unsicher,2,1,0,0.6666666667,Hitchhiker,unsure
+Argentinier,fußballverrückt,0,3,0,0.6666666667,Argentinians,football crazy
+Pommer,stur,1,2,0,0.6666666667,Pomeranian,stubborn
+Amerikaner,frech,0,3,0,0.6666666667,American,cheeky
+Berliner,stur,0,3,0,0.6666666667,Donut,stubborn
+Sahraui,nomadisch,1,2,0,0.3333333333,Sahrawi,nomadic
+Tschechisch,raucht,0,2,1,0.3333333333,Czech,smokes
+Pfälzer,geschwätzig,1,2,0,0.3333333333,Palatinate,chatty
+Somalis,nomadisch,1,2,0,0.3333333333,Somalis,nomadic
+Chinesen,essen viel,1,2,0,0.3333333333,Chinese,eat a lot
+Sachsen,rückständig,1,2,0,0.3333333333,Saxony,backward
+Mongolisch,nomadisch,1,2,0,0.3333333333,Mongolian,nomadic
+Äthiopier,hunger,1,2,0,0.3333333333,Ethiopian,hunger
+Kölner,kölsch,2,1,0,0.3333333333,Cologne,Cologne
+Hamburger,fettig,2,1,0,0.3333333333,hamburger,greasy
+Polnisch,schief,2,1,0,0.3333333333,Polish,wrong
+Hamburger,weniger freundlich,1,2,0,0.3333333333,hamburger,less friendly
+Pommern,rückständig,1,2,0,0.3333333333,Pomerania,backward
+Preußen,rückständig,2,1,0,0.3333333333,Prussia,backward
+Hamburger,essen viel,2,1,0,0.3333333333,hamburger,eat a lot
+Briten,schroff,1,2,0,0.3333333333,British,harsh
+Rheinländer,gesprächig,2,1,0,0,Rhinelander,talkative
+Anhalter,bettelnd,2,1,0,0,Hitchhiker,begging
+Pommer,liebt pferde,2,1,0,0,Pomeranian,loves horses
+Pommern,trank viel,2,1,0,0,Pomerania,drank a lot
+Belgier,bier,2,1,0,0,Belgian,beer
+Österreicher,bier,2,1,0,0,Austrian,beer
+Briten,kolonialherren,1,2,0,0,British,colonial masters
+Bayern,bier,1,2,0,0,Bavaria,beer
+Deutsche,streng,0,3,0,0,German,strictly
+Deutsche,bier,2,1,0,0,German,beer
+Franken,barbar,0,3,0,0,Franconia,barbaric
+Ghanaisch,nicht gut gesprochen,2,1,0,0,Ghanaian,not well spoken
+Äthiopier,dürr,1,2,0,0,Ethiopian,skinny
+Hamburger,schlank,2,1,0,0,hamburger,slim
+Preußen,streng,0,3,0,0,Prussia,strictly
+Holsteiner,schlank,2,1,0,0,Holsteiner,slim
+Laoten,ländlich,1,2,0,0,Laotians,rural
+Schottisch,schottisches terrier,2,1,0,0,Scottish,Scottish terrier
+Pommern,ländlich,1,2,0,0,Pomerania,rural
+Pfälzer,gesprächig,2,1,0,0,Palatinate,talkative
+Niedersachsen,ländlich,2,1,0,0,Lower Saxony,rural
+Westfälisch,ländlich,0,3,0,0,Westphalian,rural
+Briten,distanziert,2,1,0,0,British,distant
+Tschechisch,bier,1,2,0,0,Czech,beer
+Österreicher,schwierig zu verstehen,2,1,0,0,Austrian,hard to understand
+Nordkoreaner,streng,0,3,0,0,North Koreans,strictly
+Nordrhein - Westfalen,ländlich,2,1,0,0,North Rhine - Westphalia,rural
+Russisch,schwer,0,3,0,0,Russian,difficult
+Amerikaner,laut,1,2,0,-0.3333333333,American,loud
+Estnisch,schüchtern,1,2,0,-0.3333333333,Estonian,shy
+Westfälisch,konservativ,1,2,0,-0.3333333333,Westphalian,conservative
+Rheinländer,trinkt gerne bier,2,1,0,-0.3333333333,Rhinelander,likes to drink beer
+Schweizer,reserviert,1,2,0,-0.3333333333,Swiss,reserved
+Bosnier,muslim,2,1,0,-0.3333333333,Bosnian,Muslim
+Franken,bärtig,2,1,0,-0.3333333333,Franconia,bearded
+Italiener,emotional,1,2,0,-0.3333333333,Italian,emotionally
+Amerikaner,ehrgeizig,1,2,0,-0.3333333333,American,ambitious
+Schleswiger,konservativ,2,1,0,-0.3333333333,Schleswiger,conservative
+Preußen,ordentlich,2,1,0,-0.3333333333,Prussia,orderly
+Algerier,muslimisch,1,2,0,-0.3333333333,Algerian,Muslim
+Schlesier,konservativ,2,1,0,-0.3333333333,Silesians,conservative
+Laoten,buddhismus,1,2,0,-0.3333333333,Laotians,Buddhism
+Mecklenburger,konservativ,2,1,0,-0.3333333333,Mecklenburg,conservative
+Berliner,laut,1,2,0,-0.3333333333,Donut,loud
+Nordrhein - Westfalen,viele autos,1,2,0,-0.3333333333,North Rhine - Westphalia,many cars
+Badener,konservativ,1,2,0,-0.3333333333,Baden,conservative
+Briten,reserviert,1,2,0,-0.3333333333,British,reserved
+Sachsen,biertrinker,1,2,0,-0.3333333333,Saxony,beer drinker
+Hamburger,konservativ,2,1,0,-0.3333333333,hamburger,conservative
+Österreicher,ordentlich,1,2,0,-0.3333333333,Austrian,orderly
+Saarländer,konservativ,1,2,0,-0.3333333333,Saarlander,conservative
+Briten,trinken viel bier,2,1,0,-0.3333333333,British,drink a lot of beer
+Palatiner,konservativ,1,2,0,-0.3333333333,Palatine,conservative
+Pfälzer,trinken wein,2,1,0,-0.3333333333,Palatinate,drink wine
+Brandenburger,konservativ,2,1,0,-0.3333333333,Brandenburg,conservative
+Franken,konservativ,1,2,0,-0.3333333333,Franconia,conservative
+Holsteiner,konservativ,2,1,0,-0.3333333333,Holsteiner,conservative
+Belgier,bierliebhaber,1,2,0,-0.3333333333,Belgian,beer lover
+Hannoveraner,ehrgeizig,1,2,0,-0.3333333333,Hanoverians,ambitious
+Briten,trinken gerne bier,1,2,0,-0.3333333333,British,like to drink beer
+Afghanen,bärtig,1,2,0,-0.3333333333,Afghans,bearded
+Griechen,wissbegierig,2,1,0,-0.3333333333,Greeks,inquisitive
+Thüringer,konservativ,1,2,0,-0.3333333333,Thuringian,conservative
+Engländer,reserviert,2,1,0,-0.3333333333,English people,reserved
+Nordrhein - Westfalen,konservativ,1,2,0,-0.3333333333,North Rhine - Westphalia,conservative
+Württemberger,konservativ,2,1,0,-0.3333333333,Württemberger,conservative
+Russisch,kompliziert,1,2,0,-0.3333333333,Russian,complicated
+Niedersachsen,konservativ,2,1,0,-0.3333333333,Lower Saxony,conservative
+Hannoverier,konservativ,1,2,0,-0.3333333333,Hanoverians,conservative
+Pommer,konservativ,2,1,0,-0.3333333333,Pomeranian,conservative
+Hessen,konservativ,2,1,0,-0.3333333333,Hesse,conservative
+Amerikaner,individualistisch,1,2,0,-0.3333333333,American,individualistic
+Belgier,reserviert,2,1,0,-0.3333333333,Belgian,reserved
+Hessisch,konservativ,1,1,1,-0.3333333333,Hessian,conservative
+Hamburger,essen gerne fischbrötchen,2,1,0,-0.3333333333,hamburger,like to eat fish sandwiches
+Aserbaidschaner,muslimisch,1,2,0,-0.3333333333,Azerbaijanis,Muslim
+Rheinländer,trinken gerne bier,2,1,0,-0.3333333333,Rhinelander,like to drink beer
+Manx,ausgestorben,1,2,0,-0.3333333333,Manx,extinct
+Briten,trinken gern bier,2,1,0,-0.3333333333,British,like to drink beer
+Bayern,konservativ,2,1,0,-0.3333333333,Bavaria,conservative
+Franken,biertrinker,2,1,0,-0.3333333333,Franconia,beer drinker
+Briten,konservativ,1,2,0,-0.3333333333,British,conservative
+Österreicher,konservativ,1,2,0,-0.3333333333,Austrian,conservative
+Israelisch,jüdisch,2,1,0,-0.3333333333,Israeli,Jewish
+Sachsen,konservativ,2,1,0,-0.3333333333,Saxony,conservative
+Bosnier,muslimisch,1,2,0,-0.3333333333,Bosnian,Muslim
+Dänen,trinken viel bier,1,2,0,-0.3333333333,Danes,drink a lot of beer
+Pfälzer,lieben wein,2,1,0,-0.3333333333,Palatinate,love wine
+Österreicher,bier trinken,1,2,0,-0.3333333333,Austrian,drink beer
+Bayern,katholiken,2,1,0,-0.3333333333,Bavaria,Catholics
+Amerikaner,redet viel,2,1,0,-0.3333333333,American,talks a lot
+Rheinländer,konservativ,1,2,0,-0.3333333333,Rhinelander,conservative
+Anhalter,betrunken,2,1,0,-0.3333333333,Hitchhiker,drunk
+Finnen,reserviert,1,2,0,-0.3333333333,Finns,reserved
+Belgier,bier trinken,1,2,0,-0.3333333333,Belgian,drink beer
+Holsteiner,stämmig,2,1,0,-0.3333333333,Holsteiner,stocky
+Schlesier,hart,1,2,0,-0.3333333333,Silesians,hard
+Holsteiner,rinder,2,1,0,-0.3333333333,Holsteiner,bovine
+Australier,surfen,2,1,0,-0.3333333333,Australian,surfing
+Pommern,konservativ,0,3,0,-0.3333333333,Pomerania,conservative
+Portugiesisch,emotional,0,3,0,-0.3333333333,Portuguese,emotionally
+Amerikaner,essen viel fast food,0,3,0,-0.3333333333,American,eat a lot of fast food
+Deutsche,ordentlich,0,3,0,-0.3333333333,German,orderly
+Schweizer,ordentlich,0,3,0,-0.3333333333,Swiss,orderly
+Belgier,biertrinker,0,3,0,-0.3333333333,Belgian,beer drinker
+Österreicher,biertrinker,1,2,0,-0.3333333333,Austrian,beer drinker
+Argentinier,leidenschaftlich,0,3,0,-0.3333333333,Argentinians,passionate
+Preußen,konservativ,0,3,0,-0.3333333333,Prussia,conservative
+Palästinenser,leidenschaftlich,0,3,0,-0.3333333333,Palestinians,passionate
+Bayern,bier trinken,0,3,0,-0.3333333333,Bavaria,drink beer
+Österreicher,trinkt gerne bier,0,3,0,-0.3333333333,Austrian,likes to drink beer
+Griechen,emotional,0,3,0,-0.3333333333,Greeks,emotionally
+Rheinländer,biertrinker,0,3,0,-0.3333333333,Rhinelander,beer drinker
+Berliner,konservativ,0,3,0,-0.3333333333,Donut,conservative
+Nordkoreaner,strikt,0,3,0,-0.3333333333,North Koreans,strict
+Badenser,konservativ,0,3,0,-0.3333333333,Badenser,conservative
+Schweizer,konservativ,0,3,0,-0.3333333333,Swiss,conservative
+Pfälzer,konservativ,1,2,0,-0.3333333333,Palatinate,conservative
+Hannoveraner,konservativ,1,2,0,-0.3333333333,Hanoverians,conservative
+Rheinländer,trinkend,1,2,0,-0.3333333333,Rhinelander,drinking
+Bayern,biertrinker,0,3,0,-0.3333333333,Bavaria,beer drinker
+Türken,laut,0,3,0,-0.3333333333,Turks,loud
+Schwaben,konservativ,0,3,0,-0.3333333333,Swabia,conservative
+Spanisch,emotional,0,3,0,-0.3333333333,Spanish,emotionally
+Kubaner,leidenschaftlich,0,3,0,-0.3333333333,Cuban,passionate
+Aserbaidschaner,gasreich,0,3,0,-0.3333333333,Azerbaijanis,gas-rich
+Spanisch,leidenschaftlich,0,3,0,-0.3333333333,Spanish,passionate
+Iren,trinken viel bier,0,3,0,-0.3333333333,Irish,drink a lot of beer
+Italiener,leidenschaftlich,0,3,0,-0.3333333333,Italian,passionate
+Nordkoreaner,kommunistisch,0,3,0,-0.6666666667,North Koreans,Communist
+Kubaner,kommunistisch,1,2,0,-0.6666666667,Cuban,Communist
+Surinamer,schwarz,2,1,0,-1,Surinamese,black
+Sansibari,freundlich,2,1,0,-1,Zanzibari,friendly
+Uruguayisch,sportlich,2,1,0,-1,Uruguayan,sporty
+Mongolisch,nomade,0,3,0,-1,Mongolian,nomad
+Pfälzer,winzer,2,1,0,-1,Palatinate,winemaker
+Hamburger,höflich,2,1,0,-1,hamburger,polite
+Hannoveraner,gut im dressurreiten,2,1,0,-1,Hanoverians,good at dressage
+Tunesier,mediterran,2,1,0,-1,Tunisians,Mediterranean
+Württemberger,schwaben,2,1,0,-1,Württemberger,Swabia
+Österreicher,sparsam,0,3,0,-1,Austrian,thrifty
+Pommern,deutsch,2,1,0,-1,Pomerania,German
+Briten,tee trinken,0,3,0,-1,British,to drink tea
+Berliner,cool,2,1,0,-1,Donut,cool
+Hessen,lieben apfelwein,2,1,0,-1,Hesse,love apple cider
+Russisch,kalt,0,3,0,-1,Russian,cold
+Belgier,sprachen französisch,2,1,0,-1,Belgian,spoke French
+Mongolisch,nomaden,0,3,0,-1,Mongolian,nomads
+Spanisch,flamenco,2,1,0,-1,Spanish,flamenco
+Dänen,skandinavier,2,1,0,-1,Danes,Scandinavians
+Schotten,kilt,2,1,0,-1,Scots,kilt
+Russisch,slawisch,2,1,0,-1,Russian,Slavic
+Briten,trinken,2,1,0,-1,British,drink
+Formosaner,fleißig,0,3,0,-1,Formosans,diligent
+Brandenburger,bodenständig,2,1,0,-1,Brandenburg,down to earth
+Hamburger,liebt,2,1,0,-1,hamburger,loves
+Preußen,ernst,2,1,0,-1,Prussia,serious
+Rheinländer,fröhlich,2,1,0,-1,Rhinelander,cheerful
+Malediver,freundlich,2,1,0,-1,Maldivian,friendly
+Färöisch,isländisch,2,1,0,-1,Faroese,Icelandic
+Badener,sparsam,2,1,0,-1,Baden,thrifty
+Hamburger,essen gern fisch,2,1,0,-1,hamburger,like to eat fish
+Färöisch,fischig,2,1,0,-1,Faroese,fishy
+Singapurer,effizient,0,3,0,-1,Singaporeans,efficient
+Anhalter,warten,2,1,0,-1,Hitchhiker,wait
+Färöisch,nicht viel getrunken,2,1,0,-1,Faroese,didn't drink much
+Saarländer,sparsam,0,3,0,-1,Saarlander,thrifty
+Holsteiner,schwarz-weiß,2,1,0,-1,Holsteiner,black-and-white
+Briten,gut gekleidet,0,3,0,-1,British,well dressed
+Nordrhein - Westfalen,reich,2,1,0,-1,North Rhine - Westphalia,rich
+Zentralafrikaner,stammesgebunden,0,3,0,-1,Central Africans,tribal
+Rumänisch,romantisch,2,1,0,-1,Romanian,romantic
+Nordrhein - Westfalen,industrieland,2,1,0,-1,North Rhine - Westphalia,industrial country
+Briten,zivilisation,2,1,0,-1,British,civilization
+Manx,katzenliebhaber,2,1,0,-1,Manx,cat lover
+Pfälzer,wein,2,1,0,-1,Palatinate,wine
+Franzosen,essen gerne baguette,0,3,0,-1,French people,like to eat baguette
+Anhalter,müde,2,1,0,-1,Hitchhiker,tired
+Italiener,temperamentvoll,0,3,0,-1,Italian,spirited
+Iraner,religiös,0,3,0,-1,Iranians,religious
+Österreicher,biertrinkend,2,1,0,-1,Austrian,drinking beer
+Schweizer,genau,2,1,0,-1,Swiss,Exactly
+Schwaben,fleißig,0,3,0,-1,Swabia,diligent
+Hamburger,reich,2,1,0,-1,hamburger,rich
+Chinesen,arbeiten hart,0,3,0,-1,Chinese,work hard
+Afghanen,gastfreundlich,0,3,0,-1,Afghans,hospitable
+Berliner,offen,2,1,0,-1,Donut,open
+Nicaraguaner,mittelgroß,2,1,0,-1,Nicaraguans,medium-sized
+Amerikaner,weltoffen,2,1,0,-1,American,cosmopolitan
+Schottisch,whisky,2,1,0,-1,Scottish,whiskey
+Sansibari,tanzen,2,1,0,-1,Zanzibari,dance
+Amerikaner,politisch korrekt,2,1,0,-1,American,politically correct
+Argentinier,fußballbegeistert,0,3,0,-1,Argentinians,football enthusiast
+Singapurer,sauber,0,3,0,-1,Singaporeans,clean
+Schottisch,schottische whisky,2,1,0,-1,Scottish,Scottish whiskey
+Pfälzer,trinkfest,2,1,0,-1,Palatinate,hard to drink
+Berliner,süß,2,1,0,-1,Donut,sweet
+Hannoveraner,praktisch,2,1,0,-1,Hanoverians,practical
+Berliner,humorvoll,2,1,0,-1,Donut,humorous
+Weihnachtsinselbewohner,feiern weihnachten,2,1,0,-1,Christmas Islanders,celebrate Christmas
+Nordrhein - Westfalen,weltoffen,2,1,0,-1,North Rhine - Westphalia,cosmopolitan
+Chilenisch,chili,2,1,0,-1,Chilean,chili
+Hannoveraner,gut im reitsport,2,1,0,-1,Hanoverians,good at equestrian sports
+Deutsche,pünktlich,0,3,0,-1,German,on time
+Niedersachsen,bodenständig,2,1,0,-1,Lower Saxony,down to earth
+Tschechisch,ein bier,2,1,0,-1,Czech,a beer
+Württemberger,bodenständig,2,1,0,-1,Württemberger,down to earth
+Andorraner,klein,1,2,0,-1,Andorrans,small
+Hessen,apfelwein,2,1,0,-1,Hesse,apple cider
+Italiener,pizza,0,3,0,-1,Italian,Pizza
+Sahraui,nomaden,2,1,0,-1,Sahrawi,nomads
+Westfälisch,bodenständig,2,1,0,-1,Westphalian,down to earth
+Hamburger,liebt fisch,2,1,0,-1,hamburger,loves fish
+Kölner,trinkfest,2,1,0,-1,Cologne,hard to drink
+Badener,gerne baden,0,3,0,-1,Baden,like to bathe
+Badener,gemütlich,2,1,0,-1,Baden,cozy
+Schlesier,bodenständig,2,1,0,-1,Silesians,down to earth
+Schweizer,uhr,0,3,0,-1,Swiss,clock
+Japaner,gut im judo,0,3,0,-1,Japanese,good at judo
+Emiratis,wohlhabend,0,3,0,-1,Emiratis,wealthy
+Pommern,fleißig,2,1,0,-1,Pomerania,diligent
+Berliner,weltoffen,2,1,0,-1,Donut,cosmopolitan
+Amerikaner,fleißig,2,1,0,-1,American,diligent
+Holsteiner,bodenständig,2,1,0,-1,Holsteiner,down to earth
+Norwegisch,kalt,0,3,0,-1,Norwegian,cold
+Brandenburger,sparsam,2,1,0,-1,Brandenburg,thrifty
+Hannoveraner,gebildet,2,1,0,-1,Hanoverians,educated
+Österreicher,gebirgig,2,1,0,-1,Austrian,mountainous
+Briten,humorvoll,2,1,0,-1,British,humorous
+Panamaier,gut im baseball,2,1,0,-1,Panamanian,good at baseball
+Mongolisch,wild,0,3,0,-1,Mongolian,wild
+Österreicher,sehr höflich,0,3,0,-1,Austrian,very polite
+Kenianer,gut im marathon,2,1,0,-1,Kenyans,good in marathons
+Costa-Ricaner,entspannt,0,3,0,-1,Costa Ricans,relaxed
+Anhalter,freundlich,2,1,0,-1,Hitchhiker,friendly
+Rheinländer,gemütlich,2,1,0,-1,Rhinelander,cozy
+Hamburger,geschäftsorientiert,2,1,0,-1,hamburger,business oriented
+Schleswiger,schlau,2,1,0,-1,Schleswiger,clever
+Badenser,sparsam,2,1,0,-1,Badenser,thrifty
+Schweizer,neutral,0,3,0,-1,Swiss,neutral
+Briten,trinkfreudig,2,1,0,-1,British,happy to drink
+Preußen,diszipliniert,0,3,0,-1,Prussia,disciplined
+Mecklenburger,freundlich,2,1,0,-1,Mecklenburg,friendly
+Schlesier,sparsam,2,1,0,-1,Silesians,thrifty
+Spanisch,tanzliebe,2,1,0,-1,Spanish,dance love
+Kanadier,eishockey,0,3,0,-1,Canadian,ice Hockey
+Amerikaner,reich,0,3,0,-1,American,rich
+Malteser,katholisch,2,1,0,-1,Maltese,Catholic
+Georgisch,gastfreundlich,2,1,0,-1,Georgian,hospitable
+Mecklenburger,blond,2,1,0,-1,Mecklenburg,blond
+Iren,trinkfest,2,1,0,-1,Irish,hard to drink
+Engländer,tee,0,3,0,-1,English people,tea
+Deutsche,organisiert,0,3,0,-1,German,organized
+Tschechisch,trinken bier,2,1,0,-1,Czech,drinking beer
+Schweizer,schokolade,2,1,0,-1,Swiss,chocolate
+Gambisch,taktisch,2,1,0,-1,Gambian,tactical
+Hamburger,typisch,2,1,0,-1,hamburger,typical
+Madagassisch,schwarz,2,1,0,-1,Malagasy,black
+Norwegisch,kühl,2,1,0,-1,Norwegian,cool
+Hannoveraner,stolz,2,1,0,-1,Hanoverians,proud
+Schweizer,uhrmacher,0,3,0,-1,Swiss,watchmaker
+Australier,sportlich,2,1,0,-1,Australian,sporty
+Hamburger,geschäftstüchtig,2,1,0,-1,hamburger,businesslike
+Holsteiner,kräftig,2,1,0,-1,Holsteiner,strong
+Äthiopier,gut im distanzlauf,2,1,0,-1,Ethiopian,good at distance running
+Anhalter,höflich,2,1,0,-1,Hitchhiker,polite
+Badenser,gemütlich,2,1,0,-1,Badenser,cozy
+Anhalter,gut im sprint,2,1,0,-1,Hitchhiker,good at sprinting
+Englisch,weltweit verbreitet,2,1,0,-1,English,spread worldwide
+Bulgarisch,orthodox,2,1,0,-1,Bulgarian,orthodox
+Finnen,kalt,2,1,0,-1,Finns,cold
+Filipinas,liebevoll,2,1,0,-1,Filipinas,lovingly
+Amerikaner,gut im basketball,2,1,0,-1,American,good at basketball
+Serben,männlich,2,1,0,-1,Serbs,masculine
+Thüringer,zurückhaltend,2,1,0,-1,Thuringian,reserved
+Chinesen,hart arbeitend,0,3,0,-1,Chinese,hard working
+Dänen,sprechen fließend englisch,2,1,0,-1,Danes,speak English fluently
+Thüringer,höflich,2,1,0,-1,Thuringian,polite
+Schlesier,tüchtig,2,1,0,-1,Silesians,efficient
+Venezolanisch,salsa,2,1,0,-1,Venezuelan,salsa
+Niederländer,mögen käse,2,1,0,-1,Dutch,like cheese
+Letts,blond,2,1,0,-1,Letts,blond
+Amerikaner,freundlich,2,1,0,-1,American,friendly
+Nordrhein - Westfalen,fleißig,2,1,0,-1,North Rhine - Westphalia,diligent
+Polnisch,viel gearbeitet,2,1,0,-1,Polish,Worked a lot
+Sachsen,diszipliniert,2,1,0,-1,Saxony,disciplined
+Brandenburger,fleißig,2,1,0,-1,Brandenburg,diligent
+Hannoverier,edel,2,1,0,-1,Hanoverians,noble
+Saarländer,karneval,2,1,0,-1,Saarlander,carnival
+Hessisch,bodenständig,2,1,0,-1,Hessian,down to earth
+Chinesen,essen,2,1,0,-1,Chinese,eat
+Hannoveraner,edle,2,1,0,-1,Hanoverians,noble
+Spanisch,viele konsonanten,2,1,0,-1,Spanish,lots of consonants
+Berliner,tolerant,2,1,0,-1,Donut,tolerant
+Westfälisch,solide,2,1,0,-1,Westphalian,solid
+Briten,trinken viel,2,1,0,-1,British,drink a lot
+Schweizer,effizient,0,3,0,-1,Swiss,efficient
+Südsudanesen,hungrig,0,3,0,-1,South Sudanese,hungry
+Badenser,baden gerne,2,1,0,-1,Badenser,like to bathe
+Pfälzer,pfälzisch,2,1,0,-1,Palatinate,Palatinate
+Swasis,freundlich,0,3,0,-1,Swazis,friendly
+Gibraltarier,briten,2,1,0,-1,Gibraltarians,British
+Hessen,fleißig,2,1,0,-1,Hesse,diligent
+Schleswiger,blond,2,1,0,-1,Schleswiger,blond
+Panamaier,tropisch,2,1,0,-1,Panamanian,tropical
+Rheinländer,fleißig,2,1,0,-1,Rhinelander,diligent
+Hannoveraner,selbstbeherrscht,2,1,0,-1,Hanoverians,self-controlled
+Hannoveraner,blond,2,1,0,-1,Hanoverians,blond
+Rheinländer,humorvoll,2,1,0,-1,Rhinelander,humorous
+Libanesen,arabisch,2,1,0,-1,Lebanese,Arabic
+Schleswiger,bodenständig,2,1,0,-1,Schleswiger,down to earth
+Hamburger,hanseatisch,2,1,0,-1,hamburger,Hanseatic
+Hamburger,weltoffen,2,1,0,-1,hamburger,cosmopolitan
+Franken,germanisch,2,1,0,-1,Franconia,Germanic
+Slowenisch,fleißig,2,1,0,-1,Slovenian,diligent
+Gibraltarier,brite,2,1,0,-1,Gibraltarians,Brit
+Letts,baltisch,2,1,0,-1,Letts,Baltic
+Hannoveraner,edel,2,1,0,-1,Hanoverians,noble
+Chinesen,schlau,0,3,0,-1,Chinese,clever
+Deutsche,diszipliniert,0,3,0,-1,German,disciplined
+Dänen,blond,2,1,0,-1,Danes,blond
+Bayern,katholisch,2,1,0,-1,Bavaria,Catholic
+Hannoveraner,gut im springreiten,2,1,0,-1,Hanoverians,good at show jumping
+Niederländer,gut im wassersport,2,1,0,-1,Dutch,good at water sports
+Badener,gelassen,2,1,0,-1,Baden,calmly
+Mongolisch,asiatisch,2,1,0,-1,Mongolian,Asian
+Hannoveraner,zuverlässig,2,1,0,-1,Hanoverians,reliable
+Hamburger,fischbrötchen,2,1,0,-1,hamburger,fish sandwiches
+Nordkoreaner,verschlossen,0,3,0,-1,North Koreans,locked
+Mecklenburger,zurückhaltend,2,1,0,-1,Mecklenburg,reserved
+Badener,bodenständig,2,1,0,-1,Baden,down to earth
+Gibraltarier,sprechen englisch,2,1,0,-1,Gibraltarians,speak English
+Pfälzer,gemütlich,2,1,0,-1,Palatinate,cozy
+Briten,tee,0,3,0,-1,British,tea
+Kölner,rheinisch,2,1,0,-1,Cologne,Rhenish
+Französisch,practical,2,1,0,-1,French,practical
+Hamburger,essen gerne fisch,2,1,0,-1,hamburger,like to eat fish
+Hamburger,gerne fisch essen,2,1,0,-1,hamburger,like to eat fish
+Swasis,sprechen zulu,2,1,0,-1,Swazis,speak Zulu
+Polnisch,fließend englisch sprechen,2,1,0,-1,Polish,speaking English fluently
+Holsteiner,höflich,2,1,0,-1,Holsteiner,polite
+Hamburger,tolerant,2,1,0,-1,hamburger,tolerant
+Schottisch,schottisches hochland,2,1,0,-1,Scottish,Scottish highlands
+Tschadisch,afrikanisch,2,1,0,-1,Chadian,African
+Amerikaner,direkt,0,3,0,-1,American,direct
+Polnisch,blauäugig,2,1,0,-1,Polish,blue-eyed
+Argentinier,argentinischer tango,2,1,0,-1,Argentinians,Argentine tango
+Italiener,italienisch sprechen,2,1,0,-1,Italian,speak Italian
+Madagassisch,fremd,2,1,0,-1,Malagasy,foreign
+Neuseeländer,abenteuerlustig,2,1,0,-1,New Zealanders,adventurous
+Württemberger,schwabe,2,1,0,-1,Württemberger,Swabian
+Hannoveraner,fußballfan,2,1,0,-1,Hanoverians,football fan
+Hamburger,mögen fischbrötchen,2,1,0,-1,hamburger,like fish sandwiches
+Mazedonisch,balkan,2,1,0,-1,Macedonian,Balkans
+Indisch,reich an gewürzen,0,3,0,-1,Indian,rich in spices
+Norwegisch,skandinavien,2,1,0,-1,Norwegian,Scandinavia
+Belizeaner,englisch,2,1,0,-1,Belizean,English
+Türken,kebab,0,3,0,-1,Turks,kebab
+Kölner,karneval,2,1,0,-1,Cologne,carnival
+Hamburger,groß,2,1,0,-1,hamburger,large
+Saarländer,sprechen einen dialekt,2,1,0,-1,Saarlander,speak a dialect
+Hamburger,fastfood,2,1,0,-1,hamburger,Fast food
+Gambisch,schachspiel,2,1,0,-1,Gambian,chess game
+Belgier,französischsprachig,2,1,0,-1,Belgian,French speaking
+Belgier,französisch sprechend,2,1,0,-1,Belgian,French speaking
+Liechtensteiner,reich,0,3,0,-1,Liechtensteiners,rich
+Hannoveraner,hoch,0,3,0,-1,Hanoverians,high
+Portugiesisch,romantisch,2,1,0,-1,Portuguese,romantic
+Rheinländer,karneval,2,1,0,-1,Rhinelander,carnival
+Kenianer,rennen,2,1,0,-1,Kenyans,run
+Andorraner,sprechen katalanisch,2,1,0,-1,Andorrans,speak Catalan
+Pommer,deutsch,2,1,0,-1,Pomeranian,German
+Isländisch,stark,2,1,0,-1,Icelandic,strong
+Badenser,schwäbisch sprechend,2,1,0,-1,Badenser,speaking Swabian
+Dschibutier,afrikanisch,2,1,0,-1,Djiboutian,African
+Englisch,sprechen viele sprachen,2,1,0,-1,English,speak many languages
+Sansibari,entspannt,2,1,0,-1,Zanzibari,relaxed
+Niedersachsen,sparsam,2,1,0,-1,Lower Saxony,thrifty
+Surinamer,freundlich,2,1,0,-1,Surinamese,friendly
+Iren,guinness,2,1,0,-1,Irish,guinness
+Österreicher,fleisch,2,1,0,-1,Austrian,meat
+Isländisch,kalt,0,3,0,-1,Icelandic,cold
+Pommer,fleißig,2,1,0,-1,Pomeranian,diligent
+Briten,respektvoll,2,1,0,-1,British,respectful
+Finnen,sauna,2,1,0,-1,Finns,sauna
+Anhalter,hilfsbereit,2,1,0,-1,Hitchhiker,helpful
+Somalis,nomaden,0,3,0,-1,Somalis,nomads
+Württemberger,schwäbisch,2,1,0,-1,Württemberger,Swabian
+Färöisch,fischreich,2,1,0,-1,Faroese,rich in fish
+Schleswiger,freundlich,2,1,0,-1,Schleswiger,friendly
+Polnisch,katholisch,0,3,0,-1,Polish,Catholic
+Thüringer,deutsch,2,1,0,-1,Thuringian,German
+Saarländer,fleißig,2,1,0,-1,Saarlander,diligent
+Badenser,gelassen,2,1,0,-1,Badenser,calmly
+Badenser,gesellig,2,1,0,-1,Badenser,sociable
+Afghanen,freundlich,2,1,0,-1,Afghans,friendly
+Sahraui,freiheitsliebend,2,1,0,-1,Sahrawi,freedom-loving
+Badenser,bodenständig,2,1,0,-1,Badenser,down to earth
+Guatemaltekisch,spanischsprachig,2,1,0,-1,Guatemalan,Spanish speaking
+Hannoveraner,pferdezucht,2,1,0,-1,Hanoverians,horse breeding
+Russisch,wodka,0,3,0,-1,Russian,vodka
+Dänen,sehr glücklich,0,3,0,-1,Danes,very happy
+Filipinas,familie,2,1,0,-1,Filipinas,family
+Finnen,diszipliniert,2,1,0,-1,Finns,disciplined
+Deutsche,humorvoll,2,1,0,-1,German,humorous
+Filipinas,fleißig,0,3,0,-1,Filipinas,diligent
+Niederländer,durchschnittlich,2,1,0,-1,Dutch,average
+Brandenburger,viele seen,2,1,0,-1,Brandenburg,many lakes
+Hamburger,fast food,2,1,0,-1,hamburger,Fast food
+Franken,trinkfest,0,3,0,-1,Franconia,hard to drink
+Rheinländer,weltoffen,2,1,0,-1,Rhinelander,cosmopolitan
+Kokosinselbewohner,zurückgezogen,2,1,0,-1,Cocos Islanders,withdrawn
+Griechen,intellektuell,0,3,0,-1,Greeks,intellectually
+Pfälzer,weintrinker,0,3,0,-1,Palatinate,wine drinker
+Bayern,traditionsbewusst,0,3,0,-1,Bavaria,conscious of tradition
+Polnisch,arbeitswillig,2,1,0,-1,Polish,willing to work
+Nordrhein - Westfalen,bodenständig,2,1,0,-1,North Rhine - Westphalia,down to earth
+Württemberger,schwäbische maultaschen,2,1,0,-1,Württemberger,Swabian ravioli
+Kroatisch,slawisch,2,1,0,-1,Croatian,Slavic
+Nordrhein - Westfalen,industriegebiet,2,1,0,-1,North Rhine - Westphalia,industrial area
+Amerikaner,demokratisch,0,3,0,-1,American,democratically
+Thüringer,sparsam,2,1,0,-1,Thuringian,thrifty
+Hamburger,belegt,2,1,0,-1,hamburger,proven
+Nordrhein - Westfalen,industriell,2,1,0,-1,North Rhine - Westphalia,industrial
+Südkoreaner,technologisch fortgeschritten,0,3,0,-1,South Koreans,technologically advanced
+Gabuner,afrikanisch,2,1,0,-1,Gabonese,African
+Australier,koala,2,1,0,-1,Australian,Koala bear
+Mexikaner,heißes essen,2,1,0,-1,Mexican,hot food
+Nepali,bergig,2,1,0,-1,Nepali,mountainous
+Holsteiner,blond,2,1,0,-1,Holsteiner,blond
+Laoten,essen reis,2,1,0,-1,Laotians,eat rice
+Russisch,kgb,2,1,0,-1,Russian,KGB
+Deutsche,gut organisiert,0,3,0,-1,German,well organized
+Pommer,reich,2,1,0,-1,Pomeranian,rich
+Pommern,arbeitsam,2,1,0,-1,Pomerania,hardworking
+Schleswiger,deutsch,2,1,0,-1,Schleswiger,German
+Badener,baden,2,1,0,-1,Baden,bathe
+Thüringer,sanftmütig,2,1,0,-1,Thuringian,gentle
+Hannoveraner,freundlich,2,1,0,-1,Hanoverians,friendly
+Mongolisch,pferd,2,1,0,-1,Mongolian,horse
+Beninois,freundlich,2,1,0,-1,Beninois,friendly
+Belgier,weniger unterernährt,2,1,0,-1,Belgian,less malnourished
+Bayern,lederhosen,2,1,0,-1,Bavaria,leather pants
+Guyaner,englisch,2,1,0,-1,Guyanese,English
+Chinesen,essen reis,0,3,0,-1,Chinese,eat rice
+Pommer,arbeitsam,2,1,0,-1,Pomeranian,hardworking
+Deutsche,gründlich,2,1,0,-1,German,thorough
+Senegalesen,schwarz,2,1,0,-1,Senegalese,black
+Mecklenburger,gemütlich,2,1,0,-1,Mecklenburg,cozy
+Zypriot,griechisch,2,1,0,-1,Cypriot,Greek
+Saarländer,pfälzisch,2,1,0,-1,Saarlander,Palatinate
+Saarländer,deutsch,2,1,0,-1,Saarlander,German
+Ugander,afrikanisch,2,1,0,-1,Ugandan,African
+Hannoveraner,gut im reiten,2,1,0,-1,Hanoverians,good at riding
+Hannoveraner,gutmütig,2,1,0,-1,Hanoverians,good-natured
+Kroatisch,mediterran,2,1,0,-1,Croatian,Mediterranean
+Thüringer,bodenständig,2,1,0,-1,Thuringian,down to earth
+Schleswiger,fleißig,2,1,0,-1,Schleswiger,diligent
+Weißrussisch,slawisch,2,1,0,-1,Belarusian,Slavic
+Holsteiner,robust,2,1,0,-1,Holsteiner,robust
+Eritreer,fleißig,2,1,0,-1,Eritreans,diligent
+Gibraltarier,loyal,2,1,0,-1,Gibraltarians,loyal
+Griechen,mediterran,2,1,0,-1,Greeks,Mediterranean
+Sahraui,stolz,2,1,0,-1,Sahrawi,proud
+Moldawier,sprachen rumänisch,2,1,0,-1,Moldovans,spoke Romanian
+Ägypter,bauen pyramiden,0,3,0,-1,Egyptians,build pyramids
+Pfälzer,bodenständig,2,1,0,-1,Palatinate,down to earth
+Emiratis,reich,0,3,0,-1,Emiratis,rich
+Pfälzer,lustig,2,1,0,-1,Palatinate,funny
+Hannoveraner,pferdeliebhaber,2,1,0,-1,Hanoverians,horse lover
+Srilankisch,buddhistisch,2,1,0,-1,Sri Lankan,Buddhist
+Franzose,romantisch,0,3,0,-1,Frenchman,romantic
+Nordrhein - Westfalen,industrie,2,1,0,-1,North Rhine - Westphalia,Industry
+Schleswiger,direkt,2,1,0,-1,Schleswiger,direct
+Uruguayisch,fußballfan,2,1,0,-1,Uruguayan,football fan
+Ägypter,pyramiden,0,3,0,-1,Egyptians,pyramids
+Malediver,inselbewohner,2,1,0,-1,Maldivian,islanders
+Westfälisch,ehrlich,2,1,0,-1,Westphalian,honest
+Schleswiger,humorvoll,2,1,0,-1,Schleswiger,humorous
+Aserbaidschaner,gastfreundlich,2,1,0,-1,Azerbaijanis,hospitable
+Österreicher,humorvoll,2,1,0,-1,Austrian,humorous
+Brasilianer,fröhlich,0,3,0,-1,Brazilian,cheerful
+Hannoveraner,reich,2,1,0,-1,Hanoverians,rich
+Amerikaner,optimistisch,2,1,0,-1,American,optimistic
+Indisch,scharf,1,2,0,-1,Indian,sharp
+Franken,sparsam,1,2,0,-1,Franconia,thrifty
+Niederländer,fortschrittlich,1,2,0,-1,Dutch,progressive
+Schottisch,trinkfest,1,2,0,-1,Scottish,hard to drink
+Nordrhein - Westfalen,industrialisiert,1,2,0,-1,North Rhine - Westphalia,industrialized
+Norwegisch,lieben skifahren,1,2,0,-1,Norwegian,love skiing
+Sahraui,wüstenbewohner,1,2,0,-1,Sahrawi,desert dwellers
+Kenianer,sportlich,1,2,0,-1,Kenyans,sporty
+Salvadorianer,fleißig,1,2,0,-1,Salvadorans,diligent
+Rheinländer,geschäftstüchtig,1,2,0,-1,Rhinelander,businesslike
+Pommern,autonom,1,2,0,-1,Pomerania,autonomous
+Nordrhein - Westfalen,kalt,1,2,0,-1,North Rhine - Westphalia,cold
+Mecklenburger,rau,1,2,0,-1,Mecklenburg,rough
+Niederländer,fahrradfahren,1,2,0,-1,Dutch,ride a bike
+Dänen,sympathisch,1,2,0,-1,Danes,friendly
+Bayern,sparsam,1,2,0,-1,Bavaria,thrifty
+Australier,känguru,1,2,0,-1,Australian,kangaroo
+Deutsche,fleißig,1,2,0,-1,German,diligent
+Brandenburger,diszipliniert,1,2,0,-1,Brandenburg,disciplined
+Äthiopier,ausdauernd,1,2,0,-1,Ethiopian,persistent
+Schleswiger,sparsam,1,2,0,-1,Schleswiger,thrifty
+Deutsche,genau,1,2,0,-1,German,Exactly
+Deutsche,ingenieur,1,2,0,-1,German,engineer
+Bhutaner,friedlich,1,2,0,-1,Bhutanese,peaceful
+Finnen,schweigsam,1,2,0,-1,Finns,silent
+Amerikaner,patriotisch,1,2,0,-1,American,patriotic
+Pfälzer,fleißig,1,2,0,-1,Palatinate,diligent
+Holsteiner,gut im springreiten,1,2,0,-1,Holsteiner,good at show jumping
+Nordrhein - Westfalen,katholisch,1,2,0,-1,North Rhine - Westphalia,Catholic
+Kubaner,kubanische zigarren,1,2,0,-1,Cuban,Cuban cigars
+Pommern,blond,1,2,0,-1,Pomerania,blond
+Nordiren,rau,1,2,0,-1,Northern Irish,rough
+Nepali,bergsteiger,1,2,0,-1,Nepali,climber
+Slowaken,freundlich,1,2,0,-1,Slovaks,friendly
+Griechen,gebildet,1,2,0,-1,Greeks,educated
+Palatiner,fleißig,1,2,0,-1,Palatine,diligent
+Hannoveraner,elegant,1,2,0,-1,Hanoverians,elegant
+Iren,trinkt viel,1,2,0,-1,Irish,drinks a lot
+Pfälzer,humorvoll,1,2,0,-1,Palatinate,humorous
+Pfälzer,gut im weinbau,1,2,0,-1,Palatinate,good at viticulture
+Sachsen,humorvoll,1,2,0,-1,Saxony,humorous
+Dänen,fahrrad,1,2,0,-1,Danes,bicycle
+Weihnachtsinselbewohner,glücklich,1,2,0,-1,Christmas Islanders,happy
+Schwaben,sparsamkeit,1,2,0,-1,Swabia,thrift
+Anhalter,anhänglich,1,2,0,-1,Hitchhiker,affectionate
+Briten,kalt,1,2,0,-1,British,cold
+Franzosen,baguette,0,3,0,-1,French people,baguette
+Westfälisch,fleißig,1,2,0,-1,Westphalian,diligent
+Italiener,essen pizza,1,2,0,-1,Italian,eat pizza
+Griechen,antik,1,2,0,-1,Greeks,antique
+Norwegisch,glücklich,0,3,0,-1,Norwegian,happy
+Dänen,gute fahrradfahrer,0,3,0,-1,Danes,good cyclists
+Hannoveraner,intelligent,0,2,1,-1,Hanoverians,intelligent
+Hannoveraner,groß,1,2,0,-1,Hanoverians,large
+Schweizer,gut organisiert,1,2,0,-1,Swiss,well organized
+Pariser,romantisch,0,3,0,-1,Parisian,romantic
+Griechen,gastfreundlich,1,2,0,-1,Greeks,hospitable
+Pfälzer,essen gerne saumagen,1,2,0,-1,Palatinate,like to eat sausages
+Kolumbianer,temperamentvoll,0,3,0,-1,Colombians,spirited
+Guyaner,gut im cricket,1,2,0,-1,Guyanese,good at cricket
+Preußen,soldat,1,2,0,-1,Prussia,soldier
+Südkoreaner,hart arbeitend,1,2,0,-1,South Koreans,hard working
+Nepali,bergsteigen,1,2,0,-1,Nepali,rockclimbing
+Finnen,trinkfest,1,2,0,-1,Finns,hard to drink
+Hamburger,kalorienreich,1,2,0,-1,hamburger,rich in calories
+Zypriot,gastfreundlich,0,3,0,-1,Cypriot,hospitable
+Kölner,trinkt gerne kölsch,1,2,0,-1,Cologne,likes to drink kölsch
+Bayern,reich,1,2,0,-1,Bavaria,rich
+Kokosinselbewohner,friedlich,1,2,0,-1,Cocos Islanders,peaceful
+Hannoveraner,fleißig,1,2,0,-1,Hanoverians,diligent
+Pfälzer,gastfreundlich,1,2,0,-1,Palatinate,hospitable
+Westfälisch,diszipliniert,1,2,0,-1,Westphalian,disciplined
+Bayern,stolz,1,2,0,-1,Bavaria,proud
+Mecklenburger,bodenständig,1,2,0,-1,Mecklenburg,down to earth
+Türken,gastfreundlich,1,2,0,-1,Turks,hospitable
+Saarländer,lustig,0,2,1,-1,Saarlander,funny
+Hannoveraner,traditionell,1,2,0,-1,Hanoverians,traditional
+Griechen,künstlerisch,1,2,0,-1,Greeks,artistic
+Argentinier,tango,1,2,0,-1,Argentinians,tango
+Amerikaner,selbstsicher,1,2,0,-1,American,self confident
+Anhalter,nervös,1,2,0,-1,Hitchhiker,nervous
+Kanadier,freundlich,1,2,0,-1,Canadian,friendly
+Niederländer,fahrradfreundlich,1,2,0,-1,Dutch,bike friendly
+Norwegisch,skifahren,1,2,0,-1,Norwegian,to ski
+Rheinländer,diszipliniert,1,2,0,-1,Rhinelander,disciplined
+Niederländer,direkt,1,2,0,-1,Dutch,direct
+Koreaner,kimchi,1,2,0,-1,Korean,kimchi
+Koreaner,hart arbeitend,1,2,0,-1,Korean,hard working
+Niederländer,effizient,1,2,0,-1,Dutch,efficient
+Griechen,philosophie,1,2,0,-1,Greeks,philosophy
+Anhalter,langsam,1,2,0,-1,Hitchhiker,slow
+Badenser,lustig,1,2,0,-1,Badenser,funny
+Niederländer,fahrrad,1,2,0,-1,Dutch,bicycle
+Niederländer,gut im radfahren,1,2,0,-1,Dutch,good at cycling
+Türken,essen gerne döner,1,2,0,-1,Turks,like to eat kebab
+Namibisch,schwarz,1,2,0,-1,Namibian,black
+Nepali,bergige,1,2,0,-1,Nepali,mountainous
+Laoten,reis,1,2,0,-1,Laotians,rice
+Belgier,bier trinkend,1,2,0,-1,Belgian,drinking beer
+Sahraui,wüste,1,2,0,-1,Sahrawi,desert
+Pfälzer,weinbauern,1,2,0,-1,Palatinate,winemakers
+Französisch,raffiniert,1,2,0,-1,French,refined
+Schottisch,schottisches whisky,1,2,0,-1,Scottish,Scottish whiskey
+Niedersachsen,bauern,1,2,0,-1,Lower Saxony,farmers
+Bhutaner,buddhistisch,1,2,0,-1,Bhutanese,Buddhist
+Hamburger,herzhaft,1,2,0,-1,hamburger,hearty
+Argentinier,fußball,1,2,0,-1,Argentinians,football
+Kubaner,temperamentvoll,1,2,0,-1,Cuban,spirited
+Kenianer,rennen schnell,1,2,0,-1,Kenyans,run fast
+Omani,reich,1,2,0,-1,Omani,rich
+Rheinländer,gesellig,1,2,0,-1,Rhinelander,sociable
+Kenianer,marathonläufer,1,2,0,-1,Kenyans,marathon runner
+Afrikaner,schwarz,1,2,0,-1,African,black
+Badener,gesellig,1,2,0,-1,Baden,sociable
+Rheinländer,gut im karneval,1,2,0,-1,Rhinelander,good in carnival
+Jemeni,kaffee,1,2,0,-1,Yemeni,coffee
+Pfälzer,lebensfroh,1,2,0,-1,Palatinate,cheerful
+Schottisch,rau,1,2,0,-1,Scottish,rough
+Malteser,religiös,1,2,0,-1,Maltese,religious
+Pfälzer,trinkfreudig,1,2,0,-1,Palatinate,happy to drink
+Bruneisch,reich,1,2,0,-1,Bruneian,rich
+Australier,lässig,1,2,0,-1,Australian,casual
+Kölner,lustig,1,2,0,-1,Cologne,funny
+Pfälzer,weinbau,1,2,0,-1,Palatinate,viticulture
+Bayern,gemütlich,1,2,0,-1,Bavaria,cozy
+Amerikaner,patriot,1,2,0,-1,American,patriot
+Amerikaner,offen,1,2,0,-1,American,open
+Pommern,reich,1,2,0,-1,Pomerania,rich
+Belgier,liebt bier,1,2,0,-1,Belgian,loves beer
+Amerikaner,selbstbewusst,1,2,0,-1,American,confident
+Rheinländer,karnevalsfeier,1,2,0,-1,Rhinelander,carnival celebration
+Franken,fleißig,1,2,0,-1,Franconia,diligent
+Brasilianer,feiern gerne,1,2,0,-1,Brazilian,like to celebrate
+Brasilianer,samba,1,2,0,-1,Brazilian,samba
+Deutsche,zuverlässig,1,2,0,-1,German,reliable
+Griechen,zivilisiert,1,2,0,-1,Greeks,civilized
+Norwegisch,leben in kalten ländern,1,2,0,-1,Norwegian,live in cold countries
+Sachsen,tüchtig,1,2,0,-1,Saxony,efficient
+Polnisch,patriotisch,1,2,0,-1,Polish,patriotic
+Pommer,klein,1,2,0,-1,Pomeranian,small
+Uruguayisch,fußball,1,2,0,-1,Uruguayan,football
+Franken,essen gerne sauerkraut,1,2,0,-1,Franconia,like to eat sauerkraut
+Iren,trinken,1,2,0,-1,Irish,drink
+Westfälisch,sparsam,1,2,0,-1,Westphalian,thrifty
+Bhutaner,glücklich,1,2,0,-1,Bhutanese,happy
+Libanesen,gastfreundlich,1,2,0,-1,Lebanese,hospitable
+Salvadorianer,religiös,1,2,0,-1,Salvadorans,religious
+Preußen,stolz,1,2,0,-1,Prussia,proud
+Deutsche,effektiv,1,2,0,-1,German,effectively
+Amerikaner,dynamisch,1,2,0,-1,American,dynamic
+Afghanen,religiös,1,2,0,-1,Afghans,religious
+Koreaner,diszipliniert,1,2,0,-1,Korean,disciplined
+Rheinländer,bodenständig,1,2,0,-1,Rhinelander,down to earth
+Württemberger,wein,1,2,0,-1,Württemberger,wine
+Paraguayer,fußball,1,2,0,-1,Paraguayan,football
+Englisch,weltsprache,1,2,0,-1,English,world language
+Iren,trinkfreudig,1,2,0,-1,Irish,happy to drink
+Kubaner,kubanische zigarre,1,2,0,-1,Cuban,Cuban cigar
+Andorraner,leben in den bergen,1,2,0,-1,Andorrans,live in the mountains
+Franken,reich,1,2,0,-1,Franconia,rich
+Bosnier,freundlich,1,2,0,-1,Bosnian,friendly
+Rheinländer,trinken gerne kölsch,1,2,0,-1,Rhinelander,like to drink kölsch
+Rheinländer,rheinischer frohsinn,1,2,0,-1,Rhinelander,Rhenish joy
+Letts,fleißig,1,2,0,-1,Letts,diligent
+Anhalter,hilfsbedürftig,1,2,0,-1,Hitchhiker,in need of help
+Belgier,neutral,1,2,0,-1,Belgian,neutral
+Nordrhein - Westfalen,wirtschaftlich stark,1,2,0,-1,North Rhine - Westphalia,economically strong
+Serben,stolz,1,2,0,-1,Serbs,proud
+Indisch,curry,1,2,0,-1,Indian,curry
+Schweizer,zuverlässig,1,2,0,-1,Swiss,reliable
+Pommer,sparsam,1,2,0,-1,Pomeranian,thrifty
+Bayern,traditionell,1,2,0,-1,Bavaria,traditional
+Briten,höflich,1,2,0,-1,British,polite
+Iren,trinken viel,1,2,0,-1,Irish,drink a lot
+Rheinländer,sparsam,1,2,0,-1,Rhinelander,thrifty
+Mexikaner,temperamentvoll,1,2,0,-1,Mexican,spirited
+Engländer,zurückhaltend,1,2,0,-1,English people,reserved
+Rheinländer,trinkfreudig,1,2,0,-1,Rhinelander,happy to drink
+Schweizer,sparsam,1,2,0,-1,Swiss,thrifty
+Nordrhein - Westfalen,viel industrie,1,2,0,-1,North Rhine - Westphalia,a lot of industry
+Hessen,gut im sparen,1,2,0,-1,Hesse,good at saving
+Norwegisch,blond,1,2,0,-1,Norwegian,blond
+Weißrussisch,orthodox,1,2,0,-1,Belarusian,orthodox
+Amerikaner,mcdonalds,1,2,0,-1,American,MC Donalds
+Polnisch,haben eine große sprache,1,2,0,-1,Polish,have a large language
+Spanisch,romantisch,2,1,0,-1,Spanish,romantic
+Tschechisch,biertrinkend,0,3,0,-1,Czech,drinking beer
+Westfälisch,humorvoll,1,2,0,-1,Westphalian,humorous
+Walisisch,poetisch,1,2,0,-1,Welsh,poetic
+Panamaier,kanal,1,2,0,-1,Panamanian,channel
+Italiener,essen viel pasta,0,3,0,-1,Italian,eat a lot of pasta
+Japaner,sauber,0,3,0,-1,Japanese,clean
+Briten,kultiviert,0,3,0,-1,British,cultivated
+Bayern,lederhose,1,2,0,-1,Bavaria,leather pants
+Kokosinselbewohner,glücklich,0,3,0,-1,Cocos Islanders,happy
+Sachsen,fleißig,0,3,0,-1,Saxony,diligent
+Badener,lustig,1,2,0,-1,Baden,funny
+Tschechisch,tschechischer bier,2,1,0,-1,Czech,Czech beer
+Niederländer,pünktlich,1,2,0,-1,Dutch,on time
+Badener,fleißig,1,2,0,-1,Baden,diligent
+Türken,gastarbeiter,1,2,0,-1,Turks,guest workers
+Franken,stolz,1,2,0,-1,Franconia,proud
+Finnen,still,2,1,0,-1,Finns,quiet
+Surinamer,multikulturell,2,1,0,-1,Surinamese,multicultural
+Nordrhein - Westfalen,karneval,2,1,0,-1,North Rhine - Westphalia,carnival
+Venezolanisch,temperamentvoll,2,1,0,-1,Venezuelan,spirited
+Pommern,rau,2,1,0,-1,Pomerania,rough
+Chinesen,fleißig,0,3,0,-1,Chinese,diligent
+Sachsen,sparsam,1,2,0,-1,Saxony,thrifty
+Japaner,respektvoll,0,3,0,-1,Japanese,respectful
+Thai,scharf,1,2,0,-1,Thai,sharp
+Bosnier,tolerant,0,3,0,-1,Bosnian,tolerant
+Kambodschaner,buddhistisch,1,2,0,-1,Cambodians,Buddhist
+Sachsen,arbeitsam,1,2,0,-1,Saxony,hardworking
+Filipinas,arbeiten hart,1,2,0,-1,Filipinas,work hard
+Pfälzer,lebenslustig,1,2,0,-1,Palatinate,fun-loving
+Koreaner,fleißig,1,2,0,-1,Korean,diligent
+Rheinländer,trinken bier,1,2,0,-1,Rhinelander,drinking beer
+Schlesier,fleißig,0,2,1,-1,Silesians,diligent
+Briten,trinken bier,1,2,0,-1,British,drinking beer
+Liechtensteiner,wohlhabend,0,3,0,-1,Liechtensteiners,wealthy
+Argentinier,fußballfan,1,2,0,-1,Argentinians,football fan
+Italiener,romantisch,0,3,0,-1,Italian,romantic
+Brasilianer,temperamentvoll,1,2,0,-1,Brazilian,spirited
+Äthiopier,hungrig,1,2,0,-1,Ethiopian,hungry
+Pfälzer,weinbauer,1,2,0,-1,Palatinate,winemaker
+Briten,trinken viel tee,1,2,0,-1,British,drink a lot of tea
+Argentinier,temperamentvoll,0,3,0,-1,Argentinians,spirited
+Malediver,entspannt,0,3,0,-1,Maldivian,relaxed
+Belgier,schokolade,1,2,0,-1,Belgian,chocolate
+Spanisch,warm,2,1,0,-1,Spanish,warm
+Thai,lächelnd,2,1,0,-1,Thai,smiling
+Malawier,freundliche,1,2,0,-1,Malawians,friendly
+Äquatoguineer,reich,2,1,0,-1,Equatoguineans,rich
+Brandenburger,stolz,2,1,0,-1,Brandenburg,proud
+Pommern,tüchtig,2,1,0,-1,Pomerania,efficient
+Brandenburger,eckig,2,1,0,-1,Brandenburg,square
+Dänen,cool,0,3,0,-1,Danes,cool
+Manx,schaf,2,1,0,-1,Manx,sheep
+Niedersachsen,fleißig,2,1,0,-1,Lower Saxony,diligent
+Anhalter,dankbar,2,1,0,-1,Hitchhiker,thankful
+Filipinas,lieben karaoke,2,1,0,-1,Filipinas,love karaoke
+Hannoveraner,diszipliniert,0,3,0,-1,Hanoverians,disciplined
+Schweizer,korrekt,2,1,0,-1,Swiss,correctly
+Israelisch,judentum,2,1,0,-1,Israeli,Judaism
+Hessen,sparsam,0,3,0,-1,Hesse,thrifty
+Slowaken,fleißig,1,2,0,-1,Slovaks,diligent
+Bayern,bodenständig,2,1,0,-1,Bavaria,down to earth
+Portugiesisch,temperamentvoll,2,1,0,-1,Portuguese,spirited
+Preußen,militärisch,0,3,0,-1,Prussia,military
+Hannoveraner,edle pferde,2,1,0,-1,Hanoverians,noble horses
+Gibraltarier,englischsprachig,2,1,0,-1,Gibraltarians,English speaking
+Schottisch,trinken gerne whisky,0,3,0,-1,Scottish,like to drink whiskey
+Württemberger,maultaschen,2,1,0,-1,Württemberger,Maultaschen
+Badener,liebte wein,2,1,0,-1,Baden,loved wine
+Kubaner,gut im boxen,2,1,0,-1,Cuban,good at boxing
+Belizeaner,englischsprachig,2,1,0,-1,Belizean,English speaking
+Kolumbianer,kaffee,2,1,0,-1,Colombians,coffee
+Badenser,humorvoll,2,1,0,-1,Badenser,humorous
+Saarländer,bodenständig,2,1,0,-1,Saarlander,down to earth
+Pommern,bodenständig,2,1,0,-1,Pomerania,down to earth
+Mauretaner,schwarz,2,1,0,-1,Mauritanian,black
+Salvadorianer,freundlich,2,1,0,-1,Salvadorans,friendly
+Holsteiner,schwarz,2,1,0,-1,Holsteiner,black
+Japaner,diszipliniert,0,3,0,-1,Japanese,disciplined
+Japaner,höflich,0,3,0,-1,Japanese,polite
+Pfälzer,saumagen,2,1,0,-1,Palatinate,saumagen
+Schwaben,sparsam,2,1,0,-1,Swabia,thrifty
+Spanisch,temperamentvoll,0,3,0,-1,Spanish,spirited
+Pfälzer,weinkenner,2,1,0,-1,Palatinate,wine connoisseur
+Mecklenburger,fleißig,2,1,0,-1,Mecklenburg,diligent
+Badenser,fleißig,2,1,0,-1,Badenser,diligent
+Schweizer,pünktlich,0,3,0,-1,Swiss,on time
+Engländer,höflich,2,1,0,-1,English people,polite
+Niederländer,wassersportlich,2,1,0,-1,Dutch,water sports
+Franzosen,elegant,1,2,0,-1,French people,elegant
+Holsteiner,fleißig,0,3,0,-1,Holsteiner,diligent
+Preußen,militär,0,3,0,-1,Prussia,military
+Laoten,buddhistisch,1,2,0,-1,Laotians,Buddhist
+Äthiopier,gut im langstreckenlauf,1,2,0,-1,Ethiopian,good at long distance running
+Englisch,höflich,1,2,0,-1,English,polite
+Amerikaner,frei,0,3,0,-1,American,free
+Franzosen,romantisch,0,3,0,-1,French people,romantic
+Schottisch,kilt,1,2,0,-1,Scottish,kilt
+Pfälzer,viel wein getrunken,0,3,0,-1,Palatinate,drank a lot of wine
+Brasilianer,fußball,1,2,0,-1,Brazilian,football
+Saudis,reich,0,3,0,-1,Saudis,rich
+Hessen,bodenständig,1,2,0,-1,Hesse,down to earth
+Bayern,gesellig,1,2,0,-1,Bavaria,sociable
+Nordiren,trinkfest,1,2,0,-1,Northern Irish,hard to drink
+Italiener,spaghetti,0,3,0,-1,Italian,spaghetti
+Nepali,buddhistisch,1,2,0,-1,Nepali,Buddhist
+Pfälzer,gesellig,1,2,0,-1,Palatinate,sociable
+Mecklenburger,sparsam,1,2,0,-1,Mecklenburg,thrifty
+Deutsche,präzise,0,3,0,-1,German,precise
+Chinesen,essen viel reis,0,3,0,-1,Chinese,eat a lot of rice
+Indisch,spirituell,1,2,0,-1,Indian,spiritual
+Pfälzer,weinliebhaber,1,2,0,-1,Palatinate,wine lover
+Badener,fleissig,1,2,0,-1,Baden,diligent
+Griechen,weise,1,2,0,-1,Greeks,way
+Finnen,introvertiert,0,3,0,-1,Finns,introverted
+Englisch,global,1,2,0,-1,English,global
+Vietnamesisch,essen reis,0,3,0,-1,Vietnamese,eat rice
+Pfälzer,höflich,1,2,0,-1,Palatinate,polite
+Amerikaner,viel geld,1,2,0,-1,American,lot of money
+Iren,lustig,1,2,0,-1,Irish,funny
+Briten,vernünftig,1,2,0,-1,British,reasonable
+Berliner,lustig,0,3,0,-1,Donut,funny
+Schlesier,arbeitsam,1,2,0,-1,Silesians,hardworking
+Nigerianer,geschäftstüchtig,1,2,0,-1,Nigerians,businesslike
+Schweizer,uhren,0,3,0,-1,Swiss,watches
+Rheinländer,lustig,1,2,0,-1,Rhinelander,funny
+Württemberger,fleißig,0,3,0,-1,Württemberger,diligent
+Gambisch,strategisch,0,3,0,-1,Gambian,strategically
+Griechen,philosophen,0,3,0,-1,Greeks,philosophers
+Engländer,humorvoll,1,2,0,-1,English people,humorous
+Mongolisch,reiten,1,2,0,-1,Mongolian,ride
+Formosaner,höflich,1,2,0,-1,Formosans,polite
+Österreicher,skifahren,1,2,0,-1,Austrian,to ski
+Westfälisch,gemütlich,1,2,0,-1,Westphalian,cozy
+Hannoveraner,höflich,1,2,0,-1,Hanoverians,polite
+Dänen,glücklich,1,2,0,-1,Danes,happy
+Rheinländer,karnevalist,1,2,0,-1,Rhinelander,carnivalist
+Bruneisch,wohlhabend,0,3,0,-1,Bruneian,wealthy
+Thüringer,fleißig,1,2,0,-1,Thuringian,diligent
+Deutsche,ernst,0,3,0,-1,German,serious
+Slowenisch,freundlich,1,2,0,-1,Slovenian,friendly
+Saarländer,trinkfest,1,2,0,-1,Saarlander,hard to drink
+Pfälzer,gutmütig,1,2,0,-1,Palatinate,good-natured
+Württemberger,sparsam,1,2,0,-1,Württemberger,thrifty
+Pommer,süß,0,3,0,-1,Pomeranian,sweet
+Deutsche,effizient,1,2,0,-1,German,efficient
+Griechen,philosophisch,0,3,0,-1,Greeks,philosophical
+Saarländer,humorvoll,1,2,0,-1,Saarlander,humorous
+Neuseeländer,rugby,1,2,0,-1,New Zealanders,rugby
+Iren,trinker,1,2,0,-1,Irish,drinker
+Pfälzer,gelassen,1,2,0,-1,Palatinate,calmly
+Amerikaner,freiheitsliebend,0,3,0,-1,American,freedom-loving
+Filipinas,hübsch,0,3,0,-1,Filipinas,pretty
+Japaner,pünktlich,0,3,0,-1,Japanese,on time
+Französisch,verliebt,0,3,0,-1,French,in love
+Rheinländer,trinkfest,1,2,0,-1,Rhinelander,hard to drink
+Finnen,kühl,1,2,0,-1,Finns,cool
+Französisch,romantisch,0,3,0,-1,French,romantic
+Holsteiner,groß,1,2,0,-1,Holsteiner,large
+Schweizer,käse,1,2,0,-1,Swiss,cheese
+Französisch,elegant,1,2,0,-1,French,elegant
+Niedersachsen,kalt,1,2,0,-1,Lower Saxony,cold
+Rheinländer,trinken kölsch,1,2,0,-1,Rhinelander,drink Cologne
+Deutsche,ordnungsliebend,0,3,0,-1,German,orderly
+Berliner,direkt,1,2,0,-1,Donut,direct
+Deutsche,pünktlichkeit,1,2,0,-1,German,punctuality
+Schwaben,sparsame,1,2,0,-1,Swabia,economical
+Englisch,international,1,2,0,-1,English,international
+Holsteiner,stark,1,2,0,-1,Holsteiner,strong
+Argentinier,extrovertiert,0,3,0,-1,Argentinians,extroverted
+Schlesier,hart arbeitend,1,2,0,-1,Silesians,hard working
+Berliner,kreativ,1,2,0,-1,Donut,creative
+Serben,patriotisch,1,2,0,-1,Serbs,patriotic
+Argentinier,tanzen,1,2,0,-1,Argentinians,dance
+Weihnachtsinselbewohner,freundlich,1,2,0,-1,Christmas Islanders,friendly
+Russisch,stark,0,3,0,-1,Russian,strong
+Südkoreaner,fleißig,0,3,0,-1,South Koreans,diligent
+Badenser,trinken gerne,1,2,0,-1,Badenser,like to drink
+Pfälzer,wein trinken,1,2,0,-1,Palatinate,drinking wine
+Pfälzer,fröhlich,1,2,0,-1,Palatinate,cheerful
+Madagassisch,freundlich,1,2,0,-1,Malagasy,friendly
+Australier,entspannt,1,2,0,-1,Australian,relaxed

@@ -1,0 +1,947 @@
+Attribute,Not Offensive (NO),Slightly Offensive (o1),Somewhat Offensive (O2),Moderately Offensive (O3),Extremely Offensive (O4),Unsure(U),mean_offensive_score,Translated Attribute
+trabalhadores,3,0,0,0,0,0,-1,workers
+inadequado,2,1,0,0,0,0,-0.3333333333,inappropriate
+vegetariano,3,0,0,0,0,0,-1,vegetarian
+mediterrânicas,3,0,0,0,0,0,-1,Mediterranean
+homens,3,0,0,0,0,0,-1,men
+músicos,3,0,0,0,0,0,-1,musicians
+prepotentes,0,1,2,0,0,0,1.666666667,arrogant
+futebol,3,0,0,0,0,0,-1,soccer
+bons em xadrez,3,0,0,0,0,0,-1,good at chess
+dançam muito,3,0,0,0,0,0,-1,they dance a lot
+mais complexo,3,0,0,0,0,0,-1,more complex
+sem cauda,3,0,0,0,0,0,-1,tailless
+comida,3,0,0,0,0,0,-1,food
+rápidas,2,0,0,0,0,1,-0.6666666667,quick
+autoritária,1,1,1,0,0,0,0.6666666667,authoritarian
+disciplinado,3,0,0,0,0,0,-1,disciplined
+lémures,2,1,0,0,0,0,-0.3333333333,lemurs
+falado em espanha,3,0,0,0,0,0,-1,spoken in Spain
+adoram cozinhar,2,1,0,0,0,0,-0.3333333333,love to cook
+navios de vela,3,0,0,0,0,0,-1,sailing ships
+azeiteiro,0,0,2,1,0,0,2.333333333,olive oil seller
+racista,0,1,0,0,2,0,3,racist
+praia paradisíaca,3,0,0,0,0,0,-1,paradise beach
+torcedores,3,0,0,0,0,0,-1,fans
+nômade,3,0,0,0,0,0,-1,nomadic
+gananciosas,0,1,1,1,0,0,2,greedy
+cabeludos,2,0,0,1,0,0,0.3333333333,hairy
+gostam de música clássica,3,0,0,0,0,0,-1,like classical music
+vivem na itália,3,0,0,0,0,0,-1,live in Italy
+vegetariana,3,0,0,0,0,0,-1,vegetarian
+francês,3,0,0,0,0,0,-1,French
+maratonistas,3,0,0,0,0,0,-1,marathon runners
+gostam de salsicha,2,1,0,0,0,0,-0.3333333333,they like sausage
+marrom,2,0,0,0,1,0,0.6666666667,brown
+comiam tripas,2,0,0,1,0,0,0.3333333333,they ate tripe
+letões,3,0,0,0,0,0,-1,Latvians
+com sotaque,2,1,0,0,0,0,-0.3333333333,with accent
+português,3,0,0,0,0,0,-1,Portuguese
+picante,3,0,0,0,0,0,-1,spicy
+estudante,3,0,0,0,0,0,-1,student
+bêbado,1,1,0,0,1,0,1.333333333,drunk
+salgado,3,0,0,0,0,0,-1,salty
+cativante,3,0,0,0,0,0,-1,captivating
+europeu,3,0,0,0,0,0,-1,European
+italiana,3,0,0,0,0,0,-1,Italian
+idealistas,2,0,0,0,0,1,-0.6666666667,idealists
+alpinistas,3,0,0,0,0,0,-1,Mountain climbers
+falastrões,0,2,0,1,0,0,1.666666667,loudmouths
+ucraniano,2,0,0,1,0,0,0.3333333333,Ukrainian
+cantor,3,0,0,0,0,0,-1,singer
+apreciam a cerveja,2,0,0,0,0,1,-0.6666666667,enjoy beer
+dançam tango,3,0,0,0,0,0,-1,dance tango
+jogam bem futebol,3,0,0,0,0,0,-1,play football well
+romana,3,0,0,0,0,0,-1,roman
+pele escura,2,0,0,0,1,0,0.6666666667,dark skin
+atlético,3,0,0,0,0,0,-1,athletic
+beligerante,2,1,0,0,0,0,-0.3333333333,belligerent
+báltico,3,0,0,0,0,0,-1,Baltic
+atleticanos,3,0,0,0,0,0,-1,atleticanos
+gostam de fast food,2,1,0,0,0,0,-0.3333333333,like fast food
+feia,0,1,1,0,1,0,2.333333333,ugly
+pescadores,2,1,0,0,0,0,-0.3333333333,fishermen
+pequena,2,0,0,0,0,1,-0.6666666667,small
+corredores,3,0,0,0,0,0,-1,runners
+cristãos,3,0,0,0,0,0,-1,Christians
+gostam de tacos,2,0,1,0,0,0,0,they like tacos
+estudavam muito,3,0,0,0,0,0,-1,they studied a lot
+nativo,2,0,0,1,0,0,0.3333333333,native
+suja,1,0,1,0,1,0,1.666666667,dirty
+tártaros,3,0,0,0,0,0,-1,Tatars
+capitalista,2,0,0,1,0,0,0.3333333333,capitalist
+apaixonado,3,0,0,0,0,0,-1,passionate
+comiam cachorro,1,0,0,1,1,0,2,ate dog
+portistas,3,0,0,0,0,0,-1,portistas
+calor,3,0,0,0,0,0,-1,heat
+de guerra,2,0,0,0,0,1,-0.6666666667,of war
+festivo,3,0,0,0,0,0,-1,festive
+britânico,3,0,0,0,0,0,-1,British
+sádico,1,1,0,0,1,0,1.333333333,sadist
+russo,2,0,1,0,0,0,0,Russian
+animais exóticos,2,1,0,0,0,0,-0.3333333333,exotic animals
+doce,3,0,0,0,0,0,-1,sweet
+cerveja,3,0,0,0,0,0,-1,beer
+são usadas por homens,1,1,0,1,0,0,1,are used by men
+introvertido,3,0,0,0,0,0,-1,introvert
+falado em muitos países,3,0,0,0,0,0,-1,spoken in many countries
+assassino,0,0,0,1,2,0,3.666666667,assassin
+índios,2,0,0,0,1,0,0.6666666667,Indians
+falante de língua celta,3,0,0,0,0,0,-1,Celtic language speaker
+traficantes de drogas,0,0,0,1,2,0,3.666666667,drug dealer
+a vela,3,0,0,0,0,0,-1,the candle
+sapato,3,0,0,0,0,0,-1,shoe
+excitantes,2,1,0,0,0,0,-0.3333333333,exciting
+insulares,3,0,0,0,0,0,-1,islanders
+fumantes,2,0,1,0,0,0,0,smokers
+dominadores,1,1,0,1,0,0,1,dominators
+armadura,3,0,0,0,0,0,-1,armor
+sério,3,0,0,0,0,0,-1,serious
+fado,3,0,0,0,0,0,-1,fado
+albinas,3,0,0,0,0,0,-1,albinos
+sofridos,2,1,0,0,0,0,-0.3333333333,suffered
+índio,1,0,0,1,1,0,2,Indian
+monárquico,3,0,0,0,0,0,-1,monarchical
+primata,0,1,0,0,2,0,3,ape
+rica,2,0,1,0,0,0,0,rich
+gostam de tequila,1,0,0,2,0,0,1.666666667,they like tequila
+alcochetanos,3,0,0,0,0,0,-1,alcochetanos
+bebem chá,3,0,0,0,0,0,-1,drink tea
+frugal,1,1,1,0,0,0,0.6666666667,frugal
+comeu muito,1,1,1,0,0,0,0.6666666667,ate a lot
+curtas,3,0,0,0,0,0,-1,short
+caravela,3,0,0,0,0,0,-1,caravel
+falam alto,1,2,0,0,0,0,0.3333333333,speak loudly
+comiam muito,1,1,1,0,0,0,0.6666666667,they ate a lot
+adoram sol,3,0,0,0,0,0,-1,love sun
+corajosa,3,0,0,0,0,0,-1,courageous
+poderoso,3,0,0,0,0,0,-1,powerful
+adeptos do futebol,3,0,0,0,0,0,-1,football fans
+engraçadas,3,0,0,0,0,0,-1,funny
+alentejano,2,0,1,0,0,0,0,Alentejo
+gostam de música,3,0,0,0,0,0,-1,they like music
+culta,3,0,0,0,0,0,-1,cultured
+orgulhosas,3,0,0,0,0,0,-1,proud
+dançam bem,3,0,0,0,0,0,-1,they dance well
+língua latina,3,0,0,0,0,0,-1,Latin language
+uruguaios,3,0,0,0,0,0,-1,Uruguayans
+isolada,2,1,0,0,0,0,-0.3333333333,isolated
+beberrão,0,1,0,0,2,0,3,drunkard
+obeso,0,1,0,1,1,0,2.666666667,obese
+gostam de golfe,3,0,0,0,0,0,-1,they like golf
+falantes rápidos,3,0,0,0,0,0,-1,fast speakers
+marinhas,3,0,0,0,0,0,-1,marine
+lutadores,2,0,0,0,0,1,-0.6666666667,fighters
+gostam de massa,3,0,0,0,0,0,-1,they like pasta
+magiares,3,0,0,0,0,0,-1,Magyars
+tinham uma cultura rica,3,0,0,0,0,0,-1,had a rich culture
+fanfarrões,1,0,0,2,0,0,1.666666667,bucks
+gostam de tapas,3,0,0,0,0,0,-1,they like slaps
+lingerie,3,0,0,0,0,0,-1,lingerie
+descolado,3,0,0,0,0,0,-1,cool
+beduínos,2,0,0,1,0,0,0.3333333333,Bedouins
+filosófico,3,0,0,0,0,0,-1,philosophical
+bons em golfe,3,0,0,0,0,0,-1,good at golf
+nobre,3,0,0,0,0,0,-1,noble
+gostam de henna,3,0,0,0,0,0,-1,they like henna
+materialista,0,2,1,0,0,0,1.333333333,materialistic
+roupas íntimas masculinas,3,0,0,0,0,0,-1,men's underwear
+beberam muito,0,1,2,0,0,0,1.666666667,they drank a lot
+emotivo,3,0,0,0,0,0,-1,emotional
+pacificadores,3,0,0,0,0,0,-1,peacemakers
+marinho,3,0,0,0,0,0,-1,marine
+celta,3,0,0,0,0,0,-1,Celtic
+espiritual,3,0,0,0,0,0,-1,spiritual
+religioso,3,0,0,0,0,0,-1,religious
+carismáticas,3,0,0,0,0,0,-1,charismatic
+paradisíaca,3,0,0,0,0,0,-1,paradisiacal
+afeiçoados ao futebol,3,0,0,0,0,0,-1,fond of football
+menos falado,3,0,0,0,0,0,-1,less talked about
+gostam de vinho,2,0,0,1,0,0,0.3333333333,they like wine
+calça,3,0,0,0,0,0,-1,pants
+sofisticado,3,0,0,0,0,0,-1,sophisticated
+ágiles,3,0,0,0,0,0,-1,agile
+simpática,3,0,0,0,0,0,-1,friendly
+animadas,3,0,0,0,0,0,-1,lively
+corajoso,3,0,0,0,0,0,-1,brave
+não bebiam muito,3,0,0,0,0,0,-1,they didn't drink much
+pequenas embarcações,3,0,0,0,0,0,-1,small boats
+apertadas,3,0,0,0,0,0,-1,tight
+sujo,0,0,1,1,1,0,3,dirty
+muçulmano,3,0,0,0,0,0,-1,Muslim
+roupa,3,0,0,0,0,0,-1,clothing
+bebiam chá,3,0,0,0,0,0,-1,drank tea
+muitos habitantes,3,0,0,0,0,0,-1,many inhabitants
+traficante,0,0,0,1,2,0,3.666666667,drug dealer
+pacífico,3,0,0,0,0,0,-1,Pacific
+dramático,1,2,0,0,0,0,0.3333333333,dramatic
+inflamável,1,1,1,0,0,0,0.6666666667,flammable
+conquistador,3,0,0,0,0,0,-1,conquer
+bons em artes marciais,3,0,0,0,0,0,-1,good at martial arts
+navais,3,0,0,0,0,0,-1,naval
+apaixonado por sardinhas,3,0,0,0,0,0,-1,in love with sardines
+guerreira,3,0,0,0,0,0,-1,Warrior
+navio,3,0,0,0,0,0,-1,ship
+fediam,0,0,1,1,1,0,3,they stank
+trabalhadora,3,0,0,0,0,0,-1,worker
+fanfarrão,1,0,0,2,0,0,1.666666667,bully
+bons em tiro esportivo,3,0,0,0,0,0,-1,good at sports shooting
+boêmios,1,1,1,0,0,0,0.6666666667,bohemians
+aristocráticas,3,0,0,0,0,0,-1,aristocratic
+kiwi,3,0,0,0,0,0,-1,Kiwi
+despóticos,0,0,2,1,0,0,2.333333333,despotic
+arrogante,0,1,0,2,0,0,2.333333333,arrogant
+falante,3,0,0,0,0,0,-1,speaker
+soldados,3,0,0,0,0,0,-1,soldiers
+calvinistas,2,0,1,0,0,0,0,Calvinists
+nómadas,2,0,1,0,0,0,0,nomads
+equatoriais,2,0,1,0,0,0,0,equatorial
+amantes da paella,3,0,0,0,0,0,-1,paella lovers
+são russos,2,0,0,1,0,0,0.3333333333,are Russians
+artesanato,3,0,0,0,0,0,-1,craftsmanship
+autoritário,1,1,0,1,0,0,1,authoritarian
+bons em escalada,3,0,0,0,0,0,-1,good at climbing
+gostam de pirâmides,3,0,0,0,0,0,-1,they like pyramids
+comunista,2,0,0,1,0,0,0.3333333333,communist
+pontual,3,0,0,0,0,0,-1,one-off
+grego,3,0,0,0,0,0,-1,Greek
+roupa íntima,3,0,0,0,0,0,-1,underwear
+com mais dinheiro,2,1,0,0,0,0,-0.3333333333,with more money
+falam espanhol,3,0,0,0,0,0,-1,speak Spanish
+altas,3,0,0,0,0,0,-1,high
+esnobe,0,2,0,1,0,0,1.666666667,snob
+temperamentais,2,0,1,0,0,0,0,temperamental
+católico,3,0,0,0,0,0,-1,Catholic
+montanhoso,3,0,0,0,0,0,-1,mountainous
+aventureiro,3,0,0,0,0,0,-1,adventurous
+bons em muay thai,3,0,0,0,0,0,-1,good at muay thai
+boêmio,1,1,0,1,0,0,1,Bohemian
+melancólico,2,0,1,0,0,0,0,melancholy
+são calças,3,0,0,0,0,0,-1,they are pants
+fazendeiros,2,1,0,0,0,0,-0.3333333333,farmers
+rude,0,3,0,0,0,0,1,rude
+gostam de karaoke,3,0,0,0,0,0,-1,like karaoke
+navios pequenos,3,0,0,0,0,0,-1,small ships
+universitário,3,0,0,0,0,0,-1,university
+barulhento,0,2,1,0,0,0,1.333333333,noisy
+bem alimentados,3,0,0,0,0,0,-1,well fed
+fluente,3,0,0,0,0,0,-1,fluent
+grande,2,1,0,0,0,0,-0.3333333333,big
+masculina,2,1,0,0,0,0,-0.3333333333,masculine
+gatos,3,0,0,0,0,0,-1,cats
+hostis,0,1,2,0,0,0,1.666666667,hostile
+governantes corruptos,0,0,1,0,2,0,3.333333333,corrupt rulers
+passivo,2,0,1,0,0,0,0,passive
+criminoso,1,0,0,0,2,0,2.333333333,criminal
+dançarinas,3,0,0,0,0,0,-1,dancers
+pequenos navios de guerra,3,0,0,0,0,0,-1,small warships
+sensuais,3,0,0,0,0,0,-1,sensual
+salsicha,2,1,0,0,0,0,-0.3333333333,sausage
+portuguese,3,0,0,0,0,0,-1,Portuguese
+romântico,3,0,0,0,0,0,-1,romantic
+deserto,3,0,0,0,0,0,-1,desert
+charmosas,3,0,0,0,0,0,-1,charming
+bons em argila,3,0,0,0,0,0,-1,good in clay
+alemã,3,0,0,0,0,0,-1,german
+aborígene,2,1,0,0,0,0,-0.3333333333,aboriginal
+língua internacional,3,0,0,0,0,0,-1,international language
+gostam de festa,2,1,0,0,0,0,-0.3333333333,they like to party
+barulhentos,0,2,0,1,0,0,1.666666667,noisy
+malucos,0,1,0,1,1,0,2.666666667,crazy
+acolhedor,3,0,0,0,0,0,-1,welcoming
+ditadores,0,0,1,1,1,0,3,dictators
+descendentes de tártaros,3,0,0,0,0,0,-1,descendants of Tatars
+monarquista,3,0,0,0,0,0,-1,monarchist
+antiguidade,3,0,0,0,0,0,-1,antique
+refugiados,2,0,0,0,0,1,-0.6666666667,refugees
+animado,3,0,0,0,0,0,-1,cheered up
+gostam de vodka,2,0,0,0,1,0,0.6666666667,they like vodka
+trabalhador,3,0,0,0,0,0,-1,worker
+bom em futebol,3,0,0,0,0,0,-1,good at football
+falante de língua românica,3,0,0,0,0,0,-1,Romance language speaker
+gostam de sauna,3,0,0,0,0,0,-1,like sauna
+gostam de chá,3,0,0,0,0,0,-1,they like tea
+refugiado,2,0,0,0,0,1,-0.6666666667,refugee
+latino,3,0,0,0,0,0,-1,Latin
+bons em vela,3,0,0,0,0,0,-1,good at sailing
+surfista,3,0,0,0,0,0,-1,surfer
+sedutoras,3,0,0,0,0,0,-1,seductive
+terno,3,0,0,0,0,0,-1,suit
+menos usado,2,1,0,0,0,0,-0.3333333333,least used
+falado por muitos,3,0,0,0,0,0,-1,spoken by many
+sensual,3,0,0,0,0,0,-1,sexy
+azerbaijano,3,0,0,0,0,0,-1,Azerbaijani
+mais falado,3,0,0,0,0,0,-1,most talked about
+franceses,3,0,0,0,0,0,-1,French
+sábios,3,0,0,0,0,0,-1,wise
+filósofo,3,0,0,0,0,0,-1,philosopher
+portuguesa,3,0,0,0,0,0,-1,Portuguese
+gauchos,3,0,0,0,0,0,-1,gauchos
+romano,3,0,0,0,0,0,-1,Roman
+gostam de rum,2,0,0,1,0,0,0.3333333333,they like rum
+mais frio,1,2,0,0,0,0,0.3333333333,colder
+bons em cozinha,3,0,0,0,0,0,-1,good at cooking
+fala muito,0,3,0,0,0,0,1,talks a lot
+virilidade,1,1,1,0,0,0,0.6666666667,virility
+veleiro,3,0,0,0,0,0,-1,sailboat
+portuense,3,0,0,0,0,0,-1,Porto
+gostam de peixe,3,0,0,0,0,0,-1,they like fish
+civilizado,3,0,0,0,0,0,-1,civilized
+delicioso,3,0,0,0,0,0,-1,delicious
+montanhistas,3,0,0,0,0,0,-1,mountaineers
+judeu,2,0,0,0,0,1,-0.6666666667,Jewish
+selvagem,0,0,1,2,0,0,2.666666667,wild
+ladrões,0,0,0,0,3,0,4,thieves
+amigáveis,3,0,0,0,0,0,-1,friendly
+amam karaoke,3,0,0,0,0,0,-1,love karaoke
+nórdico,3,0,0,0,0,0,-1,Nordic
+apreciam chá,3,0,0,0,0,0,-1,enjoy tea
+cobertas de ferro,3,0,0,0,0,0,-1,covered in iron
+franco,3,0,0,0,0,0,-1,frank
+bagunceiros,0,0,2,1,0,0,2.333333333,messy
+luso,3,0,0,0,0,0,-1,Portuguese
+rico em petróleo,3,0,0,0,0,0,-1,rich in oil
+ambicioso,3,0,0,0,0,0,-1,ambitious
+formal,3,0,0,0,0,0,-1,formal
+bons em matemática,3,0,0,0,0,0,-1,good at math
+comem arroz,3,0,0,0,0,0,-1,eat rice
+dócil,3,0,0,0,0,0,-1,docile
+adeptos do fc porto,3,0,0,0,0,0,-1,FC Porto fans
+primitivo,0,1,0,1,1,0,2.666666667,primitive
+bebuns,0,1,1,1,0,0,2,babies
+elegante,3,0,0,0,0,0,-1,elegant
+morenas,3,0,0,0,0,0,-1,brunettes
+católica,3,0,0,0,0,0,-1,catholic
+rápido,3,0,0,0,0,0,-1,fast
+loiro,3,0,0,0,0,0,-1,blonde
+de origem africana,3,0,0,0,0,0,-1,of African origin
+civilizadas,3,0,0,0,0,0,-1,civilized
+empreendedores,3,0,0,0,0,0,-1,entrepreneurs
+resistente ao frio,3,0,0,0,0,0,-1,cold resistant
+ágil,3,0,0,0,0,0,-1,agile
+animal,0,0,2,1,0,0,2.333333333,animal
+magrebino,3,0,0,0,0,0,-1,Maghreb
+alegre,3,0,0,0,0,0,-1,happy
+agressivo,0,1,0,2,0,0,2.333333333,aggressive
+navios antigos,3,0,0,0,0,0,-1,ancient ships
+beberrões,0,1,0,2,0,0,2.333333333,drunkards
+jogador de futebol,3,0,0,0,0,0,-1,football player
+andino,3,0,0,0,0,0,-1,Andean
+confortáveis,3,0,0,0,0,0,-1,comfortable
+chineses,3,0,0,0,0,0,-1,Chinese
+estudioso,3,0,0,0,0,0,-1,studious
+frágeis,3,0,0,0,0,0,-1,fragile
+gostam de uísque,2,0,0,1,0,0,0.3333333333,they like whiskey
+lento,1,1,1,0,0,0,0.6666666667,slow
+boxer,3,0,0,0,0,0,-1,boxer
+confiantes,3,0,0,0,0,0,-1,confident
+antigo,2,1,0,0,0,0,-0.3333333333,old
+amantes da limpeza,3,0,0,0,0,0,-1,cleaning lovers
+africano,3,0,0,0,0,0,-1,African
+albanês,3,0,0,0,0,0,-1,Albanian
+educada,3,0,0,0,0,0,-1,polite
+beduíno,3,0,0,0,0,0,-1,Bedouin
+bebedores,2,0,0,1,0,0,0.3333333333,drinkers
+pequenos barcos,3,0,0,0,0,0,-1,small boats
+pontuais,3,0,0,0,0,0,-1,punctual
+falante de espanhol,3,0,0,0,0,0,-1,Spanish speaker
+equatorial,3,0,0,0,0,0,-1,equatorial
+criativo,3,0,0,0,0,0,-1,creative
+falante de língua latina,3,0,0,0,0,0,-1,Latin language speaker
+árabe,3,0,0,0,0,0,-1,Arabic
+gostam de chocolate,3,0,0,0,0,0,-1,they like chocolate
+mal-humorado,0,3,0,0,0,0,1,grumpy
+descontraídas,3,0,0,0,0,0,-1,relaxed
+são um povo,3,0,0,0,0,0,-1,are a people
+durões,2,1,0,0,0,0,-0.3333333333,tough
+sexy,3,0,0,0,0,0,-1,sexy
+jogam futebol,3,0,0,0,0,0,-1,play soccer
+bagpipes,3,0,0,0,0,0,-1,bagpipes
+bons em esqui,3,0,0,0,0,0,-1,good at skiing
+branco,2,0,0,1,0,0,0.3333333333,white
+libertadores,3,0,0,0,0,0,-1,liberators
+importante,3,0,0,0,0,0,-1,important
+falantes de línguas românicas,3,0,0,0,0,0,-1,speakers of romance languages
+gostam de cerveja,2,0,0,1,0,0,0.3333333333,they like beer
+intelectuais,3,0,0,0,0,0,-1,intellectuals
+são neutros,3,0,0,0,0,0,-1,are neutral
+preguiçoso,1,1,0,1,0,0,1,lazy
+a segunda língua mais falada,3,0,0,0,0,0,-1,the second most spoken language
+raçudos,2,0,1,0,0,0,0,raçudos
+vitorianas,3,0,0,0,0,0,-1,Victorian
+introvertida,3,0,0,0,0,0,-1,introverted
+peixeiro,0,1,1,0,0,1,1,fishmonger
+falam crioulo,3,0,0,0,0,0,-1,speak Creole
+nazista,0,0,0,0,3,0,4,Nazi
+espiritualizado,3,0,0,0,0,0,-1,spiritualized
+gordo,0,1,0,1,1,0,2.666666667,fat
+pirata,0,0,1,2,0,0,2.666666667,pirate
+gostam de fado,3,0,0,0,0,0,-1,they like fado
+adoram salsicha,3,0,0,0,0,0,-1,love sausage
+hospitaleiro,3,0,0,0,0,0,-1,hospitable
+obediente,3,0,0,0,0,0,-1,obedient
+musculosos,3,0,0,0,0,0,-1,muscular
+monarquia,3,0,0,0,0,0,-1,monarchy
+fleumático,2,1,0,0,0,0,-0.3333333333,phlegmatic
+bom de copo,1,1,0,1,0,0,1,good in a glass
+apertado,3,0,0,0,0,0,-1,tight
+velha,1,0,1,0,1,0,1.666666667,old
+aldrabões,0,0,0,2,1,0,3.333333333,cheats
+antiga cidade,3,0,0,0,0,0,-1,ancient city
+waffles,3,0,0,0,0,0,-1,waffles
+corredor,3,0,0,0,0,0,-1,Hall
+afável,3,0,0,0,0,0,-1,affable
+esportes radicais,3,0,0,0,0,0,-1,radical sports
+escritor,3,0,0,0,0,0,-1,writer
+sorriem muito,3,0,0,0,0,0,-1,smile a lot
+jogador,3,0,0,0,0,0,-1,player
+bengali,3,0,0,0,0,0,-1,Bengali
+gostam de paella,3,0,0,0,0,0,-1,they like paella
+campeões,3,0,0,0,0,0,-1,champions
+bons em dança,3,0,0,0,0,0,-1,good at dancing
+a cidade,3,0,0,0,0,0,-1,the city
+educadas,3,0,0,0,0,0,-1,polite
+afro-americanos,3,0,0,0,0,0,-1,african-American
+realista,3,0,0,0,0,0,-1,realist
+ruínas,2,1,0,0,0,0,-0.3333333333,ruins
+dançarino,3,0,0,0,0,0,-1,dancer
+bons em boxe,3,0,0,0,0,0,-1,good at boxing
+peixe,2,1,0,0,0,0,-0.3333333333,fish
+funcionários,3,0,0,0,0,0,-1,employees
+bom vinho,3,0,0,0,0,0,-1,good wine
+vivem em madagascar,3,0,0,0,0,0,-1,live in madagascar
+académicos,3,0,0,0,0,0,-1,academics
+amantes de festas,3,0,0,0,0,0,-1,party lovers
+excêntricos,2,1,0,0,0,0,-0.3333333333,eccentrics
+bons em arco e flecha,3,0,0,0,0,0,-1,good at archery
+legais,3,0,0,0,0,0,-1,cool
+forte,3,0,0,0,0,0,-1,strong
+lusitano,3,0,0,0,0,0,-1,Portuguese
+galeses,3,0,0,0,0,0,-1,Welsh
+praia,3,0,0,0,0,0,-1,beach
+gostam de siri,3,0,0,0,0,0,-1,they like crab
+falado em todo o mundo,3,0,0,0,0,0,-1,spoken around the world
+meninos,3,0,0,0,0,0,-1,boys
+gostam de estudar,3,0,0,0,0,0,-1,they like to study
+masculino,3,0,0,0,0,0,-1,masculine
+indígena,2,0,0,0,0,1,-0.6666666667,indigenous
+atleta,3,0,0,0,0,0,-1,athlete
+bom em falar,3,0,0,0,0,0,-1,good at talking
+fumadores,2,1,0,0,0,0,-0.3333333333,smokers
+vodka,3,0,0,0,0,0,-1,vodka
+antiga cidade portuguesa,3,0,0,0,0,0,-1,old Portuguese city
+short,3,0,0,0,0,0,-1,shorts
+cães,1,1,1,0,0,0,0.6666666667,dogs
+lusitana,3,0,0,0,0,0,-1,Portuguese
+paulista,3,0,0,0,0,0,-1,paulista
+coloridas,3,0,0,0,0,0,-1,colorful
+ilha,3,0,0,0,0,0,-1,island
+feijão,3,0,0,0,0,0,-1,bean
+felizes,3,0,0,0,0,0,-1,happy
+são navios,3,0,0,0,0,0,-1,are ships
+acolhedora,3,0,0,0,0,0,-1,welcoming
+direto,3,0,0,0,0,0,-1,direct
+submissas,3,0,0,0,0,0,-1,submissive
+andam de camelo,3,0,0,0,0,0,-1,ride a camel
+sintético,3,0,0,0,0,0,-1,synthetic
+reis,3,0,0,0,0,0,-1,kings
+bandidos,0,0,0,1,2,0,3.666666667,bandits
+são roupas,3,0,0,0,0,0,-1,are clothes
+mal educados,0,0,1,2,0,0,2.666666667,rude
+sexuais,3,0,0,0,0,0,-1,sexual
+beijadores,3,0,0,0,0,0,-1,kissers
+são francos,3,0,0,0,0,0,-1,they are frank
+nacionalista,3,0,0,0,0,0,-1,nationalist
+conservadora,3,0,0,0,0,0,-1,conservative
+faladores,3,0,0,0,0,0,-1,talkers
+grandes navios,3,0,0,0,0,0,-1,big ships
+misterioso,3,0,0,0,0,0,-1,mysterious
+acolhedores,3,0,0,0,0,0,-1,welcoming
+irreverentes,3,0,0,0,0,0,-1,irreverent
+estudiosas,3,0,0,0,0,0,-1,scholars
+gostam de cachupa,3,0,0,0,0,0,-1,they like cachupa
+cinto,3,0,0,0,0,0,-1,belt
+leais,3,0,0,0,0,0,-1,loyal
+romanizado,3,0,0,0,0,0,-1,romanized
+mediterrâneo,3,0,0,0,0,0,-1,Mediterranean
+ovelhas,2,1,0,0,0,0,-0.3333333333,sheep
+educado,3,0,0,0,0,0,-1,educated
+italiano,3,0,0,0,0,0,-1,Italian
+rebeldes,2,1,0,0,0,0,-0.3333333333,rebels
+cidade romana,3,0,0,0,0,0,-1,roman city
+artísticos,3,0,0,0,0,0,-1,artistic
+bom em fado,3,0,0,0,0,0,-1,good at fado
+espirituais,3,0,0,0,0,0,-1,spiritual
+sociáveis,3,0,0,0,0,0,-1,sociable
+bom cozinheiro,3,0,0,0,0,0,-1,good cook
+gostam de comer carne,3,0,0,0,0,0,-1,like to eat meat
+folgado,1,1,1,0,0,0,0.6666666667,loose
+adoram escalar montanhas,3,0,0,0,0,0,-1,love climbing mountains
+comerciantes,3,0,0,0,0,0,-1,merchants
+desconfortáveis,2,1,0,0,0,0,-0.3333333333,uncomfortable
+saboroso,3,0,0,0,0,0,-1,Tasty
+falantes de português,3,0,0,0,0,0,-1,Portuguese speakers
+navegação,3,0,0,0,0,0,-1,navigation
+bons em taekwondo,3,0,0,0,0,0,-1,good at taekwondo
+amantes da música,3,0,0,0,0,0,-1,music lovers
+pão durinho,3,0,0,0,0,0,-1,hard bread
+corrupto,0,0,0,0,3,0,4,corrupt
+ousado,2,0,1,0,0,0,0,bold
+gostam de futebol,3,0,0,0,0,0,-1,they like football
+organizado,3,0,0,0,0,0,-1,organized
+alemães,3,0,0,0,0,0,-1,Germans
+festeiro,2,1,0,0,0,0,-0.3333333333,partygoer
+relógio,3,0,0,0,0,0,-1,clock
+erudito,2,1,0,0,0,0,-0.3333333333,erudite
+protestante,2,0,0,1,0,0,0.3333333333,Protestant
+bebedor,0,2,0,1,0,0,1.666666667,drinker
+bons escaladores,3,0,0,0,0,0,-1,good climbers
+violento,0,0,1,0,2,0,3.333333333,violent
+manso,1,1,0,1,0,0,1,meek
+guerra,2,1,0,0,0,0,-0.3333333333,war
+metódico,3,0,0,0,0,0,-1,methodical
+mulheres,3,0,0,0,0,0,-1,women
+insular,3,0,0,0,0,0,-1,island
+gostam de sushi,3,0,0,0,0,0,-1,they like sushi
+velho,1,0,2,0,0,0,1,old
+parisiense,3,0,0,0,0,0,-1,Parisian
+língua oficial da espanha,3,0,0,0,0,0,-1,official language of spain
+frio,2,1,0,0,0,0,-0.3333333333,cold
+descontraído,3,0,0,0,0,0,-1,relaxed
+conquistadores,3,0,0,0,0,0,-1,conquerors
+conservadores,3,0,0,0,0,0,-1,conservatives
+falantes da língua,3,0,0,0,0,0,-1,language speakers
+gostam de charutos,3,0,0,0,0,0,-1,they like cigars
+isolado,2,1,0,0,0,0,-0.3333333333,isolated
+espiritualistas,3,0,0,0,0,0,-1,spiritualists
+cozinha,3,0,0,0,0,0,-1,kitchen
+bárbaro,1,1,0,0,1,0,1.333333333,barbarian
+língua oficial de portugal,3,0,0,0,0,0,-1,official language of portugal
+comiam batatas fritas,3,0,0,0,0,0,-1,ate french fries
+rica em petróleo,3,0,0,0,0,0,-1,rich in oil
+lemur,2,0,0,1,0,0,0.3333333333,lemur
+coreano,3,0,0,0,0,0,-1,Korean
+braga,3,0,0,0,0,0,-1,braga
+cidade portuguesa,3,0,0,0,0,0,-1,Portuguese city
+pobre,1,1,1,0,0,0,0.6666666667,poor
+escravistas,0,0,0,3,0,0,3,slavers
+pequenos navios,3,0,0,0,0,0,-1,small ships
+humilde,3,0,0,0,0,0,-1,humble
+dominado,3,0,0,0,0,0,-1,dominated
+gostam de sardinha,3,0,0,0,0,0,-1,they like sardines
+explosivo,0,3,0,0,0,0,1,explosive
+escocês,3,0,0,0,0,0,-1,Scottish
+comem muito arroz,3,0,0,0,0,0,-1,eat a lot of rice
+gostam de armas,1,1,1,0,0,0,0.6666666667,they like guns
+marinheiro,3,0,0,0,0,0,-1,sailor
+bons,3,0,0,0,0,0,-1,Good
+língua,3,0,0,0,0,0,-1,language
+romance,3,0,0,0,0,0,-1,romance
+animais,1,0,2,0,0,0,1,animals
+navio de guerra,3,0,0,0,0,0,-1,war ship
+bons em cerveja,2,1,0,0,0,0,-0.3333333333,good at beer
+vulgar,1,0,1,1,0,0,1.333333333,vulgar
+gostam de rock,3,0,0,0,0,0,-1,they like rock
+viking,2,0,0,1,0,0,0.3333333333,viking
+asiático,3,0,0,0,0,0,-1,Asian
+gostam de praia,3,0,0,0,0,0,-1,they like the beach
+expressivo,3,0,0,0,0,0,-1,expressive
+bondoso,3,0,0,0,0,0,-1,kindness
+íntima,3,0,0,0,0,0,-1,intimate
+não gostam de carne,3,0,0,0,0,0,-1,don't like meat
+falado na espanha,3,0,0,0,0,0,-1,spoken in spain
+monárquicos,3,0,0,0,0,0,-1,monarchists
+fechado,3,0,0,0,0,0,-1,closed
+ágeis,3,0,0,0,0,0,-1,agile
+temperamental,2,0,1,0,0,0,0,temperamental
+navios de guerra antigos,3,0,0,0,0,0,-1,ancient warships
+vela,3,0,0,0,0,0,-1,candle
+artístico,3,0,0,0,0,0,-1,artistic
+muito falado,3,0,0,0,0,0,-1,much talked about
+aborrecidos,1,1,1,0,0,0,0.6666666667,bored
+egoísta,0,2,0,1,0,0,1.666666667,selfish
+fumavam muito,2,0,0,1,0,0,0.3333333333,smoked a lot
+guerreiro,3,0,0,0,0,0,-1,warrior
+ignorante,0,1,0,2,0,0,2.333333333,ignorant
+petróleo,3,0,0,0,0,0,-1,Petroleum
+ortodoxo,3,0,0,0,0,0,-1,orthodox
+falantes de língua celta,3,0,0,0,0,0,-1,Celtic language speakers
+orgulhoso,2,1,0,0,0,0,-0.3333333333,proud
+perigoso,0,0,2,1,0,0,2.333333333,dangerous
+camelos,1,1,0,1,0,0,1,camels
+graciosas,3,0,0,0,0,0,-1,graceful
+são roupas íntimas masculinas,3,0,0,0,0,0,-1,are men's underwear
+relaxado,3,0,0,0,0,0,-1,chilled out
+rebelde,1,2,0,0,0,0,0.3333333333,rebel
+turismo,3,0,0,0,0,0,-1,tourism
+abnegados,2,1,0,0,0,0,-0.3333333333,selfless
+sanguinários,0,0,0,3,0,0,3,bloodthirsty
+amantes,2,1,0,0,0,0,-0.3333333333,lovers
+disciplinadas,3,0,0,0,0,0,-1,disciplined
+pentacampeões,3,0,0,0,0,0,-1,five-time champions
+flemáticos,3,0,0,0,0,0,-1,phlegmatic
+sistemático,3,0,0,0,0,0,-1,systematic
+bronzeado,3,0,0,0,0,0,-1,tanned
+incômodo,1,2,0,0,0,0,0.3333333333,nuisance
+alcóolico,0,1,0,1,1,0,2.666666667,alcoholic
+descendentes de gregos,3,0,0,0,0,0,-1,descendants of Greeks
+altruísta,2,1,0,0,0,0,-0.3333333333,altruistic
+gostam de surf,3,0,0,0,0,0,-1,they like surfing
+língua oficial,3,0,0,0,0,0,-1,official language
+mulatas,1,2,0,0,0,0,0.3333333333,mulattas
+gostam de correr,3,0,0,0,0,0,-1,they like to run
+turistas,3,0,0,0,0,0,-1,tourists
+terrorista,0,0,0,0,3,0,4,terrorist
+eficiente,3,0,0,0,0,0,-1,efficient
+bebem muito,0,2,0,1,0,0,1.666666667,they drink a lot
+inovadores,2,1,0,0,0,0,-0.3333333333,innovative
+apaixonados por futebol,3,0,0,0,0,0,-1,passionate about football
+feministas,2,0,0,0,0,1,-0.6666666667,feminists
+aldrabão,0,0,1,0,2,0,3.333333333,swindler
+obcecados,0,1,2,0,0,0,1.666666667,obsessed
+gostam de sol,3,0,0,0,0,0,-1,they like sun
+movidos a vela,3,0,0,0,0,0,-1,sail-powered
+barcos de guerra,3,0,0,0,0,0,-1,war boats
+reservado,3,0,0,0,0,0,-1,reserved
+miscigenado,1,0,0,1,1,0,2,mixed race
+leões,3,0,0,0,0,0,-1,lions
+gostam de viajar,3,0,0,0,0,0,-1,like to travel
+refugiada,2,0,0,0,0,1,-0.6666666667,refugee
+navios de guerra,3,0,0,0,0,0,-1,warships
+cidade,3,0,0,0,0,0,-1,city
+são fanáticos,1,2,0,0,0,0,0.3333333333,they are fanatics
+viril,2,1,0,0,0,0,-0.3333333333,manly
+antiga,2,1,0,0,0,0,-0.3333333333,old
+egocêntricos,0,2,1,0,0,0,1.333333333,egocentric
+adoram a guerra,0,0,1,1,1,0,3,love war
+marisco,3,0,0,0,0,0,-1,shellfish
+têm sotaque,3,0,0,0,0,0,-1,have an accent
+gostam de touros,2,1,0,0,0,0,-0.3333333333,they like bulls
+mestiço,1,0,0,0,2,0,2.333333333,mixed race
+brasil,3,0,0,0,0,0,-1,Brazil
+goiano,3,0,0,0,0,0,-1,goiano
+ingleses,3,0,0,0,0,0,-1,English
+sentimental,3,0,0,0,0,0,-1,sentimental
+intelectualizados,3,0,0,0,0,0,-1,intellectualized
+sardinheiro,1,2,0,0,0,0,0.3333333333,sardine
+comem tâmaras,3,0,0,0,0,0,-1,eat dates
+cigano,0,0,1,2,0,0,2.666666667,Gypsy
+albaneses,3,0,0,0,0,0,-1,Albanians
+único,3,0,0,0,0,0,-1,single
+surfistas,3,0,0,0,0,0,-1,surfers
+ruivos,3,0,0,0,0,0,-1,redheads
+bravo,3,0,0,0,0,0,-1,angry
+falado em portugal,3,0,0,0,0,0,-1,spoken in Portuguese
+montanha,3,0,0,0,0,0,-1,mountain
+gostam de vinho do porto,2,0,1,0,0,0,0,they like port wine
+liberais,2,0,1,0,0,0,0,liberals
+brasileiro,3,0,0,0,0,0,-1,Brazilian
+úteis,3,0,0,0,0,0,-1,Useful
+gorda,0,1,0,1,1,0,2.666666667,fat
+bracarenses,3,0,0,0,0,0,-1,bracarenses
+brutais,1,1,0,0,1,0,1.333333333,brutal
+bons em terremotos,3,0,0,0,0,0,-1,good at earthquakes
+roupas íntimas,3,0,0,0,0,0,-1,underwear
+bons em rugby,3,0,0,0,0,0,-1,good at rugby
+barco,3,0,0,0,0,0,-1,boat
+colonizador,1,1,0,0,1,0,1.333333333,colonizer
+negro,1,1,0,0,1,0,1.333333333,black
+cavaleiro,3,0,0,0,0,0,-1,knight
+passionais,3,0,0,0,0,0,-1,passionate
+rico,2,0,1,0,0,0,0,rich
+habitantes de évora,3,0,0,0,0,0,-1,inhabitants of évora
+machista,0,2,0,0,1,0,2,male chauvinist
+gostam de carnaval,3,0,0,0,0,0,-1,they like carnival
+hospitaleiras,3,0,0,0,0,0,-1,hospitable
+engraçado,3,0,0,0,0,0,-1,funny
+cobertas,3,0,0,0,0,0,-1,covered
+lutadoras,3,0,0,0,0,0,-1,fighters
+perfeccionista,3,0,0,0,0,0,-1,perfectionist
+bons em corrida de longa distância,3,0,0,0,0,0,-1,good at long distance running
+valente,3,0,0,0,0,0,-1,brave
+falantes de espanhol,3,0,0,0,0,0,-1,Spanish speakers
+idioma,3,0,0,0,0,0,-1,language
+alemão,3,0,0,0,0,0,-1,German
+fanático,1,1,1,0,0,0,0.6666666667,fanatic
+torcem pelo bragantino,3,0,0,0,0,0,-1,support bragantino
+rica em coco,3,0,0,0,0,0,-1,rich in coconut
+falam inglês,3,0,0,0,0,0,-1,speak English
+bons em maratona,3,0,0,0,0,0,-1,good at marathon
+pequeno navio,3,0,0,0,0,0,-1,small ship
+inteligente,3,0,0,0,0,0,-1,intelligent
+esportivo,3,0,0,0,0,0,-1,sporty
+budista,3,0,0,0,0,0,-1,Buddhist
+islã,3,0,0,0,0,0,-1,islam
+bravas,3,0,0,0,0,0,-1,brave
+gostam de aventura,3,0,0,0,0,0,-1,they like adventure
+sanduíche,3,0,0,0,0,0,-1,sandwich
+roupa íntima masculina,3,0,0,0,0,0,-1,men's underwear
+gostam de comer fast food,2,0,1,0,0,0,0,like to eat fast food
+povo,3,0,0,0,0,0,-1,people
+saborosas,3,0,0,0,0,0,-1,tasty
+construíam pirâmides,3,0,0,0,0,0,-1,built pyramids
+teimoso,2,1,0,0,0,0,-0.3333333333,stubborn
+falavam latim,3,0,0,0,0,0,-1,spoke Latin
+a língua mais falada,3,0,0,0,0,0,-1,the most spoken language
+eslavo,3,0,0,0,0,0,-1,Slavic
+simpático,3,0,0,0,0,0,-1,kind
+japoneses,3,0,0,0,0,0,-1,Japanese
+músico,3,0,0,0,0,0,-1,musician
+usados por homens,3,0,0,0,0,0,-1,used by men
+antigo nome de braga,3,0,0,0,0,0,-1,old name of braga
+econômico,3,0,0,0,0,0,-1,economic
+armadas,3,0,0,0,0,0,-1,armed
+atraentes,3,0,0,0,0,0,-1,attractive
+gaúchos,3,0,0,0,0,0,-1,gauchos
+duro,2,1,0,0,0,0,-0.3333333333,hard
+caribenho,3,0,0,0,0,0,-1,Caribbean
+trabalhadore,3,0,0,0,0,0,-1,worker
+revolucionário,3,0,0,0,0,0,-1,revolutionary
+festeiras,2,1,0,0,0,0,-0.3333333333,party girls
+impulsivo,2,1,0,0,0,0,-0.3333333333,impulsive
+muçulmanos,3,0,0,0,0,0,-1,Muslims
+falam romeno,3,0,0,0,0,0,-1,speak Romanian
+brincalhões,3,0,0,0,0,0,-1,pranksters
+falante de línguas,3,0,0,0,0,0,-1,tongue speaker
+cosmopolita,3,0,0,0,0,0,-1,cosmopolitan
+cultos,3,0,0,0,0,0,-1,cults
+bons em corridas de longa distância,3,0,0,0,0,0,-1,good at long distance running
+gelado,3,0,0,0,0,0,-1,ice cream
+falantes de manx,3,0,0,0,0,0,-1,Manx speakers
+religiosa,3,0,0,0,0,0,-1,religious
+escalam montanhas,3,0,0,0,0,0,-1,climb mountains
+falam rápido,3,0,0,0,0,0,-1,they speak quickly
+confortável,3,0,0,0,0,0,-1,comfortable
+gostam de hambúrguer,2,1,0,0,0,0,-0.3333333333,they like hamburgers
+fala rápido,3,0,0,0,0,0,-1,talk fast
+mais elegantes,3,0,0,0,0,0,-1,more elegant
+de madeira,3,0,0,0,0,0,-1,wooden
+militares,3,0,0,0,0,0,-1,military
+difícil entender,1,1,1,0,0,0,0.6666666667,hard to understand
+selvagens,0,1,1,0,1,0,2.333333333,wild
+vaidosas,1,1,1,0,0,0,0.6666666667,vain
+são muçulmanos,3,0,0,0,0,0,-1,are Muslims
+incansáveis,3,0,0,0,0,0,-1,tireless
+safari,3,0,0,0,0,0,-1,safari
+falado,3,0,0,0,0,0,-1,spoken
+prestativos,3,0,0,0,0,0,-1,helpful
+histórica,3,0,0,0,0,0,-1,historical
+exótico,3,0,0,0,0,0,-1,exotic
+extrovertido,3,0,0,0,0,0,-1,extroverted
+albigense,3,0,0,0,0,0,-1,albigensian
+terroristas,0,0,0,0,3,0,4,terrorists
+resistente,3,0,0,0,0,0,-1,resistant
+cueca,3,0,0,0,0,0,-1,underpants
+gostam de esquiar,3,0,0,0,0,0,-1,like skiing
+paradisíaco,3,0,0,0,0,0,-1,paradisiacal
+inglesas,3,0,0,0,0,0,-1,English
+underwear,3,0,0,0,0,0,-1,underwear
+sem-vergonha,1,1,1,0,0,0,0.6666666667,shameless
+escuras,1,1,0,0,1,0,1.333333333,dark
+comem farinheira,3,0,0,0,0,0,-1,eat flour
+falante nativo,3,0,0,0,0,0,-1,native speaker
+gostam de samba,3,0,0,0,0,0,-1,they like samba
+prato,3,0,0,0,0,0,-1,dish
+neutro,3,0,0,0,0,0,-1,neutral
+bonita,3,0,0,0,0,0,-1,beautiful
+antiga cidade romana,3,0,0,0,0,0,-1,ancient roman city
+brega,0,1,0,2,0,0,2.333333333,corny
+arroz,2,0,0,0,0,1,-0.6666666667,rice
+embelezado,3,0,0,0,0,0,-1,embellished
+nação neutra,3,0,0,0,0,0,-1,neutral nation
+egípcios,3,0,0,0,0,0,-1,Egyptians
+moro no exterior,3,0,0,0,0,0,-1,I live abroad
+áfrica,3,0,0,0,0,0,-1,Africa
+ativas,3,0,0,0,0,0,-1,active
+frígidas,1,1,0,1,0,0,1,frigid
+gramaticalmente complexa,3,0,0,0,0,0,-1,grammatically complex
+uigur,2,0,1,0,0,0,0,uighur
+mafioso,0,0,0,2,1,0,3.333333333,mobster
+palestinos,3,0,0,0,0,0,-1,Palestinians
+industrial,3,0,0,0,0,0,-1,industrial
+húngaros,3,0,0,0,0,0,-1,Hungarians
+faladora,1,1,1,0,0,0,0.6666666667,talkative
+arretada,1,2,0,0,0,0,0.3333333333,arretada
+rígida,1,2,0,0,0,0,0.3333333333,rigid
+baixinha,1,2,0,0,0,0,0.3333333333,short
+amazônica,3,0,0,0,0,0,-1,amazon
+nação árabe,3,0,0,0,0,0,-1,arab nation
+tradicionalmente,3,0,0,0,0,0,-1,traditionally
+nação pacífica,3,0,0,0,0,0,-1,peaceful nation
+luxo,3,0,0,0,0,0,-1,Lux
+bons em corrida de média distância,3,0,0,0,0,0,-1,good at medium distance running
+barulhenta,0,2,1,0,0,0,1.333333333,noisy
+moro no deserto,3,0,0,0,0,0,-1,I live in the desert
+correu muito,3,0,0,0,0,0,-1,ran a lot
+sábio,3,0,0,0,0,0,-1,wise
+dança bem,3,0,0,0,0,0,-1,dance well
+apaixonados por comida,3,0,0,0,0,0,-1,passionate about food
+escaladores,3,0,0,0,0,0,-1,climbers
+animada,3,0,0,0,0,0,-1,lively
+herege,0,1,1,0,1,0,2.333333333,heretic
+tranquilo,3,0,0,0,0,0,-1,quiet
+mediterrânea,3,0,0,0,0,0,-1,Mediterranean
+sudeste europeu,3,0,0,0,0,0,-1,southeast europe
+samba,3,0,0,0,0,0,-1,samba
+guerra civil,3,0,0,0,0,0,-1,civil war
+ilhas do oceano índico,3,0,0,0,0,0,-1,islands in the indian ocean
+latina,3,0,0,0,0,0,-1,latin
+tropicais,3,0,0,0,0,0,-1,tropical
+maghrebino,3,0,0,0,0,0,-1,maghrebi
+áspero,0,3,0,0,0,0,1,rough
+tango,3,0,0,0,0,0,-1,tango
+luxemburguese,3,0,0,0,0,0,-1,Luxembourg
+emoção,3,0,0,0,0,0,-1,emotion
+nação antiga,3,0,0,0,0,0,-1,ancient nation
+pão,3,0,0,0,0,0,-1,bread
+bons em culinária,3,0,0,0,0,0,-1,good at cooking
+pequeno,1,1,0,0,0,1,0,small
+bons em tecnologia,3,0,0,0,0,0,-1,good at technology
+á guerra,2,0,0,0,0,1,-0.6666666667,the war
+terra santa,3,0,0,0,0,0,-1,Holly Land
+chique,3,0,0,0,0,0,-1,chic
+pensadores,3,0,0,0,0,0,-1,thinkers
+nativas,2,0,0,0,0,1,-0.6666666667,native
+neutralidade,3,0,0,0,0,0,-1,neutrality
+empolgada,3,0,0,0,0,0,-1,excited
+escura,1,0,0,0,1,1,1,dark
+tropical,3,0,0,0,0,0,-1,tropical
+adorou o show,3,0,0,0,0,0,-1,loved the show
+trópico,3,0,0,0,0,0,-1,tropic
+portenho,3,0,0,0,0,0,-1,porteño
+nação eslava,3,0,0,0,0,0,-1,slavic nation
+arretado,1,2,0,0,0,0,0.3333333333,arretado
+magra,1,0,1,0,0,1,0.3333333333,slim
+djiboutiano,3,0,0,0,0,0,-1,Djiboutian
+pão marroquino,3,0,0,0,0,0,-1,moroccan bread
+túmulos antigos,3,0,0,0,0,0,-1,ancient tombs
+cristãs,3,0,0,0,0,0,-1,Christian
+autoconfiança,3,0,0,0,0,0,-1,self confidence
+extrovertidas,3,0,0,0,0,0,-1,extroverted
+adoram dançar,3,0,0,0,0,0,-1,love to dance
+palestiniano,3,0,0,0,0,0,-1,Palestinian
+coberta,3,0,0,0,0,0,-1,covered
+ciumentas,0,2,1,0,0,0,1.333333333,jealous
+coreanos,3,0,0,0,0,0,-1,Koreans
+pampa,3,0,0,0,0,0,-1,pampas
+guerrilha,0,2,0,0,0,1,0.6666666667,guerrilla
+cervejeiro,2,0,0,1,0,0,0.3333333333,brewer
+correm rápido,3,0,0,0,0,0,-1,run fast
+riqueza,3,0,0,0,0,0,-1,wealth
+séria,3,0,0,0,0,0,-1,he would be
+pesada,1,0,0,1,0,1,0.6666666667,heavy
+gramaticalmente difícil,3,0,0,0,0,0,-1,grammatically difficult
+riachos,3,0,0,0,0,0,-1,streams
+antiamericano,0,2,0,0,1,0,2,anti-American
+baixinho,1,0,2,0,0,0,1,shorty
+boémio,1,0,2,0,0,0,1,Bohemian
+métrica,3,0,0,0,0,0,-1,metric
+organizada,3,0,0,0,0,0,-1,organized
+mística,3,0,0,0,0,0,-1,mystique
+falante de russo,3,0,0,0,0,0,-1,Russian speaker
+pequeno país,2,1,0,0,0,0,-0.3333333333,small country
+nação rica,3,0,0,0,0,0,-1,rich nation
+guarani,3,0,0,0,0,0,-1,guarani
+nação sem estado,2,1,0,0,0,0,-0.3333333333,stateless nation
+gatas,3,0,0,0,0,0,-1,hotties
+malaysiano,3,0,0,0,0,0,-1,malaysian
+gostam de k-pop,3,0,0,0,0,0,-1,they like k-pop
+escravista,0,2,0,0,1,0,2,slave
+mista,2,0,1,0,0,0,0,mixed
+pequenos países,2,1,0,0,0,0,-0.3333333333,small countries
+curte reggaeton,3,0,0,0,0,0,-1,like reggaeton
+riquesas,3,0,0,0,0,0,-1,riches
+obcecada com a limpeza,1,1,1,0,0,0,0.6666666667,obsessed with cleaning
+adoram gatos,3,0,0,0,0,0,-1,love cats
+incrivelmente rica,3,0,0,0,0,0,-1,incredibly rich
+vitoriosa,3,0,0,0,0,0,-1,victorious
+adoram kim jong-un,1,1,0,1,0,0,1,love kim jong-un
+tensa,3,0,0,0,0,0,-1,tense
+pirâmides,3,0,0,0,0,0,-1,pyramids
+vegetarianas,3,0,0,0,0,0,-1,vegetarian
+seios grandes,1,0,1,1,0,0,1.333333333,busty
+gostam de frio,3,0,0,0,0,0,-1,they like cold
+fluente em espanhol,3,0,0,0,0,0,-1,fluent in Spanish
+sentem orgulho da língua,3,0,0,0,0,0,-1,feel proud of the language
+lituânia,3,0,0,0,0,0,-1,Lithuania
+consumista,1,0,2,0,0,0,1,consumerist
+correm muito,3,0,0,0,0,0,-1,they run a lot
+liberta,3,0,0,0,0,0,-1,free
+incrivelmente sexy,2,1,0,0,0,0,-0.3333333333,incredibly sexy
+báltica,3,0,0,0,0,0,-1,baltica
+cirílico,3,0,0,0,0,0,-1,Cyrillic
+sloveno,3,0,0,0,0,0,-1,slovenian
+pescador,2,0,0,0,0,1,-0.6666666667,fisherman
+fala espanhola,3,0,0,0,0,0,-1,speaks Spanish
+dançarina,3,0,0,0,0,0,-1,dancer
+palestinense,3,0,0,0,0,0,-1,Palestinian
+austríacos,3,0,0,0,0,0,-1,Austrians
+individualista,0,2,1,0,0,0,1.333333333,individualistic
+ciumento,0,2,0,1,0,0,1.666666667,jealous
+argentinos,3,0,0,0,0,0,-1,Argentines
+isolacionista,1,1,0,1,0,0,1,isolationist
+fala espanhol,3,0,0,0,0,0,-1,speak Spanish
+ordeiro,3,0,0,0,0,0,-1,orderly
+sunami,3,0,0,0,0,0,-1,sunami
+nações insulares,3,0,0,0,0,0,-1,island nations
+pão de queijo,3,0,0,0,0,0,-1,cheese bread
+energético,3,0,0,0,0,0,-1,energetic
+motocross,3,0,0,0,0,0,-1,motocross
+mauritanos,3,0,0,0,0,0,-1,Mauritanians
+correm,3,0,0,0,0,0,-1,run
+ousada,2,1,0,0,0,0,-0.3333333333,bold
+stalinista,0,0,2,0,1,0,2.666666667,Stalinist
+pacato,3,0,0,0,0,0,-1,peaceful
+obcecado,0,3,0,0,0,0,1,obsessed
+abreviado,3,0,0,0,0,0,-1,abbreviated
+chocolate,2,0,1,0,0,0,0,chocolate
+áspera,0,3,0,0,0,0,1,rough
+moro,3,0,0,0,0,0,-1,I live
+venezuelano,3,0,0,0,0,0,-1,Venezuelan
+curte música,3,0,0,0,0,0,-1,enjoy music
+moçambicana,3,0,0,0,0,0,-1,Mozambican
+quente,3,0,0,0,0,0,-1,warm
+sudeste da europa,3,0,0,0,0,0,-1,southeast europe
+moro em la paz,3,0,0,0,0,0,-1,I live in La Paz
+moro em dakar,3,0,0,0,0,0,-1,I live in Dakar
+são muito feias,1,0,0,1,1,0,2,they are very ugly
+península,3,0,0,0,0,0,-1,peninsula
+ciumenta,0,2,0,1,0,0,1.666666667,jealous
+corredora,3,0,0,0,0,0,-1,runner
+brincalhão,3,0,0,0,0,0,-1,playful
+túmulo,2,1,0,0,0,0,-0.3333333333,tomb
+montanheses,3,0,0,0,0,0,-1,highlanders
+ginastas,3,0,0,0,0,0,-1,gymnasts
+místico,3,0,0,0,0,0,-1,mystic
+carioquinha,2,1,0,0,0,0,-0.3333333333,carioquinha
+gostam de kebab,2,0,1,0,0,0,0,they like kebab
+tártaro,3,0,0,0,0,0,-1,Tartarus
+empolgante,3,0,0,0,0,0,-1,exciting
+arriscado,3,0,0,0,0,0,-1,risky
+neutral,3,0,0,0,0,0,-1,neutral
+uruguaiano,3,0,0,0,0,0,-1,Uruguayan
+burka,2,0,0,1,0,0,0.3333333333,burka
+carnaval,3,0,0,0,0,0,-1,carnival
+impulsiva,1,2,0,0,0,0,0.3333333333,impulsive
+nação guerreira,3,0,0,0,0,0,-1,warrior nation
+misteriosa,3,0,0,0,0,0,-1,mysterious
+tradicionalmente conservadora,3,0,0,0,0,0,-1,traditionally conservative
+cariocas,3,0,0,0,0,0,-1,cariocas
+sorridente,3,0,0,0,0,0,-1,smiling
+esportista,3,0,0,0,0,0,-1,sportsman
+dançam,3,0,0,0,0,0,-1,dance
+gananciosa,0,0,2,1,0,0,2.333333333,greedy
+difíceis de entender,2,0,1,0,0,0,0,difficult to understand
+limpo,3,0,0,0,0,0,-1,clean
+falante rápido,3,0,0,0,0,0,-1,fast talker
+siberiana,3,0,0,0,0,0,-1,siberian
+bárbaras,0,1,1,1,0,0,2,barbarians
+inca,3,0,0,0,0,0,-1,inca
+nação insular,3,0,0,0,0,0,-1,island nation
+amistosa,3,0,0,0,0,0,-1,friendly
+ucraniana,3,0,0,0,0,0,-1,Ukrainian
+obcecada,0,2,1,0,0,0,1.333333333,obsessed
+neutra,3,0,0,0,0,0,-1,neutral
+lógico,3,0,0,0,0,0,-1,logical
+obcecados com armas,0,1,0,1,1,0,2.666666667,obsessed with weapons
+jordanianos,3,0,0,0,0,0,-1,Jordanians

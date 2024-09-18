@@ -1,0 +1,707 @@
+Attribute,Not Offensive (NO),Slightly Offensive (o1),Somewhat Offensive (O2),Moderately Offensive (O3),Extremely Offensive (O4),Unsure(U),mean_offensive_score,Translated Attribute
+makedonlar,2,0,0,0,0,1,-0.6666666667,macedonians
+ruslar,2,0,0,0,0,1,-0.6666666667,Russians
+gevşek,0,0,1,2,0,0,2.666666667,loose
+kaba,0,1,2,0,0,0,1.666666667,rude
+gürbüz,3,0,0,0,0,0,-1,robust
+kanal,3,0,0,0,0,0,-1,channel
+rusça konuşur,3,0,0,0,0,0,-1,speaks russian
+yağlı,1,1,1,0,0,0,0.6666666667,oily
+alman,3,0,0,0,0,0,-1,German
+beyaz,3,0,0,0,0,0,-1,white
+katolik,2,1,0,0,0,0,-0.3333333333,Catholic
+mimariye meraklı,3,0,0,0,0,0,-1,interested in architecture
+eğitimli,3,0,0,0,0,0,-1,educated
+antepfıstığı,3,0,0,0,0,0,-1,pistachios
+çabuk sinirlenen,1,1,1,0,0,0,0.6666666667,irritable
+efes içiyor,2,1,0,0,0,0,-0.3333333333,drinking ephesus
+i̇ran,3,0,0,0,0,0,-1,Iranian
+puro severler,2,1,0,0,0,0,-0.3333333333,cigar lovers
+mavi,3,0,0,0,0,0,-1,blue
+gelenekçi,2,0,1,0,0,0,0,traditionalist
+tatsız,1,1,1,0,0,0,0.6666666667,tasteless
+güney kafkasya,3,0,0,0,0,0,-1,south caucasus
+konuşulmaz,1,1,0,1,0,0,1,not spoken
+sovyetler birliği,3,0,0,0,0,0,-1,Soviet Union
+bir akdeniz dili,3,0,0,0,0,0,-1,a mediterranean language
+rus,3,0,0,0,0,0,-1,Russian
+taliban,1,0,0,0,2,0,2.333333333,taliban
+gür,3,0,0,0,0,0,-1,bushy
+madencilik,3,0,0,0,0,0,-1,mining
+felsefi,3,0,0,0,0,0,-1,philosophical
+çok dans etti,3,0,0,0,0,0,-1,she danced a lot
+gürül gürül,3,0,0,0,0,0,-1,noisy
+rahatsız,0,1,2,0,0,0,1.666666667,uncomfortable
+bağımsızlık yanlısı,2,0,0,1,0,0,0.3333333333,pro-independence
+alfabetik,3,0,0,0,0,0,-1,alphabetical
+üzüm,3,0,0,0,0,0,-1,grape
+makedon,3,0,0,0,0,0,-1,macedonian
+milliyetçi,3,0,0,0,0,0,-1,nationalist
+akdeniz dilleri,3,0,0,0,0,0,-1,mediterranean languages
+sert bir dil,1,2,0,0,0,0,0.3333333333,harsh language
+düzenli,3,0,0,0,0,0,-1,organised
+kurak,2,1,0,0,0,0,-0.3333333333,dry
+sancı çeken,2,1,0,0,0,0,-0.3333333333,in pain
+sinir bozucu,1,0,2,0,0,0,1,annoying
+küçük bir ülke,3,0,0,0,0,0,-1,a small country
+i̇talyan,3,0,0,0,0,0,-1,Italian
+kuzey,3,0,0,0,0,0,-1,north
+otel,3,0,0,0,0,0,-1,hotel
+öfkeli,0,2,1,0,0,0,1.333333333,furious
+daha çok parası var,3,0,0,0,0,0,-1,he has more money
+i̇ngiliz,3,0,0,0,0,0,-1,English
+arnavutluk'un resmi dili,3,0,0,0,0,0,-1,official language of albania
+deniz kenarında yaşar,3,0,0,0,0,0,-1,lives by the sea
+saldırgan,0,1,0,2,0,0,2.333333333,attacker
+noel'i kutluyor,2,1,0,0,0,0,-0.3333333333,celebrating christmas
+pizza,3,0,0,0,0,0,-1,pizza
+hoş olmayan,0,2,1,0,0,0,1.333333333,unpleasant
+zeybek,3,0,0,0,0,0,-1,zeybek
+cahil,0,0,3,0,0,0,2,ignorant
+çikolata sever,3,0,0,0,0,0,-1,likes chocolate
+muz,3,0,0,0,0,0,-1,banana
+içe dönük,3,0,0,0,0,0,-1,introvert
+noel baba,3,0,0,0,0,0,-1,father christmas
+bir deniz,3,0,0,0,0,0,-1,a sea
+sıcak kanlı,3,0,0,0,0,0,-1,friendly
+küstah,1,1,1,0,0,0,0.6666666667,arrogant
+eşitlikçi,3,0,0,0,0,0,-1,equitable
+çok konuşulan,3,0,0,0,0,0,-1,much talked about
+boksta iyiler,3,0,0,0,0,0,-1,they are good at boxing
+vatansever,3,0,0,0,0,0,-1,patriotic
+iş,3,0,0,0,0,0,-1,work
+izole,1,1,1,0,0,0,0.6666666667,isolated
+hindu,3,0,0,0,0,0,-1,Hindu
+sanatkar,3,0,0,0,0,0,-1,artist
+aile odaklı,3,0,0,0,0,0,-1,family oriented
+çalışkan,3,0,0,0,0,0,-1,hard working
+slovakça,3,0,0,0,0,0,-1,Slovak
+fince,3,0,0,0,0,0,-1,Finnish
+akdeniz,3,0,0,0,0,0,-1,Mediterrenian 
+turist,3,0,0,0,0,0,-1,tourist
+daha çok eğitimli,3,0,0,0,0,0,-1,more educated
+inançlı,3,0,0,0,0,0,-1,believer
+sıcak havaya alışkınlar,3,0,0,0,0,0,-1,They are used to hot weather
+adil,3,0,0,0,0,0,-1,fair
+sanata düşkün,3,0,0,0,0,0,-1,fond of art
+mimari,3,0,0,0,0,0,-1,architectural
+antik yunan'dan gelmektedir,3,0,0,0,0,0,-1,comes from ancient greece
+akıllı,3,0,0,0,0,0,-1,clever
+kavgacı,0,2,1,0,0,0,1.333333333,quarrelsome
+maraton,3,0,0,0,0,0,-1,marathon
+osmanlı,3,0,0,0,0,0,-1,Ottoman
+koyu tenli,3,0,0,0,0,0,-1,dark skinned
+noel'i kutlarlar,2,1,0,0,0,0,-0.3333333333,they celebrate christmas
+vahşi,0,0,2,1,0,0,2.333333333,wild
+antik,3,0,0,0,0,0,-1,antique
+gizemli,3,0,0,0,0,0,-1,mysterious
+afrikalı,3,0,0,0,0,0,-1,African
+taşkömürü,2,1,0,0,0,0,-0.3333333333,coal
+savaşçı,3,0,0,0,0,0,-1,fighter
+noel'i kutlar,2,1,0,0,0,0,-0.3333333333,happy christmas
+misafirperverler,3,0,0,0,0,0,-1,they are hospitable
+uygar,3,0,0,0,0,0,-1,civilized
+hızlı konuşuyorlar,2,1,0,0,0,0,-0.3333333333,they talk fast
+savaştan kaçan,0,1,1,1,0,0,2,escaping from war
+sosyalist,3,0,0,0,0,0,-1,socialist
+müzik aleti yapar,3,0,0,0,0,0,-1,makes musical instruments
+gürcüce,3,0,0,0,0,0,-1,Georgian
+rumca,3,0,0,0,0,0,-1,Greek
+roman dilleri,3,0,0,0,0,0,-1,roman languages
+teknolojik,3,0,0,0,0,0,-1,technological
+dağcı,3,0,0,0,0,0,-1,climber
+zeytinyağı,3,0,0,0,0,0,-1,olive oil
+kuzey avrupa dili,3,0,0,0,0,0,-1,northern european language
+en çok konuşulan,3,0,0,0,0,0,-1,most talked about
+yaralı,3,0,0,0,0,0,-1,wounded
+balkanlar'da konuşulur,3,0,0,0,0,0,-1,spoken in the balkans
+karadeniz mutfağı,3,0,0,0,0,0,-1,black sea cuisine
+zengin petrol kaynakları,3,0,0,0,0,0,-1,rich oil resources
+kastamonu peyniri,3,0,0,0,0,0,-1,Kastamonu cheese
+futbol oynadı,3,0,0,0,0,0,-1,played football
+dağlık,3,0,0,0,0,0,-1,mountainous
+turistik,3,0,0,0,0,0,-1,touristy
+asi,1,2,0,0,0,0,0.3333333333,Vaccine
+matematikte iyiler,3,0,0,0,0,0,-1,they are good at math
+almanca konuşur,3,0,0,0,0,0,-1,speaks german
+şık,3,0,0,0,0,0,-1,chic
+uluslararası,3,0,0,0,0,0,-1,international
+tonal,2,1,0,0,0,0,-0.3333333333,tonal
+kayak yapmayı sever,3,0,0,0,0,0,-1,likes skiing
+depremzede,3,0,0,0,0,0,-1,earthquake victim
+atı sever,3,0,0,0,0,0,-1,loves horse
+fince'ye benzer,3,0,0,0,0,0,-1,similar to finnish
+tanrıçaları vardı,3,0,0,0,0,0,-1,they had goddesses
+nahoş,0,3,0,0,0,0,1,unpleasant
+çağdaş,3,0,0,0,0,0,-1,contemporary
+öpüşme,3,0,0,0,0,0,-1,kissing
+hristiyan,3,0,0,0,0,0,-1,Christian
+ölü dil,2,1,0,0,0,0,-0.3333333333,dead language
+hizmetçi,1,1,1,0,0,0,0.6666666667,servant
+teknoloji,3,0,0,0,0,0,-1,technology
+düğünlerde davul çalar,3,0,0,0,0,0,-1,plays drums at weddings
+gürgen,3,0,0,0,0,0,-1,hornbeam
+bilge,3,0,0,0,0,0,-1,wise
+hoşgörülü,3,0,0,0,0,0,-1,tolerant
+futbol,3,0,0,0,0,0,-1,football
+daha az sofistike,2,1,0,0,0,0,-0.3333333333,less sophisticated
+yemek yemeyi seven,2,1,0,0,0,0,-0.3333333333,loves to eat
+uyuşturucu,2,0,0,1,0,0,0.3333333333,drugs
+utangaç,3,0,0,0,0,0,-1,shy
+i̇spanyolca konuşur,3,0,0,0,0,0,-1,speaks spanish
+tutucu,0,2,1,0,0,0,1.333333333,conservative
+sıcakkanlı,3,0,0,0,0,0,-1,friendly
+kuzeyli,3,0,0,0,0,0,-1,northerner
+aydınlanma,3,0,0,0,0,0,-1,enlightenment
+otoriter,2,1,0,0,0,0,-0.3333333333,authoritarian
+siyah,3,0,0,0,0,0,-1,black
+pahalı,3,0,0,0,0,0,-1,expensive
+soylu,3,0,0,0,0,0,-1,noble
+aydınlanmacı,3,0,0,0,0,0,-1,enlightenment
+yalancı,0,0,1,1,1,0,3,liar
+ölü,2,1,0,0,0,0,-0.3333333333,dead
+katil,0,0,0,0,3,0,4,join
+acı verir,3,0,0,0,0,0,-1,it hurts
+kar,3,0,0,0,0,0,-1,snow
+agresif,0,0,1,2,0,0,2.666666667,aggressive
+işkolik,3,0,0,0,0,0,-1,workaholic
+filozof,3,0,0,0,0,0,-1,philosopher
+futbol severler,3,0,0,0,0,0,-1,football lovers
+zengin,3,0,0,0,0,0,-1,rich
+kirli,0,1,2,0,0,0,1.666666667,dirty
+işçi,3,0,0,0,0,0,-1,employee
+bisiklete binmeyi sever,3,0,0,0,0,0,-1,likes cycling
+rahatsız edici,0,1,1,1,0,0,2,disturbing
+çay içer,3,0,0,0,0,0,-1,drinks tea
+maden,3,0,0,0,0,0,-1,coal
+akdeniz dili,3,0,0,0,0,0,-1,mediterranean language
+petrol zengini,3,0,0,0,0,0,-1,oil rich
+rusça'ya benzer,3,0,0,0,0,0,-1,similar to russian
+spor yapan,3,0,0,0,0,0,-1,exercising
+akdeniz kökenli,3,0,0,0,0,0,-1,mediterranean origin
+aksanlı,2,1,0,0,0,0,-0.3333333333,accented
+denizci,3,0,0,0,0,0,-1,sailor
+gürcü,3,0,0,0,0,0,-1,Georgian
+kafkaslar'da,3,0,0,0,0,0,-1,in the caucasus
+kafkasya'da bir ülke,3,0,0,0,0,0,-1,a country in the caucasus
+pratik değil,2,1,0,0,0,0,-0.3333333333,not practical
+cevval,3,0,0,0,0,0,-1,cevval
+yanmaz,3,0,0,0,0,0,-1,fireproof
+i̇ngilizler gibi davranmak,2,1,0,0,0,0,-0.3333333333,act like the british
+taş kömürü,3,0,0,0,0,0,-1,coal
+dürüst,3,0,0,0,0,0,-1,honest
+gürcistan'dan,3,0,0,0,0,0,-1,from georgia
+i̇stanbul,3,0,0,0,0,0,-1,Istanbul
+sancılı,2,1,0,0,0,0,-0.3333333333,painful
+karnaval,3,0,0,0,0,0,-1,carnival
+çok zengin,3,0,0,0,0,0,-1,very rich
+daha zeki,3,0,0,0,0,0,-1,more clever
+kuzeyde,3,0,0,0,0,0,-1,north
+ılıman,3,0,0,0,0,0,-1,temperate
+bilgin,3,0,0,0,0,0,-1,scholar
+canlı,3,0,0,0,0,0,-1,live
+arap,2,0,1,0,0,0,0,arabic
+aç,0,2,1,0,0,0,1.333333333,hungry
+maden işçisidir,3,0,0,0,0,0,-1,he is a mine worker
+efendi,3,0,0,0,0,0,-1,master
+tembel,0,2,1,0,0,0,1.333333333,lazy
+lezzetli yemek,3,0,0,0,0,0,-1,delicious food
+saunayı severler,3,0,0,0,0,0,-1,they like sauna
+mülteci,1,2,0,0,0,0,0.3333333333,refugee
+tango,3,0,0,0,0,0,-1,tango
+kahramanlar,3,0,0,0,0,0,-1,heroes
+çok konuşulur,3,0,0,0,0,0,-1,is talked about a lot
+aşırı duyarlılık,1,2,0,0,0,0,0.3333333333,hypersensitivity
+kibar,3,0,0,0,0,0,-1,kind
+çok kibar,3,0,0,0,0,0,-1,so kind
+işe yaramaz,0,0,2,1,0,0,2.333333333,useless
+açık fikirli,3,0,0,0,0,0,-1,open minded
+patates yetiştiricisi,3,0,0,0,0,0,-1,potato grower
+uyuşturucu kullanıyorlar,0,1,0,1,1,0,2.666666667,they use drugs
+badem,3,0,0,0,0,0,-1,almond
+sanatsever,3,0,0,0,0,0,-1,art lover
+sporsever,3,0,0,0,0,0,-1,sport
+kolay,3,0,0,0,0,0,-1,easy
+ızdırap verici,1,1,0,1,0,0,1,painful
+rusça konuşurlar,3,0,0,0,0,0,-1,they speak russian
+parasız,0,2,1,0,0,0,1.333333333,free
+şişebilir,3,0,0,0,0,0,-1,inflatable
+yunanca konuşan,3,0,0,0,0,0,-1,speaking greek
+bruneili,3,0,0,0,0,0,-1,bruneian
+kestaneci,3,0,0,0,0,0,-1,chestnut seller
+doğu,3,0,0,0,0,0,-1,East
+müziksever,3,0,0,0,0,0,-1,music-lover
+misafirperver,3,0,0,0,0,0,-1,hospitable
+malezya'da konuşulur,3,0,0,0,0,0,-1,spoken in malaysia
+viski içer,2,1,0,0,0,0,-0.3333333333,drinks whiskey
+yelkenli,3,0,0,0,0,0,-1,sailboat
+mizahçı,3,0,0,0,0,0,-1,humorist
+zulular,3,0,0,0,0,0,-1,Zulus
+kafkasya'da,3,0,0,0,0,0,-1,in the caucasus
+romanyalı,3,0,0,0,0,0,-1,Rumanian
+noel'i kutlamayı severler,2,1,0,0,0,0,-0.3333333333,they like to celebrate christmas
+çay üreticisi,3,0,0,0,0,0,-1,tea producer
+i̇spanyolca konuşan ülkelerde konuşulur,3,0,0,0,0,0,-1,spoken in spanish speaking countries
+i̇rlandalı,3,0,0,0,0,0,-1,Irish
+aydındır,3,0,0,0,0,0,-1,is enlightened
+fakir,1,2,0,0,0,0,0.3333333333,poor
+ırkçılığa karşı,3,0,0,0,0,0,-1,against racism
+aksanlı konuşma,3,0,0,0,0,0,-1,brogue
+noel baba'ya inanan,2,1,0,0,0,0,-0.3333333333,believe in santa claus
+kahraman,3,0,0,0,0,0,-1,hero
+can sıkıcı,1,1,0,1,0,0,1,annoying
+laz,2,1,0,0,0,0,-0.3333333333,Laz
+akdeniz mutfağı,3,0,0,0,0,0,-1,Mediterranean cuisine
+tropikal,3,0,0,0,0,0,-1,tropical
+katı,2,0,1,0,0,0,0,thick
+slav,3,0,0,0,0,0,-1,Slavic
+dinlenmeyi sever,3,0,0,0,0,0,-1,likes to rest
+almanca,3,0,0,0,0,0,-1,German
+efendiler,3,0,0,0,0,0,-1,sirs
+zarif,3,0,0,0,0,0,-1,elegant
+aydın,3,0,0,0,0,0,-1,intellectual
+mühendis,3,0,0,0,0,0,-1,engineer
+urfa kebabı,3,0,0,0,0,0,-1,urfa kebab
+harf,3,0,0,0,0,0,-1,letter
+en çok konuşulan dil,3,0,0,0,0,0,-1,most spoken language
+viski içmeyi sever,2,1,0,0,0,0,-0.3333333333,likes to drink whiskey
+balık sever,3,0,0,0,0,0,-1,likes fish
+sırpça,3,0,0,0,0,0,-1,Serbian
+entelektüel,3,0,0,0,0,0,-1,intellectual
+azerbaycan türkleri,3,0,0,0,0,0,-1,azerbaijani turks
+göçebe,3,0,0,0,0,0,-1,wandering
+çok çabuk sinirleniyor,1,2,0,0,0,0,0.3333333333,gets angry very quickly
+güney amerika,3,0,0,0,0,0,-1,South America
+narenciye yetiştiriyor,3,0,0,0,0,0,-1,grows citrus fruits
+şenlikli,3,0,0,0,0,0,-1,festive
+kafkas dili,3,0,0,0,0,0,-1,Caucasian language
+rahat,2,1,0,0,0,0,-0.3333333333,comfortable
+terörist,0,0,0,0,3,0,4,terrorist
+arapça,3,0,0,0,0,0,-1,Arabic
+soğuk,2,1,0,0,0,0,-0.3333333333,cold
+alçakgönüllü,3,0,0,0,0,0,-1,humble
+çok sesli,3,0,0,0,0,0,-1,Too loud
+daha çok i̇slamcı,1,1,1,0,0,0,0.6666666667,more islamist
+viski,3,0,0,0,0,0,-1,whiskey
+şarkı söylemeyi sever,3,0,0,0,0,0,-1,likes to sing
+i̇ngiliz aksanı,3,0,0,0,0,0,-1,British accent
+karadeniz,3,0,0,0,0,0,-1,Black Sea
+hint-avrupa,3,0,0,0,0,0,-1,indo-european
+baskıcı,2,0,0,1,0,0,0.3333333333,oppressive
+tutumlu,3,0,0,0,0,0,-1,frugal
+samba,3,0,0,0,0,0,-1,samba
+yorucu,2,1,0,0,0,0,-0.3333333333,tiring
+kibirli,0,1,2,0,0,0,1.666666667,arrogant
+mutlu,3,0,0,0,0,0,-1,Happy
+çikolata severler,3,0,0,0,0,0,-1,chocolate lovers
+yunan,3,0,0,0,0,0,-1,Hellenic
+akdeniz'de,3,0,0,0,0,0,-1,in the mediterranean
+cimri,0,0,3,0,0,0,2,greedy
+romanlar,3,0,0,0,0,0,-1,novels
+müzikal,3,0,0,0,0,0,-1,musical
+ekşi bir tat,2,1,0,0,0,0,-0.3333333333,a sour taste
+yemek,3,0,0,0,0,0,-1,food
+çölde yaşarlar,3,0,0,0,0,0,-1,they live in the desert
+isyancı,0,2,1,0,0,0,1.333333333,rebel
+malayca,3,0,0,0,0,0,-1,malay
+sancı,3,0,0,0,0,0,-1,pain
+açık sözlü,3,0,0,0,0,0,-1,honest
+içki içen,1,2,0,0,0,0,0.3333333333,drinker
+futbolda iyiler,3,0,0,0,0,0,-1,they are good at football
+eski,3,0,0,0,0,0,-1,old
+kafkas dilleri,3,0,0,0,0,0,-1,Caucasian languages
+zor bir dil,3,0,0,0,0,0,-1,a difficult language
+alkollü,1,0,2,0,0,0,1,alcoholic
+bruneililer,3,0,0,0,0,0,-1,bruneians
+acı çeken,2,1,0,0,0,0,-0.3333333333,suffering
+portekiz'de konuşulur,3,0,0,0,0,0,-1,spoken in portugal
+ihtiraslı,1,2,0,0,0,0,0.3333333333,passionate
+aydınlık,3,0,0,0,0,0,-1,bright
+keçi yetiştirir,3,0,0,0,0,0,-1,raises goats
+matematik,3,0,0,0,0,0,-1,maths
+saf,2,1,0,0,0,0,-0.3333333333,pure
+maceracı,3,0,0,0,0,0,-1,adventurous
+üzüm yetiştiriyor,3,0,0,0,0,0,-1,grows grapes
+dağcılık,3,0,0,0,0,0,-1,mountaineering
+resmi dil,3,0,0,0,0,0,-1,official language
+türkiyeli,3,0,0,0,0,0,-1,from turkey
+metropol,3,0,0,0,0,0,-1,metropolis
+kötü,0,1,1,0,1,0,2.333333333,bad
+şakacı,3,0,0,0,0,0,-1,playful
+zeka,3,0,0,0,0,0,-1,intelligence
+noel baba'ya inanıyor,3,0,0,0,0,0,-1,believes in santa claus
+küçük,1,2,0,0,0,0,0.3333333333,Small
+mavi gözlü,3,0,0,0,0,0,-1,blue eyed
+aşırılıkçı,0,2,0,1,0,0,1.666666667,extremist
+kafkaslar,3,0,0,0,0,0,-1,Caucasus
+atletik,3,0,0,0,0,0,-1,athletic
+kuzey avrupa dilleri,3,0,0,0,0,0,-1,northern european languages
+görgülü,3,0,0,0,0,0,-1,experienced
+can yakıcı,2,0,0,1,0,0,0.3333333333,hurting
+karadeniz'li,3,0,0,0,0,0,-1,from the black sea
+zekiler,3,0,0,0,0,0,-1,smart people
+içki içmeye düşkün,1,1,0,1,0,0,1,fond of drinking
+gürcistan'ın resmi dili,3,0,0,0,0,0,-1,official language of georgia
+mert,3,0,0,0,0,0,-1,brave
+hümanist,3,0,0,0,0,0,-1,humanist
+tatlı sever,3,0,0,0,0,0,-1,likes sweets
+estonya'nın resmi dili,3,0,0,0,0,0,-1,official language of estonia
+i̇ngilizler,3,0,0,0,0,0,-1,British
+iğne,3,0,0,0,0,0,-1,needle
+esrarengiz,3,0,0,0,0,0,-1,enigmatic
+güneşli,3,0,0,0,0,0,-1,sunny
+otokrat,2,1,0,0,0,0,-0.3333333333,autocrat
+fındık yetiştirir,3,0,0,0,0,0,-1,grows hazelnuts
+geleneklerine bağlı,3,0,0,0,0,0,-1,traditional
+üşengeç,0,3,0,0,0,0,1,lazy
+romanca,3,0,0,0,0,0,-1,romanian
+doğu avrupa,3,0,0,0,0,0,-1,eastern europe
+zalim,0,0,1,1,1,0,3,cruel
+mermer,3,0,0,0,0,0,-1,marble
+aksan,3,0,0,0,0,0,-1,accent
+sinirli,0,1,2,0,0,0,1.666666667,annoyed
+zararlı,0,0,3,0,0,0,2,damaging
+tatilciler,3,0,0,0,0,0,-1,holidaymakers
+çirkin,0,0,3,0,0,0,2,ugly
+kozmopolit,3,0,0,0,0,0,-1,cosmopolitan
+zor bir dildir,2,1,0,0,0,0,-0.3333333333,it is a difficult language
+acı verici,1,2,0,0,0,0,0.3333333333,painful
+i̇zmir,3,0,0,0,0,0,-1,Izmir
+anlaşılmaz,1,2,0,0,0,0,0.3333333333,incomprehensible
+sanatsal,3,0,0,0,0,0,-1,art
+bir i̇skandinav dili,3,0,0,0,0,0,-1,a norse language
+titiz,3,0,0,0,0,0,-1,rigorous
+endonezya'nın resmi dili,3,0,0,0,0,0,-1,official language of indonesia
+akıcı,3,0,0,0,0,0,-1,fluent
+brunei'de konuşulur,3,0,0,0,0,0,-1,spoken in brunei
+tarihi,3,0,0,0,0,0,-1,date
+askeri,3,0,0,0,0,0,-1,military
+eski norveççe,3,0,0,0,0,0,-1,old norwegian
+slovakça konuşur,3,0,0,0,0,0,-1,speaks slovak
+şiddetli,1,1,1,0,0,0,0.6666666667,severe
+berberi dili konuşur,3,0,0,0,0,0,-1,speaks Berber language
+sıkı,3,0,0,0,0,0,-1,tight
+rusça konuşan,3,0,0,0,0,0,-1,speaking russian
+i̇spanyolca konuşan,3,0,0,0,0,0,-1,speaking spanish
+savaş mağduru,3,0,0,0,0,0,-1,war victim
+gırtlağı kalın,2,1,0,0,0,0,-0.3333333333,thick throat
+pragmatik,3,0,0,0,0,0,-1,pragmatic
+akdenizli,3,0,0,0,0,0,-1,mediterranean
+efe,3,0,0,0,0,0,-1,Efe
+zengin petrol kaynaklarına sahip,3,0,0,0,0,0,-1,has rich oil resources
+çok güzel,3,0,0,0,0,0,-1,very good
+şen kahkaha,3,0,0,0,0,0,-1,joyful laughter
+malay dilinin bir lehçesi,3,0,0,0,0,0,-1,a dialect of the malay language
+i̇ngilizce konuşur,3,0,0,0,0,0,-1,speaks english
+barışı seven,3,0,0,0,0,0,-1,peace loving
+batman'da yaşıyor,3,0,0,0,0,0,-1,lives in batman
+madenci,3,0,0,0,0,0,-1,miner
+sanatçı,3,0,0,0,0,0,-1,artist
+müziğe düşkün,3,0,0,0,0,0,-1,fond of music
+zekâlı,3,0,0,0,0,0,-1,witted
+sanat sever,3,0,0,0,0,0,-1,art lover
+ticari,3,0,0,0,0,0,-1,commercial
+güney slav dilleri,3,0,0,0,0,0,-1,south slavic languages
+i̇spanyolca,3,0,0,0,0,0,-1,Spanish
+az içti,3,0,0,0,0,0,-1,drank little
+mantıklı,3,0,0,0,0,0,-1,logical
+tutkulu,3,0,0,0,0,0,-1,passionate
+hasta,1,1,1,0,0,0,0.6666666667,patient
+tütün,3,0,0,0,0,0,-1,tobacco
+ciddi,3,0,0,0,0,0,-1,serious
+huzursuz,1,1,1,0,0,0,0.6666666667,restless
+ege denizi,3,0,0,0,0,0,-1,Aegean Sea
+centilmen,3,0,0,0,0,0,-1,gentleman
+kömür madeninde çalışıyor,3,0,0,0,0,0,-1,works in a coal mine
+muhafazakar,2,1,0,0,0,0,-0.3333333333,conservative
+başarılı,3,0,0,0,0,0,-1,successful
+bir dil,3,0,0,0,0,0,-1,a language
+tatlı dilli,3,0,0,0,0,0,-1,suave
+özgüvenli,3,0,0,0,0,0,-1,confident
+balıkçı,3,0,0,0,0,0,-1,fisherman
+aksanlıdır,3,0,0,0,0,0,-1,has an accent
+kahveyi sever,3,0,0,0,0,0,-1,loves coffee
+ağlayan,1,1,1,0,0,0,0.6666666667,crying
+medenî,3,0,0,0,0,0,-1,civil
+laik,3,0,0,0,0,0,-1,secular
+yenilikçi,3,0,0,0,0,0,-1,innovator
+fındık yetiştiriyor,3,0,0,0,0,0,-1,grows hazelnuts
+buzlu,3,0,0,0,0,0,-1,iced
+sert,2,1,0,0,0,0,-0.3333333333,hard
+kebapçı,3,0,0,0,0,0,-1,kebab shop
+bronz,3,0,0,0,0,0,-1,bronze
+sarhoş,0,0,2,1,0,0,2.333333333,drunk
+bisiklet,3,0,0,0,0,0,-1,bicycle
+müslüman,3,0,0,0,0,0,-1,muslim
+bir hint-avrupa dili,3,0,0,0,0,0,-1,an indo-european language
+rusça'ya yakın,3,0,0,0,0,0,-1,close to russian
+çok kültürlü,3,0,0,0,0,0,-1,multicultural
+antep fıstığı,3,0,0,0,0,0,-1,pistachios
+nadir,3,0,0,0,0,0,-1,rare
+acılı,2,1,0,0,0,0,-0.3333333333,spicy
+kedi,3,0,0,0,0,0,-1,cat
+uluslar arası,3,0,0,0,0,0,-1,international
+i̇ngilizce konuşurlar,3,0,0,0,0,0,-1,they speak english
+obez,0,0,2,1,0,0,2.333333333,obese
+esprili,3,0,0,0,0,0,-1,witty
+sari,3,0,0,0,0,0,-1,yellow
+daha bilgili,3,0,0,0,0,0,-1,more knowledgeable
+matematikte iyidir,3,0,0,0,0,0,-1,good at math
+devrimci,3,0,0,0,0,0,-1,revolutionary
+savaştan kaçtı,0,0,2,1,0,0,2.333333333,escaped from the war
+sofistike,3,0,0,0,0,0,-1,sophisticated
+batman,3,0,0,0,0,0,-1,Batman
+dansta iyidir,3,0,0,0,0,0,-1,good at dancing
+siyah çay içer,3,0,0,0,0,0,-1,drinks black tea
+petrol üretiyor,3,0,0,0,0,0,-1,produces oil
+rusça'dan daha az yaygın,3,0,0,0,0,0,-1,less common than Russian
+baltık,3,0,0,0,0,0,-1,Baltic
+depremzedeler,3,0,0,0,0,0,-1,earthquake victims
+azeri mutfağına düşkünler,3,0,0,0,0,0,-1,They are fond of azeri cuisine
+türkçe,3,0,0,0,0,0,-1,Turkish
+i̇skandinav,3,0,0,0,0,0,-1,Scandinavian
+dans ediyordu,3,0,0,0,0,0,-1,was dancing
+büyük,3,0,0,0,0,0,-1,big
+totaliter,2,0,1,0,0,0,0,totalitarian
+hoş,3,0,0,0,0,0,-1,pleasant
+kültürlü,3,0,0,0,0,0,-1,cultured
+acı,2,1,0,0,0,0,-0.3333333333,angle
+turizm,3,0,0,0,0,0,-1,tourism
+içki içmeyi sever,2,0,1,0,0,0,0,likes to drink
+cengaver,3,0,0,0,0,0,-1,warrior
+konservatif,3,0,0,0,0,0,-1,conservative
+kabak tatlısı yapar,3,0,0,0,0,0,-1,makes pumpkin dessert
+dayanıklı,3,0,0,0,0,0,-1,resistant
+akdeniz'de konuşulan bir dil,3,0,0,0,0,0,-1,a language spoken in the Mediterranean
+barbar,0,0,0,2,1,0,3.333333333,barbarian
+kokusuz,3,0,0,0,0,0,-1,odorless
+zor,2,1,0,0,0,0,-0.3333333333,difficult
+tiyatroyu sever,3,0,0,0,0,0,-1,loves theater
+çapkın,0,3,0,0,0,0,1,womaniser
+demir,3,0,0,0,0,0,-1,iron
+badem yetiştiriyor,3,0,0,0,0,0,-1,grows almonds
+uyuşturucu satıcısı,0,0,1,0,2,0,3.333333333,drug dealer
+coğrafi,3,0,0,0,0,0,-1,geographical
+akdeniz'de konuşulur,3,0,0,0,0,0,-1,spoken in the mediterranean
+hırçın,0,3,0,0,0,0,1,combative
+sıcak,3,0,0,0,0,0,-1,hot
+mistik,3,0,0,0,0,0,-1,mystic
+orta doğu,3,0,0,0,0,0,-1,Middle East
+türkiye,3,0,0,0,0,0,-1,Türkiye
+mimariye düşkün,3,0,0,0,0,0,-1,fond of architecture
+patates,3,0,0,0,0,0,-1,potatoes
+komik,2,1,0,0,0,0,-0.3333333333,comic
+kebap,3,0,0,0,0,0,-1,kebab
+i̇rlandalı viskisini sever,3,0,0,0,0,0,-1,The Irish love their whiskey
+gül yetiştirir,3,0,0,0,0,0,-1,grows roses
+gürültücü,0,3,0,0,0,0,1,noisy
+atılgan,3,0,0,0,0,0,-1,aggressive
+içki,3,0,0,0,0,0,-1,drink
+mücadeleci,3,0,0,0,0,0,-1,bellicose
+melodik,3,0,0,0,0,0,-1,melodic
+doğu avrupalı,3,0,0,0,0,0,-1,eastern european
+dayanılmaz,3,0,0,0,0,0,-1,unbearable
+sızlayan,1,2,0,0,0,0,0.3333333333,shooting
+içki içmeyi seven,1,2,0,0,0,0,0.3333333333,likes to drink
+romantik,3,0,0,0,0,0,-1,romantic
+sahtekar,0,0,2,0,1,0,2.666666667,fake
+komünist,1,2,0,0,0,0,0.3333333333,communist
+soğuk algınlığı,3,0,0,0,0,0,-1,cold
+acı veren,1,2,0,0,0,0,0.3333333333,gives pain
+tok sözlü,3,0,0,0,0,0,-1,full oral
+hint,3,0,0,0,0,0,-1,Indian
+lezzetli,3,0,0,0,0,0,-1,tasty
+gururlu,3,0,0,0,0,0,-1,proud
+kafkas,3,0,0,0,0,0,-1,Caucasian
+türk,3,0,0,0,0,0,-1,Turkish
+endonezya'da konuşulur,3,0,0,0,0,0,-1,spoken in indonesia
+tatil,3,0,0,0,0,0,-1,holiday
+çinli,3,0,0,0,0,0,-1,Chinese
+çikolata,3,0,0,0,0,0,-1,chocolate
+yemeklerini chopsticks ile yerler,3,0,0,0,0,0,-1,They eat their food with chopsticks
+sızı,2,1,0,0,0,0,-0.3333333333,you
+aceleci,3,0,0,0,0,0,-1,hasty
+gurme,3,0,0,0,0,0,-1,gourmet
+acımasız,0,0,1,2,0,0,2.666666667,unmerciful
+yörük,3,0,0,0,0,0,-1,Nomad
+sporcular,3,0,0,0,0,0,-1,athletes
+üniformalı,3,0,0,0,0,0,-1,uniformed
+soğuk kanlı,3,0,0,0,0,0,-1,cold-blooded
+çöl,3,0,0,0,0,0,-1,desert
+uyuşturucu kaçakçısı,0,0,1,0,2,0,3.333333333,drug trafficker
+dindar,3,0,0,0,0,0,-1,religious
+futbolcu,3,0,0,0,0,0,-1,footballer
+portekizli,3,0,0,0,0,0,-1,Portuguese
+acil,3,0,0,0,0,0,-1,urgent
+kovboy,3,0,0,0,0,0,-1,cowboy
+organize,3,0,0,0,0,0,-1,organized
+esmer,3,0,0,0,0,0,-1,dark 
+çaycı,3,0,0,0,0,0,-1,tea shop
+hassas,3,0,0,0,0,0,-1,sensitive
+geleneksel,3,0,0,0,0,0,-1,traditional
+atlı,3,0,0,0,0,0,-1,equestrian
+ukraynalı,3,0,0,0,0,0,-1,Ukrainian
+ateşli,2,1,0,0,0,0,-0.3333333333,hot
+noel,3,0,0,0,0,0,-1,Christmas
+alfabe,3,0,0,0,0,0,-1,alphabet
+özgürlükçü,3,0,0,0,0,0,-1,libertarian
+dar,3,0,0,0,0,0,-1,narrow
+bağımsızlıkçı,2,0,0,1,0,0,0.3333333333,independenceist
+portekiz'in resmi dili,3,0,0,0,0,0,-1,official language of portugal
+ağrı,3,0,0,0,0,0,-1,pain
+ciğer,3,0,0,0,0,0,-1,liver
+i̇spanyol,3,0,0,0,0,0,-1,Spanish
+yemek yapmaya düşkün,3,0,0,0,0,0,-1,fond of cooking
+tatilci,3,0,0,0,0,0,-1,holidaymaker
+trabzonsporlu,3,0,0,0,0,0,-1,trabzonsporlu
+turizmci,3,0,0,0,0,0,-1,tourism professional
+konuşan,3,0,0,0,0,0,-1,speaking
+üniversite öğrencisi,3,0,0,0,0,0,-1,university student
+neşeli,3,0,0,0,0,0,-1,cheerful
+deniz kenarında yaşıyor,3,0,0,0,0,0,-1,lives by the sea
+içki içmek,2,1,0,0,0,0,-0.3333333333,drink
+maden işçisi,3,0,0,0,0,0,-1,miner
+roman,3,0,0,0,0,0,-1,novel
+bilgili,3,0,0,0,0,0,-1,knowledgeable
+saygılı,3,0,0,0,0,0,-1,respectful
+dirençli,3,0,0,0,0,0,-1,resistant
+çölde yaşayan,3,0,0,0,0,0,-1,living in the desert
+kokain,1,0,0,0,1,1,1,cocaine
+diktatör,0,0,1,1,1,0,3,dictator
+hıristiyan,3,0,0,0,0,0,-1,Christian
+modern,3,0,0,0,0,0,-1,modern
+geriye doğru,2,1,0,0,0,0,-0.3333333333,backwards
+balkanlar,3,0,0,0,0,0,-1,Balkans
+zeytin yetiştiren,3,0,0,0,0,0,-1,olive grower
+güreşçi,3,0,0,0,0,0,-1,wrestler
+ağrı kesici,3,0,0,0,0,0,-1,painkiller
+kapalı,3,0,0,0,0,0,-1,closed
+futbol oynamayı severler,3,0,0,0,0,0,-1,they like to play football
+hintli,3,0,0,0,0,0,-1,indian
+bağımsız,3,0,0,0,0,0,-1,independent
+tropik,3,0,0,0,0,0,-1,tropical
+cevher,3,0,0,0,0,0,-1,ore
+askere alınmış,3,0,0,0,0,0,-1,enlisted
+asyalı,3,0,0,0,0,0,-1,Asian
+duygusal,3,0,0,0,0,0,-1,emotional
+ihtişamlı,3,0,0,0,0,0,-1,sumptuous
+tropikal bir cennet,3,0,0,0,0,0,-1,a tropical paradise
+siyah çay severler,3,0,0,0,0,0,-1,black tea lovers
+özgürlük seven,3,0,0,0,0,0,-1,freedom loving
+balık tutmada iyiler,3,0,0,0,0,0,-1,they are good at fishing
+sessiz,3,0,0,0,0,0,-1,silent
+çok eski,3,0,0,0,0,0,-1,very old
+brunei'nin resmi dili,3,0,0,0,0,0,-1,official language of brunei
+huzurlu,3,0,0,0,0,0,-1,peaceful
+savaş,2,1,0,0,0,0,-0.3333333333,war
+güney slav,3,0,0,0,0,0,-1,south slavic
+latince,3,0,0,0,0,0,-1,Latin
+ırkçı,0,0,0,1,2,0,3.666666667,racist
+i̇rlanda viskisi,3,0,0,0,0,0,-1,irish whiskey
+egzotik,3,0,0,0,0,0,-1,exotic
+suçsuz,3,0,0,0,0,0,-1,innocent
+global,3,0,0,0,0,0,-1,global
+şarkıcı,3,0,0,0,0,0,-1,singer
+keskin,3,0,0,0,0,0,-1,sharp
+futbolsever,3,0,0,0,0,0,-1,football fan
+yemeksever,3,0,0,0,0,0,-1,food lover
+lokum,3,0,0,0,0,0,-1,Turkish delight
+asker,3,0,0,0,0,0,-1,soldier
+temiz,3,0,0,0,0,0,-1,clean
+özgür,3,0,0,0,0,0,-1,free
+lüks,3,0,0,0,0,0,-1,luxury
+kışkırtıcı,1,2,0,0,0,0,0.3333333333,provocative
+acı çeker,3,0,0,0,0,0,-1,suffers
+renkli,3,0,0,0,0,0,-1,colourful
+soğukkanlı,3,0,0,0,0,0,-1,cold-blooded
+futbol tutkunu,3,0,0,0,0,0,-1,football fan
+maceraperest,3,0,0,0,0,0,-1,adventurous
+arapça konuşur,3,0,0,0,0,0,-1,speaks arabic
+sızlanıyor,1,2,0,0,0,0,0.3333333333,whining
+batman'ı sever,3,0,0,0,0,0,-1,loves batman
+yaygın,3,0,0,0,0,0,-1,widespread
+tayland yemekleri,3,0,0,0,0,0,-1,thai food
+dalgalı,3,0,0,0,0,0,-1,wavy
+güzel,3,0,0,0,0,0,-1,Beautiful
+baltık dili,3,0,0,0,0,0,-1,baltic language
+disiplinli,3,0,0,0,0,0,-1,disciplined
+mağrur,3,0,0,0,0,0,-1,proud
+egeliler,3,0,0,0,0,0,-1,Aegean people
+fıstık ezmesi sever,3,0,0,0,0,0,-1,likes peanut butter
+güler yüzlü,3,0,0,0,0,0,-1,smiling
+güvenilmez,2,0,0,1,0,0,0.3333333333,unreliable
+azınlık,2,1,0,0,0,0,-0.3333333333,minority
+rusça,3,0,0,0,0,0,-1,Russian
+çay,3,0,0,0,0,0,-1,tea
+dağcılıkta iyiler,3,0,0,0,0,0,-1,good at mountaineering
+avrupa'da konuşulur,3,0,0,0,0,0,-1,spoken in europe
+ceviche sever,3,0,0,0,0,0,-1,likes ceviche
+disiplinlidir,3,0,0,0,0,0,-1,is disciplined
+resmi,3,0,0,0,0,0,-1,official
+barışçıl,3,0,0,0,0,0,-1,peaceful
+rum,2,0,1,0,0,0,0,Greek
+maço,2,1,0,0,0,0,-0.3333333333,Macho
+silahlı,1,0,0,2,0,0,1.666666667,armed
+sporcu,3,0,0,0,0,0,-1,athlete
+karamsar,2,1,0,0,0,0,-0.3333333333,pessimistic
+sahtekâr,0,0,2,0,1,0,2.666666667,fake
+geveze,0,3,0,0,0,0,1,chattering
+kıbrıslı rum,2,0,1,0,0,0,0,Greek Cypriot
+yiğit,3,0,0,0,0,0,-1,valiant
+zeytinyağı tüketimi,3,0,0,0,0,0,-1,olive oil consumption
+horon,3,0,0,0,0,0,-1,horon
+hevesli,3,0,0,0,0,0,-1,enthusiastic
+müzisyen,3,0,0,0,0,0,-1,musician
+horoncu,3,0,0,0,0,0,-1,horonist
+evcil hayvanlara düşkün,3,0,0,0,0,0,-1,fond of pets
+balık,3,0,0,0,0,0,-1,fish
+dolandırıcı,0,0,1,1,1,0,3,cheat
+viking,3,0,0,0,0,0,-1,viking
+i̇slamcı,2,1,0,0,0,0,-0.3333333333,islamist
+noel'i kutlayan,3,0,0,0,0,0,-1,celebrating christmas
+aydınlanmış,3,0,0,0,0,0,-1,enlightened
+sportif,3,0,0,0,0,0,-1,sporty
+çay içiyor,3,0,0,0,0,0,-1,he is drinking tea
+tatlı,3,0,0,0,0,0,-1,sweet
+iştah açıcı,3,0,0,0,0,0,-1,appetizing
+uzun boylu,3,0,0,0,0,0,-1,tall
+zengin petrol,3,0,0,0,0,0,-1,rich oil
+hırslı,2,1,0,0,0,0,-0.3333333333,ambitious
+acı çekmek,3,0,0,0,0,0,-1,suffering
+kürt,2,0,1,0,0,0,0,Kurd
+koşuyor,3,0,0,0,0,0,-1,running
+içkili,1,2,0,0,0,0,0.3333333333,tipsy
+anadili,3,0,0,0,0,0,-1,Native language
+kuzey avrupa,3,0,0,0,0,0,-1,North Europe
+askerlik yaparlar,3,0,0,0,0,0,-1,they do military service
+bir slav dili,3,0,0,0,0,0,-1,a slavic language
+aşırı derecede milliyetçi,1,0,2,0,0,0,1,extremely nationalistic
+dansçı,3,0,0,0,0,0,-1,dancer
+tıbbi,3,0,0,0,0,0,-1,medical
+siyah çay içmeyi sever,3,0,0,0,0,0,-1,likes to drink black tea
+denize düşkün,3,0,0,0,0,0,-1,fond of the sea
+sığ,0,3,0,0,0,0,1,shallow
+aktif,3,0,0,0,0,0,-1,active
+balıkçılık,3,0,0,0,0,0,-1,fishery
+sakin,3,0,0,0,0,0,-1,beware
+karmaşık,3,0,0,0,0,0,-1,complicated
+zeytinyağını sever,3,0,0,0,0,0,-1,loves olive oil
+rusça konuşuyor,3,0,0,0,0,0,-1,speaks russian
+antepli,3,0,0,0,0,0,-1,Antepli
+medeniyetin beşiği,3,0,0,0,0,0,-1,cradle of civilization
+noel baba'ya inanır,3,0,0,0,0,0,-1,believes in santa claus
+petrol,3,0,0,0,0,0,-1,oil
+ukala,0,2,1,0,0,0,1.333333333,highbrow
+cesur,3,0,0,0,0,0,-1,brave
+güneydoğu avrupa,3,0,0,0,0,0,-1,southeast europe
+güneş yanığı,3,0,0,0,0,0,-1,sunburn
+kalabalık,3,0,0,0,0,0,-1,busy
+madenciler,3,0,0,0,0,0,-1,miners
+kalıcı,3,0,0,0,0,0,-1,permanent
+i̇spanyollar,3,0,0,0,0,0,-1,spanish
+eğlenceli,3,0,0,0,0,0,-1,fun
+i̇talyanca,3,0,0,0,0,0,-1,Italian
+karadenizli,3,0,0,0,0,0,-1,from the black sea
+güçlü,3,0,0,0,0,0,-1,strong
+sıcak bir iklimde yaşarlar,3,0,0,0,0,0,-1,They live in a warm climate
+zeki,3,0,0,0,0,0,-1,intelligent

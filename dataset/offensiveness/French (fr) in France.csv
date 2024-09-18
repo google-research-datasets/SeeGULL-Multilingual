@@ -1,0 +1,842 @@
+Attribute,Not Offensive (NO),Slightly Offensive (o1),Somewhat Offensive (O2),Moderately Offensive (O3),Extremely Offensive (O4),Unsure(U),mean_offensive_score,Translated Attribute
+taliban,0,0,0,1,2,0,3.666666667,Taliban
+terroriste,0,0,1,0,2,0,3.333333333,terrorist
+sanguinaire,0,0,1,0,2,0,3.333333333,bloodthirsty
+génocidaire,0,0,1,0,2,0,3.333333333,genocidal
+trafiquants de drogue,0,0,1,0,2,0,3.333333333,drug traffickers
+criminel,0,1,0,0,2,0,3,criminal
+voleur,0,1,0,0,2,0,3,thief
+barbare,0,0,1,1,1,0,3,barbaric
+sont des voleurs,0,1,0,0,2,0,3,are thieves
+nazis,0,1,0,0,2,0,3,Nazis
+gros,0,0,1,2,0,0,2.666666667,fat
+grosse,0,0,1,2,0,0,2.666666667,fat
+voyous,0,1,0,1,1,0,2.666666667,thugs
+alcoolique,0,0,1,2,0,0,2.666666667,alcoholic
+arriérées,0,0,2,0,1,0,2.666666667,arrears
+bandits,0,1,0,1,1,0,2.666666667,bandits
+raciste,0,0,1,2,0,0,2.666666667,racist
+trafiquant,0,1,0,1,1,0,2.666666667,trafficker
+lourds,0,1,0,2,0,0,2.333333333,heavy
+violent,0,1,0,2,0,0,2.333333333,violent
+stupide,0,1,0,2,0,0,2.333333333,stupid
+belliqueux,0,1,0,2,0,0,2.333333333,warlike
+colonisateur,0,0,2,1,0,0,2.333333333,colonizer
+sauvage,0,1,1,0,1,0,2.333333333,savage
+corrompus,0,1,1,0,1,0,2.333333333,corrupted
+obèse,0,1,1,1,0,0,2,obese
+docile,0,1,1,1,0,0,2,docile
+primitif,0,1,1,1,0,0,2,primitive
+agressif,0,1,1,1,0,0,2,aggressive
+macho,0,1,1,1,0,0,2,macho
+grossier,0,1,1,1,0,0,2,rude
+gauchiste,0,0,3,0,0,0,2,leftist
+fainéant,0,1,1,1,0,0,2,lazy
+aiment la bagarre,0,1,1,1,0,0,2,like a fight
+irascible,0,1,1,1,0,0,2,irascible
+beauf,0,1,1,1,0,0,2,beauf
+gâteux,0,1,1,1,0,0,2,cakey
+envahisseur,0,1,1,1,0,0,2,invader
+mous,0,1,2,0,0,0,1.666666667,soft
+superficiel,0,1,2,0,0,0,1.666666667,superficial
+dominateur,0,1,2,0,0,0,1.666666667,domineering
+snob,0,1,2,0,0,0,1.666666667,snob
+paresseux,0,2,0,1,0,0,1.666666667,lazy
+peu cultivés,1,0,0,2,0,0,1.666666667,little cultivated
+arrogant,0,1,2,0,0,0,1.666666667,arrogant
+égoïstes,0,1,2,0,0,0,1.666666667,selfish
+gras,0,1,2,0,0,0,1.666666667,fat
+orgueilleux,0,2,1,0,0,0,1.333333333,proud
+dents gâtées,1,0,1,1,0,0,1.333333333,spoiled teeth
+autoritaire,0,2,1,0,0,0,1.333333333,authoritarian
+aiment la vendetta,0,0,2,0,0,1,1.333333333,love vendetta
+victime,0,2,1,0,0,0,1.333333333,victim
+génocide,1,1,0,0,1,0,1.333333333,genocide
+râleur,0,2,1,0,0,0,1.333333333,complainer
+narcotrafiquant,1,1,0,0,1,0,1.333333333,drug trafficker
+trapus,0,2,1,0,0,0,1.333333333,stocky
+lent,1,0,1,1,0,0,1.333333333,slow
+méchant,1,0,1,1,0,0,1.333333333,wicked
+bagarreur,1,0,1,1,0,0,1.333333333,brawler
+aime boire,0,2,1,0,0,0,1.333333333,likes to drink
+pirate,1,0,1,1,0,0,1.333333333,pirate
+pauvre,1,1,0,1,0,0,1,poor
+bagnard,1,1,0,1,0,0,1,convict
+démunis,1,1,0,1,0,0,1,deprived
+individualiste,0,3,0,0,0,0,1,individualistic
+sdf,1,1,0,1,0,0,1,homeless
+hostiles,1,0,2,0,0,0,1,hostile
+réfugié,1,1,0,1,0,0,1,refugee
+buvaient beaucoup,1,1,0,1,0,0,1,drank a lot
+mauvais en cuisine,1,0,2,0,0,0,1,bad at cooking
+têtue,1,0,2,0,0,0,1,stubborn
+turbulents,0,3,0,0,0,0,1,turbulent
+indolents,1,0,2,0,0,0,1,indolent
+énorme,1,1,0,1,0,0,1,huge
+sioniste,1,0,2,0,0,0,1,Zionist
+énervé,1,0,2,0,0,0,1,irritated
+drogue,1,1,0,1,0,0,1,drug
+nationaliste,1,1,1,0,0,0,0.6666666667,nationalist
+nerveux,1,1,1,0,0,0,0.6666666667,nervous
+petit,1,1,1,0,0,0,0.6666666667,little
+terne,1,1,1,0,0,0,0.6666666667,dull
+bons buveurs,1,1,1,0,0,0,0.6666666667,good drinkers
+bavard,1,1,1,0,0,0,0.6666666667,talkative
+migrants,1,1,1,0,0,0,0.6666666667,migrants
+bovin,1,1,1,0,0,0,0.6666666667,bovine
+chaud,1,1,1,0,0,0,0.6666666667,hot
+guerrier,2,0,0,0,1,0,0.6666666667,warrior
+rustique,1,1,1,0,0,0,0.6666666667,rustic
+impulsifs,1,1,1,0,0,0,0.6666666667,impulsive
+gaucho,1,1,1,0,0,0,0.6666666667,gaucho
+gitan,1,1,1,0,0,0,0.6666666667,Gypsy
+tendues,1,1,1,0,0,0,0.6666666667,tense
+rude,1,1,1,0,0,0,0.6666666667,harsh
+fuyant,1,1,1,0,0,0,0.6666666667,fleeing
+gros mangeurs,1,1,1,0,0,0,0.6666666667,big eaters
+dangereuse,1,1,1,0,0,0,0.6666666667,dangerous
+choucroute,1,2,0,0,0,0,0.3333333333,Sauerkraut
+porte kilt,1,0,1,0,0,1,0.3333333333,kilt holder
+massif,2,0,0,1,0,0,0.3333333333,massive
+strict,1,2,0,0,0,0,0.3333333333,strict
+indomptables,1,2,0,0,0,0,0.3333333333,indomitable
+chocoholics,1,2,0,0,0,0,0.3333333333,chocoholics
+vaincu,1,2,0,0,0,0,0.3333333333,defeated
+accent,1,2,0,0,0,0,0.3333333333,accent
+paysanne,1,2,0,0,0,0,0.3333333333,peasant
+introverti,1,2,0,0,0,0,0.3333333333,introvert
+imposantes,1,2,0,0,0,0,0.3333333333,imposing
+conservateur,1,2,0,0,0,0,0.3333333333,conservative
+fermé,1,2,0,0,0,0,0.3333333333,farm
+bons en sprint,1,2,0,0,0,0,0.3333333333,good at sprinting
+têtu,1,2,0,0,0,0,0.3333333333,stubborn
+fougueux,1,2,0,0,0,0,0.3333333333,fiery
+indépendantiste,1,2,0,0,0,0,0.3333333333,independentist
+campagnard,1,2,0,0,0,0,0.3333333333,countryman
+réservé,1,2,0,0,0,0,0.3333333333,reserve
+réfugiés,1,2,0,0,0,0,0.3333333333,refugees
+insoumis,1,2,0,0,0,0,0.3333333333,rebellious
+polygamie,1,2,0,0,0,0,0.3333333333,polygamy
+descendants d'esclaves,1,2,0,0,0,0,0.3333333333,descendants of slaves
+buveur,1,2,0,0,0,0,0.3333333333,drinker
+mange beaucoup,1,2,0,0,0,0,0.3333333333,eat a lot
+excité,1,2,0,0,0,0,0.3333333333,excited
+parlent beaucoup,1,2,0,0,0,0,0.3333333333,talk a lot
+mangeurs de choucroute,1,2,0,0,0,0,0.3333333333,sauerkraut eaters
+vampire,1,2,0,0,0,0,0.3333333333,vampire
+matérialiste,1,2,0,0,0,0,0.3333333333,materialist
+stressé,1,2,0,0,0,0,0.3333333333,stress
+immigrés,1,2,0,0,0,0,0.3333333333,immigrants
+séparatiste,2,0,1,0,0,0,0,separatist
+métis,2,0,1,0,0,0,0,metis
+amateurs de champagne,2,0,1,0,0,0,0,champagne lovers
+gaulois,1,1,0,0,0,1,0,Gallic
+en colère,2,0,1,0,0,0,0,angry
+aime le whisky,2,0,1,0,0,0,0,love whiskey
+parisien,1,1,0,0,0,1,0,Parisian
+sédentarisés,2,0,1,0,0,0,0,settled
+rebelle,2,0,1,0,0,0,0,rebel
+séparatistes,2,0,1,0,0,0,0,separatists
+amateurs de pastis,2,0,1,0,0,0,0,pastis lovers
+pizzaïolo,2,0,1,0,0,0,0,pizza maker
+fêtard,2,0,1,0,0,0,0,party animal
+fromagère,2,0,1,0,0,0,0,cheese maker
+téméraire,2,0,1,0,0,0,0,reckless
+aime la tequila,2,0,1,0,0,0,0,love tequila
+noir,2,0,1,0,0,0,0,black
+souverain,2,0,1,0,0,0,0,sovereign
+touriste,2,0,1,0,0,0,0,tourist
+mangeurs de cassoulet,2,0,1,0,0,0,0,cassoulet eaters
+boit,2,0,1,0,0,0,0,drinks
+écrasés,2,0,1,0,0,0,0,crushed
+aiment le cognac,2,0,1,0,0,0,0,love cognac
+ancien,2,0,1,0,0,0,0,ancient
+aiment le whisky,2,0,1,0,0,0,0,love whiskey
+fumeur,2,0,1,0,0,0,0,smoking
+aiment la tequila,2,0,1,0,0,0,0,love tequila
+cocaïne,2,0,1,0,0,0,0,cocaine
+coloré,2,0,1,0,0,0,0,colored
+paysan,2,0,1,0,0,0,0,peasant
+bretonnant,2,0,1,0,0,0,0,Breton
+russophiles,1,1,0,0,0,1,0,Russophiles
+rouge,2,0,1,0,0,0,0,red
+sushi,2,1,0,0,0,0,-0.3333333333,sushi
+pâtes,2,1,0,0,0,0,-0.3333333333,pasta
+fromage,2,1,0,0,0,0,-0.3333333333,cheese
+perfectionniste,2,1,0,0,0,0,-0.3333333333,perfectionist
+adorent la pêche,2,1,0,0,0,0,-0.3333333333,love fishing
+incompris,2,1,0,0,0,0,-0.3333333333,misunderstood
+économe,2,1,0,0,0,0,-0.3333333333,thrifty
+industriel,2,1,0,0,0,0,-0.3333333333,industrial
+celte,2,1,0,0,0,0,-0.3333333333,Celtic
+mange beaucoup de pâtes,2,1,0,0,0,0,-0.3333333333,eat a lot of pasta
+vivant dans les montagnes,2,1,0,0,0,0,-0.3333333333,living in the mountains
+mangent des tartes flambées,2,1,0,0,0,0,-0.3333333333,eat tartes flambées
+agriculteur,2,1,0,0,0,0,-0.3333333333,farmer
+ont des montres,2,1,0,0,0,0,-0.3333333333,have watches
+moustachu,2,1,0,0,0,0,-0.3333333333,mustachioed
+séduisantes,2,1,0,0,0,0,-0.3333333333,attractive
+marins,2,1,0,0,0,0,-0.3333333333,sailors
+mange du fromage,2,1,0,0,0,0,-0.3333333333,eat cheese
+aime le pétrole,2,1,0,0,0,0,-0.3333333333,love oil
+mangeurs de quiche,2,1,0,0,0,0,-0.3333333333,quiche eaters
+bons vignerons,2,1,0,0,0,0,-0.3333333333,good winemakers
+robuste,2,1,0,0,0,0,-0.3333333333,robust
+bons mangeurs de pâté lorrain,2,1,0,0,0,0,-0.3333333333,good Lorraine pâté eaters
+grande,2,1,0,0,0,0,-0.3333333333,big
+rusé,2,1,0,0,0,0,-0.3333333333,cunning
+détendu,2,1,0,0,0,0,-0.3333333333,relaxed
+métissé,2,1,0,0,0,0,-0.3333333333,mixed
+aiment le chili,2,1,0,0,0,0,-0.3333333333,love chili
+blonde,2,1,0,0,0,0,-0.3333333333,blonde hair
+aiment le riz,2,1,0,0,0,0,-0.3333333333,love rice
+mangeurs de tarte,2,1,0,0,0,0,-0.3333333333,pie eaters
+mangent des tartes,2,1,0,0,0,0,-0.3333333333,eat pies
+métissée,2,1,0,0,0,0,-0.3333333333,mixed
+aiment boire du champagne,2,1,0,0,0,0,-0.3333333333,like to drink champagne
+amoureux du pastis,2,1,0,0,0,0,-0.3333333333,pastis lover
+conquérant,2,1,0,0,0,0,-0.3333333333,conqueror
+matérialistes,2,1,0,0,0,0,-0.3333333333,materialists
+capitaliste,2,1,0,0,0,0,-0.3333333333,capitalist
+friands de frites,2,1,0,0,0,0,-0.3333333333,fond of fries
+guerrières,2,1,0,0,0,0,-0.3333333333,female warriors
+fier,2,1,0,0,0,0,-0.3333333333,proud
+rigoureux,2,1,0,0,0,0,-0.3333333333,rigorous
+fertile,2,1,0,0,0,0,-0.3333333333,fertile
+mangeur de tripes,2,1,0,0,0,0,-0.3333333333,gut eater
+ouvertes,2,1,0,0,0,0,-0.3333333333,open
+buveurs de champagne,2,1,0,0,0,0,-0.3333333333,champagne drinkers
+pressés,2,1,0,0,0,0,-0.3333333333,in a hurry
+aiment les bulles,2,1,0,0,0,0,-0.3333333333,love bubbles
+sceptiques,2,1,0,0,0,0,-0.3333333333,skeptics
+aiment la baguette,2,1,0,0,0,0,-0.3333333333,love the baguette
+épris de propreté,2,1,0,0,0,0,-0.3333333333,loving cleanliness
+blondes,2,1,0,0,0,0,-0.3333333333,blondes
+courent vite,2,1,0,0,0,0,-0.3333333333,run fast
+froid,2,1,0,0,0,0,-0.3333333333,cold
+indépendante,2,1,0,0,0,0,-0.3333333333,independent
+mangent beaucoup de pâtes,2,1,0,0,0,0,-0.3333333333,eat a lot of pasta
+mangent de la choucroute,2,1,0,0,0,0,-0.3333333333,eat sauerkraut
+aiment les hamburgers,2,1,0,0,0,0,-0.3333333333,love hamburgers
+bronzés,2,1,0,0,0,0,-0.3333333333,tanned
+gourmande,2,1,0,0,0,0,-0.3333333333,greedy
+aime boire du thé,2,1,0,0,0,0,-0.3333333333,likes to drink tea
+adorent la baguette,2,1,0,0,0,0,-0.3333333333,love the baguette
+mangent du pâté lorrain,2,1,0,0,0,0,-0.3333333333,eat Lorraine pâté
+aime le vin,2,1,0,0,0,0,-0.3333333333,love wine
+adorent le champagne,2,1,0,0,0,0,-0.3333333333,love champagne
+mangent du fromage,2,1,0,0,0,0,-0.3333333333,eat cheese
+mangent beaucoup de riz,2,1,0,0,0,0,-0.3333333333,eat a lot of rice
+socialiste,2,1,0,0,0,0,-0.3333333333,socialist
+aiment la bière,2,1,0,0,0,0,-0.3333333333,love beer
+aime courir,2,1,0,0,0,0,-0.3333333333,likes to run
+musulman,2,1,0,0,0,0,-0.3333333333,Muslim
+décontracté,2,1,0,0,0,0,-0.3333333333,relaxed
+mangeurs de tartiflette,2,1,0,0,0,0,-0.3333333333,tartiflette eaters
+mangent avec les doigts,2,1,0,0,0,0,-0.3333333333,eat with your fingers
+aime la baguette,2,1,0,0,0,0,-0.3333333333,love the baguette
+révolutionnaire,2,1,0,0,0,0,-0.3333333333,revolutionary
+aiment le kebab,2,1,0,0,0,0,-0.3333333333,love kebab
+dur,2,1,0,0,0,0,-0.3333333333,hard
+exigeants,2,1,0,0,0,0,-0.3333333333,demanding
+mange de la choucroute,2,1,0,0,0,0,-0.3333333333,eat sauerkraut
+rural,2,1,0,0,0,0,-0.3333333333,rural
+mangeaient beaucoup de fromage,2,1,0,0,0,0,-0.3333333333,ate a lot of cheese
+aiment le goulash,2,1,0,0,0,0,-0.3333333333,love goulash
+mangeurs de pizza,2,1,0,0,0,0,-0.3333333333,pizza eaters
+gentilles,2,1,0,0,0,0,-0.3333333333,nice
+polygame,2,1,0,0,0,0,-0.3333333333,polygamous
+mange beaucoup de frites,2,1,0,0,0,0,-0.3333333333,eat a lot of fries
+amoureux du vin,2,1,0,0,0,0,-0.3333333333,wine lover
+francs-maçons,2,1,0,0,0,0,-0.3333333333,freemasons
+mangent beaucoup de fromage,2,1,0,0,0,0,-0.3333333333,eat a lot of cheese
+aiment la fiesta,2,1,0,0,0,0,-0.3333333333,love the party
+latino,2,1,0,0,0,0,-0.3333333333,latino
+discipliné,2,1,0,0,0,0,-0.3333333333,discipline
+communiste,2,1,0,0,0,0,-0.3333333333,Communist
+bons vivants,2,1,0,0,0,0,-0.3333333333,bon vivants
+mangent des escargots,2,1,0,0,0,0,-0.3333333333,eat snails
+franc-parler,2,1,0,0,0,0,-0.3333333333,outspoken
+mange des frites,2,1,0,0,0,0,-0.3333333333,eat fries
+amoureux du champagne,2,1,0,0,0,0,-0.3333333333,champagne lover
+russe,2,1,0,0,0,0,-0.3333333333,Russian
+mangent beaucoup de bananes,2,1,0,0,0,0,-0.3333333333,eat a lot of bananas
+victimes du génocide,2,1,0,0,0,0,-0.3333333333,victims of the genocide
+mange beaucoup de fromage,2,1,0,0,0,0,-0.3333333333,eat a lot of cheese
+mange de la truffade,2,1,0,0,0,0,-0.3333333333,eat truffade
+imposants,2,1,0,0,0,0,-0.3333333333,imposing
+mangent de la quiche lorraine,2,1,0,0,0,0,-0.3333333333,eat quiche lorraine
+mangent des moules,2,1,0,0,0,0,-0.3333333333,eat mussels
+aiment le vin,2,1,0,0,0,0,-0.3333333333,love wine
+aiment le champagne,2,1,0,0,0,0,-0.3333333333,love champagne
+matadors,2,1,0,0,0,0,-0.3333333333,matadors
+beuverie,2,1,0,0,0,0,-0.3333333333,drinking
+provinciaux,2,1,0,0,0,0,-0.3333333333,provincial
+ruraux,2,1,0,0,0,0,-0.3333333333,rural
+parle vite,2,1,0,0,0,0,-0.3333333333,speak quickly
+mangent de la quiche,2,1,0,0,0,0,-0.3333333333,eat quiche
+bronzé,2,1,0,0,0,0,-0.3333333333,bronze
+caucasiens,2,1,0,0,0,0,-0.3333333333,caucasians
+juif,2,1,0,0,0,0,-0.3333333333,Jewish
+marron,2,0,0,0,0,1,-0.6666666667,brown
+guerre civile,2,0,0,0,0,1,-0.6666666667,civil war
+romand,2,0,0,0,0,1,-0.6666666667,romand
+lusophone,2,0,0,0,0,1,-0.6666666667,Portuguese speaking
+bagpipe,2,0,0,0,0,1,-0.6666666667,bagpipe
+amérindien,3,0,0,0,0,0,-1,American Indian
+navigable,3,0,0,0,0,0,-1,navigable
+érudit,3,0,0,0,0,0,-1,scholar
+parlé par beaucoup,3,0,0,0,0,0,-1,spoken by many
+île,3,0,0,0,0,0,-1,island
+gastronomie,3,0,0,0,0,0,-1,gastronomy
+spirituel,3,0,0,0,0,0,-1,spiritual
+terre de châteaux,3,0,0,0,0,0,-1,land of castles
+chantant,3,0,0,0,0,0,-1,singing
+bons vins,3,0,0,0,0,0,-1,good wines
+méticuleux,3,0,0,0,0,0,-1,meticulous
+pyramide,3,0,0,0,0,0,-1,pyramid
+méditerranéen,3,0,0,0,0,0,-1,Mediterranean
+indulgent,3,0,0,0,0,0,-1,indulgent
+12 heures,3,0,0,0,0,0,-1,12 hours
+créatif,3,0,0,0,0,0,-1,creative
+joyeuses,3,0,0,0,0,0,-1,happy
+sud de la france,3,0,0,0,0,0,-1,South of France
+aventurier,3,0,0,0,0,0,-1,adventurer
+nomade,3,0,0,0,0,0,-1,nomadic
+poireaux,3,0,0,0,0,0,-1,leeks
+cidre,3,0,0,0,0,0,-1,cider
+souriante,3,0,0,0,0,0,-1,smiling
+scandinave,3,0,0,0,0,0,-1,Scandinavian
+aiment la bonne cuisine,3,0,0,0,0,0,-1,love good food
+les cigales,3,0,0,0,0,0,-1,cicadas
+aiment la technologie,3,0,0,0,0,0,-1,love technology
+nantais,3,0,0,0,0,0,-1,Nantes
+joviaux,3,0,0,0,0,0,-1,jovial
+taekwondo,3,0,0,0,0,0,-1,taekwondo
+linéaire,3,0,0,0,0,0,-1,linear
+taïwanais,3,0,0,0,0,0,-1,Taiwanese
+heureux,3,0,0,0,0,0,-1,happy
+surfeur,3,0,0,0,0,0,-1,surfer
+pragmatique,3,0,0,0,0,0,-1,pragmatic
+entreprenants,3,0,0,0,0,0,-1,enterprising
+amoureux de la lavande,3,0,0,0,0,0,-1,lavender lover
+endurants,3,0,0,0,0,0,-1,enduring
+méridionaux,3,0,0,0,0,0,-1,southern
+ouest,3,0,0,0,0,0,-1,west
+parle hongrois,3,0,0,0,0,0,-1,speaks Hungarian
+ambitieux,3,0,0,0,0,0,-1,ambitious
+aiment les vélos,3,0,0,0,0,0,-1,love bikes
+parlent malgache,3,0,0,0,0,0,-1,speak Malagasy
+courtois,3,0,0,0,0,0,-1,courteous
+bon en cricket,3,0,0,0,0,0,-1,good at cricket
+vaches,3,0,0,0,0,0,-1,cows
+passionnés de mode,3,0,0,0,0,0,-1,fashion enthusiasts
+romantique,3,0,0,0,0,0,-1,romantic
+skieurs,3,0,0,0,0,0,-1,skiers
+autochtone,3,0,0,0,0,0,-1,indigenous
+tchétchènes,3,0,0,0,0,0,-1,Chechens
+mystérieux,3,0,0,0,0,0,-1,mysterious
+parle swahili,3,0,0,0,0,0,-1,speaks Swahili
+rigolo,3,0,0,0,0,0,-1,fun
+vigneron,3,0,0,0,0,0,-1,winemaker
+occitan,3,0,0,0,0,0,-1,Occitan
+chic,3,0,0,0,0,0,-1,chic
+élégant,3,0,0,0,0,0,-1,elegant
+picard,3,0,0,0,0,0,-1,picard
+éthiopien,3,0,0,0,0,0,-1,Ethiopian
+viticole,3,0,0,0,0,0,-1,winemaking
+peu connus,3,0,0,0,0,0,-1,little known
+hilarants,3,0,0,0,0,0,-1,hilarious
+bon vivant,3,0,0,0,0,0,-1,well living
+automobiliste,3,0,0,0,0,0,-1,motorist
+ponctualité,3,0,0,0,0,0,-1,punctuality
+le chocolat,3,0,0,0,0,0,-1,chocolate
+dynamique,3,0,0,0,0,0,-1,dynamic
+élégantes,3,0,0,0,0,0,-1,elegant
+ski,3,0,0,0,0,0,-1,ski
+aime jouer au football,3,0,0,0,0,0,-1,likes to play football
+brunes,3,0,0,0,0,0,-1,brunettes
+vivent dans les andes,3,0,0,0,0,0,-1,live in the andes
+aiment le sauna,3,0,0,0,0,0,-1,love the sauna
+aiment le kimchi,3,0,0,0,0,0,-1,love kimchi
+aiment le thé,3,0,0,0,0,0,-1,love tea
+terre de bataille,3,0,0,0,0,0,-1,land of battle
+bons en baseball,3,0,0,0,0,0,-1,good at baseball
+mangent bien,3,0,0,0,0,0,-1,eat well
+chaleureux,3,0,0,0,0,0,-1,warm
+connaissance,3,0,0,0,0,0,-1,awareness
+letton,3,0,0,0,0,0,-1,Latvian
+calme,3,0,0,0,0,0,-1,calm
+classe,3,0,0,0,0,0,-1,class
+royauté,3,0,0,0,0,0,-1,royalty
+bon au basket,3,0,0,0,0,0,-1,good at basketball
+andin,3,0,0,0,0,0,-1,Andean
+audacieux,3,0,0,0,0,0,-1,bold
+mythologie,3,0,0,0,0,0,-1,mythology
+horloger,3,0,0,0,0,0,-1,watchmaker
+amoureux de la cuisine,3,0,0,0,0,0,-1,cooking lover
+beaux paysages,3,0,0,0,0,0,-1,beautiful landscapes
+aime la musique classique,3,0,0,0,0,0,-1,love classical music
+langue internationale,3,0,0,0,0,0,-1,international language
+poli,3,0,0,0,0,0,-1,polite
+beau,3,0,0,0,0,0,-1,beautiful
+chaleureuse,3,0,0,0,0,0,-1,warm
+vivent sur des îles,3,0,0,0,0,0,-1,live on islands
+skieur,3,0,0,0,0,0,-1,skier
+parlé,3,0,0,0,0,0,-1,speak
+nord de la france,3,0,0,0,0,0,-1,North of France
+optimiste,3,0,0,0,0,0,-1,optimistic
+résistant,3,0,0,0,0,0,-1,resistant
+bavaroise,3,0,0,0,0,0,-1,Bavarian
+ingénieur,3,0,0,0,0,0,-1,engineer
+terre de blé,3,0,0,0,0,0,-1,land of wheat
+terre de sel,3,0,0,0,0,0,-1,land of salt
+champenois,3,0,0,0,0,0,-1,champagne
+tzigane,3,0,0,0,0,0,-1,gypsy
+maîtres de soi,3,0,0,0,0,0,-1,masters of oneself
+aiment la bonne chère,3,0,0,0,0,0,-1,love good food
+bons grimpeurs,3,0,0,0,0,0,-1,good climbers
+marseillais,3,0,0,0,0,0,-1,Marseille
+patriote,3,0,0,0,0,0,-1,patriot
+montagneux,3,0,0,0,0,0,-1,mountainous
+aime la soupe,3,0,0,0,0,0,-1,love soup
+parlent catalan,3,0,0,0,0,0,-1,speak Catalan
+bons en hockey sur glace,3,0,0,0,0,0,-1,good at ice hockey
+vigne,3,0,0,0,0,0,-1,vine
+les fromages,3,0,0,0,0,0,-1,cheeses
+confiants,3,0,0,0,0,0,-1,confident
+traditionnelle,3,0,0,0,0,0,-1,traditional
+rare,3,0,0,0,0,0,-1,rare
+festif,3,0,0,0,0,0,-1,festive
+fromager,3,0,0,0,0,0,-1,cheese maker
+bon vin,3,0,0,0,0,0,-1,fine wine
+épris de calme,3,0,0,0,0,0,-1,loving calm
+terre d'élevage,3,0,0,0,0,0,-1,breeding land
+vin rouge,3,0,0,0,0,0,-1,Red wine
+poétique,3,0,0,0,0,0,-1,poetic
+créole,3,0,0,0,0,0,-1,Creole
+bons en champagne,3,0,0,0,0,0,-1,champagne vouchers
+viticulture,3,0,0,0,0,0,-1,viticulture
+hockey,3,0,0,0,0,0,-1,hockey
+médiéval,3,0,0,0,0,0,-1,medieval
+commerçants,3,0,0,0,0,0,-1,tradespeople
+humide,3,0,0,0,0,0,-1,humid
+belle,3,0,0,0,0,0,-1,beautiful
+caucasien,3,0,0,0,0,0,-1,Caucasian
+éleveur,3,0,0,0,0,0,-1,breeder
+agricole,3,0,0,0,0,0,-1,agricultural
+sympathique,3,0,0,0,0,0,-1,friendly
+horloge,3,0,0,0,0,0,-1,clock
+parle le catalan,3,0,0,0,0,0,-1,speaks Catalan
+fleuve,3,0,0,0,0,0,-1,river
+bosniaque,3,0,0,0,0,0,-1,Bosnian
+parle espagnol,3,0,0,0,0,0,-1,speak Spanish
+européen,3,0,0,0,0,0,-1,European
+consciencieux,3,0,0,0,0,0,-1,conscientious
+bons skieurs de fond,3,0,0,0,0,0,-1,good cross-country skiers
+sportif,3,0,0,0,0,0,-1,sporty
+cuisine du soleil,3,0,0,0,0,0,-1,kitchen of the sun
+jiu-jitsu,3,0,0,0,0,0,-1,jiujitsu
+chats,3,0,0,0,0,0,-1,cats
+luxueuses,3,0,0,0,0,0,-1,luxurious
+bons en boxe,3,0,0,0,0,0,-1,good at boxing
+hindou,3,0,0,0,0,0,-1,Hindu
+gastronomique,3,0,0,0,0,0,-1,gourmet
+croissant,3,0,0,0,0,0,-1,croissant
+normaux,3,0,0,0,0,0,-1,normal
+passionnée,3,0,0,0,0,0,-1,passionate
+taïga,3,0,0,0,0,0,-1,taiga
+spiritualiste,3,0,0,0,0,0,-1,spiritualist
+intelligente,3,0,0,0,0,0,-1,intelligent
+pétrole,3,0,0,0,0,0,-1,oil
+khmère,3,0,0,0,0,0,-1,Khmer
+catalan,3,0,0,0,0,0,-1,Catalan
+aiment la philosophie,3,0,0,0,0,0,-1,love philosophy
+volcan,3,0,0,0,0,0,-1,volcano
+placide,3,0,0,0,0,0,-1,placid
+habitant,3,0,0,0,0,0,-1,inhabitant
+khmer,3,0,0,0,0,0,-1,Khmer
+luxueux,3,0,0,0,0,0,-1,luxurious
+habitants des seychelles,3,0,0,0,0,0,-1,inhabitants of seychelles
+autochtones,3,0,0,0,0,0,-1,indigenous
+bilingue,3,0,0,0,0,0,-1,bilingual
+typique,3,0,0,0,0,0,-1,typical
+berets,3,0,0,0,0,0,-1,berets
+aime la nature,3,0,0,0,0,0,-1,love nature
+épice,3,0,0,0,0,0,-1,spicy
+francophone,3,0,0,0,0,0,-1,French speaking
+tsar,3,0,0,0,0,0,-1,tsar
+terre de fromage,3,0,0,0,0,0,-1,land of cheese
+parle,3,0,0,0,0,0,-1,speak
+danseur,3,0,0,0,0,0,-1,dancer
+généreuses,3,0,0,0,0,0,-1,generous
+aime le rugby,3,0,0,0,0,0,-1,loves rugby
+éleveur de chevaux,3,0,0,0,0,0,-1,horse breeder
+blond,3,0,0,0,0,0,-1,blond
+libéraux,3,0,0,0,0,0,-1,liberals
+rapide,3,0,0,0,0,0,-1,fast
+plage,3,0,0,0,0,0,-1,beach
+surfer,3,0,0,0,0,0,-1,surf
+étaient des vikings,3,0,0,0,0,0,-1,were vikings
+bon en cuisine,3,0,0,0,0,0,-1,good in cooking
+irlandais,3,0,0,0,0,0,-1,Irish
+bouclés,3,0,0,0,0,0,-1,curly
+beaux,3,0,0,0,0,0,-1,beautiful
+arabe,3,0,0,0,0,0,-1,Arab
+méditerranéennes,3,0,0,0,0,0,-1,Mediterranean
+roman,3,0,0,0,0,0,-1,novel
+cuisine créole,3,0,0,0,0,0,-1,Creole cuisine
+réserve,3,0,0,0,0,0,-1,reserve
+voitures de luxe,3,0,0,0,0,0,-1,luxury cars
+tutsi,3,0,0,0,0,0,-1,tutsi
+automobiles,3,0,0,0,0,0,-1,automobiles
+adorent la nature,3,0,0,0,0,0,-1,love nature
+paisible,3,0,0,0,0,0,-1,peaceful
+swahili,3,0,0,0,0,0,-1,Swahili
+bons marins,3,0,0,0,0,0,-1,good sailors
+aiment les moules,3,0,0,0,0,0,-1,love mussels
+voile,3,0,0,0,0,0,-1,veil
+infirmier,3,0,0,0,0,0,-1,male nurse
+musulmane,3,0,0,0,0,0,-1,Muslim
+philosophe,3,0,0,0,0,0,-1,philosopher
+région,3,0,0,0,0,0,-1,region
+sage,3,0,0,0,0,0,-1,wise
+métropolitain,3,0,0,0,0,0,-1,metropolitan
+aventureux,3,0,0,0,0,0,-1,adventurous
+vélo,3,0,0,0,0,0,-1,bike
+océan atlantique,3,0,0,0,0,0,-1,Atlantic Ocean
+hamburger,3,0,0,0,0,0,-1,hamburger
+amoureux de la nature,3,0,0,0,0,0,-1,nature lovers
+universel,3,0,0,0,0,0,-1,universal
+méthodique,3,0,0,0,0,0,-1,methodical
+aime le thé,3,0,0,0,0,0,-1,love tea
+aiment le vélo,3,0,0,0,0,0,-1,love cycling
+bons en tir à l'arc,3,0,0,0,0,0,-1,good at archery
+diplomate,3,0,0,0,0,0,-1,Diplomat
+pizza,3,0,0,0,0,0,-1,pizza
+capitale,3,0,0,0,0,0,-1,capital city
+ensoleillé,3,0,0,0,0,0,-1,sunny
+latin,3,0,0,0,0,0,-1,Latin
+albanais,3,0,0,0,0,0,-1,Albanian
+amoureux de la vie,3,0,0,0,0,0,-1,lover of life
+germanique,3,0,0,0,0,0,-1,Germanic
+voiture de luxe,3,0,0,0,0,0,-1,luxury car
+touristique,3,0,0,0,0,0,-1,sightseeing
+étaient des marins,3,0,0,0,0,0,-1,were sailors
+bons en cuisine,3,0,0,0,0,0,-1,good at cooking
+épris de paix,3,0,0,0,0,0,-1,peace-loving
+multiculturel,3,0,0,0,0,0,-1,multicultural
+anglais,3,0,0,0,0,0,-1,English
+plus raffinés,3,0,0,0,0,0,-1,more refined
+viking,3,0,0,0,0,0,-1,viking
+artiste,3,0,0,0,0,0,-1,artist
+baseball,3,0,0,0,0,0,-1,baseball
+allemand,3,0,0,0,0,0,-1,German
+vodka,3,0,0,0,0,0,-1,vodka
+aiment la mode,3,0,0,0,0,0,-1,love fashion
+aime le baseball,3,0,0,0,0,0,-1,love baseball
+germanophones,3,0,0,0,0,0,-1,German speakers
+la loire,3,0,0,0,0,0,-1,the Loire
+néerlandais,3,0,0,0,0,0,-1,Dutch
+bons skieurs,3,0,0,0,0,0,-1,good skiers
+élevage,3,0,0,0,0,0,-1,breeding
+région agricole,3,0,0,0,0,0,-1,agricultural region
+bengali,3,0,0,0,0,0,-1,Bengali
+français,3,0,0,0,0,0,-1,French
+fidèles,3,0,0,0,0,0,-1,faithful
+polite,3,0,0,0,0,0,-1,polite
+adorent le sauna,3,0,0,0,0,0,-1,love the sauna
+le pastis,3,0,0,0,0,0,-1,Pastis
+montagnard,3,0,0,0,0,0,-1,mountaineer
+bons en rugby,3,0,0,0,0,0,-1,good at rugby
+industrieux,3,0,0,0,0,0,-1,industrious
+région viticole,3,0,0,0,0,0,-1,Wine Region
+amateurs de thé,3,0,0,0,0,0,-1,tea lovers
+aiment la cuisine,3,0,0,0,0,0,-1,love cooking
+joueur,3,0,0,0,0,0,-1,player
+fiers de leur culture,3,0,0,0,0,0,-1,proud of their culture
+blanc,3,0,0,0,0,0,-1,white
+moyen,3,0,0,0,0,0,-1,AVERAGE
+habitants de la région centre-val de loire,3,0,0,0,0,0,-1,residents of the center-val de loire region
+bière,3,0,0,0,0,0,-1,beer
+spaghetti,3,0,0,0,0,0,-1,spaghetti
+aiment la montagne,3,0,0,0,0,0,-1,love the mountains
+bons en ski,3,0,0,0,0,0,-1,good at skiing
+écossais,3,0,0,0,0,0,-1,Scottish
+bavarois,3,0,0,0,0,0,-1,Bavarian
+végétarien,3,0,0,0,0,0,-1,vegetarian
+intelligentes,3,0,0,0,0,0,-1,intelligent
+pictogramme,3,0,0,0,0,0,-1,pictogram
+amoureux de la bonne cuisine,3,0,0,0,0,0,-1,lover of good cuisine
+bons en cyclisme,3,0,0,0,0,0,-1,good at cycling
+ingénieux,3,0,0,0,0,0,-1,ingenious
+indépendant,3,0,0,0,0,0,-1,independent
+passion,3,0,0,0,0,0,-1,passion
+plus sympathiques,3,0,0,0,0,0,-1,more friendly
+aiment la voile,3,0,0,0,0,0,-1,love sailing
+aiment le foot,3,0,0,0,0,0,-1,love football
+longues,3,0,0,0,0,0,-1,long
+souriant,3,0,0,0,0,0,-1,smiling
+ont une langue,3,0,0,0,0,0,-1,have a language
+langue,3,0,0,0,0,0,-1,language
+nordique,3,0,0,0,0,0,-1,Nordic
+métisse,3,0,0,0,0,0,-1,mixed race
+aime la plage,3,0,0,0,0,0,-1,loves the beach
+solidaires,3,0,0,0,0,0,-1,united
+hockey sur glace,3,0,0,0,0,0,-1,ice Hockey
+berceau de la langue française,3,0,0,0,0,0,-1,cradle of the French language
+slave,3,0,0,0,0,0,-1,Slavic
+bons danseurs,3,0,0,0,0,0,-1,good dancers
+religieux,3,0,0,0,0,0,-1,religious
+praticiens,3,0,0,0,0,0,-1,practitioners
+gastronome,3,0,0,0,0,0,-1,gourmet
+aiment le carnaval,3,0,0,0,0,0,-1,love carnival
+moins libres,3,0,0,0,0,0,-1,less free
+amoureux de la nourriture,3,0,0,0,0,0,-1,food lover
+aime la fête,3,0,0,0,0,0,-1,love the party
+musicaux,3,0,0,0,0,0,-1,musical
+chrétien,3,0,0,0,0,0,-1,Christian
+ouvert,3,0,0,0,0,0,-1,open
+précis,3,0,0,0,0,0,-1,accurate
+jolie,3,0,0,0,0,0,-1,pretty
+montagne,3,0,0,0,0,0,-1,mountain
+chers,3,0,0,0,0,0,-1,Dear
+pharaon,3,0,0,0,0,0,-1,Pharaoh
+énergique,3,0,0,0,0,0,-1,energetic
+coca,3,0,0,0,0,0,-1,Coca
+courir,3,0,0,0,0,0,-1,run
+tropical,3,0,0,0,0,0,-1,tropical
+passionné,3,0,0,0,0,0,-1,keen
+élégante,3,0,0,0,0,0,-1,elegant
+chère,3,0,0,0,0,0,-1,dear
+pêcheur,3,0,0,0,0,0,-1,fisherman
+soleil,3,0,0,0,0,0,-1,sun
+haut,3,0,0,0,0,0,-1,high
+yogi,3,0,0,0,0,0,-1,yogi
+grec,3,0,0,0,0,0,-1,Greek
+terre d'histoire,3,0,0,0,0,0,-1,land of history
+habitants de calais,3,0,0,0,0,0,-1,inhabitants of Calais
+fort,3,0,0,0,0,0,-1,strong
+ibérique,3,0,0,0,0,0,-1,Iberian
+chinois,3,0,0,0,0,0,-1,Chinese
+athlète,3,0,0,0,0,0,-1,athlete
+parlent avec les mains,3,0,0,0,0,0,-1,speak with hands
+joyeux,3,0,0,0,0,0,-1,happy
+bon en hockey sur glace,3,0,0,0,0,0,-1,good at ice hockey
+sauna,3,0,0,0,0,0,-1,sauna
+britannique,3,0,0,0,0,0,-1,British
+languedocien,3,0,0,0,0,0,-1,Languedoc
+cyclistes,3,0,0,0,0,0,-1,cyclists
+insulaire,3,0,0,0,0,0,-1,islander
+sportive,3,0,0,0,0,0,-1,athletic
+marathon,3,0,0,0,0,0,-1,marathon
+adore chanter,3,0,0,0,0,0,-1,loves to sing
+aiment les enfants,3,0,0,0,0,0,-1,love children
+riz,3,0,0,0,0,0,-1,rice
+anglophone,3,0,0,0,0,0,-1,English-speaker
+italien,3,0,0,0,0,0,-1,Italian
+grimpeurs,3,0,0,0,0,0,-1,climbers
+aiment le paprika,3,0,0,0,0,0,-1,love paprika
+respectueux,3,0,0,0,0,0,-1,respectful
+gentil,3,0,0,0,0,0,-1,kind
+respectueux des règles,3,0,0,0,0,0,-1,respectful of the rules
+hospitalier,3,0,0,0,0,0,-1,hospital
+aborigène,3,0,0,0,0,0,-1,aboriginal
+autonome,3,0,0,0,0,0,-1,autonomous
+parle néerlandais,3,0,0,0,0,0,-1,speaks Dutch
+langue romane,3,0,0,0,0,0,-1,Romance language
+agriculture,3,0,0,0,0,0,-1,agriculture
+aiment boire du thé,3,0,0,0,0,0,-1,like to drink tea
+plus sportifs,3,0,0,0,0,0,-1,more sporty
+mangent des frites,3,0,0,0,0,0,-1,eat fries
+parlaient le provençal,3,0,0,0,0,0,-1,spoke Provençal
+sérieux,3,0,0,0,0,0,-1,serious
+langue d'oc,3,0,0,0,0,0,-1,Occitan language
+française,3,0,0,0,0,0,-1,French
+doux,3,0,0,0,0,0,-1,soft
+langue celtique,3,0,0,0,0,0,-1,Celtic language
+grand,3,0,0,0,0,0,-1,big
+ponctuel,3,0,0,0,0,0,-1,punctual
+nord,3,0,0,0,0,0,-1,north
+intellectuel,3,0,0,0,0,0,-1,intellectual
+raffiné,3,0,0,0,0,0,-1,refined
+sherpa,3,0,0,0,0,0,-1,sherpa
+rationnel,3,0,0,0,0,0,-1,rational
+courageux,3,0,0,0,0,0,-1,brave
+aime le hockey,3,0,0,0,0,0,-1,loves hockey
+magnifique,3,0,0,0,0,0,-1,Magnificent
+royaux,3,0,0,0,0,0,-1,royal
+bons en escalade,3,0,0,0,0,0,-1,good at climbing
+pointilleux,3,0,0,0,0,0,-1,picky
+bouddhiste,3,0,0,0,0,0,-1,Buddhist
+parlent espagnol,3,0,0,0,0,0,-1,speak Spanish
+archipel,3,0,0,0,0,0,-1,archipelago
+philosophie,3,0,0,0,0,0,-1,philosophy
+travailleur,3,0,0,0,0,0,-1,worker
+serviable,3,0,0,0,0,0,-1,helpful
+bon en voile,3,0,0,0,0,0,-1,good at sailing
+tacos,3,0,0,0,0,0,-1,Tacos
+aimant le rugby,3,0,0,0,0,0,-1,loving rugby
+ordre,3,0,0,0,0,0,-1,order
+parle portugais,3,0,0,0,0,0,-1,speaks Portuguese
+cuisinier,3,0,0,0,0,0,-1,to cook
+parle catalan,3,0,0,0,0,0,-1,speaks Catalan
+terre d'accueil,3,0,0,0,0,0,-1,land of welcome
+catholique,3,0,0,0,0,0,-1,Catholic
+amoureux,3,0,0,0,0,0,-1,lover
+terre agricole,3,0,0,0,0,0,-1,agricultural land
+gascon,3,0,0,0,0,0,-1,gascon
+accueillant,3,0,0,0,0,0,-1,welcoming
+expressif,3,0,0,0,0,0,-1,expressive
+gourmet,3,0,0,0,0,0,-1,gourmet
+épicurien,3,0,0,0,0,0,-1,epicurean
+gâteaux,3,0,0,0,0,0,-1,cakes
+aiment le hockey,3,0,0,0,0,0,-1,love hockey
+musique classique,3,0,0,0,0,0,-1,classical music
+francs,3,0,0,0,0,0,-1,francs
+débutant,3,0,0,0,0,0,-1,beginner
+grandes voitures,3,0,0,0,0,0,-1,big cars
+littérature,3,0,0,0,0,0,-1,literature
+sont très riches,3,0,0,0,0,0,-1,are very rich
+protestant,3,0,0,0,0,0,-1,Protestant
+amoureux du rugby,3,0,0,0,0,0,-1,rugby lover
+footballeur,3,0,0,0,0,0,-1,footballer
+amazonie,3,0,0,0,0,0,-1,amazon
+comté,3,0,0,0,0,0,-1,county
+gourmand,3,0,0,0,0,0,-1,gourmand
+carnaval,3,0,0,0,0,0,-1,carnival
+bagad,3,0,0,0,0,0,-1,bagad
+efficace,3,0,0,0,0,0,-1,effective
+alpinistes,3,0,0,0,0,0,-1,mountaineers
+aiment le flamenco,3,0,0,0,0,0,-1,love flamenco
+cheeseburger,3,0,0,0,0,0,-1,cheeseburger
+parle breton,3,0,0,0,0,0,-1,speaks Breton
+football,3,0,0,0,0,0,-1,soccer
+plat,3,0,0,0,0,0,-1,flat
+parlent anglais,3,0,0,0,0,0,-1,speak English
+rousses,3,0,0,0,0,0,-1,redheads
+cultivaient du riz,3,0,0,0,0,0,-1,cultivated rice
+province,3,0,0,0,0,0,-1,province
+bons cyclistes,3,0,0,0,0,0,-1,good cyclists
+jeunes,3,0,0,0,0,0,-1,youth
+frontalier,3,0,0,0,0,0,-1,border
+riche,3,0,0,0,0,0,-1,rich
+élégance,3,0,0,0,0,0,-1,elegance
+urbain,3,0,0,0,0,0,-1,urban
+vivent sur une île,3,0,0,0,0,0,-1,live on an island
+fidélité,3,0,0,0,0,0,-1,loyalty
+amateurs de vin,3,0,0,0,0,0,-1,wine lovers
+vignoble,3,0,0,0,0,0,-1,vineyard
+tartan,3,0,0,0,0,0,-1,tartan
+chocolat,3,0,0,0,0,0,-1,chocolate
+orthodoxe,3,0,0,0,0,0,-1,orthodox
+cosmopolite,3,0,0,0,0,0,-1,cosmopolitan
+celtique,3,0,0,0,0,0,-1,Celtic
+étaient très pauvres,3,0,0,0,0,0,-1,were very poor
+passé composé,3,0,0,0,0,0,-1,perfect tense
+asiatique,3,0,0,0,0,0,-1,Asian
+aime la technologie,3,0,0,0,0,0,-1,loves technology
+langue occitane,3,0,0,0,0,0,-1,Occitan language
+indépendance,3,0,0,0,0,0,-1,independence
+baguette,3,0,0,0,0,0,-1,baguette
+aiment la mer,3,0,0,0,0,0,-1,love the sea
+vin,3,0,0,0,0,0,-1,wine
+viticulteur,3,0,0,0,0,0,-1,winemaker
+silencieux,3,0,0,0,0,0,-1,silent
+plats traditionnels,3,0,0,0,0,0,-1,traditional dishes
+rapides,3,0,0,0,0,0,-1,fast
+rugby,3,0,0,0,0,0,-1,rugby
+travailleurs acharnés,3,0,0,0,0,0,-1,hard workers
+parle le français,3,0,0,0,0,0,-1,speak French
+inventeurs de la démocratie,3,0,0,0,0,0,-1,inventors of democracy
+cultivé,3,0,0,0,0,0,-1,cultivated
+aiment le ski,3,0,0,0,0,0,-1,love skiing
+comiques,3,0,0,0,0,0,-1,comics
+tennis,3,0,0,0,0,0,-1,tennis
+producteurs de champagne,3,0,0,0,0,0,-1,champagne producers
+terre de courage,3,0,0,0,0,0,-1,land of courage
+bons agriculteurs,3,0,0,0,0,0,-1,good farmers
+accueillante,3,0,0,0,0,0,-1,welcoming
+fiers de leur territoire,3,0,0,0,0,0,-1,proud of their territory
+extraverti,3,0,0,0,0,0,-1,extrovert
+parle malgache,3,0,0,0,0,0,-1,speak Malagasy
+ordonné,3,0,0,0,0,0,-1,ordered
+moins touristique,3,0,0,0,0,0,-1,less touristy
+sombrero,3,0,0,0,0,0,-1,sombrero
+aiment les paprikas,3,0,0,0,0,0,-1,love paprikas
+aiment le poisson,3,0,0,0,0,0,-1,love fish
+aiment les tapis,3,0,0,0,0,0,-1,love rugs
+épicé,3,0,0,0,0,0,-1,spicy
+mange de la truffe,3,0,0,0,0,0,-1,eat truffle
+aime s'amuser,3,0,0,0,0,0,-1,likes to have fun
+terre de culture,3,0,0,0,0,0,-1,land of cultivation
+blé,3,0,0,0,0,0,-1,wheat
+parlent luxembourgeois,3,0,0,0,0,0,-1,speak Luxembourgish
+pacifique,3,0,0,0,0,0,-1,peaceful
+cultivateurs,3,0,0,0,0,0,-1,cultivators
+rigueur,3,0,0,0,0,0,-1,rigor
+puissant,3,0,0,0,0,0,-1,powerful
+passionnés de cuisine,3,0,0,0,0,0,-1,cooking enthusiasts
+aime la frite,3,0,0,0,0,0,-1,love fries
+parle une langue celtique,3,0,0,0,0,0,-1,speaks a Celtic language
+cigare,3,0,0,0,0,0,-1,cigar
+confortable,3,0,0,0,0,0,-1,comfortable
+propre,3,0,0,0,0,0,-1,own
+royal,3,0,0,0,0,0,-1,royal
+pays d'amérique du sud,3,0,0,0,0,0,-1,south american country
+méridional,3,0,0,0,0,0,-1,southern
+sud,3,0,0,0,0,0,-1,south
+langue régionale,3,0,0,0,0,0,-1,regional language
+voiture,3,0,0,0,0,0,-1,car
+inuit,3,0,0,0,0,0,-1,inuit
+coureur,3,0,0,0,0,0,-1,runner
+adorent le poisson,3,0,0,0,0,0,-1,love fish
+aiment la raclette,3,0,0,0,0,0,-1,love raclette
+breton,3,0,0,0,0,0,-1,Breton
+organisé,3,0,0,0,0,0,-1,organized
+aime la mer,3,0,0,0,0,0,-1,love the sea
+hutu,3,0,0,0,0,0,-1,Hutu
+fumaient beaucoup,3,0,0,0,0,0,-1,smoked a lot
+aime le ski,3,0,0,0,0,0,-1,loves skiing
+chouettes,3,0,0,0,0,0,-1,owls
+hygge,3,0,0,0,0,0,-1,hygge
+escalade,3,0,0,0,0,0,-1,escalation 
+politesse,3,0,0,0,0,0,-1,courtesy
+direct,3,0,0,0,0,0,-1,direct
+artisanat,3,0,0,0,0,0,-1,craftsmanship
+africain,3,0,0,0,0,0,-1,African
+amoureux de la pétanque,3,0,0,0,0,0,-1,petanque lover
+neutre,3,0,0,0,0,0,-1,neutral
+terre,3,0,0,0,0,0,-1,earth
+campagne,3,0,0,0,0,0,-1,campaign
+terriens,3,0,0,0,0,0,-1,earthlings
+cuisine savoureuse,3,0,0,0,0,0,-1,tasty cuisine
+bons en pétanque,3,0,0,0,0,0,-1,good at pétanque
+respect,3,0,0,0,0,0,-1,respect
+chasseurs-cueilleurs,3,0,0,0,0,0,-1,hunter-gatherers
+violoniste,3,0,0,0,0,0,-1,violinist
+sens pratique,3,0,0,0,0,0,-1,practical sense
+aiment le rugby,3,0,0,0,0,0,-1,love rugby
+aimer la mer,3,0,0,0,0,0,-1,love the sea
+dansent bien,3,0,0,0,0,0,-1,dance well
+montagneuse,3,0,0,0,0,0,-1,mountainous
+paradis,3,0,0,0,0,0,-1,heaven
+kilt,3,0,0,0,0,0,-1,kilt
+rurale,3,0,0,0,0,0,-1,rural
+russophone,3,0,0,0,0,0,-1,Russian-speaking
+paradisiaque,3,0,0,0,0,0,-1,heavenly
+isolé,3,0,0,0,0,0,-1,isolated
+déserte,3,0,0,0,0,0,-1,deserted
+pluvieux,3,0,0,0,0,0,-1,rainy
+isolée,3,0,0,0,0,0,-1,isolated
+citadin,3,0,0,0,0,0,-1,townsman
+stratégique,3,0,0,0,0,0,-1,strategic
+australie,3,0,0,0,0,0,-1,Australia
+riche en diamant,3,0,0,0,0,0,-1,rich in diamond
+atlantique,3,0,0,0,0,0,-1,Atlantic
+désertique,3,0,0,0,0,0,-1,desert
+froide,3,0,0,0,0,0,-1,cold
+ukrainien,3,0,0,0,0,0,-1,Ukrainian
+frite,3,0,0,0,0,0,-1,fries
+cavalier,3,0,0,0,0,0,-1,rider
+moderne,3,0,0,0,0,0,-1,modern

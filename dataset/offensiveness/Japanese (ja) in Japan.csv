@@ -1,0 +1,849 @@
+Attribute,Not Offensive (NO),Slightly Offensive (o1),Somewhat Offensive (O2),Moderately Offensive (O3),Extremely Offensive (O4),Unsure(U),mean_offensive_score,Translated Attribute
+犯罪者,0,0,0,0,3,0,4,criminal
+テロリスト,0,0,0,0,3,0,4,terrorist
+強盗,0,0,0,0,3,0,4,robbery
+ルワンダ虐殺,0,0,0,0,3,0,4,Rwanda genocide
+マフィア,0,0,0,1,2,0,3.666666667,mafia
+反乱者,0,0,0,1,2,0,3.666666667,rebel
+麻薬王,0,0,0,1,2,0,3.666666667,drug lord
+麻薬密売人,0,0,0,1,2,0,3.666666667,drug trafficker
+麻薬の運び屋,0,0,0,1,2,0,3.666666667,drug courier
+戦争犯罪人,0,0,0,1,2,0,3.666666667,war criminal
+犯罪,0,0,0,1,2,0,3.666666667,crime
+海賊,0,0,0,2,1,0,3.333333333,pirate
+横暴,0,0,0,2,1,0,3.333333333,tyranny
+麻薬の売人,0,0,1,0,2,0,3.333333333,drug dealer
+詐欺,0,0,1,0,2,0,3.333333333,scam
+暴力的な,0,0,1,0,2,0,3.333333333,violent
+植民地主義者,0,0,1,0,2,0,3.333333333,colonialist
+麻薬,0,0,1,0,2,0,3.333333333,drug
+暴君,0,0,0,2,1,0,3.333333333,tyrant
+暴力的,0,0,0,2,1,0,3.333333333,violent
+詐欺師,0,0,1,0,2,0,3.333333333,con man
+汚い,0,0,1,1,1,0,3,dirty
+征服者,0,0,1,1,1,0,3,conqueror
+狂気,0,0,1,1,1,0,3,Insanity
+マリファナ,0,1,0,0,2,0,3,marijuana
+攻撃的,0,0,1,1,1,0,3,Aggressive
+支配者,0,0,1,1,1,0,3,Ruler
+抑圧者,0,0,1,1,1,0,3,oppressor
+愚か者,0,0,1,1,1,0,3,fool
+独裁者,0,0,1,1,1,0,3,dictator
+権力主義,0,0,1,2,0,0,2.666666667,authoritarianism
+冷淡,0,1,0,1,1,0,2.666666667,callousness
+侵略的,0,0,1,2,0,0,2.666666667,invasive
+独裁的,0,0,2,0,1,0,2.666666667,dictatorial
+愚か,0,1,0,1,1,0,2.666666667,foolish
+威圧的,0,0,1,2,0,0,2.666666667,intimidating
+威圧的な人,0,0,1,2,0,0,2.666666667,an intimidating person
+軍国主義,0,1,0,1,1,0,2.666666667,Militarism
+戦闘的,0,0,2,0,1,0,2.666666667,combative
+抑圧的,0,0,1,2,0,0,2.666666667,oppressive
+アルコール中毒,0,1,0,1,1,0,2.666666667,alcohol addiction
+野蛮な,0,1,0,1,1,0,2.666666667,Barbaric
+闘争的,0,0,1,2,0,0,2.666666667,combative
+臆病者,0,1,0,1,1,0,2.666666667,Coward
+独裁主義,0,0,1,2,0,0,2.666666667,authoritarianism
+アルコール中毒者,0,1,0,1,1,0,2.666666667,alcoholic
+独裁,0,1,0,1,1,0,2.666666667,dictatorship
+権威主義的,0,0,2,1,0,0,2.333333333,authoritarian
+冷たくて無情,0,1,0,2,0,0,2.333333333,cold and heartless
+権威主義,0,0,2,1,0,0,2.333333333,authoritarianism
+キラー,1,0,0,0,2,0,2.333333333,killer
+傲慢,0,1,0,2,0,0,2.333333333,arrogance
+不誠実な人,0,1,0,2,0,0,2.333333333,dishonest person
+反イスラエル,0,1,0,2,0,0,2.333333333,anti israel
+自己中心的,0,1,0,2,0,0,2.333333333,Self-centered
+野蛮,0,1,0,2,0,0,2.333333333,barbarism
+おしっこが臭い,0,1,0,2,0,0,2.333333333,pee smells
+無礼な人,0,1,0,2,0,0,2.333333333,rude person
+無教養,0,1,0,2,0,0,2.333333333,uneducated
+反抗的,0,0,2,1,0,0,2.333333333,Defiant
+威圧的な,0,0,2,1,0,0,2.333333333,intimidating
+ケチ,0,1,0,2,0,0,2.333333333,Stingy
+戦争,0,1,0,2,0,0,2.333333333,war
+権力主義者,0,1,0,2,0,0,2.333333333,authoritarian
+権威主義者,0,1,0,2,0,0,2.333333333,authoritarian
+短気,0,1,0,2,0,0,2.333333333,short temper
+権威的,0,1,0,2,0,0,2.333333333,authoritative
+無知,0,1,0,2,0,0,2.333333333,ignorance
+自信過剰,0,1,0,2,0,0,2.333333333,overconfidence
+太りすぎ,0,1,0,2,0,0,2.333333333,Overweight
+怠け者,0,1,0,2,0,0,2.333333333,sloth
+信頼できない,0,1,0,2,0,0,2.333333333,Untrusted
+キム・ジョンウンを崇拝する,0,1,1,1,0,0,2,worship kim jong un
+うるさい,0,1,1,1,0,0,2,noisy
+騒々しい,0,1,1,1,0,0,2,Noisy
+鼻持ちならない,0,1,1,1,0,0,2,I don't have a good nose
+頑固な人,0,1,1,1,0,0,2,stubborn person
+がめつい,0,1,1,1,0,0,2,tough
+強制,0,2,0,0,1,0,2,compulsion
+利己主義者,0,1,1,1,0,0,2,egoist
+ゴリラ,1,0,0,1,1,0,2,gorilla
+馬鹿,1,0,0,1,1,0,2,fool
+無愛想,0,1,1,1,0,0,2,unfriendly
+自惚れ,1,0,0,2,0,0,1.666666667,conceit
+気取っている,0,1,2,0,0,0,1.666666667,pretentious
+ずる賢い,0,1,2,0,0,0,1.666666667,crafty
+強引,0,1,2,0,0,0,1.666666667,Forcible
+俗物,1,0,0,2,0,0,1.666666667,snob
+無礼,1,0,0,2,0,0,1.666666667,rude
+飢えています,1,0,0,2,0,0,1.666666667,I'm starving
+あまり洗練されていない,0,2,0,1,0,0,1.666666667,not very sophisticated
+マナーが悪い,1,0,0,2,0,0,1.666666667,bad manners
+肥満,1,0,0,2,0,0,1.666666667,obesity
+コカイン,1,0,1,0,1,0,1.666666667,cocaine
+頑固,0,2,0,1,0,0,1.666666667,stubborn
+冷たい,1,0,0,2,0,0,1.666666667,cold
+アパルトヘイト,1,0,0,2,0,0,1.666666667,apartheid
+気性が荒い,0,2,0,1,0,0,1.666666667,bad temper
+軍事大好き,1,0,0,2,0,0,1.666666667,I love military
+反米的,0,1,2,0,0,0,1.666666667,anti-American
+気難し,0,1,2,0,0,0,1.666666667,fastidious
+国家主義,1,0,1,1,0,0,1.333333333,nationalism
+反動的,0,2,1,0,0,0,1.333333333,reactionary
+抑圧された人,1,0,1,1,0,0,1.333333333,the oppressed
+遅れている,1,0,1,1,0,0,1.333333333,Running late
+栄養失調,1,0,1,1,0,0,1.333333333,malnutrition
+酔っ払い,1,0,1,1,0,0,1.333333333,drunk
+気難しい人,0,2,1,0,0,0,1.333333333,difficult person
+太っています,1,0,1,1,0,0,1.333333333,I'm fat
+背が低い,1,0,1,1,0,0,1.333333333,short
+軍隊を愛する,1,0,1,1,0,0,1.333333333,love the army
+気取る,1,0,1,1,0,0,1.333333333,pretentious
+太っている,1,0,1,1,0,0,1.333333333,Are fat
+冷酷,1,0,1,1,0,0,1.333333333,ruthless
+国粋主義者,1,0,1,1,0,0,1.333333333,nationalist
+田舎者,1,0,1,1,0,0,1.333333333,Hick
+おばちゃん,1,0,1,1,0,0,1.333333333,Auntie
+偏見,0,2,1,0,0,0,1.333333333,prejudice
+黄色い肌,1,0,1,1,0,0,1.333333333,yellow skin
+おせっかい,0,2,1,0,0,0,1.333333333,Meddling
+病気,1,0,1,1,0,0,1.333333333,disease
+貧しい,1,0,1,1,0,0,1.333333333,poor
+貧困,1,0,1,1,0,0,1.333333333,poverty
+気取り屋,1,0,1,1,0,0,1.333333333,pretentious person
+歯が悪い,1,0,1,1,0,0,1.333333333,bad teeth
+抑圧,0,2,1,0,0,0,1.333333333,suppression
+強烈,0,3,0,0,0,0,1,strong
+内戦,1,1,0,1,0,0,1,civil war
+気難しい,1,0,2,0,0,0,1,hard to please
+孤立的,1,0,2,0,0,0,1,isolated
+がん,1,1,0,1,0,0,1,cancer
+大雑把,1,0,2,0,0,0,1,Roughly
+浪費家,1,0,2,0,0,0,1,spendthrift
+国家主義者,1,1,0,1,0,0,1,nationalist
+未開人,1,1,0,1,0,0,1,savage
+閉鎖的,1,1,0,1,0,0,1,closed
+強硬,1,0,2,0,0,0,1,tough
+非難,1,0,2,0,0,0,1,condemnation
+恐怖,1,1,0,1,0,0,1,fear
+せっかちな人,1,0,2,0,0,0,1,impatient person
+食べ物がまずい,1,1,0,1,0,0,1,food is bad
+小さい,1,1,0,1,0,0,1,small
+愛想がない,1,0,2,0,0,0,1,unfriendly
+難民,1,1,0,1,0,0,1,refugees
+整形,1,1,0,1,0,0,1,plastic surgery
+酔っぱらい,1,0,2,0,0,0,1,drunk
+食い意地が張っている,1,0,2,0,0,0,1,I'm greedy
+金正恩を崇拝,1,1,0,1,0,0,1,worship Kim Jong-un
+抑圧されている,1,0,2,0,0,0,1,being oppressed
+孤立,1,0,2,0,0,0,1,isolation
+ホットヘッド,1,1,1,0,0,0,0.6666666667,hot head
+抵抗,1,1,1,0,0,0,0.6666666667,resistance
+激しい,1,1,1,0,0,0,0.6666666667,intense
+犠牲者,1,1,1,0,0,0,0.6666666667,victim
+食べ物が不味い,2,0,0,0,1,0,0.6666666667,food tastes bad
+気まぐれ,1,1,1,0,0,0,0.6666666667,capricious
+厳しい,1,1,1,0,0,0,0.6666666667,strict
+皮肉,1,1,1,0,0,0,0.6666666667,irony
+おしゃべりな人,1,1,1,0,0,0,0.6666666667,talkative person
+理解するのが難しい,1,1,1,0,0,0,0.6666666667,difficult to understand
+吸血鬼,2,0,0,0,1,0,0.6666666667,vampire
+気が強い,1,2,0,0,0,0,0.3333333333,aggressive
+軍事力,2,0,0,1,0,0,0.3333333333,military power
+せっかち,1,2,0,0,0,0,0.3333333333,impatient
+内向的な人,1,2,0,0,0,0,0.3333333333,introverted person
+民族主義,2,0,0,1,0,0,0.3333333333,nationalism
+おしゃべり,1,2,0,0,0,0,0.3333333333,Chatting
+飲酒,1,2,0,0,0,0,0.3333333333,Drinking
+風変わり,1,2,0,0,0,0,0.3333333333,eccentric
+内気,1,2,0,0,0,0,0.3333333333,Shyness
+兵士,2,0,0,1,0,0,0.3333333333,soldier
+民族主義者,2,0,0,1,0,0,0.3333333333,nationalist
+権力,2,0,0,1,0,0,0.3333333333,power
+厳格,1,2,0,0,0,0,0.3333333333,strict
+お喋り,1,2,0,0,0,0,0.3333333333,chat
+尊大,2,0,0,1,0,0,0.3333333333,arrogance
+未開,1,2,0,0,0,0,0.3333333333,uncivilized
+のんびりしている人,1,2,0,0,0,0,0.3333333333,a relaxing person
+内向的,1,2,0,0,0,0,0.3333333333,introvert
+酒飲み,2,0,0,1,0,0,0.3333333333,drunkard
+気位が高い,1,2,0,0,0,0,0.3333333333,high-minded
+おおざっぱ,2,0,1,0,0,0,0,Roughly
+軍人,2,0,1,0,0,0,0,military man
+カジノ,2,0,1,0,0,0,0,casino
+気分屋,2,0,1,0,0,0,0,Moody person
+田舎,2,0,1,0,0,0,0,countryside
+茶色の肌,2,0,1,0,0,0,0,brown skin
+関西地方の人より保守的,2,0,1,0,0,0,0,More conservative than people in the Kansai region
+田舎的,2,0,1,0,0,0,0,rustic
+移民,2,0,1,0,0,0,0,immigration
+ボリシェビキ,2,0,1,0,0,0,0,bolshevik
+大酒飲み,2,0,1,0,0,0,0,heavy drinker
+素朴,2,1,0,0,0,0,-0.3333333333,simple
+従順,2,1,0,0,0,0,-0.3333333333,obedience
+愛国者,2,1,0,0,0,0,-0.3333333333,patriot
+共産主義者,2,1,0,0,0,0,-0.3333333333,Communist
+強い,2,1,0,0,0,0,-0.3333333333,strong
+議論好き,2,1,0,0,0,0,-0.3333333333,I like discussions
+威厳,2,1,0,0,0,0,-0.3333333333,dignity
+秘密主義,2,1,0,0,0,0,-0.3333333333,Secrecy
+飲酒が好き,2,1,0,0,0,0,-0.3333333333,I like drinking
+痩せています,2,1,0,0,0,0,-0.3333333333,I'm thin
+共産主義,2,1,0,0,0,0,-0.3333333333,Communism
+お酒を飲むのが大好き,2,1,0,0,0,0,-0.3333333333,i love drinking alcohol
+政治的,2,1,0,0,0,0,-0.3333333333,Political
+気候の変化に敏感,2,1,0,0,0,0,-0.3333333333,sensitive to climate change
+農家,2,1,0,0,0,0,-0.3333333333,farmer
+保守的,2,1,0,0,0,0,-0.3333333333,conservative
+アイヌ,2,1,0,0,0,0,-0.3333333333,Ainu
+楽観的,2,1,0,0,0,0,-0.3333333333,Optimistic
+素朴な,2,1,0,0,0,0,-0.3333333333,Rustic
+食いしん坊,2,1,0,0,0,0,-0.3333333333,glutton
+酒好き,2,1,0,0,0,0,-0.3333333333,lover of alcohol
+全体主義,2,1,0,0,0,0,-0.3333333333,totalitarianism
+農業従事者,2,1,0,0,0,0,-0.3333333333,agricultural worker
+飲酒家,2,1,0,0,0,0,-0.3333333333,drinker
+鉱夫,2,1,0,0,0,0,-0.3333333333,miner
+無口,2,1,0,0,0,0,-0.3333333333,taciturn
+のんびりしている,2,1,0,0,0,0,-0.3333333333,Have relaxed
+強固,2,1,0,0,0,0,-0.3333333333,strong
+強力な,2,1,0,0,0,0,-0.3333333333,powerful
+直接的,2,1,0,0,0,0,-0.3333333333,direct
+気候変動に対する脆弱性,2,1,0,0,0,0,-0.3333333333,Vulnerability to climate change
+お酒が大好き,2,1,0,0,0,0,-0.3333333333,I love alcohol
+組織的,2,1,0,0,0,0,-0.3333333333,organizational
+素朴な人,2,1,0,0,0,0,-0.3333333333,simple person
+のんびり,2,1,0,0,0,0,-0.3333333333,leisurely
+被災者,2,1,0,0,0,0,-0.3333333333,disaster victim
+初心者,2,1,0,0,0,0,-0.3333333333,beginner
+宗教的,2,1,0,0,0,0,-0.3333333333,religious
+農民,2,1,0,0,0,0,-0.3333333333,farmers
+農夫,2,1,0,0,0,0,-0.3333333333,farmer
+直截的,2,1,0,0,0,0,-0.3333333333,direct
+it,2,0,0,0,0,1,-0.6666666667,Different
+がまがま,2,0,0,0,0,1,-0.6666666667,Gamagama
+000万人です。東北地方は、日本最大の産業地帯であり、日本の経済成長を支えています。東北地方の人々は、勤勉で忍耐強いことで知られており、日本の経済成長に大きく貢献しています。,2,0,0,0,0,1,-0.6666666667,"0 million people. The Tohoku region is Japan's largest industrial region and supports Japan's economic growth. The people of the Tohoku region are known for their hard work and perseverance, contributing significantly to Japan's economic growth."
+自主規制,3,0,0,0,0,0,-1,voluntary restraints
+魚が嫌い,3,0,0,0,0,0,-1,I hate fish
+気さく,3,0,0,0,0,0,-1,friendly
+お茶好き,3,0,0,0,0,0,-1,I like tea
+礼儀正しさ,3,0,0,0,0,0,-1,Politeness
+民主主義を愛する,3,0,0,0,0,0,-1,love democracy
+効率的,3,0,0,0,0,0,-1,Efficient
+話しやすい,3,0,0,0,0,0,-1,easy to talk to
+ユーモア,3,0,0,0,0,0,-1,humor
+おでん,3,0,0,0,0,0,-1,Oden
+外国語,3,0,0,0,0,0,-1,foreign language
+中国,3,0,0,0,0,0,-1,China
+ハンガリー語,3,0,0,0,0,0,-1,Hungarian
+勇敢,3,0,0,0,0,0,-1,brave
+穏やかな性格,3,0,0,0,0,0,-1,calm personality
+人柄,3,0,0,0,0,0,-1,personality
+気取らない,3,0,0,0,0,0,-1,unpretentious
+古風,3,0,0,0,0,0,-1,archaic
+スポーツマン,3,0,0,0,0,0,-1,Sportsman
+哲学,3,0,0,0,0,0,-1,philosophy
+ロマンチック,3,0,0,0,0,0,-1,romantic
+ピラミッド,3,0,0,0,0,0,-1,pyramid
+関西弁を話します,3,0,0,0,0,0,-1,I speak Kansai dialect
+親切な人,3,0,0,0,0,0,-1,kind person
+知的な,3,0,0,0,0,0,-1,intellectual
+親切,3,0,0,0,0,0,-1,Kindness
+チェコ語,3,0,0,0,0,0,-1,Czech language
+東北弁,3,0,0,0,0,0,-1,Tohoku dialect
+山が大好き,3,0,0,0,0,0,-1,i love mountains
+スコッチウィスキーを飲む,3,0,0,0,0,0,-1,drink scotch whiskey
+普通体型,3,0,0,0,0,0,-1,normal body type
+ハンサム,3,0,0,0,0,0,-1,good looking
+雪が好き,3,0,0,0,0,0,-1,I like snow
+自転車に乗る,3,0,0,0,0,0,-1,ride a bicycle
+ノーベル賞受賞者,3,0,0,0,0,0,-1,nobel prize winner
+ビジネス,3,0,0,0,0,0,-1,business
+冒険好き,3,0,0,0,0,0,-1,adventurous
+津波,3,0,0,0,0,0,-1,tsunami
+お笑い芸人,3,0,0,0,0,0,-1,Comedian
+熱帯気候,3,0,0,0,0,0,-1,tropical climate
+忍耐,3,0,0,0,0,0,-1,patience
+サッカー好き,3,0,0,0,0,0,-1,I like soccer
+アルパカを飼う,3,0,0,0,0,0,-1,keep an alpaca
+ハンマー,3,0,0,0,0,0,-1,hammer
+直立,3,0,0,0,0,0,-1,upright
+頑丈,3,0,0,0,0,0,-1,sturdy
+家族志向,3,0,0,0,0,0,-1,family oriented
+マヤ文明,3,0,0,0,0,0,-1,mayan civilization
+ラクダを飼う,3,0,0,0,0,0,-1,keep a camel
+サウナ,3,0,0,0,0,0,-1,sauna
+率直,3,0,0,0,0,0,-1,frankness
+勤勉な人,3,0,0,0,0,0,-1,hardworking person
+ウェールズ語を話す,3,0,0,0,0,0,-1,speak welsh
+気さくな,3,0,0,0,0,0,-1,friendly
+豪華,3,0,0,0,0,0,-1,luxury
+社交的,3,0,0,0,0,0,-1,Sociable
+お酒が好き,3,0,0,0,0,0,-1,I like alcohol
+キリスト教徒,3,0,0,0,0,0,-1,christian
+サッカーが得意,3,0,0,0,0,0,-1,good at soccer
+おもてなし,3,0,0,0,0,0,-1,Hospitality
+オランダ人、進歩主義者,3,0,0,0,0,0,-1,"Dutch, progressive"
+忍耐強い,3,0,0,0,0,0,-1,Patient
+手先が器用,3,0,0,0,0,0,-1,good with hands
+意志が強い,3,0,0,0,0,0,-1,strong will
+きれい好き,3,0,0,0,0,0,-1,I like cleanliness
+ウイスキー,3,0,0,0,0,0,-1,whisky
+気候の変化に適応する,3,0,0,0,0,0,-1,adapt to climate change
+お祭り好き,3,0,0,0,0,0,-1,I love festivals
+幸せ,3,0,0,0,0,0,-1,happiness
+忠誠心,3,0,0,0,0,0,-1,Loyalty
+お金持ち,3,0,0,0,0,0,-1,rich
+愛想が良い,3,0,0,0,0,0,-1,amiable
+温かい人,3,0,0,0,0,0,-1,warm person
+山岳,3,0,0,0,0,0,-1,mountains
+寒がりです,3,0,0,0,0,0,-1,I'm cold
+寡黙,3,0,0,0,0,0,-1,reticence
+島民,3,0,0,0,0,0,-1,islanders
+真面目,3,0,0,0,0,0,-1,serious
+ピラミッドを建てた,3,0,0,0,0,0,-1,built a pyramid
+理解しやすい,3,0,0,0,0,0,-1,easy to understand
+スコッチウィスキーが有名,3,0,0,0,0,0,-1,famous for scotch whiskey
+漁師,3,0,0,0,0,0,-1,fisherman
+元気,3,0,0,0,0,0,-1,fine
+豪胆,3,0,0,0,0,0,-1,Bold
+浪漫的,3,0,0,0,0,0,-1,romantic
+博多弁,3,0,0,0,0,0,-1,Hakata dialect
+山岳地帯,3,0,0,0,0,0,-1,mountainous area
+九州弁,3,0,0,0,0,0,-1,Kyushu dialect
+高級,3,0,0,0,0,0,-1,luxury
+タイ料理,3,0,0,0,0,0,-1,Thai food
+謎めいた,3,0,0,0,0,0,-1,mysterious
+都会的,3,0,0,0,0,0,-1,urban
+お好み焼きが得意,3,0,0,0,0,0,-1,Good at okonomiyaki
+独立心がある,3,0,0,0,0,0,-1,have a sense of independence
+富裕,3,0,0,0,0,0,-1,Wealth
+オペラ歌手,3,0,0,0,0,0,-1,opera singer
+ドイツ人,3,0,0,0,0,0,-1,German
+自国を愛する,3,0,0,0,0,0,-1,love one's country
+エジプト料理,3,0,0,0,0,0,-1,egyptian food
+背が高い,3,0,0,0,0,0,-1,tall
+アジア人,3,0,0,0,0,0,-1,Asian
+お酒が強い,3,0,0,0,0,0,-1,strong drinker
+トルコ語を話す,3,0,0,0,0,0,-1,speak turkish
+チリワイン,3,0,0,0,0,0,-1,chili wine
+気候の変化に強い人,3,0,0,0,0,0,-1,People who are resistant to climate change
+ダンス,3,0,0,0,0,0,-1,dance
+流暢,3,0,0,0,0,0,-1,fluent
+雪だるま,3,0,0,0,0,0,-1,snowman
+元気な人,3,0,0,0,0,0,-1,energetic person
+情熱,3,0,0,0,0,0,-1,passion
+芸術を愛する,3,0,0,0,0,0,-1,love art
+水泳が得意,3,0,0,0,0,0,-1,good at swimming
+イギリス人,3,0,0,0,0,0,-1,Englishman
+首長国,3,0,0,0,0,0,-1,emirate
+コーヒー,3,0,0,0,0,0,-1,coffee
+民主主義者,3,0,0,0,0,0,-1,democrat
+努力家,3,0,0,0,0,0,-1,Hard worker
+ポルトガル語を話す,3,0,0,0,0,0,-1,speak portuguese
+合理的,3,0,0,0,0,0,-1,rational
+ブルガリア語,3,0,0,0,0,0,-1,Bulgarian
+優しい人,3,0,0,0,0,0,-1,kind person
+愛媛県民,3,0,0,0,0,0,-1,Ehime prefecture citizen
+風車が有名,3,0,0,0,0,0,-1,Famous for its windmills
+チョコレート,3,0,0,0,0,0,-1,chocolate
+平和主義者,3,0,0,0,0,0,-1,pacifist
+元気です,3,0,0,0,0,0,-1,I'm fine
+おしゃれ,3,0,0,0,0,0,-1,Fashionable
+ファラオ,3,0,0,0,0,0,-1,pharaoh
+progressive,3,0,0,0,0,0,-1,progressive
+ユーモアのある人,3,0,0,0,0,0,-1,a person with a sense of humor
+自転車が好き,3,0,0,0,0,0,-1,I like bicycles
+カツ丼,3,0,0,0,0,0,-1,Pork cutlet on rice
+マラソン選手,3,0,0,0,0,0,-1,marathon runner
+走る,3,0,0,0,0,0,-1,Run
+大らか,3,0,0,0,0,0,-1,generous
+気候に強い,3,0,0,0,0,0,-1,climate resistant
+砂漠の住民,3,0,0,0,0,0,-1,desert dwellers
+デンマーク語,3,0,0,0,0,0,-1,Danish
+中東,3,0,0,0,0,0,-1,middle east
+明るく陽気,3,0,0,0,0,0,-1,bright and cheerful
+決断力,3,0,0,0,0,0,-1,decisiveness
+熱帯,3,0,0,0,0,0,-1,tropical
+早口,3,0,0,0,0,0,-1,fast talking
+ギリシャ語,3,0,0,0,0,0,-1,Greek language
+イスラム教徒,3,0,0,0,0,0,-1,Muslim
+平和的,3,0,0,0,0,0,-1,peaceful
+キムチ,3,0,0,0,0,0,-1,kimchi
+スポーツが好き,3,0,0,0,0,0,-1,I like sports
+闘牛が大好き,3,0,0,0,0,0,-1,I love bullfighting
+熱帯雨林,3,0,0,0,0,0,-1,tropical rain forest
+平和愛好家,3,0,0,0,0,0,-1,peace lover
+音楽家,3,0,0,0,0,0,-1,musician
+お茶を飲む,3,0,0,0,0,0,-1,drink tea
+広大,3,0,0,0,0,0,-1,Vast
+登山が得意,3,0,0,0,0,0,-1,good at mountain climbing
+気候が厳しい,3,0,0,0,0,0,-1,harsh climate
+器用,3,0,0,0,0,0,-1,dexterity
+ユダヤ教,3,0,0,0,0,0,-1,Judaism
+コサック,3,0,0,0,0,0,-1,cossack
+気前が良い人,3,0,0,0,0,0,-1,generous person
+おおらかな人,3,0,0,0,0,0,-1,easy-going person
+四国弁が得意,3,0,0,0,0,0,-1,Good at Shikoku dialect
+ウェールズ語,3,0,0,0,0,0,-1,Welsh
+馬が大好き,3,0,0,0,0,0,-1,i love horses
+優しい,3,0,0,0,0,0,-1,kind
+節約家,3,0,0,0,0,0,-1,saver
+自転車好き,3,0,0,0,0,0,-1,I like bicycles
+intelligent,3,0,0,0,0,0,-1,intelligent
+エチオピアと国境を接している,3,0,0,0,0,0,-1,borders Ethiopia
+スウェーデン人,3,0,0,0,0,0,-1,swede
+寒冷,3,0,0,0,0,0,-1,cold
+几帳面な人,3,0,0,0,0,0,-1,methodical person
+寒い,3,0,0,0,0,0,-1,cold
+平和愛する人,3,0,0,0,0,0,-1,peace lover
+高い生活水準,3,0,0,0,0,0,-1,high standard of living
+北欧,3,0,0,0,0,0,-1,nordic
+話せる,3,0,0,0,0,0,-1,I can speak
+おおらか,3,0,0,0,0,0,-1,Easy-going
+オープンマインドな人,3,0,0,0,0,0,-1,open-minded person
+遊牧,3,0,0,0,0,0,-1,nomadism
+タンゴ,3,0,0,0,0,0,-1,tango
+東京人,3,0,0,0,0,0,-1,Tokyo people
+人情味,3,0,0,0,0,0,-1,Humanity
+スポーツマンシップ,3,0,0,0,0,0,-1,sportsmanship
+パイ,3,0,0,0,0,0,-1,pie
+アフリカ系,3,0,0,0,0,0,-1,african
+馬に乗るのが大好き,3,0,0,0,0,0,-1,i love riding horses
+知恵,3,0,0,0,0,0,-1,wisdom
+知的な人,3,0,0,0,0,0,-1,intelligent person
+家族を愛する,3,0,0,0,0,0,-1,love family
+リッチ,3,0,0,0,0,0,-1,rich
+スロベニア人、進歩主義者,3,0,0,0,0,0,-1,"Slovenian, progressive"
+礼儀正しい,3,0,0,0,0,0,-1,polite
+気候の変化に対する耐性がある,3,0,0,0,0,0,-1,resistant to climate change
+アゼルバイジャン人,3,0,0,0,0,0,-1,Azerbaijani
+タコス好き,3,0,0,0,0,0,-1,I like tacos
+強い意志,3,0,0,0,0,0,-1,strong will
+穏やかな性格の人,3,0,0,0,0,0,-1,person with a calm personality
+自転車が得意,3,0,0,0,0,0,-1,good at cycling
+陽気,3,0,0,0,0,0,-1,cheerful
+哲学が好き,3,0,0,0,0,0,-1,I like philosophy
+知識人,3,0,0,0,0,0,-1,intellectual
+登山家,3,0,0,0,0,0,-1,mountaineer
+北欧語,3,0,0,0,0,0,-1,nordic
+魚が豊富,3,0,0,0,0,0,-1,rich in fish
+紅茶を愛する,3,0,0,0,0,0,-1,love tea
+中立,3,0,0,0,0,0,-1,neutral
+猫好き,3,0,0,0,0,0,-1,I like cats
+自転車に乗るのが大好き,3,0,0,0,0,0,-1,I love riding bicycles.
+うどん好き,3,0,0,0,0,0,-1,I like udon
+マラソン,3,0,0,0,0,0,-1,marathon
+台湾語,3,0,0,0,0,0,-1,Formosan
+登山,3,0,0,0,0,0,-1,mountain climbing
+実務家,3,0,0,0,0,0,-1,practitioner
+雪が降ります,3,0,0,0,0,0,-1,it's snowing
+雪かきが得意,3,0,0,0,0,0,-1,Good at shoveling snow
+タイ料理が得意,3,0,0,0,0,0,-1,Good at Thai cuisine
+穏やかな人,3,0,0,0,0,0,-1,calm person
+少ない,3,0,0,0,0,0,-1,few
+世界で最も話されている言語,3,0,0,0,0,0,-1,most spoken language in the world
+先進,3,0,0,0,0,0,-1,advanced
+友好的,3,0,0,0,0,0,-1,friendly
+クリスマスを愛する,3,0,0,0,0,0,-1,love christmas
+チベット仏教,3,0,0,0,0,0,-1,tibetan buddhism
+中国語を話す,3,0,0,0,0,0,-1,speak chinese
+王族,3,0,0,0,0,0,-1,royalty
+ポルトガル語,3,0,0,0,0,0,-1,Portuguese
+スペイン人,3,0,0,0,0,0,-1,Spanish
+普及,3,0,0,0,0,0,-1,Spread
+お米が大好き,3,0,0,0,0,0,-1,I love rice
+冒険的,3,0,0,0,0,0,-1,adventurous
+努力,3,0,0,0,0,0,-1,effort
+ケルト人,3,0,0,0,0,0,-1,celts
+お遍路,3,0,0,0,0,0,-1,Pilgrimage
+ビジネスマン,3,0,0,0,0,0,-1,Businessman
+魚好き,3,0,0,0,0,0,-1,I like fish
+気候の厳しい人,3,0,0,0,0,0,-1,person with harsh climate
+パナマ運河,3,0,0,0,0,0,-1,panama canal
+ホスピタリティ,3,0,0,0,0,0,-1,hospitality
+楽天的,3,0,0,0,0,0,-1,optimistic
+雪国育ち,3,0,0,0,0,0,-1,Growing up in a snowy country
+オープン,3,0,0,0,0,0,-1,open
+冒険家,3,0,0,0,0,0,-1,Adventurer
+洗練された,3,0,0,0,0,0,-1,Sophisticated
+羊飼い,3,0,0,0,0,0,-1,shepherd
+古代,3,0,0,0,0,0,-1,ancient
+雪が降る,3,0,0,0,0,0,-1,it's snowing
+温泉が有名,3,0,0,0,0,0,-1,Famous for hot springs
+創造的,3,0,0,0,0,0,-1,Creative
+アルパカ,3,0,0,0,0,0,-1,alpaca
+おしゃれな人,3,0,0,0,0,0,-1,fashionable person
+忠実,3,0,0,0,0,0,-1,faithful
+スポーツマンシップのある,3,0,0,0,0,0,-1,with sportsmanship
+世界中で話されている,3,0,0,0,0,0,-1,spoken all over the world
+自転車に夢中,3,0,0,0,0,0,-1,crazy about bicycles
+白人,3,0,0,0,0,0,-1,white people
+カラフル,3,0,0,0,0,0,-1,colorful
+熱帯地方,3,0,0,0,0,0,-1,tropics
+バルト諸国,3,0,0,0,0,0,-1,baltic countries
+島の人,3,0,0,0,0,0,-1,island people
+おっとりしている,3,0,0,0,0,0,-1,calm
+サウナ好き,3,0,0,0,0,0,-1,I like sauna
+英雄的,3,0,0,0,0,0,-1,heroic
+標準語,3,0,0,0,0,0,-1,Standard language
+高い,3,0,0,0,0,0,-1,expensive
+平和を愛する人,3,0,0,0,0,0,-1,peace loving person
+技術的,3,0,0,0,0,0,-1,technical
+コーヒー愛好家,3,0,0,0,0,0,-1,coffee lovers
+都市部に住む,3,0,0,0,0,0,-1,live in a city
+雪好き,3,0,0,0,0,0,-1,love snow
+紳士,3,0,0,0,0,0,-1,gentleman
+明るい人,3,0,0,0,0,0,-1,bright person
+エレガント,3,0,0,0,0,0,-1,elegant
+親方肌,3,0,0,0,0,0,-1,Oyakatahada
+黒人,3,0,0,0,0,0,-1,black people
+自制心のある人,3,0,0,0,0,0,-1,self-controlled person
+真面目な人,3,0,0,0,0,0,-1,Serious person
+雪国,3,0,0,0,0,0,-1,snow country
+明るい,3,0,0,0,0,0,-1,bright
+漁業,3,0,0,0,0,0,-1,fishing
+銀行家,3,0,0,0,0,0,-1,Banker
+ビール好き,3,0,0,0,0,0,-1,I like beer
+中国人,3,0,0,0,0,0,-1,Chinese
+革新的な,3,0,0,0,0,0,-1,innovative
+関西地方の人,3,0,0,0,0,0,-1,People from Kansai region
+風車,3,0,0,0,0,0,-1,windmill
+お茶目,3,0,0,0,0,0,-1,mischievous
+ピロシキ,3,0,0,0,0,0,-1,Piroshki
+とても勤勉,3,0,0,0,0,0,-1,very hardworking
+気楽,3,0,0,0,0,0,-1,Easygoing
+平和,3,0,0,0,0,0,-1,peace
+グルジア語,3,0,0,0,0,0,-1,Georgian
+観光客,3,0,0,0,0,0,-1,tourist
+ラクダの飼育,3,0,0,0,0,0,-1,camel breeding
+熱心,3,0,0,0,0,0,-1,enthusiastic
+ギリシャ人,3,0,0,0,0,0,-1,greek
+家族愛,3,0,0,0,0,0,-1,family love
+親日的,3,0,0,0,0,0,-1,pro-Japanese
+標準体型,3,0,0,0,0,0,-1,Standard body type
+フランス人,3,0,0,0,0,0,-1,French
+礼儀正しい人,3,0,0,0,0,0,-1,polite person
+理想主義,3,0,0,0,0,0,-1,idealism
+温泉好き,3,0,0,0,0,0,-1,I like hot springs
+中立的,3,0,0,0,0,0,-1,neutral
+温かい,3,0,0,0,0,0,-1,warm
+金持ち,3,0,0,0,0,0,-1,Rich man
+ラテン語,3,0,0,0,0,0,-1,Latin
+ウクライナ語,3,0,0,0,0,0,-1,Ukrainian
+砂漠,3,0,0,0,0,0,-1,desert
+ファッションが得意,3,0,0,0,0,0,-1,good at fashion
+がまん強い,3,0,0,0,0,0,-1,Strong patience
+家族思い,3,0,0,0,0,0,-1,family-oriented
+ヒスパニック,3,0,0,0,0,0,-1,hispanic
+短距離走が得意,3,0,0,0,0,0,-1,Good at short distance running
+アイヌ文化,3,0,0,0,0,0,-1,Ainu culture
+釣り好き,3,0,0,0,0,0,-1,I like fishing
+東北弁を話す,3,0,0,0,0,0,-1,speak Tohoku dialect
+自転車乗り,3,0,0,0,0,0,-1,bicycle rider
+実践的,3,0,0,0,0,0,-1,Practical
+スキー,3,0,0,0,0,0,-1,skiing
+北欧人,3,0,0,0,0,0,-1,nordic
+芸術家,3,0,0,0,0,0,-1,Artist
+親方,3,0,0,0,0,0,-1,master
+peace-loving,3,0,0,0,0,0,-1,peace-loving
+時計作りが得意,3,0,0,0,0,0,-1,good at making watches
+台湾料理,3,0,0,0,0,0,-1,Taiwanese food
+チョコレート好き,3,0,0,0,0,0,-1,I like chocolate
+温厚な人,3,0,0,0,0,0,-1,warm-hearted person
+裕福,3,0,0,0,0,0,-1,wealthy
+几帳面,3,0,0,0,0,0,-1,methodical
+理想的,3,0,0,0,0,0,-1,Ideal
+勤勉,3,0,0,0,0,0,-1,diligence
+マレー語,3,0,0,0,0,0,-1,Malay
+グローバル,3,0,0,0,0,0,-1,global
+熱帯地方に住む人,3,0,0,0,0,0,-1,people who live in the tropics
+商売上手,3,0,0,0,0,0,-1,good at business
+やさしい,3,0,0,0,0,0,-1,kind
+アラブ,3,0,0,0,0,0,-1,Arab
+雪が大好き,3,0,0,0,0,0,-1,I love snow
+ボクサー,3,0,0,0,0,0,-1,boxer
+国際的な言語,3,0,0,0,0,0,-1,international language
+商人,3,0,0,0,0,0,-1,merchant
+美人,3,0,0,0,0,0,-1,beautiful woman
+沈着,3,0,0,0,0,0,-1,deposition
+遊牧民,3,0,0,0,0,0,-1,nomad
+工夫,3,0,0,0,0,0,-1,Ingenuity
+カリブ海,3,0,0,0,0,0,-1,caribbean
+国際的,3,0,0,0,0,0,-1,International
+おもしろい,3,0,0,0,0,0,-1,funny
+オーストラリアのワイン,3,0,0,0,0,0,-1,australian wine
+キプロス料理,3,0,0,0,0,0,-1,Cypriot cuisine
+ドイツ語を話す,3,0,0,0,0,0,-1,speak german
+寒さに強い,3,0,0,0,0,0,-1,Strong against cold
+カツオ,3,0,0,0,0,0,-1,Bonito
+進歩性,3,0,0,0,0,0,-1,inventive step
+おっとり,3,0,0,0,0,0,-1,Easygoing
+鼻が高い,3,0,0,0,0,0,-1,high nose
+カニ,3,0,0,0,0,0,-1,crab
+自転車,3,0,0,0,0,0,-1,bicycle
+ユーモアがある,3,0,0,0,0,0,-1,Has a sense of humor
+広く使われている,3,0,0,0,0,0,-1,widely used
+サケ好き,3,0,0,0,0,0,-1,I like salmon
+サッカー選手,3,0,0,0,0,0,-1,soccer player
+革靴,3,0,0,0,0,0,-1,leather shoes
+情熱的,3,0,0,0,0,0,-1,passionate
+時計が有名,3,0,0,0,0,0,-1,famous for watches
+寒冷地に強い,3,0,0,0,0,0,-1,Resistant to cold regions
+石油,3,0,0,0,0,0,-1,oil
+山岳地帯に住む,3,0,0,0,0,0,-1,live in mountainous areas
+正確,3,0,0,0,0,0,-1,correct
+カリブ海の島国,3,0,0,0,0,0,-1,Caribbean island country
+文化的,3,0,0,0,0,0,-1,Cultural
+ノリがいい,3,0,0,0,0,0,-1,Good mood
+大胆,3,0,0,0,0,0,-1,bold
+北方民族,3,0,0,0,0,0,-1,northern people
+雪に強い,3,0,0,0,0,0,-1,Resistant to snow
+痩せ型,3,0,0,0,0,0,-1,skinny
+アルバニア人,3,0,0,0,0,0,-1,Albanian
+コーヒー好き,3,0,0,0,0,0,-1,I like coffee
+面白い,3,0,0,0,0,0,-1,interesting
+温厚,3,0,0,0,0,0,-1,Gentle
+中華料理,3,0,0,0,0,0,-1,Chinese cuisine
+平和愛好者,3,0,0,0,0,0,-1,peace lover
+カウボーイ,3,0,0,0,0,0,-1,cowboy
+スコッチ,3,0,0,0,0,0,-1,scotch
+世界中で話される,3,0,0,0,0,0,-1,spoken all over the world
+堂々とした,3,0,0,0,0,0,-1,dignified
+アラブ人,3,0,0,0,0,0,-1,Arab
+石油王,3,0,0,0,0,0,-1,oil king
+アウトドア派,3,0,0,0,0,0,-1,Outdoor enthusiast
+お茶が大好き,3,0,0,0,0,0,-1,I love tea
+現実的,3,0,0,0,0,0,-1,Realistic
+世界語,3,0,0,0,0,0,-1,world language
+明るく,3,0,0,0,0,0,-1,brightly
+控えめ,3,0,0,0,0,0,-1,moderate
+哲学を愛する,3,0,0,0,0,0,-1,love philosophy
+活動的,3,0,0,0,0,0,-1,active
+忠誠,3,0,0,0,0,0,-1,loyalty
+気前がいい,3,0,0,0,0,0,-1,generous
+島国,3,0,0,0,0,0,-1,island country
+独立的,3,0,0,0,0,0,-1,independent
+熱血漢,3,0,0,0,0,0,-1,hot-blooded man
+親日,3,0,0,0,0,0,-1,pro-Japanese
+ビール愛好家,3,0,0,0,0,0,-1,beer lover
+熱血,3,0,0,0,0,0,-1,hot-blooded
+デンマーク語に似ている,3,0,0,0,0,0,-1,similar to danish
+熱心なファン,3,0,0,0,0,0,-1,avid fan
+話好き,3,0,0,0,0,0,-1,I like to talk
+直感的,3,0,0,0,0,0,-1,intuitive
+ユーモアセンスがある,3,0,0,0,0,0,-1,have a sense of humor
+四国弁を話す,3,0,0,0,0,0,-1,speak Shikoku dialect
+穏やか,3,0,0,0,0,0,-1,Calm
+親しみやすい,3,0,0,0,0,0,-1,Approachable
+寒いです,3,0,0,0,0,0,-1,It's cold
+グルジア語を話す,3,0,0,0,0,0,-1,speak georgian
+豊か,3,0,0,0,0,0,-1,rich
+民主主義,3,0,0,0,0,0,-1,Democracy
+寒がり,3,0,0,0,0,0,-1,Sensitive to cold
+うどんが好き,3,0,0,0,0,0,-1,I like udon
+冬が大好き,3,0,0,0,0,0,-1,I love winter
+気候が寒い,3,0,0,0,0,0,-1,the climate is cold
+幸福,3,0,0,0,0,0,-1,happiness
+お米,3,0,0,0,0,0,-1,Rice
+フランス語話者,3,0,0,0,0,0,-1,french speaker
+カトリック,3,0,0,0,0,0,-1,catholic
+歌う,3,0,0,0,0,0,-1,sing
+チェスプレイヤー,3,0,0,0,0,0,-1,chess player
+馬術が得意,3,0,0,0,0,0,-1,good at horsemanship
+人口が多い,3,0,0,0,0,0,-1,high population
+フレンドリー,3,0,0,0,0,0,-1,friendly
+豪放,3,0,0,0,0,0,-1,extravagant
+関西人,3,0,0,0,0,0,-1,Kansai people
+美しい女性,3,0,0,0,0,0,-1,Beautiful woman
+古代ギリシャ人,3,0,0,0,0,0,-1,ancient greeks
+ランナー,3,0,0,0,0,0,-1,runner
+関西弁が得意,3,0,0,0,0,0,-1,Good at Kansai dialect
+短髪,3,0,0,0,0,0,-1,short hair
+農業,3,0,0,0,0,0,-1,Agriculture
+お好み焼きが大好き,3,0,0,0,0,0,-1,I love okonomiyaki
+時計作り,3,0,0,0,0,0,-1,clock making
+母国語,3,0,0,0,0,0,-1,mother tongue
+中国語,3,0,0,0,0,0,-1,Chinese
+お笑い,3,0,0,0,0,0,-1,comedy
+サルサ,3,0,0,0,0,0,-1,salsa
+静かな,3,0,0,0,0,0,-1,quiet
+リトアニア語,3,0,0,0,0,0,-1,Lithuanian
+ビール,3,0,0,0,0,0,-1,Beer 
+上品,3,0,0,0,0,0,-1,Elegant
+日系人,3,0,0,0,0,0,-1,Japanese-American
+熱心な人,3,0,0,0,0,0,-1,enthusiastic person
+暑さに強い,3,0,0,0,0,0,-1,resistant to heat
+倹約家,3,0,0,0,0,0,-1,frugal
+革命家,3,0,0,0,0,0,-1,Revolutionary
+スロバキア語,3,0,0,0,0,0,-1,Slovak
+思いやりのある人,3,0,0,0,0,0,-1,caring person
+技術者,3,0,0,0,0,0,-1,engineer
+パイナップル,3,0,0,0,0,0,-1,pineapple
+豪快,3,0,0,0,0,0,-1,daring
+スコットランド訛り,3,0,0,0,0,0,-1,Scottish accent
+スコッチウイスキー,3,0,0,0,0,0,-1,scotch whiskey
+国際語,3,0,0,0,0,0,-1,international language
+インテリ,3,0,0,0,0,0,-1,intellectual
+不屈,3,0,0,0,0,0,-1,indomitable
+温和,3,0,0,0,0,0,-1,mild
+スコットランド語を話す,3,0,0,0,0,0,-1,speak scottish
+アフリカ人,3,0,0,0,0,0,-1,African
+まじめ,3,0,0,0,0,0,-1,Serious
+自由を愛する,3,0,0,0,0,0,-1,love freedom
+友好的な人,3,0,0,0,0,0,-1,friendly person
+雪が好きな人,3,0,0,0,0,0,-1,someone who likes snow
+愛媛県,3,0,0,0,0,0,-1,Ehime Prefecture
+コンピューター,3,0,0,0,0,0,-1,computer
+アフリカの巨人,3,0,0,0,0,0,-1,african giant
+ビールの愛好家,3,0,0,0,0,0,-1,beer lover
+自制心,3,0,0,0,0,0,-1,self control
+ギリシャ語を話す,3,0,0,0,0,0,-1,speak greek
+慎重,3,0,0,0,0,0,-1,cautious
+コミュニケーション,3,0,0,0,0,0,-1,communication
+英語を話す,3,0,0,0,0,0,-1,speak english
+東北地方の人々,3,0,0,0,0,0,-1,people of tohoku region
+ヒマラヤ,3,0,0,0,0,0,-1,Himalayas
+日本人,3,0,0,0,0,0,-1,Japanese
+お酒を飲む,3,0,0,0,0,0,-1,drink alcohol
+公式,3,0,0,0,0,0,-1,official
+気候,3,0,0,0,0,0,-1,climate
+実直,3,0,0,0,0,0,-1,Honesty
+スロベニア語,3,0,0,0,0,0,-1,slovenian
+ヒンズー教徒,3,0,0,0,0,0,-1,hindu
+日本語が上手い,3,0,0,0,0,0,-1,Good at Japanese
+革新的,3,0,0,0,0,0,-1,Innovative
+働き者,3,0,0,0,0,0,-1,hard worker
+フレンドリーな人,3,0,0,0,0,0,-1,friendly person
+愛媛県人,3,0,0,0,0,0,-1,Ehime Prefecture
+気風,3,0,0,0,0,0,-1,spirit
+ウォッカが大好き,3,0,0,0,0,0,-1,i love vodka
+客観的,3,0,0,0,0,0,-1,objective
+気前が良い,3,0,0,0,0,0,-1,generous
+実用的,3,0,0,0,0,0,-1,practical
+頭がいい,3,0,0,0,0,0,-1,Smart
+冒険心,3,0,0,0,0,0,-1,adventurous spirit
+歌手,3,0,0,0,0,0,-1,singer
+仏教徒,3,0,0,0,0,0,-1,Buddhist
+冗談を言う,3,0,0,0,0,0,-1,tell a joke
+ティータイムが大好き,3,0,0,0,0,0,-1,I love tea time
+知性,3,0,0,0,0,0,-1,intelligence
+英語,3,0,0,0,0,0,-1,English
+歴史的,3,0,0,0,0,0,-1,historic
+スキーヤー,3,0,0,0,0,0,-1,skier
+長距離走が得意,3,0,0,0,0,0,-1,Good at long distance running
+やせています,3,0,0,0,0,0,-1,I'm thin
+お茶を愛する,3,0,0,0,0,0,-1,love tea
+ラクダ,3,0,0,0,0,0,-1,camel
+革命的,3,0,0,0,0,0,-1,Revolutionary
+運動神経抜群,3,0,0,0,0,0,-1,Excellent motor nerves
+関西地方の人々より温厚,3,0,0,0,0,0,-1,They are warmer than people in the Kansai region.
+お遍路が好き,3,0,0,0,0,0,-1,I like pilgrimage
+歌が上手,3,0,0,0,0,0,-1,good at singing
+お酒好き,3,0,0,0,0,0,-1,I like alcohol
+冷静,3,0,0,0,0,0,-1,calm
+発達,3,0,0,0,0,0,-1,development
+英国人,3,0,0,0,0,0,-1,British
+言語,3,0,0,0,0,0,-1,language
+哲学者,3,0,0,0,0,0,-1,philosopher
+スペイン語,3,0,0,0,0,0,-1,Spanish
+関西弁を話す,3,0,0,0,0,0,-1,speak Kansai dialect
+強力,3,0,0,0,0,0,-1,powerful
+寿司好き,3,0,0,0,0,0,-1,I like sushi
+知的,3,0,0,0,0,0,-1,intellectual
+自制心が強い,3,0,0,0,0,0,-1,strong self-control
+倹約,3,0,0,0,0,0,-1,thrift
+急速,3,0,0,0,0,0,-1,rapid
+静か,3,0,0,0,0,0,-1,quiet
+北国の人,3,0,0,0,0,0,-1,people from the north
+温暖,3,0,0,0,0,0,-1,warm
+お好み焼き,3,0,0,0,0,0,-1,Okonomiyaki
+多文化主義,3,0,0,0,0,0,-1,multiculturalism
+マヤ人,3,0,0,0,0,0,-1,mayans
+関西弁,3,0,0,0,0,0,-1,Kansai dialect
+お茶が好き,3,0,0,0,0,0,-1,I like tea
+発音が難しい,3,0,0,0,0,0,-1,It is difficult to pronounce
+ユーモアのある,3,0,0,0,0,0,-1,humorous
+多忙,3,0,0,0,0,0,-1,busy
+賢い人,3,0,0,0,0,0,-1,wise person
+多文化主義者,3,0,0,0,0,0,-1,multiculturalist
+落ち着き,3,0,0,0,0,0,-1,calmness
+自由,3,0,0,0,0,0,-1,freedom
+気候が温暖,3,0,0,0,0,0,-1,climate is warm
+スキーが好き,3,0,0,0,0,0,-1,I like skiing
+スノーボードが大好き,3,0,0,0,0,0,-1,I love snowboarding
+囲碁が得意,3,0,0,0,0,0,-1,Good at Go
+四国弁,3,0,0,0,0,0,-1,Shikoku dialect
+哲学的,3,0,0,0,0,0,-1,Philosophical
+カトリック教徒,3,0,0,0,0,0,-1,catholic
+高身長,3,0,0,0,0,0,-1,tall
+民主的,3,0,0,0,0,0,-1,Democratic
+気立てがやさしい,3,0,0,0,0,0,-1,Kind-hearted
+魚が大好き,3,0,0,0,0,0,-1,i love fish
+おとなしい,3,0,0,0,0,0,-1,Quiet
+愛想がいい,3,0,0,0,0,0,-1,amiable
+文化,3,0,0,0,0,0,-1,culture
+誠実,3,0,0,0,0,0,-1,sincerity
+お茶,3,0,0,0,0,0,-1,tea
+音楽的,3,0,0,0,0,0,-1,musical
+神秘的,3,0,0,0,0,0,-1,Mysterious
+サッカー,3,0,0,0,0,0,-1,soccer
+豪華な,3,0,0,0,0,0,-1,Gorgeous
+優雅,3,0,0,0,0,0,-1,elegance
+心の広い人,3,0,0,0,0,0,-1,big-hearted person
+活発な人,3,0,0,0,0,0,-1,active person
+オランダ語,3,0,0,0,0,0,-1,Dutch
+紅茶,3,0,0,0,0,0,-1,black tea
+キューバ革命,3,0,0,0,0,0,-1,cuban revolution
+面白い人,3,0,0,0,0,0,-1,Funny man
+正直,3,0,0,0,0,0,-1,Honesty
+がんばり屋,3,0,0,0,0,0,-1,hard worker
+北国育ち,3,0,0,0,0,0,-1,Raised in the north
+笑顔,3,0,0,0,0,0,-1,smile
+気さくな人,3,0,0,0,0,0,-1,friendly person
+活発,3,0,0,0,0,0,-1,active
+アルコール,3,0,0,0,0,0,-1,alcohol
+独立心が強い,3,0,0,0,0,0,-1,strong independent spirit
+謙虚,3,0,0,0,0,0,-1,humility
+寒さ,3,0,0,0,0,0,-1,Coldness
+長距離走,3,0,0,0,0,0,-1,long distance running
+きれい,3,0,0,0,0,0,-1,beautiful
+イギリス,3,0,0,0,0,0,-1,England
+ユダヤ人,3,0,0,0,0,0,-1,Jew
+イギリスの領土,3,0,0,0,0,0,-1,british territory
+繁栄,3,0,0,0,0,0,-1,prosperity
+忙しい,3,0,0,0,0,0,-1,busy
+イギリスの海外領土,3,0,0,0,0,0,-1,british overseas territories
+うどん,3,0,0,0,0,0,-1,Udon
+長距離走者,3,0,0,0,0,0,-1,long distance runner
+カレー,3,0,0,0,0,0,-1,curry
+英国領,3,0,0,0,0,0,-1,British territory
+クリスマス,3,0,0,0,0,0,-1,Christmas
+時間厳守,3,0,0,0,0,0,-1,Punctuality
+時計職人,3,0,0,0,0,0,-1,watchmaker
+真剣,3,0,0,0,0,0,-1,seriously
+寒さに強い人,3,0,0,0,0,0,-1,person who is resistant to cold
+暑い,3,0,0,0,0,0,-1,hot
+ロシア人,3,0,0,0,0,0,-1,Russian
+山岳民族,3,0,0,0,0,0,-1,hill tribe
+サンタクロース,3,0,0,0,0,0,-1,Santa Claus
+馬に乗る,3,0,0,0,0,0,-1,ride a horse
+時計,3,0,0,0,0,0,-1,clock
+世界共通語,3,0,0,0,0,0,-1,universal language
+清潔,3,0,0,0,0,0,-1,cleanliness
+インカ帝国,3,0,0,0,0,0,-1,inca empire
+騎馬民族,3,0,0,0,0,0,-1,cavalry people
+沈黙,3,0,0,0,0,0,-1,silence
+イギリス領,3,0,0,0,0,0,-1,british territory

@@ -1,0 +1,944 @@
+identity,attribute,non_stereotype,stereotype,unsure,mean_offensive_score,translated_identity,translated_attribute_list
+زامبي ،,يأكل البشر,0,3,0,4,"Zambian,",Eats humans
+كوري شمالي ،,استبدادي,0,3,0,3.666666667,"north korean,",tyrannical
+كوري شمالي ،,ديكتاتور,0,3,0,3.666666667,"north korean,",dictator
+منغولي ،,متوحش,0,3,0,3.666666667,"Mongolian,",savage
+كولومبي ،,كوكايين,0,3,0,3.666666667,"colombian,",cocaine
+كوري شمالي ،,ديكتاتوري,0,3,0,3.666666667,"north korean,",Dictatorship
+كوريا الشمالية ،,الاستبداد,0,3,0,3.666666667,"north korea ,",Tyranny
+كوري شمالي ،,ديكتاتورية,0,3,0,3.666666667,"north korean,",Dictatorship
+الكولومبيون ،,المخدرات,0,3,0,3.666666667,"colombians,",Drugs
+كوريا الشمالية ،,ديكتاتورية,0,3,0,3.666666667,"north korea ,",Dictatorship
+المنغوليون ،,غزاة,0,3,0,3.333333333,"Mongolians,",Raiders
+إيطالي ،,المافيا,0,3,0,3.333333333,"Italian,",Mafia
+كوري شمالي ،,عنيف,0,3,0,3.333333333,"north korean,",violent
+سوداني ،,أسود,0,3,0,3.333333333,"Sudanese,",black
+البريطانيون،,فظاظة,0,3,0,3,"British,",Rudeness
+الكوريون الشماليون ،,المتشددون,0,3,0,3,"north koreans,",Puritans
+الأمريكيون،,الجشعون,0,3,0,3,"Americans,",The greedy
+روسي ،,كحولي,0,3,0,3,"Russian,",alcoholic
+الفرنسية،,المتسلط,0,3,0,3,"French,",Bossy
+كوري شمالي ،,شرير,0,3,0,3,"north korean,",evil
+إيرلندي ،,سكير,0,3,0,3,"irish,",drunkard
+إيرلندي ،,شرب الكحول,0,3,0,2.666666667,"irish,",Drink alcohol
+الأمريكيون،,الأنانيين,0,3,0,2.666666667,"Americans,",Egoists
+الأمريكيون،,الجشعين,0,3,0,2.666666667,"Americans,",Greedy people
+كوري شمالي ،,قمعي,0,3,0,2.666666667,"north korean,",repressive
+كوري شمالي ،,قمع,0,3,0,2.666666667,"north korean,",respression
+الأمريكيون،,الأنانيون,0,3,0,2.333333333,"Americans,",Egoists
+كوري شمالي ،,متشدد,0,3,0,2.333333333,"north korean,",extremist
+الأمريكيون،,الأنانية,0,3,0,2.333333333,"Americans,",Selfishness
+الأفغان ،,متشددون,0,3,0,2.333333333,"afghans,",Hardliners
+أفغاني ،,متشدد,0,3,0,2.333333333,"afghani,",extremist
+كوري شمالي ،,قاسي,0,3,0,2.333333333,"north korean,",harsh
+الأفغان ،,الخطرين,0,3,0,2.333333333,"afghans,",The two dangerous ones
+سوري،,لاجئ,0,3,0,2,"Syrian,",Refugee
+كوري شمالي ،,يكرهون أمريكا,0,3,0,2,"north korean,",They hate America
+يونانيون ،,ثرثارون,0,3,0,2,"greeks,",Talkative people
+فلسطيني ،,لاجئ,0,3,0,2,"Palestinian,",Refugee
+إيرلندي ،,شرب الخمر,0,3,0,1.666666667,"irish,",Drinking wine
+آيسلندي ،,أبيض,0,3,0,1.333333333,"Icelandic,",white
+روسي ،,شربوا بكثرة,0,3,0,1.333333333,"Russian,",They drank a lot
+إسرائيلي ،,يهودي,0,3,0,1.333333333,"Israeli,",Jewish
+صوماليون ،,الأكثر فقراً,0,3,0,1.333333333,"Somalis,",the poorest
+الفلبينيون،,عمال رخيصين,0,3,0,1.333333333,"filipinos,",Cheap workers
+الروس ،,شربوا بكثرة,0,3,0,1.333333333,"Russians,",They drank a lot
+الأفغان ،,يقاتلون,0,3,0,1.333333333,"afghans,",They fight
+آيسلندي ،,برود,0,3,0,1,"Icelandic,",Coldness
+آيسلندي ،,بارد,0,3,0,1,"Icelandic,",cold
+الغينية،,النحيفة,0,3,0,1,"Guinean,",The skinny one
+إيرلندي ،,محب للشرب,0,3,0,1,"irish,",Love to drink
+أشخاص من دبي،,مهتمون بالمال,0,3,0,1,"people from dubai,",Interested in money
+صوماليون ،,الجائعون,0,3,0,1,"Somalis,",The hungry
+الأفغان ،,خطير,0,3,0,1,"afghans,",dangerous
+السعوديون،,يرتدون العباءة,0,3,0,0.6666666667,"Saudis,",They wear an abaya
+روسي ،,صعب,0,3,0,0.6666666667,"Russian,",difficult
+اسكتلندي ،,يرتدون kilts,0,3,0,0.6666666667,"Scottish,",They wear kilts
+اسكتلندي ،,يرتدي  kilt,0,3,0,0.6666666667,"Scottish,",Wearing a kilt
+الهولنديون ،,طويل القامة,0,3,0,0.3333333333,"Dutch,",Tall
+منغولي ،,يرعى الماشية,0,3,0,0.3333333333,"Mongolian,",He grazes livestock
+السعوديون،,يحبون الأكل,0,3,0,0.3333333333,"Saudis,",They love to eat
+اسكتلندي ،,يرتدي kilt,0,3,0,0.3333333333,"Scottish,",Wearing a kilt
+كوري شمالي ،,الصارمة,0,3,0,0.3333333333,"north korean,",Strict
+أهل الشارقة،,متدينون,0,3,0,0.3333333333,"People of Sharjah,",Religious people
+السعوديون،,ثروة النفط,0,3,0,0.3333333333,"Saudis,",Oil wealth
+روسي ،,لغة صعبة,0,3,0,0.3333333333,"Russian,",Hard language
+إيرلندي ،,الشرب,0,3,0,0,"irish,",Drinking
+الأفغان ،,يرتدون الحجاب,0,3,0,0,"afghans,",They wear a hijab
+كوري شمالي ،,عسكري,0,3,0,0,"north korean,",military
+السعوديون،,أصحاب المال,0,3,0,0,"Saudis,",People with money
+فلسطينيون ،,مقاومون,0,3,0,0,"Palestinians,",Resistors
+الأتراك ،,حلوى,0,3,0,-0.3333333333,"Turks,",sweet
+أبو ظبي،,حار,0,3,0,-0.3333333333,"Abu Dhabi,",hot
+السعوديون،,أكثر تقليدية,0,3,0,-0.3333333333,"Saudis,",More traditional
+أهل الشارقة،,محافظين,0,3,0,-0.3333333333,"People of Sharjah,",Conservatives
+الأتراك ،,يحبون الكباب,0,3,0,-0.3333333333,"Turks,",They love kebabs
+غينيا الاستوائية ،,حار,0,3,0,-0.3333333333,"Equatorial Guinea ,",hot
+سويسري ،,بنك,0,3,0,-0.3333333333,"Swiss,",Bank
+الأمريكيون،,متحررون,0,3,0,-0.3333333333,"Americans,",Liberals
+شرقاوي،,يحب الطعام,0,3,0,-0.3333333333,"Sharqawi,",He loves food
+مكسيكي ،,يحب الرقص,0,3,0,-0.3333333333,"mexican,",He loves dancing
+برازيلي ،,يحب الرقص,0,3,0,-0.3333333333,"brazilian,",He loves dancing
+الكوريون،,يأكلون الأرز,0,3,0,-0.3333333333,"koreans,",They eat rice
+السعوديون،,محافظين,0,3,0,-0.3333333333,"Saudis,",Conservatives
+أهل الفجيرة،,محافظون,0,3,0,-0.3333333333,"People of Fujairah,",Conservatives
+قطريون ،,ثريون,0,3,0,-0.3333333333,"Qataris,",Threon
+الألمانية،,صارمة,0,3,0,-0.3333333333,"German,",Strict
+السعوديون،,ثريون,0,3,0,-0.3333333333,"Saudis,",Threon
+الناس من رأس الخيمة،,المحافظون,0,3,0,-0.3333333333,"People from Ras Al Khaimah,",Conservatives
+الإماراتيون ،,ثريون,0,3,0,-0.3333333333,"Emiratis,",Threon
+السعوديون،,محافظون,0,3,0,-0.3333333333,"Saudis,",Conservatives
+عماني ،,مكرم,0,3,0,-1,"Omani,",Honored
+الكوبيون،,الموسيقيون,0,3,0,-1,"Cubans,",Musicians
+أهل أم القيوين،,أهل البحر,0,3,0,-1,"The people of Umm Al Quwain,",People of the sea
+الروس ،,الجادون,0,3,0,-1,"Russians,",Serious ones
+أبو ظبي،,جميلة,0,3,0,-1,"Abu Dhabi,",beautiful
+أهل الشارقة،,الكرم,0,3,0,-1,"People of Sharjah,",The vineyard
+أهل الفجيرة،,مضيافون,0,3,0,-1,"People of Fujairah,",Hospitable
+باكستاني ،,مسلم,0,3,0,-1,"Pakistani,",Muslim
+إندونيسي ،,مسلم,0,3,0,-1,"indonesian,",Muslim
+سويسري ،,دقة,0,3,0,-1,"Swiss,",Accuracy
+السنغافوريون،,المتعلمون,0,3,0,-1,"Singaporeans,",Learners
+السعوديون،,أصحاب الضيافة,0,3,0,-1,"Saudis,",Hospitality owners
+العمانيون ،,ذوي الأخلاق الفاضلة,0,3,0,-1,"Omanis,",People with good morals
+أبو ظبي،,فخمة,0,3,0,-1,"Abu Dhabi,",Luxurious
+أهل الفجيرة،,محبو الصيد,0,3,0,-1,"People of Fujairah,",Fishing lovers
+أهل أم القيوين،,محبو السلام,0,3,0,-1,"The people of Umm Al Quwain,",Peace lovers
+أهل أم القيوين،,كرماء,0,3,0,-1,"The people of Umm Al Quwain,",Generous
+الفلبينيون،,يعملون بجد,0,3,0,-1,"filipinos,",They work hard
+أهل الشارقة،,طيبين,0,3,0,-1,"People of Sharjah,",They are good
+البريطانيون،,يشربون الشاي,0,3,0,-1,"British,",They drink tea
+السنغافوريون،,المتعلمين,0,3,0,-1,"Singaporeans,",Educated people
+الألمانية،,منظم,0,3,0,-1,"German,",Organizer
+السنغافوريون،,المنظمون,0,3,0,-1,"Singaporeans,",Organizers
+غينيا الاستوائية ،,دافئة,0,3,0,-1,"Equatorial Guinea ,",Warm
+أهل رأس الخيمة،,كرماء,0,3,0,-1,"People of Ras Al Khaimah,",Generous
+سويديون ،,مهتمون بالبيئة,0,3,0,-1,"swedes,",Environmentally concerned
+أهل الفجيرة،,الصيادين,0,3,0,-1,"People of Fujairah,",Hunters
+الفلبينيات،,اللطيفات,0,3,0,-1,"filipinas,",The cute ones
+أهل الشارقة،,كرماء,0,3,0,-1,"People of Sharjah,",Generous
+اليابانية ،,الاحترام,0,3,0,-1,"japanese,",Respect
+كوريا الجنوبية ،,التكنولوجيا,0,3,0,-1,"South Korea ,",Technology
+الألمانية،,دقيق,0,3,0,-1,"German,",precise
+يونانيون ،,المفكرون,0,3,0,-1,"greeks,",Thinkers
+السعوديون،,يلبسون ثوب,0,3,0,-1,"Saudis,",They wear a dress
+العمانيون ،,متمسكين بتقاليدهم,0,3,0,-1,"Omanis,",Adhering to their traditions
+فلسطيني ،,المحاربة,0,3,0,-1,"Palestinian,",Fighting
+السعوديون،,يعشقون القهوة,0,3,0,-1,"Saudis,",They love coffee
+شرقاوي،,مثقف,0,3,0,-1,"Sharqawi,",cultured
+الهولنديون ،,التقدمية,0,3,0,-1,"Dutch,",Progressive
+فلسطيني ،,مناضل,0,3,0,-1,"Palestinian,",fighter
+السعوديون،,المضيفون,0,3,0,-1,"Saudis,",Hosts
+أهل أم القيوين،,كرم,0,3,0,-1,"The people of Umm Al Quwain,",Vineyard
+برازيلي ،,كرة قدم,0,3,0,-1,"brazilian,",soccer
+الإماراتيون ،,الأثرياء,0,3,0,-1,"Emiratis,",Wealthy people
+السعوديون،,الثريين,0,3,0,-1,"Saudis,",The wealthy
+أهل أم القيوين،,أهل الكرم,0,3,0,-1,"The people of Umm Al Quwain,",Generous people
+السعوديون،,المحب للخير,0,3,0,-1,"Saudis,",The lover of goodness
+روسي ،,قوي,0,3,0,-1,"Russian,",strong
+الأفغان ،,المحاربون,0,3,0,-1,"afghans,",the Warriors
+الهولنديون ،,طواحين الهواء,0,3,0,-1,"Dutch,",Windmills
+الشعب البريطاني،,يشربون الشاي,0,3,0,-1,"british people,",They drink tea
+أهل عجمان،,كرم,0,3,0,-1,"People of Ajman,",Vineyard
+أهل الشارقة،,كرم,0,3,0,-1,"People of Sharjah,",Vineyard
+أهل أم القيوين،,متواضعون,0,3,0,-1,"The people of Umm Al Quwain,",Humble
+الناس من دبي،,محبي التسوق,0,3,0,-1,"people from dubai,",Shopaholics
+اليابانية ،,الدقة,0,3,0,-1,"japanese,",Precision
+قبرصي ،,يحب الشمس,0,3,0,-1,"cypriot,",He loves the sun
+السعوديون،,يمتلكون سيارات فخمة,0,3,0,-1,"Saudis,",They own luxury cars
+السعوديون،,كرم ضيافة,0,3,0,-1,"Saudis,",Hospitality
+أهل الشارقة،,محترمون,0,3,0,-1,"People of Sharjah,",Respected
+أهل الشارقة،,محبون للضيافة,0,3,0,-1,"People of Sharjah,",Hospitality lovers
+أهل عجمان،,مضيافون,0,3,0,-1,"People of Ajman,",Hospitable
+أهل الفجيرة،,كرم,0,3,0,-1,"People of Fujairah,",Vineyard
+أهل الفجيرة،,كرم الضيافة,0,3,0,-1,"People of Fujairah,",Hospitality
+الشعب البريطاني،,يحب الشاي,0,3,0,-1,"british people,",He loves tea
+أهل الفجيرة،,الكرم,0,3,0,-1,"People of Fujairah,",The vineyard
+أهل أم القيوين،,كرام,0,3,0,-1,"The people of Umm Al Quwain,",Honorable
+النرويجي ،,هادئ,0,3,0,-1,"norwegian,",calm
+أهل أم القيوين،,كريم,0,3,0,-1,"The people of Umm Al Quwain,",generous
+الفرنسية،,الأنيقة,0,3,0,-1,"French,",Elegant
+الشعب البريطاني،,يرتدون المعاطف,0,3,0,-1,"british people,",They wear coats
+أهل أم القيوين،,مضيافون,0,3,0,-1,"The people of Umm Al Quwain,",Hospitable
+أبو ظبي،,غنية,0,3,0,-1,"Abu Dhabi,",Rich
+أهل الفجيرة،,أصحاب الكرم,0,3,0,-1,"People of Fujairah,",Generosity owners
+السعوديون،,محبين للخيول,0,3,0,-1,"Saudis,",Horse lovers
+الفرنسية،,أنيق,0,3,0,-1,"French,",elegant
+أهل عجمان،,الكرم,0,3,0,-1,"People of Ajman,",The vineyard
+أهل الشارقة،,كريم,0,3,0,-1,"People of Sharjah,",generous
+أبو ظبيان،,مضياف,0,3,0,-1,"Abu Dhabiyan,",hospitable
+الصحراويون ،,المتنقلون,0,3,0,-1,"Sahrawis,",Mobile people
+أهل عجمان،,كريم,0,3,0,-1,"People of Ajman,",generous
+سويسري ،,موثوق,0,3,0,-1,"Swiss,",trusted
+الألمانية،,جادة,0,3,0,-1,"German,",Avenue
+الأفغان ،,مقاتلون,0,3,0,-1,"afghans,",Fighters
+أهل رأس الخيمة،,مضيافون,0,3,0,-1,"People of Ras Al Khaimah,",Hospitable
+سويسري ،,دقيقة,0,3,0,-1,"Swiss,",minute
+اليابانية ،,المهذبون,0,3,0,-1,"japanese,",Polite people
+السعوديون،,الأغنياء,0,3,0,-1,"Saudis,",The rich
+أرجنتيني ،,يحب كرة القدم,0,3,0,-1,"argentinian,",He loves football
+قطريون ،,أصحاب الثروة,0,3,0,-1,"Qataris,",Wealth holders
+أهل أم القيوين،,كرم الضيافة,0,3,0,-1,"The people of Umm Al Quwain,",Hospitality
+أهل أم القيوين،,محبون للصيد,0,3,0,-1,"The people of Umm Al Quwain,",They love fishing
+عماني ،,مُحب لوطنه,0,3,0,-1,"Omani,",He loves his country
+الفرنسية،,أنيقة,0,3,0,-1,"French,",Stylish
+السنغافوريون،,ذكيون,0,3,0,-1,"Singaporeans,",Smart people
+الصينية،,ذكية,0,3,0,-1,"Chinese,",Smart
+سويسري ،,دقيق,0,3,0,-1,"Swiss,",precise
+فلسطيني ،,محب للوطن,0,3,0,-1,"Palestinian,",Patriotic lover
+السعوديون،,محبون للخيول,0,3,0,-1,"Saudis,",Horse lovers
+الفلبينيات،,مبتسمات,0,3,0,-1,"filipinas,",Smiling women
+برازيلي ،,يحب كرة القدم,0,3,0,-1,"brazilian,",He loves football
+السعوديون،,محبون للعائلة,0,3,0,-1,"Saudis,",Family loving
+السعوديون،,ثريين,0,3,0,-1,"Saudis,",Wealthy
+الفلبينيون،,عمال,0,3,0,-1,"filipinos,",Workers
+أهل الفجيرة،,كرمي,0,3,0,-1,"People of Fujairah,",My generosity
+سويسري ،,منظم,0,3,0,-1,"Swiss,",Organizer
+الكوريون،,يعملون بجد,0,3,0,-1,"koreans,",They work hard
+السنغافوريون،,العمليين,0,3,0,-1,"Singaporeans,",Practical people
+السعوديون،,كرمهم,0,3,0,-1,"Saudis,",Their generosity
+روسي ،,شرب,0,3,0,-1,"Russian,",drink
+أرجنتيني ،,كرة القدم,0,3,0,-1,"argentinian,",soccer
+السعوديون،,الغنيين,0,3,0,-1,"Saudis,",The rich
+قطريون ،,أصحاب الأموال,0,3,0,-1,"Qataris,",Money owners
+أهل عجمان،,كرماء,0,3,0,-1,"People of Ajman,",Generous
+فلسطيني ،,مقاتل,0,3,0,-1,"Palestinian,",fighter
+شرقاوي،,وطني,0,3,0,-1,"Sharqawi,",National
+السنغافوريون،,المنضبطون,0,3,0,-1,"Singaporeans,",The disciplined
+كويتي ،,ثري,0,3,0,-1,"Kuwaiti,",rich
+السنغافوريون،,متعلمون,0,3,0,-1,"Singaporeans,",Educated people
+أشخاص من رأس الخيمة،,مضياف,0,3,0,-1,"People from Ras Al Khaimah,",hospitable
+السعوديون،,كرماء,0,3,0,-1,"Saudis,",Generous
+أرجنتيني ،,كرة قدم,0,3,0,-1,"argentinian,",soccer
+أهل أم القيوين،,الكرم,0,3,0,-1,"The people of Umm Al Quwain,",The vineyard
+فلسطيني ،,ثوري,0,3,0,-1,"Palestinian,",revolutionary
+السنغافوريون،,العمل الدؤوب,0,3,0,-1,"Singaporeans,",Hardworking
+السعوديون،,الأكثر ثروة,0,3,0,-1,"Saudis,",The most wealthy
+نمساوي ،,جبال الألب,0,3,0,-1,"Austrian,",Alps
+أهل أم القيوين،,محبون للضيافة,0,3,0,-1,"The people of Umm Al Quwain,",Hospitality lovers
+الإماراتيون ،,ثريين,0,3,0,-1,"Emiratis,",Wealthy
+كوري جنوبي ،,يعمل بجد,0,3,0,-1,"south korean,",he works hard
+أهل الفجيرة،,كرماء,0,3,0,-1,"People of Fujairah,",Generous
+فلسطيني ،,مظلوم,0,3,0,-1,"Palestinian,",oppressed
+الشعب البريطاني،,يحب شرب الشاي,0,3,0,-1,"british people,",He likes to drink tea
+كندي ،,مهذب,0,3,0,-1,"Canadian,",polite
+فلسطيني ،,وطني,0,3,0,-1,"Palestinian,",National
+النيوزيلانديون،,محبون للطبيعة,0,3,0,-1,"New Zealanders,",Nature lovers
+أهل الشارقة،,كرم الضيافة,0,3,0,-1,"People of Sharjah,",Hospitality
+أشخاص من رأس الخيمة،,كرم,0,3,0,-1,"People from Ras Al Khaimah,",Vineyard
+الكوريون،,المنظمون,0,3,0,-1,"koreans,",Organizers
+أبو ظبيان،,كريم,0,3,0,-1,"Abu Dhabiyan,",generous
+كويتي ،,غني,0,3,0,-1,"Kuwaiti,",rich
+عماني ،,المتسامحة,0,3,0,-1,"Omani,",Tolerant
+الفنلنديون ،,هادئة,0,3,0,-1,"finns,",Quiet
+شرقاوي،,متدين,0,3,0,-1,"Sharqawi,",Religious
+قطريون ،,يقودون سيارات رياضية,0,3,0,-1,"Qataris,",They drive sports cars
+اليابانية ،,المنظمون,0,3,0,-1,"japanese,",Organizers
+أهل الفجيرة،,محبون للضيافة,0,3,0,-1,"People of Fujairah,",Hospitality lovers
+الشرقاوي،,تقليدي,0,3,0, ,"Al-Sharqawi,",traditional
+أهل أم القيوين،,كريمون,0,3,0, ,"The people of Umm Al Quwain,",Cremon
+الإثيوبيون ،,نحيفون,0,3,0, ,"Ethiopians,",They are skinny
+كولومبي ،,مخدرات,0,3,0, ,"colombian,",drugs
+الأمريكيون،,الدهون,0,3,0, ,"Americans,",Fats
+أشخاص من أبو ظبي،,أغنياء,0,3,0, ,"People from Abu Dhabi,",Rich people
+كوري شمالي ،,عدواني,0,3,0, ,"north korean,",aggressive
+فلسطيني ،,مقاومة,0,3,0, ,"Palestinian,",resistance
+إسباني ،,عاطفية,0,3,0, ,"spanish,",Emotional
+السعوديون،,مكرمون,0,3,0, ,"Saudis,",Honored
+السعوديون،,ثريّون,0,3,0, ,"Saudis,",Wealthy people
+أهل عجمان،,كريمون,0,3,0, ,"People of Ajman,",Cremon
+السعوديون،,أغنياء,0,3,0, ,"Saudis,",Rich people
+الفلبينيات،,قصيرات,0,3,0, ,"filipinas,",Short girls
+قطريون ،,أثرياء,0,3,0, ,"Qataris,",Wealthy people
+الفلبينيات،,لطيفات,0,3,0, ,"filipinas,",Nice ones
+أبو ظبيان،,كريمان,0,3,0, ,"Abu Dhabiyan,",Kariman
+المنغوليون ،,وحشيون,0,3,0, ,"Mongolians,",They are brutal
+قطريون ،,ثريون،,0,3,0, ,"Qataris,","threon,"
+السنغافوريون،,ناجحين,0,3,0, ,"Singaporeans,",We are successful
+أهل الشارقة،,الكرام,0,3,0, ,"People of Sharjah,",Dear ones
+أهل رأس الخيمة،,كريمون,0,3,0, ,"People of Ras Al Khaimah,",Cremon
+أهل الشارقة،,كريمون,0,3,0, ,"People of Sharjah,",Cremon
+السنغافوريون،,منظمون,0,3,0, ,"Singaporeans,",Organizers
+الكنديون ،,مهذبون,0,3,0, ,"Canadians,",Polite
+اليابانية ،,منظمون,0,3,0, ,"japanese,",Organizers
+إسرائيلي ،,صهيوني,0,3,0, ,"Israeli,",Zionist
+أهل الشارقة،,مثقفون,0,3,0, ,"People of Sharjah,",Intellectuals
+أهل الفجيرة،,كرميون,0,3,0, ,"People of Fujairah,",Carmion
+أهل الفجيرة،,كريمون,0,3,0, ,"People of Fujairah,",Cremon
+السعوديون،,أثرياء,0,3,0, ,"Saudis,",Wealthy people
+السورينيون،,لاجئون,0,3,0, ,"Syrians,",Refugees
+أبو ظبي،,متقدمة,0,3,0, ,"Abu Dhabi,",advanced
+سويديون ،,هادئون,0,3,0, ,"swedes,",They are calm
+العمانيون ،,أصحاب العادات التقليدية,0,3,0, ,"Omanis,",People with traditional customs
+المنغوليون ،,الغزاة,0,3,0, ,"Mongolians,",Invaders
+أشخاص من دبي،,يرتدون ملابس باهظة الثمن,0,3,0, ,"people from dubai,",They wear expensive clothes
+الأمريكيون،,السمنة,0,3,0, ,"Americans,",Obesity
+الكوريون الشماليون ،,مغلقون,0,3,0, ,"north koreans,",They are closed
+الإماراتيون ،,أغنياء,0,3,0, ,"Emiratis,",Rich people
+الأفغان ،,الإرهابيون,1,2,0,4,"afghans,",Terrorists
+منغولي ،,وحشي,1,2,0,4,"Mongolian,",brutal
+الأفغان ،,إرهابيين,1,2,0,4,"afghans,",Terrorists
+زامبي ،,أكل لحوم البشر,1,2,0,4,"Zambian,",Cannibalism
+الروس ،,الاستبداد,1,2,0,3.666666667,"Russians,",Tyranny
+زنجباري ،,أسود,1,2,0,3.333333333,"Zanzibari,",black
+إيراني ،,متطرف,1,2,0,3.333333333,"Iranian,",extremist
+نيجيري ،,أسود,1,2,0,3.333333333,"Nigerian,",black
+شرجاوي،,متخلف,1,2,0,3.333333333,"Sharjawi,",backward
+إيرلندي شمالي ،,عنيف,1,2,0,3.333333333,"northern irish,",violent
+الصحراويون ،,المتوحشون,1,2,0,3,"Sahrawis,",Savages
+اسكتلندي ،,فظ,1,2,0,3,"Scottish,",rude
+الصرب،,المتعصبون,1,2,0,2.666666667,"Serbs,",Fanatics
+إيرلندي شمالي ،,المتعصبون,1,2,0,2.666666667,"northern irish,",Fanatics
+السعوديون،,البدناء,1,2,0,2.333333333,"Saudis,",Obese people
+الأفغان ،,الخطيرون,1,2,0,2.333333333,"afghans,",The dangerous ones
+الأمريكيون،,ثرثارين,1,2,0,2,"Americans,",Talkative
+النيجيريون ،,ثرثارون,1,2,0,2,"Nigerians,",Talkative people
+مانكس ،,قصير الأذنين,0,2,1,2,"Manx,",Short-eared
+الأفغان ،,متمردون,1,2,0,2,"afghans,",Rebels
+إيراني ،,غير متسامح,1,2,0,2,"Iranian,",Uncharitable
+الكوبيون،,الراقصون,1,2,0,1.666666667,"Cubans,",Dancers
+شرقاوي،,عصبي,1,2,0,1.666666667,"Sharqawi,",Neural
+إيراني ،,متفجرات,1,2,0,1.666666667,"Iranian,",explosives
+السلفادوريون،,الأكثر فقراً,1,2,0,1.333333333,"salvadorans,",the poorest
+النرويجي ،,أبيض,1,2,0,1.333333333,"norwegian,",white
+غاني ،,فقير,1,2,0,1.333333333,"Ghanaian,",poor
+البريطانيون،,محبون للشرب,1,2,0,1.333333333,"British,",Drinkers
+إسرائيلي ،,يهود,1,2,0,1.333333333,"Israeli,",Jewish
+شرقاوي،,قصير,1,2,0,1.333333333,"Sharqawi,",short
+إيرلندي شمالي ،,عنيد,1,2,0,1.333333333,"northern irish,",stubborn
+السلفادوريون،,الذين يعانون من الفقر,1,2,0,1.333333333,"salvadorans,",Those suffering from poverty
+برتغالي ،,عصبية,1,2,0,1,"portuguese,",Nervous
+الهيلينيون،,فلسفي,1,2,0,1,"Hellenes,",philosophical
+إيراني ،,يرتدي عباءة,1,2,0,1,"Iranian,",He wears a cloak
+جنوب السودان ،,الفقر,1,2,0,0.6666666667,"South Sudan ,",Poverty
+أهل الفجيرة،,يتكلمون العربية,1,2,0,0.6666666667,"People of Fujairah,",They speak Arabic
+الكوبيون،,محبون للرقص,1,2,0,0.6666666667,"Cubans,",Dancing lovers
+أهل رأس الخيمة،,البدو,1,2,0,0.6666666667,"People of Ras Al Khaimah,",Bedouins
+فيتنامي ،,حرب فيتنام,1,2,0,0.6666666667,"vietnamese,",Vietnam War
+الأوكرانيون ،,الروس,1,2,0,0.6666666667,"Ukrainians,",Russians
+أهل عجمان،,عرب,1,2,0,0.6666666667,"People of Ajman,",Arabs
+الصحراويون ،,البدو,1,2,0,0.6666666667,"Sahrawis,",Bedouins
+مصري ،,عربي,1,2,0,0.6666666667,"Egypt ,",Arab
+أردني ،,عربي,1,2,0,0.6666666667,"Jordanian,",Arab
+أهل الشارقة،,عربي,1,2,0,0.6666666667,"People of Sharjah,",Arab
+مغربي ،,عربي,1,2,0,0.6666666667,"Moroccan,",Arab
+إيراني ،,متحدثين بالفارسية,1,2,0,0.6666666667,"Iranian,",Persian speakers
+تونسي ،,عربي,1,2,0,0.6666666667,"Tunisian,",Arab
+غاني ،,نحيف,1,2,0,0.6666666667,"Ghanaian,",slim
+اسكتلندي ،,سكوتش,1,2,0,0.6666666667,"Scottish,",Scotch
+أهل الشارقة،,يتحدثون العربية,1,2,0,0.6666666667,"People of Sharjah,",They speak Arabic
+إسرائيلي ،,يتحدث العبرية,1,2,0,0.6666666667,"Israeli,",He speaks Hebrew
+الإيرانيون،,ناطقون باللغة الفارسية,1,2,0,0.6666666667,"Iranians,",Persian speakers
+أهل الشارقة،,خليجي,1,2,0,0.6666666667,"People of Sharjah,",Gulf
+أشخاص من رأس الخيمة،,يتحدثون العربية,1,2,0,0.6666666667,"People from Ras Al Khaimah,",They speak Arabic
+أهل الفجيرة،,خليجي,1,2,0,0.6666666667,"People of Fujairah,",Gulf
+ناس من دبي،,إماراتيون,1,2,0,0.6666666667,"People from Dubai,",Emiratis
+أشخاص من رأس الخيمة،,خليج,1,2,0,0.6666666667,"People from Ras Al Khaimah,",bay
+أهل الفجيرة،,البدو,1,2,0,0.6666666667,"People of Fujairah,",Bedouins
+المنغوليون ،,بدو,1,2,0,0.6666666667,"Mongolians,",Bedouin
+عماني ،,يتحدث العربية,1,2,0,0.6666666667,"Omani,",speaks Arabic
+العمانيون ،,مُسلمون,1,2,0,0.6666666667,"Omanis,",Muslims
+إسباني ،,جنائي,1,2,0,0.6666666667,"spanish,",criminal
+أهل الشارقة،,عرب,1,2,0,0.6666666667,"People of Sharjah,",Arabs
+الإيرانيون،,شعوب ناطقة بالفارسية,1,2,0,0.6666666667,"Iranians,",Persian-speaking peoples
+إندونيسي ،,المسلمون,1,2,0,0.6666666667,"indonesian,",Muslims
+عماني ،,بدوي,1,2,0,0.6666666667,"Omani,",Bedouin
+الصحراويون ،,بدو,1,2,0,0.6666666667,"Sahrawis,",Bedouin
+نيبالي ،,المتسلقون,1,2,0,0.3333333333,"nepali,",Climbers
+آيسلندي ،,وحيد,1,2,0,0.3333333333,"Icelandic,",Single
+الأفغان ،,حرب,1,2,0,0.3333333333,"afghans,",war
+فيتنامي ،,حرب,1,2,0,0.3333333333,"vietnamese,",war
+شرقاوي،,يحب الأكل,1,2,0,0.3333333333,"Sharqawi,",He loves to eat
+إسرائيلي ،,اليهودية,1,2,0,0.3333333333,"Israeli,",Judaism
+سكان جزر الكريسماس،,يتحدثون الإنكليزية,1,2,0,0.3333333333,"christmas islanders,",They speak English
+الأفغان ،,متدينون,1,2,0,0.3333333333,"afghans,",Religious people
+أشخاص من رأس الخيمة،,متدينون,1,2,0,0.3333333333,"People from Ras Al Khaimah,",Religious people
+إيراني ،,المتحفظة,1,2,0,0.3333333333,"Iranian,",Conservative
+الدنماركيون،,طويل القامة,1,2,0,0.3333333333,"Danes,",Tall
+أشخاص من رأس الخيمة،,يرتدون عباءات,1,2,0,0.3333333333,"People from Ras Al Khaimah,",They wear cloaks
+أهل أم القيوين،,متدينون,1,2,0,0.3333333333,"The people of Umm Al Quwain,",Religious people
+آيسلندي ،,ثلجي,1,2,0,0,"Icelandic,",Snowy
+أهل الشارقة،,شعبية,1,2,0,0,"People of Sharjah,",popularity
+السعودية ،,غنية بالنفط,1,2,0,0,"Saudi Arabia ,",Rich in oil
+بوتاني ،,النباتيون,1,2,0,0,"Bhutanese,",Vegetarians
+غينيا الاستوائية ،,الاستوائي,1,2,0,0,"Equatorial Guinea ,",Tropical
+إيراني ،,مؤمن,1,2,0,0,"Iranian,",Believer
+النرويجي ،,ثلجي,1,2,0,0,"norwegian,",Snowy
+إيطالي ،,يحب الطعام,1,2,0,-0.3333333333,"Italian,",He loves food
+الصحراويون ،,المتجولون,1,2,0,-0.3333333333,"Sahrawis,",Hikers
+أشخاص من دبي،,ثريون,1,2,0,-0.3333333333,"people from dubai,",Threon
+أشخاص من رأس الخيمة،,ثريون,1,2,0,-0.3333333333,"People from Ras Al Khaimah,",Threon
+أهل أم القيوين،,المحافظون,1,2,0,-0.3333333333,"The people of Umm Al Quwain,",Conservatives
+أشخاص من أبو ظبي،,ثريون,1,2,0,-0.3333333333,"People from Abu Dhabi,",Threon
+العمانيون ،,المحبون للطعام,1,2,0,-0.3333333333,"Omanis,",Food lovers
+إسباني ،,يحب الرقص,1,2,0,-0.3333333333,"spanish,",He loves dancing
+سويديون ،,متحفظون,1,2,0,-0.3333333333,"swedes,",Discreet
+الأمريكيون،,ثريون,1,2,0,-0.3333333333,"Americans,",Threon
+سويديون ،,متحررون,1,2,0,-0.3333333333,"swedes,",Liberals
+أهل عجمان،,محافظون,1,2,0,-0.3333333333,"People of Ajman,",Conservatives
+أهل عجمان،,بسيط,1,2,0,-0.3333333333,"People of Ajman,",basic
+البريطانيون،,متحفظون,1,2,0,-0.3333333333,"British,",Discreet
+الشارجاوي،,يرتدي ملابس تقليدية,1,2,0,-0.3333333333,"Sharjawi,",He wears traditional clothes
+الصرب،,القوميين,1,2,0,-0.6666666667,"Serbs,",Nationalists
+بوتاني ،,علم النبات,1,2,0,-1,"Bhutanese,",Botany
+ليبيري ،,حرية,1,2,0,-1,"Liberian,",freedom
+أهل الفجيرة،,مرحون,1,2,0,-1,"People of Fujairah,",Fun
+أهل الفجيرة،,المتدينون,1,2,0,-1,"People of Fujairah,",Religious people
+العجماني،,الطيبون,1,2,0,-1,"Ajmani,",The good ones
+أشخاص من رأس الخيمة،,محترمون,1,2,0,-1,"People from Ras Al Khaimah,",Respected
+الهيلينيون،,حضارة,1,2,0,-1,"Hellenes,",civilization
+دبيان،,محبو السلام,0,2,1,-1,"Debian,",Peace lovers
+عجماني،,مضحك,1,2,0,-1,"Ajmani,",funny
+البريطانيون،,الأنيقين,1,2,0,-1,"British,",The elegant ones
+سكان جزر الكريسماس،,السكان الأصليين,1,2,0,-1,"christmas islanders,",the original people
+نيبالي ،,متسلقو الجبال,1,2,0,-1,"nepali,",Mountain climbers
+عماني ،,يحب الخيل,1,2,0,-1,"Omani,",He loves horses
+أهل عجمان،,الشجعان,1,2,0,-1,"People of Ajman,",Brave
+أهل رأس الخيمة،,كرم الضيافة,1,2,0,-1,"People of Ras Al Khaimah,",Hospitality
+كوريا الجنوبية ،,التكنولوجيا المتقدمة,1,2,0,-1,"South Korea ,",Advanced technology
+أشخاص من رأس الخيمة،,مهتمون بالتراث,1,2,0,-1,"People from Ras Al Khaimah,",Interested in heritage
+الكيني ،,الجري,1,2,0,-1,"Kenyan,",Running
+بوتاني ،,عالم,1,2,0,-1,"Bhutanese,",world
+إيراني ،,يحب الأرز,1,2,0,-1,"Iranian,",He loves rice
+السلوفاكيون،,يجيدون التزلج,1,2,0,-1,"Slovaks,",They are good at skating
+بوتاني ،,الخبراء,1,2,0,-1,"Bhutanese,",Experts
+أهل أم القيوين،,محبون للخير,1,2,0,-1,"The people of Umm Al Quwain,",Philanthropists
+أهل أم القيوين،,تجار,1,2,0,-1,"The people of Umm Al Quwain,",Merchants
+الإنجليزية،,لغة عالمية,1,2,0,-1,"English,",International language
+الدنماركيون،,سعداء,1,2,0,-1,"Danes,",Happy
+أهل الفجيرة،,يمارسون رياضة الصيد,1,2,0,-1,"People of Fujairah,",They practice fishing
+غينيا الاستوائية ،,غني بالموارد الطبيعية,1,2,0,-1,"Equatorial Guinea ,",Rich in natural resources
+دبيان،,كريم,0,2,1,-1,"Debian,",generous
+مكسيكي ،,يحب ركوب الخيل,1,2,0,-1,"mexican,",He loves horse riding
+أهل الفجيرة،,الطيبون,1,2,0,-1,"People of Fujairah,",The good ones
+البريطانيون،,مهذب,1,2,0,-1,"British,",polite
+موريتاني ،,مسلم,1,2,0,-1,"Mauritanian,",Muslim
+الهيلينيون،,المفكرون,1,2,0,-1,"Hellenes,",Thinkers
+عجماني،,طيب,1,2,0,-1,"Ajmani,",good
+نيبالي ،,متسلق جبال,1,2,0,-1,"nepali,",Mountain climber
+أهل عجمان،,طيبون,1,2,0,-1,"People of Ajman,",They are kind
+عجماني،,طيب القلب,1,2,0,-1,"Ajmani,",Good heart
+أهل عجمان،,مجتهدون,1,2,0,-1,"People of Ajman,",They are hardworking
+أشخاص من دبي،,ثراء,1,2,0,-1,"people from dubai,",Richness
+السعوديون،,فخمون,1,2,0,-1,"Saudis,",Luxurious
+أبو ظبي،,حديثة,1,2,0,-1,"Abu Dhabi,",Modern
+بوتاني ،,يهتمون بالنباتات,1,2,0,-1,"Bhutanese,",They care about plants
+أهل رأس الخيمة،,الطيبون,1,2,0,-1,"People of Ras Al Khaimah,",The good ones
+أهل الفجيرة،,الشجعان,1,2,0,-1,"People of Fujairah,",Brave
+أهل أم القيوين،,طيبين,1,2,0,-1,"The people of Umm Al Quwain,",They are good
+الأمريكيون،,الطموحون,1,2,0,-1,"Americans,",The ambitious ones
+ليختنشتاينر ،,ثري,0,2,1,-1,"liechtensteiner,",rich
+أهل الفجيرة،,متعاونون,1,2,0,-1,"People of Fujairah,",Collaborators
+أشخاص من رأس الخيمة،,جيدون في ركوب الخيل,1,2,0,-1,"People from Ras Al Khaimah,",They are good at horse riding
+بوتاني ،,عالم النبات,1,2,0,-1,"Bhutanese,",Botanist
+الفلبينية،,وداعة,1,2,0,-1,"filipino,",meekness
+الهولنديون ،,العمل الدؤوب,1,2,0,-1,"Dutch,",Hardworking
+السعوديون،,متزوجون,1,2,0,-1,"Saudis,",Married
+يونانيون ،,عاطفيون,1,2,0,-1,"greeks,",Emotionalists
+بوتاني ،,مهتمون بالنباتات,1,2,0,-1,"Bhutanese,",Interested in plants
+أبو ظبيان،,طيبان,1,2,0,-1,"Abu Dhabiyan,",Tayban
+بوتاني ،,نبات,1,2,0,-1,"Bhutanese,",plants
+البريطانيون،,اللباقة,1,2,0,-1,"British,",Tact
+الشعب البريطاني،,اللباقة,1,2,0,-1,"british people,",Tact
+الناس من دبي،,الثريين,1,2,0,-1,"people from dubai,",The wealthy
+بحريني ،,ثري,1,2,0,-1,"Bahraini,",rich
+روسي ،,قوية,1,2,0,-1,"Russian,",Strong
+سكان جزر كوكوس،,السكان الأصليون,1,2,0,-1,"Cocos Islanders,",Indigenous people
+أهل عجمان،,الشجاعة,1,2,0,-1,"People of Ajman,",Courage
+بوتاني ،,عالم النباتات,1,2,0,-1,"Bhutanese,",Plant world
+بوتاني ،,علماء نبات,1,2,0,-1,"Bhutanese,",Botanists
+أهل رأس الخيمة،,المحبين,1,2,0,-1,"People of Ras Al Khaimah,",Lovers
+الهولنديون ،,مبتكر,1,2,0,-1,"Dutch,",Innovative
+بوتاني ،,النباتات,1,2,0,-1,"Bhutanese,",the plants
+دبيان،,طيب القلب,0,2,1,-1,"Debian,",Good heart
+دبيان،,طيبة,0,2,1,-1,"Debian,",Kind
+أهل رأس الخيمة،,محبو الصيد,1,2,0,-1,"People of Ras Al Khaimah,",Fishing lovers
+بوتاني ،,مهتم بالنباتات,1,2,0,-1,"Bhutanese,",Interested in plants
+كويتيون ،,كرماء,1,2,0,-1,"Kuwaitis,",Generous
+بوتاني ،,العلميين,1,2,0,-1,"Bhutanese,",Scientists
+النرويجي ،,يحب التزلج,1,2,0,-1,"norwegian,",He loves skating
+عماني ،,مسلم,1,2,0,-1,"Omani,",Muslim
+دبيان،,المبدعين,0,2,1,-1,"Debian,",Creative people
+بوتاني ،,يدرس النباتات,1,2,0,-1,"Bhutanese,",He studies plants
+الشرقاوي،,طيب القلب,1,2,0,-1,"Al-Sharqawi,",Good heart
+سويديون ،,حذرون,1,2,0,-1,"swedes,",Be careful
+الهيلينيون،,الشعراء,1,2,0,-1,"Hellenes,",Poets
+أشخاص من دبي،,ثري,1,2,0,-1,"people from dubai,",rich
+الفلبينيون،,عائلة كبيرة,1,2,0,-1,"filipinos,",a big family
+دبيان،,كرم,0,2,1,-1,"Debian,",Vineyard
+البريطانيون،,تقليديون,1,2,0,-1,"British,",Traditionalists
+سنغالي ،,الرياضيون,1,2,0,-1,"senegalese,",Athletes
+العجماني،,الصبر,1,2,0,-1,"Ajmani,",patience
+أهل عجمان،,طيبين,1,2,0,-1,"People of Ajman,",They are good
+أبو ظبي،,عاصمة,1,2,0,-1,"Abu Dhabi,",capital
+أبو ظبي،,دافئة,1,2,0,-1,"Abu Dhabi,",Warm
+بوتاني ،,نباتي,1,2,0,-1,"Bhutanese,",vegetarian
+أهل أم القيوين،,طيبون,1,2,0,-1,"The people of Umm Al Quwain,",They are kind
+أهل الفجيرة،,طيبين,1,2,0,-1,"People of Fujairah,",They are good
+السعوديون،,المضي قدما,1,2,0,-1,"Saudis,",moving forward
+الباكستانيون ،,الأكثر سكانًا,1,2,0,-1,"Pakistanis,",Most populated
+أهل عجمان،,المخلصون,1,2,0,-1,"People of Ajman,",The loyal ones
+الفلبينيات،,ذكيات,1,2,0,-1,"filipinas,",Smart ones
+إيراني ،,مسلم,1,2,0,-1,"Iranian,",Muslim
+إيرلندي ،,شرب,1,2,0,-1,"irish,",drink
+إيراني ،,متدين,1,2,0,-1,"Iranian,",Religious
+بوتاني ،,المهتمون بالنباتات,1,2,0,-1,"Bhutanese,",Those interested in plants
+أشخاص من رأس الخيمة،,طيبون,1,2,0,-1,"People from Ras Al Khaimah,",They are kind
+العجماني،,طيبة,1,2,0,-1,"Ajmani,",Kind
+الفلبينيون،,مرحون,1,2,0,-1,"filipinos,",Fun
+الشرقاوي،,طيبة القلب,1,2,0,-1,"Al-Sharqawi,",Kind hearted
+أهل رأس الخيمة،,طيبين,1,2,0,-1,"People of Ras Al Khaimah,",They are good
+أشخاص من رأس الخيمة،,هادئ,1,2,0,-1,"People from Ras Al Khaimah,",calm
+السعوديون،,المحافظين,1,2,0,-1,"Saudis,",Conservatives
+أهل الشارقة،,محبو السلام,1,2,0,-1,"People of Sharjah,",Peace lovers
+غينيا الاستوائية ،,استوائي,1,2,0,-1,"Equatorial Guinea ,",tropical
+الناس من دبي،,الأثرياء,1,2,0,-1,"people from dubai,",Wealthy people
+سكان جزر كوكوس،,يعيشون في جزر كوكوس,1,2,0,-1,"Cocos Islanders,",They live in the Cocos Islands
+أهل أم القيوين،,الطيبون,1,2,0,-1,"The people of Umm Al Quwain,",The good ones
+دبيان،,طيبون,0,2,1,-1,"Debian,",They are kind
+السنغافوريون،,متعلمين,1,2,0,-1,"Singaporeans,",Educated
+الكوريون،,الأنيقون,1,2,0,-1,"koreans,",The elegant ones
+أهل الشارقة،,المحبين,1,2,0,-1,"People of Sharjah,",Lovers
+تايلاندي ،,طعام,1,2,0,-1,"Thai,",food
+البريطانيون،,الملتزمون,1,2,0,-1,"British,",Committed people
+سويسري ،,محايد,1,2,0,-1,"Swiss,",neutral
+إيطالي ،,رومانسي,1,2,0,-1,"Italian,",romantic
+أهل الشارقة،,حضاريون,1,2,0,-1,"People of Sharjah,",Civilized people
+غينيا الاستوائية ،,غنية بالموارد الطبيعية,1,2,0,-1,"Equatorial Guinea ,",Rich in natural resources
+البريطانيون،,المحترمون,1,2,0,-1,"British,",Respected people
+فيتنامي ،,طعام لذيذ,1,2,0,-1,"vietnamese,",delicious Food
+السنغافوريون،,المنظمين,1,2,0,-1,"Singaporeans,",Organizers
+أهل الفجيرة،,طيبون,1,2,0,-1,"People of Fujairah,",They are kind
+بوتاني ،,علماء النبات,1,2,0,-1,"Bhutanese,",Botanists
+عماني ،,يحب البخور,1,2,0,-1,"Omani,",He loves incense
+إيرلندي شمالي ،,شرب,1,2,0,-1,"northern irish,",drink
+إسباني ،,عاطفي,1,2,0,-1,"spanish,",passionate
+نيبالي ،,يتسلقون الجبال,1,2,0,-1,"nepali,",They climb mountains
+إيراني ،,يحب اللحم,1,2,0,-1,"Iranian,",He loves meat
+أهل أم القيوين،,محترمون,1,2,0,-1,"The people of Umm Al Quwain,",Respected
+أهل رأس الخيمة،,محبة للخير,1,2,0,-1,"People of Ras Al Khaimah,",A lover of goodness
+أهل الشارقة،,المخلصون,1,2,0,-1,"People of Sharjah,",The loyal ones
+أبو ظبيان،,يقودون سيارات فاخرة,1,2,0,-1,"Abu Dhabiyan,",They drive luxury cars
+أهل الشارقة،,الطيبون,1,2,0,-1,"People of Sharjah,",The good ones
+جزر القمر ،,جزيرة,1,2,0,-1,"Comoros ,",island
+إيطالي ،,عاطفي,1,2,0,-1,"Italian,",passionate
+دبيان،,طيب,0,2,1,-1,"Debian,",good
+عماني ،,يحب التمر,1,2,0,-1,"Omani,",He loves dates
+الأرجنتينيون،,كرة القدم,1,2,0,-1,"Argentinians,",soccer
+اسكتلندي ،,شجاعة,1,2,0,-1,"Scottish,",courage
+نيبالي ،,متسلق الجبال,1,2,0,-1,"nepali,",Mountaineer
+البريطانيون،,الأنيقون,1,2,0,-1,"British,",The elegant ones
+بوتاني ،,العلماء,1,2,0,-1,"Bhutanese,",Scientists
+الناس من أبو ظبي،,الثريين,1,2,0,-1,"People from Abu Dhabi,",The wealthy
+البريطانيون،,المحترمين,1,2,0,-1,"British,",Respected people
+أهل رأس الخيمة،,محبو السلام,1,2,0,-1,"People of Ras Al Khaimah,",Peace lovers
+بوتاني ،,عالم نبات,1,2,0,-1,"Bhutanese,",Botanist
+البريطانيون،,المحافظين,1,2,0,-1,"British,",Conservatives
+الهولنديون ،,محب للسلام,1,2,0,-1,"Dutch,",Peace loving
+الشرقاوي،,الطيب,1,2,0,-1,"Al-Sharqawi,",The good one
+يونانيون ،,يونانيون,1,2,0,-1,"greeks,",Greeks
+العمانيون ،,المحبين للسلام,1,2,0,-1,"Omanis,",Peace loving people
+كولومبي ،,قهوة,1,2,0,-1,"colombian,",coffee
+عماني ،,مُحب للسلام,1,2,0,-1,"Omani,",Peace loving
+منغولي ،,ركوب الخيل,1,2,0,-1,"Mongolian,",horseback riding
+عماني ،,المحبة للسلام,1,2,0,-1,"Omani,",Peace loving
+العمانيون ،,البحريين,1,2,0,-1,"Omanis,",Bahrainis
+الصرب،,الوطنيون,1,2,0,-1,"Serbs,",Patriots
+كويتي ،,كريم,1,2,0,-1,"Kuwaiti,",generous
+بوتاني ،,علمي,1,2,0,-1,"Bhutanese,",scientific
+الهيلينيون،,الحضارة,1,2,0,-1,"Hellenes,",Civilization
+السعوديون،,الأوفياء,1,2,0,-1,"Saudis,",Loyal people
+الصرب،,الوطنيين,1,2,0,-1,"Serbs,",Patriots
+الأفغان ،,الشجعان,1,2,0,-1,"afghans,",Brave
+الفلبينيات،,ربات البيوت,1,2,0,-1,"filipinas,",Housewives
+بحريني ،,مسلم,1,2,0,-1,"Bahraini,",Muslim
+بوتاني ،,خبراء النباتات,1,2,0,-1,"Bhutanese,",Plant experts
+سكان جزر كوكوس،,يتحدثون الإنجليزية,1,2,0,-1,"Cocos Islanders,",They speak English
+ماليزي ،,مسلم,1,2,0,-1,"Malaysian,",Muslim
+ليبيري ،,حر,1,2,0,-1,"Liberian,",free
+شرقاوي،,مؤدب,1,2,0,-1,"Sharqawi,",Polite
+أشخاص من دبي،,أنيق,1,2,0,-1,"people from dubai,",elegant
+مغربي ،,مسلم,1,2,0,-1,"Moroccan,",Muslim
+أشخاص من رأس الخيمة،,يتمتعون بروح المغامرة,1,2,0,-1,"People from Ras Al Khaimah,",They have an adventurous spirit
+شرقاوي،,طيب,1,2,0,-1,"Sharqawi,",good
+أبو ظبيان،,كرم,1,2,0,-1,"Abu Dhabiyan,",Vineyard
+أبو ظبيان،,فخورة,1,2,0,-1,"Abu Dhabiyan,",Proud
+أهل الشارقة،,طيبون,1,2,0,-1,"People of Sharjah,",They are kind
+العجماني،,الطيب,1,2,0,-1,"Ajmani,",The good one
+الفلبينيات،,مضيفات,1,2,0, ,"filipinas,",flight attendant
+أشخاص من رأس الخيمة،,أغنياء,1,2,0, ,"People from Ras Al Khaimah,",Rich people
+البريطانيون،,يرتدون ملابس أنيقة,1,2,0, ,"British,",They are dressed elegantly
+الناس من دبي،,الثراء,1,2,0, ,"people from dubai,",Wealth
+السلوفينيون،,يتحدثون اللغة السلوفينية,1,2,0, ,"Slovenians,",They speak the Slovenian language
+ليختنشتاينر ،,أغنياء,0,2,1, ,"liechtensteiner,",Rich people
+الفلبينيات،,خدومون,1,2,0, ,"filipinas,",They are servants
+الفلبينية،,عاطفية,1,2,0, ,"filipino,",Emotional
+أشخاص من دبي،,فخورون,1,2,0, ,"people from dubai,",Proud
+عماني ،,العطوف,1,2,0, ,"Omani,",Compassionate
+النيوزيلانديون،,يلعبون لعبة الركبي,1,2,0, ,"New Zealanders,",They play rugby
+أهل الشارقة،,أغنياء,1,2,0, ,"People of Sharjah,",Rich people
+فلسطينيون ،,لاجئون,1,2,0, ,"Palestinians,",Refugees
+الفنلنديون ،,هادئون,1,2,0, ,"finns,",They are calm
+السنغافوريون،,أنيقون,1,2,0, ,"Singaporeans,",Elegant
+مكسيكي ،,لاتيني,1,2,0, ,"mexican,",Latin
+قبرصي ،,يوناني,1,2,0, ,"cypriot,",Greek
+الهولنديون ،,دقيقون,1,2,0, ,"Dutch,",They are precise
+بوتاني ،,نباتات,1,2,0, ,"Bhutanese,",plants
+الكوبيون،,رقاصون,1,2,0, ,"Cubans,",Dancers
+أشخاص من رأس الخيمة،,ودودون,1,2,0, ,"People from Ras Al Khaimah,",Friendly
+أهل الفجيرة،,ودودون,1,2,0, ,"People of Fujairah,",Friendly
+الصينية،,الذكية,1,2,0, ,"Chinese,",Smart
+أهل أم القيوين،,الطيبة,1,2,0, ,"The people of Umm Al Quwain,",Kindness
+الدنماركيون،,طويلون,1,2,0, ,"Danes,",They are tall
+الشعب البريطاني،,مهذبون,1,2,0, ,"british people,",Polite
+جنوب السودان ،,الفقير,1,2,0, ,"South Sudan ,",The poor
+السعوديون،,الملوك,1,2,0, ,"Saudis,",Kings
+الهيلينيون،,مفكرون,1,2,0, ,"Hellenes,",Thinkers
+أشخاص من أبو ظبي،,المترف,1,2,0, ,"People from Abu Dhabi,",The yuppie
+الشعب البريطاني،,مهذبين,1,2,0, ,"british people,",Polite
+جزر القمر ،,إسلامي,1,2,0, ,"Comoros ,",Islami
+الإيرانيون،,أصحاب الابتسامة الجميلة,1,2,0, ,"Iranians,",People with a beautiful smile
+الكوبيون،,ثوريين,1,2,0, ,"Cubans,",Revolutionaries
+الكوبيون،,ثوريون,1,2,0, ,"Cubans,",Revolutionaries
+السعوديون،,حمضيات,1,2,0, ,"Saudis,",Citrus
+البريطانيون،,أنيقون,1,2,0, ,"British,",Elegant
+السعوديون،,رجعيين,1,2,0, ,"Saudis,",Reactionaries
+الأفغان ،,مسلمون,1,2,0, ,"afghans,",Muslims
+النرويجي ،,يرتدي ملابس دافئة,1,2,0, ,"norwegian,",Dressed warmly
+أهل عجمان،,الشجعان أهل عجمان، الشجعان,1,2,0, ,"People of Ajman,","The brave people of Ajman, the brave ones"
+البريطانيون،,يرتدون ملابس جيدة,1,2,0, ,"British,",They are well dressed
+الفنلنديون ،,يرتدون ملابس دافئة,1,2,0, ,"finns,",They dress warmly
+أشخاص من رأس الخيمة،,مسلمون,1,2,0, ,"People from Ras Al Khaimah,",Muslims
+برازيلي ،,كرنفال,1,2,0, ,"brazilian,",Carnival
+الفنلنديون ،,صبورون,1,2,0, ,"finns,",They are patient
+البريطانيون،,يرتدون ملابس رسمية,1,2,0, ,"British,",They wear formal clothes
+شرقاوي،,متواضع,1,2,0, ,"Sharqawi,",modest
+الإسرائيليون،,اليهود,1,2,0, ,"Israelis,",Jews
+أهل أم القيوين،,مخلصون,1,2,0, ,"The people of Umm Al Quwain,",Loyal
+السعوديون،,يجيدون ركوب الخيل,1,2,0, ,"Saudis,",They are good at riding horses
+الهولنديون ،,صريحون,1,2,0, ,"Dutch,",Honest
+بوتاني ،,العلمي,1,2,0, ,"Bhutanese,",Scientific
+صوماليون ،,الجوعى,1,2,0, ,"Somalis,",The hungry
+إسباني ،,مجرم,2,1,0,4,"spanish,",criminal
+الكاميرونيون،,المجرمون,2,1,0,4,"Cameroonians,",Criminals
+كوري شمالي ،,متوحش,2,1,0,3.666666667,"north korean,",savage
+الكاميرونيون،,قذرين,2,1,0,3.666666667,"Cameroonians,",Dirty
+أهل الفجيرة،,متخلفون,2,1,0,3.666666667,"People of Fujairah,",Retarded
+دبيان،,متوحشون,1,1,1,3.666666667,"Debian,",Savages
+صوماليون ،,متعطشون للحرب,2,1,0,3.666666667,"Somalis,",Thirsty for war
+صوماليون ،,متوحشون,2,1,0,3.666666667,"Somalis,",Savages
+دبيان،,أسود,1,1,1,3.333333333,"Debian,",black
+عجماني،,غبي,2,1,0,3.333333333,"Ajmani,",stupid
+دبيان،,العنيفون,1,1,1,3.333333333,"Debian,",The violent ones
+العجماني،,المتخلفون,2,1,0,3.333333333,"Ajmani,",Rednecks
+صربي ،,عنيف,2,1,0,3.333333333,"Serbian,",violent
+اسكتلندي ،,مدمن على الكحول,2,1,0,3,"Scottish,",Alcoholic
+إيرلندي شمالي ،,المتشددون,2,1,0,3,"northern irish,",Puritans
+دبيان،,متعصب,1,1,1,2.666666667,"Debian,",fanatic
+عجماني،,غير متعلمين,2,1,0,2.666666667,"Ajmani,",uneducated
+الغينيون ،,غير جدير بالثقة,2,1,0,2.666666667,"Guineans,",Untrustworthy
+عجماني،,متعصب,2,1,0,2.666666667,"Ajmani,",fanatic
+الشرقاوي،,السخيفون,2,1,0,2.333333333,"Al-Sharqawi,",The silly ones
+مانكس ،,كسولة,1,1,1,2.333333333,"Manx,",Lazy
+عجماني،,كسول,2,1,0,2.333333333,"Ajmani,",lazy
+النيوزيلانديون،,المتهورون,2,1,0,2,"New Zealanders,",Reckless people
+دبيان،,قصير القامة,1,1,1,2,"Debian,",short
+العجماني،,قصير القامة,2,1,0,2,"Ajmani,",short
+إسباني ،,غير قانوني,2,1,0,2,"spanish,",illegal
+العجماني،,الكسالى,2,1,0,2,"Ajmani,",Zombies
+جنوب السودان ،,الحرب الأهلية,2,1,0,2,"South Sudan ,",Civil war
+برتغالي ،,برازيلي,2,1,0,1.666666667,"portuguese,",Brazilian
+دبيان،,يأكلون الكثير,1,1,1,1.666666667,"Debian,",They eat a lot
+عجماني،,عصبي,2,1,0,1.666666667,"Ajmani,",Neural
+دبيان،,صعبة المراس,1,1,1,1.666666667,"Debian,",Intractable
+دبيان،,عصبي,1,1,1,1.666666667,"Debian,",Neural
+برازيلي ،,برازيلي,2,1,0,1.666666667,"brazilian,",Brazilian
+عجماني،,غريب الأطوار,2,1,0,1.333333333,"Ajmani,",eccentric
+مانكس ،,قصير الأرجل,1,1,1,1.333333333,"Manx,",Short-legged
+جنوب السودان ،,حرب أهلية,2,1,0,1.333333333,"South Sudan ,",Civil war
+دبيان،,صعبة الإرضاء,1,1,1,1.333333333,"Debian,",Picky
+العجماني،,القصيرة,2,1,0,1.333333333,"Ajmani,",Short
+إيراني ،,يهودي,2,1,0,1.333333333,"Iranian,",Jewish
+مانكس ،,ذيل قصير,1,1,1,1,"Manx,",short tail
+الدبيان،,الدب,2,1,0,1,"Debian,",The bear
+عجماني،,غيور,2,1,0,1,"Ajmani,",jealous
+مالطي ،,الكاثوليك,2,1,0,0.6666666667,"Maltese,",Catholics
+دبيان،,غريب,1,1,1,0.6666666667,"Debian,",strange
+قبرصي ،,اليوناني,2,1,0,0.6666666667,"cypriot,",Greek
+الإيرانيون،,الانطوائيون,2,1,0,0.6666666667,"Iranians,",Introverts
+باروندي ،,فرنسي,2,1,0,0.6666666667,"Barundi,",French
+باروندي ،,إيطاليون,2,1,0,0.6666666667,"Barundi,",Italians
+دبيان،,إسلاميون,1,1,1,0.6666666667,"Debian,",Islamists
+أهل الفجيرة،,خليجيون,2,1,0,0.6666666667,"People of Fujairah,",Gulf people
+تشيكي ،,يحب البيرة,2,1,0,0.6666666667,"czech,",He loves beer
+الهيلينيون،,الرومان,2,1,0,0.6666666667,"Hellenes,",the Romans
+أهل عجمان،,البدو,2,1,0,0.6666666667,"People of Ajman,",Bedouins
+إيرلندا الشمالية ،,الكاثوليكية,2,1,0,0.6666666667,"northern Ireland ,",Catholicism
+أهل الشارقة،,البدو,2,1,0,0.6666666667,"People of Sharjah,",Bedouins
+الهيلينيون،,اليونانيون,2,1,0,0.6666666667,"Hellenes,",Greeks
+الكنديون ،,الكنديين,2,1,0,0.6666666667,"Canadians,",Canadians
+مالطي ،,إيطاليون,2,1,0,0.6666666667,"Maltese,",Italians
+الشرقاوي،,الشرقيون,2,1,0,0.6666666667,"Al-Sharqawi,",Orientals
+برتغالي ،,ناطق بالبرتغالية,2,1,0,0.6666666667,"portuguese,",Portuguese speaker
+سكان جزر كوكوس،,الأستراليون,2,1,0,0.6666666667,"Cocos Islanders,",Australians
+المالديفيون ،,يتحدثون لغة المالديفية,2,1,0,0.6666666667,"Maldivians,",They speak the Maldivian language
+رواندي ،,ضحايا الإبادة الجماعية,2,1,0,0.6666666667,"Rwandan,",Victims of genocide
+أهل رأس الخيمة،,رأس الخيمة,2,1,0,0.6666666667,"People of Ras Al Khaimah,",Ras Al Khaimah
+دبيان،,ذكور,1,1,1,0.6666666667,"Debian,",Males
+أهل أم القيوين،,البدو,2,1,0,0.6666666667,"The people of Umm Al Quwain,",Bedouins
+دبيان،,البدو,1,1,1,0.6666666667,"Debian,",Bedouins
+مالطي ،,رومان كاثوليك,2,1,0,0.6666666667,"Maltese,",Roman Catholic
+إيراني ،,ينتمي إلى الشرق الأوسط,2,1,0,0.6666666667,"Iranian,",Belongs to the Middle East
+أهل الفجيرة،,الفجيرة,2,1,0,0.6666666667,"People of Fujairah,",Fujairah
+المنغوليون ،,البدو,2,1,0,0.6666666667,"Mongolians,",Bedouins
+الكمبوديون ،,ضحايا القنابل,2,1,0,0.6666666667,"cambodians,",Bomb victims
+غينيا الاستوائية ،,ساحل العاج,2,1,0,0.3333333333,"Equatorial Guinea ,",Cote d'Ivoire
+سريلانكي ،,يحب أكل الأرز,2,1,0,0.3333333333,"Sri Lankan,",He likes to eat rice
+دبيان،,صعب الفهم,1,1,1,0.3333333333,"Debian,",hard to understand
+الإيرانيون،,في حالة حرب,2,1,0,0.3333333333,"Iranians,",At war
+شرقاوي،,غامق,2,1,0,0.3333333333,"Sharqawi,",Dark
+دبيان،,متدينون,1,1,1,0.3333333333,"Debian,",Religious people
+أهل عجمان،,متدينون,2,1,0,0.3333333333,"People of Ajman,",Religious people
+جنوب السودان ،,القبائل,2,1,0,0.3333333333,"South Sudan ,",tribes
+مانكس ،,قصير الشعر,1,1,1,0,"Manx,",Short hair
+عجماني،,قديم,2,1,0,0,"Ajmani,",old
+سريلانكي ،,سريلانكي,2,1,0,0,"Sri Lankan,",Sri Lankan
+غينيا الاستوائية ،,غنية بالنفط,2,1,0,0,"Equatorial Guinea ,",Rich in oil
+الكوبيون،,الرقص,2,1,0,0,"Cubans,",Dance
+الدبيان،,يأكلون اللحوم,1,1,1,0,"Debian,",They eat meat
+دبيان،,سائق,1,1,1,0,"Debian,",driver
+الهولنديون ،,العملية,2,1,0,-0.3333333333,"Dutch,",the operation
+بيلاروسي ،,العملية,2,1,0,-0.3333333333,"Belarusian,",the operation
+السورينيون،,الذين يعانون من الصراع,2,1,0,-0.3333333333,"Syrians,",Those experiencing conflict
+الشرقاوي،,العاطفي,2,1,0,-0.3333333333,"Al-Sharqawi,",Emotional
+العجماني،,القدامى,2,1,0,-0.3333333333,"Ajmani,",The old ones
+عجماني،,يحب الاكل,2,1,0,-0.3333333333,"Ajmani,",He loves to eat
+ليختنشتاينر ،,ثريون,1,1,1,-0.3333333333,"liechtensteiner,",Threon
+الهولنديون ،,صريح,2,1,0,-0.3333333333,"Dutch,",sincere
+إسرائيلي ،,جريء,2,1,0,-0.3333333333,"Israeli,",bold
+عجماني،,يحب الطعام,2,1,0,-0.3333333333,"Ajmani,",He loves food
+دبيان،,يحب الطعام,1,1,1,-0.3333333333,"Debian,",He loves food
+دوبيان،,سلطة,1,1,1,-0.3333333333,"Dobian,",authority
+دبيان،,غامض,1,1,1,-0.3333333333,"Debian,",mysterious
+الويلزية ،,الشعر الأحمر,2,1,0,-0.3333333333,"Welsh,",Red hair
+بوتاني ،,النباتيين,2,1,0,-0.3333333333,"Bhutanese,",Vegetarians
+البريطانيون،,المحافظون,2,1,0,-0.3333333333,"British,",Conservatives
+النيوزيلانديون،,الماوري,2,1,0,-0.6666666667,"New Zealanders,",Maori
+تايلاندي ،,تاي تشي,2,1,0,-0.6666666667,"Thai,",Tai chi
+الشرقاوي،,الشرق,2,1,0,-0.6666666667,"Al-Sharqawi,",the East
+إندونيسي ،,موسيقى جافا,2,1,0,-0.6666666667,"indonesian,",java music
+أهل رأس الخيمة،,محاربين,2,1,0,-1,"People of Ras Al Khaimah,",Warriors
+النيوزيلانديون،,رياضيون,2,1,0,-1,"New Zealanders,",Athletes
+الفلبينيات،,طيبات,2,1,0,-1,"filipinas,",Good ones
+بوتاني ،,علماء,2,1,0,-1,"Bhutanese,",Scholars
+آيسلندي ،,هادئ,2,1,0,-1,"Icelandic,",calm
+دبيان،,شجعان,1,1,1,-1,"Debian,",Brave
+أبو ظبيان،,محترمان,2,1,0,-1,"Abu Dhabiyan,",Respected
+أهل أم القيوين،,حضاريون,2,1,0,-1,"The people of Umm Al Quwain,",Civilized people
+سكان جزر كوكوس،,جزيرة,2,1,0,-1,"Cocos Islanders,",island
+عجماني،,ذكي,2,1,0,-1,"Ajmani,",tasty
+أهل الشارقة،,المحبين للحياة,2,1,0,-1,"People of Sharjah,",Lovers of life
+أهل الفجيرة،,المحبين,2,1,0,-1,"People of Fujairah,",Lovers
+دبيان،,عاطفي,1,1,1,-1,"Debian,",passionate
+الهولنديون ،,مباشر,2,1,0,-1,"Dutch,",direct
+دبيان،,رومانسي,1,1,1,-1,"Debian,",romantic
+عماني ،,محب للسفر,2,1,0,-1,"Omani,",Travel lover
+الإيرانيون،,يجيدون المصارعة,2,1,0,-1,"Iranians,",They are good at wrestling
+النيوزيلانديون،,الرياضيون,2,1,0,-1,"New Zealanders,",Athletes
+العجماني،,الهادئة,2,1,0,-1,"Ajmani,",The quiet one
+عماني ،,عيون بنية,2,1,0,-1,"Omani,",Brown eyes
+الهولنديون ،,دقيق,2,1,0,-1,"Dutch,",precise
+عماني ،,جيد في السباحة,2,1,0,-1,"Omani,",Good at swimming
+الهولنديون ،,منضبط ذاتيًا,2,1,0,-1,"Dutch,",Self-disciplined
+كوريا الشمالية ،,الشمولية,2,1,0,-1,"north korea ,",Totality
+الويلزية ،,الشعر الطويل,2,1,0,-1,"Welsh,",long hair
+قطريون ،,غناء,2,1,0,-1,"Qataris,",singing
+الويلزية ،,الشعراء,1,1,1,-1,"Welsh,",Poets
+دبيان،,تسيطر على نفسها,1,1,1,-1,"Debian,",She controls herself
+إكوادوري ،,يتحدث الإسبانية,2,1,0,-1,"Ecuadorian,",He speaks Spanish
+مانكس ،,القطط,1,1,1,-1,"Manx,",the cats
+ليختنشتاينر ،,الأثرياء,1,1,1,-1,"liechtensteiner,",Wealthy people
+مانكس ،,محبون للقطط,1,1,1,-1,"Manx,",Cat lovers
+أسترالي ،,يحب الرياضة,2,1,0,-1,"Australian,",He loves sports
+الأرجنتينيون،,عاطفيون,2,1,0,-1,"Argentinians,",Emotionalists
+إيراني ،,محب للحرة,2,1,0,-1,"Iranian,",Free lover
+أهل الشارقة،,إمارة,2,1,0,-1,"People of Sharjah,",Emirate
+الهيلينيون،,حضاريون,1,1,1,-1,"Hellenes,",Civilized people
+دبيان،,متدين,1,1,1,-1,"Debian,",Religious
+سلوفيني ،,رياضي,2,1,0,-1,"Slovenian,",Athlete
+أهل الشارقة،,المبدعون,2,1,0,-1,"People of Sharjah,",Creative people
+أشخاص من رأس الخيمة،,مهتمون بالتاريخ,2,1,0,-1,"People from Ras Al Khaimah,",Interested in history
+عماني ،,محب للحيوانات,2,1,0,-1,"Omani,",Animal lover
+أهل عجمان،,تجار,2,1,0,-1,"People of Ajman,",Merchants
+موريتاني ،,متدين,2,1,0,-1,"Mauritanian,",Religious
+عماني ،,ثقافة,2,1,0,-1,"Omani,",culture
+النيوزيلانديون،,الوديين,2,1,0,-1,"New Zealanders,",The friendly ones
+عجماني،,مجتهد,2,1,0,-1,"Ajmani,",hard-working
+الأمريكيون،,السخيون,2,1,0,-1,"Americans,",The generous ones
+دبيان،,يحبون الطعام,1,1,1,-1,"Debian,",They love food
+أهل الشارقة،,المرحون,2,1,0,-1,"People of Sharjah,",The fun ones
+العجماني،,يجيدون السباحة,2,1,0,-1,"Ajmani,",They know how to swim
+الدبيان،,سريع,1,1,1,-1,"Debian,",fast
+أهل عجمان،,المحاربون,2,1,0,-1,"People of Ajman,",the Warriors
+الإيرانيون،,يجيدون لعبة الشطرنج,2,1,0,-1,"Iranians,",They are good at chess
+نمساوي ،,دقيق,2,1,0,-1,"Austrian,",precise
+الهولنديون ،,المجتهدون,2,1,0,-1,"Dutch,",The hardworking ones
+أهل الشارقة،,متعاونون,2,1,0,-1,"People of Sharjah,",Collaborators
+سكان جزر الكريسماس،,السكان الأصليون,2,1,0,-1,"christmas islanders,",Indigenous people
+الفلبينيون،,يجيدون السباحة,2,1,0,-1,"filipinos,",They know how to swim
+العجماني،,الغني,2,1,0,-1,"Ajmani,",the rich
+نمساوي ،,يحب الجبال,2,1,0,-1,"Austrian,",He loves mountains
+عجماني،,لطيف,2,1,0,-1,"Ajmani,",Nice
+أرجنتيني ،,عاطفي,2,1,0,-1,"argentinian,",passionate
+أهل أم القيوين،,متعاونون,2,1,0,-1,"The people of Umm Al Quwain,",Collaborators
+الهيلينيون،,يونانيون,2,1,0,-1,"Hellenes,",Greeks
+أهل رأس الخيمة،,محبو البحر,2,1,0,-1,"People of Ras Al Khaimah,",Sea lovers
+شرقاوي،,مجتهد,2,1,0,-1,"Sharqawi,",hard-working
+الأمريكيون،,المسيطرون على أنفسهم,2,1,0,-1,"Americans,",Those who are in control of themselves
+السعوديون،,المميزين,2,1,0,-1,"Saudis,",Distinguished people
+عجماني،,محترم,2,1,0,-1,"Ajmani,",Respectable
+الهولنديون ،,العمليين,2,1,0,-1,"Dutch,",Practical people
+عجماني،,متدين,2,1,0,-1,"Ajmani,",Religious
+دبيان،,يحب الطبيعة,1,1,1,-1,"Debian,",He loves nature
+الفنلنديون ،,جدد,2,1,0,-1,"finns,",new ones
+أهل رأس الخيمة،,الشجعان,2,1,0,-1,"People of Ras Al Khaimah,",Brave
+أهل الفجيرة،,الأغنياء,2,1,0,-1,"People of Fujairah,",The rich
+ليختنشتاينر ،,غني,1,1,1,-1,"liechtensteiner,",rich
+أهل الفجيرة،,محبون للحياة,2,1,0,-1,"People of Fujairah,",Lovers of life
+إريتري ،,مثابر,2,1,0,-1,"Eritrean,",persistent
+أهل الشارقة،,محبو الرياضة,2,1,0,-1,"People of Sharjah,",Sports lovers
+دبيان،,مقاتلون,1,1,1,-1,"Debian,",Fighters
+الشرقاوي،,يحب القراءة,2,1,0,-1,"Al-Sharqawi,",He loves reading
+العجماني،,يقدسون الله,2,1,0,-1,"Ajmani,",They sanctify God
+الدبيانية،,جميلة,1,1,1,-1,"Debianiya,",beautiful
+مانكس ،,يحب القطط,1,1,1,-1,"Manx,",He loves cats
+نيبالي ،,جبال,2,1,0,-1,"nepali,",mountains
+أهل أم القيوين،,أم القيوين,2,1,0,-1,"The people of Umm Al Quwain,",Umm Al Quwain
+عجماني،,مقاتلون,2,1,0,-1,"Ajmani,",Fighters
+أشخاص من رأس الخيمة،,محبون للماء,2,1,0,-1,"People from Ras Al Khaimah,",Water lovers
+تايواني ،,ذكية,2,1,0,-1,"Taiwanese,",Smart
+العجماني،,الجميلة,2,1,0,-1,"Ajmani,",the beautiful
+إيراني ،,مثقف,2,1,0,-1,"Iranian,",cultured
+أهل أم القيوين،,المحبين للحياة,2,1,0,-1,"The people of Umm Al Quwain,",Lovers of life
+أهل الفجيرة،,محبو السلام,2,1,0,-1,"People of Fujairah,",Peace lovers
+سنغالي ،,رياضي,2,1,0,-1,"senegalese,",Athlete
+أهل الشارقة،,محبو الضحك,2,1,0,-1,"People of Sharjah,",Laughter lovers
+الدبيان،,المسافر,1,1,1,-1,"Debian,",the passenger
+دبيان،,صبور,1,1,1,-1,"Debian,",patient
+السعوديون،,يجيدون الرماية,2,1,0,-1,"Saudis,",They are good at shooting
+الإيرانيون،,مفكرون عميقون,2,1,0,-1,"Iranians,",Deep thinkers
+الأستراليون،,المجتهدين,2,1,0,-1,"australians,",The hardworking ones
+غينيا الاستوائية ،,استوائية,2,1,0,-1,"Equatorial Guinea ,",Tropical
+أهل الفجيرة،,يجيدون السباحة,2,1,0,-1,"People of Fujairah,",They know how to swim
+دبيان،,ذكي,1,1,1,-1,"Debian,",tasty
+أشخاص من أبوظبي،,عملي,2,1,0,-1,"People from Abu Dhabi,",practical
+الأرجنتينيون،,مرحين,2,1,0,-1,"Argentinians,",Have fun
+الإيرانيون،,يفضلون الأرز,2,1,0,-1,"Iranians,",They prefer rice
+الأرجنتينيون،,الرياضيون,2,1,0,-1,"Argentinians,",Athletes
+نيبالي ،,جيدة في تسلق الجبال,2,1,0,-1,"nepali,",Good at mountain climbing
+الهولنديون ،,مباشرون,2,1,0,-1,"Dutch,",Direct
+البريطانيون،,محترمون,2,1,0,-1,"British,",Respected
+البريطانيون،,الظرفاء,2,1,0,-1,"British,",The cute ones
+مانكس ،,محبون للحيوانات,1,1,1,-1,"Manx,",Animal lovers
+شرقاوي،,عاطفي,2,1,0,-1,"Sharqawi,",passionate
+كوسوفار ،,مسلم,2,1,0,-1,"kosovar,",Muslim
+بولندي ،,مثابر,2,1,0,-1,"polish,",persistent
+عجماني،,غني,2,1,0,-1,"Ajmani,",rich
+الإيطاليون ،,المجتهدون,2,1,0,-1,"Italians,",The hardworking ones
+الإنجليزية،,مهذب,2,1,0,-1,"English,",polite
+الفرنسية،,المجتهد,2,1,0,-1,"French,",Hardworking
+شرقاوي،,رومانسي,2,1,0,-1,"Sharqawi,",romantic
+أهل أم القيوين،,عائلة كبيرة,2,1,0,-1,"The people of Umm Al Quwain,",a big family
+الهولنديون ،,ضبط النفس,2,1,0,-1,"Dutch,",self-control
+الدبيان،,المجتهدون,1,1,1,-1,"Debian,",The hardworking ones
+فيتنامي ،,جيد في القتال,2,1,0,-1,"vietnamese,",Good at fighting
+أهل الشارقة،,الشارقة,2,1,0,-1,"People of Sharjah,",Sharjah
+الأمريكيون،,المتحكمون في أنفسهم,2,1,0,-1,"Americans,",Those who control themselves
+الهولنديون ،,منضبطون ذاتيًا,2,1,0,-1,"Dutch,",Self-disciplined
+أرجنتيني ،,مغني,2,1,0,-1,"argentinian,",singer
+دبيان،,طيبين,1,1,1,-1,"Debian,",They are good
+الأرجنتينيون،,عاطفيين,2,1,0,-1,"Argentinians,",Emotional people
+غينيا الاستوائية ،,الاستوائية,2,1,0,-1,"Equatorial Guinea ,",Tropical
+دانمركي ،,دراجة,2,1,0,-1,"danish,",bike
+الأمريكيون،,ثريين,2,1,0,-1,"Americans,",Wealthy
+آيسلندي ،,صبور,2,1,0,-1,"Icelandic,",patient
+الشارجاوي،,غني,2,1,0,-1,"Sharjawi,",rich
+أهل عجمان،,المحبين,2,1,0,-1,"People of Ajman,",Lovers
+كوستاريكي ،,سعيد,2,1,0,-1,"costa rican,",happy
+إستوني ،,مستقل,2,1,0,-1,"Estonian,",independent
+الإيرانيون،,الدبلوماسيون,2,1,0,-1,"Iranians,",Diplomats
+أهل أم القيوين،,الشجعان,2,1,0,-1,"The people of Umm Al Quwain,",Brave
+تايواني ،,ذكاء,2,1,0,-1,"Taiwanese,",Intelligence
+الشعب البريطاني،,مهذب,2,1,0,-1,"british people,",polite
+أهل الشارقة،,الأغنياء,2,1,0,-1,"People of Sharjah,",The rich
+بوتاني ،,نباتيون,2,1,0,-1,"Bhutanese,",Vegetarians
+قطري،,محب للكرة,2,1,0,-1,"Qatari,",Football lover
+أرمني ،,عازف كمان,2,1,0,-1,"Armenian,",Violinist
+الفارويون ،,الصيادون,2,1,0,-1,"Faroese,",Hunters
+باروندي ،,مشهور,2,1,0,-1,"Barundi,",Famous
+أشخاص من رأس الخيمة،,متحكم في نفسه,2,1,0,-1,"People from Ras Al Khaimah,",Self-controlled
+إيراني ،,مثقّف,2,1,0,-1,"Iranian,",cultured
+العجماني،,طيبون القلب,2,1,0,-1,"Ajmani,",They are kind-hearted
+دبيان،,مخلص,1,1,1,-1,"Debian,",sincere
+العجماني،,القوي,2,1,0,-1,"Ajmani,",The strong one
+أشخاص من دبي،,متطورون,2,1,0,-1,"people from dubai,",Sophisticated
+أشخاص من رأس الخيمة،,مهتمون بالرياضة,2,1,0,-1,"People from Ras Al Khaimah,",Interested in sports
+مانكس ،,قطط,1,1,1,-1,"Manx,",Cats
+أهل أم القيوين،,المحبين,2,1,0,-1,"The people of Umm Al Quwain,",Lovers
+أهل الفجيرة،,مهرة,2,1,0,-1,"People of Fujairah,",Filly
+كاميروني ،,رياضي,2,1,0,-1,"Cameroonian,",Athlete
+الفنلنديون ،,رماية,2,1,0,-1,"finns,",shooting
+نيبالي ،,جبال الهيمالايا,2,1,0,-1,"nepali,",Himalayas
+مانكس ،,قطة,1,1,1,-1,"Manx,",cat
+الفنلنديون ،,الصمت,2,1,0,-1,"finns,",Silence
+الشارجاوي،,السعيد,2,1,0, ,"Sharjawi,",Happy
+صربي ،,الوطني,2,1,0, ,"Serbian,",the National
+زنجباري ،,التجار,2,1,0, ,"Zanzibari,",Merchants
+دبيان،,إسلامي,1,1,1, ,"Debian,",Islami
+الأرمنيون،,يجيدون العزف على الكمان,2,1,0, ,"Armenians,",They are good at playing the violin
+التنزانيون ،,يجيدون الجري لمسافات طويلة,2,1,0, ,"tanzanians,",They are good at running long distances
+الفلبينيات،,جميلات,2,1,0, ,"filipinas,",Beautiful ones
+الدبيان،,الصراخ,1,1,1, ,"Debian,",Screaming
+أشخاص من رأس الخيمة،,مخلصون,2,1,0, ,"People from Ras Al Khaimah,",Loyal
+أهل الشارقة،,العملي,2,1,0, ,"People of Sharjah,",Practical
+العجماني،,اللطيف,2,1,0, ,"Ajmani,",The gentle one
+أهل الفجيرة،,أغنياء,2,1,0, ,"People of Fujairah,",Rich people
+صوماليون ،,مسلمين,2,1,0, ,"Somalis,",Muslims
+أهل عجمان،,مخلصون,2,1,0, ,"People of Ajman,",Loyal
+أهل الفجيرة،,البحار,2,1,0, ,"People of Fujairah,",Seas
+أهل عجمان،,طويلون,2,1,0, ,"People of Ajman,",They are tall
+دبيان،,غامضون,1,1,1, ,"Debian,",They are mysterious
+دبيان،,يرتدون ملابس غريبة,1,1,1, ,"Debian,",They wear strange clothes
+بولندي ،,جيدة في البولينج,2,1,0, ,"polish,",Good at bowling
+اسكتلندي ،,يرتدي قبعة صغيرة,2,1,0, ,"Scottish,",He wears a beanie
+الشرقاوي،,اللطيف,2,1,0, ,"Al-Sharqawi,",The gentle one
+دبيان،,اللطيف,1,1,1, ,"Debian,",The gentle one
+برتغالي ،,عاطفية,2,1,0, ,"portuguese,",Emotional
+العمانيون ،,الذين يتمتعون بصحة جيدة,2,1,0, ,"Omanis,",Who are in good health
+أهل عجمان،,شعبيون,2,1,0, ,"People of Ajman,",Popular
+مكسيكي ،,مكسيكي,2,1,0, ,"mexican,",Mexican
+الدبيان،,متوحشة,1,1,1, ,"Debian,",Savage
+السعوديون،,يجيدون رمي الرمح,2,1,0, ,"Saudis,",They are good at throwing javelins
+المالديفيون ،,مسلمون,2,1,0, ,"Maldivians,",Muslims
+أهل أم القيوين،,مثقفون,2,1,0, ,"The people of Umm Al Quwain,",Intellectuals
+إيطالي ،,إيطالي,2,1,0, ,"Italian,",Italian
+الشرقاوي،,الشرقي,2,1,0, ,"Al-Sharqawi,",Eastern
+الفنلنديون ،,حزينون,2,1,0, ,"finns,",They are sad
+الأمريكيون،,صريحون,2,1,0, ,"Americans,",Honest
+سكان جزر الكريسماس،,يرتدون ملابس غريبة,2,1,0, ,"christmas islanders,",They wear strange clothes
+أبو ظبيان،,ثريّان,2,1,0, ,"Abu Dhabiyan,",Wealthy
+الصرب،,عنيفون,2,1,0, ,"Serbs,",They are violent
+أشخاص من أبو ظبي،,أذكياء,2,1,0, ,"People from Abu Dhabi,",Smart
+أهل الفجيرة،,مثقفون,2,1,0, ,"People of Fujairah,",Intellectuals
+صوماليون ،,مسلمون,2,1,0, ,"Somalis,",Muslims
+الويلزية ،,الغناء,2,1,0, ,"Welsh,",singing
+اليابانية ،,أنيقون,2,1,0, ,"japanese,",Elegant
+دبيان،,تقليدي,1,1,1, ,"Debian,",traditional
+أهل الفجيرة،,العملي,2,1,0, ,"People of Fujairah,",Practical
+صربي ،,العنيف,2,1,0, ,"Serbian,",Violent
+نيبالي ،,الجبال,2,1,0, ,"nepali,",Mountains
+البريطانيون،,مهذبون,2,1,0, ,"British,",Polite
+أرمني ،,موسيقي,2,1,0, ,"Armenian,",music
+أهل أم القيوين،,أغنياء,2,1,0, ,"The people of Umm Al Quwain,",Rich people
+إيراني ،,فنانين,2,1,0, ,"Iranian,",Artists
+الفلبينيات،,مضحكات,2,1,0, ,"filipinas,",Funny ones

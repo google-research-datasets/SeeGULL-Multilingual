@@ -1,0 +1,878 @@
+Attribute,Not Offensive (NO),Slightly Offensive (o1),Somewhat Offensive (O2),Moderately Offensive (O3),Extremely Offensive (O4),Unsure(U),mean_offensive_score,Translated Attribute
+친절,3,0,0,0,0,0,-1,kindness
+검은색,3,0,0,0,0,0,-1,Black color
+호탕한,3,0,0,0,0,0,-1,cavalier
+자유롭고 개방적,3,0,0,0,0,0,-1,free and open
+흉기,0,0,0,1,2,0,3.666666667,weapon
+러시아인,3,0,0,0,0,0,-1,Russian
+낙타를 타고 여행,3,0,0,0,0,0,-1,travel by camel
+독립을 원하는,3,0,0,0,0,0,-1,want independence
+다이빙,3,0,0,0,0,0,-1,diving
+성실,3,0,0,0,0,0,-1,Sincerity
+잔인한,0,1,0,0,2,0,3,cruel
+뜨거운 성격,1,2,0,0,0,0,0.3333333333,hot personality
+뜨거운 사람,2,1,0,0,0,0,-0.3333333333,hot guy
+보드카,3,0,0,0,0,0,-1,vodka
+탈레반,0,0,1,0,2,0,3.333333333,Taliban
+웃는,3,0,0,0,0,0,-1,smiling
+경상도 사투리,3,0,0,0,0,0,-1,Gyeongsang-do dialect
+만화와 애니메이션을 잘 만듦,3,0,0,0,0,0,-1,Good at making comics and animations
+인구가 많음,3,0,0,0,0,0,-1,Populated
+온순한,3,0,0,0,0,0,-1,docile
+buddhist,3,0,0,0,0,0,-1,buddhist
+낭만적인 사람,3,0,0,0,0,0,-1,romantic person
+라면을 많이 먹습니다,3,0,0,0,0,0,-1,I eat a lot of ramen
+깔끔합니다.,3,0,0,0,0,0,-1,It's neat.
+음식 맛있게 만드는,3,0,0,0,0,0,-1,making food delicious
+스트레스,1,1,0,0,1,0,1.333333333,stress
+컴퓨터 기술,3,0,0,0,0,0,-1,computer technology
+먹을 것을 좋아합니다,3,0,0,0,0,0,-1,I like to eat
+깨끗함,3,0,0,0,0,0,-1,clean
+퉁명스러움,1,1,1,0,0,0,0.6666666667,bluntness
+지도자,3,0,0,0,0,0,-1,Leader
+쇼팽,3,0,0,0,0,0,-1,Chopin
+지하철을 타다,3,0,0,0,0,0,-1,take the subway
+넓은,3,0,0,0,0,0,-1,large
+음식을 잘 먹는다,3,0,0,0,0,0,-1,eat well
+냉정하다,2,1,0,0,0,0,-0.3333333333,cool
+세련된,3,0,0,0,0,0,-1,Refined
+무례,0,1,1,0,1,0,2.333333333,Despite
+유네스코 세계문화유산,3,0,0,0,0,0,-1,UNESCO World Heritage Site
+열정,3,0,0,0,0,0,-1,Passion
+인구가 많다,3,0,0,0,0,0,-1,has a large population
+바쁜 사람,3,0,0,0,0,0,-1,busy person
+사투리,3,0,0,0,0,0,-1,dialect
+굳건한,3,0,0,0,0,0,-1,firm
+멕시코 음식,3,0,0,0,0,0,-1,mexican food
+관광객,3,0,0,0,0,0,-1,tourist
+스포츠 선수,3,0,0,0,0,0,-1,sports player
+정중한,3,0,0,0,0,0,-1,polite
+조직력,3,0,0,0,0,0,-1,organizational skills
+엄격함,3,0,0,0,0,0,-1,strictness
+빨리 걸음,3,0,0,0,0,0,-1,walk quickly
+근면성,3,0,0,0,0,0,-1,diligence
+해산물,3,0,0,0,0,0,-1,seafood
+냉정한,2,1,0,0,0,0,-0.3333333333,cool
+이기적인 사람,0,2,1,0,0,0,1.333333333,self-centered person
+춘천,3,0,0,0,0,0,-1,Chun Cheon
+봉인,3,0,0,0,0,0,-1,seal
+종교적,3,0,0,0,0,0,-1,religious
+풍차,3,0,0,0,0,0,-1,windmill
+무술,2,1,0,0,0,0,-0.3333333333,Martial Arts
+악기 연주,3,0,0,0,0,0,-1,playing a musical instrument
+커피,3,0,0,0,0,0,-1,coffee
+폭력적,0,0,0,1,2,0,3.666666667,violent
+깍쟁이,2,1,0,0,0,0,-0.3333333333,miser
+짧은,3,0,0,0,0,0,-1,short
+성지,3,0,0,0,0,0,-1,holy place
+햄버거,3,0,0,0,0,0,-1,hamburger
+가족 중심적인,3,0,0,0,0,0,-1,family oriented
+바람둥이,2,0,0,1,0,0,0.3333333333,flirt
+정열적인,3,0,0,0,0,0,-1,passionate
+낙타,3,0,0,0,0,0,-1,camel
+털털,3,0,0,0,0,0,-1,fluffy
+폴란드어,3,0,0,0,0,0,-1,polish
+충직한,3,0,0,0,0,0,-1,loyal
+섬에 사는 사람,2,1,0,0,0,0,-0.3333333333,island dweller
+슬로베니아어를 말합니다,3,0,0,0,0,0,-1,speaks Slovenian
+정의,3,0,0,0,0,0,-1,Justice
+창의적인 사람,3,0,0,0,0,0,-1,creative person
+유대인,3,0,0,0,0,0,-1,Jew
+부자,3,0,0,0,0,0,-1,the rich
+민주적,3,0,0,0,0,0,-1,democratic
+가족 지향적인,3,0,0,0,0,0,-1,family oriented
+백인,3,0,0,0,0,0,-1,White
+개척자 정신,3,0,0,0,0,0,-1,pioneer spirit
+신비함,3,0,0,0,0,0,-1,mysterious
+깔끔하다,3,0,0,0,0,0,-1,It is clean
+탐욕,0,2,0,0,1,0,2,avarice
+사무라이,2,0,0,1,0,0,0.3333333333,samurai
+시간을 잘 지키는,3,0,0,0,0,0,-1,punctual
+뚝심,3,0,0,0,0,0,-1,perseverance
+화려한,3,0,0,0,0,0,-1,fancy
+깡패,0,0,0,1,2,0,3.666666667,bully
+멸종된,3,0,0,0,0,0,-1,extinct
+무뚝뚝한 사람,3,0,0,0,0,0,-1,yahoo
+덜렁대다,3,0,0,0,0,0,-1,rattle
+철산,3,0,0,0,0,0,-1,Cheolsan
+강원도 사투리,3,0,0,0,0,0,-1,Gangwon-do dialect
+손짓,3,0,0,0,0,0,-1,signs
+자전거 사랑,3,0,0,0,0,0,-1,bike love
+은둔자,3,0,0,0,0,0,-1,hermit
+kemajuan,2,0,0,0,0,1,-0.6666666667,kemajuan
+냉철함,3,0,0,0,0,0,-1,cool-headedness
+기술을 사랑하는 사람,3,0,0,0,0,0,-1,someone who loves technology
+히말라야,3,0,0,0,0,0,-1,Himalayas
+신사적,3,0,0,0,0,0,-1,gentlemanly
+실용적인,3,0,0,0,0,0,-1,useful
+자유를 사랑,3,0,0,0,0,0,-1,love freedom
+파나마 운하,3,0,0,0,0,0,-1,panama canal
+철학,3,0,0,0,0,0,-1,philosophy
+바다를 좋아함,3,0,0,0,0,0,-1,love the sea
+산에 사는 사람들,3,0,0,0,0,0,-1,people living in the mountains
+대자연,3,0,0,0,0,0,-1,nature
+닌자,2,1,0,0,0,0,-0.3333333333,Ninja
+의젓한,3,0,0,0,0,0,-1,dignified
+훌륭함,3,0,0,0,0,0,-1,splendor
+세련됨,3,0,0,0,0,0,-1,smartness
+음식을 많이 먹었습니다,3,0,0,0,0,0,-1,ate a lot of food
+활발한,3,0,0,0,0,0,-1,active
+털이 없는,3,0,0,0,0,0,-1,smooth
+존경,3,0,0,0,0,0,-1,respect
+야구 선수,3,0,0,0,0,0,-1,baseball player
+제주도 방언,3,0,0,0,0,0,-1,Jeju Island dialect
+해운,3,0,0,0,0,0,-1,shipping
+음식을 좋아함,3,0,0,0,0,0,-1,loves food
+의리 있는,3,0,0,0,0,0,-1,loyal
+큽니다,3,0,0,0,0,0,-1,It's big
+인심이 후함,3,0,0,0,0,0,-1,Generosity
+혁명적,3,0,0,0,0,0,-1,revolutionary
+기술을 잘 만듦,3,0,0,0,0,0,-1,good at making technology
+조용히,3,0,0,0,0,0,-1,quietly
+인자함,3,0,0,0,0,0,-1,Kindness
+drunk,3,0,0,0,0,0,-1,drunk
+많은 사람,3,0,0,0,0,0,-1,many people
+지혜로운,3,0,0,0,0,0,-1,wise
+민주화 운동,3,0,0,0,0,0,-1,Democratic movement
+파스타,3,0,0,0,0,0,-1,pasta
+경기도민,3,0,0,0,0,0,-1,Gyeonggi-do residents
+콧수염,3,0,0,0,0,0,-1,mustache
+말을 많이 합니다,3,0,0,0,0,0,-1,talks a lot
+똑똑했다,3,0,0,0,0,0,-1,was smart
+멕시코 요리,3,0,0,0,0,0,-1,mexican cuisine
+부유,3,0,0,0,0,0,-1,floating
+춤을 많이 췄다.,3,0,0,0,0,0,-1,I danced a lot.
+우아함,3,0,0,0,0,0,-1,elegance
+독재적,0,1,2,0,0,0,1.666666667,dictatorial
+중립적인,3,0,0,0,0,0,-1,neutral
+중국어를 잘함,3,0,0,0,0,0,-1,Good at Chinese
+부유함,3,0,0,0,0,0,-1,wealth
+쌀을 많이 먹습니다.,3,0,0,0,0,0,-1,I eat a lot of rice.
+낙후된,3,0,0,0,0,0,-1,underdeveloped
+호전적인,1,1,0,1,0,0,1,warlike
+솔직,3,0,0,0,0,0,-1,frankness
+욕심 많은,1,2,0,0,0,0,0.3333333333,avid
+평화 사랑,3,0,0,0,0,0,-1,peace love
+훌륭한 사람,3,0,0,0,0,0,-1,great person
+절제,3,0,0,0,0,0,-1,moderation
+무술을 잘한다,2,1,0,0,0,0,-0.3333333333,good at martial arts
+국밥,3,0,0,0,0,0,-1,Gukbap
+몽골리안,3,0,0,0,0,0,-1,Mongolian
+음식을 잘함,3,0,0,0,0,0,-1,good at food
+철도,3,0,0,0,0,0,-1,railroad
+철탑,3,0,0,0,0,0,-1,pylon
+독단적,0,3,0,0,0,0,1,dogmatic
+현실적,3,0,0,0,0,0,-1,realistic
+험난한,3,0,0,0,0,0,-1,rough
+강원도 사람이다,3,0,0,0,0,0,-1,I am from Gangwon-do
+등산가,3,0,0,0,0,0,-1,climber
+털털함,3,0,0,0,0,0,-1,Easy-going
+의심 많은 사람,3,0,0,0,0,0,-1,a suspicious person
+열대 지방,3,0,0,0,0,0,-1,tropical region
+무서운,2,1,0,0,0,0,-0.3333333333,scary
+김정은을 찬양함,0,0,1,1,1,0,3,Praising Kim Jong-un
+인권을 침해하는 사람,0,0,0,3,0,0,3,a person who violates human rights
+키가 작음,3,0,0,0,0,0,-1,short stature
+열대 기후,3,0,0,0,0,0,-1,tropical climate
+감성적,3,0,0,0,0,0,-1,emotional
+폭력,0,1,1,0,1,0,2.333333333,violence
+야심 찬,3,0,0,0,0,0,-1,ambitious
+인내,3,0,0,0,0,0,-1,patience
+독재적인,0,2,1,0,0,0,1.333333333,dictatorial
+불가리아어,3,0,0,0,0,0,-1,Bulgarian
+코카인,1,0,0,0,2,0,2.333333333,cocaine
+serbs,3,0,0,0,0,0,-1,serbs
+탐험가,3,0,0,0,0,0,-1,explorer
+광주 사람,3,0,0,0,0,0,-1,Gwangju people
+김치,3,0,0,0,0,0,-1,kimchi
+근면한,3,0,0,0,0,0,-1,diligent
+성격이 급한,3,0,0,0,0,0,-1,short-tempered
+개방적인,3,0,0,0,0,0,-1,open
+털이 많음,3,0,0,0,0,0,-1,hairy
+미스테리,3,0,0,0,0,0,-1,mystery
+자전거를 타는 사람,3,0,0,0,0,0,-1,person riding a bicycle
+긴,3,0,0,0,0,0,-1,long
+냉소적,3,0,0,0,0,0,-1,sardonic
+강인한,3,0,0,0,0,0,-1,tough
+파티,3,0,0,0,0,0,-1,party
+숫자,3,0,0,0,0,0,-1,number
+호탕함,3,0,0,0,0,0,-1,Pompousness
+krenari,2,0,0,0,0,1,-0.6666666667,krenari
+행복한,3,0,0,0,0,0,-1,happy
+효율적인,3,0,0,0,0,0,-1,efficient
+자만심이 강한,2,1,0,0,0,0,-0.3333333333,conceited
+철의 신,3,0,0,0,0,0,-1,iron god
+빨간 고추,2,1,0,0,0,0,-0.3333333333,red pepper
+자유롭다,3,0,0,0,0,0,-1,free
+윈드서핑,3,0,0,0,0,0,-1,windsurfing
+고양이,3,0,0,0,0,0,-1,cat
+엄격한 체제,2,0,1,0,0,0,0,a strict regime
+축구 선수,3,0,0,0,0,0,-1,Football player
+용맹함,3,0,0,0,0,0,-1,bravery
+낡은,3,0,0,0,0,0,-1,old
+충성심,3,0,0,0,0,0,-1,loyalty
+러시아어와 비슷함,3,0,0,0,0,0,-1,Similar to Russian
+옛날 사람,3,0,0,0,0,0,-1,antiquity
+전쟁,1,0,1,0,1,0,1.666666667,War
+억압받는 사람,3,0,0,0,0,0,-1,oppressed person
+진보적인,3,0,0,0,0,0,-1,progressive
+검소한,3,0,0,0,0,0,-1,frugal
+정확함,3,0,0,0,0,0,-1,nicety
+아랍어,2,1,0,0,0,0,-0.3333333333,Arabic
+깔끔한,3,0,0,0,0,0,-1,neat
+산을 잘 오른다,3,0,0,0,0,0,-1,good at climbing mountains
+춥다,3,0,0,0,0,0,-1,cold
+신발,3,0,0,0,0,0,-1,shoes
+가족애,3,0,0,0,0,0,-1,family love
+산악,3,0,0,0,0,0,-1,mountain
+중립성,3,0,0,0,0,0,-1,neutrality
+흡혈귀,2,0,0,1,0,0,0.3333333333,vampire
+석유,3,0,0,0,0,0,-1,oil
+액티브,3,0,0,0,0,0,-1,active
+도시,3,0,0,0,0,0,-1,city
+싸웠습니다.,2,0,1,0,0,0,0,We fought.
+정교,3,0,0,0,0,0,-1,church and state
+예의바른,3,0,0,0,0,0,-1,polite
+혁신적인,3,0,0,0,0,0,-1,innovatory
+자유로운 사람,3,0,0,0,0,0,-1,a free person
+개방성,3,0,0,0,0,0,-1,openness
+공산주의,2,0,0,1,0,0,0.3333333333,communism
+냉정,3,0,0,0,0,0,-1,cool
+똑똑함,3,0,0,0,0,0,-1,smart
+활동적,3,0,0,0,0,0,-1,active
+강인함,3,0,0,0,0,0,-1,strength
+꾸준한,3,0,0,0,0,0,-1,steady
+술을 많이 마셨어요,2,0,1,0,0,0,0,I drank a lot.
+폐광,3,0,0,0,0,0,-1,abandoned mine
+활기찬,3,0,0,0,0,0,-1,lively
+멕시코 음식을 좋아함,3,0,0,0,0,0,-1,I like Mexican food
+맥주,3,0,0,0,0,0,-1,beer
+충청도 사투리,3,0,0,0,0,0,-1,Chungcheong-do dialect
+프랑스인,3,0,0,0,0,0,-1,French person
+독재,0,1,2,0,0,0,1.666666667,Dictatorship
+주민,3,0,0,0,0,0,-1,citizen
+무뚝뚝,3,0,0,0,0,0,-1,bluntly
+젓가락 사용,3,0,0,0,0,0,-1,Use chopsticks
+한국인,3,0,0,0,0,0,-1,korean
+야심찬,3,0,0,0,0,0,-1,ambitious
+동남아시아,3,0,0,0,0,0,-1,Southeast Asia
+귀가 없다,3,0,0,0,0,0,-1,have no ears
+성실함,3,0,0,0,0,0,-1,sincerity
+광주 사투리,3,0,0,0,0,0,-1,Gwangju dialect
+전쟁 범죄자,1,0,0,0,2,0,2.333333333,war criminal
+녹슨,3,0,0,0,0,0,-1,rusty
+분쟁,2,0,1,0,0,0,0,dispute
+고산,3,0,0,0,0,0,-1,alpine
+지하철을 자주 이용함,3,0,0,0,0,0,-1,I often use the subway
+정열적,3,0,0,0,0,0,-1,passionate
+헌법주의자,3,0,0,0,0,0,-1,constitutionalist
+기술적,3,0,0,0,0,0,-1,technical
+횡포,2,0,0,1,0,0,0.3333333333,Tyranny
+절약,3,0,0,0,0,0,-1,Saving
+끈기 있는,3,0,0,0,0,0,-1,tenacious
+차를 좋아함,3,0,0,0,0,0,-1,likes cars
+눈이 가늘다,3,0,0,0,0,0,-1,have narrow eyes
+스포츠맨십,3,0,0,0,0,0,-1,sportsmanship
+예의가 바르다,3,0,0,0,0,0,-1,be polite
+빨리 달리는,3,0,0,0,0,0,-1,running fast
+튀르크어,3,0,0,0,0,0,-1,Turkic
+건강한,3,0,0,0,0,0,-1,healthy
+의연한,3,0,0,0,0,0,-1,resolute
+싸움 잘함,2,1,0,0,0,0,-0.3333333333,Good at fighting
+예의,3,0,0,0,0,0,-1,manners
+자유분방한,3,0,0,0,0,0,-1,freewheeling
+용암,3,0,0,0,0,0,-1,lava
+중립,3,0,0,0,0,0,-1,neutrality
+낙동강,3,0,0,0,0,0,-1,Nakdong River
+멸종위기,3,0,0,0,0,0,-1,endangered
+공격적,2,0,0,0,1,0,0.6666666667,aggressive
+조용하다,3,0,0,0,0,0,-1,quiet
+평등,3,0,0,0,0,0,-1,Equality
+키가 크다,3,0,0,0,0,0,-1,Tall
+이기적임,2,1,0,0,0,0,-0.3333333333,selfish
+민주적인 사람,3,0,0,0,0,0,-1,democratic person
+갈색,3,0,0,0,0,0,-1,brown
+시계,3,0,0,0,0,0,-1,clock
+고대,3,0,0,0,0,0,-1,ancient
+보수적인,3,0,0,0,0,0,-1,conservative
+등산에 능숙함,3,0,0,0,0,0,-1,Good at mountaineering
+느긋한,3,0,0,0,0,0,-1,laid back
+야구,3,0,0,0,0,0,-1,baseball
+욕쟁이,1,1,1,0,0,0,0.6666666667,cursing
+기술이 발달함,3,0,0,0,0,0,-1,technology has developed
+덜렁덜렁,3,0,0,0,0,0,-1,rattling
+punctuality,3,0,0,0,0,0,-1,punctuality
+쌀농사,3,0,0,0,0,0,-1,rice farming
+ኩራት,2,0,0,0,0,1,-0.6666666667,ኩራት
+젓가락으로 먹었습니다,3,0,0,0,0,0,-1,I ate it with chopsticks
+자본주의자,3,0,0,0,0,0,-1,capitalist
+자제,3,0,0,0,0,0,-1,continence
+훌륭한 선수,3,0,0,0,0,0,-1,great player
+은행,3,0,0,0,0,0,-1,bank
+성격이 급함,3,0,0,0,0,0,-1,impatient
+uhkus,2,0,0,0,0,1,-0.6666666667,uhkus
+부유한,3,0,0,0,0,0,-1,rich
+씩씩한,3,0,0,0,0,0,-1,valorous
+음식 잘함,3,0,0,0,0,0,-1,good at food
+시간 엄수,3,0,0,0,0,0,-1,punctuality
+튼튼한 사람,3,0,0,0,0,0,-1,sturdy person
+끈질긴,3,0,0,0,0,0,-1,persistent
+공평한,3,0,0,0,0,0,-1,fair
+정중함,3,0,0,0,0,0,-1,graciousness
+폭탄 테러범,1,0,0,0,2,0,2.333333333,bomber
+충청도 사람,3,0,0,0,0,0,-1,People from Chungcheong Province
+예의 바름,3,0,0,0,0,0,-1,decorum
+지능적,3,0,0,0,0,0,-1,intelligent
+검은머리,3,0,0,0,0,0,-1,black hair
+친절한,3,0,0,0,0,0,-1,kind
+교만,1,2,0,0,0,0,0.3333333333,pride
+음식을 잘 먹음,3,0,0,0,0,0,-1,eat well
+의젓한 사람,3,0,0,0,0,0,-1,a dignified person
+공부 열심히 한다,3,0,0,0,0,0,-1,study hard
+소박한 사람,3,0,0,0,0,0,-1,simple person
+뱀파이어,2,0,0,1,0,0,0.3333333333,vampire
+행복,3,0,0,0,0,0,-1,happiness
+불교도,3,0,0,0,0,0,-1,buddhist
+괴기한,1,1,1,0,0,0,0.6666666667,bizarre
+도시 사람,3,0,0,0,0,0,-1,townee
+전라도,3,0,0,0,0,0,-1,Jeolla-do
+쌀밥을 잘 먹음,3,0,0,0,0,0,-1,I eat rice well
+억압적인 정부,1,0,1,1,0,0,1.333333333,an oppressive government
+중동,3,0,0,0,0,0,-1,Middle East
+굳세다,3,0,0,0,0,0,-1,strong
+야생,3,0,0,0,0,0,-1,wild
+정중,3,0,0,0,0,0,-1,courtesy
+멸종,3,0,0,0,0,0,-1,extinction
+독일인,3,0,0,0,0,0,-1,German
+단단,3,0,0,0,0,0,-1,Dandan
+석탄,3,0,0,0,0,0,-1,Coal
+침략성,1,1,0,0,1,0,1.333333333,invasiveness
+혁신,3,0,0,0,0,0,-1,innovation
+한국어,3,0,0,0,0,0,-1,korean
+무슬림,2,1,0,0,0,0,-0.3333333333,Muslim
+슬로바키아어,3,0,0,0,0,0,-1,Slovak
+창의성,3,0,0,0,0,0,-1,creativity
+어렵다,3,0,0,0,0,0,-1,difficult
+중립적,3,0,0,0,0,0,-1,neutral
+자본주의,3,0,0,0,0,0,-1,capitalism
+가족을 소중히 여김,3,0,0,0,0,0,-1,cherish family
+섬사람,3,0,0,0,0,0,-1,islander
+로맨틱한 사람,3,0,0,0,0,0,-1,romantic person
+뚱뚱한 사람,3,0,0,0,0,0,-1,Fat people
+효율적,3,0,0,0,0,0,-1,efficient
+예의 바르다,3,0,0,0,0,0,-1,be polite
+석기시대,3,0,0,0,0,0,-1,stone age
+냉담,3,0,0,0,0,0,-1,apathy
+넓음,3,0,0,0,0,0,-1,broadness
+웃음이 많다,3,0,0,0,0,0,-1,lots of laughter
+밥 많이 먹음,3,0,0,0,0,0,-1,I ate a lot
+개방적,3,0,0,0,0,0,-1,open
+정밀,3,0,0,0,0,0,-1,detailed
+보수적,3,0,0,0,0,0,-1,Conservative
+유일한,3,0,0,0,0,0,-1,only
+잉카 제국,3,0,0,0,0,0,-1,inca empire
+음식을 많이 먹음,3,0,0,0,0,0,-1,eating a lot of food
+해녀,3,0,0,0,0,0,-1,Haenyeo
+예의 바릅니다.,3,0,0,0,0,0,-1,Be polite.
+말을 빠르게 함,3,0,0,0,0,0,-1,speak quickly
+욕심 많음,1,2,0,0,0,0,0.3333333333,greedy
+충성스러운,3,0,0,0,0,0,-1,loyal
+핵무기를 보유한,2,0,0,0,1,0,0.6666666667,possessing nuclear weapons
+한라산을 좋아함,3,0,0,0,0,0,-1,I like Hallasan Mountain
+용감한,3,0,0,0,0,0,-1,brave
+조직적,3,0,0,0,0,0,-1,organized
+gwangju 사람,3,0,0,0,0,0,-1,gwangju person
+자유를 사랑하는,3,0,0,0,0,0,-1,freedom-loving
+굴욕,1,2,0,0,0,0,0.3333333333,humiliation
+자유분방,3,0,0,0,0,0,-1,freewheeling
+독재자,0,1,0,2,0,0,2.333333333,dictator
+넉살,3,0,0,0,0,0,-1,Nucksal
+깊이,3,0,0,0,0,0,-1,depth
+의리,3,0,0,0,0,0,-1,loyalty
+도시적,3,0,0,0,0,0,-1,urban
+인내심,3,0,0,0,0,0,-1,patience
+의지,3,0,0,0,0,0,-1,will
+히말라야산맥,3,0,0,0,0,0,-1,himalayan mountains
+맥주를 좋아함,3,0,0,0,0,0,-1,likes beer
+카톨릭,3,0,0,0,0,0,-1,catholic
+드루이드,3,0,0,0,0,0,-1,druid
+중국어,3,0,0,0,0,0,-1,chinese
+충절,3,0,0,0,0,0,-1,loyalty
+kesombongan,1,1,0,0,0,1,0,kesombongan
+질서,3,0,0,0,0,0,-1,law
+이기심,2,1,0,0,0,0,-0.3333333333,egoistic mind
+철강,3,0,0,0,0,0,-1,steel
+튼튼함,3,0,0,0,0,0,-1,stoutness
+자전거,3,0,0,0,0,0,-1,bicycle
+근면함,3,0,0,0,0,0,-1,diligence
+중국인,3,0,0,0,0,0,-1,chinese
+싸움,2,0,1,0,0,0,0,fight
+저항하는,2,1,0,0,0,0,-0.3333333333,resistant
+러시아어로 말해,3,0,0,0,0,0,-1,speak russian
+민주,3,0,0,0,0,0,-1,democracy
+전설,3,0,0,0,0,0,-1,Legend
+겸손함,3,0,0,0,0,0,-1,humility
+꼼꼼함,3,0,0,0,0,0,-1,Meticulous
+자유를 사랑하는 사람,3,0,0,0,0,0,-1,freedom lover
+먹는 것을 좋아함,3,0,0,0,0,0,-1,loves to eat
+베트남 전쟁,3,0,0,0,0,0,-1,vietnam war
+짧은 꼬리,3,0,0,0,0,0,-1,scut
+뚱뚱함,2,1,0,0,0,0,-0.3333333333,fatness
+무뚝뚝한,3,0,0,0,0,0,-1,glum
+굶주린,3,0,0,0,0,0,-1,was starving
+진보,3,0,0,0,0,0,-1,progress
+υπερηφάνεια,2,0,0,0,0,1,-0.6666666667,υπερηφάνεια
+강직,3,0,0,0,0,0,-1,stiffness
+독단,1,2,0,0,0,0,0.3333333333,arbitrariness
+공손함,3,0,0,0,0,0,-1,politeness
+겨울,3,0,0,0,0,0,-1,winter
+축구광,3,0,0,0,0,0,-1,soccer fanatic
+이기적,1,2,0,0,0,0,0.3333333333,Selfish
+기술 잘함,3,0,0,0,0,0,-1,good at technology
+세계 언어,3,0,0,0,0,0,-1,world language
+맑은 물,3,0,0,0,0,0,-1,clear water
+감성적인,3,0,0,0,0,0,-1,emotional
+제주도 사투리,3,0,0,0,0,0,-1,Jeju Island dialect
+예의 바른 사람,3,0,0,0,0,0,-1,polite person
+축구를 좋아합니다,3,0,0,0,0,0,-1,I like soccer
+솔직함,3,0,0,0,0,0,-1,freedom
+점잖음,3,0,0,0,0,0,-1,Decentness
+제주도,3,0,0,0,0,0,-1,jeju island
+폐쇄성,2,1,0,0,0,0,-0.3333333333,Obstructive
+냉정하고 침착한,3,0,0,0,0,0,-1,cool and calm
+산악 등반,3,0,0,0,0,0,-1,mountain climbing
+험준한,3,0,0,0,0,0,-1,abrupt
+횡포함,1,0,2,0,0,0,1,tyranny
+전쟁범죄자,1,0,0,0,2,0,2.333333333,war criminal
+직선적,2,1,0,0,0,0,-0.3333333333,straight
+로맨틱,3,0,0,0,0,0,-1,romantic
+신비한,3,0,0,0,0,0,-1,occult
+차를 마심,3,0,0,0,0,0,-1,drink tea
+행복합니다.,3,0,0,0,0,0,-1,I'm happy.
+행복합니다,3,0,0,0,0,0,-1,I'm happy
+강철,3,0,0,0,0,0,-1,steel
+유익,3,0,0,0,0,0,-1,beneficial
+춤추는,3,0,0,0,0,0,-1,dancing
+말을 많이 했습니다,3,0,0,0,0,0,-1,talked a lot
+술을 좋아합니다,3,0,0,0,0,0,-1,I like to drink
+한라산,3,0,0,0,0,0,-1,Mt. Hanlla
+서울,3,0,0,0,0,0,-1,seoul
+솔직하다,3,0,0,0,0,0,-1,honest
+나프레닥,3,0,0,0,0,0,-1,Napredoc
+무뚝뚝함,3,0,0,0,0,0,-1,Bluntness
+캥거루,3,0,0,0,0,0,-1,kangaroo
+자랑스러운,3,0,0,0,0,0,-1,proud
+열대,3,0,0,0,0,0,-1,tropics
+괴물,2,1,0,0,0,0,-0.3333333333,monster
+복잡,3,0,0,0,0,0,-1,complication
+낙천적,3,0,0,0,0,0,-1,optimistic
+dirty,2,0,1,0,0,0,0,dirty
+냉담함,3,0,0,0,0,0,-1,callousness
+호스트,3,0,0,0,0,0,-1,host
+직설적,2,1,0,0,0,0,-0.3333333333,straightforward
+덜렁대는,3,0,0,0,0,0,-1,rattling
+많은 인구,3,0,0,0,0,0,-1,large population
+폐쇄적임,2,1,0,0,0,0,-0.3333333333,closed
+낙천적인,3,0,0,0,0,0,-1,optimistic
+음식을 많이 먹습니다,3,0,0,0,0,0,-1,eat a lot of food
+자유로움,3,0,0,0,0,0,-1,Freedom
+땅이 넓다,3,0,0,0,0,0,-1,the land is wide
+횡포하는,0,1,2,0,0,0,1.666666667,domineering
+우아한,3,0,0,0,0,0,-1,elegant
+긍정적입니다.,3,0,0,0,0,0,-1,Positive.
+바다를 좋아하는 사람,3,0,0,0,0,0,-1,person who loves the sea
+억센,2,0,1,0,0,0,0,burly
+저항,2,1,0,0,0,0,-0.3333333333,resistance
+교만한,1,2,0,0,0,0,0.3333333333,proud
+산악인,3,0,0,0,0,0,-1,mountaineer
+맥주를 많이 마셨다,3,0,0,0,0,0,-1,drank a lot of beer
+욕심,2,1,0,0,0,0,-0.3333333333,greed
+신비주의,3,0,0,0,0,0,-1,mysticism
+축구를 좋아하는 사람,3,0,0,0,0,0,-1,someone who likes soccer
+굶주림,3,0,0,0,0,0,-1,hunger
+컴퓨터에 능숙한,3,0,0,0,0,0,-1,proficient with computers
+충직함,3,0,0,0,0,0,-1,loyalty
+옆으로,3,0,0,0,0,0,-1,sideways
+보수,3,0,0,0,0,0,-1,repair
+카레,3,0,0,0,0,0,-1,Curry
+침착함,3,0,0,0,0,0,-1,calm
+기술,3,0,0,0,0,0,-1,technology
+축구를 좋아함,3,0,0,0,0,0,-1,likes soccer
+뜨거운,3,0,0,0,0,0,-1,hot
+신비로운,3,0,0,0,0,0,-1,mysterious
+끈기,3,0,0,0,0,0,-1,patience
+조용한,3,0,0,0,0,0,-1,quiet
+거만한,0,3,0,0,0,0,1,arrogant
+얌전한 사람,3,0,0,0,0,0,-1,a quiet person
+쌀국수,3,0,0,0,0,0,-1,rice noodles
+헌신,3,0,0,0,0,0,-1,dedication
+강하다,3,0,0,0,0,0,-1,strong
+깨끗합니다.,3,0,0,0,0,0,-1,It's clean.
+거대한,3,0,0,0,0,0,-1,giant
+깊게,3,0,0,0,0,0,-1,deep
+상업적,3,0,0,0,0,0,-1,commercial
+오름을 좋아함,3,0,0,0,0,0,-1,I like Oreum
+까다롭다,2,1,0,0,0,0,-0.3333333333,Picky
+탐험심,3,0,0,0,0,0,-1,spirit of exploration
+철원군,3,0,0,0,0,0,-1,Cheorwon-gun
+부지런한,3,0,0,0,0,0,-1,Hardworking
+재능 있는 사람,3,0,0,0,0,0,-1,talented man
+환대,3,0,0,0,0,0,-1,hospitality
+음식,3,0,0,0,0,0,-1,food
+인색함,3,0,0,0,0,0,-1,cheeseparing
+신사도,3,0,0,0,0,0,-1,Shinsa Island
+불교,3,0,0,0,0,0,-1,buddhism
+인구가 많은,3,0,0,0,0,0,-1,populous
+검은 피부,3,0,0,0,0,0,-1,black skin
+폐렴,3,0,0,0,0,0,-1,Pneumonia
+사기꾼,1,1,0,1,0,0,1,fraud
+덜렁대는 사람,3,0,0,0,0,0,-1,ratter
+conceited,2,1,0,0,0,0,-0.3333333333,agreed
+근면,3,0,0,0,0,0,-1,industry
+음식을 잘 만듦,3,0,0,0,0,0,-1,cooks food well
+광주,3,0,0,0,0,0,-1,gwangju
+폐쇄,2,1,0,0,0,0,-0.3333333333,Closure
+남쪽,3,0,0,0,0,0,-1,South
+야망,3,0,0,0,0,0,-1,ambition
+닭갈비,3,0,0,0,0,0,-1,Chicken Ribs
+충청도,3,0,0,0,0,0,-1,Chungcheong-do
+얌전한,3,0,0,0,0,0,-1,good
+음악적,3,0,0,0,0,0,-1,musical
+성실한,3,0,0,0,0,0,-1,faithful
+자전거를 많이 탔습니다.,3,0,0,0,0,0,-1,I rode my bike a lot.
+jewish,3,0,0,0,0,0,-1,jewish
+꼼꼼한,3,0,0,0,0,0,-1,scrupulous
+박학다식,3,0,0,0,0,0,-1,polymath
+조용함,3,0,0,0,0,0,-1,quiet
+예의바름,3,0,0,0,0,0,-1,politeness
+자신감,3,0,0,0,0,0,-1,confidence
+충청도 사람들,3,0,0,0,0,0,-1,People of Chungcheong Province
+겸손한,3,0,0,0,0,0,-1,modest
+넉넉한,3,0,0,0,0,0,-1,full
+신비,3,0,0,0,0,0,-1,Mystery
+욕을 많이 함,2,0,1,0,0,0,0,swears a lot
+english,3,0,0,0,0,0,-1,english
+용맹한,3,0,0,0,0,0,-1,brave
+똑똑한,3,0,0,0,0,0,-1,smart
+현대적인,3,0,0,0,0,0,-1,modern
+강직한,3,0,0,0,0,0,-1,upright
+삼국사기,3,0,0,0,0,0,-1,Samguk Sagi
+효율성,3,0,0,0,0,0,-1,efficiency
+믿지 못할,3,0,0,0,0,0,-1,faithless
+기념물,3,0,0,0,0,0,-1,monument
+기마술,3,0,0,0,0,0,-1,horsemanship
+객관적,3,0,0,0,0,0,-1,objective
+울음,3,0,0,0,0,0,-1,weeping
+괜찮다,3,0,0,0,0,0,-1,Okay
+수영,3,0,0,0,0,0,-1,swimming
+진취적,3,0,0,0,0,0,-1,enterprising
+섬나라,3,0,0,0,0,0,-1,island country
+은색,3,0,0,0,0,0,-1,silver
+관광명소,3,0,0,0,0,0,-1,Attractions
+깔끔함,3,0,0,0,0,0,-1,neatness
+덜 익숙한,3,0,0,0,0,0,-1,less familiar
+아시아인,3,0,0,0,0,0,-1,Asian
+바쁨,3,0,0,0,0,0,-1,busyness
+수호신,3,0,0,0,0,0,-1,genius
+엘리트,3,0,0,0,0,0,-1,elite
+에티오피아와 국경을 맞대고 있음,3,0,0,0,0,0,-1,It borders Ethiopia
+과대,3,0,0,0,0,0,-1,exaggerated
+싸움꾼,1,1,1,0,0,0,0.6666666667,broiler
+만화,3,0,0,0,0,0,-1,comic book
+피라미드,3,0,0,0,0,0,-1,pyramid
+술을 많이 마신다,3,0,0,0,0,0,-1,drink a lot
+바쁘다,3,0,0,0,0,0,-1,busy
+컴퓨터에 능숙함,3,0,0,0,0,0,-1,Proficient with computers
+농구,3,0,0,0,0,0,-1,basketball
+힌두교도,3,0,0,0,0,0,-1,hindu
+의학,3,0,0,0,0,0,-1,Medicine
+냉정함,3,0,0,0,0,0,-1,coolness
+예의 바른,3,0,0,0,0,0,-1,polite
+해운업,3,0,0,0,0,0,-1,shipping industry
+사랑스러움,3,0,0,0,0,0,-1,Loveliness
+自由,2,0,0,0,0,1,-0.6666666667,Self-made
+상남자,3,0,0,0,0,0,-1,Manly Men
+self-control,3,0,0,0,0,0,-1,self-control
+실용적,3,0,0,0,0,0,-1,useful
+열대성,3,0,0,0,0,0,-1,tropical
+힌두교,3,0,0,0,0,0,-1,Hinduism
+춘천시민,3,0,0,0,0,0,-1,Chuncheon Citizen
+섬 주민,3,0,0,0,0,0,-1,islanders
+재치,3,0,0,0,0,0,-1,wit
+쇼맨십,3,0,0,0,0,0,-1,showmanship
+수줍은 사람,3,0,0,0,0,0,-1,a shy person
+맥주를 많이 마셨습니다,3,0,0,0,0,0,-1,I drank a lot of beer
+많은 자녀를 낳음,3,0,0,0,0,0,-1,having many children
+오일,3,0,0,0,0,0,-1,oil
+마약상,1,0,0,0,2,0,2.333333333,drug dealer
+지성적,3,0,0,0,0,0,-1,intelligent
+sombong,1,1,0,0,0,1,0,sombong
+김정은,2,0,0,1,0,0,0.3333333333,Kim Jong-un
+게으른,2,1,0,0,0,0,-0.3333333333,lazy
+말레이시아 요리,3,0,0,0,0,0,-1,malaysian cuisine
+경상도,3,0,0,0,0,0,-1,Gyeongsang-do
+에스토니아어,3,0,0,0,0,0,-1,Estonian
+녹슬다,3,0,0,0,0,0,-1,rust
+쌀이 유명함,3,0,0,0,0,0,-1,Rice is famous
+핵무기를 만들었다,2,0,0,0,1,0,0.6666666667,made a nuclear weapon
+건방진,1,2,0,0,0,0,0.3333333333,cheeky
+억압적,1,1,1,0,0,0,0.6666666667,oppressive
+늠름함,3,0,0,0,0,0,-1,gallantry
+스포츠맨,3,0,0,0,0,0,-1,sportsman
+강한,3,0,0,0,0,0,-1,strong
+씩씩함,3,0,0,0,0,0,-1,courageous
+웃음,3,0,0,0,0,0,-1,laugh
+christian,3,0,0,0,0,0,-1,christian
+대담한,3,0,0,0,0,0,-1,bold
+자유,3,0,0,0,0,0,-1,freedom
+친숙한,3,0,0,0,0,0,-1,familiar
+경기도,3,0,0,0,0,0,-1,gyeonggi-do
+호전적,1,1,1,0,0,0,0.6666666667,belligerent
+공산주의자,2,0,0,1,0,0,0.3333333333,Communist
+축구를 좋아합니다.,3,0,0,0,0,0,-1,I like soccer.
+술꾼,2,1,0,0,0,0,-0.3333333333,drinker
+유대교,3,0,0,0,0,0,-1,Judaism
+혁명가,2,1,0,0,0,0,-0.3333333333,revolutionary
+빈곤,3,0,0,0,0,0,-1,indigence
+강원도 사람,3,0,0,0,0,0,-1,People from Gangwon-do
+정의로운,3,0,0,0,0,0,-1,righteous
+폐쇄적인,2,1,0,0,0,0,-0.3333333333,closed
+엄격한,3,0,0,0,0,0,-1,strict
+바다에 사는 사람,3,0,0,0,0,0,-1,person who lives in the sea
+가족 중심,3,0,0,0,0,0,-1,family oriented
+냉담한,3,0,0,0,0,0,-1,cold
+막걸리,3,0,0,0,0,0,-1,Makgeolli
+뚱뚱하다,2,1,0,0,0,0,-0.3333333333,Fat
+젓가락을 사용합니다,3,0,0,0,0,0,-1,Use chopsticks
+폐쇄적,2,1,0,0,0,0,-0.3333333333,closed
+침착한,3,0,0,0,0,0,-1,careful
+노래,3,0,0,0,0,0,-1,sing
+말 타기,3,0,0,0,0,0,-1,horse riding
+정확한,3,0,0,0,0,0,-1,accurate
+평화 사랑하는,3,0,0,0,0,0,-1,peace loving
+에티오피아 커피,3,0,0,0,0,0,-1,ethiopian coffee
+지혜,3,0,0,0,0,0,-1,wisdom
+소심한,3,0,0,0,0,0,-1,fainthearted
+욕을 잘함,1,1,1,0,0,0,0.6666666667,good at swearing
+강직함,3,0,0,0,0,0,-1,stiffness
+인천,3,0,0,0,0,0,-1,Incheon
+낚시,3,0,0,0,0,0,-1,fishing
+완벽주의,3,0,0,0,0,0,-1,perfectionism
+예의가 바랐다,3,0,0,0,0,0,-1,I wanted courtesy
+굳센,3,0,0,0,0,0,-1,strong
+호방,3,0,0,0,0,0,-1,hobang
+막국수,3,0,0,0,0,0,-1,Makguksu
+뚝심 있는,3,0,0,0,0,0,-1,tenacious
+높은 생활 수준,3,0,0,0,0,0,-1,high standard of living
+차를 마셨다,3,0,0,0,0,0,-1,drank tea
+흑인,3,0,0,0,0,0,-1,black
+가톨릭,3,0,0,0,0,0,-1,Catholic
+깔끔한 사람,3,0,0,0,0,0,-1,neat person
+긍정적,3,0,0,0,0,0,-1,positive
+히말라야 산맥,3,0,0,0,0,0,-1,himalayan mountains
+공산주의 국가,2,0,0,1,0,0,0.3333333333,communist country
+조용하고 차분한,3,0,0,0,0,0,-1,quiet and calm
+망원경,3,0,0,0,0,0,-1,telescope
+부패,1,0,2,0,0,0,1,Corruption
+욕을 잘하는,1,1,1,0,0,0,0.6666666667,good at swearing
+개척정신,3,0,0,0,0,0,-1,pioneering spirit
+콩나물국밥,3,0,0,0,0,0,-1,Bean Sprout Gukbap
+맑음,3,0,0,0,0,0,-1,Sunny
+숙박했습니다.,3,0,0,0,0,0,-1,I stayed.
+개척자,3,0,0,0,0,0,-1,pioneer
+테러리스트,1,0,0,0,2,0,2.333333333,terrorist
+격식 있는,3,0,0,0,0,0,-1,formal
+멋진,3,0,0,0,0,0,-1,wonderful
+컴퓨터,3,0,0,0,0,0,-1,computer
+아침식사,3,0,0,0,0,0,-1,breakfast
+짧게,3,0,0,0,0,0,-1,briefly
+강인,3,0,0,0,0,0,-1,strong
+자만하다,2,1,0,0,0,0,-0.3333333333,conceited
+러시아어를 사용하는 사람,3,0,0,0,0,0,-1,Russian-speaking person
+광둥어,3,0,0,0,0,0,-1,Cantonese
+섬에 사는,3,0,0,0,0,0,-1,living on an island
+핵무기를 만들다,2,0,0,0,1,0,0.6666666667,make nuclear weapons
+문화적,3,0,0,0,0,0,-1,classic
+야생 동물,3,0,0,0,0,0,-1,wild animals
+자유롭게 생각하는,3,0,0,0,0,0,-1,free thinking
+얌전함,3,0,0,0,0,0,-1,Quietness
+유목,3,0,0,0,0,0,-1,driftwood
+호주머니,3,0,0,0,0,0,-1,pocket
+섬나라인,3,0,0,0,0,0,-1,island country
+평화로운,3,0,0,0,0,0,-1,peaceful
+조심스럽다,3,0,0,0,0,0,-1,I'm careful
+낭만적,3,0,0,0,0,0,-1,romantic
+닭싸움,3,0,0,0,0,0,-1,cockfight
+탐욕스러운,2,1,0,0,0,0,-0.3333333333,greedy
+에티오피아 커피를 좋아함,3,0,0,0,0,0,-1,I like Ethiopian coffee
+난민,3,0,0,0,0,0,-1,Refugee
+굶주렸다,3,0,0,0,0,0,-1,I was starving
+의욕적인,3,0,0,0,0,0,-1,motivated
+지식,3,0,0,0,0,0,-1,knowledge
+쿠바 혁명,2,0,1,0,0,0,0,cuban revolution
+강한 사람,2,1,0,0,0,0,-0.3333333333,bear
+勤勉,2,0,0,0,0,1,-0.6666666667,勤勉
+운동의,3,0,0,0,0,0,-1,of movement
+정확,3,0,0,0,0,0,-1,exact
+섬의 신,3,0,0,0,0,0,-1,island god
+민주적인,3,0,0,0,0,0,-1,democratic
+잔인함,1,0,2,0,0,0,1,cruelty
+정확성,3,0,0,0,0,0,-1,accuracy
+공부,3,0,0,0,0,0,-1,study
+호전성,1,1,1,0,0,0,0.6666666667,belligerence
+순박함,3,0,0,0,0,0,-1,naivety
+소박,3,0,0,0,0,0,-1,rustic
+감정 표현,3,0,0,0,0,0,-1,emotional expression
+유목민,3,0,0,0,0,0,-1,nomad
+가족 중심적,3,0,0,0,0,0,-1,family oriented
+냄새,3,0,0,0,0,0,-1,smell
+훌륭한 축구 선수,3,0,0,0,0,0,-1,great soccer player
+덜렁이,3,0,0,0,0,0,-1,rattle
+음악가,3,0,0,0,0,0,-1,Musician
+공부를 잘함,3,0,0,0,0,0,-1,good at studying
+솔직한 사람,3,0,0,0,0,0,-1,honest person
+4세기,3,0,0,0,0,0,-1,4th century
+야망이 있는,3,0,0,0,0,0,-1,ambitious
+평평하다,3,0,0,0,0,0,-1,flat
+민주화 운동가,3,0,0,0,0,0,-1,democracy activist
+의협심,3,0,0,0,0,0,-1,chivalry
+조직적인,3,0,0,0,0,0,-1,organized
+말을 타다,3,0,0,0,0,0,-1,ride a horse
+스키,3,0,0,0,0,0,-1,ski
+섹스,2,0,0,0,1,0,0.6666666667,sex
+깡다구,2,1,0,0,0,0,-0.3333333333,Kkangdagu
+야심적,3,0,0,0,0,0,-1,ambitious
+멕시칸 음식,3,0,0,0,0,0,-1,mexican food
+축구를 좋아하는,3,0,0,0,0,0,-1,fond of soccer
+활발,3,0,0,0,0,0,-1,activity
+열정적,3,0,0,0,0,0,-1,passionate
+사막,3,0,0,0,0,0,-1,desert
+흉악한,1,0,0,1,1,0,2,vicious
+폐암,3,0,0,0,0,0,-1,lung cancer
+달리기,3,0,0,0,0,0,-1,running
+냉정하고 무뚝뚝한,3,0,0,0,0,0,-1,cold and blunt
+조직,3,0,0,0,0,0,-1,group
+젓가락,3,0,0,0,0,0,-1,chopsticks
+강력한,3,0,0,0,0,0,-1,strong
+냉소적인,3,0,0,0,0,0,-1,cynical
+바쁜,3,0,0,0,0,0,-1,busy
+섬세한 사람,3,0,0,0,0,0,-1,a delicate person
+컴퓨터에 능숙하다,3,0,0,0,0,0,-1,be good at computers
+거만,1,2,0,0,0,0,0.3333333333,arrogance
+친절한 사람,3,0,0,0,0,0,-1,doll
+nomadic,3,0,0,0,0,0,-1,nomadic
+공정한,3,0,0,0,0,0,-1,fair
+기술자,3,0,0,0,0,0,-1,technician
+튼튼한,3,0,0,0,0,0,-1,durable
+빨간색,3,0,0,0,0,0,-1,Red
+자만심,2,1,0,0,0,0,-0.3333333333,conceit
+장난꾸러기,3,0,0,0,0,0,-1,mischief
+축구,3,0,0,0,0,0,-1,soccer
+진취성,3,0,0,0,0,0,-1,initiative
+정열,3,0,0,0,0,0,-1,passion
+침략적,1,1,0,1,0,0,1,invasive
+토종닭,3,0,0,0,0,0,-1,Native chicken
+예절,3,0,0,0,0,0,-1,etiquette
+자유를 사랑한다,3,0,0,0,0,0,-1,love freedom
+관대하고 친절한 사람,3,0,0,0,0,0,-1,generous and kind person
+뚱뚱한,2,1,0,0,0,0,-0.3333333333,fat
+소박한,3,0,0,0,0,0,-1,naive
+진취적인,3,0,0,0,0,0,-1,enterprising
+매너 있는,3,0,0,0,0,0,-1,well-mannered
+의리있는,3,0,0,0,0,0,-1,loyal
+타코,3,0,0,0,0,0,-1,taco
+자부심,3,0,0,0,0,0,-1,pride
+용맹,3,0,0,0,0,0,-1,intrepidity
+전쟁을 겪었습니다.,3,0,0,0,0,0,-1,I went through war.
+히브리어,3,0,0,0,0,0,-1,Hebrew
+넓다,3,0,0,0,0,0,-1,wide
+울산,3,0,0,0,0,0,-1,Ulsan
+감자,3,0,0,0,0,0,-1,potato
+친절함,3,0,0,0,0,0,-1,kindness
+금발,3,0,0,0,0,0,-1,blond hair
+정직한,3,0,0,0,0,0,-1,honest
+dominant,2,0,1,0,0,0,0,dominant
+밥을 좋아함,3,0,0,0,0,0,-1,I like rice
+떡볶이,3,0,0,0,0,0,-1,tteokbokki
+겸손,3,0,0,0,0,0,-1,modesty
+마피아,1,0,0,2,0,0,1.666666667,Mafia
+자유로운,3,0,0,0,0,0,-1,free
+똑똑합니다.,3,0,0,0,0,0,-1,Smart.
+마약,0,0,0,0,3,0,4,drug
+행복한 사람,3,0,0,0,0,0,-1,happy person
+싸게 산다,3,0,0,0,0,0,-1,live cheaply
+혁신적,3,0,0,0,0,0,-1,innovative
+훌륭한,3,0,0,0,0,0,-1,excellent
+활동적인,3,0,0,0,0,0,-1,Active
+불친절,1,2,0,0,0,0,0.3333333333,unfriendly
+평화롭다,3,0,0,0,0,0,-1,It's peaceful
+축구 사랑,3,0,0,0,0,0,-1,soccer love
+열심히 일하다,3,0,0,0,0,0,-1,fag
+오래된,3,0,0,0,0,0,-1,old
+바다,3,0,0,0,0,0,-1,ocean
+검은 눈,3,0,0,0,0,0,-1,black eye
+해안가,3,0,0,0,0,0,-1,coast
+옛날,3,0,0,0,0,0,-1,A long ago
+강원도,3,0,0,0,0,0,-1,Gangwon-do
+피라미드를 만들었습니다.,3,0,0,0,0,0,-1,I made a pyramid.
+자유를 좋아함,3,0,0,0,0,0,-1,love freedom
+킬링필드,1,0,0,0,2,0,2.333333333,Killing Field
+개척 정신,3,0,0,0,0,0,-1,pioneering spirit
+신비로움,3,0,0,0,0,0,-1,mystery
+pragmatic,3,0,0,0,0,0,-1,pragmatic
+굴비,3,0,0,0,0,0,-1,Gulbi
+종교적인,3,0,0,0,0,0,-1,religious
+깨끗한 사람,3,0,0,0,0,0,-1,clean person
+조심성,3,0,0,0,0,0,-1,Caution
+차를 많이 마셨습니다,3,0,0,0,0,0,-1,I drank a lot of tea
+과학자,3,0,0,0,0,0,-1,Scientist
+다문화주의,3,0,0,0,0,0,-1,multiculturalism
+술을 좋아하는,3,0,0,0,0,0,-1,fond of drinking
+라마,3,0,0,0,0,0,-1,llama
+공평함,3,0,0,0,0,0,-1,fairness
+등산,3,0,0,0,0,0,-1,mountain climbing
+부산 사투리,3,0,0,0,0,0,-1,Busan dialect
+흰색,3,0,0,0,0,0,-1,White
+축구선수,3,0,0,0,0,0,-1,Football player
+화산,3,0,0,0,0,0,-1,volcano
+자유를 사랑함,3,0,0,0,0,0,-1,love freedom
+독립을 위해 싸우는,2,1,0,0,0,0,-0.3333333333,fighting for independence
+냉소,3,0,0,0,0,0,-1,cynicism
+쌀밥,3,0,0,0,0,0,-1,rice
+완벽주의자,3,0,0,0,0,0,-1,perfectionist
+difficult,3,0,0,0,0,0,-1,difficult
+중립적인 사람,3,0,0,0,0,0,-1,a neutral person
+솔직한,3,0,0,0,0,0,-1,candid
+공산당을 만든다,1,0,1,0,1,0,1.666666667,create a communist party
+성실성,3,0,0,0,0,0,-1,sincerity
+정숙,3,0,0,0,0,0,-1,Quietness
+공부를 열심히 함,3,0,0,0,0,0,-1,study hard
+털털한,3,0,0,0,0,0,-1,easy-going
+러시아어,3,0,0,0,0,0,-1,Russian
+철광석,3,0,0,0,0,0,-1,ironstone
+의식,3,0,0,0,0,0,-1,Consciousness
+단호한,3,0,0,0,0,0,-1,determined
+말을 잘 타는,3,0,0,0,0,0,-1,horseback riding
+헝가리 춤,3,0,0,0,0,0,-1,hungarian dance
+평화,3,0,0,0,0,0,-1,peace
+귀여움,3,0,0,0,0,0,-1,cuteness
+행복함,3,0,0,0,0,0,-1,happy
+굳건,3,0,0,0,0,0,-1,Firmly
+부지런함,3,0,0,0,0,0,-1,assiduity
+저항적,2,1,0,0,0,0,-0.3333333333,resistant
+열대 우림,3,0,0,0,0,0,-1,rainforest
+슬라브어,3,0,0,0,0,0,-1,Slavic
+조용히 앉아 있음,3,0,0,0,0,0,-1,sitting quietly
+공부를 좋아함,3,0,0,0,0,0,-1,likes to study
+오래됨,3,0,0,0,0,0,-1,old
+한복,3,0,0,0,0,0,-1,Han bok
+소박함,3,0,0,0,0,0,-1,simplicity
+체면,3,0,0,0,0,0,-1,face
+가족 지향적,3,0,0,0,0,0,-1,family oriented
+젓가락을 사용함,3,0,0,0,0,0,-1,Use chopsticks
+낙천성,3,0,0,0,0,0,-1,optimism
+강원도 철원,3,0,0,0,0,0,-1,"Cheorwon, Gangwon-do"
+소음,2,1,0,0,0,0,-0.3333333333,noise
+지하철,3,0,0,0,0,0,-1,subway
+억센 성격,2,1,0,0,0,0,-0.3333333333,strong personality
+깨끗한,3,0,0,0,0,0,-1,Clean

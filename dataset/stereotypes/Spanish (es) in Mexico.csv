@@ -1,0 +1,1746 @@
+identity,attribute,non_stereotype,stereotype,unsure,mean_offensive_score,translated_identity,translated_attribute_list
+afganos,terrorista,0,3,0,4,afghans,terrorist
+michoacanas,narcotraficante,2,1,0,4,Michoacan,drug dealer
+iraquíes,terrorista,0,3,0,4,Iraqis,terrorist
+argelinos,terrorista,1,2,0,4,algerians,terrorist
+ruandsa,genocida,2,1,0,4,Rwanda,genocidal
+palestinos,terrorista,1,2,0,4,Palestinians,terrorist
+pakistaníes,terrorista,1,2,0,4,pakistanis,terrorist
+alemán,nazi,0,3,0,4,German,Nazi
+tamaulipecos,narcotraficante,0,3,0,4,Tamaulipas,drug dealer
+michoacanos,narcotraficante,1,2,0,4,michoacanos,drug dealer
+palestina,terrorista,1,2,0,4,Palestine,terrorist
+colombiano,narcotraficante,0,3,0,4,Colombian,drug dealer
+ruandeses,genocida,2,1,0,4,Rwandans,genocidal
+bosnios,terrorista,2,1,0,4,Bosnians,terrorist
+argelina,terrorista,1,2,0,4,algerian,terrorist
+sinaloenses,narco,0,3,0,4,sinaloenses,narco
+colombiana,narcotraficante,0,3,0,4,colombian,drug dealer
+norteñas,frígidas,2,1,0,3.666666667,northern,frigid
+regias,gorda,2,1,0,3.333333333,royal,fat woman
+italiano,mafioso,0,3,0,3.333333333,Italian,gangster
+chilangas,gorda,2,1,0,3.333333333,chilangas,fat woman
+rumanos,ladrón,2,1,0,3.333333333,romanians,thief
+poblanas,gorda,2,1,0,3.333333333,poblanas,fat woman
+albanés,ladrones,1,2,0,3.333333333,Albanian,thieves
+albanés,mafioso,1,2,0,3.333333333,Albanian,gangster
+italiana,mafioso,1,2,0,3.333333333,Italian,gangster
+queretanas,gorda,2,1,0,3.333333333,queretanas,fat woman
+nigerina,corrupto,1,2,0,3.333333333,nigerian,corrupt
+coreanos,dictador,1,2,0,3,koreans,dictator
+crimeanos,delincuente,2,1,0,3,Crimeans,offender
+coreanos,totalitario,2,1,0,3,koreans,totalitarian
+británicos,snob,1,2,0,3,British,snob
+estadounidenses,gordo,1,2,0,3,Americans,fat
+jalisquillo,borracho,1,2,0,2.666666667,jalisquillo,drunk
+irlandsa,borracha,2,1,0,2.666666667,irish,drunk
+rusa,borracho,1,2,0,2.666666667,russian,drunk
+ruso,borracho,1,2,0,2.666666667,Russian,drunk
+zacatecanos,borracho,1,2,0,2.666666667,zacatecanos,drunk
+chilangas,chismosa,2,1,0,2.666666667,chilangas,gossip
+norteñas,tonta,2,1,0,2.666666667,northern,silly
+regias,autoritario,2,1,0,2.666666667,royal,authoritarian
+irlandeses,borracho,0,3,0,2.666666667,irish,drunk
+venezolana,chismosa,2,1,0,2.666666667,Venezuelan,gossip
+coreanos,autoritario,2,1,0,2.666666667,koreans,authoritarian
+serbios,agresivo,1,2,0,2.666666667,serbs,aggressive
+británicas,borracha,2,1,0,2.666666667,british,drunk
+galés,borracho,0,3,0,2.666666667,Welsh,drunk
+peruana,chismosa,2,1,0,2.666666667,peruvian,gossip
+neoleoneses,agresivo,1,2,0,2.666666667,neoleoneses,aggressive
+tapatio,borracho,1,2,0,2.666666667,tapatio,drunk
+serbia,alcohólico,2,1,0,2.666666667,Serbia,alcoholic
+capitalinos,ajetreado,1,2,0,-1,capitalians,busy
+irlandsa,alcohólica,2,1,0,2.666666667,irish,alcoholic
+irlandsa,borracho,2,1,0,2.666666667,irish,drunk
+michoacanos,borracho,2,1,0,2.666666667,michoacanos,drunk
+guineano,negro,2,1,0,2.333333333,Guinean,black
+norirlandsa,belicoso,1,2,0,2.333333333,northern irish,bellicose
+marfileños,negro,2,1,0,2.333333333,ivorians,black
+chilangos,flojo,2,1,0,2.333333333,chilangos,loose
+Laosiana,pobre,1,2,0,2.333333333,Laotian,poor
+australiano,aborigines,2,1,0,2.333333333,Australian,aborigines
+serbios,violento,1,2,0,2.333333333,serbs,violent
+holandeses,tacaño,2,1,0,2.333333333,dutch,mean
+ecuatoguineanos,negro,1,2,0,2.333333333,equatoguineans,black
+noruega,frígida,2,1,0,2.333333333,Norway,frigid
+oaxacas,pobre,1,2,0,2.333333333,oaxacas,poor
+chiapanecos,pobre,0,3,0,2.333333333,chiapanecos,poor
+sierraleonés,pobre,2,1,0,2.333333333,Sierra Leonean,poor
+surinameses,negro,2,1,0,2.333333333,surinamese,black
+senegaleses,negro,2,1,0,2.333333333,senegalese,black
+tlaxcaltecas,belicosos,2,1,0,2.333333333,tlaxcaltecas,bellicose
+escocsa,tacaño,2,1,0,2.333333333,Scottish,mean
+irlandeses del norte,belicoso,2,1,0,2.333333333,northern irish,bellicose
+afganos,hostiles,1,2,0,2.333333333,afghans,hostile
+norirlandsa,beligerante,2,1,0,2.333333333,northern irish,belligerent
+Capitalinos,ambicioso,1,2,0,1.333333333,capitalists,ambitious
+laosianos,pobre,1,2,0,2.333333333,laotians,poor
+regio,arrogante,2,1,0,2.333333333,royal,arrogant
+escoceses,tacaño,2,1,0,2.333333333,scottish,mean
+regias,arrogante,1,2,0,2.333333333,royal,arrogant
+eritrea,pobre,1,2,0,2.333333333,eritrea,poor
+británicos,colonizadores,1,2,0,2.333333333,British,colonizers
+regio,presumido,1,2,0,2.333333333,royal,smug
+tabasqueños,flojo,1,2,0,2.333333333,Tabasco,loose
+timoreses,timoratos,2,1,0,2.333333333,Timorese,timid
+irlandeses del norte,beligerante,2,1,0,2.333333333,northern irish,belligerent
+sinaloenses,violento,0,3,0,2.333333333,sinaloenses,violent
+malgaches,negro,2,1,0,2.333333333,malagasy,black
+senegalsa,negro,2,1,0,2.333333333,senegal,black
+congoleño,negro,2,1,0,2.333333333,congolese,black
+noruega,frígido,2,1,0,2.333333333,Norway,frigid
+caboverdianos,negro,2,1,0,2.333333333,Cape Verdeans,black
+regio,feo,2,1,0,2.333333333,royal,ugly
+chilangas,chismoso,2,1,0,2.333333333,chilangas,gossip
+boliviana,indígena,2,1,0,2,bolivian,indigenous
+guatemalteca,prieta,1,2,0,2,Guatemalan,tight
+tlaxcaltecas,indígena,1,2,0,2,tlaxcaltecas,indigenous
+michoacanos,indígena,2,1,0,2,michoacanos,indigenous
+coreanos,comunista,1,2,0,2,koreans,communist
+belga,aburrido,1,2,0,2,Belgian,bored
+regio,hablador,2,1,0,2,royal,talkative
+capitalinas,frívolas,1,2,0,2,capital,frivolous
+chilangas,grosero,2,1,0,2,chilangas,rude
+suiza,aburrido,1,2,0,2,Swiss,bored
+británicos,antipático,1,2,0,2,British,unfriendly
+ruandsa,genocidio,2,1,0,2,Rwanda,genocide
+ecuatoriano,indígena,2,1,0,2,Ecuadorian,indigenous
+ruso,comunista,0,3,0,2,Russian,communist
+andorranos,enano,2,1,0,2,andorrans,dwarf
+boliviano,indígena,2,1,0,2,Bolivian,indigenous
+tlaxcalteco,indígena,2,1,0,2,tlaxcaltecan,indigenous
+sursudanés,hambriento,1,2,0,2,South Sudanese,hungry
+suizos,aburrido,1,2,0,2,swiss,bored
+británicos,aburrido,1,2,0,2,British,bored
+español,hablador,2,1,0,2,Spanish,talkative
+inglés,aburrido,1,2,0,2,English,bored
+zimbabuense,poor,1,2,0,2,Zimbabwean,poor
+isleños de Navidad,aborigen,1,2,0,2,christmas islanders,aboriginal
+inglés,imperialista,1,2,0,2,English,imperialist
+capitalinas,ambiciosas,2,1,0,2,capital,ambitious
+oaxaqueñas,indígena,0,3,0,2,oaxacan,indigenous
+indios,indios americanos,2,1,0,2,indians,american indians
+guatemalteca,indígena,0,3,0,2,Guatemalan,indigenous
+oaxacas,indígena,0,3,0,2,oaxacas,indigenous
+chiapanecos,indígena,0,3,0,2,chiapanecos,indigenous
+estadounidenses,materialista,0,3,0,2,Americans,materialistic
+queretanos,panistas,2,1,0,2,queretanos,panistas
+regio,grosero,2,1,0,2,royal,rude
+yucatecos,indígena,2,1,0,2,Yucatecans,indigenous
+rusa,comunista,0,3,0,2,russian,communist
+yucatecas,indígena,2,1,0,2,yucatecas,indigenous
+británicos,imperialista,0,3,0,2,British,imperialist
+regio,aburrido,2,1,0,2,royal,bored
+oaxacos,indígena,0,3,0,2,oaxaca,indigenous
+chiapanecas,indígena,0,3,0,2,chiapanecas,indigenous
+ecuatoguineana,negra,2,1,0,1.666666667,equatoguinean,black
+congoleña,negra,2,1,0,1.666666667,congolese,black
+chilangas,ruidosa,1,2,0,1.666666667,chilangas,noisy
+galés,bebedor,1,2,0,1.666666667,Welsh,drinker
+irlandeses del norte,terco,1,2,0,1.666666667,northern irish,stubborn
+chilangos,desordenado,2,1,0,1.666666667,chilangos,messy
+isleños de Navidad,caníbales,2,1,0,1.666666667,christmas islanders,cannibals
+siria,peligrosa,0,3,0,1.666666667,Syria,dangerous
+escoceses,terco,1,2,0,1.666666667,scottish,stubborn
+escoceses,bebedor,0,3,0,1.666666667,scottish,drinker
+estadounidenses,consumistas,1,2,0,1.666666667,Americans,consumerists
+mongol,bárbaro,1,2,0,1.666666667,Mongolian,barbarian
+capitalinas,ruidosa,1,2,0,1.666666667,capital,noisy
+escocsa,terco,1,2,0,1.666666667,Scottish,stubborn
+capitalinas,presumida,2,1,0,1.666666667,capital,smug
+estadounidenses,capitalista,0,3,0,1.666666667,Americans,capitalist
+tamaulipecos,rudo,2,1,0,1.666666667,Tamaulipas,rude
+escocsa,bebedor,1,2,0,1.666666667,Scottish,drinker
+chilangas,grosera,1,2,0,1.666666667,chilangas,rude
+norirlandsa,terco,2,1,0,1.666666667,northern irish,stubborn
+escocsa,ruda,2,1,0,1.666666667,Scottish,rue
+senegalsa,negra,2,1,0,1.666666667,senegal,black
+norteñas,ruda,1,2,0,1.666666667,northern,rue
+chihuahuenses,son agresivos,2,1,0,1.666666667,chihuahuas,they are aggressive
+coreanos,no tienen libertad,1,2,0,1.666666667,koreans,they have no freedom
+Marfileña,negra,2,1,0,1.666666667,Ivorian,black
+luxemburgusa,burgués,2,1,0,1.333333333,luxembourg,bourgeois
+centroafricanos,antropófago,1,2,0,1.333333333,central africans,cannibal
+tabasqueñas,morena,2,1,0,1.333333333,Tabasco,brunette
+tamaulipecas,morena,2,1,0,1.333333333,Tamaulipas,brunette
+guerrerenses,moreno,0,3,0,1.333333333,warriors,dark
+costeñas,morena,1,2,0,1.333333333,coastal,brunette
+regias,autoritarias,1,2,0,1.333333333,royal,authoritarian
+oaxacas,moreno,1,2,0,1.333333333,oaxacas,dark
+regio,burgués,2,1,0,1.333333333,royal,bourgeois
+sudcalifornianos,hippies,2,1,0,1.333333333,Southern Californians,hippies
+jarochos,moreno,1,2,0,1.333333333,jarochos,dark
+mongol,salvaje,1,2,0,1.333333333,Mongolian,wild
+veracruzanos,moreno,1,2,0,1.333333333,Veracruz,dark
+michoacanos,moreno,1,2,0,1.333333333,michoacanos,dark
+potosinos,moreno,2,1,0,1.333333333,potosinos,dark
+filipinos,morena,2,1,0,1.333333333,Filipinos,brunette
+estadounidenses,individualista,1,2,0,1.333333333,Americans,individualistic
+oaxaqueñas,morena,1,2,0,1.333333333,oaxacan,brunette
+chiapanecas,morena,1,2,0,1.333333333,chiapanecas,brunette
+potosinas,morena,2,1,0,1.333333333,potosinas,brunette
+británicas,arisca,2,1,0,1.333333333,british,surly
+chiapanecos,moreno,1,2,0,1.333333333,chiapanecos,dark
+yucatecos,moreno,2,1,0,1.333333333,Yucatecans,dark
+oaxacos,moreno,1,2,0,1.333333333,oaxaca,dark
+tabasqueños,moreno,2,1,0,1.333333333,Tabasco,dark
+veracruzanas,morena,2,1,0,1.333333333,veracruzanas,brunette
+regias,caprichosas,1,2,0,1.333333333,royal,capricious
+chiapanecos,atrasado,2,1,0,1.333333333,chiapanecos,late
+michoacanas,morena,2,1,0,1.333333333,Michoacan,brunette
+jarochas,morena,1,2,0,1.333333333,jarochas,brunette
+capitalinos,arrogante,1,2,0,2.333333333,capitalians,arrogant
+quintanarroenses,moreno,2,1,0,1.333333333,Quintana Roo,dark
+oaxaqueños,moreno,0,3,0,1.333333333,oaxacans,dark
+sirios,refugiado,1,2,0,1,syrians,refugee
+queretanos,conservadores,2,1,0,1,queretanos,conservatives
+chilangas,informales,1,2,0,1,chilangas,informal
+australiano,informal,1,2,0,1,Australian,informal
+neoleoneses,conservadores,1,2,0,1,neoleoneses,conservatives
+chilangos,informal,0,3,0,1,chilangos,informal
+sursudanés,refugiado,2,1,0,1,South Sudanese,refugee
+chilangas,gritonas,1,2,0,1,chilangas,screamers
+siria,refugiado,1,2,0,1,Syria,refugee
+japonsa,otaku,2,1,0,1,japanese,otaku
+tabasqueños,fumadores,2,1,0,1,Tabasco,smokers
+kosovares,refugiado,2,1,0,1,Kosovars,refugee
+australiana,informal,2,1,0,1,Australian,informal
+rumana,gitano,1,2,0,1,Romanian,Gypsy
+afganos,refugiado,2,1,0,1,afghans,refugee
+mongol,conquistador,2,1,0,1,Mongolian,conqueror
+tamaulipecos,conservadores,2,1,0,1,Tamaulipas,conservatives
+zacatecanos,conservadores,2,1,0,1,zacatecanos,conservatives
+bosnioherzegovina,sardónico,2,1,0,1,Bosnia and Herzegovina,sardonic
+saharauis,refugiado,2,1,0,1,Sahrawis,refugee
+rumanos,gitano,0,3,0,1,romanians,Gypsy
+cubanos,fumadores,1,2,0,1,Cubans,smokers
+irlandeses del norte,rebelde,2,1,0,0.6666666667,northern irish,rebel
+zacatecanos,campesino,2,1,0,0.6666666667,zacatecanos,farmer
+chilangas,ruidoso,0,3,0,0.6666666667,chilangas,noisy
+tapatio,conservador,1,2,0,0.6666666667,tapatio,conservative
+mozambiqueña,esclava,2,1,0,0.6666666667,Mozambican,slave
+hongkonsa,adictos al trabajo,1,2,0,0.6666666667,Hong Kong,workaholics
+iraníes,fundamentalista,1,2,0,0.6666666667,Iranians,fundamentalist
+congoleña,esclava,2,1,0,0.6666666667,congolese,slave
+potosinos,campesino,2,1,0,0.6666666667,potosinos,farmer
+escoceses,testarudo,2,1,0,0.6666666667,scottish,strong headed
+tapatia,conservadora,1,2,0,0.6666666667,tapatia,conservative
+oaxacas,indio,1,2,0,0.6666666667,oaxacas,Indian
+nicaragüenses,sandinista,1,2,0,0.6666666667,Nicaraguans,sandinista
+hidrocálidas,conservadora,1,2,0,0.6666666667,hydrowarm,conservative
+veracruzanas,conservadora,2,1,0,0.6666666667,veracruzanas,conservative
+michoacanas,conservadora,2,1,0,0.6666666667,Michoacan,conservative
+capitalinos,capital,2,1,0,-1,capitalians,capital
+malasio,exótica,0,3,0,0.6666666667,Malaysian,exotic
+tamaulipecas,conservadora,2,1,0,0.6666666667,Tamaulipas,conservative
+michoacanos,campesino,2,1,0,0.6666666667,michoacanos,farmer
+afganos,fundamentalista,2,1,0,0.6666666667,afghans,fundamentalist
+chilangas,escandalosas,1,2,0,0.6666666667,chilangas,scandalous
+oaxacos,comen chapulines,1,2,0,0.6666666667,oaxaca,they eat grasshoppers
+potosinas,conservadora,1,2,0,0.6666666667,potosinas,conservative
+norteñas,conservadora,2,1,0,0.6666666667,northern,conservative
+zacatecanas,conservadora,2,1,0,0.6666666667,zacatecanas,conservative
+mauritana,esclava,2,1,0,0.6666666667,Mauritania,slave
+poblanas,conservadora,1,2,0,0.6666666667,poblanas,conservative
+Bangladeshi,muslim,2,1,0,0.6666666667,Bangladeshi,muslim
+norirlandsa,rebelde,2,1,0,0.6666666667,northern irish,rebel
+chiapanecas,conservadora,2,1,0,0.6666666667,chiapanecas,conservative
+malasia,exótica,2,1,0,0.6666666667,Malaysia,exotic
+regias,anticuadas,2,1,0,0.6666666667,royal,outdated
+escocsa,testarudo,1,2,0,0.6666666667,Scottish,strong headed
+bajacalifornianas,conservadora,2,1,0,0.6666666667,Baja Californians,conservative
+bielorruso,es blanca,2,1,0,0.6666666667,Belarusian,it's white
+nigerina,esclava,2,1,0,0.6666666667,nigerian,slave
+guatemalteca,come chapín,2,1,0,0.6666666667,Guatemalan,eat chapín
+guatemaltecos,come chapín,1,2,0,0.6666666667,Guatemalans,eat chapín
+queretanas,conservadora,1,2,0,0.6666666667,queretanas,conservative
+hongkonsa,adicto al trabajo,1,2,0,0.6666666667,Hong Kong,workaholic
+zimbabuense,shona,2,1,0,0.3333333333,Zimbabwean,shona
+siria,árabe,2,1,0,0.3333333333,Syria,Arab
+marroquíes,árabe,2,1,0,0.3333333333,Moroccans,Arab
+veracruzanos,mestizo,2,1,0,0.3333333333,Veracruz,half Blood
+pakistaníes,musulmán,1,2,0,0.3333333333,pakistanis,Muslim
+potosinos,trabajadore,2,1,0,0.3333333333,potosinos,workers
+turcos,musulmanes,2,1,0,0.3333333333,turks,Muslims
+duranguenses,trabajadore,2,1,0,0.3333333333,duranguenses,workers
+ecuatoriano,mestizo,1,2,0,0.3333333333,Ecuadorian,half Blood
+morelenses,trabajadore,2,1,0,0.3333333333,morelenses,workers
+sirios,árabe,2,1,0,0.3333333333,syrians,Arab
+yucatecos,trabajadore,1,2,0,0.3333333333,Yucatecans,workers
+michoacanos,trabajadore,2,1,0,0.3333333333,michoacanos,workers
+siria,áspera,2,1,0,0.3333333333,Syria,rough
+sudcalifornianas,aventurera,2,1,0,0.3333333333,southern california,adventuress
+nepalíes,montañero,1,2,0,0.3333333333,Nepalese,mountaineer
+británicas,rígida,1,2,0,0.3333333333,british,rigid
+egipcios,árabe,2,1,0,0.3333333333,egyptians,Arab
+saudíes,árabe,2,1,0,0.3333333333,Saudis,Arab
+zacatecanos,ranchero,2,1,0,0.3333333333,zacatecanos,rancher
+norteños,trabajadore,1,2,0,0.3333333333,northerners,workers
+omaníes,árabe,2,1,0,0.3333333333,omanis,Arab
+Bangladeshi,eat rice,2,1,0,0.3333333333,Bangladeshi,eat rice
+chilangos,habladores,1,2,0,0.3333333333,chilangos,talkative
+tunecina,árabe,2,1,0,0.3333333333,tunisian,Arab
+filipinos,serviciales,2,1,0,0.3333333333,Filipinos,helpful
+andorranos,montañero,2,1,0,0.3333333333,andorrans,mountaineer
+palestina,tensa,2,1,0,0.3333333333,Palestine,tense
+andorrana,montañero,2,1,0,0.3333333333,andorran,mountaineer
+egipcia,árabe,2,1,0,0.3333333333,egyptian,Arab
+oaxaqueños,trabajadore,1,2,0,0.3333333333,oaxacans,workers
+afganos,burka,2,1,0,0.3333333333,afghans,burqa
+coahuilenses,trabajadore,1,2,0,0.3333333333,Coahuila,workers
+argelina,árabe,2,1,0,0.3333333333,algerian,Arab
+bruneana,musulmanes,2,1,0,0.3333333333,Bruneian,Muslims
+mauritana,árabe,2,1,0,0.3333333333,Mauritania,Arab
+libios,árabe,2,1,0,0.3333333333,libyans,Arab
+mauritanos,árabe,2,1,0,0.3333333333,Mauritanians,Arab
+sinaloenses,ranchero,2,1,0,0.3333333333,sinaloenses,rancher
+mexiquenses,trabajadore,1,2,0,0.3333333333,Mexicans,workers
+tlaxcalteco,trabajadore,2,1,0,0.3333333333,tlaxcaltecan,workers
+oaxacas,trabajadore,1,2,0,0.3333333333,oaxacas,workers
+sonorenses,trabajadore,1,2,0,0.3333333333,Sonorans,workers
+bosnios,bosnio,2,1,0,0.3333333333,Bosnians,Bosnian
+palestina,palestinos,2,1,0,0.3333333333,Palestine,Palestinians
+jordana,árabe,2,1,0,0.3333333333,jordan,Arab
+jarochas,coqueta,1,2,0,0.3333333333,jarochas,coquette
+comoranos,musulmanes,2,1,0,0.3333333333,Comorians,Muslims
+japonsa,vergonzosa,2,1,0,0.3333333333,japanese,embarrassing
+siria,tensa,2,1,0,0.3333333333,Syria,tense
+mongol,feroces,1,2,0,0.3333333333,Mongolian,fierce
+argelinos,árabe,2,1,0,0.3333333333,algerians,Arab
+tamaulipecos,ranchero,1,2,0,0.3333333333,Tamaulipas,rancher
+libia,árabe,2,1,0,0.3333333333,Libya,Arab
+emiratíes,árabe,2,1,0,0.3333333333,emiratis,Arab
+chiapanecos,trabajadore,2,1,0,0.3333333333,chiapanecos,workers
+hidalguenses,trabajadore,2,1,0,0.3333333333,Hidalgo,workers
+yucatecos,mestizo,2,1,0,0.3333333333,Yucatecans,half Blood
+queretanos,trabajadore,1,2,0,0.3333333333,queretanos,workers
+bosnioherzegovina,bosnio,2,1,0,0.3333333333,Bosnia and Herzegovina,Bosnian
+Yibutiana,musulmanes,2,1,0,0.3333333333,Djiboutian,Muslims
+tamaulipecos,trabajadore,1,2,0,0.3333333333,Tamaulipas,workers
+australiana,aventurera,2,1,0,0.3333333333,Australian,adventuress
+norteños,friolento,2,1,0,0.3333333333,northerners,cold
+tunecinos,árabe,2,1,0,0.3333333333,tunisians,Arab
+beliceña,menos ricos,2,1,0,0.3333333333,Belizean,less rich
+capitalinos,ciudadano,2,1,0,-1,capitalians,citizen
+iraníes,árabe,2,1,0,0.3333333333,Iranians,Arab
+afganos,opio,2,1,0,0.3333333333,afghans,opium
+jarochos,trabajadore,1,2,0,0.3333333333,jarochos,workers
+tabasqueños,trabajadore,2,1,0,0.3333333333,Tabasco,workers
+oaxacos,trabajadore,2,1,0,0.3333333333,oaxaca,workers
+australiano,aventurera,2,1,0,0.3333333333,Australian,adventuress
+coreanos,cerrados,2,1,0,0.3333333333,koreans,closed
+Capitalinos,cosmopolita,1,2,0,-1,capitalists,cosmopolitan
+iraquíes,árabe,2,1,0,0.3333333333,Iraqis,Arab
+yemeníes,árabe,2,1,0,0.3333333333,yemenis,Arab
+Yibutiana,árabe,2,1,0,0.3333333333,Djiboutian,Arab
+kuwaitíes,árabe,2,1,0,0.3333333333,kuwaitis,Arab
+tlaxcaltecas,trabajadore,2,1,0,0.3333333333,tlaxcaltecas,workers
+comoranos,islámico,2,1,0,0.3333333333,Comorians,Islamic
+norteños,comían mucha carne,1,2,0,0.3333333333,northerners,they ate a lot of meat
+británicos,tenían mal humor,2,1,0,0.3333333333,British,They were in a bad mood
+coahuilenses,ranchero,1,2,0,0.3333333333,Coahuila,rancher
+guerrerenses,trabajadore,2,1,0,0.3333333333,warriors,workers
+poblanos,trabajadore,2,1,0,0.3333333333,poblanos,workers
+bahreiní,árabe,2,1,0,0.3333333333,Bahraini,Arab
+libaneses,árabe,2,1,0,0.3333333333,lebanese,Arab
+iraníes,musulmanes,2,1,0,0.3333333333,Iranians,Muslims
+campechanos,mestizo,2,1,0,0.3333333333,folksy,half Blood
+bosnios,musulmanes,2,1,0,0.3333333333,Bosnians,Muslims
+tabasqueñas,coqueta,2,1,0,0.3333333333,Tabasco,coquette
+beliceño,menos ricos,2,1,0,0.3333333333,Belizean,less rich
+jordanos,árabe,2,1,0,0.3333333333,Jordanians,Arab
+francsa,coqueta,1,2,0,0.3333333333,french,coquette
+regias,divas,2,1,0,0.3333333333,royal,divas
+hidrocálidos,trabajadore,2,1,0,0.3333333333,hydrowarms,workers
+neoleoneses,trabajadore,1,2,0,0.3333333333,neoleoneses,workers
+tapatia,coqueta,1,2,0,0.3333333333,tapatia,coquette
+jaliscienses,ranchero,2,1,0,0.3333333333,jaliscienses,rancher
+bruneianos,musulmanes,2,1,0,0.3333333333,bruneians,Muslims
+paraguayos,hablan guaraní,2,1,0,0.3333333333,paraguayans,they speak guaraní
+israelíes,judía,1,2,0,0.3333333333,Israelis,bean
+iraníes,persa,2,1,0,0.3333333333,Iranians,Persian
+maldivos,islámico,2,1,0,0.3333333333,maldivians,Islamic
+chilangas,les gusta el reguetón,1,2,0,0.3333333333,chilangas,they like reggaeton
+guatemaltecos,escriben al revés,2,1,0,0.3333333333,Guatemalans,they write backwards
+azeríes,musulmanes,2,1,0,0.3333333333,Azeris,Muslims
+isleños de Navidad,aislado,2,1,0,0.3333333333,christmas islanders,isolated
+Manx,ovejas,2,1,0,0.3333333333,Manx,sheep
+palestina,árabe,2,1,0,0.3333333333,Palestine,Arab
+palestinos,árabe,2,1,0,0.3333333333,Palestinians,Arab
+eslovenos,montañero,1,2,0,0.3333333333,Slovenians,mountaineer
+campechanos,trabajadore,2,1,0,0.3333333333,folksy,workers
+zacatecanos,trabajadore,2,1,0,0.3333333333,zacatecanos,workers
+qataríes,árabe,2,1,0,0.3333333333,qataris,Arab
+jalisquillo,ranchero,2,1,0,0.3333333333,jalisquillo,rancher
+pakistaníes,musulmanes,2,1,0,0.3333333333,pakistanis,Muslims
+chiapanecos,mestizo,2,1,0,0.3333333333,chiapanecos,half Blood
+jaliscienses,trabajadore,1,2,0,0.3333333333,jaliscienses,workers
+irlandeses del norte,protestante,1,2,0,0,northern irish,Protestant
+surcoreano,ama comer kimchi,1,2,0,0,South Korean,loves to eat kimchi
+coreanos,obediente,1,2,0,0,koreans,obedient
+norirlandsa,irlandeses,2,1,0,0,northern irish,irish
+Laosiana,asiático,2,1,0,0,Laotian,Asian
+irlandsa,irlandeses,2,1,0,0,irish,irish
+bosnioherzegovina,bosniaco,2,1,0,0,Bosnia and Herzegovina,Bosnian
+Isleñas de navidad,nativas,2,1,0,0,christmas islanders,native
+regias,ostentosas,1,2,0,0,royal,ostentatious
+jalisquillo,fiestero,1,2,0,0,jalisquillo,party animal
+china,escriben con jeroglíficos,2,1,0,0,China,they write with hieroglyphs
+formosanos,asiático,2,1,0,0,formosans,Asian
+neozelandeses,maoríes,2,1,0,0,New Zealanders,maori
+guatemaltecos,centroamericano,2,1,0,0,Guatemalans,central american
+norirlandsa,beben mucho,1,2,0,0,northern irish,they drink a lot
+peruana,andino,2,1,0,0,peruvian,Andean
+argentinos,futbolero,0,3,0,0,Argentines,soccer fan
+indonesio,hablan indonesio,2,1,0,0,Indonesian,they speak indonesian
+argentinos,latino,2,1,0,0,Argentines,Latin
+jarochos,fiestero,1,2,0,0,jarochos,party animal
+británicos,tenían un sentido del humor seco,2,1,0,0,British,They had a dry sense of humor
+noruega,frio,1,2,0,0,Norway,cold
+norirlandsa,protestant,2,1,0,0,northern irish,protestant
+indonesia,hablan indonesio,2,1,0,0,Indonesia,they speak indonesian
+chilangos,fiestero,0,3,0,0,chilangos,party animal
+oaxacos,zapotecas,2,1,0,0,oaxaca,Zapotec
+mexicana,latino,2,1,0,0,mexican,Latin
+nepalíes,montañeses,1,2,0,0,Nepalese,mountaineers
+boliviana,indigenista,2,1,0,0,bolivian,Indigenist
+andorranos,montañés,2,1,0,0,andorrans,Highlander
+paraguaya,guaraní,2,1,0,0,paraguayan,Guarani
+chilangas,habladora,1,2,0,0,chilangas,chatty
+luxemburgusa,pequeño país,2,1,0,0,luxembourg,small country
+namibia,afrikaans,2,1,0,0,Namibia,afrikaans
+galés,bebedores,0,3,0,0,Welsh,drinkers
+georgiana,ostentosa,2,1,0,0,Georgian,ostentatious
+regias,muy ricas,2,1,0,0,royal,very rich
+escoceses,bebedores,0,3,0,0,scottish,drinkers
+vietnamita,asiático,2,1,0,0,Vietnamese,Asian
+paraguayos,futbolero,2,1,0,0,paraguayans,soccer fan
+maldiva,isleño,2,1,0,0,maldives,islander
+malasia,asiático,2,1,0,0,Malaysia,Asian
+serbia,europa del este,2,1,0,0,Serbia,Eastern Europe
+guatemalteca,centroamericano,2,1,0,0,Guatemalan,central american
+regias,aristócratas,2,1,0,0,royal,aristocrats
+escocsa,bebedores,0,3,0,0,Scottish,drinkers
+indios,piel oscura,0,3,0,0,indians,Dark skin
+nepalíes,montañés,2,1,0,0,Nepalese,Highlander
+mauriciana,creole,2,1,0,0,mauritian,creole
+kosovares,albaneses,2,1,0,0,Kosovars,albanians
+mexicana,aztecas,0,3,0,0,mexican,aztecs
+coahuilenses,le gusta el rancho,2,1,0,0,Coahuila,he likes the ranch
+británicos,tea,1,2,0,0,British,torch
+chiapanecas,mestiza,2,1,0,0,chiapanecas,mestiza
+irlandeses del norte,beben mucho,1,2,0,0,northern irish,they drink a lot
+nigerina,nigeriano,2,1,0,0,nigerian,Nigerian
+sudafricana,afrikaans,2,1,0,0,south african,afrikaans
+jordana,jordanos,2,1,0,0,jordan,Jordanians
+argentina,futbolero,0,3,0,0,Argentina,soccer fan
+irlandsa,beben mucho,1,2,0,0,irish,they drink a lot
+surinamsa,rasta,2,1,0,0,suriname,rasta
+regio,ostentoso,1,2,0,0,royal,ostentatious
+ecuatoguineanos,guineano,2,1,0,0,equatoguineans,Guinean
+michoacanas,mazahua,2,1,0,0,Michoacan,mazahua
+inglés,lengua franca,2,1,0,0,English,lingua franca
+capitalinas,ostentosas,2,1,0,0,capital,ostentatious
+indios,piel morena,0,3,0,0,indians,brown skin
+poblanos,comen mole,0,3,0,0,poblanos,they eat mole
+yucatecas,mestiza,2,1,0,0,yucatecas,mestiza
+formosanos,chino,2,1,0,0,formosans,Chinese
+regio,provinciano,2,1,0,0,royal,provincial
+peruanos,andino,2,1,0,0,Peruvians,Andean
+cubanos,latino,2,1,0,0,Cubans,Latin
+uruguayos,futbolero,1,2,0,0,Uruguayans,soccer fan
+jordana,palestina,2,1,0,0,jordan,Palestine
+ruandsa,hutu,2,1,0,0,Rwanda,Hutu
+coreanos,asiático,2,1,0,0,koreans,Asian
+tanzano,hablan suajili,2,1,0,0,Tanzanian,they speak swahili
+oaxaqueños,zapotecos,2,1,0,0,oaxacans,Zapotec
+chileno,latino,2,1,0,0,Chilean,Latin
+español,latino,2,1,0,0,Spanish,Latin
+surcoreano,asiático,2,1,0,0,South Korean,Asian
+salvadoreños,latino,2,1,0,0,Salvadorans,Latin
+norirlandsa,bebedores,1,2,0,0,northern irish,drinkers
+boliviano,indigenista,2,1,0,0,Bolivian,Indigenist
+michoacanos,mazahua,2,1,0,0,michoacanos,mazahua
+tailandés,asiático,2,1,0,0,Thai,Asian
+baja californianos,latino,2,1,0,0,Baja Californians,Latin
+azeríes,turco,2,1,0,0,Azeris,Turkish
+malasio,asiático,2,1,0,0,Malaysian,Asian
+irlandeses del norte,bebedores,1,2,0,0,northern irish,drinkers
+jaliscienses,fiestero,1,2,0,0,jaliscienses,party animal
+campechanas,mestiza,2,1,0,0,folksy,mestiza
+tabasqueños,fiestero,2,1,0,0,Tabasco,party animal
+comoranos,isleño,2,1,0,0,Comorians,islander
+regias,aristocráticas,2,1,0,0,royal,aristocratic
+colombiano,latino,2,1,0,0,Colombian,Latin
+irlandeses del norte,irlandeses,2,1,0,0,northern irish,irish
+yucatecas,hablan maya,1,2,0,0,yucatecas,they speak maya
+mexicanos,latino,2,1,0,0,mexicans,Latin
+norirlandsa,protestante,2,1,0,0,northern irish,Protestant
+maldivos,isleño,2,1,0,0,maldivians,islander
+Manx,gatos,2,1,0,0,Manx,cats
+uruguaya,futbolero,1,2,0,0,Uruguayan,soccer fan
+ugandsa,ganda,2,1,0,0,Uganda,ganda
+sudcalifornianos,latino,2,1,0,0,Southern Californians,Latin
+laosianos,asiático,2,1,0,0,laotians,Asian
+colombiana,latino,2,1,0,0,colombian,Latin
+namibia,sudeste de áfrica,2,1,0,0,Namibia,southeast africa
+paraguayos,guaraní,2,1,0,0,paraguayans,Guarani
+mauriciano,creole,2,1,0,0,Mauritian,creole
+regio,fresa,2,1,0,0,royal,strawberry
+india,piel oscura,2,1,0,0,India,Dark skin
+irlandeses del norte,protestant,2,1,0,0,northern irish,protestant
+veracruzanas,mestiza,2,1,0,0,veracruzanas,mestiza
+francsa,ostentoso,2,1,0,0,french,ostentatious
+jarochos,jaranero,2,1,0,0,jarochos,reveler
+mexicanos,aztecas,1,2,0,0,mexicans,aztecs
+india,piel morena,1,2,0,0,India,brown skin
+guatemalteca,mestiza,2,1,0,0,Guatemalan,mestiza
+jarochos,comen mucho,2,1,0,0,jarochos,Eat a lot
+húngaro,es un idioma difícil,2,1,0,0,Hungarian,It is a difficult language
+regio,gente de la región,2,1,0,0,royal,people of the region
+uruguayos,le gusta el mate,2,1,0,0,Uruguayans,he likes mate
+irlandeses,beben mucho,0,3,0,0,irish,they drink a lot
+indonesio,asiático,2,1,0,0,Indonesian,Asian
+keniano,africano,2,1,0,-0.3333333333,Kenyan,African
+hidalguenses,mexicano,2,1,0,-0.3333333333,Hidalgo,Mexican
+liberianos,africano,2,1,0,-0.3333333333,liberians,African
+zambiana,africano,2,1,0,-0.3333333333,zambian,African
+jordana,jordaniano,2,1,0,-0.3333333333,jordan,Jordanian
+polaca,rubia,2,1,0,-0.3333333333,polish,blonde
+sudaneses,africano,2,1,0,-0.3333333333,sudanese,African
+argentina,latinoamericano,2,1,0,-0.3333333333,Argentina,Latin American
+malasia,sudeste asiático,2,1,0,-0.3333333333,Malaysia,Southeast Asian
+Yibutiana,africano,2,1,0,-0.3333333333,Djiboutian,African
+camboyano,budista,2,1,0,-0.3333333333,Cambodian,buddhist
+moldava,rubia,2,1,0,-0.3333333333,moldovan,blonde
+montenegrina,rubia,2,1,0,-0.3333333333,Montenegrin,blonde
+Gambiana,africano,2,1,0,-0.3333333333,Gambian,African
+rumana,rubia,2,1,0,-0.3333333333,Romanian,blonde
+hongkonsa,hongkoneses,2,1,0,-0.3333333333,Hong Kong,Hongkongers
+mozambiqueña,africano,2,1,0,-0.3333333333,Mozambican,African
+hongkonsa,hongkonés,2,1,0,-0.3333333333,Hong Kong,Hong Kong
+michoacanos,mexicano,2,1,0,-0.3333333333,michoacanos,Mexican
+ghansa,africano,2,1,0,-0.3333333333,Ghana,African
+bosnioherzegovina,bosnia y herzegovina,2,1,0,-0.3333333333,Bosnia and Herzegovina,Bosnia and Herzegovina
+china,escriben con ideogramas,2,1,0,-0.3333333333,China,they write with ideograms
+bruneana,rubia,2,1,0,-0.3333333333,Bruneian,blonde
+tamaulipecos,mexicano,2,1,0,-0.3333333333,Tamaulipas,Mexican
+guineana,africano,2,1,0,-0.3333333333,Guinean,African
+suazis,africano,2,1,0,-0.3333333333,Swazis,African
+malasia,malayo,2,1,0,-0.3333333333,Malaysia,Malay
+ecuatoguineana,guineo ecuatoguineana,2,1,0,-0.3333333333,equatoguinean,equatoguinean banana
+beliceña,caribeño,2,1,0,-0.3333333333,Belizean,caribbean
+congoleña,africano,2,1,0,-0.3333333333,congolese,African
+bosnios,serbio,2,1,0,-0.3333333333,Bosnians,Serbian
+indonesia,hablado en indonesia,2,1,0,-0.3333333333,Indonesia,spoken in indonesia
+georgiano,caucásico,2,1,0,-0.3333333333,Georgian,Caucasian
+mauritana,mauritanos,2,1,0,-0.3333333333,Mauritania,Mauritanians
+luxemburgusa,hablan luxemburgués,2,1,0,-0.3333333333,luxembourg,they speak luxembourgish
+malasia,malaysianos,2,1,0,-0.3333333333,Malaysia,malaysians
+portugusa,lusohablante,2,1,0,-0.3333333333,Portuguese,luso-speaker
+ruandsa,ruandés,2,1,0,-0.3333333333,Rwanda,Rwandan
+bosnioherzegovina,guerra civil,2,1,0,-0.3333333333,Bosnia and Herzegovina,civil war
+togolsa,africano,2,1,0,-0.3333333333,togolese,African
+senegalsa,africano,2,1,0,-0.3333333333,senegal,African
+escocsa,frugales,2,1,0,-0.3333333333,Scottish,frugal
+bosnioherzegovina,bosnio-croata,2,1,0,-0.3333333333,Bosnia and Herzegovina,bosnian-croat
+ghansa,ghanés,2,1,0,-0.3333333333,Ghana,Ghanaian
+ugandsa,ugandés,2,1,0,-0.3333333333,Uganda,Ugandan
+marfileños,africano,2,1,0,-0.3333333333,ivorians,African
+Zanzibari,africano,2,1,0,-0.3333333333,Zanzibari,African
+bosnioherzegovina,sudeste de europa,2,1,0,-0.3333333333,Bosnia and Herzegovina,southeast europe
+angoleña,africano,2,1,0,-0.3333333333,Angolan,African
+argentina,rubia,2,1,0,-0.3333333333,Argentina,blonde
+georgiana,rubia,2,1,0,-0.3333333333,Georgian,blonde
+ruandsa,africano,2,1,0,-0.3333333333,Rwanda,African
+bosnioherzegovina,serbio,2,1,0,-0.3333333333,Bosnia and Herzegovina,Serbian
+indonesio,habla indonesio,2,1,0,-0.3333333333,Indonesian,speak indonesian
+ecuatoguineana,equatorial guinea,2,1,0,-0.3333333333,equatoguinean,equatorial guinea
+nayarita,mexicano,2,1,0,-0.3333333333,nayarita,Mexican
+togoleses,africano,2,1,0,-0.3333333333,togolese,African
+siria,guerra civil,2,1,0,-0.3333333333,Syria,civil war
+argentina,américa del sur,2,1,0,-0.3333333333,Argentina,South America
+ugandsa,africano,2,1,0,-0.3333333333,Uganda,African
+Yibutiana,somalíes,2,1,0,-0.3333333333,Djiboutian,somalis
+regio,mexicano,2,1,0,-0.3333333333,royal,Mexican
+yucatecas,maya,2,1,0,-0.3333333333,yucatecas,Maya
+regio,es una persona de monterrey,2,1,0,-0.3333333333,royal,He is a person from Monterrey
+mauritanos,africano,2,1,0,-0.3333333333,Mauritanians,African
+regio,de monterrey,2,1,0,-0.3333333333,royal,from Monterrey
+Bangladeshi,vegetarian,2,1,0,-0.3333333333,Bangladeshi,vegetarian
+tabasqueños,mexicano,2,1,0,-0.3333333333,Tabasco,Mexican
+nicaragüenses,revolucionario,2,1,0,-0.3333333333,Nicaraguans,revolutionary
+malgaches,viven en madagascar,2,1,0,-0.3333333333,malagasy,they live in madagascar
+beliceño,hablante de español,2,1,0,-0.3333333333,Belizean,spanish speaker
+tlaxcalteco,mexicano,2,1,0,-0.3333333333,tlaxcaltecan,Mexican
+mozambiqueños,africano,2,1,0,-0.3333333333,Mozambicans,African
+paraguayos,guaraníes,2,1,0,-0.3333333333,paraguayans,guaraníes
+checo,cervecero,2,1,0,-0.3333333333,Czech,brewer
+nepalíes,budista,2,1,0,-0.3333333333,Nepalese,buddhist
+guatemaltecos,maya,2,1,0,-0.3333333333,Guatemalans,Maya
+ugandeses,africano,2,1,0,-0.3333333333,Ugandans,African
+turcos,comen kebab,2,1,0,-0.3333333333,turks,they eat kebab
+namibio,africano,2,1,0,-0.3333333333,Namibian,African
+escoceses,frugal,2,1,0,-0.3333333333,scottish,frugal
+francés,galo,2,1,0,-0.3333333333,French,Gallic
+chilangas,chistosas,2,1,0,-0.3333333333,chilangas,funny
+saharauis,independentista,2,1,0,-0.3333333333,Sahrawis,independentist
+sonorenses,de sonora,2,1,0,-0.3333333333,Sonorans,of sound
+laosianos,budista,2,1,0,-0.3333333333,laotians,buddhist
+Barundi,africano,2,1,0,-0.3333333333,Barundi,African
+isleños de Navidad,viven en el hemisferio sur,2,1,0,-0.3333333333,christmas islanders,they live in the southern hemisphere
+guatemaltecos,chapines,2,1,0,-0.3333333333,Guatemalans,chapines
+portugués,nasal,2,1,0,-0.3333333333,Portuguese,nasal
+chilangos,mexicano,2,1,0,-0.3333333333,chilangos,Mexican
+galés,celta,2,1,0,-0.3333333333,Welsh,Celtic
+gaboneses,africano,2,1,0,-0.3333333333,Gabonese,African
+oaxaqueños,hablan zapoteco,2,1,0,-0.3333333333,oaxacans,they speak Zapotec
+jalisquillo,mexicano,2,1,0,-0.3333333333,jalisquillo,Mexican
+feroés,hablan feroés,2,1,0,-0.3333333333,Faroese,they speak faroese
+británicos,aristócrata,2,1,0,-0.3333333333,British,aristocrat
+campechanos,maya,2,1,0,-0.3333333333,folksy,Maya
+regio,regional,2,1,0,-0.3333333333,royal,regional
+zacatecanos,mexicano,2,1,0,-0.3333333333,zacatecanos,Mexican
+de Sri Lanka,budista,2,1,0,-0.3333333333,Sri Lankan,buddhist
+belga,flemático,2,1,0,-0.3333333333,Belgian,phlegmatic
+montenegrinos,serbio,2,1,0,-0.3333333333,Montenegrins,Serbian
+capitalinas,grande,2,1,0,-0.3333333333,capital,big
+beliceño,caribeño,2,1,0,-0.3333333333,Belizean,caribbean
+tailandés,exótico,2,1,0,-0.3333333333,Thai,exotic
+veracruzanos,mexicano,2,1,0,-0.3333333333,Veracruz,Mexican
+baja californianos,mexicano,2,1,0,-0.3333333333,Baja Californians,Mexican
+zambianos,africano,2,1,0,-0.3333333333,zambians,African
+surcoreano,coreano,2,1,0,-0.3333333333,South Korean,Korean
+oaxacas,hablan zapoteco,2,1,0,-0.3333333333,oaxacas,they speak Zapotec
+irlandeses del norte,celta,2,1,0,-0.3333333333,northern irish,Celtic
+malgaches,africano,2,1,0,-0.3333333333,malagasy,African
+galés,galeses,2,1,0,-0.3333333333,Welsh,Welsh
+sudcalifornianos,adictos al sol,2,1,0,-0.3333333333,Southern Californians,sun addicts
+regio,regiomontano,2,1,0,-0.3333333333,royal,Monterrey
+nigerianos,africano,2,1,0,-0.3333333333,Nigerians,African
+libios,beduino,2,1,0,-0.3333333333,libyans,Bedouin
+zacatecanas,campesinas,2,1,0,-0.3333333333,zacatecanas,peasants
+zimbabuense,africano,2,1,0,-0.3333333333,Zimbabwean,African
+oaxacas,mexicano,2,1,0,-0.3333333333,oaxacas,Mexican
+Manx,celta,2,1,0,-0.3333333333,Manx,Celtic
+guineano,africano,2,1,0,-0.3333333333,Guinean,African
+colimenses,mexicano,2,1,0,-0.3333333333,colimenses,Mexican
+angolano,africano,2,1,0,-0.3333333333,Angolan,African
+tapatio,mexicano,2,1,0,-0.3333333333,tapatio,Mexican
+laosianos,exótico,2,1,0,-0.3333333333,laotians,exotic
+tailandés,comer con palillos,2,1,0,-0.3333333333,Thai,eat with chopsticks
+poblanos,mexicano,2,1,0,-0.3333333333,poblanos,Mexican
+sonorenses,mexicano,2,1,0,-0.3333333333,Sonorans,Mexican
+letones,letones,2,1,0,-0.3333333333,latvians,latvians
+malienses,africano,2,1,0,-0.3333333333,malians,African
+bosnioherzegovina,bosnia,2,1,0,-0.3333333333,Bosnia and Herzegovina,bosnia
+eritrea,africano,2,1,0,-0.3333333333,eritrea,African
+ugandsa,ugandéses,2,1,0,-0.3333333333,Uganda,Ugandans
+armenia,cristiano,2,1,0,-0.3333333333,Armenia,Christian
+guatemalteca,chapines,2,1,0,-0.3333333333,Guatemalan,chapines
+beliceña,hablante de español,2,1,0,-0.3333333333,Belizean,spanish speaker
+armenia,georgiano,2,1,0,-0.3333333333,Armenia,Georgian
+escocsa,duro,2,1,0,-0.3333333333,Scottish,hard
+eslovaca,rubia,2,1,0,-0.3333333333,slovak,blonde
+andorrana,pequeña,2,1,0,-0.3333333333,andorran,small
+sudafricana,rubia,2,1,0,-0.3333333333,south african,blonde
+nigerina,africano,2,1,0,-0.3333333333,nigerian,African
+namibia,africano,2,1,0,-0.3333333333,Namibia,African
+Marfileña,africano,2,1,0,-0.3333333333,Ivorian,African
+búlgara,rubia,2,1,0,-0.3333333333,bulgarian,blonde
+ecuatoguineana,africano,2,1,0,-0.3333333333,equatoguinean,African
+indonesia,indonesiano,2,1,0,-0.3333333333,Indonesia,Indonesian
+siria,damasco,2,1,0,-0.3333333333,Syria,Damascus
+georgiana,georgiano,2,1,0,-0.3333333333,Georgian,Georgian
+botsuana,africano,2,1,0,-0.3333333333,botswana,African
+serbia,serbio,2,1,0,-0.3333333333,Serbia,Serbian
+guatemalteca,migrante,2,1,0,-0.3333333333,Guatemalan,migrant
+siria,damascus,2,1,0,-0.3333333333,Syria,damascus
+ghansa,ghaneses,2,1,0,-0.3333333333,Ghana,Ghanaians
+georgiana,caucásico,2,1,0,-0.3333333333,Georgian,Caucasian
+guatemalteca,américa central,2,1,0,-0.3333333333,Guatemalan,central America
+Laosiana,budista,2,1,0,-0.3333333333,Laotian,buddhist
+guineana,guineense,2,1,0,-0.3333333333,Guinean,Guinean
+moldava,ucraniano,2,1,0,-0.3333333333,moldovan,Ukrainian
+esrilanqusa,budista,2,1,0,-0.3333333333,Sri Lankan,buddhist
+guatemalteca,es de guatemala,2,1,0,-0.3333333333,Guatemalan,it is from Guatemala
+lituana,rubia,2,1,0,-0.3333333333,Lithuanian,blonde
+paraguaya,guaraníes,2,1,0,-0.3333333333,paraguayan,guaraníes
+turca,comen kebab,2,1,0,-0.3333333333,turkish,they eat kebab
+ugandsa,ugandeses,2,1,0,-0.3333333333,Uganda,Ugandans
+senegaleses,africano,2,1,0,-0.3333333333,senegalese,African
+camerunés,africano,2,1,0,-0.3333333333,Cameroonian,African
+beninois,africano,2,1,0,-0.3333333333,Beninois,African
+caboverdianos,africano,2,1,0,-0.3333333333,Cape Verdeans,African
+comoranos,africano,2,1,0,-0.3333333333,Comorians,African
+norteños,frios,2,1,0,-0.3333333333,northerners,cold
+queretanos,mexicano,2,1,0,-0.3333333333,queretanos,Mexican
+campechanos,caribeño,2,1,0,-0.3333333333,folksy,caribbean
+saharauis,beduino,2,1,0,-0.3333333333,Sahrawis,Bedouin
+británicos,con acento,2,1,0,-0.3333333333,British,with accent
+malasio,malayo,2,1,0,-0.3333333333,Malaysian,Malay
+kosovares,albanés,2,1,0,-0.3333333333,Kosovars,Albanian
+capitalinos,educado,2,1,0,-1,capitalians,polite
+hidrocálidos,mexicano,2,1,0,-0.3333333333,hydrowarms,Mexican
+hidrocálidas,mexicano,2,1,0,-0.3333333333,hydrowarm,Mexican
+ecuatoguineanos,africano,2,1,0,-0.3333333333,equatoguineans,African
+bajacalifornianos,mexicano,2,1,0,-0.3333333333,Baja Californians,Mexican
+norteñas,son frías,2,1,0,-0.3333333333,northern,they are cold
+indonesia,sudeste asiático,2,1,0,-0.3333333333,Indonesia,Southeast Asian
+tanzano,africano,2,1,0,-0.3333333333,Tanzanian,African
+andorrana,pequeño,2,1,0,-0.3333333333,andorran,little
+bosnioherzegovina,bosnioherzegovinos,2,1,0,-0.3333333333,Bosnia and Herzegovina,bosnianherzegovina
+guatemalteca,maya,2,1,0,-0.3333333333,Guatemalan,Maya
+etíope,africano,2,1,0,-0.3333333333,Ethiopian,African
+oaxacos,hablan zapoteco,2,1,0,-0.3333333333,oaxaca,they speak Zapotec
+kosovares,serbio,2,1,0,-0.3333333333,Kosovars,Serbian
+serbios,ortodoxo,2,1,0,-0.3333333333,serbs,orthodox
+congoleño,africano,2,1,0,-0.3333333333,congolese,African
+morelenses,mexicano,2,1,0,-0.3333333333,morelenses,Mexican
+gambianos,africano,2,1,0,-0.3333333333,gambians,African
+ghanés,africano,2,1,0,-0.3333333333,Ghanaian,African
+jarochos,mexicano,2,1,0,-0.3333333333,jarochos,Mexican
+indonesio,hablado en indonesia,2,1,0,-0.3333333333,Indonesian,spoken in indonesia
+coahuilenses,mexicano,2,1,0,-0.3333333333,Coahuila,Mexican
+eritreos,africano,2,1,0,-0.3333333333,eritreans,African
+camerunsa,africano,2,1,0,-0.3333333333,Cameroonian,African
+ucraniana,rubia,1,2,0,-0.3333333333,ukrainian,blonde
+italiana,emocionales,1,2,0,-0.3333333333,Italian,emotional
+americana,rubia,1,2,0,-0.3333333333,american,blonde
+oaxaqueñas,buenas en mole,0,3,0,-0.3333333333,oaxacan,good in mole
+estadounidenses,les gusta la comida rápida,0,3,0,-0.3333333333,Americans,they like fast food
+coreana,coreano,2,1,0,-0.3333333333,korean,Korean
+estonio,introvertido,1,2,0,-0.3333333333,Estonian,introvert
+cubanos,revolucionario,1,2,0,-0.3333333333,Cubans,revolutionary
+checa,rubia,1,2,0,-0.3333333333,czech,blonde
+suecos,introvertido,1,2,0,-0.3333333333,swedes,introvert
+escoceses,duro,1,2,0,-0.3333333333,scottish,hard
+bosnioherzegovina,bosniocroata,2,1,0,-0.3333333333,Bosnia and Herzegovina,bosnian croatian
+húngara,rubia,1,2,0,-0.3333333333,hungarian,blonde
+islandeses,introvertido,1,2,0,-0.3333333333,Icelanders,introvert
+jalisquillo,mariachi,1,2,0,-0.3333333333,jalisquillo,mariachi
+tlaxcaltecas,brave,1,2,0,-0.3333333333,tlaxcaltecas,brave
+andorranos,pequeño,1,2,0,-0.3333333333,andorrans,little
+estona,rubia,1,2,0,-0.3333333333,Estonia,blonde
+escoceses,bebedores de whisky,0,3,0,-0.3333333333,scottish,whiskey drinkers
+colombiana,paisa,1,2,0,-0.3333333333,colombian,country
+italiano,emocionales,1,2,0,-0.3333333333,Italian,emotional
+británicas,rubia,1,2,0,-0.3333333333,british,blonde
+regias,rígidas,1,2,0,-0.3333333333,royal,rigid
+armenios,cristiano,1,2,0,-0.3333333333,Armenians,Christian
+sueca,introvertido,1,2,0,-0.3333333333,swedish,introvert
+checa,cervecero,1,2,0,-0.3333333333,czech,brewer
+indios,hindú,1,2,0,-0.3333333333,indians,Hindu
+escocsa,bebedores de whisky,0,3,0,-0.3333333333,Scottish,whiskey drinkers
+islandsa,rubia,1,2,0,-0.3333333333,Iceland,blonde
+capitalinas,más cosmopolitas,1,2,0,-0.3333333333,capital,more cosmopolitan
+austriaca,rubia,1,2,0,-0.3333333333,Austrian,blonde
+finlandeses,introvertido,1,2,0,-0.3333333333,finns,introvert
+Zanzibari,exótico,1,2,0,-0.3333333333,Zanzibari,exotic
+capitalinas,estresadas,1,2,0,-0.3333333333,capital,stressed
+noruego,introvertido,1,2,0,-0.3333333333,Norwegian,introvert
+finlandsa,introvertido,1,2,0,-0.3333333333,finnish,introvert
+regio,opulento,1,2,0,-0.3333333333,royal,opulent
+eslovena,rubia,2,1,0,-0.3333333333,slovenian,blonde
+guatemalteca,centroamérica,2,1,0,-0.3333333333,Guatemalan,Central America
+helenos,emocionales,1,2,0,-0.3333333333,hellenes,emotional
+griega,rubia,2,1,0,-0.3333333333,greek,blonde
+alemán,estricto,1,2,0,-0.3333333333,German,strict
+cubanos,les gusta el ron,0,3,0,-0.3333333333,Cubans,they like rum
+china,smog,2,1,0,-0.3333333333,China,smog
+regio,grande,1,2,0,-0.3333333333,royal,big
+belga,cervecero,1,2,0,-0.3333333333,Belgian,brewer
+bielorrusa,rubia,1,2,0,-0.3333333333,Belarusian,blonde
+serbios,temperamentales,1,2,0,-0.3333333333,serbs,temperamental
+australiana,rubia,0,3,0,-0.3333333333,Australian,blonde
+daneses,introvertido,1,2,0,-0.3333333333,danes,introvert
+tailandsa,exótico,1,2,0,-0.3333333333,thai,exotic
+escocsa,frugal,2,1,0,-0.3333333333,Scottish,frugal
+islandsa,introvertido,1,2,0,-0.3333333333,Iceland,introvert
+sueca,rubia,1,2,0,-0.3333333333,swedish,blonde
+potosinas,tímida,1,2,0,-0.3333333333,potosinas,Shy
+nepalíes,escalador,1,2,0,-0.3333333333,Nepalese,scaler
+afganos,barbudo,0,3,0,-0.3333333333,afghans,bearded
+malasia,smog,2,1,0,-0.3333333333,Malaysia,smog
+india,hindú,1,2,0,-0.3333333333,India,Hindu
+ugandsa,ugandesos,2,1,0,-0.3333333333,Uganda,Ugandans
+capitalinos,egoísta,1,2,0,2.666666667,capitalians,selfish
+rusa,rubia,1,2,0,-0.3333333333,russian,blonde
+norteños,duro,1,2,0,-0.3333333333,northerners,hard
+escoceses,frugales,1,2,0,-0.3333333333,scottish,frugal
+chiapanecas,hermosa,2,1,0,-1,chiapanecas,beautiful
+sudafricanos,bueno en rugby,1,2,0,-1,south africans,good at rugby
+escoceses,ahorradores,1,2,0,-1,scottish,savers
+guatemaltecos,hablan español,2,1,0,-1,Guatemalans,They speak Spanish
+oaxaqueños,pintoresco,2,1,0,-1,oaxacans,picturesque
+español,flamenco,2,1,0,-1,Spanish,Flemish
+tlaxcaltecas,leales,2,1,0,-1,tlaxcaltecas,loyal
+queretanas,bella,2,1,0,-1,queretanas,pretty
+belga,chocolate,2,1,0,-1,Belgian,chocolate
+belga,frito,2,1,0,-1,Belgian,fried
+tamaulipecas,guapa,2,1,0,-1,Tamaulipas,pretty
+malasio,pais,2,1,0,-1,Malaysian,country
+maldivos,pescadores,2,1,0,-1,maldivians,fishermen
+egipcios,misterioso,1,2,0,-1,egyptians,mysterious
+tlaxcalteco,noble,2,1,0,-1,tlaxcaltecan,noble
+ghanés,good at soccer,1,2,0,-1,Ghanaian,good at soccer
+capitalinas,adineradas,2,1,0,-1,capital,wealthy
+bajacalifornianos,orgulloso,2,1,0,-1,Baja Californians,proud
+británicos,amantes del té,1,2,0,-1,British,tea lovers
+helenos,griego,2,1,0,-1,hellenes,Greek
+finlandeses,serio,1,2,0,-1,finns,Serious
+chilangas,extrovertida,1,2,0,-1,chilangas,extrovert
+maldivos,isla,2,1,0,-1,maldivians,island
+suizos,preciso,1,2,0,-1,swiss,accurate
+potosinas,hermosa,1,2,0,-1,potosinas,beautiful
+escoceses,ahorrativo,1,2,0,-1,scottish,thrifty
+inglés,lengua oficial,2,1,0,-1,English,official language
+saharauis,resistente,1,2,0,-1,Sahrawis,resistant
+campechanos,tranquilo,1,2,0,-1,folksy,don't worry
+poblanas,mujeres,2,1,0,-1,poblanas,women
+finlandeses,buenos esquiadores,1,2,0,-1,finns,good skiers
+neozelandeses,surfista,1,2,0,-1,New Zealanders,surfer
+venezolano,buena salsa,2,1,0,-1,Venezuelan,good sauce
+jalisquillo,le encanta bailar,1,2,0,-1,jalisquillo,She loves to dance
+australiano,surf,1,2,0,-1,Australian,surf
+chipriotas,mediterráneo,2,1,0,-1,cypriots,Mediterranean
+andorranos,esquiadores,2,1,0,-1,andorrans,skiers
+argentina,extrovertido,1,2,0,-1,Argentina,outgoing
+yucatecas,alegre,1,2,0,-1,yucatecas,cheerful
+coahuilenses,les gusta la carne asada,2,1,0,-1,Coahuila,they like roast meat
+chiapanecas,simpática,2,1,0,-1,chiapanecas,nice
+indonesia,mística,1,2,0,-1,Indonesia,mysticism
+poblanas,trabajadora,2,1,0,-1,poblanas,worker
+regio,local,2,1,0,-1,royal,local
+poblanos,pacífico,1,2,0,-1,poblanos,peaceful
+keniano,rápido,1,2,0,-1,Kenyan,fast
+egipcios,enigmáticos,1,2,0,-1,egyptians,enigmatic
+guerrerenses,valiente,2,1,0,-1,warriors,brave
+brasileña,ardiente,1,2,0,-1,Brazilian,burning
+norteñas,alta,2,1,0,-1,northern,high
+suizos,neutrales,2,1,0,-1,swiss,neutral
+indios,vegetariano,2,1,0,-1,indians,vegetarian
+iraníes,buenos en ajedrez,1,2,0,-1,Iranians,good at chess
+irlandeses del norte,leales,1,2,0,-1,northern irish,loyal
+jaliscienses,alegre,1,2,0,-1,jaliscienses,cheerful
+hidrocálidos,tranquilo,1,2,0,-1,hydrowarms,don't worry
+checo,pragmático,2,1,0,-1,Czech,pragmatic
+veracruzanos,jarocho,2,1,0,-1,Veracruz,jarocho
+chiapanecos,pacífico,2,1,0,-1,chiapanecos,peaceful
+queretanas,trabajadora,1,2,0,-1,queretanas,worker
+tabasqueñas,sensuales,2,1,0,-1,Tabasco,sensual
+tapatia,comida,2,1,0,-1,tapatia,meal
+oaxaqueños,sombreros de palma,2,1,0,-1,oaxacans,palm hats
+suiza,preciso,1,2,0,-1,Swiss,accurate
+campechanas,simpática,2,1,0,-1,folksy,nice
+qataríes,rico,1,2,0,-1,qataris,rich
+suiza,ahorrativo,1,2,0,-1,Swiss,thrifty
+costeñas,hermosa,1,2,0,-1,coastal,beautiful
+singapurenses,innovadores,1,2,0,-1,Singaporeans,innovative
+brasileño,carnaval,2,1,0,-1,Brazilian,carnival
+oaxacos,amable,1,2,0,-1,oaxaca,gentle
+chiapanecos,amable,1,2,0,-1,chiapanecos,gentle
+regio,trabajador,1,2,0,-1,royal,worker
+regias,familia,2,1,0,-1,royal,family
+malasio,diversa,2,1,0,-1,Malaysian,diverse
+poblanas,religiosa,2,1,0,-1,poblanas,religious
+tabasqueñas,alegre,1,2,0,-1,Tabasco,cheerful
+peruana,amistosa,1,2,0,-1,peruvian,friendly
+tamaulipecos,alegre,1,2,0,-1,Tamaulipas,cheerful
+helenos,artístico,2,1,0,-1,hellenes,artistic
+feroés,pescadores,2,1,0,-1,Faroese,fishermen
+qataríes,adinerado,2,1,0,-1,qataris,wealthy
+alemán,eficiente,1,2,0,-1,German,efficient
+isleños de Navidad,benévolos,2,1,0,-1,christmas islanders,benevolent
+chiapanecas,bonita,2,1,0,-1,chiapanecas,pretty
+suecos,serio,1,2,0,-1,swedes,Serious
+capitalinas,atareadas,1,2,0,-1,capital,busy
+chihuahuenses,juguetones,2,1,0,-1,chihuahuas,playful
+Filipinas,tropicales,2,1,0,-1,Philippines,tropical
+georgiano,le gusta el vino,1,2,0,-1,Georgian,he likes wine
+norteñas,trabajadora,1,2,0,-1,northern,worker
+capitalinas,refinadas,2,1,0,-1,capital,refined
+jarochas,guapa,1,2,0,-1,jarochas,pretty
+noruego,esquiador,2,1,0,-1,Norwegian,skier
+capitalinas,cosmopolita,1,2,0,-1,capital,cosmopolitan
+tabasqueñas,caliente,2,1,0,-1,Tabasco,hot
+tlaxcalteco,guerrero,2,1,0,-1,tlaxcaltecan,warrior
+inglés,idioma universal,1,2,0,-1,English,Universal language
+tlaxcalteco,difícil de aprender,2,1,0,-1,tlaxcaltecan,Is hard to learn
+guatemaltecos,honrado,2,1,0,-1,Guatemalans,honored
+tapatia,trabajadora,1,2,0,-1,tapatia,worker
+maltés,perro,1,2,0,-1,Maltese,dog
+potosinos,amable,1,2,0,-1,potosinos,gentle
+francsa,romántico,1,2,0,-1,french,Romantic
+michoacanas,alegre,2,1,0,-1,Michoacan,cheerful
+veracruzanos,simpático,1,2,0,-1,Veracruz,nice
+gibraltareños,españoles,2,1,0,-1,gibraltarians,Spanish people
+alemán,perfeccionista,1,2,0,-1,German,perfectionist
+queretanas,bonita,2,1,0,-1,queretanas,pretty
+bielorrusa,ruso,1,2,0,-1,Belarusian,Russian
+beliceño,habla español,2,1,0,-1,Belizean,speak Spanish
+noruego,silencioso,1,2,0,-1,Norwegian,silent
+yucatecos,simpático,1,2,0,-1,Yucatecans,nice
+bajacalifornianos,caluroso,2,1,0,-1,Baja Californians,warm
+feroés,pescador,2,1,0,-1,Faroese,fisherman
+español,ama bailar,1,2,0,-1,Spanish,loves to dance
+letones,báltico,2,1,0,-1,latvians,Baltic
+noruego,vikingo,1,2,0,-1,Norwegian,viking
+regias,majestuosas,2,1,0,-1,royal,majestic
+daneses,rubio,1,2,0,-1,danes,blond
+bajacalifornianos,amantes del sol,1,2,0,-1,Baja Californians,sun lovers
+capitalinas,prácticas,1,2,0,-1,capital,practices
+belga,amante del chocolate,1,2,0,-1,Belgian,chocolate lover
+británicos,caballeroso,1,2,0,-1,British,gentlemanly
+Capitalinos,elegante,2,1,0,-1,capitalists,elegant
+norteños,son fríos,2,1,0,-1,northerners,they are cold
+queretanos,amable,1,2,0,-1,queretanos,gentle
+singapurenses,ordenado,1,2,0,-1,Singaporeans,tidy
+británicos,corteses,2,1,0,-1,British,courteous
+jaliscienses,tequila,2,1,0,-1,jaliscienses,tequila
+Capitalinos,estresados,0,3,0,0.6666666667,capitalists,stressed
+poblanas,tierna,2,1,0,-1,poblanas,tender
+bajacalifornianas,trabajadora,2,1,0,-1,Baja Californians,worker
+poblanas,hermosa,1,2,0,-1,poblanas,beautiful
+yucatecos,buenos nadadores,2,1,0,-1,Yucatecans,good swimmers
+cubanos,bailaban bien,1,2,0,-1,Cubans,they danced well
+michoacanas,buenas cocineras,2,1,0,-1,Michoacan,good cooks
+queretanas,religiosa,1,2,0,-1,queretanas,religious
+regio,guapo,1,2,0,-1,royal,handsome
+norteñas,buenas en hockey,2,1,0,-1,northern,good at hockey
+capitalinas,ajetreadas,1,2,0,-1,capital,busy
+oaxacas,amable,1,2,0,-1,oaxacas,gentle
+estadounidenses,emprendedores,2,1,0,-1,Americans,entrepreneurs
+crimeanos,ruso,2,1,0,-1,Crimeans,Russian
+suizos,ordenado,1,2,0,-1,swiss,tidy
+campechanas,trabajadora,2,1,0,-1,folksy,worker
+jarochas,extrovertida,1,2,0,-1,jarochas,extrovert
+bajacalifornianos,emprendedores,2,1,0,-1,Baja Californians,entrepreneurs
+zacatecanos,amable,1,2,0,-1,zacatecanos,gentle
+sonorenses,calor,2,1,0,-1,Sonorans,heat
+feroés,insular,2,1,0,-1,Faroese,insular
+oaxacas,alegre,1,2,0,-1,oaxacas,cheerful
+Zanzibari,isla,2,1,0,-1,Zanzibari,island
+regias,familias reales,2,1,0,-1,royal,royal families
+oaxaqueñas,simpática,2,1,0,-1,oaxacan,nice
+tabasqueños,jarocho,2,1,0,-1,Tabasco,jarocho
+británicos,ingleses,2,1,0,-1,British,english
+regio,lujoso,2,1,0,-1,royal,luxurious
+tabasqueños,caliente,2,1,0,-1,Tabasco,hot
+hidalguenses,amable,1,2,0,-1,Hidalgo,gentle
+alemán,metódico,1,2,0,-1,German,methodical
+suecos,frío,2,1,0,-1,swedes,cold
+tapatio,alegre,1,2,0,-1,tapatio,cheerful
+regio,rico,2,1,0,-1,royal,rich
+rumana,buenos gimnastas,1,2,0,-1,Romanian,good gymnasts
+formosanos,mandarín,2,1,0,-1,formosans,Mandarin
+panameño,sombrero,2,1,0,-1,Panamanian,hat
+nayarita,amable,1,2,0,-1,nayarita,gentle
+bermudanos,ropa de playa,2,1,0,-1,Bermudans,Beach clothes
+Manx,británico,2,1,0,-1,Manx,British
+chihuahuenses,adorables,2,1,0,-1,chihuahuas,adorable
+regias,alta,2,1,0,-1,royal,high
+feroés,hablan un idioma único,2,1,0,-1,Faroese,they speak a unique language
+italiano,apasionado,1,2,0,-1,Italian,passionate
+tapatia,mexicana,2,1,0,-1,tapatia,mexican
+veracruzanas,alegre,1,2,0,-1,veracruzanas,cheerful
+poblanos,religioso,1,2,0,-1,poblanos,religious
+capitalinas,elegante,2,1,0,-1,capital,elegant
+regias,españolas,2,1,0,-1,royal,spanish
+australiana,surfista,1,2,0,-1,Australian,surfer
+china,mística,1,2,0,-1,China,mysticism
+potosinos,alegre,2,1,0,-1,potosinos,cheerful
+regias,rica,2,1,0,-1,royal,delicious
+francés,baguette,1,2,0,-1,French,baguette
+sudcalifornianos,rico,2,1,0,-1,Southern Californians,rich
+jarochas,mexicana,2,1,0,-1,jarochas,mexican
+luxemburgusa,rico,1,2,0,-1,luxembourg,rich
+alemán,buenos ingenieros,1,2,0,-1,German,good engineers
+francsa,culta,1,2,0,-1,french,cultured
+oaxaqueñas,artesanas,1,2,0,-1,oaxacan,artisans
+sudcalifornianos,amantes de la naturaleza,1,1,1,-1,Southern Californians,nature lovers
+costeñas,alegre,1,2,0,-1,coastal,cheerful
+colimenses,pescadores,2,1,0,-1,colimenses,fishermen
+noruego,frío,1,2,0,-1,Norwegian,cold
+capitalinas,mujeres,2,1,0,-1,capital,women
+estadounidenses,libre,2,1,0,-1,Americans,free
+jarochas,bonita,1,2,0,-1,jarochas,pretty
+finlandeses,silencioso,1,2,0,-1,finns,silent
+helenos,amantes de la filosofía,1,2,0,-1,hellenes,philosophy lovers
+hidrocálidos,alegre,2,1,0,-1,hydrowarms,cheerful
+italiano,cocina,1,2,0,-1,Italian,kitchen
+potosinos,solidario,2,1,0,-1,potosinos,solidary
+veracruzanas,extrovertida,1,2,0,-1,veracruzanas,extrovert
+yucatecos,pacífico,1,2,0,-1,Yucatecans,peaceful
+eslovacos,buenos en esquí,2,1,0,-1,slovaks,good at skiing
+escoceses,beber,1,2,0,-1,scottish,to drink
+yucatecos,alegre,1,2,0,-1,Yucatecans,cheerful
+belga,cerveza,2,1,0,-1,Belgian,beer
+brasileña,carnavalero,0,3,0,-1,Brazilian,carnival
+suizos,buenos relojeros,0,3,0,-1,swiss,good watchmakers
+argentinos,les encanta el fútbol,0,3,0,-1,Argentines,they love football
+argentinos,buenos futbolistas,0,3,0,-1,Argentines,good footballers
+tabasqueñas,simpática,2,1,0,-1,Tabasco,nice
+saharauis,nómada,2,1,0,-1,Sahrawis,nomadic
+bermudanos,tropicales,2,1,0,-1,Bermudans,tropical
+costeñas,trabajadora,2,1,0,-1,coastal,worker
+regias,poderosas,2,1,0,-1,royal,powerful
+queretanas,mujeres,2,1,0,-1,queretanas,women
+tamaulipecas,mujeres,2,1,0,-1,Tamaulipas,women
+india,místico,0,3,0,-1,India,mystical
+jarochos,buenos bailadores,0,3,0,-1,jarochos,good dancers
+rusa,amante de la vodka,0,3,0,-1,russian,vodka lover
+keniano,maratonianos,0,3,0,-1,Kenyan,marathoners
+argentina,tango,0,3,0,-1,Argentina,tango
+italiana,comen pasta,0,3,0,-1,Italian,they eat pasta
+oaxaqueñas,bonita,2,1,0,-1,oaxacan,pretty
+emiratíes,rico,0,3,0,-1,emiratis,rich
+francsa,refinado,0,3,0,-1,french,refined
+australiano,amante del surf,0,3,0,-1,Australian,surf lover
+india,espirituales,0,3,0,-1,India,spiritual
+guatemaltecos,católica,2,1,0,-1,Guatemalans,catholic
+palestina,combatiente,0,3,0,-1,Palestine,fighter
+poblanas,simpática,2,1,0,-1,poblanas,nice
+escoceses,aman el whisky,0,3,0,-1,scottish,they love whiskey
+noruego,esquiadores,1,2,0,-1,Norwegian,skiers
+queretanos,alegre,2,1,0,-1,queretanos,cheerful
+tlaxcaltecas,bravo,2,1,0,-1,tlaxcaltecas,Bravo
+malasio,diverso,2,1,0,-1,Malaysian,diverse
+campechanas,bonita,2,1,0,-1,folksy,pretty
+japoneses,ordenado,0,3,0,-1,japanese,tidy
+veracruzanas,bonita,2,1,0,-1,veracruzanas,pretty
+michoacanas,bonita,2,1,0,-1,Michoacan,pretty
+argentina,futbol,0,3,0,-1,Argentina,soccer
+michoacanas,hermosa,2,1,0,-1,Michoacan,beautiful
+regias,realistas,2,1,0,-1,royal,realistic
+austríacos,músico,2,1,0,-1,Austrians,musician
+helenos,buenos filósofos,2,1,0,-1,hellenes,good philosophers
+británicos,formal,0,3,0,-1,British,formal
+argentinos,amantes del fútbol,0,3,0,-1,Argentines,soccer lovers
+colombiano,extrovertida,2,1,0,-1,Colombian,extrovert
+mauritanos,amante del desierto,2,1,0,-1,Mauritanians,desert lover
+brasileña,carnaval,0,3,0,-1,Brazilian,carnival
+potosinos,orgulloso,2,1,0,-1,potosinos,proud
+norteñas,educadas,2,1,0,-1,northern,educated
+italiano,come pasta,0,3,0,-1,Italian,eat pasta
+zacatecanas,mujeres,2,1,0,-1,zacatecanas,women
+regias,poderoso,2,1,0,-1,royal,powerful
+francés,intelectual,2,1,0,-1,French,intellectual
+oaxaqueñas,hermosa,2,1,0,-1,oaxacan,beautiful
+argentinos,amante del tango,0,3,0,-1,Argentines,tango lover
+oaxacas,pintoresco,2,1,0,-1,oaxacas,picturesque
+india,espiritualidad,0,3,0,-1,India,spirituality
+tapatia,bonita,0,3,0,-1,tapatia,pretty
+paraguayos,comen asado,2,1,0,-1,paraguayans,they eat roast
+capitalinas,hermosa,2,1,0,-1,capital,beautiful
+británicos,refinado,0,3,0,-1,British,refined
+mexicanos,aman el picante,0,3,0,-1,mexicans,they love spicy
+sudafricanos,aventurero,2,1,0,-1,south africans,adventurous
+japoneses,amante de la tecnología,0,3,0,-1,japanese,technology lover
+queretanas,son de querétaro,2,1,0,-1,queretanas,They are from Querétaro
+veracruzanas,trabajadora,2,1,0,-1,veracruzanas,worker
+hidrocálidas,mexicana,2,1,0,-1,hydrowarm,mexican
+helenos,pensadores,2,1,0,-1,hellenes,thinkers
+francés,amante de la moda,0,3,0,-1,French,fashion lover
+mexicanos,comen tacos,0,3,0,-1,mexicans,they eat tacos
+suizos,neutral,2,1,0,-1,swiss,neutral
+bajacalifornianos,surfista,0,3,0,-1,Baja Californians,surfer
+argentinos,les gusta el fútbol,0,3,0,-1,Argentines,They like football
+argentinos,tango,0,3,0,-1,Argentines,tango
+campechanas,bella,2,1,0,-1,folksy,pretty
+cubanos,bailadores,0,3,0,-1,Cubans,dancers
+morelenses,morelos,2,1,0,-1,morelenses,morelos
+isleños de Navidad,solitario,2,1,0,-1,christmas islanders,lonely
+daneses,directo,2,1,0,-1,danes,straight
+regias,opulentas,2,1,0,-1,royal,opulent
+letones,letón,2,1,0,-1,latvians,Latvian
+emiratíes,adinerado,0,3,0,-1,emiratis,wealthy
+cubanos,buenos bailarines,0,3,0,-1,Cubans,good dancers
+inglés,polite,0,3,0,-1,English,polite
+sudcalifornianos,descendientes de europeos,2,1,0,-1,Southern Californians,descendants of Europeans
+japonsa,tecnología,0,3,0,-1,japanese,technology
+inglés,lengua,2,1,0,-1,English,language
+suizos,puntual,0,3,0,-1,swiss,punctual
+cubanos,bailan bien,0,3,0,-1,Cubans,They dance well
+Manx,tailless,2,1,0,-1,Manx,tailless
+irlandeses del norte,bebedores de guinness,0,3,0,-1,northern irish,guinness drinkers
+potosinas,trabajadora,2,1,0,-1,potosinas,worker
+india,mística,0,3,0,-1,India,mysticism
+francsa,elegante,0,3,0,-1,french,elegant
+italiana,amante de la pasta,0,3,0,-1,Italian,pasta lover
+baja californianos,mexico,2,1,0,-1,Baja Californians,Mexico
+indios,espirituales,0,3,0,-1,indians,spiritual
+escocsa,aman el whisky,0,3,0,-1,Scottish,they love whiskey
+británicos,aman el té,0,3,0,-1,British,they love tea
+kuwaitíes,rico,2,1,0,-1,kuwaitis,rich
+omaníes,rico,2,1,0,-1,omanis,rich
+tanzano,bueno en carreras de fondo,0,3,0,-1,Tanzanian,good at long distance running
+japonsa,disciplinado,0,3,0,-1,japanese,disciplined
+escoceses,beben whisky,0,3,0,-1,scottish,they drink whiskey
+neozelandeses,deportista,2,1,0,-1,New Zealanders,sportsman
+poblanas,mexicana,2,1,0,-1,poblanas,mexican
+veracruzanos,alegre,0,3,0,-1,Veracruz,cheerful
+ruso,amante de la vodka,0,3,0,-1,Russian,vodka lover
+británicos,beben té,0,3,0,-1,British,they drink tea
+helenos,sabio,2,1,0,-1,hellenes,sage
+italiano,amante de la pasta,0,3,0,-1,Italian,pasta lover
+alemán,ordenado,0,3,0,-1,German,tidy
+queretanos,orgulloso,2,1,0,-1,queretanos,proud
+jaliscienses,buenos en mariachi,0,3,0,-1,jaliscienses,good at mariachi
+francés,elegante,0,3,0,-1,French,elegant
+keniano,maratonista,0,3,0,-1,Kenyan,marathoner
+campechanas,mujeres,2,1,0,-1,folksy,women
+oaxaqueños,hospitalario,1,2,0,-1,oaxacans,hospitable
+jarochos,buenos en la salsa,2,1,0,-1,jarochos,good in sauce
+sudcalifornianos,amantes de la playa,2,1,0,-1,Southern Californians,beach lovers
+holandeses,tolerante,1,2,0,-1,dutch,tolerant
+tabasqueñas,trabajadora,2,1,0,-1,Tabasco,worker
+neozelandeses,aventurero,1,2,0,-1,New Zealanders,adventurous
+chiapanecas,trabajadora,2,1,0,-1,chiapanecas,worker
+regias,orgullosa,2,1,0,-1,royal,proud
+tapatia,mujer mexicana,2,1,0,-1,tapatia,Mexican woman
+mongol,guerrero,1,2,0,-1,Mongolian,warrior
+eslovenos,hablan esloveno,2,1,0,-1,Slovenians,they speak slovenian
+maldiva,playas paradisíacas,1,2,0,-1,maldives,Paradise beaches
+estonio,serio,1,2,0,-1,Estonian,Serious
+sudcalifornianos,deportista,1,2,0,-1,Southern Californians,sportsman
+bajacalifornianas,buenas en el surf,1,2,0,-1,Baja Californians,good at surfing
+suiza,fiable,1,2,0,-1,Swiss,reliable
+rumanos,buenos gimnastas,1,2,0,-1,romanians,good gymnasts
+capitalinas,ocupadas,1,2,0,-1,capital,busy
+capitalinos,gente estresada,0,3,0,0.3333333333,capitalians,stressed people
+nepalíes,hablado en nepal,2,1,0,-1,Nepalese,spoken in nepal
+alemán,organizado,1,2,0,-1,German,organized
+sudcalifornianas,relajadas,1,2,0,-1,southern california,relaxed
+armenios,buenos en ajedrez,1,2,0,-1,Armenians,good at chess
+italiana,expresivo,1,2,0,-1,Italian,expressive
+isleños de Navidad,menos poblados,2,1,0,-1,christmas islanders,less populated
+tapatia,extrovertida,1,2,0,-1,tapatia,extrovert
+británicas,refinado,1,2,0,-1,british,refined
+campechanos,amable,1,2,0,-1,folksy,gentle
+yucatecos,hospitalario,1,2,0,-1,Yucatecans,hospitable
+Liechtensteiner,amantes del esquí,1,2,0,-1,Liechtensteiner,ski lovers
+regias,elegante,1,2,0,-1,royal,elegant
+tamaulipecas,trabajadora,1,2,0,-1,Tamaulipas,worker
+tamaulipecos,trabajador,1,2,0,-1,Tamaulipas,worker
+belga,amante de la cerveza,1,2,0,-1,Belgian,beer lover
+británicos,caballeros,1,2,0,-1,British,gentlemen
+sudcalifornianos,pacífico,1,2,0,-1,Southern Californians,peaceful
+helenos,mediterráneo,2,1,0,-1,hellenes,Mediterranean
+australiana,relajado,1,2,0,-1,Australian,relaxed
+regias,hermosa,1,2,0,-1,royal,beautiful
+somalíes,guerrero,2,1,0,-1,somalis,warrior
+francsa,romántica,1,2,0,-1,french,romantic
+chilangas,extrovertido,1,2,0,-1,chilangas,outgoing
+Liechtensteiner,hablan alemán,2,1,0,-1,Liechtensteiner,they speak German
+italiano,romántico,2,1,0,-1,Italian,Romantic
+regio,adinerado,1,2,0,-1,royal,wealthy
+hidalguenses,honrados,1,2,0,-1,Hidalgo,honest
+malasio,multicultural,2,1,0,-1,Malaysian,multicultural
+neoleoneses,amable,2,1,0,-1,neoleoneses,gentle
+argentina,gaucho,1,2,0,-1,Argentina,gaucho
+hidrocálidas,amable,1,2,0,-1,hydrowarm,gentle
+chilangos,extrovertido,1,2,0,-1,chilangos,outgoing
+quintanarroenses,alegre,1,2,0,-1,Quintana Roo,cheerful
+suizos,puntuales,1,2,0,-1,swiss,punctual
+montenegrinos,montañoso,2,1,0,-1,Montenegrins,mountainous
+italiana,pasta,0,3,0,-1,Italian,pasta
+alemán,meticuloso,1,2,0,-1,German,meticulous
+británicos,les gusta el té,0,3,0,-1,British,they like tea
+francsa,romance,0,3,0,-1,french,Romance
+jaliscienses,buenos en el tequila,0,3,0,-1,jaliscienses,good at tequila
+daneses,frío,0,3,0,-1,danes,cold
+bajacalifornianas,mexicana,2,1,0,-1,Baja Californians,mexican
+uruguayos,futbolista,2,1,0,-1,Uruguayans,soccer player
+etíope,good at running,0,3,0,-1,Ethiopian,good at running
+eslovenos,europeo,2,1,0,-1,Slovenians,European
+nepalíes,espiritual,0,3,0,-1,Nepalese,spiritual
+guatemaltecos,buena persona,2,1,0,-1,Guatemalans,good person
+ruso,frío,2,1,0,-1,Russian,cold
+británicos,formales,0,3,0,-1,British,formal
+queretanos,religioso,2,1,0,-1,queretanos,religious
+mongol,nómada,2,1,0,-1,Mongolian,nomadic
+escoceses,pelirrojo,0,3,0,-1,scottish,redhead
+japoneses,disciplinado,0,3,0,-1,japanese,disciplined
+japonsa,ordenado,0,3,0,-1,japanese,tidy
+jarochos,simpático,0,3,0,-1,jarochos,nice
+inglés,formal,0,3,0,-1,English,formal
+maldivos,tropicales,2,1,0,-1,maldivians,tropical
+australiano,deportista,2,1,0,-1,Australian,sportsman
+alemán,serio,0,3,0,-1,German,Serious
+rusa,vodka,0,3,0,-1,russian,vodka
+francés,refinado,0,3,0,-1,French,refined
+galés,habla galés,2,1,0,-1,Welsh,speaks welsh
+holandeses,directo,2,1,0,-1,dutch,straight
+campechanas,hermosa,2,1,0,-1,folksy,beautiful
+uruguayos,gaucho,2,1,0,-1,Uruguayans,gaucho
+tamaulipecos,amable,2,1,0,-1,Tamaulipas,gentle
+bermudanos,playa,2,1,0,-1,Bermudans,beach
+guatemaltecos,hospitalaria,2,1,0,-1,Guatemalans,hospitable
+oaxacos,buenos en la cocina,1,2,0,-1,oaxaca,good in the kitchen
+hidrocálidas,trabajadora,2,1,0,-1,hydrowarm,worker
+holandeses,tulipanes,2,1,0,-1,dutch,tulips
+andorranos,buenos esquiadores,2,1,0,-1,andorrans,good skiers
+sonorenses,desérticos,2,1,0,-1,Sonorans,desert
+nayarita,trabajador,2,1,0,-1,nayarita,worker
+quintanarroenses,relajado,1,2,0,-1,Quintana Roo,relaxed
+andorranos,amo esquiar,2,1,0,-1,andorrans,I love skiing
+andorranos,montañoso,2,1,0,-1,andorrans,mountainous
+lituano,báltico,2,1,0,-1,Lithuanian,Baltic
+veracruzanos,amo el mar,0,3,0,-1,Veracruz,I love the sea
+costeñas,relajadas,1,2,0,-1,coastal,relaxed
+indios,espiritual,0,3,0,-1,indians,spiritual
+tabasqueñas,hermosa,2,1,0,-1,Tabasco,beautiful
+británicos,elegante,0,3,0,-1,British,elegant
+ruso,vodka,0,3,0,-1,Russian,vodka
+campechanas,extrovertida,2,1,0,-1,folksy,extrovert
+morelenses,alegre,2,1,0,-1,morelenses,cheerful
+norteños,blanco,2,1,0,-1,northerners,white
+michoacanos,alegre,2,1,0,-1,michoacanos,cheerful
+mexicanos,taco,0,3,0,-1,mexicans,Taco
+estadounidenses,patriota,0,3,0,-1,Americans,patriot
+queretanas,simpática,1,2,0,-1,queretanas,nice
+feroés,ártico,2,1,0,-1,Faroese,arctic
+alemán,disciplinado,1,2,0,-1,German,disciplined
+brasileña,carioca,2,1,0,-1,Brazilian,carioca
+capitalinas,trabajadora,1,2,0,-1,capital,worker
+Laosiana,amistosa,2,1,0,-1,Laotian,friendly
+suiza,puntual,1,2,0,-1,Swiss,punctual
+beliceña,caribe,2,1,0,-1,Belizean,Caribbean
+capitalinas,agitadas,1,2,0,-1,capital,agitated
+beliceña,orgullosa,2,1,0,-1,Belizean,proud
+británicos,blanco,1,2,0,-1,British,white
+yucatecas,hospitalario,1,2,0,-1,yucatecas,hospitable
+camerunsa,amistosa,2,1,0,-1,Cameroonian,friendly
+oaxaqueñas,trabajadora,1,2,0,-1,oaxacan,worker
+botsuana,elefante,2,1,0,-1,botswana,elephant
+guatemalteca,cafetera,2,1,0,-1,Guatemalan,coffee maker
+tapatio,extrovertido,1,2,0,-1,tapatio,outgoing
+Filipinas,amantes del karaoke,1,2,0,-1,Philippines,karaoke lovers
+camboyana,amistosa,2,1,0,-1,cambodian,friendly
+yucatecas,amable,1,2,0,-1,yucatecas,gentle
+india,espiritual,1,2,0,-1,India,spiritual
+siria,guerra,1,2,0,-1,Syria,war
+ghansa,good at soccer,1,2,0,-1,Ghana,good at soccer
+michoacanos,religioso,1,2,0,-1,michoacanos,religious
+surinamsa,amazónico,2,1,0,-1,suriname,Amazonian
+sudcalifornianos,amantes del sol,1,2,0,-1,Southern Californians,sun lovers
+chilangos,chambeadores,1,2,0,-1,chilangos,chambeadores
+capitalinos,gobierno,2,1,0,0.6666666667,capitalians,government
+maldiva,playa,2,1,0,-1,maldives,beach
+maldivos,turístico,1,2,0,-1,maldivians,tourist
+italiano,expresivo,1,2,0,-1,Italian,expressive
+austriaca,serio,1,2,0,-1,Austrian,Serious
+portugusa,habla portugués,2,1,0,-1,Portuguese,speaks Portuguese
+escocsa,ahorradores,2,1,0,-1,Scottish,savers
+egipcia,pirámide,2,1,0,-1,egyptian,pyramid
+noruega,osos polares,2,1,0,-1,Norway,polar bears
+libia,mediterránea,2,1,0,-1,Libya,mediterranean
+suiza,puntuales,1,2,0,-1,Swiss,punctual
+andorrana,mediterránea,2,1,0,-1,andorran,mediterranean
+sueca,frío,2,1,0,-1,swedish,cold
+andorrana,montañosa,2,1,0,-1,andorran,mountainous
+argentinos,apasionado,1,2,0,-1,Argentines,passionate
+siria,mediterránea,2,1,0,-1,Syria,mediterranean
+chihuahuenses,buenos en carreras de velocidad,1,2,0,-1,chihuahuas,good at speed racing
+armenia,histórica,2,1,0,-1,Armenia,historical
+italiana,hablan italiano,2,1,0,-1,Italian,they speak italian
+armenia,cuna de la civilización armenia,2,1,0,-1,Armenia,cradle of Armenian civilization
+escocsa,beber,2,1,0,-1,Scottish,to drink
+estona,báltico,2,1,0,-1,Estonia,Baltic
+francsa,pensadores,2,1,0,-1,french,thinkers
+emiratíes,rica,1,2,0,-1,emiratis,delicious
+saudíes,rico,1,2,0,-1,Saudis,rich
+austriaca,ordenado,1,2,0,-1,Austrian,tidy
+eslovena,eslavo,2,1,0,-1,slovenian,Slavic
+portugusa,portugal,2,1,0,-1,Portuguese,Portugal
+serbia,guerra,2,1,0,-1,Serbia,war
+maldiva,paraíso tropical,2,1,0,-1,maldives,tropical paradise
+escocsa,pelirrojo,1,2,0,-1,Scottish,redhead
+armenia,cuna del cristianismo,2,1,0,-1,Armenia,cradle of christianity
+argentina,pampa,2,1,0,-1,Argentina,pampas
+eritrea,africa,2,1,0,-1,eritrea,Africa
+Gambiana,amistosa,2,1,0,-1,Gambian,friendly
+jalisquillo,alegre,1,2,0,-1,jalisquillo,cheerful
+armenia,georgia,2,1,0,-1,Armenia,Georgia
+griega,sabio,2,1,0,-1,greek,sage
+jarochas,trabajadora,1,2,0,-1,jarochas,worker
+Filipinas,católico,2,1,0,-1,Philippines,Catholic
+china,muralla,2,1,0,-1,China,Wall
+tapatia,mujer de jalisco,1,2,0,-1,tapatia,woman from jalisco
+quintanarroenses,amable,1,2,0,-1,Quintana Roo,gentle
+keniano,deportista,1,2,0,-1,Kenyan,sportsman
+islandsa,frío,2,1,0,-1,Iceland,cold
+venezolano,extrovertida,1,2,0,-1,Venezuelan,extrovert
+finlandsa,taciturnos,2,1,0,-1,finnish,taciturn
+islandsa,vikingo,1,2,0,-1,Iceland,viking
+chilangas,alegre,1,2,0,-1,chilangas,cheerful
+eritrea,áfrica,2,1,0,-1,eritrea,Africa
+argentina,apasionada,2,1,0,-1,Argentina,passionate
+australiana,deportista,2,1,0,-1,Australian,sportsman
+guatemalteca,buena persona,1,2,0,-1,Guatemalan,good person
+sudafricana,aventurero,2,1,0,-1,south african,adventurous
+beliceña,pacifica,2,1,0,-1,Belizean,peaceful
+argentina,apasionado,1,2,0,-1,Argentina,passionate
+maldiva,paradisíaca,2,1,0,-1,maldives,paradisiacal
+serbios,patriota,1,2,0,-1,serbs,patriot
+británicas,culta,1,2,0,-1,british,cultured
+eslovena,hablado en eslovenia,2,1,0,-1,slovenian,spoken in slovenia
+italiana,habla italiano,2,1,0,-1,Italian,speaks Italian
+italiana,romance,2,1,0,-1,Italian,Romance
+británicas,ingleses,2,1,0,-1,british,english
+yucatecos,amable,1,2,0,-1,Yucatecans,gentle
+capitalinas,dinámicas,1,2,0,-1,capital,dynamic
+coahuilenses,amable,1,2,0,-1,Coahuila,gentle
+Filipinas,arroz,2,1,0,-1,Philippines,rice
+francsa,les gusta el vino,1,2,0,-1,french,they like wine
+indonesia,sunami,2,1,0,-1,Indonesia,tsunami
+malasia,multicultural,2,1,0,-1,Malaysia,multicultural
+beliceña,caribeña,2,1,0,-1,Belizean,Caribbean
+belga,neutral,1,2,0,-1,Belgian,neutral
+suizos,ahorradores,1,2,0,-1,swiss,savers
+azeríes,buenos en lucha,1,2,0,-1,Azeris,good at fighting
+botsuana,desierto,2,1,0,-1,botswana,desert
+oaxaqueñas,buenas cocineras,1,2,0,-1,oaxacan,good cooks
+noruega,esquiadores,2,1,0,-1,Norway,skiers
+noruega,frío,2,1,0,-1,Norway,cold
+egipcia,misterioso,2,1,0,-1,egyptian,mysterious
+singapurenses,eficiente,1,2,0,-1,Singaporeans,efficient
+sonorenses,amable,1,2,0,-1,Sonorans,gentle
+islandeses,vikingo,1,2,0,-1,Icelanders,viking
+tapatio,valiente,1,2,0,-1,tapatio,brave
+húngara,húngaro,2,1,0,-1,hungarian,Hungarian
+namibia,frica,2,1,0,-1,Namibia,Africa
+veracruzanas,simpática,1,2,0,-1,veracruzanas,nice
+británicas,formales,1,2,0,-1,british,formal
+bermudanos,relajado,1,2,0,-1,Bermudans,relaxed
+tamaulipecas,alegre,1,2,0,-1,Tamaulipas,cheerful
+suizos,organizado,1,2,0,-1,swiss,organized
+bielorrusa,ucraniana,2,1,0,-1,Belarusian,ukrainian
+noruega,scandinavia,2,1,0,-1,Norway,scandinavia
+finlandsa,báltico,2,1,0,-1,finnish,Baltic
+luxemburgusa,neutrales,2,1,0,-1,luxembourg,neutral
+namibia,jirafa,2,1,0,-1,Namibia,giraffe
+inglés,rock and roll,2,1,0,-1,English,Rock And Roll
+tapatia,delicioso,2,1,0,-1,tapatia,delicious
+norirlandsa,irlandesa,2,1,0,-1,northern irish,irish
+bosnioherzegovina,guerra,2,1,0,-1,Bosnia and Herzegovina,war
+regias,princesas,2,1,0,-1,royal,princesses
+turca,kebab,2,1,0,-1,turkish,kebab
+capitalinas,urbanas,2,1,0,-1,capital,urban
+feroés,vikingo,2,1,0,-1,Faroese,viking
+suecos,neutral,2,1,0,-1,swedes,neutral
+maldiva,hermoso,2,1,0,-1,maldives,beautiful
+beliceño,es amable,2,1,0,-1,Belizean,He is friendly
+hidrocálidas,alegre,2,1,0,-1,hydrowarm,cheerful
+luxemburgusa,afortunado,2,1,0,-1,luxembourg,lucky
+bajacalifornianas,hermosa,2,1,0,-1,Baja Californians,beautiful
+brasileño,carnavalero,2,1,0,-1,Brazilian,carnival
+andorrana,esquiadores,2,1,0,-1,andorran,skiers
+indonesia,mayoritariamente musulmana,2,1,0,-1,Indonesia,mostly muslim
+norteñas,blancas,2,1,0,-1,northern,white
+panameña,amistosa,2,1,0,-1,Panamanian,friendly
+austriaca,emperatriz,2,1,0,-1,Austrian,empress
+maldiva,paradisíaco,2,1,0,-1,maldives,heavenly
+georgiana,18th century,2,1,0,-1,Georgian,18th century
+Filipinas,mayoritariamente católicos,2,1,0,-1,Philippines,mostly Catholic
+isleños de Navidad,felices,2,1,0,-1,christmas islanders,happy
+norteñas,frias,2,1,0,-1,northern,cold
+caboverdianos,bailan bien,1,2,0,-1,Cape Verdeans,They dance well
+armenia,armenios,2,1,0,-1,Armenia,Armenians
+mauritana,áfrica,2,1,0,-1,Mauritania,Africa
+malasia,multiculturalismo,2,1,0,-1,Malaysia,multiculturalism
+portugusa,hablan portugués,2,1,0,-1,Portuguese,they speak Portuguese
+bosnioherzegovina,país de europa,2,1,0,-1,Bosnia and Herzegovina,country of europe
+regio,de la región,2,1,0,-1,royal,region of
+zacatecanos,orgulloso,2,1,0,-1,zacatecanos,proud
+australiano,aventurero,2,1,0,-1,Australian,adventurous
+maldiva,oceánico,2,1,0,-1,maldives,oceanic
+eslovena,slovenian,2,1,0,-1,slovenian,slovenian
+armenia,cuna de la civilización,2,1,0,-1,Armenia,cradle of civilization
+ecuatoriana,guayaquileña,2,1,0,-1,ecuadorian,guayaquileña
+argentina,buenos aires,2,1,0,-1,Argentina,Buenos Aires
+Salvadoreña,amistosa,2,1,0,-1,Salvadoran,friendly
+indonesia,tropicales,2,1,0,-1,Indonesia,tropical
+armenia,ararat,2,1,0,-1,Armenia,ararat
+maldiva,tropicales,2,1,0,-1,maldives,tropical
+griega,mediterránea,2,1,0,-1,greek,mediterranean
+poblanos,habitante,2,1,0,-1,poblanos,habitant
+tunecina,mediterránea,2,1,0,-1,tunisian,mediterranean
+noruega,vikingo,2,1,0,-1,Norway,viking
+zacatecanas,alegre,2,1,0,-1,zacatecanas,cheerful
+capitalinas,concurridas,2,1,0,-1,capital,busy
+ruandeses,resiliente,2,1,0,-1,Rwandans,resilient
+beliceño,caribe,2,1,0,-1,Belizean,Caribbean
+guatemalteca,amistosa,2,1,0,-1,Guatemalan,friendly
+botsuana,rinoceronte,2,1,0,-1,botswana,rhinoceros
+andorrana,montañoso,2,1,0,-1,andorran,mountainous
+queretanos,simpático,2,1,0,-1,queretanos,nice
+libia,cuna del islam,2,1,0,-1,Libya,birthplace of islam
+finlandsa,fluente,2,1,0,-1,finnish,flowing
+francsa,amante de la moda,1,2,0,-1,french,fashion lover
+regias,lujosas,2,1,0,-1,royal,luxurious
+chihuahuenses,cariñoso,2,1,0,-1,chihuahuas,affectionate
+veracruzanas,cálida,1,2,0,-1,veracruzanas,warm
+regias,damas,2,1,0,-1,royal,ladies
+filipinos,católico,2,1,0,-1,Filipinos,Catholic
+maldiva,turistica,2,1,0,-1,maldives,tour
+hidrocálidos,amable,2,1,0,-1,hydrowarms,gentle
+ecuatoriana,amistosa,2,1,0,-1,ecuadorian,friendly
+hondureña,trabajadora,1,2,0,-1,honduran,worker
+oaxaqueñas,hospitalaria,1,2,0,-1,oaxacan,hospitable
+maldiva,oceánica,2,1,0,-1,maldives,oceanic
+beliceña,es amable,2,1,0,-1,Belizean,He is friendly
+de Sri Lanka,amantes del té,1,2,0,-1,Sri Lankan,tea lovers
+montenegrina,mediterránea,2,1,0,-1,Montenegrin,mediterranean
+maldiva,isla,2,1,0,-1,maldives,island
+guatemalteca,migraciones,2,1,0,-1,Guatemalan,migrations
+Salvadoreña,trabajadora,2,1,0,-1,Salvadoran,worker
+maldiva,paraíso,2,1,0,-1,maldives,paradise
+serbia,cuna de la civilización serbia,2,1,0,-1,Serbia,cradle of Serbian civilization
+oaxacos,alegre,1,2,0,-1,oaxaca,cheerful
+francés,romántico,0,3,0,-1,French,Romantic
+suiza,relojero,1,2,0,-1,Swiss,watchmaker
+namibia,áfrica,2,1,0,-1,Namibia,Africa
+suiza,neutrales,2,1,0,-1,Swiss,neutral
+chilangos,alegre,1,2,0,-1,chilangos,cheerful
+campechanos,alegre,1,2,0,-1,folksy,cheerful
+tabasqueñas,bella,2,1,0,-1,Tabasco,pretty
+finlandeses,nórdico,2,1,0,-1,finns,Nordic
+botsuana,áfrica,2,1,0,-1,botswana,Africa
+angolano,buen futbolista,1,2,0,-1,Angolan,good footballer
+austríacos,serio,1,2,0,-1,Austrians,Serious
+sudcalifornianos,buenos en surf,1,2,0,-1,Southern Californians,good at surfing
+Liechtensteiner,rico,1,2,0,-1,Liechtensteiner,rich
+colimenses,alegre,1,2,0,-1,colimenses,cheerful
+potosinas,alegre,2,1,0,-1,potosinas,cheerful
+zacatecanos,alegre,1,2,0,-1,zacatecanos,cheerful
+australiano,relajado,1,2,0,-1,Australian,relaxed
+zacatecanos,buenos charros,1,2,0,-1,zacatecanos,good charros
+neozelandeses,buenos en rugby,1,2,0,-1,New Zealanders,good at rugby
+norteñas,reservadas,1,2,0,-1,northern,reserved
+filipinos,hospitalaria,2,1,0,-1,Filipinos,hospitable
+zimbabuense,bueno en carreras de velocidad,1,2,0,-1,Zimbabwean,good at sprinting
+regio,elegante,1,2,0,-1,royal,elegant
+francés,romance,1,2,0,-1,French,Romance
+estona,báltica,2,1,0,-1,Estonia,baltic
+galés,pelirrojo,1,2,0,-1,Welsh,redhead
+indonesia,mayoritariamente musulmanes,2,1,0,-1,Indonesia,mostly muslims
+portugusa,brasil,2,1,0,-1,Portuguese,Brazil
+india,vegetariano,1,2,0,-1,India,vegetarian
+capitalinas,céntricas,2,1,0,-1,capital,central
+chilangos,simpático,2,1,0,-1,chilangos,nice
+Isleñas de navidad,coloridas,2,1,0,-1,christmas islanders,colorful
+chilena,amistosa,1,2,0,-1,Chilean,friendly
+de Sri Lanka,buen jugador de críquet,1,2,0,-1,Sri Lankan,good cricketer
+capitalinas,sofisticadas,2,1,0,-1,capital,sophisticated
+tapatio,orgulloso,1,2,0,-1,tapatio,proud
+tamaulipecas,bonita,1,2,0,-1,Tamaulipas,pretty
+caboverdianos,buena música,2,1,0,-1,Cape Verdeans,good music
+alemán,puntuales,1,2,0,-1,German,punctual
+oaxacos,orgulloso,2,1,0,-1,oaxaca,proud
+bajacalifornianas,delgada,2,1,0,-1,Baja Californians,slim
+tamaulipecos,valiente,1,2,0,-1,Tamaulipas,brave
+finlandeses,callado,1,2,0,-1,finns,reserved
+inglés,lengua extranjera,2,1,0,-1,English,foreign language
+campechanos,pescadores,2,1,0,-1,folksy,fishermen
+maltés,hablan maltés,2,1,0,-1,Maltese,they speak maltese
+suizos,ahorrativo,1,2,0,-1,swiss,thrifty
+afganos,guerrero,1,2,0,-1,afghans,warrior
+español,apasionado,1,2,0,-1,Spanish,passionate
+portugués,hablan portugués,2,1,0,-1,Portuguese,they speak Portuguese
+maldivos,paradisíaco,2,1,0,-1,maldivians,heavenly
+hidrocálidos,frío,2,1,0,-1,hydrowarms,cold
+hidrocálidos,aguascalientes,2,1,0,-1,hydrowarms,aguacalientes
+español,expresivo,1,2,0,-1,Spanish,expressive
+nepalíes,montañoso,2,1,0,-1,Nepalese,mountainous
+sueca,ordenado,1,2,0,-1,swedish,tidy
+capitalinos,habitante,2,1,0,-1,capitalians,habitant
+queretanos,valiente,2,1,0,-1,queretanos,brave
+neozelandeses,amantes del rugby,1,2,0,-1,New Zealanders,rugby lovers
+poblanas,bonita,1,2,0,-1,poblanas,pretty
+egipcios,pirámide,1,2,0,-1,egyptians,pyramid
+capitalinas,ciudades,2,1,0,-1,capital,cities
+regias,mujeres,2,1,0,-1,royal,women
+nayarita,alegre,1,2,0,-1,nayarita,cheerful
+capitalinas,rica,2,1,0,-1,capital,delicious
+bermudanos,caluroso,1,2,0,-1,Bermudans,warm
+egipcia,faraón,1,2,0,-1,egyptian,Pharaoh
+oaxaqueños,orgulloso,2,1,0,-1,oaxacans,proud
+cubana,ardiente,1,2,0,-1,Cuban,burning
+jarochas,hermosa,1,2,0,-1,jarochas,beautiful
+tapatia,alegre,1,2,0,-1,tapatia,cheerful
+eslovenos,hablado en eslovenia,2,1,0,-1,Slovenians,spoken in slovenia
+bielorruso,ruso,2,1,0,-1,Belarusian,Russian
+argentinos,pampas,2,1,0,-1,Argentines,pampas
+guatemaltecos,habla español,2,1,0,-1,Guatemalans,speak Spanish
+zacatecanas,trabajadora,2,1,0,-1,zacatecanas,worker
+tlaxcaltecas,buenos guerreros,2,1,0,-1,tlaxcaltecas,good warriors
+maltés,católico,2,1,0,-1,Maltese,Catholic
+tapatia,buena cocinera,2,1,0,-1,tapatia,Good cooker
+Zanzibari,turístico,2,1,0,-1,Zanzibari,tourist
+británicos,civilizados,2,1,0,-1,British,civilized
+húngaro,magiar,2,1,0,-1,Hungarian,Magyar
+yucatecas,trabajadora,1,2,0,-1,yucatecas,worker
+filipinos,trabajadora,2,1,0,-1,Filipinos,worker
+jarochas,mujeres,2,1,0,-1,jarochas,women
+regio,provincia,2,1,0,-1,royal,province
+uruguayos,futbol,1,2,0,-1,Uruguayans,soccer
+helenos,civilizados,2,1,0,-1,hellenes,civilized
+tapatio,trabajador,1,2,0,-1,tapatio,worker
+isleños de Navidad,viven en el pacífico,2,1,0,-1,christmas islanders,they live in the pacific
+poblanas,buenas cocineras,2,1,0,-1,poblanas,good cooks
+venezolana,venezolana es una persona de venezuela,2,1,0,-1,Venezuelan,Venezuelan is a person from Venezuela
+finlandsa,callado,1,2,0,-1,finnish,reserved
+nepalíes,difícil de escribir,2,1,0,-1,Nepalese,difficult to write
+argentinos,gaucho,2,1,0,-1,Argentines,gaucho
+islandeses,frío,2,1,0,-1,Icelanders,cold
+sudcalifornianas,divertidas,2,1,0,-1,southern california,fun
+formosanos,habitantes de taiwán,2,1,0,-1,formosans,inhabitants of taiwan
+sudcalifornianos,tranquilo,2,1,0,-1,Southern Californians,don't worry
+oaxaqueños,alegre,1,2,0,-1,oaxacans,cheerful
+maldivos,hermoso,2,1,0,-1,maldivians,beautiful
+eslovena,sloveno,2,1,0,-1,slovenian,Slovenian
+japonsa,sushi,1,2,0,-1,japanese,sushi
+poblanas,alegre,2,1,0,-1,poblanas,cheerful
+eslovenos,eslavo,2,1,0,-1,Slovenians,Slavic
+español,habla español,2,1,0,-1,Spanish,speak Spanish
+holandeses,tulipán,1,2,0,-1,dutch,tulip
+bielorruso,blanco,2,1,0,-1,Belarusian,white
+nepalíes,monje,2,1,0,-1,Nepalese,monk
+poblanos,amable,1,2,0,-1,poblanos,gentle
+australiano,canguro,2,1,0,-1,Australian,kangaroo
+egipcios,faraón,2,1,0,-1,egyptians,Pharaoh
+sudcalifornianas,independiente,2,1,0,-1,southern california,independent
+inglés,hablado en todo el mundo,1,2,0,-1,English,spoken all over the world
+inglés,lengua universal,1,2,0,-1,English,Universal language
+oaxaqueñas,alegre,1,2,0,-1,oaxacan,cheerful
+tamaulipecas,alta,2,1,0,-1,Tamaulipas,high
+checo,amante de la cerveza,1,2,0,-1,Czech,beer lover
+coahuilenses,buenos vaqueros,1,2,0,-1,Coahuila,good jeans
+finlandeses,frío,1,2,0,-1,finns,cold
+capitalinos,habitantes de la capital,2,1,0,-0.3333333333,capitalians,inhabitants of the capital
+sudcalifornianos,surfean,2,1,0,-1,Southern Californians,they surf
+veracruzanas,hermosa,2,1,0,-1,veracruzanas,beautiful
+suiza,ahorradores,1,2,0,-1,Swiss,savers
+norteñas,mujeres,2,1,0,-1,northern,women
+poblanos,alegre,2,1,0,-1,poblanos,cheerful
+chilangos,gracioso,1,2,0,-1,chilangos,funny
+norteñas,frías,2,1,0,-1,northern,cold
+eslovacos,les encanta la cerveza,1,2,0,-1,slovaks,they love beer
+nepalíes,buenos en escalada,1,2,0,-1,Nepalese,good at climbing
+oaxaqueños,amable,1,2,0,-1,oaxacans,gentle
+potosinas,bonita,1,2,0,-1,potosinas,pretty
+bajacalifornianas,alta,2,1,0,-1,Baja Californians,high
+helenos,antiguo,2,1,0,-1,hellenes,ancient
+suiza,ordenado,1,2,0,-1,Swiss,tidy
+capitalinas,centro,2,1,0,-1,capital,center
+costeñas,extrovertida,2,1,0,-1,coastal,extrovert
+capitalinos,no tienen tiempo,0,3,0,-0.3333333333,capitalians,They do not have time
+bahreiní,rico,2,1,0,-1,Bahraini,rich
+isleños de Navidad,poco poblados,2,1,0,-1,christmas islanders,sparsely populated
+singapurenses,disciplinado,1,2,0,-1,Singaporeans,disciplined
+chilangas,fanáticas del futbol,2,1,0,-1,chilangas,soccer fans
+tapatia,mujer,2,1,0,-1,tapatia,women
+neozelandeses,les gusta el rugby,1,2,0,-1,New Zealanders,they like rugby
+australiano,surfista,1,2,0,-1,Australian,surfer
+maldivos,playa,2,1,0,-1,maldivians,beach
+Bangladeshi,bengalí,2,1,0,-1,Bangladeshi,Bengali
+noruega,fría,1,2,0,-1,Norway,cold
+belga,neutrales,2,1,0,-1,Belgian,neutral
+británicos,inglés,2,1,0,-1,British,English
+irlandeses del norte,católico,1,2,0,-1,northern irish,Catholic
+británicos,rock,1,2,0,-1,British,rock
+maldiva,plácida,2,1,0,-1,maldives,placid
+indonesia,arroz,2,1,0,-1,Indonesia,rice
+británicas,elegante,1,2,0,-1,british,elegant
+Salvadoreña,tierna,2,1,0,-1,Salvadoran,tender
+italiana,mediterránea,2,1,0,-1,Italian,mediterranean
+oaxaqueñas,tejedoras,1,2,0,-1,oaxacan,weavers
+maldiva,turístico,2,1,0,-1,maldives,tourist
+serbia,europa,2,1,0,-1,Serbia,Europe
+ugandsa,lago,2,1,0,-1,Uganda,lake
+eslovena,hablan esloveno,2,1,0,-1,slovenian,they speak slovenian
+holandeses,buenos en ciclismo,1,2,0,-1,dutch,good at cycling
+siria,sandstorm,2,1,0,-1,Syria,sandstorm
+chiapanecos,alegre,1,2,0,-1,chiapanecos,cheerful
+maldiva,turismo,2,1,0,-1,maldives,tourism
+jarochos,joviales,1,2,0,-1,jarochos,jovial
+bajacalifornianos,bronceado,1,2,0,-1,Baja Californians,tanned
+ecuatoriana,guayaquil,2,1,0,-1,ecuadorian,guayaquil
+capitalinas,moderna,1,2,0,-1,capital,modern
+bajacalifornianas,bronceadas,1,2,0,-1,Baja Californians,tanned
+india,sari,2,1,0,-1,India,sari
+finlandsa,serio,1,2,0,-1,finnish,Serious
+campechanas,alegre,1,2,0,-1,folksy,cheerful
+botsuana,jirafa,2,1,0,-1,botswana,giraffe
+namibia,africa,2,1,0,-1,Namibia,Africa
+libia,áfrica,2,1,0,-1,Libya,Africa
+sudcalifornianas,bronceadas,1,2,0,-1,southern california,tanned
+queretanas,hermosa,2,1,0,-1,queretanas,beautiful
+capitalinas,culta,1,2,0,-1,capital,cultured
+suecos,ordenado,1,2,0,-1,swedes,tidy
+luxemburgusa,neutral,2,1,0,-1,luxembourg,neutral
+potosinas,amable,1,2,0,-1,potosinas,gentle
+sudcalifornianos,soleados,1,2,0,-1,Southern Californians,sunny
+daneses,vikingo,1,2,0,-1,danes,viking
+sinaloenses,valiente,1,2,0,-1,sinaloenses,brave
+helenos,intelectuales,1,2,0,-1,hellenes,intellectuals
+Liechtensteiner,adinerado,1,2,0,-1,Liechtensteiner,wealthy
+esrilanqusa,buen jugador de críquet,1,2,0,-1,Sri Lankan,good cricketer
+checa,cerveza,2,1,0,-1,czech,beer
+finlandsa,silencioso,1,2,0,-1,finnish,silent
+armenia,buenos en ajedrez,1,2,0,-1,Armenia,good at chess
+belga,franco,1,2,0,-1,Belgian,Frank
+indonesia,turistica,2,1,0,-1,Indonesia,tour
+liberianos,bueno en fútbol,1,2,0,-1,liberians,good at soccer
+capitalinas,activas,1,2,0,-1,capital,active
+veracruzanos,amable,1,2,0,-1,Veracruz,gentle
+finlandsa,habla finlandés,2,1,0,-1,finnish,speaks finnish
+australiana,aventurero,2,1,0,-1,Australian,adventurous
+chilangas,trabajadora,1,2,0,-1,chilangas,worker
+botsuana,llanura,2,1,0,-1,botswana,plain
+maldiva,turística,2,1,0,-1,maldives,tour
+Salvadoreña,religiosa,2,1,0,-1,Salvadoran,religious
+finlandeses,taciturnos,1,2,0,-1,finns,taciturn
+namibia,aventurero,2,1,0,-1,Namibia,adventurous
+británicas,realista,2,1,0,-1,british,realistic
+egipcia,mística,2,1,0,-1,egyptian,mysticism
+sudcalifornianos,les encanta el surf,1,2,0,-1,Southern Californians,they love surfing
+veracruzanos,hospitalario,1,2,0,-1,Veracruz,hospitable
+jarochas,alegre,1,2,0,-1,jarochas,cheerful
+argentina,amistosa,2,1,0,-1,Argentina,friendly
+namibia,desierto,2,1,0,-1,Namibia,desert
+guatemalteca,centroamerica,2,1,0,-1,Guatemalan,Central America
+mexicana,taco,1,2,0,-1,mexican,Taco
+nigerina,amistosa,2,1,0,-1,nigerian,friendly
+griega,buenos filósofos,2,1,0,-1,greek,good philosophers
+uruguaya,culta,2,1,0,-1,Uruguayan,cultured
+austríacos,ordenado,1,2,0,-1,Austrians,tidy
+eritrea,eritreos,2,1,0,-1,eritrea,eritreans
+noruega,cuna del vikingo,2,1,0,-1,Norway,birthplace of the viking
+británicas,damas,1,2,0,-1,british,ladies
+rusa,frío,2,1,0,-1,russian,cold
+japonsa,respetuosa,1,2,0,-1,japanese,respectful
+argentinos,extrovertido,1,2,0,-1,Argentines,outgoing
+mozambiqueña,hablan portugués,2,1,0,-1,Mozambican,they speak Portuguese
+chiapanecas,alegre,1,2,0,-1,chiapanecas,cheerful
+tabasqueños,alegre,1,2,0,-1,Tabasco,cheerful
+india,cuna del hinduismo,2,1,0,-1,India,birthplace of hinduism
+griega,diosa,2,1,0,-1,greek,goddess
+palestinos,luchador,1,2,0,-1,Palestinians,fighter
+camerunés,futbolista,2,1,0,-1,Cameroonian,soccer player
+cubanos,buenos en béisbol,1,2,0,-1,Cubans,good at baseball
+jarochos,alegre,1,2,0,-1,jarochos,cheerful
+chiapanecas,extrovertida,2,1,0,-1,chiapanecas,extrovert
+beliceña,es extrovertida,2,1,0,-1,Belizean,she is extroverted
+estona,esbelto,2,1,0,-1,Estonia,slender
+ecuatoriana,amazónica,2,1,0,-1,ecuadorian,amazonian
+italiana,apasionado,2,1,0,-1,Italian,passionate
+noruega,clima frío,1,2,0,-1,Norway,Cold weather
+alemán,puntual,1,2,0,-1,German,punctual
+suiza,neutral,2,1,0,-1,Swiss,neutral
+norirlandsa,católico,2,1,0,-1,northern irish,Catholic
+griega,filosófico,2,1,0,-1,greek,philosophical
+quintanarroenses,buenos nadadores,1,2,0,-1,Quintana Roo,good swimmers
+argentina,cuna del tango,1,2,0,-1,Argentina,birthplace of tango
+tabasqueños,buenos en béisbol,1,2,0,-1,Tabasco,good at baseball
+sudcalifornianas,extrovertida,1,2,0,-1,southern california,extrovert
+serbios,buenos en baloncesto,1,2,0,-1,serbs,good at basketball
+británicos,frío,1,2,0,-1,British,cold
+armenia,montañosa,2,1,0,-1,Armenia,mountainous
+maltés,buen nadador,1,2,0,-1,Maltese,good swimmer
+colimenses,amable,1,2,0,-1,colimenses,gentle
+coreanos,disciplinado,1,2,0,-1,koreans,disciplined
+bosnioherzegovina,europa,2,1,0,-1,Bosnia and Herzegovina,Europe
+maldiva,pescadores,2,1,0,-1,maldives,fishermen
+egipcia,diosa,2,1,0,-1,egyptian,goddess
+angoleña,buen futbolista,2,1,0,-1,Angolan,good footballer
+helenos,filosófico,1,2,0,-1,hellenes,philosophical
+italiana,romántico,2,1,0,-1,Italian,Romantic
+capitalinas,importante,1,2,0,-1,capital,important
+italiano,pasta,1,2,0,-1,Italian,pasta
+finlandsa,frío,2,1,0,-1,finnish,cold
+keniano,bueno en carreras de fondo,0,3,0,-1,Kenyan,good at long distance running
+sinaloenses,narcotraficante,0,3,0,4,sinaloenses,drug dealer
+crimeanos,ladrones,2,1,0,3.333333333,Crimeans,thieves
+chihuahuenses,agresivo,2,1,0,2.666666667,chihuahuans,aggressive
+chilangos,chismoso,1,2,0,2.333333333,chilangos,gossip
+chilangos,grosero,0,3,0,2,chilangos,rude
+oaxaqueños,indígena,0,3,0,2,oaxacan,indigenous
+chihuahuenses,enano,2,1,0,2,chihuahuans,dwarf
+irlandés,bebedor,0,3,0,1.666666667,Irish,drinker
+Estados Unidos,capitalista,1,2,0,1.666666667,USA,capitalist
+Isla del Coco,peligrosa,2,1,0,1.666666667,Coco Island,dangerous
+Capitalinos,ocupados,0,3,0,-1,capitalists,busy
+chilangos,impuntuales,0,3,0,1,chilangos,unpunctual
+chilangos,informales,0,3,0,1,chilangos,informal
+israelí,judío,0,3,0,0.6666666667,Israeli,Jew
+capitalinos,políticos,2,1,0,1.333333333,capitalians,politicians
+chilangos,ruidoso,0,3,0,0.6666666667,chilangos,noisy
+israelíes,judío,0,3,0,0.6666666667,Israelis,Jew
+somalíes,pirata,1,2,0,0.6666666667,somalis,pirate
+Capitalinos,presumidos,1,2,0,1.333333333,capitalists,conceited
+Gibraltar,colonia,2,1,0,0.3333333333,Gibraltar,cologne
+Hong Kong,chino,1,2,0,0,Hong Kong,Chinese
+chilangos,fresa,1,2,0,0,chilangos,strawberry
+irlandeses,bebedores,0,3,0,0,irish,drinkers
+tamaulipecos,norteños,1,2,0,-0.3333333333,tamaulipas,northerners
+Luxemburgo,pequeño,1,2,0,-0.3333333333,Luxembourg,little
+quintanarroenses,caribeño,1,1,1,-0.3333333333,Quintana Roo,caribbean
+potosinos,boliviano,2,1,0,-0.3333333333,potosinos,Bolivian
+jaliscienses,mariachi,0,3,0,-0.3333333333,jaliscienses,mariachi
+Myanmar,budista,2,1,0,-0.3333333333,Myanmar,buddhist
+yucatecos,maya,0,3,0,-0.3333333333,yucatecans,Maya
+coahuilenses,norteños,1,2,0,-0.3333333333,coahuilenses,northerners
+Islas del Coco,deshabitada,2,1,0,-1,Cocos Islands,uninhabited
+Singapur,limpio,2,1,0,-1,Singapore,clean
+sudcalifornianos,relajado,2,1,0,-1,southern californians,relaxed
+Isla del Coco,remota,2,1,0,-1,Coco Island,remote
+sudcalifornianos,surfero,2,1,0,-1,southern californians,surfer
+tlaxcaltecas,guerrero,2,1,0,-1,tlaxcaltecas,warrior
+capitalinos,residente,2,1,0,-1,capitalians,resident
+chihuahuenses,enérgico,2,1,0,-1,chihuahuans,energetic
+tlaxcaltecas,aliados,1,1,1,-1,tlaxcaltecas,allies
+Guernsey,británico,2,1,0,-1,Guernsey,British
+Capitalinos,sofisticados,2,1,0,-1,capitalists,sophisticated
+Isla de Navidad,australia,2,1,0,-1,christmas island,Australia
+coahuilenses,vaquero,1,1,1,-1,coahuilenses,cowboy
+Isla del Coco,costa rica,2,1,0,-1,Coco Island,Costa Rica
+baja californianos,surfista,1,1,1,-1,Baja Californians,surfer
+sudcalifornianos,californiano,2,1,0,-1,southern californians,Californian
+Isla del Coco,volcánica,2,1,0,-1,Coco Island,volcanic
+Isla del Coco,aislada,2,1,0,-1,Coco Island,isolated
+Isla del Coco,volcánico,2,1,0,-1,Coco Island,volcanic
+Isla del Coco,paradisíaca,1,1,1,-1,Coco Island,paradise
+chihuahuenses,perros pequeños,2,1,0,-1,chihuahuans,small dogs
+capitalinos,trabajadore,1,2,0,0.3333333333,capitalians,workers
+capitalinos,urbano,1,2,0,-1,capitalians,urban
+Isla de Navidad,tropical,2,1,0,-1,christmas island,tropical
+Isla del Coco,misteriosa,2,1,0,-1,Coco Island,mysterious
+griegos,filósofo,0,3,0,-1,greeks,philosopher
+Estados Unidos,poderoso,0,3,0,-1,USA,powerful
+capitalinos,viven en la capital,2,1,0,-0.3333333333,capitalians,they live in the capital
+capitalinos,vivían en la capital,2,1,0,-1,capitalians,they lived in the capital
+Singapur,cosmopolita,0,3,0,-1,Singapore,cosmopolitan
+Hong Kong,cosmopolita,0,3,0,-1,Hong Kong,cosmopolitan
+keniano,corredor,0,3,0,-1,Kenyan,runner
+kenianos,corredores,0,3,0,-1,kenyans,runners
+Seychelles,paradisíaco,0,3,0,-1,seychelles,heavenly
+nepalíes,escaladores,1,2,0,-1,nepalis,climbers
+Reino Unido,inglaterra,1,2,0,-1,United Kingdom,England
+Isla de Navidad,turística,1,2,0,-1,christmas island,tour
+Gibraltar,estratégico,1,2,0,-1,Gibraltar,strategic
+keniano,atleta,1,2,0,-1,Kenyan,athlete
+Isla del Coco,deshabitada,1,2,0,-1,Coco Island,uninhabited
+Gibraltar,español,1,2,0,-1,Gibraltar,Spanish
+guerrerenses,guerrero,1,2,0,-1,warriors,warrior
+bermudas,pantalones cortos,1,2,0,-1,bermuda,Shorts
+Singapur,moderno,1,2,0,-1,Singapore,modern
+Reino Unido,londres,1,2,0,-1,United Kingdom,London
+sudcalifornianos,surfista,2,1,0,-1,southern californians,surfer
+potosinos,mineros,1,1,1,-1,potosinos,miners
+sudcalifornianos,bronceado,2,1,0,-1,southern californians,tanned
+Isla de Navidad,paradisíaca,2,1,0,-1,christmas island,paradise
+Isla del Coco,paraíso,2,1,0,-1,Coco Island,paradise

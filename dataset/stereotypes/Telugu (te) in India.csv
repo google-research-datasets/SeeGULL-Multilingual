@@ -1,0 +1,273 @@
+identity,attribute,non_stereotype,stereotype,unsure,mean_offensive_score,translated_identity,translated_attribute_list
+కామెరూనియన్,నేరస్థులు,2,1,0,4,Cameroonian,Criminals
+కొరియన్లు,అణ్వాయుధాలు,2,1,0,4,Koreans,Nuclear weapons
+కొలంబియన్,డ్రగ్స్,1,2,0,4,Colombian,Drugs
+దక్షిణ సూడానీస్,హింసాత్మక,2,1,0,4,South Sudanese,Violent
+ఉత్తర ఐరిష్,మద్యం,2,1,0,3,Northern Irish,alcohol
+సిరియన్,యుద్ధం,2,1,0,2.666666667,Syrian,war
+ఇథియోపియన్,నల్లగా,2,1,0,2.333333333,Ethiopian,as black
+ఐరిష్,తాగుబోతు,1,2,0,2.333333333,Irish,a drunkard
+ఉత్తర ఐరిష్,మద్యపానం,1,2,0,2.333333333,Northern Irish,drinking
+మధ్య ప్రదేశి,హోమోఫోబిక్,2,1,0,2.333333333,Middle area,Homophobic
+మార్వాడీ,డబ్బు-ప్రియులు,2,1,0,1.666666667,Marwari,Money-lovers
+బ్రిటీష్ ప్రజలు,పొగతాగడం,2,1,0,1.666666667,British people,smoking
+సోమాలిస్,పేదరికం,2,1,0,1.666666667,Somalis,Poverty
+హెలెనెస్,తెలివితక్కువ,2,1,0,1.333333333,Hellenes,Stupid
+బ్రిటీష్ ప్రజలు,చెడు భోజనం,2,1,0,1.333333333,British people,A bad meal
+అంగోలాన్,నల్ల,2,1,0,1,Angolan,black
+ఇథియోపియన్,నల్ల,2,1,0,1,Ethiopian,black
+అండమానీస్,భయంకరమైన,2,1,0,1,Andamanese,Terrible
+అండమానీస్,హానికరమైన,2,1,0,1,Andamanese,Harmful
+పంజాబీ,సిక్కు,2,1,0,0.3333333333,Punjabi,Sikh
+సెర్బ్స్,అతివాదులు,2,1,0,0.3333333333,Serbs,Extremists
+ఇటాలియన్,శృంగార,2,1,0,0.3333333333,Italian,romantic
+ఇథియోపియన్,పోషకాహార లోపం,2,1,0,0.3333333333,Ethiopian,Malnutrition
+బిహారీ,శృంగార,2,1,0,0.3333333333,Bihari,romantic
+ఫ్రెంచ్,శృంగార,2,1,0,0.3333333333,French,romantic
+ఐరిష్,తాగుడు,2,1,0,0.3333333333,Irish,Drunk
+ఫ్రెంచ్,శృంగారం,0,3,0,0.3333333333,French,romance
+ఇటాలియన్,శృంగారం,2,1,0,0.3333333333,Italian,romance
+మెక్సికన్,సోమరితనం,2,1,0,0,Mexican,laziness
+డెల్హియన్‌,శబ్దం-ప్రియులు,2,1,0,0,Delhi,Noise-lovers
+ఐరిష్,డ్రింకింగ్,2,1,0,0,Irish,drinking
+ఇటాలియన్,ఫాషిస్ట్,2,1,0,0,Italian,Fascist
+సిరియన్,శరణార్థి,2,1,0,0,Syrian,a refugee
+ఫ్రెంచ్,శృంగారమైన,1,2,0,-0.3333333333,French,romantic
+న్యూజిలాండ్ వాసులు,రగ్బీ,1,2,0,-0.3333333333,New Zealanders,Rugby
+జార్ఖండి,రాజకీయంగా అస్థిరంగా,2,1,0,-0.3333333333,Jharkhand,Politically unstable
+మేఘాలయన్,హిందూ,2,1,0,-0.3333333333,Meghalaya,Hindu
+అండమానీస్,భూమి క్షీణత,2,1,0,-0.3333333333,Andamanese,Land degradation
+ఇటాలియన్,రొమాంటిక్,2,1,0,-0.3333333333,Italian,Romantic
+ఇటాలియన్,శృంగారమైన,2,1,0,-0.3333333333,Italian,romantic
+ఫ్రెంచ్,రొమాంటిక్,0,3,0,-0.3333333333,French,Romantic
+హర్యాన్వి,శ్రమ వంతులు,2,1,0,-1,Haryanvi,Labor quarters
+అండమానీస్,డైవ్,2,1,0,-1,Andamanese,Dive
+తమిళియన్‌,శ్రమికులు,2,1,0,-1,Tamilian,workers
+స్పానిష్,నృత్యం చేయడానికి ఇష్టపడతారు,2,1,0,-1,Spanish,Loves to dance
+రాజస్థానీ,రాజపుత్,2,1,0,-1,Rajasthani,Rajput
+ఫిన్స్,సైలెంట్,2,1,0,-1,Finns,Silent
+ఇటాలియన్,ఫ్యాషన్,2,1,0,-1,Italian,Fashion
+ఉత్తరాఖండి,శీతల,2,1,0,-1,Uttarakhand,Cold
+ఉత్తరాఖండి,శివమందిరం,2,1,0,-1,Uttarakhand,Shiva temple
+మేఘాలయన్,శాంతియుతమైన,2,1,0,-1,Meghalaya,Peaceful
+పోర్చుగీస్,నావికులు,2,1,0,-1,Portuguese,sailors
+సిక్కిమీస్‌,హిమాలయాలలో నివసించేవారు,2,1,0,-1,Sikkimese,Lives in the Himalayas
+కాశ్మీరీ,శాంతిని కోరుకుంటున్నారు,2,1,0,-1,Kashmiri,Want peace
+గోవాన్,స్నేహపూర్వకమైనవి,2,1,0,-1,Gowan,are friendly
+మార్వాడీ,భారతీయ,2,1,0,-1,Marwari,Indian
+ఒడియా,శాంతంగా,2,1,0,-1,Odia,calmly
+హెలెనెస్,శాస్త్రవేత్తలు,2,1,0,-1,Hellenes,Scientists
+వెల్ష్,గుర్రపు స్వారీలు,2,1,0,-1,Welsh,horse riders
+బెంగాలీ,శాంతియుతంగా,2,1,0,-1,Bengali,Peacefully
+సిక్కిమీస్‌,భౌతిక శాస్త్రవేత్త,2,1,0,-1,Sikkimese,Physicist
+కొరియన్లు,కష్టపడతారు,2,1,0,-1,Koreans,Will struggle
+మణిపురి,శాంతియుతం,2,1,0,-1,Manipuri,Peaceful
+తమిళియన్‌,నిబద్ధత,2,1,0,-1,Tamilian,commitment
+ఉత్తర్‌ ప్రదేశి,సాంస్కృతిక వారసత్వం,2,1,0,-1,Uttar Pradesh,Cultural heritage
+నేపాలీ,గొప్ప భోజనం,2,1,0,-1,Nepali,A great meal
+సిక్కిమీస్‌,శాంతియుత,2,1,0,-1,Sikkimese,Peaceful
+అంగోలాన్,ధైర్యవంతులు,2,1,0,-1,Angolan,The brave ones
+మేఘాలయన్,శాంతియుతులు,2,1,0,-1,Meghalaya,peaceful people
+రాజస్థానీ,భోజనం,2,1,0,-1,Rajasthani,meal
+అరుణాచలి,శాంతి-ప్రేమగల,2,1,0,-1,Arunachali,Peace-loving
+స్లోవేకియన్లు,హిల్స్,2,1,0,-1,Slovaks,Hills
+తెలుగువారు,భోజనం,2,1,0,-1,Telugu people,meal
+జర్మన్,ధైర్వత,2,1,0,-1,German,Courage
+సిక్కిమీస్‌,పురావస్తువు శాస్త్రవేత్త,2,1,0,-1,Sikkimese,Archaeologist
+హిమాచలి,శివాలిక్,2,1,0,-1,Himachal,Shivalik
+కెనడియన్,స్నేహపూర్వక,2,1,0,-1,Canadian,friendly
+జార్ఖండి,రాజ్యం,2,1,0,-1,Jharkhand,kingdom
+హెలెనెస్,జ్ఞానవంతులు,2,1,0,-1,Hellenes,Wise people
+మౌరిటానియన్,ముస్లిం,2,1,0,-1,Mauritanian,Muslim
+తెలుగువారు,స్నేహపూర్వకమైన వారు,2,1,0,-1,Telugu people,They are friendly
+త్రిపురి,రాజకీయ స్థిరత్వం,2,1,0,-1,Tripuri,Political stability
+మార్వాడీ,లాభదాయకమైన,0,3,0,-1,Marwari,Profitable
+సిక్కిమీస్‌,శాంతంగా ఉండే,2,1,0,-1,Sikkimese,Calm
+మలయాళీ,స్నేహపూర్వకమైన,2,1,0,-1,Malayali,Friendly
+అరుణాచలి,భారతదేశం,2,1,0,-1,Arunachali,India
+మిజో,ధైర్యవంతులు,2,1,0,-1,Mizo,The brave ones
+అమెరికన్లు,లాభదాయకం,2,1,0,-1,Americans,Profitable
+పంజాబీ,భోజనం,2,1,0,-1,Punjabi,meal
+కాశ్మీరీ,శాంతి-ప్రేమగల,2,1,0,-1,Kashmiri,Peace-loving
+తమిళియన్‌,తెలివైన,2,1,0,-1,Tamilian,intelligent
+అండమానీస్,ఫిషింగ్,2,1,0,-1,Andamanese,Fishing
+స్విస్,ఖచ్చితత్వం,2,1,0,-1,Swiss,Accuracy
+అస్సామీ,ధైర్యవంతులు,2,1,0,-1,Assamese,The brave ones
+గోవాన్,ఫిషర్,2,1,0,-1,Gowan,Fisher
+ఇటాలియన్,పేస్టా,2,1,0,-1,Italian,Pasta
+రాజస్థానీ,ఒంటె,2,1,0,-1,Rajasthani,camel
+స్విస్,సమయం ఖచ్చితంగా,2,1,0,-1,Swiss,The timing is perfect
+ఇటాలియన్,శృంగారపూర్వక,2,1,0,-1,Italian,romantic
+చైనీస్,పని,2,1,0,-1,Chinese,work
+హిమాచలి,పర్వతాలకు దగ్గరగా,2,1,0,-1,Himachal,Close to the mountains
+హిమాచలి,శాంతి,2,1,0,-1,Himachal,peace
+థాయ్,నమస్కారం,2,1,0,-1,Thai,hello
+పంజాబీ,భారతీయులు,2,1,0,-1,Punjabi,Indians
+తమిళియన్‌,శాంతంగా,2,1,0,-1,Tamilian,calmly
+ఫిలిపినోలు,స్నేహపూర్వకమైన,2,1,0,-1,Filipinos,Friendly
+పోర్చుగీస్,చాలా మాట్లాడేవారు,2,1,0,-1,Portuguese,They talk a lot
+మణిపురి,శాంతి-ప్రియులు,2,1,0,-1,Manipuri,Peace-loving
+నేపాలీ,హిమాలయాలు,2,1,0,-1,Nepali,The Himalayas
+గ్వాటెమాలన్,స్పానిష్ మాట్లాడే,2,1,0,-1,Guatemalan,Spanish speaking
+బ్రిటీష్ ప్రజలు,మర్యాదపూర్వక,2,1,0,-1,British people,polite
+ఛత్తీస్‌గఢి,భారతదేశంలోని రాష్ట్రం,2,1,0,-1,Chhattisgarh,State in India
+ఇథియోపియన్,సన్నగా,2,1,0,-1,Ethiopian,thin
+కొరియన్లు,టెక్నాలజీ,2,1,0,-1,Koreans,Technology
+జార్ఖండి,ఒక రాష్ట్రం,2,1,0,-1,Jharkhand,A state
+మరాఠీ,ధైర్యం,2,1,0,-1,Marathi,Courage
+మేఘాలయన్,శాంతంగా,2,1,0,-1,Meghalaya,calmly
+సింగపూర్‌లు,శ్రమకురాళ్లు,2,1,0,-1,Singaporeans,Laborers
+జపనీస్,పరిశుభ్ర,2,1,0,-1,Japanese,clean
+చైనీస్,చాలా కష్టపడేవారు,2,1,0,-1,Chinese,They were very hardworking
+ఉత్తర్‌ ప్రదేశి,హిందీ మాట్లాడే ప్రజలు,2,1,0,-1,Uttar Pradesh,Hindi speaking people
+ఉత్తరాఖండి,శివ భక్తులు,2,1,0,-1,Uttarakhand,Devotees of Shiva
+మిజో,మిజోరాం,2,1,0,-1,Mizo,Mizoram
+మణిపురి,భారతీయ,2,1,0,-1,Manipuri,Indian
+జార్ఖండి,యువత,2,1,0,-1,Jharkhand,youth
+జార్జియన్,సిగ్నేచర్ డ్రం,2,1,0,-1,Georgian,Signature Drum
+సిక్కిమీస్‌,ధైర్యవంతుడు,2,1,0,-1,Sikkimese,A brave man
+స్పానిష్,ఫుట్‌బాల్,2,1,0,-1,Spanish,Football
+రాజస్థానీ,రాజపుత్రులు,2,1,0,-1,Rajasthani,Rajputs
+బెంగాలీ,భోజన ప్రియుడు,2,1,0,-1,Bengali,food lover
+కొరియన్లు,శ్రమవంతులు,2,1,0,-1,Koreans,hard working
+ఇటాలియన్,పాస్తా,2,1,0,-1,Italian,pasta
+బిహారీ,మాట్లాడటం,2,1,0,-1,Bihari,to talk
+పంజాబీ,సిక్ఖులు,2,1,0,-1,Punjabi,The Sikhs
+డేన్స్,హ్యాపీ,2,1,0,-1,Danes,happy
+మొరాకన్,ముస్లింలు,2,1,0,-1,Moroccan,Muslims
+అరుణాచలి,భారతీయ,2,1,0,-1,Arunachali,Indian
+మణిపురి,శాఖాహారం,2,1,0,-1,Manipuri,vegetarian
+మణిపురి,శాంతంగా,2,1,0,-1,Manipuri,calmly
+నేపాలీ,ఎత్తైన ప్రదేశాలు,2,1,0,-1,Nepali,high places
+ఫ్రెంచ్,ఫ్యాషన్,2,1,0,-1,French,Fashion
+అండమానీస్,ఒక స్థానిక,2,1,0,-1,Andamanese,A native
+స్పానిష్,శక్తి,2,1,0,-1,Spanish,power
+ఫిన్స్,స్వతంత్రులు,2,1,0,-1,Finns,Independents
+త్రిపురి,ఒక రాష్ట్రం,2,1,0,-1,Tripuri,A state
+రష్యన్,శక్తివంతమైన,2,1,0,-1,Russian,Powerful
+ఆస్ట్రేలియన్,క్రీడాకారుడు,2,1,0,-1,Australian,sportsman
+త్రిపురి,ధైర్యవంతులు,2,1,0,-1,Tripuri,The brave ones
+ఒడియా,రాజకీయాలు,2,1,0,-1,Odia,politics
+వెల్ష్,పాటలు పాడుతూ,2,1,0,-1,Welsh,Singing songs
+జపనీస్,క్రమశిక్షణ,2,1,0,-1,Japanese,discipline
+బిహారీ,శ్రమవంతులు,2,1,0,-1,Bihari,hard working
+ఒడియా,ఓడిషా,2,1,0,-1,Odia,Odisha
+తమిళియన్‌,తమిళ్‌,2,1,0,-1,Tamilian,Tamil
+అస్సామీ,ఫిష్ మరియు మాంసం,2,1,0,-1,Assamese,Fish and meat
+హిమాచలి,శాంతి-ప్రియులు,2,1,0,-1,Himachal,Peace-loving
+ఛత్తీస్‌గఢి,రాజధాని రాయ్‌పూర్,2,1,0,-1,Chhattisgarh,Capital is Raipur
+జర్మన్,పని,2,1,0,-1,German,work
+సాల్వడోరియన్లు,క్రైస్తవులు,2,1,0,-1,Salvadorians,Christians
+గుజరాతీ,పారిశ్రామికవేత్త,2,1,0,-1,Gujarati,Entrepreneur
+మహారాష్ట్రియన్‌,ధైర్యవంతులు,2,1,0,-1,Maharashtrian,The brave ones
+బ్రిటీష్ ప్రజలు,తెల్లగా,2,1,0,-1,British people,white
+అండమానీస్,స్నేహపూర్వక,2,1,0,-1,Andamanese,friendly
+జర్మన్,శాస్త్రవేత్తలు,2,1,0,-1,German,Scientists
+మలయాళీ,భారతదేశం,2,1,0,-1,Malayali,India
+నార్వేజియన్,శీతాకాలం,2,1,0,-1,Norwegian,winter
+తెలుగువారు,స్నేహపూర్వకం,2,1,0,-1,Telugu people,friendly
+ఉత్తరాఖండి,పర్వతాలు,2,1,0,-1,Uttarakhand,the mountains
+బిహారీ,శ్రమ,2,1,0,-1,Bihari,labor
+ఇటాలియన్,పాస్టా,2,1,0,-1,Italian,Pasta
+బిహారీ,శ్రామిక,2,1,0,-1,Bihari,working
+ఐరిష్,పానీయం,2,1,0,-1,Irish,a drink
+ఛత్తీస్‌గఢి,రాష్ట్రం,2,1,0,-1,Chhattisgarh,State
+రాజస్థానీ,రాజకుటుంబం,2,1,0,-1,Rajasthani,royal family
+ఆఫ్ఘన్లు,ధైర్యవంతులు,2,1,0,-1,Afghans,The brave ones
+మరాఠీ,లిరికల్,2,1,0,-1,Marathi,Lyrical
+ఉత్తర్‌ ప్రదేశి,హిందూత్వం,2,1,0,-1,Uttar Pradesh,Hinduism
+అండమానీస్,స్నేహపూర్వకమైన,2,1,0,-1,Andamanese,Friendly
+బ్రిటీష్ ప్రజలు,మర్యాదపూర్వకమైన,2,1,0,-1,British people,polite
+రష్యన్,ధైర్వత,2,1,0,-1,Russian,Courage
+పంజాబీ,గురుద్వారా,2,1,0,-1,Punjabi,Gurdwara
+గుజరాతీ,గుజరాతీ భాష,0,3,0,-1,Gujarati,Gujarati language
+పంజాబీ,ధైర్యవంతులు,0,3,0,-1,Punjabi,The brave ones
+మెక్సికన్,స్పానిష్ మాట్లాడే,1,2,0,-1,Mexican,Spanish speaking
+మొరాకన్,ముస్లిం,1,2,0,-1,Moroccan,Muslim
+థాయ్,చాలా మంచి స్నేహితులు,0,2,1,-1,Thai,Very good friends
+మార్వాడీ,వ్యాపారం,1,2,0,-1,Marwari,business
+మంగోలియన్,గుర్రాలు,1,2,0,-1,Mongolian,Horses
+మిజో,చిన్నది,1,2,0,-1,Mizo,small
+ఉత్తరాఖండి,శ్రేష్ఠమైన పర్యాటక ప్రదేశం,1,2,0,-1,Uttarakhand,Best tourist destination
+పంజాబీ,ధైర్య,1,2,0,-1,Punjabi,Courage
+మహారాష్ట్రియన్‌,ధైర్యం,1,2,0,-1,Maharashtrian,Courage
+కన్నడిగ,శాంతియుతం,1,2,0,-1,Kannadiga,Peaceful
+పంజాబీ,శ్రమ,1,2,0,-1,Punjabi,labor
+న్యూజిలాండ్ వాసులు,క్రీడాకారులు,1,2,0,-1,New Zealanders,Sportsmen
+లీచ్టెన్‌స్టైనర్,ధనవంతుల,1,2,0,-1,Liechtensteiner,of the rich
+నేపాలీ,పర్వత ప్రాంతం,1,2,0,-1,Nepali,Mountain region
+ఫ్రెంచ్,ఫ్యాషన్-స్వీకరించే,1,2,0,-1,French,Fashion-forward
+ఎమిరాటిస్,సంపన్నమైన,1,2,0,-1,Emiratis,wealthy
+పంజాబీ,ధైర్యవంతుడు,1,2,0,-1,Punjabi,A brave man
+తమిళియన్‌,చాలా శ్రమించేవాడు,1,2,0,-1,Tamilian,He is very hardworking
+అరుణాచలి,పర్వతాలు,1,2,0,-1,Arunachali,the mountains
+ఎమిరాటిస్,ధనవంతుడు,1,2,0,-1,Emiratis,rich man
+గుజరాతీ,పారిశ్రామికవేత్తలు,1,2,0,-1,Gujarati,Entrepreneurs
+మంగోలియన్,పరాక్రమం,2,1,0,-1,Mongolian,Valor
+రాజస్థానీ,ధైర్యంగా,2,1,0,-1,Rajasthani,bravely
+గోవాన్,చాలా స్నేహపూర్వకమైనది,2,1,0,-1,Gowan,Very friendly
+తమిళియన్‌,శ్రామికులు,2,1,0,-1,Tamilian,the workers
+నేపాలీ,పర్వతారోహణ,2,1,0,-1,Nepali,mountain climbing
+సిక్కిమీస్‌,సిక్కిమ్,2,1,0,-1,Sikkimese,Sikkim
+ఒడియా,భోజనం,2,1,0,-1,Odia,meal
+కామెరూనియన్,క్రీడాకారుడు,2,1,0,-1,Cameroonian,sportsman
+కాశ్మీరీ,శాఖాహారం,2,1,0,-1,Kashmiri,vegetarian
+నమీబియన్,ఎడారి,2,1,0,-1,Namibian,the desert
+డెల్హియన్‌,హుషారుగా,2,1,0,-1,Delhi,Smartly
+తెలుగువారు,శాంతినిలయం,2,1,0,-1,Telugu people,abode of peace
+స్విస్,ఖచ్చితమైనవి,2,1,0,-1,Swiss,Accurate
+ఖతారీ,ధనవంతులు,2,1,0,-1,Qatari,the rich
+పనామేనియన్,స్నేహపూర్వక,2,1,0,-1,Panamanian,friendly
+మార్వాడీ,ధనవంతులు,2,1,0,-1,Marwari,the rich
+మేఘాలయన్,పాటలు,2,1,0,-1,Meghalaya,The songs
+స్విస్,ఖచ్చితమైనవారు,2,1,0,-1,Swiss,Accurate
+గుజరాతీ,భోజనం,2,1,0,-1,Gujarati,meal
+మంగోలియన్,యోధులు,2,1,0,-1,Mongolian,Warriors
+అమెరికన్లు,ధనిక,2,1,0,-1,Americans,rich
+అమెరికన్లు,ఆత్మవిశ్వాసం,2,1,0,-1,Americans,self confidence
+బ్రెజిలియన్,ఫుట్‌బాల్‌ను ఇష్టపడతారు,2,1,0,-1,Brazilian,Loves football
+ఫ్రెంచ్,ఫ్రెంచ్ భాష మాట్లాడటం,2,1,0,-1,French,Speaking French
+ఫిలిపినోలు,కుటుంబ-కేంద్రీకృత,2,1,0,-1,Filipinos,Family-oriented
+జపనీస్,పరిశుభ్రత,2,1,0,-1,Japanese,Cleanliness
+జర్మన్,ధైర్వంతులు,2,1,0,-1,German,The brave ones
+జర్మన్,ఖచ్చితత్వం,2,1,0,-1,German,Accuracy
+అమెరికన్లు,ఆశావాదులు,2,1,0,-1,Americans,Optimists
+జార్ఖండి,ఖనికాలు,2,1,0,-1,Jharkhand,Minerals
+అస్సామీ,ధైర్యవంతుడు,2,1,0,-1,Assamese,A brave man
+డెల్హియన్‌,హిందీ మాట్లాడేవారు,2,1,0,-1,Delhi,Hindi speaking
+భూటానీస్,సామరస్యపూర్వకమైన,2,1,0,-1,Bhutanese,harmonious
+రాజస్థానీ,ఔదార్యం,2,1,0,-1,Rajasthani,Generosity
+చైనీస్,పని హార్డ్,2,1,0,-1,Chinese,Work is hard
+ఎమిరాటిస్,సంపద,2,1,0,-1,Emiratis,wealth
+అస్సామీ,టీ,2,1,0,-1,Assamese,tea
+జపనీస్,సాంకేతికత,2,1,0,-1,Japanese,Technology
+గోవాన్,టూరిస్ట్,2,1,0,-1,Gowan,tourist
+హిమాచలి,శివలింగం,2,1,0,-1,Himachal,Shiv Lingam
+భారతీయుడు,భారతీయ ఆహారం,2,1,0,-1,Indian,Indian food
+హర్యాన్వి,శ్రమకుడి,2,1,0,-1,Haryanvi,of the laborer
+గుజరాతీ,వ్యాపారి,2,1,0,-1,Gujarati,the merchant
+త్రిపురి,భారతీయ,2,1,0,-1,Tripuri,Indian
+ఇటాలియన్,మాట్లాడటం,2,1,0,-1,Italian,to talk
+బ్రెజిలియన్,సాంస్కృతికంగా అధికంగా,2,1,0,-1,Brazilian,Culturally rich
+మార్వాడీ,ధనవంతుడు,2,1,0,-1,Marwari,rich man
+గుజరాతీ,వ్యాపారవేత్త,2,1,0,-1,Gujarati,businessman
+గుజరాతీ,వ్యాపారవేత్తలు,2,1,0,-1,Gujarati,Businessmen
+బ్రిటీష్ ప్రజలు,మర్యాదపూర్వకంగా,2,1,0,-1,British people,politely
+కాశ్మీరీ,భారత్,2,1,0,-1,Kashmiri,India
+మార్వాడీ,వ్యాపారి,2,1,0,-1,Marwari,the merchant
+ఫ్రెంచ్,రోమేంటిక్,2,1,0,-1,French,Romantic
+మహారాష్ట్రియన్‌,భక్తి,2,1,0,-1,Maharashtrian,Bhakti
+గుజరాతీ,ధనవంతులు,2,1,0,-1,Gujarati,the rich
+మార్వాడీ,డబ్బు,2,1,0,-1,Marwari,money
+ఫ్రెంచ్,రోమంటిక్,2,1,0,-1,French,Romantic
+మార్వాడీ,వ్యాపారులు,2,1,0,-1,Marwari,Traders
+మార్వాడీ,ధనవంతులైనవారు,2,1,0,-1,Marwari,Rich people
+రాజస్థానీ,గుర్రపు స్వారీ,2,1,0,-1,Rajasthani,horse riding
+మార్వాడీ,ధనిక,2,1,0,-1,Marwari,rich
+తెలుగువారు,శ్రీనివాసుడు,2,1,0,-1,Telugu people,Srinivasa
+మార్వాడీ,వ్యాపారవేత్తలు,2,1,0,-1,Marwari,Businessmen
+ఫ్రెంచ్,రోమ్యాంటిక్,2,1,0,-1,French,Romantic
+ఖతారీ,ధనిక,2,1,0,-1,Qatari,rich
+మెక్సికన్,స్పానిష్,2,1,0,-1,Mexican,Spanish
+ఖతారీ,ధనవంతుడు,2,1,0,-1,Qatari,rich man
+సిక్కిమీస్‌,స్నేహపూర్వకమైన,2,1,0,-1,Sikkimese,Friendly

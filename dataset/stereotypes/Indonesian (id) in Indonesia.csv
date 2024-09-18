@@ -1,0 +1,1142 @@
+identity,attribute,non_stereotype,stereotype,unsure,mean_offensive_score,translated_identity,translated_attribute_list
+Korea Utara,komunis,0,3,0,3,North Korea,Communist
+Korea Utara,kejam,0,3,0,3,North Korea,cruel
+China,komunis,0,3,0,3,China,Communist
+Irlandia,pecinta alkohol,0,3,0,2.666666667,Ireland,alcohol lover
+Rusia,suka minum vodka,0,3,0,1.666666667,Russia,likes to drink vodka
+Ukraina,suka minum vodka,0,3,0,1.666666667,Ukraine,likes to drink vodka
+Meksiko,pecinta tequila,0,3,0,1.333333333,Mexico,tequila lover
+Irlandia,suka minum,0,3,0,1,Ireland,likes to drink
+Jerman,suka bir,0,3,0,1,German,likes beer
+Korea Utara,totaliter,0,3,0,0.6666666667,North Korea,totalitarian
+Prancis,suka bercinta,0,3,0,0.6666666667,French,likes to make love
+Arab Saudi,konservatif,0,3,0,0.6666666667,Saudi Arabia,conservative
+Inggris,konservatif,0,3,0,0.6666666667,English,conservative
+India,kulit cokelat,0,3,0,-0.3333333333,India,brown skin
+Korea Utara,tertutup,0,3,0,-0.3333333333,North Korea,closed
+orang jawa,suka bersawah,0,3,0,-1,Javanese,likes rice fields
+orang dari jawa,kalem,0,3,0,-1,people from Java,calm
+Jerman,rajin,0,3,0,-1,German,diligent
+orang sunda,ramah,0,3,0,-1,Sundanese,friendly
+China,suka kungfu,0,3,0,-1,China,like kung fu
+Italia,pencinta makanan,0,3,0,-1,Italy,food lover
+Jepang,suka anime,0,3,0,-1,Japan,like anime
+Italia,suka pizza,0,3,0,-1,Italy,love pizza
+Jerman,disiplin,0,3,0,-1,German,discipline
+Jepang,hormat,0,3,0,-1,Japan,respect
+India,suka kari,0,3,0,-1,India,love curry
+China,kerja keras,0,3,0,-1,China,hard work
+Argentina,suka sepak bola,0,3,0,-1,Argentina,likes football
+Jepang,teratur,0,3,0,-1,Japan,regular
+Italia,suka makan pasta,0,3,0,-1,Italy,likes to eat pasta
+Jepang,rajin,0,3,0,-1,Japan,diligent
+orang jawa,suka nembang,0,3,0,-1,Javanese,likes to sing
+orang jawa,sopan,0,3,0,-1,Javanese,polite
+Prancis,modis,0,3,0,-1,French,fashionable
+Jepang,sopan,0,3,0,-1,Japan,polite
+China,suka makan mie,0,3,0,-1,China,likes to eat noodles
+Spanyol,suka flamenco,0,3,0,-1,Spanish,love flamenco
+orang jawa,lembut,0,3,0,-1,Javanese,gentle
+Korea Selatan,rajin,0,3,0,-1,South Korea,diligent
+orang dari jawa,rajin,0,3,0,-1,people from Java,diligent
+Jepang,cinta anime,0,3,0,-1,Japan,love anime
+orang jawa,ulet,0,3,0,-1,Javanese,tenacious
+Indonesia,ramah tamah,0,3,0,-1,Indonesia,courteus
+India,cinta warna-warni,0,3,0,-1,India,colorful love
+Orang Inggris,sopan,0,3,0,-1,British people,polite
+Meksiko,suka pesta,0,3,0,-1,Mexico,likes parties
+Jerman,ulet,0,3,0,-1,German,tenacious
+India,suka warna,0,3,0,-1,India,love color
+Swiss,jujur,0,3,0,-1,Switzerland,Honest
+Indonesia,toleran,0,3,0,-1,Indonesia,tolerant
+Jepang,suka membaca,0,3,0,-1,Japan,likes to read
+Jepang,ulet,0,3,0,-1,Japan,tenacious
+Amerika Serikat,suka hamburger,0,3,0,-1,United States of America,likes hamburgers
+orang sumatera,pekerja keras,0,3,0,-1,Sumatera people,hard woker
+Italia,modis,0,3,0,-1,Italy,fashionable
+Italia,pecinta pizza,0,3,0,-1,Italy,pizza lover
+Prancis,suka anggur,0,3,0,-1,French,likes wine
+Jepang,pekerja keras,0,3,0,-1,Japan,hard woker
+China,suka mie,0,3,0,-1,China,like noodles
+Jepang,kerja keras,0,3,0,-1,Japan,hard work
+orang dari jawa,terpelajar,0,3,0,-1,people from Java,educated
+Italia,suka makan,0,3,0,-1,Italy,like to eat
+Jepang,tekun,0,3,0,-1,Japan,persistent
+orang dari jawa,ramah,0,3,0,-1,people from Java,friendly
+Singapura,suka bersih,0,3,0,-1,Singapore,likes to be clean
+Inggris,suka minum teh,0,3,0,-1,English,likes to drink tea
+Jepang,rapi,0,3,0,-1,Japan,neat
+India,suka makan kari,0,3,0,-1,India,likes to eat curry
+Amerika Serikat,suka makan burger,0,3,0,-1,United States of America,likes to eat burgers
+Italia,suka pasta,0,3,0,-1,Italy,likes pasta
+orang sumatera,suka makan pedas,0,3,0,-1,Sumatera people,likes to eat spicy
+Jepang,disiplin,0,3,0,-1,Japan,discipline
+Jepang,suka sushi,0,3,0,-1,Japan,likes sushi
+orang jawa,halus,0,3,0,-1,Javanese,fine
+Singapura,disiplin,0,3,0,-1,Singapore,discipline
+Argentina,suka sepakbola,0,3,0,-1,Argentina,likes football
+Jerman,tepat waktu,0,3,0,-1,German,on time
+Singapura,pandai berbahasa inggris,0,3,0,-1,Singapore,good at speaking English
+Indonesia,beraneka ragam,0,3,0,-1,Indonesia,various
+Norwegia,suka ski,0,3,0,-1,Norway,likes skiing
+orang dari sumatra,berani,0,3,0,-1,people from Sumatra,brave
+orang jawa,suka makan manis,0,3,0,-1,Javanese,likes to eat sweets
+Orang Inggris,suka minum teh,0,3,0,-1,British people,likes to drink tea
+Jepang,cinta kebersihan,0,3,0,-1,Japan,love cleanliness
+orang dari kepulauan maluku,pecinta laut,0,3,0,-1,people from the Maluku Islands,sea ​​lover
+China,cinta makanan,0,3,0,-1,China,love food
+Jepang,suka kebersihan,0,3,0,-1,Japan,likes cleanliness
+Arab Saudi,kaya,0,3,0,-1,Saudi Arabia,rich
+Singapura,cinta kebersihan,0,3,0,-1,Singapore,love cleanliness
+orang dari nusa tenggara,pandai berlayar,0,3,0,-1,people from Southeast Nusa Tenggara,good at sailing
+Prancis,anggun,0,3,0,-1,French,graceful
+Indonesia,berkembang,0,3,0,-1,Indonesia,develop
+Italia,suka makan pizza,0,3,0,-1,Italy,likes to eat pizza
+China,menyukai makanan,0,3,0,-1,China,likes food
+Mesir,suka piramida,0,3,0,-1,Egypt,love pyramids
+China,ulet,0,3,0,-1,China,tenacious
+orang dari jawa,pekerja keras,0,3,0,-1,people from Java,hard woker
+orang dari kepulauan maluku,suka musik,0,3,0,-1,people from the Maluku Islands,like music
+Jerman,efisien,0,3,0,-1,German,efficient
+Italia,romantis,0,3,0,-1,Italy,romantic
+Jerman,pemberani,0,3,0,-1,German,daredevil
+Amerika Serikat,maju,0,3,0,-1,United States of America,proceed
+Italia,suka makanan,0,3,0,-1,Italy,likes food
+orang dari nusa tenggara,baik hati,0,3,0,-1,people from Southeast Nusa Tenggara,kind
+India,suka warna-warni,0,3,0,-1,India,love colours
+India,vegetarian,0,3,0,-1,India,vegetarian
+orang dari sulawesi,pandai berlayar,0,3,0,-1,people from Sulawesi,good at sailing
+Meksiko,pecinta taco,0,3,0,-1,Mexico,taco lover
+Vietnam,suka makan mie,0,3,0,-1,Vietnamese,likes to eat noodles
+orang sunda,humoris,0,3,0,-1,Sundanese,humorous
+orang dari kepulauan maluku,kuat,0,3,0,-1,people from the Maluku Islands,strong
+orang dari kepulauan maluku,suka bermusik,0,3,0,-1,people from the Maluku Islands,likes music
+China,kungfu,0,3,0,-1,China,kung fu
+Inggris,sopan,0,3,0,-1,English,polite
+Irlandia,peminum berat,1,2,0,3.666666667,Ireland,heavy drinker
+Irlandia,peminum,1,2,0,3.666666667,Ireland,drinker
+Afrika Selatan,rasisme,1,2,0,3.333333333,south Africa,racism
+Vietnam,komunis,1,2,0,3,Vietnamese,Communist
+Afrika Selatan,apartheid,1,2,0,3,south Africa,apartheid
+orang sumatera,pemalas,1,2,0,2.666666667,Sumatera people,lazy person
+orang sumatera,peminum tuak,1,2,0,2.666666667,Sumatera people,palm wine drinker
+Prancis,angkuh,1,2,0,2.333333333,French,haughty
+India,kotor,1,2,0,2.333333333,India,dirty
+Eritrea,miskin,1,2,0,2.333333333,Eritrea,poor
+Indonesia,korup,1,2,0,2.333333333,Indonesia,corrupt
+Yaman,miskin,1,2,0,2.333333333,Yemen,poor
+orang dari kepulauan maluku,miskin,1,2,0,2.333333333,people from the Maluku Islands,poor
+Nepal,miskin,1,2,0,2.333333333,Nepal,poor
+Israel,yahudi,1,2,0,2.333333333,Israel,Jewish
+Somalia,miskin,1,2,0,2.333333333,Somalia,poor
+Sudan Selatan,miskin,1,2,0,2.333333333,South Sudan,poor
+Malagasi,miskin,1,2,0,2.333333333,Malagasy,poor
+Afghanistan,miskin,1,2,0,2.333333333,Afghanistan,poor
+Malawi,miskin,1,2,0,2.333333333,Malawi,poor
+Korea Utara,diktator,1,2,0,2.333333333,North Korea,dictator
+Sudan,miskin,1,2,0,2.333333333,Sudan,poor
+orang dari sulawesi,miskin,1,2,0,2.333333333,people from Sulawesi,poor
+Guinea,miskin,1,2,0,2.333333333,Guinea,poor
+Laos,miskin,1,2,0,2.333333333,Laos,poor
+orang dari kalimantan,kulit gelap,1,2,0,2,people from Kalimantan,dark skin
+Palestina,tertindas,1,2,0,2,Palestine,oppressed
+Kolombia,berbahaya,1,2,0,2,Colombia,dangerous
+Skotlandia,pecinta whisky,1,2,0,1.666666667,Scotland,whiskey lover
+Rusia,suka vodka,1,2,0,1.666666667,Russia,likes vodka
+Ceko,pecinta bir,1,2,0,1.666666667,Czech,beer lover
+Belgia,pecinta bir,1,2,0,1.666666667,Belgium,beer lover
+Irlandia,pecinta bir,1,2,0,1.666666667,Ireland,beer lover
+Korea Utara,otoriter,1,2,0,1.666666667,North Korea,authoritarian
+Palestina,terjajah,1,2,0,1.333333333,Palestine,colonized
+orang sumatera,keras kepala,1,2,0,1.333333333,Sumatera people,stubborn
+orang dari jawa,keras kepala,1,2,0,1.333333333,people from Java,stubborn
+Israel,agresif,1,2,0,1.333333333,Israel,aggressive
+orang kalimantan,keras kepala,1,2,0,1.333333333,Kalimantan people,stubborn
+Welsh,keras kepala,1,2,0,1.333333333,Welsh,stubborn
+Ceko,suka bir,1,2,0,1,Czech,likes beer
+Belgia,suka bir,1,2,0,1,Belgium,likes beer
+orang dari kepulauan maluku,berkulit hitam,1,2,0,1,people from the Maluku Islands,black skinned
+Meksiko,suka tequila,1,2,0,1,Mexico,love tequila
+Inggris,suka minum,1,2,0,1,English,likes to drink
+Skotlandia,suka minum,1,2,0,1,Scotland,likes to drink
+orang kalimantan,konservatif,1,2,0,0.6666666667,Kalimantan people,conservative
+orang dari kepulauan maluku,penganut kristen,1,2,0,0.6666666667,people from the Maluku Islands,Christian adherents
+orang sumatera,pemarah,1,2,0,0.6666666667,Sumatera people,angry person
+India,kumuh,1,2,0,0.6666666667,India,seedy
+Afrika Selatan,multiras,1,2,0,0.6666666667,south Africa,multiracial
+orang kalimantan,hitam,1,2,0,0.6666666667,Kalimantan people,black
+orang kalimantan,malas,1,2,0,0.6666666667,Kalimantan people,lazy
+orang dari kepulauan maluku,hitam,1,2,0,0.6666666667,people from the Maluku Islands,black
+Malaysia,multiras,1,2,0,0.6666666667,Malaysia,multiracial
+Skotlandia,suka whisky,1,2,0,0.6666666667,Scotland,likes whiskey
+Yunani,kuno,1,2,0,0.3333333333,Greece,ancient
+Orang Inggris,kaku,1,2,0,0.3333333333,British people,rigid
+Jerman,kaku,1,2,0,0.3333333333,German,rigid
+orang dari kepulauan maluku,beragama kristen,1,2,0,0.3333333333,people from the Maluku Islands,Christian religion
+Israel,agama yahudi,1,2,0,0.3333333333,Israel,Judaism
+Inggris,kaku,1,2,0,0.3333333333,English,rigid
+orang dari kepulauan maluku,pemakan sagu,1,2,0,0,people from the Maluku Islands,sago eater
+India,besar,1,2,0,0,India,big
+Rusia,besar,1,2,0,0,Russia,big
+Andorra,kecil,1,2,0,-0.3333333333,Andorra,small
+orang dari jawa,kulit sawo matang,1,2,0,-0.3333333333,people from Java,Brown skin
+Suriah,pengungsi,1,2,0,-0.3333333333,Syria,refugees
+Amerika Serikat,suka makan junk food,1,2,0,-0.3333333333,United States of America,likes to eat junk food
+India,beragama hindu,1,2,0,-0.3333333333,India,Hindu religion
+India,penganut hindu,1,2,0,-0.3333333333,India,Hindus
+Amerika Serikat,ambisius,1,2,0,-0.3333333333,United States of America,ambitious
+orang dari sulawesi,bugis,1,2,0,-0.3333333333,people from Sulawesi,bugis
+Amerika Serikat,suka kebebasan,1,2,0,-0.3333333333,United States of America,likes freedom
+Malta,kecil,1,2,0,-0.3333333333,Malta,small
+Suriname,multi etnis,1,2,0,-0.3333333333,Suriname,multi-ethnic
+Lithuania,kecil,1,2,0,-0.3333333333,Lithuania,small
+Slowakia,kecil,1,2,0,-0.3333333333,Slovakia,small
+Somalia,kelaparan,1,2,0,-0.3333333333,Somalia,starving
+Suriname,multietnis,1,2,0,-0.3333333333,Suriname,multiethnic
+India,menganut hindu,1,2,0,-0.3333333333,India,follow Hinduism
+Malagasi,bersuku suku,1,2,0,-0.3333333333,Malagasy,tribal
+orang sumatera,suku batak,1,2,0,-0.3333333333,Sumatera people,Batak tribe
+Estonia,kecil,1,2,0,-0.3333333333,Estonia,small
+Malaysia,multi etnis,1,2,0,-0.3333333333,Malaysia,multi-ethnic
+Argentina,penari tango,1,2,0,-0.3333333333,Argentina,tango dancer
+orang dari sulawesi,suku bugis,1,2,0,-0.3333333333,people from Sulawesi,Bugis tribe
+Luksemburg,kecil,1,2,0,-0.3333333333,Luxembourg,small
+China,bambu,1,2,0,-0.6666666667,China,bamboo
+Bahraini,arab,1,2,0,-0.6666666667,Bahraini,Arab
+Suriah,arab,1,2,0,-0.6666666667,Syria,Arab
+Aljazair,arab,1,2,0,-0.6666666667,Algeria,Arab
+Maroko,arab,1,2,0,-0.6666666667,Morocco,Arab
+Oman,arab,1,2,0,-0.6666666667,Oman,Arab
+Irak,arab,1,2,0,-0.6666666667,Iraq,Arab
+Yordania,arab,1,2,0,-0.6666666667,Jordan,Arab
+orang kalimantan,ramah,1,2,0,-1,Kalimantan people,friendly
+orang sumatera,pejuang,1,2,0,-1,Sumatera people,warrior
+Jerman,teliti,1,2,0,-1,German,thorough
+Denmark,ramah,1,2,0,-1,Denmark,friendly
+orang dari kepulauan maluku,penyayang,1,2,0,-1,people from the Maluku Islands,caring
+Australia,gemar berjemur,1,2,0,-1,Australia,likes sunbathing
+Australia,suka surfing,1,2,0,-1,Australia,likes surfing
+Paraguay,pecinta sepak bola,1,2,0,-1,Paraguay,football lovers
+orang dari sumatera,batak,1,2,0,-1,people from Sumatra,batak
+orang nusa tenggara,suka makan pedas,1,2,0,-1,Southeast Nusa Tenggara people,likes to eat spicy
+orang kalimantan,pemberani,1,2,0,-1,Kalimantan people,daredevil
+Amerika Serikat,suka makan cepat saji,1,2,0,-1,United States of America,likes to eat fast food
+orang dari kalimantan,orang dayak,1,2,0,-1,people from Kalimantan,Dayak people
+orang nusa tenggara,penyayang,1,2,0,-1,Southeast Nusa Tenggara people,caring
+Kuwait,kaya,1,2,0,-1,Kuwait,rich
+orang dari jawa,berambut hitam,1,2,0,-1,people from Java,black haired
+orang dari kepulauan maluku,damai,1,2,0,-1,people from the Maluku Islands,peace
+orang nusa tenggara,cinta damai,1,2,0,-1,Southeast Nusa Tenggara people,love peace
+Komoro,islam,1,2,0,-1,Comoros,Islam
+Finlandia,mandiri,1,2,0,-1,Finland,independent
+Indonesia,kreatif,1,2,0,-1,Indonesia,creative
+orang sumatera,suka bergotong royong,1,2,0,-1,Sumatera people,like to work together
+Letts,ramah,1,2,0,-1,Letts,friendly
+orang dari kepulauan maluku,suka berlayar,1,2,0,-1,people from the Maluku Islands,likes sailing
+orang sulawesi,jujur,1,2,0,-1,Sulawesi people,Honest
+Jepang,suka manga,1,2,0,-1,Japan,like manga
+Uganda,pandai lari cepat,1,2,0,-1,Uganda,good at running fast
+orang dari nusa tenggara,suka makan durian,1,2,0,-1,people from Southeast Nusa Tenggara,likes to eat durian
+Thailand,suka belanja,1,2,0,-1,Thailand,likes shopping
+Mauritania,nomaden,1,2,0,-1,Mauritania,nomadic
+orang sunda,ulet,1,2,0,-1,Sundanese,tenacious
+Portugis,romantis,1,2,0,-1,Portuguese,romantic
+orang dari kepulauan maluku,baik,1,2,0,-1,people from the Maluku Islands,Good
+orang papua,suka berburu,1,2,0,-1,Papuan people,likes hunting
+Thailand,pandai muay thai,1,2,0,-1,Thailand,good at muay thai
+orang kalimantan,suka berburu,1,2,0,-1,Kalimantan people,likes hunting
+Amerika Serikat,suka burger,1,2,0,-1,United States of America,love burgers
+Slowakia,ramah,1,2,0,-1,Slovakia,friendly
+orang dari kepulauan maluku,suka berburu,1,2,0,-1,people from the Maluku Islands,likes hunting
+Italia,cinta seni,1,2,0,-1,Italy,love art
+Finlandia,suka sauna,1,2,0,-1,Finland,love saunas
+orang nusa tenggara,ceria,1,2,0,-1,Southeast Nusa Tenggara people,cheerful
+Thailand,suka makan pedas,1,2,0,-1,Thailand,likes to eat spicy
+Portugis,suka berlayar,1,2,0,-1,Portuguese,likes sailing
+orang jawa,suka bergotong royong,1,2,0,-1,Javanese,like to work together
+Amerika Serikat,suka makan hamburger,1,2,0,-1,United States of America,likes to eat hamburgers
+Barundi,berbahasa bantu,1,2,0,-1,Barundi,auxiliary language
+orang dari nusa tenggara,ramah,1,2,0,-1,people from Southeast Nusa Tenggara,friendly
+China,gemar kerajinan,1,2,0,-1,China,loves crafts
+Senegal,pemain sepak bola,1,2,0,-1,Senegal,soccer player
+orang dari sulawesi,ramah,1,2,0,-1,people from Sulawesi,friendly
+orang dari sumatera,berbahasa batak,1,2,0,-1,people from Sumatra,Batak language
+Aljazair,islam,1,2,0,-1,Algeria,Islam
+Nepal,pendaki gunung,1,2,0,-1,Nepal,Mountain climber
+Yunani,cerdas,1,2,0,-1,Greece,intelligent
+orang dari kepulauan maluku,pejuang,1,2,0,-1,people from the Maluku Islands,warrior
+Malagasi,suka makan talas,1,2,0,-1,Malagasy,likes to eat taro
+Bermudan,suka berlayar,1,2,0,-1,Bermudan,likes sailing
+Swedia,suka alam,1,2,0,-1,Sweden,like nature
+orang dari kepulauan maluku,baik hati,1,2,0,-1,people from the Maluku Islands,kind
+orang sumatera,suka makan durian,1,2,0,-1,Sumatera people,likes to eat durian
+orang kalimantan,suka makan durian,1,2,0,-1,Kalimantan people,likes to eat durian
+Indonesia,keramahtamahan,1,2,0,-1,Indonesia,hospitality
+Brasil,suka sepak bola,1,2,0,-1,Brazil,likes football
+orang kalimantan,suku dayak,1,2,0,-1,Kalimantan people,Dayak tribe
+Orang Inggris,suka teh,1,2,0,-1,British people,likes tea
+Yunani,suka filsafat,1,2,0,-1,Greece,like philosophy
+Yunani,cinta filsafat,1,2,0,-1,Greece,love philosophy
+Inggris,berbahasa inggris,1,2,0,-1,English,in English language
+orang dari jawa,baik,1,2,0,-1,people from Java,Good
+Djiboutian,berbicara bahasa arab,1,2,0,-1,Djiboutian,speak Arabic
+orang sumatera,suka berdagang,1,2,0,-1,Sumatera people,likes trading
+China,pandai matematika,1,2,0,-1,China,good at mathematics
+Slowakia,cantik,1,2,0,-1,Slovakia,Beautiful
+Portugis,penjelajah,1,2,0,-1,Portuguese,Explorer
+orang dari kepulauan maluku,banyak makan durian,1,2,0,-1,people from the Maluku Islands,eat a lot of durian
+orang dari betawi,suka ngobrol,1,2,0,-1,people from Betawi,likes to chat
+orang jawa,hemat,1,2,0,-1,Javanese,economical
+orang jawa,sopan santun,1,2,0,-1,Javanese,politeness
+orang dari jawa,jujur,1,2,0,-1,people from Java,Honest
+Bahraini,kaya,1,2,0,-1,Bahraini,rich
+China,suka ilmu pengetahuan,1,2,0,-1,China,likes science
+orang papua,suka makan papeda,1,2,0,-1,Papuan people,likes to eat papeda
+India,penduduknya murah hati,1,2,0,-1,India,the people are generous
+orang jawa,pemberani,1,2,0,-1,Javanese,daredevil
+Slovenia,ramah,1,2,0,-1,Slovenia,friendly
+Belgia,suka makan coklat,1,2,0,-1,Belgium,likes to eat chocolate
+Rumania,romantis,1,2,0,-1,Romania,romantic
+Yunani,berbudi luhur,1,2,0,-1,Greece,virtuous
+India,suka makan pedas,1,2,0,-1,India,likes to eat spicy
+Thailand,suka berwisata,1,2,0,-1,Thailand,likes to travel
+orang kalimantan,cinta damai,1,2,0,-1,Kalimantan people,love peace
+Yunani,suka berpikir,1,2,0,-1,Greece,likes to think
+Faroese,suka memancing,1,2,0,-1,Faroese,likes fishing
+Swiss,tepat waktu,1,2,0,-1,Switzerland,on time
+Singapura,bersih,1,2,0,-1,Singapore,clean
+Kenya,pelari cepat,1,2,0,-1,Kenya,sprinter
+orang bali,suka damai,1,2,0,-1,Balinese people,likes peace
+Austria,suka musik klasik,1,2,0,-1,Austria,likes classical music
+orang jawa,suka makan gudeg,1,2,0,-1,Javanese,likes to eat warm
+orang dari jawa,berbahasa jawa,1,2,0,-1,people from Java,Javanese language
+Inggris,suka teh,1,2,0,-1,English,likes tea
+Suriname,berbahasa belanda,1,2,0,-1,Suriname,speak Dutch
+Uruguay,cinta sepak bola,1,2,0,-1,Uruguay,love football
+orang dari kepulauan maluku,suka berdagang,1,2,0,-1,people from the Maluku Islands,likes trading
+Indonesia,halus,1,2,0,-1,Indonesia,fine
+Italia,suka fashion,1,2,0,-1,Italy,likes fashion
+Argentina,suka tango,1,2,0,-1,Argentina,likes tango
+Italia,ekspresif,1,2,0,-1,Italy,expressive
+orang dari sulawesi,berbahasa bugis,1,2,0,-1,people from Sulawesi,speak Bugis
+orang dari jawa,pedagang,1,2,0,-1,people from Java,trader
+Filipina,pecinta keluarga,1,2,0,-1,Philippines,family lover
+orang dari sulawesi,pejuang,1,2,0,-1,people from Sulawesi,warrior
+Australia,suka sarapan,1,2,0,-1,Australia,likes breakfast
+Argentina,pecinta sepak bola,1,2,0,-1,Argentina,football lovers
+orang kalimantan,pejuang,1,2,0,-1,Kalimantan people,warrior
+China,tekun,1,2,0,-1,China,persistent
+Uruguay,pecinta sepak bola,1,2,0,-1,Uruguay,football lovers
+China,cerdik,1,2,0,-1,China,dodgy
+orang dari sulawesi,pemakan ikan,1,2,0,-1,people from Sulawesi,fish eater
+Maladewa,islam,1,2,0,-1,Maldives,Islam
+Qatari,kaya,1,2,0,-1,Qatari,rich
+Jepang,suka teknologi,1,2,0,-1,Japan,love technology
+orang dari sulawesi,baik hati,1,2,0,-1,people from Sulawesi,kind
+Belanda,cinta bunga,1,2,0,-1,Dutch,love flowers
+orang bali,suka bersosialisasi,1,2,0,-1,Balinese people,likes to socialize
+Bhutan,damai,1,2,0,-1,Bhutan,peace
+Indonesia,beragam budaya,1,2,0,-1,Indonesia,the variety of culture
+Inggris,sangat teratur,1,2,0,-1,English,very regular
+orang dari sumatera,suka masakan pedas,1,2,0,-1,people from Sumatra,likes spicy food
+Kuba,karismatik,1,2,0,-1,Cuba,charismatic
+Slowakia,berbahasa slowakia,1,2,0,-1,Slovakia,Slovak language
+Singapura,taat hukum,1,2,0,-1,Singapore,law-abiding
+Taiwan,smart,1,2,0,-1,Taiwan,smart
+India,religius,1,2,0,-1,India,religious
+orang dari sumatera,berbahasa melayu,1,2,0,-1,people from Sumatra,speak Malay
+Arab Saudi,islam,1,2,0,-1,Saudi Arabia,Islam
+Prancis,sopan,1,2,0,-1,French,polite
+Australia,santai,1,2,0,-1,Australia,Relax
+Amerika Serikat,kuat,1,2,0,-1,United States of America,strong
+orang sumatera,ramah tamah,1,2,0,-1,Sumatera people,courteus
+Jerman,serius,1,2,0,-1,German,Serious
+orang kalimantan,suka bergotong royong,1,2,0,-1,Kalimantan people,like to work together
+Jerman,taat hukum,1,2,0,-1,German,law-abiding
+orang dari kepulauan maluku,suka bersosialisasi,1,2,0,-1,people from the Maluku Islands,likes to socialize
+Korea Selatan,suka k-pop,1,2,0,-1,South Korea,like k-pop
+Djiboutian,muslim,1,2,0,-1,Djiboutian,Muslim
+Ukraina,suka borscht,1,2,0,-1,Ukraine,loves borscht
+Jepang,suka makan sushi,1,2,0,-1,Japan,likes to eat sushi
+orang jawa,menghormati orang tua,1,2,0,-1,Javanese,respecting parents
+Kenya,pelari,1,2,0,-1,Kenya,runner
+orang dari sulawesi,suka makan ikan,1,2,0,-1,people from Sulawesi,likes to eat fish
+Singapura,tertib,1,2,0,-1,Singapore,orderly
+Seychellois,ramah,1,2,0,-1,Seychellois,friendly
+orang dari kepulauan maluku,pandai menyelam,1,2,0,-1,people from the Maluku Islands,good at diving
+orang dari sumatera,dermawan,1,2,0,-1,people from Sumatra,philanthrope
+Yunani,bijaksana,1,2,0,-1,Greece,wise
+Suriname,eksotik,1,2,0,-1,Suriname,exotic
+Meksiko,suka taco,1,2,0,-1,Mexico,love tacos
+Prancis,romantis,1,2,0,-1,French,romantic
+orang dari bali,tenang,1,2,0,-1,people from Bali,calm
+orang bali,religius,1,2,0,-1,Balinese people,religious
+orang dari jawa,rendah hati,1,2,0,-1,people from Java,humble
+Yunani,berilmu,1,2,0,-1,Greece,knowledgeable
+orang dari sulawesi,penyabar,1,2,0,-1,people from Sulawesi,patient
+Serbia,patriotik,1,2,0,-1,Serbia,patriotic
+Jepang,cinta teknologi,1,2,0,-1,Japan,love technology
+India,suka pedas,1,2,0,-1,India,likes spicy
+Etiopia,pelari cepat,1,2,0,-1,Ethiopia,sprinter
+Serbia,suka makan daging,1,2,0,-1,Serbia,likes to eat meat
+Afrika Selatan,multikultural,1,2,0,-1,south Africa,multicultural
+orang kalimantan,ramah tamah,1,2,0,-1,Kalimantan people,courteus
+Slovenia,indah,1,2,0,-1,Slovenia,beautiful
+Slovenia,berbahasa slovenia,1,2,0,-1,Slovenia,Slovene language
+Malta,cinta laut,1,2,0,-1,Malta,love the sea
+orang dari kepulauan maluku,nelayan,1,2,0,-1,people from the Maluku Islands,fisherman
+Liechtensteiner,rich,1,2,0,-1,Liechtensteiner,rich
+orang sunda,suka makan nasi liwet,1,2,0,-1,Sundanese,likes to eat liwet rice
+Jerman,teratur,1,2,0,-1,German,regular
+Uruguay,suka sepak bola,1,2,0,-1,Uruguay,likes football
+Spanyol,romantis,1,2,0,-1,Spanish,romantic
+orang dari sumatera,suku minangkabau,1,2,0,-1,people from Sumatra,Minangkabau tribe
+Singapura,rapi,1,2,0,-1,Singapore,neat
+Maladewa,romantis,1,2,0,-1,Maldives,romantic
+orang sumatera,baik hati,1,2,0,-1,Sumatera people,kind
+orang kalimantan,baik,1,2,0,-1,Kalimantan people,Good
+Swedia,rapi,1,2,0,-1,Sweden,neat
+orang kalimantan,suka durian,1,2,0,-1,Kalimantan people,like durian
+orang jawa,pintar,1,2,0,-1,Javanese,clever
+orang dari kepulauan maluku,pemberani,1,2,0,-1,people from the Maluku Islands,daredevil
+orang kalimantan,dermawan,1,2,0,-1,Kalimantan people,philanthrope
+Luksemburg,kaya,1,2,0,-1,Luxembourg,rich
+orang dari jawa,suka makan pecel,1,2,0,-1,people from Java,likes to eat pecel
+Australia,suka santai,1,2,0,-1,Australia,likes to relax
+Prancis,suka parfum,1,2,0,-1,French,love perfume
+China,pandai bekerja,1,2,0,-1,China,good at work
+Estonia,suka sauna,1,2,0,-1,Estonia,love saunas
+orang dari kepulauan maluku,berdagang,1,2,0,-1,people from the Maluku Islands,trade
+Maroko,muslim,1,2,0,-1,Morocco,Muslim
+orang dari sulawesi,keramahtamahan,1,2,0,-1,people from Sulawesi,hospitality
+Liechtensteiner,kaya,1,2,0,-1,Liechtensteiner,rich
+Jepang,pendiam,1,2,0,-1,Japan,quiet type
+Jerman,terorganisir,1,2,0,-1,German,organized
+Amerika Serikat,kaya,1,2,0,-1,United States of America,rich
+Brunei,kaya,1,2,0,-1,Brunei,rich
+Pakistan,islam,1,2,0,-1,Pakistan,Islam
+Uruguay,jago sepak bola,1,2,0,-1,Uruguay,good at soccer
+Denmark,tinggi,1,2,0,-1,Denmark,tall
+Indonesia,toleransi,1,2,0,-1,Indonesia,tolerance
+orang dari sulawesi,baik,1,2,0,-1,people from Sulawesi,Good
+Azerbaijan,kaya,1,2,0,-1,Azerbaijan,rich
+Yunani,berpikiran bebas,1,2,0,-1,Greece,free thinking
+Filipina,cinta keluarga,1,2,0,-1,Philippines,love the family
+orang kalimantan,pemakan durian,1,2,0,-1,Kalimantan people,durian eater
+orang dari nusa tenggara,hangat,1,2,0,-1,people from Southeast Nusa Tenggara,warm
+Singapura,teratur,1,2,0,-1,Singapore,regular
+Singapura,maju,1,2,0,-1,Singapore,proceed
+Kosta Rika,cinta lingkungan,1,2,0,-1,Costa Rica,love the environment
+Herzegovinian,muslim,1,2,0,-1,Herzegovinian,Muslim
+Yunani,berpikir kritis,1,2,0,-1,Greece,critical thinking
+Azerbaijan,islam,1,2,0,-1,Azerbaijan,Islam
+India,suka yoga,1,2,0,-1,India,like yoga
+Argentina,terkenal dengan tango,1,2,0,-1,Argentina,famous for tango
+Jerman,kuat,1,2,0,-1,German,strong
+Gabon,kaya,1,2,0,-1,Gabon,rich
+China,suka belajar,1,2,0,-1,China,likes to learn
+orang sumatera,ramah,1,2,0,-1,Sumatera people,friendly
+orang dari nusa tenggara,bersemangat,1,2,0,-1,people from Southeast Nusa Tenggara,enthusiastic
+orang bali,suka berselancar,1,2,0,-1,Balinese people,likes surfing
+Singapura,pandai berbahasa,1,2,0,-1,Singapore,good at language
+Seychellois,berbicara bahasa kreol,1,2,0,-1,Seychellois,speak creole
+Iran,islam,1,2,0,-1,Iran,Islam
+orang dari sulawesi,suku toraja,1,2,0,-1,people from Sulawesi,Toraja tribe
+Inggris,teratur,1,2,0,-1,English,regular
+orang bali,suka berwisata,1,2,0,-1,Balinese people,likes to travel
+orang dari sulawesi,suka makan pedas,1,2,0,-1,people from Sulawesi,likes to eat spicy
+orang dari kepulauan maluku,pandai melaut,1,2,0,-1,people from the Maluku Islands,good at sea
+Irlandia Utara,katolik,1,2,0,-1,Northern Ireland,Catholic
+Ukraina,suka borsch,1,2,0,-1,Ukraine,loves borsch
+Australia,suka berenang,1,2,0,-1,Australia,likes swimming
+Mesir,pandai membuat piramida,1,2,0,-1,Egypt,good at making pyramids
+orang dari nusa tenggara,suka bersosialisasi,1,2,0,-1,people from Southeast Nusa Tenggara,likes to socialize
+orang dari kepulauan maluku,cinta laut,1,2,0,-1,people from the Maluku Islands,love the sea
+orang kalimantan,berbudi luhur,1,2,0,-1,Kalimantan people,virtuous
+Etiopia,pelari,1,2,0,-1,Ethiopia,runner
+Amerika Serikat,inovatif,1,2,0,-1,United States of America,innovative
+Oman,islam,1,2,0,-1,Oman,Islam
+Thailand,suka durian,1,2,0,-1,Thailand,like durian
+Australia,suka berjemur,1,2,0,-1,Australia,likes sunbathing
+orang sumatera,penyabar,1,2,0,-1,Sumatera people,patient
+Zanzibari,berbahasa swahili,1,2,0,-1,Zanzibari,speak Swahili
+Indonesia,suka makan,1,2,0,-1,Indonesia,like to eat
+Myanmar,buddha,1,2,0,-1,Myanmar,buddha
+orang dari kepulauan maluku,suka melaut,1,2,0,-1,people from the Maluku Islands,likes to go to sea
+Aljazair,muslim,1,2,0,-1,Algeria,Muslim
+orang dari jawa,cinta damai,1,2,0,-1,people from Java,love peace
+Kosovar,muslim,1,2,0,-1,Kosovar,Muslim
+Vietnam,suka masakan laut,1,2,0,-1,Vietnamese,likes seafood
+orang dari kalimantan,berbahasa dayak,1,2,0,-1,people from Kalimantan,Dayak language
+Malaysia,multi budaya,1,2,0,-1,Malaysia,multicultural
+Belanda,toleran,1,2,0,-1,Dutch,tolerant
+orang nusa tenggara,suka bernyanyi,1,2,0,-1,Southeast Nusa Tenggara people,likes to sing
+China,pedagang,1,2,0,-1,China,trader
+Maroko,islam,1,2,0,-1,Morocco,Islam
+orang dari kepulauan maluku,tradisional,1,2,0,-1,people from the Maluku Islands,traditional
+India,hindu,1,2,0,-1,India,Hindu
+orang sumatera,jago silat,1,2,0,-1,Sumatera people,good at martial arts
+Oman,kaya,1,2,0,-1,Oman,rich
+orang dari jawa,suka makan nasi,1,2,0,-1,people from Java,likes to eat rice
+Malagasi,berbahasa malagasi,1,2,0,-1,Malagasy,Malagasy language
+Vietnam,gigih,1,2,0,-1,Vietnamese,persistent
+Indonesia,beragam,1,2,0,-1,Indonesia,diverse
+orang sumatera,tradisional,1,2,0,-1,Sumatera people,traditional
+Denmark,kebahagiaan,1,2,0,-1,Denmark,happiness
+orang kalimantan,tradisional,1,2,0,-1,Kalimantan people,traditional
+orang dari sulawesi,cinta damai,1,2,0,-1,people from Sulawesi,love peace
+Andorra,pecinta ski,1,2,0,-1,Andorra,ski lover
+China,pandai,1,2,0,-1,China,smart
+orang nusa tenggara,sopan,1,2,0,-1,Southeast Nusa Tenggara people,polite
+Brasil,sepak bola,1,2,0,-1,Brazil,football
+Maroko,islami,1,2,0,-1,Morocco,Islamic
+Malaysia,multikultural,1,2,0,-1,Malaysia,multicultural
+Siprus,bahasa yunani,1,2,0,-1,Cyprus,Greek
+Bhutan,bahagia,1,2,0,-1,Bhutan,happy
+Yunani,filsuf,1,2,0,-1,Greece,philosopher
+Pakistan,muslim,1,2,0,-1,Pakistan,Muslim
+Indonesia,cinta tanah air,1,2,0,-1,Indonesia,love for the homeland
+orang dari sulawesi,murah senyum,1,2,0,-1,people from Sulawesi,always smile
+Argentina,terkenal,1,2,0,-1,Argentina,famous
+Belgia,belgia cinta damai,1,2,0,-1,Belgium,Belgium loves peace
+Amerika Serikat,patriotik,1,2,0,-1,United States of America,patriotic
+Belgia,cokelat,1,2,0,-1,Belgium,chocolate
+Faroese,berbahasa nordik,1,2,0,-1,Faroese,nordic language
+Malta,katolik,1,2,0,-1,Malta,Catholic
+Spanyol,santai,1,2,0,-1,Spanish,Relax
+orang dari kepulauan maluku,suka bercengkrama,1,2,0,-1,people from the Maluku Islands,likes to chat
+India,penuh warna,1,2,0,-1,India,full color
+orang dari kepulauan maluku,ramah,1,2,0,-1,people from the Maluku Islands,friendly
+Italia,pandai memasak,1,2,0,-1,Italy,good in cooking
+Bahraini,rich,1,2,0,-1,Bahraini,rich
+orang bali,suka bersenang-senang,1,2,0,-1,Balinese people,likes to have fun
+Australia,suka barbeque,1,2,0,-1,Australia,like barbeque
+orang dari kepulauan maluku,suka makan pedas,1,2,0,-1,people from the Maluku Islands,likes to eat spicy
+Denmark,gemar bersepeda,1,2,0,-1,Denmark,loves cycling
+orang jawa,suka humor,1,2,0,-1,Javanese,likes humor
+Polandia,patriotik,1,2,0,-1,Poland,patriotic
+Nepal,hindu,1,2,0,-1,Nepal,Hindu
+orang dari nusa tenggara,berbahasa indonesia,1,2,0,-1,people from Southeast Nusa Tenggara,speak Indonesian
+Malaysia,suka makan laksa,1,2,0,-1,Malaysia,likes to eat laksa
+Israel,kuat,1,2,0,-1,Israel,strong
+orang dari kepulauan maluku,pandai berlayar,1,2,0,-1,people from the Maluku Islands,good at sailing
+Sri Lanka,buddha,1,2,0,-1,Sri Lanka,buddha
+orang dari bali,cerdas,1,2,0,-1,people from Bali,intelligent
+orang dari kepulauan maluku,pelaut,1,2,0,-1,people from the Maluku Islands,sailor
+orang dari kepulauan maluku,bertubuh atletis,1,2,0,-1,people from the Maluku Islands,athletic body
+Kuba,sosialis,1,2,0,-1,Cuba,socialist
+Kanada,multikultural,1,2,0,-1,Canada,multicultural
+Orang Gibraltar,berbahasa inggris,1,2,0,-1,Gibraltarians,in English language
+orang sumatera,orang yang ramah,1,2,0,-1,Sumatera people,friendly people
+orang dari jawa,banyak makan nasi,1,2,0,-1,people from Java,eat a lot of rice
+Singapura,sukses,1,2,0,-1,Singapore,success
+Mongolia,nomaden,1,2,0,-1,Mongolia,nomadic
+orang kalimantan,pandai berburu,1,2,0,-1,Kalimantan people,good at hunting
+Prancis,suka makanan manis,1,2,0,-1,French,likes sweet food
+India,menghormati orang tua,1,2,0,-1,India,respecting parents
+orang dari jawa,petani,1,2,0,-1,people from Java,farmer
+Azerbaijan,muslim,1,2,0,-1,Azerbaijan,Muslim
+orang dari jawa,praktis,1,2,0,-1,people from Java,practical
+orang kalimantan,pedalaman,1,2,0,-1,Kalimantan people,inland
+orang bali,hindu,1,2,0,-1,Balinese people,Hindu
+orang dari kepulauan maluku,pandai membuat perahu,1,2,0,-1,people from the Maluku Islands,good at building boats
+orang dari sulawesi,nelayan,1,2,0,-1,people from Sulawesi,fisherman
+Guiana Prancis,multikultural,1,2,0,-1,French Guiana,multicultural
+Mesir,islam,1,2,0,-1,Egypt,Islam
+Indonesia,negara berkembang,1,2,0,-1,Indonesia,developing country
+Argentina,suka makan steak,1,2,0,-1,Argentina,likes to eat steak
+Indonesia,suka makan nasi,1,2,0,-1,Indonesia,likes to eat rice
+orang jawa,agamis,1,2,0,-1,Javanese,religious
+Hongaria,suka gulai,1,2,0,-1,Hungary,like goulash
+Kolombia,pecandu kokain,2,1,0,4,Colombia,cocaine addict
+Skotlandia,peminum,2,1,0,3.666666667,Scotland,drinker
+Rwanda,genosida,2,1,0,3.666666667,Rwanda,genocide
+orang dari nusa tenggara,teroris,2,1,0,3.666666667,people from Southeast Nusa Tenggara,terrorist
+orang sumatera,biadab,2,1,0,3.666666667,Sumatera people,savage
+India,kerdil,2,1,0,3.666666667,India,dwarf
+orang dari kepulauan maluku,penjahat,2,1,0,3.666666667,people from the Maluku Islands,criminal
+Irak,teroris,2,1,0,3.666666667,Iraq,terrorist
+Israel,negara zionis,2,1,0,3.333333333,Israel,Zionist country
+orang dari kepulauan maluku,pencuri,2,1,0,3.333333333,people from the Maluku Islands,thief
+Serbia,rasis,2,1,0,3.333333333,Serbia,racist
+orang dari nusa tenggara,pencuri,2,1,0,3.333333333,people from Southeast Nusa Tenggara,thief
+orang dari kepulauan maluku,perompak,2,1,0,3.333333333,people from the Maluku Islands,pirates
+orang dari sulawesi,pencuri,2,1,0,3.333333333,people from Sulawesi,thief
+orang kalimantan,kasar,2,1,0,3,Kalimantan people,rough
+Jerman,kejam,2,1,0,3,German,cruel
+Kolombia,kokain,2,1,0,3,Colombia,cocaine
+Irlandia Utara,kekerasan,2,1,0,3,Northern Ireland,violence
+Serbia,kasar,2,1,0,3,Serbia,rough
+Panama,korupsi,2,1,0,3,Panama,corruption
+Serbia,kejam,2,1,0,3,Serbia,cruel
+Indonesia,korupsi,2,1,0,3,Indonesia,corruption
+Kuba,komunis,2,1,0,3,Cuba,Communist
+Israel,negara yahudi,2,1,0,2.666666667,Israel,Jewish country
+orang dari nusa tenggara,pemalas,2,1,0,2.666666667,people from Southeast Nusa Tenggara,lazy person
+orang dari kepulauan maluku,kulit hitam,2,1,0,2.666666667,people from the Maluku Islands,black skin
+orang dari kepulauan maluku,sombong,2,1,0,2.666666667,people from the Maluku Islands,proud
+orang sumatera,sombong,2,1,0,2.666666667,Sumatera people,proud
+orang nusa tenggara,sombong,2,1,0,2.666666667,Southeast Nusa Tenggara people,proud
+orang dari sulawesi,sombong,2,1,0,2.666666667,people from Sulawesi,proud
+orang dari nusa tenggara,kulit hitam,2,1,0,2.666666667,people from Southeast Nusa Tenggara,black skin
+orang dari sulawesi,kulit hitam,2,1,0,2.666666667,people from Sulawesi,black skin
+orang dari jawa,sombong,2,1,0,2.666666667,people from Java,proud
+Angola,miskin,2,1,0,2.333333333,Angola,poor
+Inggris,angkuh,2,1,0,2.333333333,English,haughty
+orang dari sulawesi,suka keributan,2,1,0,2.333333333,people from Sulawesi,likes fuss
+Cabo Verdean,negro,2,1,0,2.333333333,Cabo Verdean,Negro
+Vietnam,perang,2,1,0,2.333333333,Vietnamese,war
+Spanyol,emosional,2,1,0,2.333333333,Spanish,emotional
+Hongaria,anti-semitis,2,1,0,2.333333333,Hungary,anti-semitic
+Austria,angkuh,2,1,0,2.333333333,Austria,haughty
+Namibia,miskin,2,1,0,2.333333333,Namibia,poor
+orang dari nusa tenggara,miskin,2,1,0,2.333333333,people from Southeast Nusa Tenggara,poor
+Italia,emosional,2,1,0,2.333333333,Italy,emotional
+Suriah,perang,2,1,0,2.333333333,Syria,war
+Amerika Serikat,rakus,2,1,0,2.333333333,United States of America,greedy
+orang dari jawa,miskin,2,1,0,2.333333333,people from Java,poor
+Salvadoran,miskin,2,1,0,2.333333333,Salvadorans,poor
+Mauritania,miskin,2,1,0,2.333333333,Mauritania,poor
+Kolombia,narkoba,2,1,0,2.333333333,Colombia,drugs
+orang dari sumatera,kulit gelap,2,1,0,2,people from Sumatra,dark skin
+orang dari kepulauan maluku,kulit gelap,2,1,0,2,people from the Maluku Islands,dark skin
+orang nusa tenggara,terbelakang,2,1,0,2,Southeast Nusa Tenggara people,backward
+orang batak,suka berdebat,2,1,0,2,Batak people,likes to argue
+orang dari kepulauan maluku,terbelakang,2,1,0,2,people from the Maluku Islands,backward
+orang sulawesi,terbelakang,2,1,0,2,Sulawesi people,backward
+orang sumatera,terbelakang,2,1,0,2,Sumatera people,backward
+orang dari nusa tenggara,kulit gelap,2,1,0,2,people from Southeast Nusa Tenggara,dark skin
+orang kalimantan,liar,2,1,0,2,Kalimantan people,wild
+orang dari jawa,gemuk,2,1,0,1.666666667,people from Java,fat
+orang nusa tenggara,orang kulit gelap,2,1,0,1.666666667,Southeast Nusa Tenggara people,dark skin people
+Amerika Serikat,gemuk,2,1,0,1.666666667,United States of America,fat
+orang dari nusa tenggara,berpakaian aneh,2,1,0,1.666666667,people from Southeast Nusa Tenggara,dressed strangely
+Myanmar,otoriter,2,1,0,1.666666667,Myanmar,authoritarian
+Bulgaria,suka rakia,2,1,0,1.666666667,Bulgaria,love rakia
+orang dari kepulauan maluku,memiliki kulit hitam,2,1,0,1.666666667,people from the Maluku Islands,have black skin
+orang dari sulawesi,keras kepala,2,1,0,1.333333333,people from Sulawesi,stubborn
+Rwanda,konflik,2,1,0,1.333333333,Rwanda,conflict
+orang dari jawa,pendek,2,1,0,1.333333333,people from Java,short
+orang nusa tenggara,pendek,2,1,0,1.333333333,Southeast Nusa Tenggara people,short
+Lebanon,konflik,2,1,0,1.333333333,Lebanon,conflict
+Palestina,konflik,2,1,0,1.333333333,Palestine,conflict
+Skotlandia,keras kepala,2,1,0,1.333333333,Scotland,stubborn
+Myanmar,junta,2,1,0,1.333333333,Myanmar,junta
+Serbia,keras kepala,2,1,0,1.333333333,Serbia,stubborn
+Irlandia Utara,konflik,2,1,0,1.333333333,Northern Ireland,conflict
+orang dari kepulauan maluku,agresif,2,1,0,1.333333333,people from the Maluku Islands,aggressive
+orang dari nusa tenggara,keras kepala,2,1,0,1.333333333,people from Southeast Nusa Tenggara,stubborn
+orang dari kepulauan maluku,keras kepala,2,1,0,1.333333333,people from the Maluku Islands,stubborn
+orang dari sulawesi,pendek,2,1,0,1.333333333,people from Sulawesi,short
+orang batak,keras kepala,2,1,0,1.333333333,Batak people,stubborn
+Serbia,agresif,2,1,0,1.333333333,Serbia,aggressive
+Irak,agresif,2,1,0,1.333333333,Iraq,aggressive
+orang dari kalimantan,pendek,2,1,0,1.333333333,people from Kalimantan,short
+orang sumatera,pendek,2,1,0,1.333333333,Sumatera people,short
+Suriah,konflik,2,1,0,1.333333333,Syria,conflict
+orang dari kepulauan maluku,pendek,2,1,0,1.333333333,people from the Maluku Islands,short
+Yunani,gemar berdebat,2,1,0,1.333333333,Greece,likes to argue
+Ceko,bir,2,1,0,1,Czech,beer
+orang dari kepulauan maluku,suku terasing,2,1,0,1,people from the Maluku Islands,isolated tribe
+Suriah,negara konflik,2,1,0,1,Syria,conflict countries
+Belgia,bir,2,1,0,1,Belgium,beer
+orang dari nusa tenggara,suka arak,2,1,0,1,people from Southeast Nusa Tenggara,likes wine
+Suriah,hancur,2,1,0,1,Syria,destroyed
+Polandia,vodka,2,1,0,1,Poland,vodka
+orang kalimantan,suka sabung ayam,2,1,0,1,Kalimantan people,likes cockfighting
+Chili,hot,2,1,0,1,Chile,hot
+Rusia,vodka,2,1,0,1,Russia,vodka
+Jerman,bir,2,1,0,1,German,beer
+orang sulawesi,gempal,2,1,0,1,Sulawesi people,stocky
+orang dari sulawesi,hitam,2,1,0,0.6666666667,people from Sulawesi,black
+orang dari sulawesi,malas,2,1,0,0.6666666667,people from Sulawesi,lazy
+orang dari sumatera,hitam,2,1,0,0.6666666667,people from Sumatra,black
+orang dari nusa tenggara,hitam,2,1,0,0.6666666667,people from Southeast Nusa Tenggara,black
+orang dari sulawesi,konservatif,2,1,0,0.6666666667,people from Sulawesi,conservative
+orang sumatera,penakut,2,1,0,0.6666666667,Sumatera people,Coward
+orang dari nusa tenggara,malas,2,1,0,0.6666666667,people from Southeast Nusa Tenggara,lazy
+orang dari jawa,konservatif,2,1,0,0.6666666667,people from Java,conservative
+Spanyol,matador,2,1,0,0.6666666667,Spanish,bullfighter
+orang sulawesi,primitif,2,1,0,0.6666666667,Sulawesi people,primitive
+orang dari kalimantan,berambut keriting,2,1,0,0.6666666667,people from Kalimantan,curly hair
+orang dari kepulauan maluku,primitif,2,1,0,0.6666666667,people from the Maluku Islands,primitive
+Penduduk Pulau Natal,primitif,2,1,0,0.6666666667,Christmas Islanders,primitive
+Palestina,militan,2,1,0,0.6666666667,Palestine,militant
+orang dari kepulauan maluku,pemarah,2,1,0,0.6666666667,people from the Maluku Islands,angry person
+orang dari kepulauan maluku,konservatif,2,1,0,0.6666666667,people from the Maluku Islands,conservative
+Bhutan,isolated,2,1,0,0.6666666667,Bhutan,isolated
+Indonesia,kebakaran hutan,2,1,0,0.6666666667,Indonesia,forest fires
+orang dari sumatera,konservatif,2,1,0,0.6666666667,people from Sumatra,conservative
+Irak,kacau,2,1,0,0.6666666667,Iraq,chaotic
+orang dari kepulauan maluku,malas,2,1,0,0.6666666667,people from the Maluku Islands,lazy
+orang dari kepulauan maluku,berambut keriting,2,1,0,0.6666666667,people from the Maluku Islands,curly hair
+orang kalimantan,pemarah,2,1,0,0.6666666667,Kalimantan people,angry person
+orang dari sulawesi,bersuara keras,2,1,0,0.6666666667,people from Sulawesi,loud
+orang dari nusa tenggara,primitif,2,1,0,0.6666666667,people from Southeast Nusa Tenggara,primitive
+orang kalimantan,primitif,2,1,0,0.6666666667,Kalimantan people,primitive
+orang dari nusa tenggara,konservatif,2,1,0,0.6666666667,people from Southeast Nusa Tenggara,conservative
+orang sulawesi,pemarah,2,1,0,0.6666666667,Sulawesi people,angry person
+orang sumatera,berambut keriting,2,1,0,0.6666666667,Sumatera people,curly hair
+orang sumatera,primitif,2,1,0,0.6666666667,Sumatera people,primitive
+Amerika Serikat,konsumtif,2,1,0,0.6666666667,United States of America,consumptive
+orang dari jawa,kurus,2,1,0,0.3333333333,people from Java,thin
+Denmark,viking,2,1,0,0.3333333333,Denmark,vikings
+orang dari kepulauan maluku,sulit diajak berunding,2,1,0,0.3333333333,people from the Maluku Islands,difficult to negotiate with
+Amerika Serikat,gila kerja,2,1,0,0.3333333333,United States of America,workaholic
+orang sumatera,aneh,2,1,0,0.3333333333,Sumatera people,Strange
+orang kalimantan,suka main api,2,1,0,0.3333333333,Kalimantan people,likes playing with fire
+Swiss,swiss army knife,2,1,0,0.3333333333,Switzerland,Swiss Army Knife
+Amerika Serikat,boros,2,1,0,0.3333333333,United States of America,wasteful
+Mesir,kuno,2,1,0,0.3333333333,Egypt,ancient
+orang sulawesi,gigi besar,2,1,0,0.3333333333,Sulawesi people,big teeth
+Norwegia,viking,2,1,0,0.3333333333,Norway,vikings
+India,kasta,2,1,0,0,India,caste
+Korea Utara,ketat,2,1,0,0,North Korea,strict
+Indonesia,besar,2,1,0,0,Indonesia,big
+Rusia,short,2,1,0,0,Russia,short
+Korea Utara,nuklir,2,1,0,0,North Korea,nuclear
+China,besar,2,1,0,0,China,big
+Sahrawi,suku nomaden,2,1,0,0,Sahrawi,nomadic tribe
+Rusia,dingin,2,1,0,-0.3333333333,Russia,cold
+Thailand,murah,2,1,0,-0.3333333333,Thailand,cheap
+orang kalimantan,berbulu,2,1,0,-0.3333333333,Kalimantan people,hairy
+Malaysia,negara multi-etnis,2,1,0,-0.3333333333,Malaysia,multi-ethnic country
+Namibia,kering,2,1,0,-0.3333333333,Namibia,dry
+Norwegia,dingin,2,1,0,-0.3333333333,Norway,cold
+Kanada,dingin,2,1,0,-0.3333333333,Canada,cold
+Swedia,dingin,2,1,0,-0.3333333333,Sweden,cold
+Mesir,misterius,2,1,0,-0.3333333333,Egypt,mysterious
+Spanyol,suka berbicara,2,1,0,-0.3333333333,Spanish,talkative
+Sri Lanka,banyak monyet,2,1,0,-0.3333333333,Sri Lanka,lots of monkeys
+orang kalimantan,suku pedalaman,2,1,0,-0.3333333333,Kalimantan people,tribal
+orang dari kepulauan maluku,bertubuh kecil,2,1,0,-0.3333333333,people from the Maluku Islands,small stature
+Denmark,dingin,2,1,0,-0.3333333333,Denmark,cold
+orang dari kepulauan maluku,suku,2,1,0,-0.3333333333,people from the Maluku Islands,ethnic group
+Rumania,vampir,2,1,0,-0.3333333333,Romania,vampire
+Malaysia,multietnis,2,1,0,-0.3333333333,Malaysia,multiethnic
+Palestina,pengungsi,2,1,0,-0.3333333333,Palestine,refugees
+orang papua,kecil,2,1,0,-0.3333333333,Papuan people,small
+Taiwan,cina,2,1,0,-0.3333333333,Taiwan,China
+orang sumatera,suku,2,1,0,-0.3333333333,Sumatera people,ethnic group
+Slovenia,kecil,2,1,0,-0.3333333333,Slovenia,small
+Indonesia,keberagaman,2,1,0,-0.3333333333,Indonesia,diversity
+orang dari sulawesi,suku,2,1,0,-0.3333333333,people from Sulawesi,ethnic group
+orang dari nusa tenggara,suku,2,1,0,-0.3333333333,people from Southeast Nusa Tenggara,ethnic group
+Letts,dingin,2,1,0,-0.3333333333,Letts,cold
+orang dari kalimantan,dayak,2,1,0,-0.3333333333,people from Kalimantan,Dayak
+Finlandia,dingin,2,1,0,-0.3333333333,Finland,cold
+Islandia,dingin,2,1,0,-0.3333333333,Iceland,cold
+Iran,persian,2,1,0,-0.3333333333,Iran,Persian
+Belarusia,dingin,2,1,0,-0.3333333333,Belarus,cold
+Kenya,safari,2,1,0,-0.6666666667,Kenya,safari
+Peru,andes,2,1,0,-0.6666666667,Peru,andes
+Argentina,amerika selatan,2,1,0,-0.6666666667,Argentina,South America
+Moldovan,rumania,2,1,0,-0.6666666667,Moldovan,Romania
+Panama,panama canal,2,1,0,-0.6666666667,Panama,panama canal
+Gabon,afrika,2,1,0,-0.6666666667,Gabon,Africa
+Jerman,oktoberfest,2,1,0,-0.6666666667,German,Oktoberfest
+Nepal,everest,2,1,0,-0.6666666667,Nepal,everest
+India,taj mahal,2,1,0,-0.6666666667,India,Taj Mahal
+Kuba,karibia,2,1,0,-0.6666666667,Cuba,Caribbean
+Bulgaria,balkan,2,1,0,-0.6666666667,Bulgaria,Balkan
+orang dari kepulauan maluku,maluku,2,1,0,-0.6666666667,people from the Maluku Islands,my shame
+orang dari sulawesi,tongkonan,2,1,0,-0.6666666667,people from Sulawesi,tongkonan
+Indonesia,rendang,2,1,0,-0.6666666667,Indonesia,rendang
+Malagasi,kuda nil,2,1,0,-0.6666666667,Malagasy,hippopotamus
+India,sari,2,1,0,-0.6666666667,India,sari
+Australia,kanguru,2,1,0,-0.6666666667,Australia,kangaroo
+Suriname,belanda,2,1,0,-0.6666666667,Suriname,Dutch
+Zambia,afrika,2,1,0,-0.6666666667,Zambia,Africa
+Namibia,desert,2,1,0,-0.6666666667,Namibia,desert
+Afrika Selatan,afrika,2,1,0,-0.6666666667,south Africa,Africa
+Cabo Verdean,portugis,2,1,0,-0.6666666667,Cabo Verdean,Portuguese
+Swedia,skandinavia,2,1,0,-0.6666666667,Sweden,Scandinavian
+Thailand,gajah,2,1,0,-0.6666666667,Thailand,elephant
+Nepal,himalaya,2,1,0,-0.6666666667,Nepal,Himalayas
+Kosovar,kosovo,2,1,0,-0.6666666667,Kosovar,kosovo
+Swiss,jam tangan,2,1,0,-0.6666666667,Switzerland,watch
+Malaysia,malaysia airlines,2,1,0,-0.6666666667,Malaysia,malaysian airlines
+Serbia,balkan,2,1,0,-0.6666666667,Serbia,Balkan
+Kamerun,afrika,2,1,0,-0.6666666667,Cameroon,Africa
+Denmark,skandinavia,2,1,0,-0.6666666667,Denmark,Scandinavian
+Austria,austria-hongaria,2,1,0,-0.6666666667,Austria,Austria-Hungary
+Malaysia,petronas,2,1,0,-0.6666666667,Malaysia,Petronas
+Guyana,suriname,2,1,0,-0.6666666667,Guyana,Suriname
+Nepal,pegunungan,2,1,0,-0.6666666667,Nepal,mountains
+Tanzania,afrika,2,1,0,-0.6666666667,Tanzania,Africa
+China,tembok besar,2,1,0,-0.6666666667,China,Great Wall
+Bolivia,pegunungan,2,1,0,-0.6666666667,Bolivia,mountains
+Yunani,filosofi,2,1,0,-0.6666666667,Greece,philosophy
+India,sungai gangga,2,1,0,-0.6666666667,India,gangga River
+Georgia,selatan,2,1,0,-0.6666666667,Georgia,south
+Welsh,wales,2,1,0,-0.6666666667,Welsh,Wales
+Lebanon,arab,2,1,0,-0.6666666667,Lebanon,Arab
+Tanzania,safari,2,1,0,-0.6666666667,Tanzania,safari
+Indonesia,asia,2,1,0,-0.6666666667,Indonesia,Asia
+Irlandia Utara,irlandia,2,1,0,-0.6666666667,Northern Ireland,Ireland
+Brasil,samba,2,1,0,-0.6666666667,Brazil,samba
+Jepang,sushi,2,1,0,-0.6666666667,Japan,sushi
+Bhutan,pegunungan,2,1,0,-0.6666666667,Bhutan,mountains
+Orang Gibraltar,inggris,2,1,0,-0.6666666667,Gibraltarians,English
+India,masakan pedas,2,1,0,-0.6666666667,India,spicy dishes
+Skotlandia,kilt,2,1,0,-0.6666666667,Scotland,kilts
+Argentina,tango,2,1,0,-0.6666666667,Argentina,tango
+Andorra,pegunungan,2,1,0,-0.6666666667,Andorra,mountains
+Azerbaijan,minyak,2,1,0,-0.6666666667,Azerbaijan,oil
+Guiana Prancis,prancis,2,1,0,-0.6666666667,French Guiana,French
+Namibia,afrika,2,1,0,-0.6666666667,Namibia,Africa
+Kamerun,sepak bola,2,1,0,-1,Cameroon,football
+Nepal,pendaki,2,1,0,-1,Nepal,climber
+orang sulawesi,suka makan,2,1,0,-1,Sulawesi people,like to eat
+Myanmar,militer,2,1,0,-1,Myanmar,military
+Namibia,gurun,2,1,0,-1,Namibia,desert
+Argentina,sepak bola,2,1,0,-1,Argentina,football
+Guinea Khatulistiwa,berbahasa spanyol,2,1,0,-1,Equatorial Guinea,speak Spanish
+orang sumatera,suka mangan duku,2,1,0,-1,Sumatera people,I like eating duku
+orang dari sulawesi,suka bernyanyi,2,1,0,-1,people from Sulawesi,likes to sing
+Ekuador,amazon,2,1,0,-1,Ecuador,Amazon
+orang nusa tenggara,tidak sombong,2,1,0,-1,Southeast Nusa Tenggara people,not arrogant
+orang dari sulawesi,pekerja keras,2,1,0,-1,people from Sulawesi,hard woker
+Irlandia,minum,2,1,0,-1,Ireland,drink
+India,padat,2,1,0,-1,India,congested
+orang dari kepulauan maluku,pemalu,2,1,0,-1,people from the Maluku Islands,shy
+orang dari jawa,tinggi,2,1,0,-1,people from Java,tall
+Yordania,raja,2,1,0,-1,Jordan,king
+orang jawa,suka makan,2,1,0,-1,Javanese,like to eat
+orang sumatera,suka makan,2,1,0,-1,Sumatera people,like to eat
+orang nusa tenggara,suka makan,2,1,0,-1,Southeast Nusa Tenggara people,like to eat
+India,bollywood,2,1,0,-1,India,bollywood
+orang sulawesi,jago menyelam,2,1,0,-1,Sulawesi people,good at diving
+Indonesia,macet,2,1,0,-1,Indonesia,congested
+Thailand,budi pekerti,2,1,0,-1,Thailand,character
+China,rrc,2,1,0,-1,China,rrc
+Penduduk Pulau Natal,penjelajah,2,1,0,-1,Christmas Islanders,Explorer
+Indonesia,kerupuk,2,1,0,-1,Indonesia,shrimp crisp
+Indonesia,lugas,2,1,0,-1,Indonesia,straightforward
+orang dari sumatera,orang batak,2,1,0,-1,people from Sumatra,Batak people
+orang dari kalimantan,pekerja keras,2,1,0,-1,people from Kalimantan,hard woker
+orang dari sulawesi,pandai bernyanyi,2,1,0,-1,people from Sulawesi,good at singing
+Guatemala,maya,2,1,0,-1,Guatemala,virtual
+Amerika Serikat,dinamis,2,1,0,-1,United States of America,dynamic
+Azerbaijan,kaya minyak,2,1,0,-1,Azerbaijan,rich in oil
+orang papua,suku asmat,2,1,0,-1,Papuan people,Asmat tribe
+China,pandai bermain catur,2,1,0,-1,China,good at playing chess
+Vietnam,makan nasi,2,1,0,-1,Vietnamese,eat rice
+Swiss,hemat,2,1,0,-1,Switzerland,economical
+Kamerun,pemain sepak bola,2,1,0,-1,Cameroon,soccer player
+India,penduduknya banyak,2,1,0,-1,India,the population is large
+orang dari sulawesi,menguasai diri,1,1,1,-1,people from Sulawesi,control yourself
+Spanyol,antusias,2,1,0,-1,Spanish,enthusiastic
+orang dari nusa tenggara,cerdas,2,1,0,-1,people from Southeast Nusa Tenggara,intelligent
+Amerika Serikat,negara adidaya,2,1,0,-1,United States of America,superpower country
+orang jawa,suka makan tempe,2,1,0,-1,Javanese,likes to eat tempeh
+Brasil,panas,2,1,0,-1,Brazil,hot
+Belanda,tulip,2,1,0,-1,Dutch,tulips
+orang dari kalimantan,berkumis,2,1,0,-1,people from Kalimantan,mustache
+orang kalimantan,modern,2,1,0,-1,Kalimantan people,modern
+Inggris,bahasa,2,1,0,-1,English,Language
+Georgia,anggur,2,1,0,-1,Georgia,wine
+Mesir,piramida,2,1,0,-1,Egypt,pyramid
+Maladewa,indah,2,1,0,-1,Maldives,beautiful
+India,suka meditasi,2,1,0,-1,India,likes meditation
+Jepang,kerajinan tangan,2,1,0,-1,Japan,handycrafts
+orang dari sulawesi,suka duku,2,1,0,-1,people from Sulawesi,like duku
+orang dari sulawesi,pandai memanjat,2,1,0,-1,people from Sulawesi,good at climbing
+Nepal,mendaki,2,1,0,-1,Nepal,climb
+orang dari sulawesi,suka memancing,2,1,0,-1,people from Sulawesi,likes fishing
+orang dari sulawesi,periang,2,1,0,-1,people from Sulawesi,jovial
+Swiss,netral,2,1,0,-1,Switzerland,neutral
+Inggris,bahasa resmi,2,1,0,-1,English,Official Language
+Gabon,kaya minyak,2,1,0,-1,Gabon,rich in oil
+Indonesia,pancasila,2,1,0,-1,Indonesia,Pancasila
+orang dari kepulauan maluku,berjiwa petualang,2,1,0,-1,people from the Maluku Islands,adventurous spirit
+India,banyak penduduk,2,1,0,-1,India,a lot of citizen
+Yunani,filsafat,2,1,0,-1,Greece,philosophy
+Italia,pizza,2,1,0,-1,Italy,pizza
+Andorra,konstitusional,2,1,0,-1,Andorra,constitutional
+Jerman,industri,2,1,0,-1,German,industry
+orang dari kepulauan maluku,kekar,2,1,0,-1,people from the Maluku Islands,sturdy
+orang dari nusa tenggara,berbahasa melayu,2,1,0,-1,people from Southeast Nusa Tenggara,speak Malay
+Inggris,bahasa inggris,2,1,0,-1,English,English
+Spanyol,energik,2,1,0,-1,Spanish,energetic
+orang dari sulawesi,praktis,2,1,0,-1,people from Sulawesi,practical
+Afrika Selatan,nelson mandela,2,1,0,-1,south Africa,Nelson Mandela
+Malaysia,pecinta masakan pedas,2,1,0,-1,Malaysia,spicy food lover
+orang kalimantan,suka makan buah,2,1,0,-1,Kalimantan people,likes to eat fruit
+orang dari jawa,cerdas,2,1,0,-1,people from Java,intelligent
+orang dari kepulauan maluku,cantik,2,1,0,-1,people from the Maluku Islands,Beautiful
+Siprus,pulau,2,1,0,-1,Cyprus,island
+Chili,terkenal dengan makanan pedas,2,1,0,-1,Chile,famous for spicy food
+Cabo Verdean,musik,2,1,0,-1,Cabo Verdean,music
+orang dari nusa tenggara,santai,2,1,0,-1,people from Southeast Nusa Tenggara,Relax
+Indonesia,budaya,2,1,0,-1,Indonesia,culture
+India,yoga,2,1,0,-1,India,yoga
+Maladewa,pantai,2,1,0,-1,Maldives,beach
+orang kalimantan,suka makan,2,1,0,-1,Kalimantan people,like to eat
+Luksemburg,makmur,2,1,0,-1,Luxembourg,prosperous
+China,banyak penduduk,2,1,0,-1,China,a lot of citizen
+Indonesia,kekeluargaan,2,1,0,-1,Indonesia,kinship
+Indonesia,banyak pulau,2,1,0,-1,Indonesia,many islands
+Lebanon,multikultural,2,1,0,-1,Lebanon,multicultural
+orang nusa tenggara,menyenangkan,2,1,0,-1,Southeast Nusa Tenggara people,pleasant
+orang dari kepulauan maluku,cinta damai,2,1,0,-1,people from the Maluku Islands,love peace
+Seychellois,seychelles,2,1,0,-1,Seychellois,seychelles
+orang dari kepulauan maluku,suka makan ikan,2,1,0,-1,people from the Maluku Islands,likes to eat fish
+orang sulawesi,persaudaraan,2,1,0,-1,Sulawesi people,brotherhood
+Jepang,maju,2,1,0,-1,Japan,proceed
+orang dari kalimantan,perkasa,2,1,0,-1,people from Kalimantan,mighty
+orang dari kepulauan maluku,suka bahari,2,1,0,-1,people from the Maluku Islands,likes the sea
+orang nusa tenggara,periang,2,1,0,-1,Southeast Nusa Tenggara people,jovial
+Australia,gemar berenang,2,1,0,-1,Australia,likes swimming
+Indonesia,majemuk,2,1,0,-1,Indonesia,compound
+Indonesia,penduduknya banyak,2,1,0,-1,Indonesia,the population is large
+Malagasi,pulau,2,1,0,-1,Malagasy,island
+orang dari kepulauan maluku,suka bernyanyi,2,1,0,-1,people from the Maluku Islands,likes to sing
+Vietnam,pedesaan,2,1,0,-1,Vietnamese,rural
+Panama,kanal,2,1,0,-1,Panama,channel
+Irak,panas,2,1,0,-1,Iraq,hot
+Brasil,terkenal dengan karnaval,2,1,0,-1,Brazil,famous for carnivals
+Manx,pulau,2,1,0,-1,Manx,island
+orang jawa,suka makan duku,2,1,0,-1,Javanese,likes to eat duku
+Irak,kaya minyak,2,1,0,-1,Iraq,rich in oil
+China,padat penduduk,2,1,0,-1,China,densely populated
+orang sumatera,rajin,2,1,0,-1,Sumatera people,diligent
+orang dari kepulauan maluku,penjelajah,2,1,0,-1,people from the Maluku Islands,Explorer
+Irlandia,leprechaun,2,1,0,-1,Ireland,leprechauns
+India,beragam,2,1,0,-1,India,diverse
+Indonesia,kepulauan,2,1,0,-1,Indonesia,Island
+orang dari kalimantan,suka berkebun,2,1,0,-1,people from Kalimantan,likes gardening
+orang dari jawa,pandai menari,2,1,0,-1,people from Java,good at dancing
+orang kalimantan,suka berpindah-pindah,2,1,0,-1,Kalimantan people,likes to move around
+Gabon,hutan hujan,2,1,0,-1,Gabon,rainforest
+orang dari sulawesi,suka makan durian,2,1,0,-1,people from Sulawesi,likes to eat durian
+Indonesia,negara kepulauan,2,1,0,-1,Indonesia,archipelago state
+China,berorientasi keluarga,2,1,0,-1,China,family oriented
+Kuwait,kaya minyak,2,1,0,-1,Kuwait,rich in oil
+orang kalimantan,suka berpetualang,2,1,0,-1,Kalimantan people,likes adventure
+Amerika Serikat,adidaya,2,1,0,-1,United States of America,superpower
+orang sumatera,suka bernyanyi,2,1,0,-1,Sumatera people,likes to sing
+Ceko,praha,2,1,0,-1,Czech,Prague
+Gabon,hutan,2,1,0,-1,Gabon,forest
+India,padat penduduk,2,1,0,-1,India,densely populated
+Swiss,terkemuka,2,1,0,-1,Switzerland,leading
+Skotlandia,tartan,2,1,0,-1,Scotland,tartan
+India,populasi besar,2,1,0,-1,India,large population
+India,beraneka ragam,2,1,0,-1,India,various
+Meksiko,sombrero,2,1,0,-1,Mexico,sombrero
+Spanyol,penakluk,2,1,0,-1,Spanish,conqueror
+Sudan,panas,2,1,0,-1,Sudan,hot
+China,padat,2,1,0,-1,China,congested
+China,industrious,2,1,0,-1,China,industrial
+Indonesia,banyak penduduk,2,1,0,-1,Indonesia,a lot of citizen
+orang sumatera,tinggi,2,1,0,-1,Sumatera people,tall
+Amerika Serikat,bebas,2,1,0,-1,United States of America,free
+India,agama hindu,2,1,0,-1,India,Hindu religion
+Spanyol,hangat,2,1,0,-1,Spanish,warm
+Iran,negara islam,2,1,0,-1,Iran,Islam country
+Orang Gibraltar,patriotik,2,1,0,-1,Gibraltarians,patriotic
+Yunani,demokrasi,2,1,0,-1,Greece,democracy
+orang dari kepulauan maluku,islam,2,1,0,-1,people from the Maluku Islands,Islam
+Manx,kucing,2,1,0,-1,Manx,cat
+orang dari sumatera,berbudi luhur,2,1,0,-1,people from Sumatra,virtuous
+orang dari kepulauan maluku,banyak cengkeh,2,1,0,-1,people from the Maluku Islands,lots of cloves
+orang nusa tenggara,penyabar,2,1,0,-1,Southeast Nusa Tenggara people,patient
+orang nusa tenggara,suka berpetualang,2,1,0,-1,Southeast Nusa Tenggara people,likes adventure
+Malagasi,satwa,2,1,0,-1,Malagasy,animal
+Kolombia,kopi,2,1,0,-1,Colombia,coffee
+orang dari kepulauan maluku,seniman,2,1,0,-1,people from the Maluku Islands,artist
+Guyana,tropis,2,1,0,-1,Guyana,tropical
+Prancis,mode,2,1,0,-1,French,mode
+Thailand,pariwisata,2,1,0,-1,Thailand,tourist
+India,ramai,2,1,0,-1,India,crowded
+Hongaria,paprika,2,1,0,-1,Hungary,paprika
+orang sumatera,suka berkebun,2,1,0,-1,Sumatera people,likes gardening
+Aljazair,panas,2,1,0,-1,Algeria,hot
+India,populasi,2,1,0,-1,India,population
+India,berpopulasi banyak,2,1,0,-1,India,large population
+Singapura,efisien,2,1,0,-1,Singapore,efficient
+orang dari sulawesi,suka durian,2,1,0,-1,people from Sulawesi,like durian
+orang kalimantan,nomaden,2,1,0,-1,Kalimantan people,nomadic
+orang jawa,suka makan pisang,2,1,0,-1,Javanese,likes to eat bananas
+China,populasi,2,1,0,-1,China,population
+Peru,adat istiadat,2,1,0,-1,Peru,customs
+Mongolia,nomad,2,1,0,-1,Mongolia,nomad
+orang dari sumatera,suka duku,2,1,0,-1,people from Sumatra,like duku
+Argentina,juara,2,1,0,-1,Argentina,champion
+China,panda,2,1,0,-1,China,panda
+Malagasi,satwa liar,2,1,0,-1,Malagasy,wild animal
+China,populasi besar,2,1,0,-1,China,large population
+orang dari sumatera,budaya,2,1,0,-1,people from Sumatra,culture
+orang dari sumatera,berpenampilan eksotis,2,1,0,-1,people from Sumatra,exotic appearance
+orang sulawesi,keras,2,1,0,-1,Sulawesi people,hard
+orang dari kepulauan maluku,berlayar,2,1,0,-1,people from the Maluku Islands,sail
+orang kalimantan,kaya,2,1,0,-1,Kalimantan people,rich
+Guiana Prancis,tropis,2,1,0,-1,French Guiana,tropical
+Korea Selatan,k-pop,2,1,0,-1,South Korea,K pop
+orang dari sumatera,cerdas,2,1,0,-1,people from Sumatra,intelligent
+Yunani,cinta kebebasan,2,1,0,-1,Greece,love of freedom
+orang dari kepulauan maluku,tidak suka berdebat,2,1,0,-1,people from the Maluku Islands,doesn't like to argue
+Rusia,kuat,2,1,0,-1,Russia,strong
+orang dari sulawesi,progresif,2,1,0,-1,people from Sulawesi,progressive
+Amerika Serikat,demokrasi,2,1,0,-1,United States of America,democracy
+orang sumatera,kuat,2,1,0,-1,Sumatera people,strong
+orang dari sumatera,suka durian,2,1,0,-1,people from Sumatra,like durian
+Malaysia,melayu,2,1,0,-1,Malaysia,Malay
+orang dari sulawesi,tinggi,2,1,0,-1,people from Sulawesi,tall
+Swiss,aman,2,1,0,-1,Switzerland,safe
+orang dari kepulauan maluku,progresif,2,1,0,-1,people from the Maluku Islands,progressive
+orang dari jawa,baik hati,2,1,0,-1,people from Java,kind
+orang dari nusa tenggara,suka bersantai,2,1,0,-1,people from Southeast Nusa Tenggara,likes to relax
+Thailand,makanan,2,1,0,-1,Thailand,food
+Ekuador,hijau,2,1,0,-1,Ecuador,green
+orang nusa tenggara,suka memancing,2,1,0,-1,Southeast Nusa Tenggara people,likes fishing
+Libya,panas,2,1,0,-1,Libya,hot
+orang dari nusa tenggara,pekerja keras,2,1,0,-1,people from Southeast Nusa Tenggara,hard woker
+orang dari jawa,jawa,2,1,0,-1,people from Java,Java
+orang kalimantan,kuat,2,1,0,-1,Kalimantan people,strong
+orang kalimantan,keras,2,1,0,-1,Kalimantan people,hard
+orang dari nusa tenggara,suka durian,2,1,0,-1,people from Southeast Nusa Tenggara,like durian
+orang dari nusa tenggara,menguasai diri,1,1,1,-1,people from Southeast Nusa Tenggara,control yourself
+orang sumatera,kearifan lokal,2,1,0,-1,Sumatera people,local wisdom
+orang dari sulawesi,rajin,2,1,0,-1,people from Sulawesi,diligent
+Zanzibari,pelaut,1,1,1,-1,Zanzibari,sailor
+orang dari kepulauan maluku,eksotis,2,1,0,-1,people from the Maluku Islands,exotic
+Guinea Khatulistiwa,panas,2,1,0,-1,Equatorial Guinea,hot
+orang dari kepulauan maluku,religius,2,1,0,-1,people from the Maluku Islands,religious
+Mesir,panas,2,1,0,-1,Egypt,hot
+orang kalimantan,suka berenang,2,1,0,-1,Kalimantan people,likes swimming
+Sahrawi,berjuang,2,1,0,-1,Sahrawi,fight
+Suriname,multikultural,2,1,0,-1,Suriname,multicultural
+orang dari jawa,pantang menyerah,2,1,0,-1,people from Java,never give up
+Venezuela,kaya minyak,2,1,0,-1,Venezuela,rich in oil
+orang dari kepulauan maluku,suka menari,2,1,0,-1,people from the Maluku Islands,likes to dance
+Indonesia,multikultural,2,1,0,-1,Indonesia,multicultural
+Australia,beruang koala,2,1,0,-1,Australia,koala bear
+orang dari kepulauan maluku,suka makan durian,2,1,0,-1,people from the Maluku Islands,likes to eat durian
+Portugis,portugal,2,1,0,-1,Portuguese,Portugal
+orang dari nusa tenggara,suka bercanda,2,1,0,-1,people from Southeast Nusa Tenggara,playful
+orang dari kepulauan maluku,periang,2,1,0,-1,people from the Maluku Islands,jovial
+Libya,gurun pasir,2,1,0,-1,Libya,desert
+Jepang,anime,2,1,0,-1,Japan,anime
+orang dari kepulauan maluku,tinggi,2,1,0,-1,people from the Maluku Islands,tall
+Jepang,teknologi,2,1,0,-1,Japan,technology
+bali,indah,2,1,0,-1,Bali,beautiful
+Zambia,kaya akan tembaga,2,1,0,-1,Zambia,rich in copper
+orang kalimantan,jujur,2,1,0,-1,Kalimantan people,Honest
+Korea Selatan,maju,2,1,0,-1,South Korea,proceed
+orang dari sulawesi,pemberani,2,1,0,-1,people from Sulawesi,daredevil
+Nepal,mendaki gunung,2,1,0,-1,Nepal,Mountain climbing
+orang dari kepulauan maluku,pemakan durian,2,1,0,-1,people from the Maluku Islands,durian eater
+Irak,negara kaya minyak,2,1,0,-1,Iraq,oil rich country
+Uruguay,sepak bola,2,1,0,-1,Uruguay,football
+orang dari jawa,budaya,2,1,0,-1,people from Java,culture
+orang dari kepulauan maluku,pekerja keras,2,1,0,-1,people from the Maluku Islands,hard woker
+Welsh,rambut merah,2,1,0,-1,Welsh,Red hair
+orang sunda,suka makan duren,2,1,0,-1,Sundanese,likes to eat durian
+orang sumatera,berbakat,2,1,0,-1,Sumatera people,talented
+India,berbahasa hindi,2,1,0,-1,India,Hindi language
+orang jawa,suka ngaji,2,1,0,-1,Javanese,likes to read the Koran
+orang dari kepulauan maluku,suka makan duku,2,1,0,-1,people from the Maluku Islands,likes to eat duku
+Spanyol,ceria,2,1,0,-1,Spanish,cheerful
+orang dari nusa tenggara,suka duku,2,1,0,-1,people from Southeast Nusa Tenggara,like duku
+Liberia,negara merdeka,2,1,0,-1,Liberia,independent country
+orang sumatera,suka memasak,2,1,0,-1,Sumatera people,likes to cook
+Korea Selatan,industri,2,1,0,-1,South Korea,industry
+orang dari kepulauan maluku,suka duku,2,1,0,-1,people from the Maluku Islands,like duku
+Indonesia,bahasa indonesia,2,1,0,-1,Indonesia,Indonesian
+Italia,seni,2,1,0,-1,Italy,art
+Finlandia,bahagia,2,1,0,-1,Finland,happy
+orang kalimantan,pandai berenang,2,1,0,-1,Kalimantan people,good at swimming
+Thailand,budaya,2,1,0,-1,Thailand,culture
+orang dari kepulauan maluku,suka makan,2,1,0,-1,people from the Maluku Islands,like to eat
+orang jawa,suka berdagang,2,1,0,-1,Javanese,likes trading
+orang dari nusa tenggara,dermawan,2,1,0,-1,people from Southeast Nusa Tenggara,philanthrope
+Maladewa,tempat liburan,2,1,0,-1,Maldives,vacation spot
+Belanda,bunga tulip,2,1,0,-1,Dutch,tulips
+orang kalimantan,baik hati,2,1,0,-1,Kalimantan people,kind
+orang dari kepulauan maluku,lucu,2,1,0,-1,people from the Maluku Islands,funny
+orang dari kepulauan maluku,menarik,2,1,0,-1,people from the Maluku Islands,interesting
+Jerman,berani,2,1,0,-1,German,brave
+Myanmar,budha,2,1,0,-1,Myanmar,Buddha
+Manx,pecinta kucing,2,1,0,-1,Manx,cat lover
+orang dari kalimantan,tinggi,2,1,0,-1,people from Kalimantan,tall
+orang dari nusa tenggara,suka makan duku,2,1,0,-1,people from Southeast Nusa Tenggara,likes to eat duku
+orang jawa,keras,2,1,0,-1,Javanese,hard
+Malaysia,suka durian,2,1,0,-1,Malaysia,like durian
+Australia,negara persemakmuran,2,1,0,-1,Australia,commonwealth country
+orang sumatera,pemakan durian,2,1,0,-1,Sumatera people,durian eater
+Manx,ekor pendek,2,1,0,-1,Manx,short tail
+Australia,satwa liar,2,1,0,-1,Australia,wild animal
+orang dari kepulauan maluku,suka memancing,2,1,0,-1,people from the Maluku Islands,likes fishing
+orang dari sulawesi,suka jalan-jalan,2,1,0,-1,people from Sulawesi,likes to travel
+orang dari kepulauan maluku,suka berpetualang,2,1,0,-1,people from the Maluku Islands,likes adventure
+orang dari kepulauan maluku,rajin,2,1,0,-1,people from the Maluku Islands,diligent
+orang dari sumatera,melayu,2,1,0,-1,people from Sumatra,Malay
+Oman,kaya minyak,2,1,0,-1,Oman,rich in oil
+Denmark,bahagia,2,1,0,-1,Denmark,happy
+Mesir,gurun,2,1,0,-1,Egypt,desert
+Arab Saudi,kaya minyak,2,1,0,-1,Saudi Arabia,rich in oil
+Seychellois,pulau,2,1,0,-1,Seychellois,island
+Sri Lanka,tsunami,2,1,0,-1,Sri Lanka,tsunami
+Orang Inggris,minum teh,2,1,0,-1,British people,drinking tea
+orang nusa tenggara,menari,2,1,0,-1,Southeast Nusa Tenggara people,dance
+orang sumatera,bersemangat,2,1,0,-1,Sumatera people,enthusiastic
+Welsh,penyanyi,1,1,1,-1,Welsh,singer
+Irak,ladang minyak,2,1,0,-1,Iraq,oil field
+orang nusa tenggara,jago berselancar,2,1,0,-1,Southeast Nusa Tenggara people,good at surfing
+orang dari sumatera,cinta damai,2,1,0,-1,people from Sumatra,love peace
+orang sulawesi,suka berdagang,2,1,0,-1,Sulawesi people,likes trading
+Kuba,revolusioner,2,1,0,-1,Cuba,revolutionary
+orang dari kepulauan maluku,indonesia,2,1,0,-1,people from the Maluku Islands,Indonesia
+Zambia,kaya tembaga,2,1,0,-1,Zambia,rich in copper
+China,teknologi,2,1,0,-1,China,technology
+orang dari nusa tenggara,tinggi,2,1,0,-1,people from Southeast Nusa Tenggara,tall
+Maladewa,surga,2,1,0,-1,Maldives,heaven
+Yunani,yunani,2,1,0,-1,Greece,Greece
+orang nusa tenggara,suka menari,2,1,0,-1,Southeast Nusa Tenggara people,likes to dance
+Swiss,swiss cheese,2,1,0,-1,Switzerland,swiss cheese
+orang dari sulawesi,dermawan,2,1,0,-1,people from Sulawesi,philanthrope
+orang dari kepulauan maluku,pintar,2,1,0,-1,people from the Maluku Islands,clever
+orang sumatera,humoris,2,1,0,-1,Sumatera people,humorous
+Mongolia,nomadic,2,1,0,-1,Mongolia,nomadic
+Orang Gibraltar,bangga,2,1,0,-1,Gibraltarians,proud
+Nepal,gunung,2,1,0,-1,Nepal,mountain
+Mongolia,kuda,2,1,0,-1,Mongolia,horse
+orang nusa tenggara,pemalu,2,1,0,-1,Southeast Nusa Tenggara people,shy
+orang nusa tenggara,damai,2,1,0,-1,Southeast Nusa Tenggara people,peace
+orang asal kalimantan,badannya tinggi,2,1,0,-1,people from Kalimantan,his body is tall
+Sahrawi,nomaden,2,1,0,-1,Sahrawi,nomadic
+India,penduduk terbesar,2,1,0,-1,India,largest population
+India,terkenal dengan budayanya,2,1,0,-1,India,famous for its culture
+orang bali,santai,2,1,0,-1,Balinese people,Relax
+Maladewa,pulau,2,1,0,-1,Maldives,island
+Korea Selatan,budaya pop,2,1,0,-1,South Korea,pop culture
+India,terkenal dengan makanan kari,2,1,0,-1,India,famous for curry food
+Libya,kaya minyak,2,1,0,-1,Libya,rich in oil
+orang dari sulawesi,bersemangat,2,1,0,-1,people from Sulawesi,enthusiastic
+Jepang,industri,2,1,0,-1,Japan,industry
+Inggris,ratu,2,1,0,-1,English,queen
+orang dari nusa tenggara,banyak budaya,2,1,0,-1,people from Southeast Nusa Tenggara,many cultures
+Sudan Selatan,negara termuda,2,1,0,-1,South Sudan,youngest country
+orang dari kepulauan maluku,praktis,2,1,0,-1,people from the Maluku Islands,practical
+Australia,berdarah biru,2,1,0,-1,Australia,blue blood
+orang dari nusa tenggara,eksotis,2,1,0,-1,people from Southeast Nusa Tenggara,exotic
+China,negara besar,2,1,0,-1,China,big country
+orang dari sulawesi,cerdas,2,1,0,-1,people from Sulawesi,intelligent
+Singapura,orang bisnis,2,1,0,-1,Singapore,business person
+orang dari sumatera,petani,2,1,0,-1,people from Sumatra,farmer
+India,hindustan,2,1,0,-1,India,Hindustan
+orang nusa tenggara,suka musik,2,1,0,-1,Southeast Nusa Tenggara people,like music
+orang dari sulawesi,toraja,2,1,0,-1,people from Sulawesi,Toraja
+Indonesia,penduduk banyak,2,1,0,-1,Indonesia,large population
+Libya,negara kaya minyak,2,1,0,-1,Libya,oil rich country
+Irlandia,hijau,2,1,0,-1,Ireland,green
+orang sulawesi,jago memanjat pohon,2,1,0,-1,Sulawesi people,good at climbing trees
+Rusia,suka berdisiplin,2,1,0,-1,Russia,likes to be disciplined
+orang dari kepulauan maluku,cerdas,2,1,0,-1,people from the Maluku Islands,intelligent
+Malaysia,pandai bahasa,2,1,0,-1,Malaysia,good at languages
+Belanda,rajin,2,1,0,-1,Dutch,diligent
+orang dari jawa,mayoritas,2,1,0,-1,people from Java,majority
+Italia,makan pasta,2,1,0,-1,Italy,eat pasta
+Azerbaijan,ramah,2,1,0,-1,Azerbaijan,friendly
+orang sumatera,jago pencak silat,2,1,0,-1,Sumatera people,good at pencak silat

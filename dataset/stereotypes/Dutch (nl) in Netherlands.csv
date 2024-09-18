@@ -1,0 +1,1234 @@
+identity,attribute,non_stereotype,stereotype,unsure,mean_offensive_score,translated_identity,translated_attribute_list
+Afghanen,terroristen,1,2,0,4,Afghans,terrorists
+Rwandees,genocide,0,3,0,4,Rwandan,genocide
+Palestijns,terroristen,1,2,0,4,Palestinian,terrorists
+Libisch,dictator,1,2,0,3.666666667,Libyan,dictator
+Koreanen,dictator,1,2,0,3.666666667,Koreans,dictator
+Koreanen,dictatoriaal,0,3,0,3.333333333,Koreans,dictatorial
+Noord-Iers,gewelddadig,1,2,0,3.333333333,Northern Irish,violent
+Amerikanen,dick,0,3,0,3.333333333,Americans,Dick
+Equatoriaal-Guinees,corrupt,2,1,0,3.333333333,Equatorial Guinean,corrupt
+Bosniërs,oorlogszuchtig,0,3,0,3,Bosnians,belligerent
+Irakees,oorlogszuchtig,0,3,0,3,Iraqi,belligerent
+Colombiaanse,drugshandel,0,3,0,3,Colombian,drug trafficking
+Syrisch,oorlogszuchtig,0,3,0,3,Syrian,belligerent
+Colombiaanse,drugsdealer,0,3,0,3,Colombian,drug dealer
+Zuid-Soedanezen,oorlogszuchtig,0,3,0,3,South Sudanese,belligerent
+Colombiaanse,drugshandelaar,0,3,0,3,Colombian,drug trafficker
+Zeeuwen,kaalkop,1,2,0,2.666666667,Zeelanders,baldhead
+Koreanen,totalitair,0,3,0,2.666666667,Koreans,totalitarian
+Koreanen,dictatorial,0,3,0,2.666666667,Koreans,dictatorial
+Pakistaans,stinken,1,2,0,2.666666667,Pakistani,stink
+Serviërs,agressief,1,2,0,2.333333333,Serbs,aggressive
+Mensen uit Noord-Holland,arrogant,1,2,0,2.333333333,People from North Holland,arrogant
+Belgisch,gemeen,1,2,0,2.333333333,Belgian,mean
+Mensen uit Utrecht,arrogant,1,2,0,2.333333333,People from Utrecht,arrogant
+Hollandsen,arrogant,0,3,0,2.333333333,Hollandsen,arrogant
+Engels,arrogant,0,3,0,2.333333333,English,arrogant
+Amerikanen,offensiv,0,3,0,2.333333333,Americans,offensive
+Mensen uit Zuid-Holland,arrogant,0,3,0,2.333333333,People from South Holland,arrogant
+Amsterdammers,arrogant,1,2,0,2.333333333,Amsterdammers,arrogant
+Fransen,arrogant,0,3,0,2.333333333,French,arrogant
+Utrechtsen,arrogant,0,3,0,2.333333333,Utrechtsen,arrogant
+Utrechters,arrogant,0,3,0,2.333333333,Utrecht,arrogant
+Hollander,arrogant,1,2,0,2.333333333,Dutchman,arrogant
+Indiaas,slechte hygiëne,0,3,0,2.333333333,Indian,poor hygiene
+Nederlanders,arrogant,1,2,0,2.333333333,Dutch,arrogant
+Britten,arrogant,0,3,0,2.333333333,British,arrogant
+Amerikanen,arrogant,0,3,0,2.333333333,Americans,arrogant
+Flevolander,kaaskop,0,3,0,2,Flevolander,cheese head
+Amerikanen,dik,0,3,0,2,Americans,fat
+Koreanen,autoritaire,0,3,0,2,Koreans,authoritarian
+Amerikanen,egoïstisch,0,3,0,2,Americans,selfish
+Mensen uit Zuid-Holland,kaaskop,0,3,0,2,People from South Holland,cheese head
+Frans-Guyanese,verdomd,1,2,0,2,French Guianese,damn
+Koreanen,autoritair,1,2,0,2,Koreans,authoritarian
+Colombiaanse,drugsbaron,0,3,0,2,Colombian,drug lord
+Gelderlander,lui,1,2,0,1.666666667,Gelderlander,lazy
+Gelderlandse mensen,lui,1,2,0,1.666666667,Gelderland people,lazy
+Hollander,lui,1,2,0,1.666666667,Dutchman,lazy
+Friesen,lui,1,2,0,1.666666667,Frisians,lazy
+Flevolandsen,lui,1,2,0,1.666666667,Flevolansen,lazy
+Mensen uit Utrecht,dom,1,2,0,1.666666667,People from Utrecht,stupid
+Limburgsen,lui,1,2,0,1.666666667,Limburgish,lazy
+Limburgers,dom,1,2,0,1.666666667,Limburgers,stupid
+Zeeuwen,lui,1,2,0,1.666666667,Zeelanders,lazy
+Mensen uit Utrecht,lui,1,2,0,1.666666667,People from Utrecht,lazy
+Utrechtsen,irritant,1,2,0,1.666666667,Utrechtsen,irritating
+Spaans,illegaal,1,2,0,1.666666667,Spanish,illegal
+Argentijnen,macho,1,2,0,1.666666667,Argentinians,macho
+Limburger,lui,1,2,0,1.666666667,Limburger,lazy
+Utrechtsen,lui,1,2,0,1.666666667,Utrechtsen,lazy
+Mensen uit Overijssel,dom,1,2,0,1.666666667,People from Overijssel,stupid
+mensen uit Flevoland,dom,1,2,0,1.666666667,people from Flevoland,stupid
+Drenten,dom,1,2,0,1.666666667,Drenthe,stupid
+Guyanezen,illegale,0,3,0,1.666666667,Guyanese,illegal
+mensen uit Drenthe,dom,0,3,0,1.666666667,people from Drenthe,stupid
+Koreanen,militaristisch,0,3,0,1.666666667,Koreans,militaristic
+Overijsselaars,dom,1,2,0,1.666666667,Overijssel residents,stupid
+Limburgers,lui,1,2,0,1.666666667,Limburgers,lazy
+Flevolandsen,dom,1,2,0,1.666666667,Flevolansen,stupid
+Brabantsen,lui,1,2,0,1.666666667,Brabant,lazy
+Zeeuw,lui,1,2,0,1.666666667,Zeeland,lazy
+Utrechters,lui,1,2,0,1.666666667,Utrecht,lazy
+flevolanders,dom,1,2,0,1.666666667,Flevolanders,stupid
+Gelderlandsen,lui,1,2,0,1.666666667,Gelderlandsen,lazy
+Brabanders,lui,1,2,0,1.666666667,Brabanders,lazy
+Noord-Brabanters,lui,1,2,0,1.666666667,North Brabant people,lazy
+mensen uit Flevoland,lui,1,2,0,1.666666667,people from Flevoland,lazy
+Mensen uit Zuid-Holland,lui,1,2,0,1.666666667,People from South Holland,lazy
+groningsen,lui,1,2,0,1.666666667,Groningen,lazy
+Utrechtsen,dom,1,2,0,1.666666667,Utrechtsen,stupid
+Somaliërs,piraten,0,3,0,1.666666667,Somalis,pirates
+Gelderlanders,lui,1,2,0,1.666666667,Gelderlanders,lazy
+Hollandsen,lui,1,2,0,1.666666667,Hollandsen,lazy
+Utrechters,dom,1,2,0,1.666666667,Utrecht,stupid
+Britten,stijfkoppig,0,3,0,1.666666667,British,stubborn
+Belgisch,bijdehand,0,3,0,1.333333333,Belgian,smart
+Friesen,gierig,1,2,0,1.333333333,Frisians,stingy
+Gelderlandsen,gierig,1,2,0,1.333333333,Gelderlandsen,stingy
+Amerikanen,luidruchtig,0,3,0,1.333333333,Americans,noisy
+Hollander,gierig,0,3,0,1.333333333,Dutchman,stingy
+Utrechters,luidruchtig,1,2,0,1.333333333,Utrecht,noisy
+Italiaans,luidruchtig,0,3,0,1.333333333,Italian,noisy
+Limburgers,gulzig,0,3,0,1.333333333,Limburgers,greedy
+Brabanders,luidruchtig,0,3,0,1.333333333,Brabanders,noisy
+Brabanders,gulzig,1,2,0,1.333333333,Brabanders,greedy
+Hollandsen,gierig,0,3,0,1.333333333,Hollandsen,stingy
+Nederlanders,gierig,0,3,0,1.333333333,Dutch,stingy
+Limburgers,luidruchtig,1,2,0,1.333333333,Limburgers,noisy
+Koreanen,anti-amerikaans,0,3,0,1.333333333,Koreans,anti-american
+Brabantsen,gulzig,0,3,0,1.333333333,Brabant,greedy
+Spaans,luidruchtig,1,2,0,1.333333333,Spanish,noisy
+Mensen uit Utrecht,luidruchtig,1,2,0,1.333333333,People from Utrecht,noisy
+Utrechtsen,luidruchtig,1,2,0,1.333333333,Utrechtsen,noisy
+Mensen uit Noord-Holland,gierig,1,2,0,1.333333333,People from North Holland,stingy
+Zeeuw,gierig,0,3,0,1.333333333,Zeeland,stingy
+Brabantsen,luidruchtig,1,2,0,1.333333333,Brabant,noisy
+Drent,gierig,1,2,0,1.333333333,Drent,stingy
+Gelderlander,gierig,1,2,0,1.333333333,Gelderlander,stingy
+Limburgsen,luidruchtig,1,2,0,1.333333333,Limburgish,noisy
+Groningers,gierig,1,2,0,1.333333333,Groningers,stingy
+Gelderlandse mensen,gierig,1,2,0,1.333333333,Gelderland people,stingy
+Gelderlanders,gierig,1,2,0,1.333333333,Gelderlanders,stingy
+Zeeuwen,gierig,0,3,0,1.333333333,Zeelanders,stingy
+Gelderlandsen,gulzig,1,2,0,1.333333333,Gelderlandsen,greedy
+Drentsen,gierig,1,2,0,1.333333333,Drentsen,stingy
+Limburger,luidruchtig,1,2,0,1.333333333,Limburger,noisy
+Mongools,krijgszuchtig,1,2,0,1,Mongolian,warlike
+Groningen,winderig,2,1,0,1,Groningen,windy
+Centraal-Afrikaans,primitief,0,3,0,1,Central African,primitive
+mensen uit Drenthe,kaal,1,2,0,1,people from Drenthe,bald
+Zuid-Soedanezen,oorlog,0,3,0,1,South Sudanese,war
+Turken,gastarbeider,0,3,0,1,Turks,guest worker
+Iers,dronken,0,3,0,1,Irish,drunk
+Mensen uit Noord-Holland,ijzig,1,2,0,1,People from North Holland,icy
+Koreanen,communistisch,0,3,0,1,Koreans,communist
+Noord-Iers,dronken,0,3,0,1,Northern Irish,drunk
+Amerikanen,luid,0,3,0,1,Americans,loud
+Irakees,oorlog,0,3,0,1,Iraqi,war
+Cubanen,communistisch,1,2,0,1,Cubans,communist
+Cubanen,communisten,1,2,0,1,Cubans,communists
+Serviërs,oorlog,0,3,0,1,Serbs,war
+Groningsen,grof,1,2,0,1,Groningsen,course
+Friesland,winderig,1,1,1,1,Friesland,windy
+Syrisch,oorlog,1,2,0,1,Syrian,war
+Bosniërs,oorlog,0,3,0,1,Bosnians,war
+Kameroens,humeurig,1,2,0,0.6666666667,Cameroonian,moody
+Japans,stijf,1,2,0,0.6666666667,Japanese,stiff
+Russisch,hard,0,3,0,0.6666666667,Russian,hard
+Egyptisch,oud,1,2,0,0.6666666667,Egyptian,old
+Britten,stijf,0,3,0,0.6666666667,British,stiff
+Utrechtsen,bejaard,1,2,0,0.6666666667,Utrechtsen,elderly
+Schots,koppig,0,3,0,0.6666666667,Scottish,stubbornly
+Amerikanen,materialistisch,0,3,0,0.6666666667,Americans,materialistic
+Fransen,dominant,0,3,0,0.6666666667,French,dominant
+Welsh,koppig,0,3,0,0.6666666667,Welsh,stubbornly
+Hellenen,wispelturig,1,2,0,0.6666666667,Hellenes,fickle
+Roemeens,zigeuner,0,3,0,0.6666666667,Romanian,Gypsy
+Israëlisch,zionistisch,0,3,0,0.6666666667,Israeli,Zionist
+Utrechters,brutaal,1,2,0,0.6666666667,Utrecht,cheeky
+Mongools,ruw,0,3,0,0.6666666667,Mongolian,rough
+Groningen,oud,1,2,0,0.6666666667,Groningen,old
+Hollander,slordig,1,2,0,0.6666666667,Dutchman,sloppy
+mensen uit Flevoland,saai,1,2,0,0.6666666667,people from Flevoland,boring
+Drent,slungelig,1,2,0,0.6666666667,Drent,slouching
+Chinees,moeilijk,2,1,0,0.6666666667,Chinese,difficult
+Groningen,saai,0,3,0,0.6666666667,Groningen,boring
+Hollandsen,slordig,1,2,0,0.6666666667,Hollandsen,sloppy
+groningers,koppig,0,3,0,0.6666666667,Groningers,stubbornly
+Duits,opschepperig,1,2,0,0.6666666667,German,boastful
+Zeeuwen,koppig,0,3,0,0.6666666667,Zeelanders,stubbornly
+Engels,stijf,0,3,0,0.6666666667,English,stiff
+Mongools,ruig,0,3,0,0.6666666667,Mongolian,rough
+Noord-Iers,koppig,0,3,0,0.6666666667,Northern Irish,stubbornly
+Russisch,moeilijk,0,3,0,0.6666666667,Russian,difficult
+Friesen,ruw,1,2,0,0.6666666667,Frisians,rough
+Zeeuwse mensen,koppig,0,3,0,0.6666666667,Zeeland people,stubbornly
+Duits,stijf,1,2,0,0.6666666667,German,stiff
+Belgisch,praat luid,1,2,0,0.6666666667,Belgian,talk loudly
+Israëlisch,zionist,0,3,0,0.6666666667,Israeli,zionist
+Russisch,brutaal,1,2,0,0.6666666667,Russian,cheeky
+Italiaans,chaotisch,0,3,0,0.6666666667,Italian,chaotic
+Zeeuw,koppig,1,2,0,0.6666666667,Zeeland,stubbornly
+Nicaraguaan,communist,1,2,0,0.3333333333,Nicaraguan,Communist
+Britten,drinken veel,0,3,0,0.3333333333,British,drink a lot
+Mongools,wild,0,3,0,0.3333333333,Mongolian,wild
+groningsen,norse,0,3,0,0.3333333333,Groningen,gruff
+Duits,spreekt veel,1,2,0,0.3333333333,German,speaks a lot
+Friesen,wild,1,2,0,0.3333333333,Frisians,wild
+Cubanen,communist,2,1,0,0.3333333333,Cubans,Communist
+Duits,taal moeilijk,1,2,0,0.3333333333,German,language difficult
+Israëlisch,jood,1,2,0,0.3333333333,Israeli,Jew
+Italiaans,spreken luid,1,2,0,0.3333333333,Italian,speak loudly
+Duits,bierdrinkend,0,3,0,0.3333333333,German,drinking beer
+Engels,spreekt veel,1,2,0,0.3333333333,English,speaks a lot
+Iers,drinken veel,0,3,0,0.3333333333,Irish,drink a lot
+Belgisch,chauvinistisch,1,2,0,0.3333333333,Belgian,chauvinistic
+Israëlisch,zionisten,0,3,0,0.3333333333,Israeli,zionists
+Colombiaanse,drugs,0,3,0,0.3333333333,Colombian,drugs
+groningers,norse,1,2,0,0.3333333333,Groningers,gruff
+Fransen,chauvinistisch,0,3,0,0.3333333333,French,chauvinistic
+Timorees,bang,1,2,0,0.3333333333,Timorese,anxious
+Friesland,koud,0,3,0,0,Friesland,cold
+Gelderlanders,zuinig,1,2,0,0,Gelderlanders,frugal
+Hollander,koel,0,3,0,0,Dutchman,cool
+Mensen uit Noord-Holland,eigenwijs,0,3,0,0,People from North Holland,stubborn
+Belgisch,sarcastisch,1,2,0,0,Belgian,sarcastic
+IJslands,koud,1,2,0,0,Icelandic,cold
+Flevolandsen,eigenwijs,1,2,0,0,Flevolansen,stubborn
+Brabanders,eigenwijs,0,3,0,0,Brabanders,stubborn
+Duits,sarcastisch,1,2,0,0,German,sarcastic
+Friesen,zuinig,0,3,0,0,Frisians,frugal
+Britten,sarcastisch,1,2,0,0,British,sarcastic
+Drentsen,boeren,0,3,0,0,Drentsen,farmers
+Overijsselsen,stief,1,2,0,0,Overijsselsen,step
+Engels,koel,1,2,0,0,English,cool
+Gelderlandse mensen,eigenwijs,1,2,0,0,Gelderland people,stubborn
+Iers,drinkt veel,0,3,0,0,Irish,drinks a lot
+Mensen uit Fryslân,eigenwijs,1,2,0,0,People from Friesland,stubborn
+Mensen uit Overijssel,boeren,0,3,0,0,People from Overijssel,farmers
+mensen uit Drenthe,boeren,0,3,0,0,people from Drenthe,farmers
+Overijsselsen,boeren,0,3,0,0,Overijsselsen,farmers
+Zwitsers,zuinig,1,2,0,0,Swiss,frugal
+Mensen uit Noord-Brabant,eigenwijs,0,3,0,0,People from North Brabant,stubborn
+Friesen,zwart,1,2,0,0,Frisians,black
+Utrechters,eigenwijs,0,3,0,0,Utrecht,stubborn
+Zeeuwen,eigenwijs,1,2,0,0,Zeelanders,stubborn
+Schots,kil,1,2,0,0,Scottish,cold
+Limburgers,eigenwijs,1,2,0,0,Limburgers,stubborn
+Gelderlander,zuinig,1,2,0,0,Gelderlander,frugal
+Overijsselaars,eigenwijs,1,2,0,0,Overijssel residents,stubborn
+Groningen,koud,1,2,0,0,Groningen,cold
+Duits,duister,1,2,0,0,German,dark
+Mensen uit Groningen,eigenwijs,1,2,0,0,People from Groningen,stubborn
+Zeeuw,eigenwijs,1,2,0,0,Zeeland,stubborn
+Drenten,eigenwijs,1,2,0,0,Drenthe,stubborn
+Overijsselaars,boeren,0,3,0,0,Overijssel residents,farmers
+Groningers,eigenwijs,0,3,0,0,Groningers,stubborn
+Gelderlanders,eigenwijs,1,2,0,0,Gelderlanders,stubborn
+Russisch,koud,1,2,0,0,Russian,cold
+Fries,eigenwijs,1,2,0,0,Frisian,stubborn
+flevolanders,eigenwijs,1,2,0,0,Flevolanders,stubborn
+Limburgsen,eigenwijs,1,2,0,0,Limburgish,stubborn
+Engels,sarcastisch,1,2,0,0,English,sarcastic
+Groningers,zuinig,0,3,0,0,Groningers,frugal
+mensen uit Flevoland,boeren,0,3,0,0,people from Flevoland,farmers
+Overijsselsen,eigenwijs,1,2,0,0,Overijsselsen,stubborn
+Gelderlander,eigenwijs,1,2,0,0,Gelderlander,stubborn
+Groninger,eigenwijs,0,3,0,0,Groningen,stubborn
+Mensen uit Zuid-Holland,eigenwijs,0,3,0,0,People from South Holland,stubborn
+Flevolander,boeren,0,3,0,0,Flevolander,farmers
+Gelderlandsen,zuinig,1,2,0,0,Gelderlandsen,frugal
+Nederlanders,koel,1,2,0,0,Dutch,cool
+Noors,koud,2,1,0,0,Norwegian,cold
+mensen uit Flevoland,eigenwijs,1,2,0,0,people from Flevoland,stubborn
+Gelderlandsen,eigenwijs,1,2,0,0,Gelderlandsen,stubborn
+Sahrawi,vrijheidsstrijder,1,2,0,0,Sahrawi,freedom fighter
+Drent,eigenwijs,1,2,0,0,Drent,stubborn
+Zeeuw,zuinig,0,3,0,0,Zeeland,frugal
+Mensen uit Utrecht,eigenwijs,1,2,0,0,People from Utrecht,stubborn
+Groningsen,eigenwijs,1,2,0,0,Groningsen,stubborn
+Britten,koel,1,2,0,0,British,cool
+IJslands,onderkoeld,0,3,0,0,Icelandic,hypothermia
+Duits,streng,0,3,0,0,German,strict
+Mensen uit Zeeland,eigenwijs,1,2,0,0,People from Zeeland,stubborn
+Drentsen,eigenwijs,1,2,0,0,Drentsen,stubborn
+mensen uit Drenthe,eigenwijs,1,2,0,0,people from Drenthe,stubborn
+Finnen,koud,1,2,0,0,Finns,cold
+Hollandsen,koel,1,2,0,0,Hollandsen,cool
+Cypriotisch,mieren,1,2,0,0,Cypriot,ants
+Brabantsen,eigenwijs,0,3,0,0,Brabant,stubborn
+Drentsen,zuinig,1,2,0,0,Drentsen,frugal
+Wit-Russisch,koud,0,3,0,0,Belarusian,cold
+Koreanen,streng,0,3,0,0,Koreans,strict
+Duits,drinkt veel bier,0,3,0,0,German,drinks a lot of beer
+Friesen,eigenwijs,1,2,0,0,Frisians,stubborn
+Friesland,eigenwijs,0,3,0,0,Friesland,stubborn
+Limburger,eigenwijs,1,2,0,0,Limburger,stubborn
+Zeeuwen,boeren,0,3,0,0,Zeelanders,farmers
+Mensen uit Gelderland,boeren,1,2,0,0,People from Gelderland,farmers
+Russisch,streng,0,3,0,0,Russian,strict
+Utrechtsen,eigenwijs,1,2,0,0,Utrechtsen,stubborn
+Noord-Brabanters,eigenwijs,1,2,0,0,North Brabant people,stubborn
+Zeeuwen,zuinig,0,3,0,0,Zeelanders,frugal
+Flevolander,eigenwijs,1,2,0,0,Flevolander,stubborn
+Drent,zuinig,0,3,0,0,Drent,frugal
+Chinees,eten veel,1,2,0,-0.3333333333,Chinese,eat a lot
+Noors,blond,1,2,0,-0.3333333333,Norwegian,blond
+Britten,snobistisch,1,2,0,-0.3333333333,British,snobbish
+Zeeuw,boer,0,3,0,-0.3333333333,Zeeland,farmer
+Friesen,taai,0,3,0,-0.3333333333,Frisians,tough
+Drent,boer,0,3,0,-0.3333333333,Drent,farmer
+Belgisch,hilarisch,0,3,0,-0.3333333333,Belgian,hilarious
+Belgisch,praat met veel handen,1,2,0,-0.3333333333,Belgian,talk with many hands
+Overijsselsen,boer,0,3,0,-0.3333333333,Overijsselsen,farmer
+Utrechters,eigengereed,1,2,0,-0.3333333333,Utrecht,self-employed
+Amerikanen,houdt van fastfood,0,3,0,-0.3333333333,Americans,likes fast food
+mensen uit Drenthe,boer,0,3,0,-0.3333333333,people from Drenthe,farmer
+Slowaken,houden van bier,0,3,0,-0.3333333333,Slovaks,love beer
+Zeeuwen,plat,1,2,0,-0.3333333333,Zeelanders,flat
+Duits,bierdrinker,0,3,0,-0.3333333333,German,beer drinker
+Gelderlanders,boer,1,2,0,-0.3333333333,Gelderlanders,farmer
+Fransen,eten veel kaas,0,3,0,-0.3333333333,French,eat a lot of cheese
+Finnen,blond,2,1,0,-0.3333333333,Finns,blond
+Italiaans,emotioneel,0,3,0,-0.3333333333,Italian,emotional
+Overijsselaars,conservatief,1,2,0,-0.3333333333,Overijssel residents,conservative
+Mensen uit Overijssel,boer,0,3,0,-0.3333333333,People from Overijssel,farmer
+Drentsen,conservatief,0,3,0,-0.3333333333,Drentsen,conservative
+mensen uit Flevoland,boer,0,3,0,-0.3333333333,people from Flevoland,farmer
+Chinees,eet veel,1,2,0,-0.3333333333,Chinese,eat a lot
+Friesen,boer,0,3,0,-0.3333333333,Frisians,farmer
+Oekraïens,blond,0,3,0,-0.3333333333,Ukrainian,blond
+Sahrawi,in ballingschap,0,2,1,-0.3333333333,Sahrawi,in exile
+Friesen,conservatief,0,3,0,-0.3333333333,Frisians,conservative
+Italiaans,eet veel pasta,0,3,0,-0.3333333333,Italian,eat a lot of pasta
+Zeeuwen,conservatief,0,3,0,-0.3333333333,Zeelanders,conservative
+Belgisch,bierdrinker,0,3,0,-0.3333333333,Belgian,beer drinker
+Duits,perfectionistisch,0,3,0,-0.3333333333,German,perfectionist
+Britten,houden van thee,0,3,0,-0.3333333333,British,love tea
+Hollandsen,blank,0,3,0,-0.3333333333,Hollandsen,White
+Cubanen,houden van rum,0,3,0,-0.3333333333,Cubans,love rum
+Drentsen,boer,0,3,0,-0.3333333333,Drentsen,farmer
+Zeeuwse mensen,spreken een dialect,2,1,0,-0.3333333333,Zeeland people,speak a dialect
+Zeeuwse mensen,houden van garnalen,0,3,0,-0.3333333333,Zeeland people,love shrimp
+Utrechtsen,hebben een accent,1,2,0,-0.3333333333,Utrechtsen,have an accent
+Brabanders,houden van bier,0,3,0,-0.3333333333,Brabanders,love beer
+Belgisch,praatgraag,0,3,0,-0.3333333333,Belgian,chatty
+Hollander,direkt,0,3,0,-0.3333333333,Dutchman,directly
+Ests,blond,0,3,0,-0.3333333333,Estonian,blond
+Groninger,plat,1,2,0,-0.3333333333,Groningen,flat
+Duits,houdt van bier,0,3,0,-0.3333333333,German,likes beer
+Schots,houdt van whisky,0,3,0,-0.3333333333,Scottish,likes whisky
+Lets,blond,1,2,0,-0.3333333333,Latvian,blond
+Belgisch,bierliefhebbers,0,3,0,-0.3333333333,Belgian,beer lovers
+Overijsselaars,boer,0,3,0,-0.3333333333,Overijssel residents,farmer
+Zeeuwen,houden van garnalen,0,3,0,-0.3333333333,Zeelanders,love shrimp
+Argentijnen,fanatiek,1,2,0,-0.3333333333,Argentinians,fanatic
+Belgisch,lacherig,0,3,0,-0.3333333333,Belgian,giggly
+Duits,koelblütig,0,3,0,-0.3333333333,German,cold-blooded
+Belgisch,eet veel friet,0,3,0,-0.3333333333,Belgian,eat a lot of fries
+Wit-Russisch,blond,1,2,0,-0.3333333333,Belarusian,blond
+Hollandsen,kalte,1,2,0,-0.3333333333,Hollandsen,calmness
+Drenten,conservatief,0,3,0,-0.3333333333,Drenthe,conservative
+Gelderlander,boer,1,2,0,-0.3333333333,Gelderlander,farmer
+Nederlanders,pittig,1,2,0,-0.3333333333,Dutch,spicy
+Nederlanders,direkt,0,3,0,-0.3333333333,Dutch,directly
+Flevolanders,schapenboeren,1,2,0,-0.3333333333,Flevolanders,sheep farmers
+Amerikanen,houden van hamburger,1,2,0,-0.3333333333,Americans,love hamburger
+Amerikanen,konservativ,1,2,0,-0.3333333333,Americans,conservative
+Groningen,grijs,2,1,0,-0.3333333333,Groningen,gray
+Duits,bier drinkend,0,3,0,-0.3333333333,German,drinking beer
+Friesen,blond,0,3,0,-0.3333333333,Frisians,blond
+Amerikanen,houdt van hamburgers,0,3,0,-0.3333333333,Americans,likes burgers
+Engels,houden van thee,1,2,0,-0.3333333333,English,love tea
+Belgisch,praat veel,0,3,0,-0.3333333333,Belgian,talks a lot
+Cubanen,houdt van rum,0,3,0,-0.3333333333,Cubans,likes rum
+Hellenen,antiek,0,3,0,-0.3333333333,Hellenes,antique
+Tsjechisch,houdt van bier,0,3,0,-0.3333333333,Czech,likes beer
+Britten,drinken veel thee,0,3,0,-0.3333333333,British,drink a lot of tea
+Flevolander,boer,0,3,0,-0.3333333333,Flevolander,farmer
+Friesland,vlak,2,1,0,-0.3333333333,Friesland,right
+Friesland,arm,0,3,0,-0.3333333333,Friesland,arm
+Ethiopisch,eet veel injera,0,3,0,-0.3333333333,Ethiopian,eat a lot of injera
+Flevolandsen,boer,0,3,0,-0.3333333333,Flevolansen,farmer
+Hollander,druipend,1,2,0,-0.3333333333,Dutchman,dripping
+Limburgers,dialectsprekers,2,1,0,-0.3333333333,Limburgers,dialect speakers
+Zeeuwen,ouderwets,1,2,0,-0.3333333333,Zeelanders,old-fashioned
+Flevolanders,boer,0,3,0,-0.3333333333,Flevolanders,farmer
+Hollandsen,direkt,0,3,0,-0.3333333333,Hollandsen,directly
+Koreanen,gesloten,0,3,0,-0.3333333333,Koreans,Closed
+Denen,blond,1,2,0,-0.3333333333,Danes,blond
+Crimeans,krimtataren,2,1,0,-0.3333333333,Crimeans,Crimean Tatars
+Fransen,koken,1,2,0,-1,French,to cook
+Serviërs,wodka,1,2,0,-1,Serbs,vodka
+Utrechters,nuchter,1,2,0,-1,Utrecht,sober
+Friesen,roodharig,1,2,0,-1,Frisians,red-haired
+Schots,whisky,1,2,0,-1,Scottish,whiskey
+Mensen uit Utrecht,aardig,1,2,0,-1,People from Utrecht,nice
+overijsselsen,trots,1,2,0,-1,overijsselsen,pride
+Formosanen,gedisciplineerd,1,2,0,-1,Formosans,disciplined
+Zeeuwse mensen,gastvrij,1,2,0,-1,Zeeland people,hospitable
+Drent,trots,1,2,0,-1,Drent,pride
+Groningsen,houden van groningers,1,2,0,-1,Groningsen,love people from Groningen
+Zeeuw,zeemansvolk,1,2,0,-1,Zeeland,sailor people
+Pakistaans,moslim,1,2,0,-1,Pakistani,Muslim
+Amerikanen,innovatief,1,2,0,-1,Americans,Innovative
+Duits,autorijden,1,2,0,-1,German,driving
+Groninger,vriendelijk,1,2,0,-1,Groningen,friendly
+Overijsselaars,bescheiden,1,2,0,-1,Overijssel residents,modest
+Flevolanders,vriendelijk,1,2,0,-1,Flevolanders,friendly
+overijsselsen,behulpzaam,1,2,0,-1,overijsselsen,helpful
+Mensen uit Zuid-Holland,nuchter,1,2,0,-1,People from South Holland,sober
+Zeeuw,vis,1,2,0,-1,Zeeland,fish
+Utrechtsen,tolerant,1,2,0,-1,Utrechtsen,tolerant
+Nederlanders,puur,1,2,0,-1,Dutch,pure
+Indonesisch,curry,1,2,0,-1,Indonesian,Curry
+Fransen,eten,1,2,0,-1,French,to eat
+mensen uit Drenthe,vriendelijk,1,2,0,-1,people from Drenthe,friendly
+overijsselsen,hardwerkend,1,2,0,-1,overijsselsen,hardworking
+Duits,bier drinken,1,2,0,-1,German,drinking beer
+Russisch,vodka,1,2,0,-1,Russian,vodka
+Koeweits,olie,1,2,0,-1,Kuwaiti,oil
+Limburgers,limburg,1,2,0,-1,Limburgers,Limburg
+Fransen,croissant,1,2,0,-1,French,Croissant
+Gambiaans,goed in worstelen,1,2,0,-1,Gambian,good at wrestling
+Limburger,spreekt limburgs,1,2,0,-1,Limburger,speaks Limburgish
+Engels,houdt van voetbal,1,2,0,-1,English,likes football
+Braziliaans,gek op voetbal,1,2,0,-1,Brazilian,crazy about football
+Slowaken,goed in skiën,1,2,0,-1,Slovaks,good at skiing
+flevolandsen,platteland,1,2,0,-1,Flevolandsen,country
+Overijsselaars,calvinistisch,1,2,0,-1,Overijssel residents,Calvinistic
+Friesen,goed in zwemmen,1,2,0,-1,Frisians,good at swimming
+Hollander,vriendelijk,1,2,0,-1,Dutchman,friendly
+Utrechtsen,vriendelijk,1,2,0,-1,Utrechtsen,friendly
+Nederlanders,theorie,1,2,0,-1,Dutch,theory
+Singaporeërs,efficiënt,1,2,0,-1,Singaporeans,efficient
+Belgisch,praat graag,1,2,0,-1,Belgian,likes to talk
+Italiaans,eten pasta,1,2,0,-1,Italian,eat pasta
+Schots,onafhankelijk,1,2,0,-1,Scottish,independent
+Gelderlander,calvinistisch,1,2,0,-1,Gelderlander,Calvinistic
+Venezolaans,salsa,1,2,0,-1,Venezuelan,salsa
+Emiratis,rijk,1,2,0,-1,Emiratis,rich
+Zimbabweaans,goed in cricket,1,2,0,-1,Zimbabwean,good at cricket
+Nederlanders,houden van fietsen,0,2,1,-1,Dutch,love cycling
+Nederlanders,kaas,1,2,0,-1,Dutch,cheese
+Utrechtsen,slim,1,2,0,-1,Utrechtsen,smart
+Formosanen,gehoorzaam,1,2,0,-1,Formosans,obedient
+Russisch,wodka,1,2,0,-1,Russian,vodka
+Mauritaans,moslim,1,2,0,-1,Mauritanian,Muslim
+Mensen uit Noord-Brabant,nuchter,1,2,0,-1,People from North Brabant,sober
+Friesland,mooi,1,2,0,-1,Friesland,Nice
+Overijsselsen,vriendelijk,1,2,0,-1,Overijsselsen,friendly
+Fransen,wijn,1,2,0,-1,French,wine
+Friesen,paarden,1,2,0,-1,Frisians,horses
+Utrechters,creatief,1,2,0,-1,Utrecht,creatively
+Duits,taalkundig,1,2,0,-1,German,linguistic
+Engels,spreken goed,1,2,0,-1,English,speak well
+Cubanen,socialisten,1,2,0,-1,Cubans,socialists
+Utrechtsen,trots,1,2,0,-1,Utrechtsen,pride
+Belgisch,goed eten,1,2,0,-1,Belgian,good food
+Belgisch,friet,1,2,0,-1,Belgian,fries
+Jemenitisch,moslim,1,2,0,-1,Yemeni,Muslim
+Overijsselaars,behulpzaam,1,2,0,-1,Overijssel residents,helpful
+Britten,stijlvol,1,2,0,-1,British,Stylish
+Gibraltariërs,loyale,1,2,0,-1,Gibraltarians,loyal
+Namibisch,goed in lange afstanden,1,2,0,-1,Namibian,good at long distances
+Zeeuwse mensen,houd van dijken,1,2,0,-1,Zeeland people,love dikes
+Friesen,rood haar,1,2,0,-1,Frisians,Red hair
+Belgisch,friet eten,1,2,0,-1,Belgian,eat fries
+Belgisch,vrij,1,2,0,-1,Belgian,free
+Argentijnen,spraakzaam,1,2,0,-1,Argentinians,chatty
+Uruguayaan,voetballer,1,2,0,-1,Uruguayan,soccer player
+Fransen,eet kaas,1,2,0,-1,French,eat cheese
+Mensen uit Noord-Holland,vriendelijk,1,2,0,-1,People from North Holland,friendly
+Hollander,creatief,1,2,0,-1,Dutchman,creatively
+Manx,kortharig,1,2,0,-1,Manx,short-haired
+Gelderlanders,nuchter,1,2,0,-1,Gelderlanders,sober
+Welsh,zingen,1,2,0,-1,Welsh,to sing
+Zeeuwse mensen,zeelieden,1,2,0,-1,Zeeland people,sailors
+Gelderlandsen,gul,1,2,0,-1,Gelderlandsen,generous
+Amerikanen,vrijgevig,1,2,0,-1,Americans,generous
+Flevolanders,innovatief,1,2,0,-1,Flevolanders,Innovative
+Limburger,nuchter,1,2,0,-1,Limburger,sober
+Belgisch,frietjes,1,2,0,-1,Belgian,fries
+Slovenen,goed in skiën,1,2,0,-1,Slovenians,good at skiing
+Friesen,goed in paardenraces,1,2,0,-1,Frisians,good at horse racing
+Gelderlander,nuchter,1,2,0,-1,Gelderlander,sober
+Mensen uit Zuid-Holland,vriendelijk,1,2,0,-1,People from South Holland,friendly
+Flevolander,platteland,1,2,0,-1,Flevolander,country
+Braziliaans,dansen,1,2,0,-1,Brazilian,dancing
+Nepali,goed in bergbeklimmen,1,2,0,-1,Nepali,good at mountain climbing
+Nepali,goed in bergbeklimmers,1,2,0,-1,Nepali,good at mountaineering
+Nepali,bergbeklimmer,1,2,0,-1,Nepali,mountain climber
+Iers,katholiek,1,2,0,-1,Irish,Catholic
+Italiaans,handgebaren,1,2,0,-1,Italian,hand gestures
+Fransen,eten stokbrood,1,2,0,-1,French,eat baguette
+Overijsselaars,kaas,1,2,0,-1,Overijssel residents,cheese
+Zeeuwen,goed in zeilen,1,2,0,-1,Zeelanders,good at sailing
+Ests,houden van sauna,1,2,0,-1,Estonian,love sauna
+Lets,goed in basketbal,1,2,0,-1,Latvian,good at basketball
+Groningsen,houden van groninger bier,1,2,0,-1,Groningsen,love Groningen beer
+Belgisch,frieten,1,2,0,-1,Belgian,fries
+Groningers,houden van groningers,0,2,1,-1,Groningers,love people from Groningen
+Utrechters,politie,1,2,0,-1,Utrecht,Police
+mensen uit Flevoland,creatief,1,2,0,-1,people from Flevoland,creatively
+Gelderlanders,kaas,1,2,0,-1,Gelderlanders,cheese
+Hollandsen,nuchter,0,3,0,-1,Hollandsen,sober
+Flevolanders,platteland,1,2,0,-1,Flevolanders,country
+Manx,spreken manx,2,1,0,-1,Manx,speak manx
+Gibraltariërs,engels,2,1,0,-1,Gibraltarians,English
+Manx,spreekt manx,2,1,0,-1,Manx,speaks manx
+Zeeuwen,dijken,2,1,0,-1,Zeelanders,dikes
+Hellenen,grieks,2,1,0,-1,Hellenes,Greek
+Surinaams,nederlands,2,1,0,-1,Surinamese,Dutch
+Mensen uit Fryslân,fries,2,1,0,-1,People from Friesland,Frisian
+Belgisch,roodharige,2,1,0,-1,Belgian,redhead
+Friesland,noord,2,1,0,-1,Friesland,north
+Gibraltariërs,brit,2,1,0,-1,Gibraltarians,brit
+Malagasi,spreekt malagasy,2,1,0,-1,Malagasy,speaks Malagasy
+Libisch,woestijn,2,1,0,-1,Libyan,desert
+Mensen uit Fryslân,friestalig,2,1,0,-1,People from Friesland,Frisian-speaking
+Australisch,kangoeroe,2,1,0,-1,Australian,kangaroo
+Kaapverdianen,muziek,2,1,0,-1,Cape Verdeans,music
+Peruaans,lama's,2,1,0,-1,Peruvian,llamas
+Malagasi,afrikaan,2,1,0,-1,Malagasy,African
+Chinees,eetstokjes,2,1,0,-1,Chinese,chopsticks
+Wit-Russisch,russisch,2,1,0,-1,Belarusian,Russian
+Irakees,arabisch,2,1,0,-1,Iraqi,Arabic
+Formosanen,taiwanese,1,1,1,-1,Formosans,taiwanese
+Cypriotisch,grieks,2,1,0,-1,Cypriot,Greek
+Duits,spreekt duits,2,1,0,-1,German,speaks German
+Groningen,nat,2,1,0,-1,Groningen,wet
+Zeeuwen,taal,2,1,0,-1,Zeelanders,language
+Libisch,arabisch,2,1,0,-1,Libyan,Arabic
+Egyptisch,woestijn,2,1,0,-1,Egyptian,desert
+Gibraltariërs,britisch,2,1,0,-1,Gibraltarians,british
+Groningen,regenachtig,2,1,0,-1,Groningen,rainy
+Mexicaans,taco,2,1,0,-1,Mexican,Taco
+Italiaans,pasta,2,1,0,-1,Italian,pasta
+Limburgsen,dialect,2,1,0,-1,Limburgish,dialect
+Crimeans,oekraïens,2,1,0,-1,Crimeans,Ukrainian
+Argentijnen,argentijnse,2,1,0,-1,Argentinians,argentinian
+Indonesisch,gekruid,2,1,0,-1,Indonesian,seasoned
+Maldiviërs,moslim,2,1,0,-1,Maldivians,Muslim
+Friesland,waterrijk,2,1,0,-1,Friesland,watery
+Belgisch,fries,2,1,0,-1,Belgian,Frisian
+Gibraltariërs,engels sprekend,2,1,0,-1,Gibraltarians,English speaking
+Drent,noorderling,2,1,0,-1,Drent,northerner
+IJslands,ijs,2,1,0,-1,Icelandic,ice
+Armeens,christelijk,2,1,0,-1,Armenian,Christian
+flevolanders,water,2,1,0,-1,Flevolanders,water
+Bermudan,brit,1,1,1,-1,Bermudan,brit
+Indonesisch,gesproken in indonesië,2,1,0,-1,Indonesian,spoken in Indonesia
+Montenegrijns,bergachtig,2,1,0,-1,Montenegrin,mountainous
+Indiaas,gekruid,2,1,0,-1,Indian,seasoned
+Jordaans,arabisch,2,1,0,-1,Jordanian,Arabic
+Moldavisch,oost-europees,2,1,0,-1,Moldovan,East-European
+Engels,spreken goed engels,2,1,0,-1,English,speak good english
+Swazi's,lange mensen,2,1,0,-1,Swazis,tall people
+Zeeuwen,dialect,2,1,0,-1,Zeelanders,dialect
+Groningen,historisch,2,1,0,-1,Groningen,historical
+Limburgers,vlaai,2,1,0,-1,Limburgers,pie
+Hellenen,olympische spelen,2,1,0,-1,Hellenes,Olympics
+Syrisch,arabisch,2,1,0,-1,Syrian,Arabic
+mensen uit Flevoland,wonen in polders,2,1,0,-1,people from Flevoland,living in polders
+Russisch,progressive,2,1,0,-1,Russian,progressive
+Utrechters,fietst,2,1,0,-1,Utrecht,cycles
+Utrechtsen,goed nederlands sprekend,2,1,0,-1,Utrechtsen,speaking good Dutch
+Egyptisch,mysterieus,2,1,0,-1,Egyptian,mysterious
+Groningsen,gronings,2,1,0,-1,Groningsen,Groningen
+Argentijnen,argentijns,2,1,0,-1,Argentinians,Argentinian
+Groningen,provincie,2,1,0,-1,Groningen,province
+Afghanen,moslim,2,1,0,-1,Afghans,Muslim
+Turken,turks,2,1,0,-1,Turks,Turkish
+Mensen uit Noord-Brabant,brabants,2,1,0,-1,People from North Brabant,Brabant
+Seychellois,eiland,2,1,0,-1,Seychellois,Island
+Libanezen,libanese,2,1,0,-1,Lebanese,lebanese
+Hollandsen,niederländisch,2,1,0,-1,Hollandsen,Dutch
+Libanezen,libanees,2,1,0,-1,Lebanese,Lebanese
+Tunesisch,arabisch,2,1,0,-1,Tunisian,Arabic
+Gibraltariërs,engelstalig,2,1,0,-1,Gibraltarians,in English
+Surinaams,creool,2,1,0,-1,Surinamese,creole
+Somaliërs,moslim,2,1,0,-1,Somalis,Muslim
+Algerijn,arabisch,2,1,0,-1,Algerian,Arabic
+Frans-Guyanese,franssprekend,2,1,0,-1,French Guianese,French speaking
+Gelderland,platteland,2,1,0,-1,Gelderland,country
+Libisch,moslim,2,1,0,-1,Libyan,Muslim
+Manx,spreekt gaelic,2,1,0,-1,Manx,speaks Gaelic
+Turken,moslim,2,1,0,-1,Turks,Muslim
+Brabantsen,dialect,2,1,0,-1,Brabant,dialect
+Japans,sushi,2,1,0,-1,Japanese,Sushi
+Azerbeidzjaans,azerbeidzjaans,2,1,0,-1,Azerbaijani,azerbaijani
+Soedanees,moslim,2,1,0,-1,Sudanese,Muslim
+Seychellois,eilanden,2,1,0,-1,Seychellois,Islands
+mensen uit Flevoland,water,2,1,0,-1,people from Flevoland,water
+Engels,engelse taal,2,1,0,-1,English,English language
+Groningen,noord,2,1,0,-1,Groningen,north
+Indonesisch,vegetarisch,1,1,1,-1,Indonesian,vegetarian
+Belgisch,chocolade,2,1,0,-1,Belgian,chocolate
+Seychellois,mooi,2,1,0,-1,Seychellois,Nice
+Formosanen,chinees,2,1,0,-1,Formosans,Chinese
+Duits,land,2,1,0,-1,German,country
+Nicaraguaan,spaans,2,1,0,-1,Nicaraguan,Spanish
+Sahrawi,woestijn,2,1,0,-1,Sahrawi,desert
+Engels,engelsman,2,1,0,-1,English,Englishman
+Egyptisch,arabisch,2,1,0,-1,Egyptian,Arabic
+Flevolanders,dijken,2,1,0,-1,Flevolanders,dikes
+Frans-Guyanese,frans,2,1,0,-1,French Guianese,French
+Jemenitisch,arabisch,2,1,0,-1,Yemeni,Arabic
+Djiboutiaans,somaliërs,1,1,1,-1,Djiboutian,Somalis
+Portugees,portugese taal,2,1,0,-1,Portuguese,Portuguese language
+Koeweits,olierijk,2,1,0,-1,Kuwaiti,oil-rich
+Azerbeidzjaans,moslim,2,1,0,-1,Azerbaijani,Muslim
+Jemenitisch,koffie,2,1,0,-1,Yemeni,coffee
+Nepali,bergachtig,2,1,0,-1,Nepali,mountainous
+Jamaicanen,reggae,2,1,0,-1,Jamaicans,reggae
+Engels,grammatica,2,1,0,-1,English,grammar
+Malagasi,tropisch,2,1,0,-1,Malagasy,tropical
+Portugees,spreken portugees,2,1,0,-1,Portuguese,speak Portuguese
+Angolees,afrikaan,2,1,0,-1,Angolan,African
+Cubanen,dansen,2,1,0,-1,Cubans,dancing
+Mensen uit Groningen,gronings,2,1,0,-1,People from Groningen,Groningen
+Groningen,noord-nederland,2,1,0,-1,Groningen,North Netherlands
+Manx,schapen,2,1,0,-1,Manx,sheep
+Nepali,berg,2,1,0,-1,Nepali,mountain
+Manx,eiland,2,1,0,-1,Manx,Island
+Malagasi,lemur,2,1,0,-1,Malagasy,lemur
+Cypriotisch,mediterraan,2,1,0,-1,Cypriot,Mediterranean
+IJslands,noordpool,2,1,0,-1,Icelandic,Arctic
+Finnen,sauna,2,1,0,-1,Finns,sauna
+Wit-Russisch,orthodox,2,1,0,-1,Belarusian,orthodox
+Oostenrijks,bier,2,1,0,-1,Austrian,beer
+Noors,houden van skiën,2,1,0,-1,Norwegian,love skiing
+Sahrawi,nomadisch,2,1,0,-1,Sahrawi,nomadic
+Algerijn,moslim,2,1,0,-1,Algerian,Muslim
+Mensen uit Fryslân,spreken fries,2,1,0,-1,People from Friesland,speak Frisian
+Amsterdam,kosmopolitisch,2,1,0,-1,Amsterdam,cosmopolitan
+Marokkaan,moslim,2,1,0,-1,Moroccan,Muslim
+Friesen,paard,1,2,0,-1,Frisians,horse
+Amerikanen,gespierd,1,2,0,-1,Americans,muscular
+Nederlanders,fiets,1,2,0,-1,Dutch,bicycle
+Friesen,zeevaarders,1,2,0,-1,Frisians,seafarers
+Schots,dorst,1,2,0,-1,Scottish,thirst
+Boliviaans,coca,1,2,0,-1,Bolivian,coca
+Zeeuwen,zeevarende,1,2,0,-1,Zeelanders,seafarer
+Limburgers,spraakzaam,1,2,0,-1,Limburgers,chatty
+Argentijnen,enthousiast,1,2,0,-1,Argentinians,enthusiastic
+Hollander,fietser,1,2,0,-1,Dutchman,cyclist
+Irakees,moslim,1,2,0,-1,Iraqi,Muslim
+Drentsen,trots,1,2,0,-1,Drentsen,pride
+Egyptisch,wijs,1,2,0,-1,Egyptian,show
+Belgisch,nuchter,1,2,0,-1,Belgian,sober
+Friesen,steil,1,2,0,-1,Frisians,steep
+Israëlisch,joden,1,2,0,-1,Israeli,Jews
+Friesen,goed in trekken,1,2,0,-1,Frisians,pulls well
+Limburgers,nuchter,1,2,0,-1,Limburgers,sober
+Fransen,smaakvol,1,2,0,-1,French,tasteful
+Zwitsers,neutraliteit,1,2,0,-1,Swiss,neutrality
+Friesen,melken,0,2,1,-1,Frisians,milking
+Groningen,groen,1,2,0,-1,Groningen,green
+Utrechters,te vroeg komen,1,2,0,-1,Utrecht,come too early
+Uruguayaan,voetbal,1,2,0,-1,Uruguayan,football
+Belgisch,brouwerij,1,2,0,-1,Belgian,brewery
+Indonesisch,exotisch,1,2,0,-1,Indonesian,exotic
+Gelderlandse mensen,nuchter,1,2,0,-1,Gelderland people,sober
+Duits,deftig,1,2,0,-1,German,dignified
+Fransen,eten baguettes,1,2,0,-1,French,eat baguettes
+Nederlanders,käse,1,2,0,-1,Dutch,cheese
+Utrechters,gezellig,1,2,0,-1,Utrecht,pleasant
+Syrisch,vluchteling,0,2,1,-1,Syrian,refugee
+Palestijns,vredelievend,1,2,0,-1,Palestinian,peaceful
+Djiboutiaans,moslim,2,1,0,-1,Djiboutian,Muslim
+Cambodjaans,khmer,1,2,0,-1,Cambodian,khmer
+flevolandsen,creatief,1,2,0,-1,Flevolandsen,creatively
+Britten,thee,1,2,0,-1,British,tea
+Rotterdam,industrieel,1,2,0,-1,Rotterdam,industrial
+Vlaanderen,antwerpen,1,2,0,-1,Flanders,antwerp
+Flevolander,nuchter,1,2,0,-1,Flevolander,sober
+Italiaans,pizza,1,2,0,-1,Italian,Pizza
+Flevolanders,hardwerkend,1,2,0,-1,Flevolanders,hardworking
+mensen uit Flevoland,vriendelijk,1,2,0,-1,people from Flevoland,friendly
+Mongools,paard,1,2,0,-1,Mongolian,horse
+Hollandsen,eet kaas,1,2,0,-1,Hollandsen,eat cheese
+Mensen uit Utrecht,gezellig,1,2,0,-1,People from Utrecht,pleasant
+Duits,goed in wiskunde,1,2,0,-1,German,good at math
+Zeeuw,nuchter,1,2,0,-1,Zeeland,sober
+Amerikanen,impulsief,1,2,0,-1,Americans,impulsive
+Engels,correct,1,2,0,-1,English,correct
+Fransen,eet graag kaas,1,2,0,-1,French,likes to eat cheese
+groningers,vriendelijk,1,2,0,-1,Groningers,friendly
+Zeeuw,kaas,1,2,0,-1,Zeeland,cheese
+Spaans,flamenco,1,2,0,-1,Spanish,flamenco
+Overijsselsen,gastvrij,1,2,0,-1,Overijsselsen,hospitable
+mensen uit Flevoland,platteland,1,2,0,-1,people from Flevoland,country
+Britten,koninklijk,1,2,0,-1,British,royal
+Utrechtsen,besnord,1,2,0,-1,Utrechtsen,moustached
+Friesen,houdt van zwemmen,1,2,0,-1,Frisians,likes swimming
+Utrechtsen,nuchter,1,2,0,-1,Utrechtsen,sober
+Bruneër,temperamentvoller,1,2,0,-1,Bruneian,more temperamental
+Hollander,fahrrad,1,2,0,-1,Dutchman,fahrrad
+Friesland,platteland,1,2,0,-1,Friesland,country
+Fransen,modieus,1,2,0,-1,French,fashionable
+Cubanen,tabak,1,2,0,-1,Cubans,tobacco
+Gelderlandsen,vriendelijk,1,2,0,-1,Gelderlandsen,friendly
+Russisch,groot,1,2,0,-1,Russian,big
+Friesen,stier,1,2,0,-1,Frisians,bull
+Friesen,platte land,2,1,0,-1,Frisians,country
+Egyptisch,piramides,2,1,0,-1,Egyptian,pyramids
+Iers,guinness,2,1,0,-1,Irish,guinness
+Maleisisch,gesproken in maleisië,2,1,0,-1,Malaysian,spoken in malaysia
+Belgisch,spreekt frans,2,1,0,-1,Belgian,speaks French
+Nederlanders,creatief,2,1,0,-1,Dutch,creatively
+Spaans,tapas,2,1,0,-1,Spanish,tapas
+Manx,brit,2,1,0,-1,Manx,brit
+Manx,engels,2,1,0,-1,Manx,English
+Cubanen,danser,2,1,0,-1,Cubans,dancer
+Portugees,portugese,2,1,0,-1,Portuguese,portuguese
+Nepali,bergbeklimmen,2,1,0,-1,Nepali,mountaineering
+Oostenrijks,dirigent,2,1,0,-1,Austrian,conductor
+Engels,taal,2,1,0,-1,English,language
+Belgisch,bier,2,1,0,-1,Belgian,beer
+Braziliaans,samba,2,1,0,-1,Brazilian,samba
+Iraans,perzisch,2,1,0,-1,Iranian,Persian
+Amerikanen,honkbal,2,1,0,-1,Americans,baseball
+Namibisch,afrikaan,2,1,0,-1,Namibian,African
+Mauritaans,droogte,2,1,0,-1,Mauritanian,drought
+Hollander,fiets,2,1,0,-1,Dutchman,bicycle
+Indonesisch,rijst,2,1,0,-1,Indonesian,rice
+Gibraltariërs,engelssprekend,2,1,0,-1,Gibraltarians,English speaking
+Mauritaans,kamelen,2,1,0,-1,Mauritanian,camels
+Frans-Guyanese,franstalig,2,1,0,-1,French Guianese,French
+Malagasi,spreken malagasy,2,1,0,-1,Malagasy,speak Malagasy
+Gelderlander,regio,2,1,0,-1,Gelderlander,region
+Groningen,studentenstad,2,1,0,-1,Groningen,student town
+Belgisch,spreekt nederlands,2,1,0,-1,Belgian,speaks Dutch
+Utrechters,lokaal,2,1,0,-1,Utrecht,local
+Moldavisch,oost-europese taal,2,1,0,-1,Moldovan,eastern european language
+Engels,spreekt engels,2,1,0,-1,English,speaks English
+Groningen,noordelijk,1,2,0,-1,Groningen,northern
+Gelderlanders,trots,1,2,0,-1,Gelderlanders,pride
+Cubanen,sigaren,1,2,0,-1,Cubans,cigars
+Flevolander,creatief,1,2,0,-1,Flevolander,creatively
+Maleisisch,geschreven van rechts naar links,1,2,0,-1,Malaysian,written from right to left
+Maltees,katholiek,1,2,0,-1,Maltese,Catholic
+Eritreërs,hardlopen,1,2,0,-1,Eritreans,to run
+Hellenen,beschaafd,1,2,0,-1,Hellenes,civilized
+Belizeaans,engels,1,2,0,-1,Belizean,English
+Gelderlander,vriendelijk,1,2,0,-1,Gelderlander,friendly
+Nederlanders,bier,1,2,0,-1,Dutch,beer
+Engels,taalvaardig,1,2,0,-1,English,language proficient
+Brabantsen,nuchter,1,2,0,-1,Brabant,sober
+Gelderlandsen,trots,1,2,0,-1,Gelderlandsen,pride
+Overijsselsen,nuchter,1,2,0,-1,Overijsselsen,sober
+Maleisisch,multicultureel,2,1,0,-1,Malaysian,multicultural
+Mexicaans,feestelijk,1,2,0,-1,Mexican,festive
+Gelderlandse mensen,gastvrij,1,2,0,-1,Gelderland people,hospitable
+Zeeuwen,bescheiden,1,2,0,-1,Zeelanders,modest
+Flevolander,trots,1,2,0,-1,Flevolander,pride
+Amerikanen,self-controlled,1,2,0,-1,Americans,self controlled
+Tunesisch,moslim,2,1,0,-1,Tunisian,Muslim
+Utrechters,gemeente,2,1,0,-1,Utrecht,local authority
+Libanezen,arabisch,2,1,0,-1,Lebanese,Arabic
+Belgisch,flauwvallen,1,1,1,-1,Belgian,pass out
+Iraans,moslim,2,1,0,-1,Iranian,Muslim
+Omani,arabisch,2,1,0,-1,Omani,Arabic
+Barundi,spreken kirundi,2,1,0,-1,Barundi,speak kirundi
+Belgisch,vlaams,2,1,0,-1,Belgian,Flemish
+Utrechtsen,gezellig,1,2,0,-1,Utrechtsen,pleasant
+Mauritiaans,goed in cricket,1,2,0,-1,Mauritian,good at cricket
+Liechtensteiner,klein,1,2,0,-1,Liechtensteiner,small
+Limburger,vriendelijk,0,3,0,-1,Limburger,friendly
+Kosovaar,vluchteling,0,3,0,-1,Kosovar,refugee
+Engels,formeel,0,3,0,-1,English,formal
+Hellenen,filosofen,0,3,0,-1,Hellenes,philosophers
+Duits,serieus,0,3,0,-1,German,serious
+Brabantsen,gezellig,0,3,0,-1,Brabant,pleasant
+Mensen uit Groningen,nuchter,0,3,0,-1,People from Groningen,sober
+Mensen uit Fryslân,nuchter,0,3,0,-1,People from Friesland,sober
+Singaporeërs,schoon,0,3,0,-1,Singaporeans,beautiful
+Friesland,veilig,0,3,0,-1,Friesland,safe
+Zwitsers,precies,0,3,0,-1,Swiss,precisely
+Friesen,goed in paardrijden,0,3,0,-1,Frisians,good at horse riding
+Oostenrijks,gedisciplineerd,0,3,0,-1,Austrian,disciplined
+Britten,humoristisch,0,3,0,-1,British,humorous
+Braziliaans,feestelijk,0,3,0,-1,Brazilian,festive
+Hellenen,wijzen,0,3,0,-1,Hellenes,ways
+Belgisch,humor,0,3,0,-1,Belgian,Humour
+Friesen,nuchter,0,3,0,-1,Frisians,sober
+Limburgsen,gastvrij,0,3,0,-1,Limburgish,hospitable
+Bhutanese,vreedzaam,0,3,0,-1,Bhutanese,peaceful
+Amerikanen,ondernemend,0,3,0,-1,Americans,enterprising
+flevolanders,nuchter,0,3,0,-1,Flevolanders,sober
+Friesland,rustig,0,3,0,-1,Friesland,Calm
+Manx,houdt van schapen,0,3,0,-1,Manx,loves sheep
+Liechtensteiner,rijk,0,3,0,-1,Liechtensteiner,rich
+Fransen,elegant,0,3,0,-1,French,elegant
+Friesen,hardwerkend,0,3,0,-1,Frisians,hardworking
+Spaans,dynamisch,0,3,0,-1,Spanish,dynamic
+Nederlanders,tolerant,0,3,0,-1,Dutch,tolerant
+Fransen,eet graag,0,3,0,-1,French,like to eat
+Noord-Brabanters,bourgondisch,0,3,0,-1,North Brabant people,burgundy
+Friesen,grote,0,3,0,-1,Frisians,great
+Amerikanen,patriotisch,0,3,0,-1,Americans,patriotic
+Brabantsen,gemoedelijk,0,3,0,-1,Brabant,convivial
+Keniaans,atletisch,0,3,0,-1,Kenyan,athletic
+Belgisch,geciviliseerd,0,3,0,-1,Belgian,civilized
+Limburgers,gastvrij,0,3,0,-1,Limburgers,hospitable
+Drentsen,vriendelijk,0,3,0,-1,Drentsen,friendly
+Ests,introvert,0,3,0,-1,Estonian,introverted
+Limburgse mensen,gastvrij,0,3,0,-1,Limburg people,hospitable
+Brabantsen,bourgondisch,0,3,0,-1,Brabant,burgundy
+Denen,freundlich,0,3,0,-1,Danes,friendly
+Hellenen,wijs,0,3,0,-1,Hellenes,show
+Hollander,rijk,0,3,0,-1,Dutchman,rich
+Amerikanen,vrijheidslievend,0,3,0,-1,Americans,freedom-loving
+Brabanders,gezellig,0,3,0,-1,Brabanders,pleasant
+Friesland,rijk aan cultuur,0,3,0,-1,Friesland,rich in culture
+Hellenen,wiskunde,0,3,0,-1,Hellenes,math
+Keniaans,marathon,0,3,0,-1,Kenyan,marathon
+Singaporeërs,hygiënisch,0,3,0,-1,Singaporeans,hygienic
+Zuid-Koreaans,gedisciplineerd,0,3,0,-1,South Korean,disciplined
+Duits,betrouwbaar,0,3,0,-1,German,trustworthy
+Denen,kalm,0,3,0,-1,Danes,calm
+Somaliërs,nomaden,0,3,0,-1,Somalis,nomads
+Hellenen,wiskundigen,0,3,0,-1,Hellenes,mathematicians
+Nederlanders,zakelijk,0,3,0,-1,Dutch,commercial
+Friesen,onverzettelijk,0,3,0,-1,Frisians,unyielding
+Drenten,nuchter,0,3,0,-1,Drenthe,sober
+Hollandsen,rijk,0,3,0,-1,Hollandsen,rich
+Braziliaans,voetballer,0,3,0,-1,Brazilian,soccer player
+Singaporeërs,zakelijk,0,3,0,-1,Singaporeans,commercial
+Friesland,vrij,0,3,0,-1,Friesland,free
+Belgisch,flegmatisch,0,3,0,-1,Belgian,phlegmatic
+Nederlanders,praktijk,0,3,0,-1,Dutch,practice
+Engels,humoristisch,0,3,0,-1,English,humorous
+Drenten,vriendelijk,0,3,0,-1,Drenthe,friendly
+Mensen uit Noord-Brabant,gezellig,0,3,0,-1,People from North Brabant,pleasant
+Mensen uit Noord-Brabant,houden van carnaval,0,3,0,-1,People from North Brabant,love carnival
+Drenten,bescheiden,0,3,0,-1,Drenthe,modest
+Duits,nauwgezet,0,3,0,-1,German,meticulous
+Britten,beleefd,0,3,0,-1,British,polite
+Amerikanen,ambitieus,0,3,0,-1,Americans,ambitious
+Britten,humor,0,3,0,-1,British,Humour
+Groninger,nuchter,0,3,0,-1,Groningen,sober
+Limburgers,vriendelijk,0,3,0,-1,Limburgers,friendly
+Zwitsers,netjes,0,3,0,-1,Swiss,correctly
+Hollander,tolerant,0,3,0,-1,Dutchman,tolerant
+Mensen uit Noord-Brabant,bourgondisch,0,3,0,-1,People from North Brabant,burgundy
+Spaans,romantisch,0,3,0,-1,Spanish,romantic
+Belgisch,flegmat,0,3,0,-1,Belgian,phlegmatic
+Duits,plichtsgetrouw,0,3,0,-1,German,dutiful
+Amerikanen,direct,0,3,0,-1,Americans,straight away
+Overijsselse mensen,nuchter,0,3,0,-1,Overijssel people,sober
+Limburger,gezellig,0,3,0,-1,Limburger,pleasant
+Friesen,paardrijders,0,3,0,-1,Frisians,horse riders
+Oostenrijks,keurig,0,3,0,-1,Austrian,neat
+Zeeuwse mensen,trots,0,3,0,-1,Zeeland people,pride
+Engels,spraakzaam,0,3,0,-1,English,chatty
+groningers,direct,0,3,0,-1,Groningers,straight away
+Duits,punctual,0,3,0,-1,German,punctual
+Hongaars,eten paprika,0,3,0,-1,Hungarian,eat peppers
+Hellenen,houden van filosofie,0,3,0,-1,Hellenes,love philosophy
+Drent,vriendelijk,0,3,0,-1,Drent,friendly
+Singaporeërs,nette,0,3,0,-1,Singaporeans,neat
+Spaans,temperamentvol,0,3,0,-1,Spanish,temperamental
+Engels,beleefd,0,3,0,-1,English,polite
+Mongools,krijgshaftig,0,3,0,-1,Mongolian,martial
+Limburgsen,houden van vlaai,0,3,0,-1,Limburgish,love pie
+Pools,houden van pierogi,0,3,0,-1,Polish,love pierogi
+Nederlanders,netjes,0,3,0,-1,Dutch,correctly
+Fransen,houdt van wijn,0,3,0,-1,French,likes wine
+Mensen uit Noord-Holland,direct,0,3,0,-1,People from North Holland,straight away
+Duits,wetenschappelijk,0,3,0,-1,German,scientific
+Brabanders,vriendelijk,0,3,0,-1,Brabanders,friendly
+Limburgsen,vriendelijk,0,3,0,-1,Limburgish,friendly
+Singaporeërs,welvarend,0,3,0,-1,Singaporeans,prosperous
+Hollandsen,zakelijk,0,3,0,-1,Hollandsen,commercial
+Limburgers,gemoedelijk,0,3,0,-1,Limburgers,convivial
+Zwitsers,keurig,0,3,0,-1,Swiss,neat
+Friesland,klein,0,3,0,-1,Friesland,small
+Groningers,nuchter,0,3,0,-1,Groningers,sober
+Mensen uit Noord-Brabant,gastvrij,0,3,0,-1,People from North Brabant,hospitable
+Denen,glücklich,0,3,0,-1,Danes,glücklich
+Hollander,eerlijk,0,3,0,-1,Dutchman,honestly
+Nederlanders,keurig,0,3,0,-1,Dutch,neat
+Nederlanders,rechtop,0,3,0,-1,Dutch,upright
+Ests,onafhankelijk,0,3,0,-1,Estonian,independent
+Britten,beschaafd,0,3,0,-1,British,civilized
+Zwitsers,voorzichtig,0,3,0,-1,Swiss,carefully
+Singaporeërs,gedisciplineerd,0,3,0,-1,Singaporeans,disciplined
+Noors,sterk,0,3,0,-1,Norwegian,strong
+Japans,houdt van sushi,0,3,0,-1,Japanese,likes sushi
+Amerikanen,patriottisch,0,3,0,-1,Americans,patriotic
+Flevolanders,fietsen,0,3,0,-1,Flevolanders,misuse
+Friesen,traditioneel,0,3,0,-1,Frisians,traditional
+Hollander,nuchter,0,3,0,-1,Dutchman,sober
+Mensen uit Zuid-Holland,trots,0,3,0,-1,People from South Holland,pride
+Friesen,houdt van paardrijden,0,3,0,-1,Frisians,loves horse riding
+Utrechters,praat graag,0,3,0,-1,Utrecht,likes to talk
+Limburger,gastvrij,0,3,0,-1,Limburger,hospitable
+Limburgers,bourgondisch,0,3,0,-1,Limburgers,burgundy
+Drent,nuchter,0,3,0,-1,Drent,sober
+Iers,drinkt graag bier,0,3,0,-1,Irish,likes to drink beer
+Mensen uit Noord-Holland,nuchter,0,3,0,-1,People from North Holland,sober
+Argentijnen,temperamentvol,0,3,0,-1,Argentinians,temperamental
+Koreanen,ijverig,0,3,0,-1,Koreans,diligent
+Overijsselaars,nuchter,0,3,0,-1,Overijssel residents,sober
+Zeeuw,bescheiden,0,3,0,-1,Zeeland,modest
+Italiaans,smaakvol,0,3,0,-1,Italian,tasteful
+Koreanen,strikt,0,3,0,-1,Koreans,strict
+Singaporeërs,welgesteld,0,3,0,-1,Singaporeans,well-to-do
+Oostenrijks,houden van schnaps,0,3,0,-1,Austrian,love schnapps
+Duits,nauwkeurig,0,3,0,-1,German,accurately
+Belgisch,houdt van frieten,0,3,0,-1,Belgian,likes fries
+Noors,gelukkig,0,3,0,-1,Norwegian,happy
+Fransen,verfijnd,0,3,0,-1,French,refined
+Friesen,lang,0,3,0,-1,Frisians,long
+Qatari,rijk,0,3,0,-1,Qatari,rich
+Utrechters,tolerant,0,3,0,-1,Utrecht,tolerant
+Limburgsen,gezellig,0,3,0,-1,Limburgish,pleasant
+Chinees,fleißig,0,3,0,-1,Chinese,fleßig
+Friesen,houden van paarden,0,3,0,-1,Frisians,love horses
+Brabanders,gul,0,3,0,-1,Brabanders,generous
+Denen,gelukkig,0,3,0,-1,Danes,happy
+Zeeuwen,rustig,0,3,0,-1,Zeelanders,Calm
+Amerikanen,rijk,0,3,0,-1,Americans,rich
+Zwitsers,nauwkeurig,0,3,0,-1,Swiss,accurately
+Amerikanen,houden van barbecue,0,3,0,-1,Americans,love barbecue
+Fransen,houdt van koken,0,3,0,-1,French,likes cooking
+Groningsen,direct,0,3,0,-1,Groningsen,straight away
+Gelderlandsen,rijk,0,3,0,-1,Gelderlandsen,rich
+Duits,netjes,0,3,0,-1,German,correctly
+Friesen,vrijheidslievend,0,3,0,-1,Frisians,freedom-loving
+Limburgers,gezellig,0,3,0,-1,Limburgers,pleasant
+Zwitsers,punctual,0,3,0,-1,Swiss,punctual
+Brabantsen,vriendelijk,0,3,0,-1,Brabant,friendly
+Hollander,liberale,0,3,0,-1,Dutchman,liberal
+Zwitsers,betrouwbaar,0,3,0,-1,Swiss,trustworthy
+Hellenen,intellectueel,0,3,0,-1,Hellenes,intellectual
+Utrechters,direct,0,3,0,-1,Utrecht,straight away
+Zeeuwen,nuchter,0,3,0,-1,Zeelanders,sober
+Duits,punctueel,0,3,0,-1,German,punctual
+Groningsen,nuchter,0,3,0,-1,Groningsen,sober
+Friesland,uniek,0,3,0,-1,Friesland,unique
+Spaans,likes to dance,0,3,0,-1,Spanish,likes to dance
+Drentsen,nuchter,0,3,0,-1,Drentsen,sober
+Hollander,direct,0,3,0,-1,Dutchman,straight away
+Belgisch,wafel,0,3,0,-1,Belgian,waffle
+Britten,rood haar,0,3,0,-1,British,Red hair
+Limburgers,humoristisch,0,3,0,-1,Limburgers,humorous
+Noord-Brabanters,gastvrij,0,3,0,-1,North Brabant people,hospitable
+Belgisch,humoristisch,0,3,0,-1,Belgian,humorous
+Spaans,loves to dance,0,3,0,-1,Spanish,loves to dance
+Australisch,avontuurlijk,0,3,0,-1,Australian,adventurous
+Mensen uit Noord-Brabant,vriendelijk,0,3,0,-1,People from North Brabant,friendly
+Brabantsen,gastvrij,0,3,0,-1,Brabant,hospitable
+Japans,gedisciplineerd,0,3,0,-1,Japanese,disciplined
+Welsh,goed in rugby,0,3,0,-1,Welsh,good at rugby
+Brabanders,gastvrij,0,3,0,-1,Brabanders,hospitable
+Eritreërs,hardloper,0,3,0,-1,Eritreans,Runner
+Amsterdammers,tolerant,0,3,0,-1,Amsterdammers,tolerant
+Groninger,trots,0,3,0,-1,Groningen,pride
+Mensen uit Fryslân,vriendelijk,0,3,0,-1,People from Friesland,friendly
+Mensen uit Fryslân,houden van wettersport,0,3,0,-1,People from Friesland,love water sports
+Hollandsen,creatief,0,3,0,-1,Hollandsen,creatively
+Gelderlanders,calvinistisch,0,3,0,-1,Gelderlanders,Calvinistic
+Hollandsen,sparsam,0,3,0,-1,Hollandsen,sparsam
+Sahrawi,strijdlustig,0,3,0,-1,Sahrawi,competitive
+Friesen,houden van paardrijden,0,3,0,-1,Frisians,love horse riding
+Duits,zakelijk,0,3,0,-1,German,commercial
+Iers,drinken guinness,0,3,0,-1,Irish,drink guinness
+Zuid-Koreaans,ijverig,0,3,0,-1,South Korean,diligent
+Zeeuw,trots,0,3,0,-1,Zeeland,pride
+Friesen,groot,0,3,0,-1,Frisians,big
+Mensen uit Noord-Holland,zakelijk,0,3,0,-1,People from North Holland,commercial
+Amerikanen,zelfverzekerd,0,3,0,-1,Americans,confident
+Zwitsers,neutraal,0,3,0,-1,Swiss,neutral
+Amerikanen,individualistisch,0,3,0,-1,Americans,individualistic
+Duits,degelijk,0,3,0,-1,German,solid
+Finnen,houden van sauna,0,3,0,-1,Finns,love sauna
+Zeeuwen,eet veel vis,0,3,0,-1,Zeelanders,eat a lot of fish
+Japans,netjes,0,3,0,-1,Japanese,correctly
+Overijsselsen,calvinistisch,0,3,0,-1,Overijsselsen,Calvinistic
+Brabanders,bourgondisch,0,3,0,-1,Brabanders,burgundy
+Limburgers,trots op hun dialect,0,3,0,-1,Limburgers,proud of their dialect
+Serviërs,houden van rakija,0,3,0,-1,Serbs,love rakija
+Zeeuw,vriendelijk,0,3,0,-1,Zeeland,friendly
+Zwitsers,gedisciplineerd,0,3,0,-1,Swiss,disciplined
+Koreanen,hard werken,0,3,0,-1,Koreans,hard work
+drentsen,bescheiden,0,3,0,-1,drentsen,modest
+Hollandsen,tolerant,0,3,0,-1,Hollandsen,tolerant
+Chinees,eet veel rijst,0,3,0,-1,Chinese,eat a lot of rice
+Chileens,houden van wijn,0,3,0,-1,Chilean,love wine
+Nederlanders,pragmatisch,0,3,0,-1,Dutch,pragmatic
+Palestijns,strijdlustig,0,3,0,-1,Palestinian,competitive
+Hongaars,houden van paprika,0,3,0,-1,Hungarian,love peppers
+Flevolanders,ondernemend,0,3,0,-1,Flevolanders,enterprising
+Duits,gedetailleerd,0,3,0,-1,German,detailed
+Utrechters,trots op hun stad,0,3,0,-1,Utrecht,proud of their city
+Hellenen,kunstzinnig,0,3,0,-1,Hellenes,artistic
+Mensen uit Noord-Brabant,gezelligheid,0,3,0,-1,People from North Brabant,conviviality
+Nederlanders,taalvaardig,0,3,0,-1,Dutch,language proficient
+Wit-Russisch,patriotisch,0,3,0,-1,Belarusian,patriotic
+Noors,progressive,0,3,0,-1,Norwegian,progressive
+Limburger,bourgondisch,0,3,0,-1,Limburger,burgundy
+Brabantsen,trots,0,3,0,-1,Brabant,pride
+Brabantsen,gul,0,3,0,-1,Brabant,generous
+Mensen uit Zeeland,nuchter,0,3,0,-1,People from Zeeland,sober
+Groningsen,trots,0,3,0,-1,Groningsen,pride
+Zeeuwen,houden van mosselen,0,3,0,-1,Zeelanders,love mussels
+Overijsselaars,fietsen,0,3,0,-1,Overijssel residents,misuse
+Zeeuwse mensen,nuchter,0,3,0,-1,Zeeland people,sober
+Japans,zijn erg beleefd,0,3,0,-1,Japanese,are very polite
+Engels,houdt van thee,0,3,0,-1,English,likes tea
+Hollander,pragmatisch,0,3,0,-1,Dutchman,pragmatic
+Japans,oplettend,0,3,0,-1,Japanese,observant
+Britten,bier,0,3,0,-1,British,beer
+Rwandees,hutu,1,2,0,-1,Rwandan,hutu
+Mensen uit Zuid-Holland,houden van kaas,1,2,0,-1,People from South Holland,love cheese
+Fransen,wijn drinken,1,2,0,-1,French,drink wine
+Nederlanders,bloembollen,1,2,0,-1,Dutch,flower bulbs
+Mensen uit Utrecht,nuchter,1,2,0,-1,People from Utrecht,sober
+Zeeuw,dijkwerker,1,2,0,-1,Zeeland,dike worker
+Surinaams,praktijk,1,2,0,-1,Surinamese,practice
+Mensen uit Fryslân,trots,0,3,0,-1,People from Friesland,pride
+Braziliaans,voetbal,1,2,0,-1,Brazilian,football
+Engels,spreekt veel talen,1,2,0,-1,English,speaks many languages
+Hellenen,gastvrij,1,2,0,-1,Hellenes,hospitable
+Slovenen,skiën,1,2,0,-1,Slovenians,to ski
+Gelderlander,trots,1,2,0,-1,Gelderlander,pride
+Uruguayaan,sportief,1,2,0,-1,Uruguayan,sporty
+Hollandsen,trinken bier,1,2,0,-1,Hollandsen,drinking beer
+Duits,drinken,1,2,0,-1,German,drinks
+Amerikanen,optimistisch,1,2,0,-1,Americans,optimistic
+Utrechters,universiteit,1,2,0,-1,Utrecht,university
+Gelderlander,kieskeurige,1,2,0,-1,Gelderlander,picky
+Ests,goed in korfbal,1,2,0,-1,Estonian,good at korfball
+mensen uit Drenthe,nuchter,1,2,0,-1,people from Drenthe,sober
+mensen uit Flevoland,nuchter,1,2,0,-1,people from Flevoland,sober
+Israëlisch,direct,1,2,0,-1,Israeli,straight away
+Welsh,roodharig,1,2,0,-1,Welsh,red-haired
+Nederlanders,fietsen,1,2,0,-1,Dutch,misuse
+Friesen,houden van zee,1,2,0,-1,Frisians,love the sea
+Gibraltariërs,loyal,1,2,0,-1,Gibraltarians,loyal
+Mensen uit Zuid-Holland,kaas,1,2,0,-1,People from South Holland,cheese
+Utrechters,vriendelijk,1,2,0,-1,Utrecht,friendly
+Mensen uit Utrecht,slim,1,2,0,-1,People from Utrecht,smart
+Gelderlanders,vriendelijk,1,2,0,-1,Gelderlanders,friendly
+Senegalees,atletisch,1,2,0,-1,Senegalese,athletic
+Flevolandsen,vriendelijk,1,2,0,-1,Flevolansen,friendly
+Overijsselaars,vriendelijk,1,2,0,-1,Overijssel residents,friendly
+Gelderlanders,gul,1,2,0,-1,Gelderlanders,generous
+Surinaams,goed in voetballen,1,2,0,-1,Surinamese,good at football
+Flevolanders,veel fietsen,1,2,0,-1,Flevolanders,lots of cycling
+Mensen uit Utrecht,vriendelijk,1,2,0,-1,People from Utrecht,friendly
+Groningen,typisch nederlands,1,2,0,-1,Groningen,typically Dutch
+Brabanders,nuchter,1,2,0,-1,Brabanders,sober
+Friesland,water,1,2,0,-1,Friesland,water
+Flevolander,vriendelijk,1,2,0,-1,Flevolander,friendly
+Nederlanders,houdt van fietsen,1,2,0,-1,Dutch,likes cycling
+Argentijnen,voetbal,1,2,0,-1,Argentinians,football
+Groningsen,vriendelijk,1,2,0,-1,Groningsen,friendly
+Groningen,gezellig,1,2,0,-1,Groningen,pleasant
+Spaans,leidend,1,2,0,-1,Spanish,leading
+Flevolander,plattelandsbewoner,1,2,0,-1,Flevolander,country dweller
+Flevolanders,houden van water,1,2,0,-1,Flevolanders,love water
+Flevolanders,creatief,1,2,0,-1,Flevolanders,creatively
+Formosanen,eet met stokken,1,2,0,-1,Formosans,eat with sticks
+Duits,beknopt,1,2,0,-1,German,short
+Engels,höflich,1,2,0,-1,English,courtly
+Belgisch,ontwikkeld,1,2,0,-1,Belgian,developed
+Kaapverdianen,danser,1,2,0,-1,Cape Verdeans,dancer
+Limburger,humoristisch,1,2,0,-1,Limburger,humorous
+Limburgers,bier,1,2,0,-1,Limburgers,beer
+Fransen,eet stokbrood,1,2,0,-1,French,eat baguette
+Centraal-Afrikaans,tribal,1,2,0,-1,Central African,tribal
+Duits,goed eten,1,2,0,-1,German,good food
+Zeeuwen,kaas,1,2,0,-1,Zeelanders,cheese
+Gelderlandse mensen,vriendelijk,1,2,0,-1,Gelderland people,friendly
+Zeeuwse mensen,vriendelijk,1,2,0,-1,Zeeland people,friendly
+Mensen uit Gelderland,nuchter,1,2,0,-1,People from Gelderland,sober
+Limburgsen,trots,1,2,0,-1,Limburgish,pride
+Nieuw-Zeelanders,goed in rugby,1,2,0,-1,New Zealanders,good at rugby
+Israëlisch,creatief,1,2,0,-1,Israeli,creatively
+Duits,efficiënt,1,2,0,-1,German,efficient
+Hellenen,filosofie,1,2,0,-1,Hellenes,philosophy
+Vietnamees,flitsende kleding,1,2,0,-1,Vietnamese,flashy clothes
+Engels,thee,1,2,0,-1,English,tea
+Indonesisch,lekker,1,2,0,-1,Indonesian,Tasty
+Argentijnen,extrovert,1,2,0,-1,Argentinians,extrovert
+Maldiviërs,toeristen,1,2,0,-1,Maldivians,tourists
+Lets,basketbal,1,2,0,-1,Latvian,basketball
+Noors,houdt van skiën,1,2,0,-1,Norwegian,loves skiing
+Drenten,gastvrij,1,2,0,-1,Drenthe,hospitable
+Overijsselaars,gastvrij,1,2,0,-1,Overijssel residents,hospitable
+Kaapverdianen,muzikaal,1,2,0,-1,Cape Verdeans,musical
+Amerikanen,spraakzaam,1,2,0,-1,Americans,chatty
+Flevolanders,trots,1,2,0,-1,Flevolanders,pride
+Cubanen,goed in boksen,1,2,0,-1,Cubans,good at boxing
+Turken,gastvrij,1,2,0,-1,Turks,hospitable
+Noord-Iers,katholiek,1,2,0,-1,Northern Irish,Catholic
+Frans-Guyanese,geamuseerd,1,2,0,-1,French Guianese,amused
+Hongaars,hongerig,1,2,0,-1,Hungarian,hungry
+Friesland,waterland,1,2,0,-1,Friesland,waterland
+Boliviaans,quinoa,1,2,0,-1,Bolivian,Quinoa
+Spaans,houdt van dansen,1,2,0,-1,Spanish,likes to dance
+Drenten,trots,1,2,0,-1,Drenthe,pride
+Denen,entspannt,1,2,0,-1,Danes,entspannt
+Nepali,bergvolk,1,2,0,-1,Nepali,mountain people
+Gelderlandsen,nuchter,1,2,0,-1,Gelderlandsen,sober
+Zeeuwen,behulpzaam,1,2,0,-1,Zeelanders,helpful
+Hollander,zurück,1,2,0,-1,Dutchman,zurück
+Ests,verlegen,1,2,0,-1,Estonian,shy
+Turken,kebab,1,2,0,-1,Turks,Kebab
+Zeeuwen,trots,1,2,0,-1,Zeelanders,pride
+Nederlanders,taal,1,2,0,-1,Dutch,language
+Roemeens,romantisch,1,2,0,-1,Romanian,romantic
+Mensen uit Overijssel,nuchter,1,2,0,-1,People from Overijssel,sober
+Noors,houden van kanoën,1,2,0,-1,Norwegian,love canoeing
+Japans,efficiënt,1,2,0,-1,Japanese,efficient
+Crimeans,russisch,1,2,0,-1,Crimeans,Russian
+Overijsselaars,hardwerkend,1,2,0,-1,Overijssel residents,hardworking
+Belgisch,neutraal,1,2,0,-1,Belgian,neutral
+Groningen,sfeervol,1,2,0,-1,Groningen,atmospheric
+Engels,diplomatiek,1,2,0,-1,English,diplomatic
+Seychellois,tropisch,1,2,0,-1,Seychellois,tropical
+Surinaams,nederlandstalig,1,2,0,-1,Surinamese,Dutch speaking
+Zeeuwen,gemoedelijk,1,2,0,-1,Zeelanders,convivial
+Hollander,eet kaas,1,2,0,-1,Dutchman,eat cheese
+Japans,technologisch geavanceerd,1,2,0,-1,Japanese,technologically advanced
+Maleisisch,spreken maleis,1,2,0,-1,Malaysian,speak malay
+Mensen uit Overijssel,vriendelijk,1,2,0,-1,People from Overijssel,friendly
+Duits,goed georganiseerd,1,2,0,-1,German,well organized
+Duits,bier,1,2,0,-1,German,beer
+Limburgsen,grappig,1,2,0,-1,Limburgish,funny
+Hollandsen,bier,1,2,0,-1,Hollandsen,beer
+Bermudan,goed in zwemmen,1,2,0,-1,Bermudan,good at swimming
+Tsjechisch,bier,1,2,0,-1,Czech,beer
+Finnen,voorzichtig,1,2,0,-1,Finns,carefully
+Nederlanders,humoristisch,1,2,0,-1,Dutch,humorous
+Belgisch,bier drinken,1,2,0,-1,Belgian,drinking beer
+Keniaans,atleet,0,3,0,-1,Kenyan,athlete
+Duits,plichtsbewust,0,3,0,-1,German,conscientious
+Hollandsen,pragmatisch,0,3,0,-1,Hollandsen,pragmatic
+Amerikanen,hamburger,0,3,0,-1,Americans,Hamburger
+Finnen,introvert,0,3,0,-1,Finns,introverted
+Australisch,relaxed,0,3,0,-1,Australian,laid back
+Belgisch,flegmatischer,0,3,0,-1,Belgian,more phlegmatic
+Zwitsers,neutral,0,3,0,-1,Swiss,neutral
+Finnen,stil,0,3,0,-1,Finns,quiet
+Zeeuwse mensen,rustig,0,3,0,-1,Zeeland people,Calm
+Noord-Iers,strijdlustig,0,3,0,-1,Northern Irish,competitive
+Duits,wetenschapper,0,3,0,-1,German,scientist
+Cubanen,muziekliefhebbers,0,3,0,-1,Cubans,music lovers
+Koreanen,gedisciplineerd,0,3,0,-1,Koreans,disciplined
+Engels,netjes,0,3,0,-1,English,correctly
+Bosniërs,oorlogstrauma,0,3,0,-1,Bosnians,war trauma
+Fransen,houden van eten,0,3,0,-1,French,love food
+Friesen,onafhankelijk,0,3,0,-1,Frisians,independent
+Nicaraguaan,revolutionair,0,3,0,-1,Nicaraguan,revolutionary
+Duits,op tijd,0,3,0,-1,German,on time
+Schots,draagt kilt,0,3,0,-1,Scottish,wears kilt
+Nederlanders,direct,0,3,0,-1,Dutch,straight away
+Mongools,nomaden,0,3,0,-1,Mongolian,nomads
+Flevolandsen,nuchter,0,3,0,-1,Flevolansen,sober
+Nederlanders,nuchterig,0,3,0,-1,Dutch,sober
+Bhutanese,gelukkig,0,3,0,-1,Bhutanese,happy
+Schots,kilt,0,3,0,-1,Scottish,kilt
+Schots,houden van whisky,0,3,0,-1,Scottish,love whisky
+Engels,zakelijk,0,3,0,-1,English,commercial
+Singaporeërs,succesvol,0,3,0,-1,Singaporeans,successful
+Nederlanders,eerlijk,0,3,0,-1,Dutch,honestly
+Brabanders,bier,0,3,0,-1,Brabanders,beer
+Limburgers,gul,0,3,0,-1,Limburgers,generous
+Friesen,vriendelijk,0,3,0,-1,Frisians,friendly
+Sahrawi,nomaden,0,3,0,-1,Sahrawi,nomads
+Brabanders,trots,0,3,0,-1,Brabanders,pride
+Belgisch,eet veel frieten,0,3,0,-1,Belgian,eat a lot of fries
+Salvadorianen,religieus,0,3,0,-1,Salvadorians,religious
+Hellenen,filosofisch,0,3,0,-1,Hellenes,philosophical
+Limburgers,trots,0,3,0,-1,Limburgers,pride
+Limburgers,houden van vlaai,0,3,0,-1,Limburgers,love pie
+Noord-Brabanters,trots,0,3,0,-1,North Brabant people,pride
+Limburgsen,bourgondisch,0,3,0,-1,Limburgish,burgundy
+Denen,introvert,0,3,0,-1,Danes,introverted
+Flevolander,ondernemend,0,3,0,-1,Flevolander,enterprising
+Italiaans,temperamentvol,0,3,0,-1,Italian,temperamental
+Amerikanen,vrijheid,0,3,0,-1,Americans,freedom
+Iers,drinken,0,3,0,-1,Irish,drinks
+Duits,consciëntieus,0,3,0,-1,German,conscientious
+Chinees,ijverig,0,3,0,-1,Chinese,diligent
+Brabanders,gemoedelijk,0,3,0,-1,Brabanders,convivial
+Duits,verantwoordelijk,0,3,0,-1,German,responsible
+Engels,humor,0,3,0,-1,English,Humour
+Hollander,zakelijk,0,3,0,-1,Dutchman,commercial
+mensen uit Drenthe,bescheiden,0,3,0,-1,people from Drenthe,modest
+Turken,houden van kebab,0,3,0,-1,Turks,love kebabs
+Zuid-Soedanezen,vluchteling,0,3,0,-1,South Sudanese,refugee
+Italiaans,romantisch,0,3,0,-1,Italian,romantic
+Duits,georganiseerd,0,3,0,-1,German,organized
+Azerbeidzjaans,spreken turks,0,3,0,-1,Azerbaijani,speak Turkish
+Oostenrijks,houdt van skiën,0,3,0,-1,Austrian,loves skiing
+Pools,patriotisch,0,3,0,-1,Polish,patriotic
+gelderlandsen,gastvrij,1,2,0,-1,Gelderlandsen,hospitable
+Zeeuwen,vriendelijk,0,3,0,-1,Zeelanders,friendly
+Britten,drinkt veel thee,0,3,0,-1,British,drinks a lot of tea
+Nederlanders,nuchter,0,3,0,-1,Dutch,sober
+Fransen,romantisch,0,3,0,-1,French,romantic
+Hollander,slank,0,3,0,-1,Dutchman,slim
+Zwitsers,efficiënt,0,3,0,-1,Swiss,efficient
+Nieuw-Zeelanders,sportief,0,3,0,-1,New Zealanders,sporty
+Noors,introvert,0,3,0,-1,Norwegian,introverted
+Japans,respectvol,0,3,0,-1,Japanese,respectful
+Azerbeidzjaans,turks,0,3,0,-1,Azerbaijani,Turkish
+Azerbeidzjaans,houden van kebab,0,3,0,-1,Azerbaijani,love kebabs
+Duits,is praktisch,0,3,0,-1,German,is practical
+Filippino's,houden van karaoke,0,3,0,-1,Filipinos,love karaoke
+Cubanen,sigaar,1,2,0,-1,Cubans,cigar
+flevolandsen,trots,1,2,0,-1,Flevolandsen,pride
+Utrechters,trots,1,2,0,-1,Utrecht,pride
+Fransen,baguette,1,2,0,-1,French,baguette
+Cubanen,houdt van dansen,1,2,0,-1,Cubans,likes to dance
+Gibraltariërs,loyaal,1,2,0,-1,Gibraltarians,loyal
+Engels,stijlvol,1,2,0,-1,English,Stylish
+Hollander,bier,1,2,0,-1,Dutchman,beer
+Indiaas,curry,1,2,0,-1,Indian,Curry
+Overijsselaars,trots,1,2,0,-1,Overijssel residents,pride
+Kaapverdianen,dansen,1,2,0,-1,Cape Verdeans,dancing
+Azerbeidzjaans,gastvrij,1,2,0,-1,Azerbaijani,hospitable
+Mensen uit Noord-Holland,rijk,1,2,0,-1,People from North Holland,rich
+Gelderlanders,gastvrij,1,2,0,-1,Gelderlanders,hospitable
+Nepali,goed in klimmen,1,2,0,-1,Nepali,good at climbing
+Friesen,sterk,0,3,0,-1,Frisians,strong
+Zeeuwse mensen,bescheiden,0,3,0,-1,Zeeland people,modest
+Mensen uit Overijssel,calvinistisch,0,3,0,-1,People from Overijssel,Calvinistic
+Hollandsen,vriendelijk,0,3,0,-1,Hollandsen,friendly
+Duits,geordend,0,3,0,-1,German,orderly
+Bahreinse,rijk,0,3,0,-1,Bahraini,rich
+Mongools,nomade,0,3,0,-1,Mongolian,nomad
+Friesen,lange mensen,0,3,0,-1,Frisians,tall people
+Friesen,houden van vrijheid,0,3,0,-1,Frisians,love freedom
+Noord-Iers,drinken,0,3,0,-1,Northern Irish,drinks
+Zeeuwse mensen,houden van mosselen,0,3,0,-1,Zeeland people,love mussels
+Duits,ijverig,0,3,0,-1,German,diligent
+Chinees,gedisciplineerd,0,3,0,-1,Chinese,disciplined
+Hollandsen,eerlijk,0,3,0,-1,Hollandsen,honestly
+Mongools,nomadisch,0,3,0,-1,Mongolian,nomadic
+Nederlanders,vredelievend,0,3,0,-1,Dutch,peaceful
+Utrechters,fietst graag,0,3,0,-1,Utrecht,likes to cycle
+Noord-Iers,protestant,0,3,0,-1,Northern Irish,Protestant
+Cubanen,muziek,0,3,0,-1,Cubans,music
+Groningen,fris,0,3,0,-1,Groningen,fresh
+Limburger,trots,0,3,0,-1,Limburger,pride
+Oekraïens,patriotisch,0,3,0,-1,Ukrainian,patriotic
+Cubanen,roken,0,3,0,-1,Cubans,smoking
+Duits,precies,0,3,0,-1,German,precisely
+Zwitsers,nauwgezet,0,3,0,-1,Swiss,meticulous
+Britten,houdt van thee,0,3,0,-1,British,likes tea
+Friesen,trots,0,3,0,-1,Frisians,pride
+Duits,gedisciplineerd,0,3,0,-1,German,disciplined
+Noord-Brabanters,gezellig,0,3,0,-1,North Brabant people,pleasant
+Groningers,trots,0,3,0,-1,Groningers,pride
+Duits,rechtdoorzee,0,3,0,-1,German,straightforward
+Limburgers,dialect,2,1,0,-1,Limburgers,dialect

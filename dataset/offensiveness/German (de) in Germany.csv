@@ -1,0 +1,734 @@
+Attribute,Not Offensive (NO),Slightly Offensive (o1),Somewhat Offensive (O2),Moderately Offensive (O3),Extremely Offensive (O4),Unsure(U),mean_offensive_score,Translated Attribute
+drogenhändler,0,0,0,0,3,0,4,drug dealer
+criminal,0,0,0,0,3,0,4,criminal
+terroristen,0,0,0,0,3,0,4,terrorists
+kriminell,0,0,0,1,2,0,3.666666667,criminal
+illegale,0,0,0,1,2,0,3.666666667,illegal
+terrorist,0,0,0,1,2,0,3.666666667,terrorist
+illegal,0,0,0,2,1,0,3.333333333,illegal
+dick,0,0,1,0,2,0,3.333333333,thick
+aufdringlich,0,0,1,0,2,0,3.333333333,intrusive
+betrüger,0,0,0,2,1,0,3.333333333,cheater
+arrogant,0,0,1,1,1,0,3,arrogant
+kommunist,0,0,1,1,1,0,3,Communist
+dumm,0,0,2,0,1,0,2.666666667,dumb
+schlecht,0,0,2,0,1,0,2.666666667,bad
+geizig,0,0,2,0,1,0,2.666666667,stingy
+unhöflich,0,0,2,0,1,0,2.666666667,impolite
+betrügerisch,0,0,2,0,1,0,2.666666667,fraudulent
+egoistisch,0,0,2,0,1,0,2.666666667,egotistical
+aggressiv,0,0,2,0,1,0,2.666666667,aggressive
+snobistisch,0,0,2,0,1,0,2.666666667,snobbish
+kolonialistisch,0,0,2,0,1,0,2.666666667,colonialist
+rassistisch,1,0,0,0,2,0,2.333333333,racist
+kriegsverbrecher,1,0,0,0,2,0,2.333333333,war criminal
+belästigend,1,0,0,0,2,0,2.333333333,harassing
+verschwenderisch,0,0,2,1,0,0,2.333333333,wasteful
+schick,1,0,0,0,2,0,2.333333333,chic
+gierig,0,0,2,1,0,0,2.333333333,greedy
+nackt,1,0,0,1,1,0,2,naked
+schiitischer muslim,1,0,0,1,1,0,2,Shia Muslim
+diktatur,1,0,0,1,1,0,2,dictatorship
+diktator,1,0,0,1,1,0,2,dictator
+barbarisch,1,0,0,1,1,0,2,barbaric
+elend,0,1,1,1,0,0,2,misery
+korrupt,1,0,0,1,1,0,2,corrupt
+mafia,1,0,0,1,1,0,2,mafia
+unterdrückt,1,0,0,1,1,0,2,suppressed
+redselig,1,0,0,1,1,0,2,talkative
+kaufsüchtig,0,1,1,1,0,0,2,addicted to shopping
+kriegerisch,0,0,3,0,0,0,2,warlike
+tyrannisch,1,0,0,1,1,0,2,tyrannical
+brutal,1,0,0,1,1,0,2,brutally
+flüchtlinge,1,0,0,1,1,0,2,refugees
+ethnische säuberung,1,0,1,0,1,0,1.666666667,ethnic cleansing
+rebellisch,1,0,1,0,1,0,1.666666667,rebellious
+flüchtling,1,0,0,2,0,0,1.666666667,refugee
+betteln,1,0,1,0,1,0,1.666666667,beg
+geldgierig,1,0,0,2,0,0,1.666666667,greedy
+verärgert,1,0,1,0,1,0,1.666666667,annoyed
+autoritär,1,0,1,0,1,0,1.666666667,authoritarian
+gefährlich,1,0,1,0,1,0,1.666666667,dangerous
+zionistisch,0,1,2,0,0,0,1.666666667,Zionist
+diktatorisch,1,0,1,0,1,0,1.666666667,dictatorial
+bettler,1,0,1,0,1,0,1.666666667,beggar
+leiden unter armut,1,0,1,0,1,0,1.666666667,suffer from poverty
+feindselig,1,0,1,0,1,0,1.666666667,hostile
+schmutzig,1,0,1,0,1,0,1.666666667,dirty
+militaristisch,1,0,1,0,1,0,1.666666667,militaristic
+nachlässig,1,0,1,1,0,0,1.333333333,careless
+gewalttätig,1,0,1,1,0,0,1.333333333,violent
+mürrisch,1,0,1,1,0,0,1.333333333,grumpy
+hilflos,1,0,1,1,0,0,1.333333333,helpless
+riskant,1,0,1,1,0,0,1.333333333,risky
+pragmatisch,1,0,1,1,0,0,1.333333333,pragmatic
+streitlustig,1,0,1,1,0,0,1.333333333,belligerent
+exzentrisch,1,0,1,1,0,0,1.333333333,eccentric
+verboten,1,0,1,1,0,0,1.333333333,forbidden
+arbeitslos,1,0,1,1,0,0,1.333333333,unemployed
+asylbewerber,1,0,1,1,0,0,1.333333333,Asylum seekers
+ungeduldige,1,0,1,1,0,0,1.333333333,impatient
+weniger höflich,1,0,1,1,0,0,1.333333333,less polite
+unfreundlich,1,0,1,1,0,0,1.333333333,unfriendly
+gefährdet,1,0,1,1,0,0,1.333333333,endangered
+kämpferisch,1,1,0,0,1,0,1.333333333,combative
+exotisch,1,1,0,1,0,0,1,exotic
+flüchten,1,1,0,1,0,0,1,escape
+lästig,1,1,0,1,0,0,1,annoying
+verhungert,1,0,2,0,0,0,1,starved
+nervig,1,1,0,1,0,0,1,annoying
+ungesund,1,0,2,0,0,0,1,unhealthy
+verzweifelt,1,1,0,1,0,0,1,desperate
+stierkampf,1,0,2,0,0,0,1,bullfight
+obdachloser,1,1,0,1,0,0,1,homeless person
+skurrile,1,1,0,1,0,0,1,bizarre
+träge,1,1,0,1,0,0,1,sluggish
+drogen,1,1,0,1,0,0,1,drugs
+chaotisch,1,1,1,0,0,0,0.6666666667,chaotic
+hartnäckig,1,1,1,0,0,0,0.6666666667,stubborn
+bedürftig,1,1,1,0,0,0,0.6666666667,needy
+schwätzig,1,1,1,0,0,0,0.6666666667,chatty
+ungeduldig,1,1,1,0,0,0,0.6666666667,impatient
+mit dem mund sprechen,2,0,0,0,1,0,0.6666666667,speak with your mouth
+einsam,1,1,1,0,0,0,0.6666666667,lonely
+stur,1,1,1,0,0,0,0.6666666667,stubborn
+unsicher,1,1,1,0,0,0,0.6666666667,unsure
+fußballverrückt,1,1,1,0,0,0,0.6666666667,football crazy
+niedergeschlagen,1,1,1,0,0,0,0.6666666667,dejected
+jude,2,0,0,0,1,0,0.6666666667,Jew
+juden,2,0,0,0,1,0,0.6666666667,Jews
+pferderasse,2,0,0,0,1,0,0.6666666667,horse breed
+ungläubig,1,1,1,0,0,0,0.6666666667,incredulous
+fett,1,1,1,0,0,0,0.6666666667,fat
+streitsüchtig,1,1,1,0,0,0,0.6666666667,argumentative
+piraten,2,0,0,0,1,0,0.6666666667,pirates
+frech,1,1,1,0,0,0,0.6666666667,cheeky
+arm,2,0,0,0,1,0,0.6666666667,poor
+rinderrasse,2,0,0,0,1,0,0.6666666667,cattle breed
+kuh,2,0,0,0,1,0,0.6666666667,cow
+hunger,1,0,1,0,0,1,0.3333333333,hunger
+aß viel,1,2,0,0,0,0,0.3333333333,ate a lot
+schief,1,2,0,0,0,0,0.3333333333,wrong
+essen viel,1,2,0,0,0,0,0.3333333333,eat a lot
+rückständig,2,0,0,1,0,0,0.3333333333,backward
+flach,2,0,0,1,0,0,0.3333333333,flat
+kölsch,2,0,0,1,0,0,0.3333333333,Cologne
+nomadisch,2,0,0,1,0,0,0.3333333333,nomadic
+geschwätzig,1,2,0,0,0,0,0.3333333333,chatty
+weniger freundlich,2,0,0,1,0,0,0.3333333333,less friendly
+obdachlos,2,0,0,1,0,0,0.3333333333,homeless
+fettig,1,2,0,0,0,0,0.3333333333,greasy
+schroff,2,0,0,1,0,0,0.3333333333,harsh
+raucht,1,2,0,0,0,0,0.3333333333,smokes
+schlank,2,0,1,0,0,0,0,slim
+schottisches terrier,2,0,1,0,0,0,0,Scottish terrier
+schmackhaft,2,0,1,0,0,0,0,tasty
+trank viel,2,0,1,0,0,0,0,drank a lot
+bettelnd,2,0,1,0,0,0,0,begging
+fleischig,1,1,0,0,0,1,0,fleshy
+dürr,1,1,0,0,0,1,0,skinny
+schwer,2,0,1,0,0,0,0,difficult
+liebt pferde,2,0,1,0,0,0,0,loves horses
+barbar,2,0,1,0,0,0,0,barbaric
+streng,2,0,1,0,0,0,0,strictly
+füße baumeln,2,0,1,0,0,0,0,feet dangling
+gesprächig,2,0,1,0,0,0,0,talkative
+schwierig zu verstehen,2,0,1,0,0,0,0,hard to understand
+ländlich,2,0,1,0,0,0,0,rural
+distanziert,2,0,1,0,0,0,0,distant
+bier,2,0,1,0,0,0,0,beer
+nicht gut gesprochen,2,0,1,0,0,0,0,not well spoken
+kühe,2,0,1,0,0,0,0,cows
+kolonialherren,2,0,1,0,0,0,0,colonial masters
+lieben wein,2,1,0,0,0,0,-0.3333333333,love wine
+wasserreich,2,1,0,0,0,0,-0.3333333333,watery
+buddhismus,2,1,0,0,0,0,-0.3333333333,Buddhism
+essen viel fast food,2,1,0,0,0,0,-0.3333333333,eat a lot of fast food
+trinkt gerne bier,2,1,0,0,0,0,-0.3333333333,likes to drink beer
+reserviert,2,1,0,0,0,0,-0.3333333333,reserved
+bierliebhaber,2,1,0,0,0,0,-0.3333333333,beer lover
+stämmig,2,1,0,0,0,0,-0.3333333333,stocky
+geschäftig,2,1,0,0,0,0,-0.3333333333,busy
+trinkend,2,1,0,0,0,0,-0.3333333333,drinking
+muslimisch,2,1,0,0,0,0,-0.3333333333,Muslim
+jüdisch,2,1,0,0,0,0,-0.3333333333,Jewish
+individualistisch,2,1,0,0,0,0,-0.3333333333,individualistic
+konservativ,2,1,0,0,0,0,-0.3333333333,conservative
+trinken viel bier,2,1,0,0,0,0,-0.3333333333,drink a lot of beer
+kompliziert,2,1,0,0,0,0,-0.3333333333,complicated
+katholiken,2,1,0,0,0,0,-0.3333333333,Catholics
+rinder,2,1,0,0,0,0,-0.3333333333,bovine
+biertrinker,2,1,0,0,0,0,-0.3333333333,beer drinker
+strikt,2,1,0,0,0,0,-0.3333333333,strict
+trinken gerne bier,2,1,0,0,0,0,-0.3333333333,like to drink beer
+gasreich,2,1,0,0,0,0,-0.3333333333,gas-rich
+viele autos,2,1,0,0,0,0,-0.3333333333,many cars
+leidenschaftlich,2,1,0,0,0,0,-0.3333333333,passionate
+essen gerne fischbrötchen,2,1,0,0,0,0,-0.3333333333,like to eat fish sandwiches
+ordentlich,2,1,0,0,0,0,-0.3333333333,orderly
+wissbegierig,2,1,0,0,0,0,-0.3333333333,inquisitive
+surfen,2,1,0,0,0,0,-0.3333333333,surfing
+plattdeutsch,2,1,0,0,0,0,-0.3333333333,Low German
+bayrisch,2,1,0,0,0,0,-0.3333333333,Bavarian
+bier trinken,2,1,0,0,0,0,-0.3333333333,drink beer
+ehrgeizig,2,1,0,0,0,0,-0.3333333333,ambitious
+laut,2,1,0,0,0,0,-0.3333333333,loud
+ausgestorben,2,1,0,0,0,0,-0.3333333333,extinct
+betrunken,2,1,0,0,0,0,-0.3333333333,drunk
+trinken wein,2,1,0,0,0,0,-0.3333333333,drink wine
+trinken gern bier,2,1,0,0,0,0,-0.3333333333,like to drink beer
+bärtig,2,1,0,0,0,0,-0.3333333333,bearded
+redet viel,2,1,0,0,0,0,-0.3333333333,talks a lot
+emotional,2,1,0,0,0,0,-0.3333333333,emotionally
+schüchtern,2,1,0,0,0,0,-0.3333333333,shy
+muslim,2,1,0,0,0,0,-0.3333333333,Muslim
+hart,2,1,0,0,0,0,-0.3333333333,hard
+kommunistisch,2,0,0,0,0,1,-0.6666666667,Communist
+effektiv,3,0,0,0,0,0,-1,effectively
+badisch,3,0,0,0,0,0,-1,Baden
+flauschig,3,0,0,0,0,0,-1,fluffy
+reich an gewürzen,3,0,0,0,0,0,-1,rich in spices
+mögen fischbrötchen,3,0,0,0,0,0,-1,like fish sandwiches
+anhänglich,3,0,0,0,0,0,-1,affectionate
+fromm,3,0,0,0,0,0,-1,religious
+trinken bier,3,0,0,0,0,0,-1,drinking beer
+skandinavier,3,0,0,0,0,0,-1,Scandinavians
+effizient,3,0,0,0,0,0,-1,efficient
+sprachen französisch,3,0,0,0,0,0,-1,spoke French
+bosnisch,3,0,0,0,0,0,-1,Bosnian
+insel,3,0,0,0,0,0,-1,island
+sprachen rumänisch,3,0,0,0,0,0,-1,spoke Romanian
+künstlerisch,3,0,0,0,0,0,-1,artistic
+tolerant,3,0,0,0,0,0,-1,tolerant
+essen gerne döner,3,0,0,0,0,0,-1,like to eat kebab
+militär,3,0,0,0,0,0,-1,military
+wein trinken,3,0,0,0,0,0,-1,drinking wine
+militärisch,3,0,0,0,0,0,-1,military
+fremd,3,0,0,0,0,0,-1,foreign
+essen gerne baguette,3,0,0,0,0,0,-1,like to eat baguette
+autonom,3,0,0,0,0,0,-1,autonomous
+saßen gerne am rhein,3,0,0,0,0,0,-1,enjoyed sitting by the Rhine
+schottischer whisky,3,0,0,0,0,0,-1,Scottish whiskey
+gut im boxen,3,0,0,0,0,0,-1,good at boxing
+deutsch,3,0,0,0,0,0,-1,German
+liebte wein,3,0,0,0,0,0,-1,loved wine
+liebevoll,3,0,0,0,0,0,-1,lovingly
+keltisch,3,0,0,0,0,0,-1,Celtic
+sehr glücklich,3,0,0,0,0,0,-1,very happy
+kalorienreich,3,0,0,0,0,0,-1,rich in calories
+saarländisch,3,0,0,0,0,0,-1,Saarland
+judentum,3,0,0,0,0,0,-1,Judaism
+sprechen englisch,3,0,0,0,0,0,-1,speak English
+wassersportlich,3,0,0,0,0,0,-1,water sports
+extrovertiert,3,0,0,0,0,0,-1,extroverted
+liebt bier,3,0,0,0,0,0,-1,loves beer
+gut im sprint,3,0,0,0,0,0,-1,good at sprinting
+schwäbisch,3,0,0,0,0,0,-1,Swabian
+pferdeliebhaber,3,0,0,0,0,0,-1,horse lover
+sprachen spanisch,3,0,0,0,0,0,-1,spoke Spanish
+skifahren,3,0,0,0,0,0,-1,to ski
+gut im langstreckenlauf,3,0,0,0,0,0,-1,good at long distance running
+stammesgebunden,3,0,0,0,0,0,-1,tribal
+nigerianisches essen,3,0,0,0,0,0,-1,Nigerian food
+spirituell,3,0,0,0,0,0,-1,spiritual
+skandinavien,3,0,0,0,0,0,-1,Scandinavia
+englisch,3,0,0,0,0,0,-1,English
+gut im distanzlauf,3,0,0,0,0,0,-1,good at distance running
+weihnachten feiern,3,0,0,0,0,0,-1,celebrate Christmas
+gut im radfahren,3,0,0,0,0,0,-1,good at cycling
+dänische sprache,3,0,0,0,0,0,-1,Danish language
+sprechen rumänisch,3,0,0,0,0,0,-1,speak Romanian
+bremsen,3,0,0,0,0,0,-1,brake
+libanesisch,3,0,0,0,0,0,-1,Lebanese
+lustig,3,0,0,0,0,0,-1,funny
+baden,3,0,0,0,0,0,-1,bathe
+inselbewohner,3,0,0,0,0,0,-1,islanders
+gründlich,3,0,0,0,0,0,-1,thorough
+italienisch sprechen,3,0,0,0,0,0,-1,speak Italian
+gastfreundlich,3,0,0,0,0,0,-1,hospitable
+grüne,3,0,0,0,0,0,-1,green
+fleißig,3,0,0,0,0,0,-1,diligent
+baden gerne,3,0,0,0,0,0,-1,like to bathe
+liebt fisch,3,0,0,0,0,0,-1,loves fish
+pferd,3,0,0,0,0,0,-1,horse
+kräftige pferde,3,0,0,0,0,0,-1,strong horses
+känguru,3,0,0,0,0,0,-1,kangaroo
+perser,3,0,0,0,0,0,-1,Persian
+viel milch,3,0,0,0,0,0,-1,a lot of milk
+nervös,3,0,0,0,0,0,-1,nervous
+fußballbegeistert,3,0,0,0,0,0,-1,football enthusiast
+blauäugig,3,0,0,0,0,0,-1,blue-eyed
+einfach,3,0,0,0,0,0,-1,simply
+grammatikalisch korrekt,3,0,0,0,0,0,-1,grammatically correct
+verliebt,3,0,0,0,0,0,-1,in love
+freundlich,3,0,0,0,0,0,-1,friendly
+frei,3,0,0,0,0,0,-1,free
+apfelwein,3,0,0,0,0,0,-1,apple cider
+wodka,3,0,0,0,0,0,-1,vodka
+spanier,3,0,0,0,0,0,-1,Spanish
+ordnungsliebend,3,0,0,0,0,0,-1,orderly
+selbstsicher,3,0,0,0,0,0,-1,self confident
+international,3,0,0,0,0,0,-1,international
+lieben karaoke,3,0,0,0,0,0,-1,love karaoke
+verschlossen,3,0,0,0,0,0,-1,locked
+döner,3,0,0,0,0,0,-1,Doner
+schmecken gut,3,0,0,0,0,0,-1,taste good
+afrikanisch,3,0,0,0,0,0,-1,African
+koala,3,0,0,0,0,0,-1,Koala bear
+käse,3,0,0,0,0,0,-1,cheese
+fisch,3,0,0,0,0,0,-1,fish
+italienisch,3,0,0,0,0,0,-1,Italian
+pferdezucht,3,0,0,0,0,0,-1,horse breeding
+industriell,3,0,0,0,0,0,-1,industrial
+optimistisch,3,0,0,0,0,0,-1,optimistic
+weinkenner,3,0,0,0,0,0,-1,wine connoisseur
+bauen pyramiden,3,0,0,0,0,0,-1,build pyramids
+schach,3,0,0,0,0,0,-1,chess
+kubanische zigarren,3,0,0,0,0,0,-1,Cuban cigars
+organisiert,3,0,0,0,0,0,-1,organized
+schachspiel,3,0,0,0,0,0,-1,chess game
+weihnachten,3,0,0,0,0,0,-1,Christmas
+keltischer ursprung,3,0,0,0,0,0,-1,Celtic origin
+edel,3,0,0,0,0,0,-1,noble
+rugby,3,0,0,0,0,0,-1,rugby
+kreativ,3,0,0,0,0,0,-1,creative
+selbstbeherrscht,3,0,0,0,0,0,-1,self-controlled
+schaf,3,0,0,0,0,0,-1,sheep
+schottisches hochland,3,0,0,0,0,0,-1,Scottish highlands
+fahrradfahren,3,0,0,0,0,0,-1,ride a bike
+baguette,3,0,0,0,0,0,-1,baguette
+salsa,3,0,0,0,0,0,-1,salsa
+pyramiden,3,0,0,0,0,0,-1,pyramids
+tango,3,0,0,0,0,0,-1,tango
+neutral,3,0,0,0,0,0,-1,neutral
+hebräisch,3,0,0,0,0,0,-1,Hebrew
+wohnt,3,0,0,0,0,0,-1,lives
+gerne baden,3,0,0,0,0,0,-1,like to bathe
+viele seen,3,0,0,0,0,0,-1,many lakes
+uhrmacher,3,0,0,0,0,0,-1,watchmaker
+karnevalsfeier,3,0,0,0,0,0,-1,carnival celebration
+knusprig,3,0,0,0,0,0,-1,crispy
+gute fahrradfahrer,3,0,0,0,0,0,-1,good cyclists
+practical,3,0,0,0,0,0,-1,practical
+kgb,3,0,0,0,0,0,-1,KGB
+spanischsprachig,3,0,0,0,0,0,-1,Spanish speaking
+trinken,3,0,0,0,0,0,-1,drink
+schottische whisky,3,0,0,0,0,0,-1,Scottish whiskey
+spaß,3,0,0,0,0,0,-1,fun
+solide,3,0,0,0,0,0,-1,solid
+offen,3,0,0,0,0,0,-1,open
+klein,3,0,0,0,0,0,-1,small
+multikulturell,3,0,0,0,0,0,-1,multicultural
+nomade,3,0,0,0,0,0,-1,nomad
+eckig,3,0,0,0,0,0,-1,square
+uhren,3,0,0,0,0,0,-1,watches
+langsam,3,0,0,0,0,0,-1,slow
+gut organisiert,3,0,0,0,0,0,-1,well organized
+hessisch,3,0,0,0,0,0,-1,Hessian
+gut im cricket,3,0,0,0,0,0,-1,good at cricket
+winzer,3,0,0,0,0,0,-1,winemaker
+gemütlich,3,0,0,0,0,0,-1,cozy
+ernst,3,0,0,0,0,0,-1,serious
+sparsamkeit,3,0,0,0,0,0,-1,thrift
+grün,3,0,0,0,0,0,-1,green
+edle pferde,3,0,0,0,0,0,-1,noble horses
+nordrhein-westfalen,3,0,0,0,0,0,-1,North Rhine-Westphalia
+leben in den bergen,3,0,0,0,0,0,-1,live in the mountains
+biertrinkend,3,0,0,0,0,0,-1,drinking beer
+kilt,3,0,0,0,0,0,-1,kilt
+saftig,3,0,0,0,0,0,-1,juicy
+katholisch,3,0,0,0,0,0,-1,Catholic
+rheinischer dialekt,3,0,0,0,0,0,-1,Rhenish dialect
+lieben skifahren,3,0,0,0,0,0,-1,love skiing
+karnevalist,3,0,0,0,0,0,-1,carnivalist
+durchschnittlich,3,0,0,0,0,0,-1,average
+gesund,3,0,0,0,0,0,-1,healthy
+zungenbrecher,3,0,0,0,0,0,-1,Tongue-twister
+sparsame,3,0,0,0,0,0,-1,economical
+auto,3,0,0,0,0,0,-1,automobile
+praktisch,3,0,0,0,0,0,-1,practical
+patriotisch,3,0,0,0,0,0,-1,patriotic
+fischbrötchen,3,0,0,0,0,0,-1,fish sandwiches
+kultiviert,3,0,0,0,0,0,-1,cultivated
+curry,3,0,0,0,0,0,-1,curry
+sprechen gälisch,3,0,0,0,0,0,-1,speak Gaelic
+lederhose,3,0,0,0,0,0,-1,leather pants
+dynamisch,3,0,0,0,0,0,-1,dynamic
+arabisch,3,0,0,0,0,0,-1,Arabic
+arbeitswillig,3,0,0,0,0,0,-1,willing to work
+industriegebiet,3,0,0,0,0,0,-1,industrial area
+bauern,3,0,0,0,0,0,-1,farmers
+autofahrer,3,0,0,0,0,0,-1,motorist
+traditionell,3,0,0,0,0,0,-1,traditional
+französisch sprechend,3,0,0,0,0,0,-1,French speaking
+patriot,3,0,0,0,0,0,-1,patriot
+sprechen eine keltische sprache,3,0,0,0,0,0,-1,speak a Celtic language
+fahrrad,3,0,0,0,0,0,-1,bicycle
+direkt,3,0,0,0,0,0,-1,direct
+essen,3,0,0,0,0,0,-1,eat
+poetisch,3,0,0,0,0,0,-1,poetic
+afrikanischer herkunft,3,0,0,0,0,0,-1,African origin
+gut im springreiten,3,0,0,0,0,0,-1,good at show jumping
+slawische sprache,3,0,0,0,0,0,-1,Slavic language
+trinken gerne whisky,3,0,0,0,0,0,-1,like to drink whiskey
+dialekt,3,0,0,0,0,0,-1,dialect
+mitteleuropäisch,3,0,0,0,0,0,-1,Central European
+diszipliniert,3,0,0,0,0,0,-1,disciplined
+feiern weihnachten,3,0,0,0,0,0,-1,celebrate Christmas
+gut im dressurreiten,3,0,0,0,0,0,-1,good at dressage
+kühl,3,0,0,0,0,0,-1,cool
+orthodox,3,0,0,0,0,0,-1,orthodox
+sympathisch,3,0,0,0,0,0,-1,friendly
+präzise,3,0,0,0,0,0,-1,precise
+weinbauer,3,0,0,0,0,0,-1,winemaker
+schlau,3,0,0,0,0,0,-1,clever
+sprechen fließend englisch,3,0,0,0,0,0,-1,speak English fluently
+reich,3,0,0,0,0,0,-1,rich
+sprechen manx,3,0,0,0,0,0,-1,speak Manx
+freundliche,3,0,0,0,0,0,-1,friendly
+philosophen,3,0,0,0,0,0,-1,philosophers
+gut gekleidet,3,0,0,0,0,0,-1,well dressed
+briten,3,0,0,0,0,0,-1,British
+sprachen slawisch,3,0,0,0,0,0,-1,spoke Slavic
+liebt,3,0,0,0,0,0,-1,loves
+abenteuerlustig,3,0,0,0,0,0,-1,adventurous
+samba,3,0,0,0,0,0,-1,samba
+technologisch fortgeschritten,3,0,0,0,0,0,-1,technologically advanced
+argentinischer tango,3,0,0,0,0,0,-1,Argentine tango
+bier trinkend,3,0,0,0,0,0,-1,drinking beer
+trinkt viel,3,0,0,0,0,0,-1,drinks a lot
+saumagen,3,0,0,0,0,0,-1,saumagen
+kebab,3,0,0,0,0,0,-1,kebab
+essen gerne fisch,3,0,0,0,0,0,-1,like to eat fish
+cool,3,0,0,0,0,0,-1,cool
+pferde,3,0,0,0,0,0,-1,horses
+deftig,3,0,0,0,0,0,-1,hearty
+trinken viel,3,0,0,0,0,0,-1,drink a lot
+korrekt,3,0,0,0,0,0,-1,correctly
+türkis,3,0,0,0,0,0,-1,turquoise
+autostopp,3,0,0,0,0,0,-1,auto stop
+mögen käse,3,0,0,0,0,0,-1,like cheese
+hungrig,3,0,0,0,0,0,-1,hungry
+schottisches whisky,3,0,0,0,0,0,-1,Scottish whiskey
+tee,3,0,0,0,0,0,-1,tea
+dankbar,3,0,0,0,0,0,-1,thankful
+tschechisch,3,0,0,0,0,0,-1,Czech
+weintrinker,3,0,0,0,0,0,-1,wine drinker
+global,3,0,0,0,0,0,-1,global
+einheimischer,3,0,0,0,0,0,-1,local
+philosophisch,3,0,0,0,0,0,-1,philosophical
+tanzliebe,3,0,0,0,0,0,-1,dance love
+haben eine große sprache,3,0,0,0,0,0,-1,have a large language
+viel gearbeitet,3,0,0,0,0,0,-1,Worked a lot
+reis,3,0,0,0,0,0,-1,rice
+tor,3,0,0,0,0,0,-1,goal
+sprechen nepali,3,0,0,0,0,0,-1,speak Nepali
+schwarz,3,0,0,0,0,0,-1,black
+gut im wassersport,3,0,0,0,0,0,-1,good at water sports
+tropisch,3,0,0,0,0,0,-1,tropical
+eishockey,3,0,0,0,0,0,-1,ice Hockey
+lieben maultaschen,3,0,0,0,0,0,-1,love maultaschen
+fröhlich,3,0,0,0,0,0,-1,cheerful
+isländisch,3,0,0,0,0,0,-1,Icelandic
+sehr höflich,3,0,0,0,0,0,-1,very polite
+leben auf kokosinsel,3,0,0,0,0,0,-1,live on coconut island
+nordisch,3,0,0,0,0,0,-1,Nordic
+sushi,3,0,0,0,0,0,-1,sushi
+georgisch,3,0,0,0,0,0,-1,Georgian
+deutsches land,3,0,0,0,0,0,-1,German country
+gute weine,3,0,0,0,0,0,-1,good wines
+hat fleisch,3,0,0,0,0,0,-1,has meat
+zivilisation,3,0,0,0,0,0,-1,civilization
+sprechen walisisch,3,0,0,0,0,0,-1,speak Welsh
+schafe,3,0,0,0,0,0,-1,sheep
+maori,3,0,0,0,0,0,-1,maori
+groß,3,0,0,0,0,0,-1,large
+rennen,3,0,0,0,0,0,-1,run
+sparsam,3,0,0,0,0,0,-1,thrifty
+spaghetti,3,0,0,0,0,0,-1,spaghetti
+brite,3,0,0,0,0,0,-1,Brit
+lachen laut,3,0,0,0,0,0,-1,laughing loud
+fischig,3,0,0,0,0,0,-1,fishy
+niederländisch,3,0,0,0,0,0,-1,Dutch
+sprechen katalanisch,3,0,0,0,0,0,-1,speak Catalan
+weinliebhaber,3,0,0,0,0,0,-1,wine lover
+zypriotisch,3,0,0,0,0,0,-1,Cypriot
+sandwich,3,0,0,0,0,0,-1,sandwich
+marathonläufer,3,0,0,0,0,0,-1,marathon runner
+kräftig,3,0,0,0,0,0,-1,strong
+antik,3,0,0,0,0,0,-1,antique
+rind,3,0,0,0,0,0,-1,beef
+fischreich,3,0,0,0,0,0,-1,rich in fish
+chinesisch,3,0,0,0,0,0,-1,Chinese
+baltisch,3,0,0,0,0,0,-1,Baltic
+östlich,3,0,0,0,0,0,-1,east
+scharf,3,0,0,0,0,0,-1,sharp
+viel industrie,3,0,0,0,0,0,-1,a lot of industry
+ungarische sprache,3,0,0,0,0,0,-1,Hungarian language
+introvertiert,3,0,0,0,0,0,-1,introverted
+gerne fisch essen,3,0,0,0,0,0,-1,like to eat fish
+braunes bier,3,0,0,0,0,0,-1,brown beer
+zurückhaltend,3,0,0,0,0,0,-1,reserved
+schottisches englisch,3,0,0,0,0,0,-1,Scottish English
+marathon,3,0,0,0,0,0,-1,marathon
+chillig,3,0,0,0,0,0,-1,chill
+stark,3,0,0,0,0,0,-1,strong
+obst,3,0,0,0,0,0,-1,fruit
+politisch korrekt,3,0,0,0,0,0,-1,politically correct
+taktisch,3,0,0,0,0,0,-1,tactical
+leben in kalten ländern,3,0,0,0,0,0,-1,live in cold countries
+tee trinken,3,0,0,0,0,0,-1,to drink tea
+balkan,3,0,0,0,0,0,-1,Balkans
+robust,3,0,0,0,0,0,-1,robust
+bodenständig,3,0,0,0,0,0,-1,down to earth
+warm,3,0,0,0,0,0,-1,warm
+hilfsbereit,3,0,0,0,0,0,-1,helpful
+tanzen,3,0,0,0,0,0,-1,dance
+nil,3,0,0,0,0,0,-1,Nile
+sprechen portugiesisch,3,0,0,0,0,0,-1,speak Portuguese
+friedlich,3,0,0,0,0,0,-1,peaceful
+fleissig,3,0,0,0,0,0,-1,diligent
+respektvoll,3,0,0,0,0,0,-1,respectful
+schottisches nationalgetränk,3,0,0,0,0,0,-1,Scottish national drink
+fußball,3,0,0,0,0,0,-1,football
+gut im marathon,3,0,0,0,0,0,-1,good in marathons
+asiatisch,3,0,0,0,0,0,-1,Asian
+gut im reitsport,3,0,0,0,0,0,-1,good at equestrian sports
+gut im baseball,3,0,0,0,0,0,-1,good at baseball
+hart arbeitend,3,0,0,0,0,0,-1,hard working
+fastfood,3,0,0,0,0,0,-1,Fast food
+germanen,3,0,0,0,0,0,-1,Germans
+pizza,3,0,0,0,0,0,-1,Pizza
+türkisch,3,0,0,0,0,0,-1,Turkish
+trinken gerne,3,0,0,0,0,0,-1,like to drink
+lässig,3,0,0,0,0,0,-1,casual
+intelligent,3,0,0,0,0,0,-1,intelligent
+sprechen zulu,3,0,0,0,0,0,-1,speak Zulu
+reiten,3,0,0,0,0,0,-1,ride
+warten,3,0,0,0,0,0,-1,wait
+englischsprachig,3,0,0,0,0,0,-1,English speaking
+kaffee,3,0,0,0,0,0,-1,coffee
+kalt,3,0,0,0,0,0,-1,cold
+griechische sprache,3,0,0,0,0,0,-1,Greek language
+trinken kölsch,3,0,0,0,0,0,-1,drink Cologne
+lernwillig,3,0,0,0,0,0,-1,willing to learn
+sprechen,3,0,0,0,0,0,-1,speak
+gut im karneval,3,0,0,0,0,0,-1,good in carnival
+kamele,3,0,0,0,0,0,-1,camels
+uhr,3,0,0,0,0,0,-1,clock
+essen gerne grünkohl,3,0,0,0,0,0,-1,like to eat kale
+viel geld,3,0,0,0,0,0,-1,lot of money
+nicht viel getrunken,3,0,0,0,0,0,-1,didn't drink much
+essen gerne sauerkraut,3,0,0,0,0,0,-1,like to eat sauerkraut
+trinkfest,3,0,0,0,0,0,-1,hard to drink
+chili,3,0,0,0,0,0,-1,chili
+schwäbisch sprechend,3,0,0,0,0,0,-1,speaking Swabian
+fortschrittlich,3,0,0,0,0,0,-1,progressive
+wild,3,0,0,0,0,0,-1,wild
+gut im sparen,3,0,0,0,0,0,-1,good at saving
+industrialisiert,3,0,0,0,0,0,-1,industrialized
+spanisch,3,0,0,0,0,0,-1,Spanish
+essen gern fisch,3,0,0,0,0,0,-1,like to eat fish
+männlich,3,0,0,0,0,0,-1,masculine
+essen pizza,3,0,0,0,0,0,-1,eat pizza
+gebildet,3,0,0,0,0,0,-1,educated
+schwaben,3,0,0,0,0,0,-1,Swabia
+industrie,3,0,0,0,0,0,-1,Industry
+familie,3,0,0,0,0,0,-1,family
+pünktlichkeit,3,0,0,0,0,0,-1,punctuality
+seltsame sprache,3,0,0,0,0,0,-1,strange language
+stärkehaltig,3,0,0,0,0,0,-1,starchy
+hauptstadt düsseldorf,3,0,0,0,0,0,-1,capital city of Düsseldorf
+maultaschen,3,0,0,0,0,0,-1,Maultaschen
+nomaden,3,0,0,0,0,0,-1,nomads
+ruhrgebiet,3,0,0,0,0,0,-1,ruhr area
+schwabe,3,0,0,0,0,0,-1,Swabian
+rheinisch,3,0,0,0,0,0,-1,Rhenish
+typisch,3,0,0,0,0,0,-1,typical
+saarländisch sprechen,3,0,0,0,0,0,-1,speak Saarland
+essen reis,3,0,0,0,0,0,-1,eat rice
+milchvieh,3,0,0,0,0,0,-1,dairy cattle
+weltsprache,3,0,0,0,0,0,-1,world language
+schokolade,3,0,0,0,0,0,-1,chocolate
+gelassen,3,0,0,0,0,0,-1,calmly
+hannover,3,0,0,0,0,0,-1,Hanover
+fließend englisch sprechen,3,0,0,0,0,0,-1,speaking English fluently
+ausdauernd,3,0,0,0,0,0,-1,persistent
+temperamentvoll,3,0,0,0,0,0,-1,spirited
+essen gerne,3,0,0,0,0,0,-1,like to eat
+gut im weinbau,3,0,0,0,0,0,-1,good at viticulture
+einwohner,3,0,0,0,0,0,-1,resident
+armenisch,3,0,0,0,0,0,-1,Armenian
+loyal,3,0,0,0,0,0,-1,loyal
+britisch,3,0,0,0,0,0,-1,British
+rennen schnell,3,0,0,0,0,0,-1,run fast
+arbeiten hart,3,0,0,0,0,0,-1,work hard
+weltoffen,3,0,0,0,0,0,-1,cosmopolitan
+sprechen einen dialekt,3,0,0,0,0,0,-1,speak a dialect
+französischsprachig,3,0,0,0,0,0,-1,French speaking
+höflich,3,0,0,0,0,0,-1,polite
+currywurst,3,0,0,0,0,0,-1,Currywurst
+katzen,3,0,0,0,0,0,-1,cats
+leben auf kokosnüssen,3,0,0,0,0,0,-1,live on coconuts
+mediterran,3,0,0,0,0,0,-1,Mediterranean
+essen viel reis,3,0,0,0,0,0,-1,eat a lot of rice
+zivilisiert,3,0,0,0,0,0,-1,civilized
+ehrlich,3,0,0,0,0,0,-1,honest
+germanisch,3,0,0,0,0,0,-1,Germanic
+sauber,3,0,0,0,0,0,-1,clean
+amerikanisch,3,0,0,0,0,0,-1,American
+polnisch,3,0,0,0,0,0,-1,Polish
+öl,3,0,0,0,0,0,-1,oil
+wirtschaftlich stark,3,0,0,0,0,0,-1,economically strong
+fußballfan,3,0,0,0,0,0,-1,football fan
+arbeitsam,3,0,0,0,0,0,-1,hardworking
+tschechischer bier,3,0,0,0,0,0,-1,Czech beer
+trinker,3,0,0,0,0,0,-1,drinker
+sport,3,0,0,0,0,0,-1,Sports
+zuverlässig,3,0,0,0,0,0,-1,reliable
+sprechen malaysisch,3,0,0,0,0,0,-1,speak Malaysian
+bergsteiger,3,0,0,0,0,0,-1,climber
+inseln,3,0,0,0,0,0,-1,islands
+nigerianisch,3,0,0,0,0,0,-1,Nigerian
+sahara,3,0,0,0,0,0,-1,Sahara
+sprechen afrikaans,3,0,0,0,0,0,-1,speak Afrikaans
+saarland,3,0,0,0,0,0,-1,Saarland
+strategisch,3,0,0,0,0,0,-1,strategically
+demokratisch,3,0,0,0,0,0,-1,democratically
+rheinischer frohsinn,3,0,0,0,0,0,-1,Rhenish joy
+müde,3,0,0,0,0,0,-1,tired
+sprechen mongolisch,3,0,0,0,0,0,-1,speak Mongolian
+nahrhaft,3,0,0,0,0,0,-1,nutritious
+weise,3,0,0,0,0,0,-1,way
+intellektuell,3,0,0,0,0,0,-1,intellectually
+wüstenbewohner,3,0,0,0,0,0,-1,desert dwellers
+slawisch,3,0,0,0,0,0,-1,Slavic
+süß,3,0,0,0,0,0,-1,sweet
+still,3,0,0,0,0,0,-1,quiet
+trinkt gerne kölsch,3,0,0,0,0,0,-1,likes to drink kölsch
+schwarz-weiß,3,0,0,0,0,0,-1,black-and-white
+kubanische zigarre,3,0,0,0,0,0,-1,Cuban cigar
+milch,3,0,0,0,0,0,-1,milk
+weniger unterernährt,3,0,0,0,0,0,-1,less malnourished
+viel wein getrunken,3,0,0,0,0,0,-1,drank a lot of wine
+mögen fisch,3,0,0,0,0,0,-1,like fish
+gutmütig,3,0,0,0,0,0,-1,good-natured
+lederhosen,3,0,0,0,0,0,-1,leather pants
+trinkfreudig,3,0,0,0,0,0,-1,happy to drink
+trinken viel tee,3,0,0,0,0,0,-1,drink a lot of tea
+wohnte in berlin,3,0,0,0,0,0,-1,lived in Berlin
+industrieland,3,0,0,0,0,0,-1,industrial country
+gebirgig,3,0,0,0,0,0,-1,mountainous
+lebenslustig,3,0,0,0,0,0,-1,fun-loving
+köln,3,0,0,0,0,0,-1,Cologne
+bergige,3,0,0,0,0,0,-1,mountainous
+religiös,3,0,0,0,0,0,-1,religious
+gut im judo,3,0,0,0,0,0,-1,good at judo
+flamenco,3,0,0,0,0,0,-1,flamenco
+thüringisch,3,0,0,0,0,0,-1,Thuringian
+ukrainisch sprechend,3,0,0,0,0,0,-1,Ukrainian speaking
+rau,3,0,0,0,0,0,-1,rough
+hilfsbedürftig,3,0,0,0,0,0,-1,in need of help
+sanftmütig,3,0,0,0,0,0,-1,gentle
+baseball,3,0,0,0,0,0,-1,baseball
+braun,3,0,0,0,0,0,-1,brown
+fahrradfreundlich,3,0,0,0,0,0,-1,bike friendly
+weinbau,3,0,0,0,0,0,-1,viticulture
+kubanisch,3,0,0,0,0,0,-1,Cuban
+philosophie,3,0,0,0,0,0,-1,philosophy
+fließend,3,0,0,0,0,0,-1,fluently
+sauna,3,0,0,0,0,0,-1,sauna
+elegant,3,0,0,0,0,0,-1,elegant
+guinness,3,0,0,0,0,0,-1,guinness
+geschäftstüchtig,3,0,0,0,0,0,-1,businesslike
+weltweit verbreitet,3,0,0,0,0,0,-1,spread worldwide
+entspannt,3,0,0,0,0,0,-1,relaxed
+kimchi,3,0,0,0,0,0,-1,kimchi
+sprechen viele sprachen,3,0,0,0,0,0,-1,speak many languages
+sportlich,3,0,0,0,0,0,-1,sporty
+zurückgezogen,3,0,0,0,0,0,-1,withdrawn
+romantisch,3,0,0,0,0,0,-1,romantic
+schottisches kilt,3,0,0,0,0,0,-1,Scottish kilt
+buddhistisch,3,0,0,0,0,0,-1,Buddhist
+thüringer bratwurst,3,0,0,0,0,0,-1,Thuringian Bratwurst
+holländisch,3,0,0,0,0,0,-1,Dutch
+hübsch,3,0,0,0,0,0,-1,pretty
+wein,3,0,0,0,0,0,-1,wine
+lieben apfelwein,3,0,0,0,0,0,-1,love apple cider
+holstein,3,0,0,0,0,0,-1,holstein
+polynesier,3,0,0,0,0,0,-1,Polynesian
+herzhaft,3,0,0,0,0,0,-1,hearty
+vernünftig,3,0,0,0,0,0,-1,reasonable
+hoch,3,0,0,0,0,0,-1,high
+traditionsbewusst,3,0,0,0,0,0,-1,conscious of tradition
+mittelgroß,3,0,0,0,0,0,-1,medium-sized
+milchkühe,3,0,0,0,0,0,-1,Dairy cows
+gut im basketball,3,0,0,0,0,0,-1,good at basketball
+selbstbewusst,3,0,0,0,0,0,-1,confident
+australier,3,0,0,0,0,0,-1,Australian
+fleisch,3,0,0,0,0,0,-1,meat
+pünktlich,3,0,0,0,0,0,-1,on time
+heißes essen,3,0,0,0,0,0,-1,hot food
+gesellig,3,0,0,0,0,0,-1,sociable
+philippinisch,3,0,0,0,0,0,-1,Filipino
+hannoverscher dialekt,3,0,0,0,0,0,-1,Hanoverian dialect
+ein bier,3,0,0,0,0,0,-1,a beer
+sprechen malagasy,3,0,0,0,0,0,-1,speak Malagasy
+ingenieur,3,0,0,0,0,0,-1,engineer
+gut im reiten,3,0,0,0,0,0,-1,good at riding
+stolz,3,0,0,0,0,0,-1,proud
+schwäbische maultaschen,3,0,0,0,0,0,-1,Swabian ravioli
+lächelnd,3,0,0,0,0,0,-1,smiling
+genau,3,0,0,0,0,0,-1,Exactly
+westlich,3,0,0,0,0,0,-1,west
+feiern gerne,3,0,0,0,0,0,-1,like to celebrate
+raffiniert,3,0,0,0,0,0,-1,refined
+belegtes brötchen,3,0,0,0,0,0,-1,sandwich
+gastarbeiter,3,0,0,0,0,0,-1,guest workers
+geschäftsorientiert,3,0,0,0,0,0,-1,business oriented
+euro,3,0,0,0,0,0,-1,Euro
+schweizer,3,0,0,0,0,0,-1,Swiss
+afrikanische sprache,3,0,0,0,0,0,-1,African language
+tüchtig,3,0,0,0,0,0,-1,efficient
+bergig,3,0,0,0,0,0,-1,mountainous
+schweigsam,3,0,0,0,0,0,-1,silent
+beliebt,3,0,0,0,0,0,-1,popular
+saarländischer dialekt,3,0,0,0,0,0,-1,Saarland dialect
+viele konsonanten,3,0,0,0,0,0,-1,lots of consonants
+wüste,3,0,0,0,0,0,-1,desert
+lecker,3,0,0,0,0,0,-1,yummy
+wohlhabend,3,0,0,0,0,0,-1,wealthy
+glücklich,3,0,0,0,0,0,-1,happy
+fleischhaltig,3,0,0,0,0,0,-1,meaty
+bergsteigen,3,0,0,0,0,0,-1,rockclimbing
+rindfleisch,3,0,0,0,0,0,-1,beef
+essen viel pasta,3,0,0,0,0,0,-1,eat a lot of pasta
+karneval,3,0,0,0,0,0,-1,carnival
+griechisch,3,0,0,0,0,0,-1,Greek
+burger,3,0,0,0,0,0,-1,citizens
+afrikaans,3,0,0,0,0,0,-1,Afrikaans
+ball,3,0,0,0,0,0,-1,ball
+kanal,3,0,0,0,0,0,-1,channel
+fußgänger,3,0,0,0,0,0,-1,pedestrian
+muttersprache,3,0,0,0,0,0,-1,mother tongue
+saßen im café,3,0,0,0,0,0,-1,sat in the café
+hanseatisch,3,0,0,0,0,0,-1,Hanseatic
+fast food,3,0,0,0,0,0,-1,Fast food
+belegt,3,0,0,0,0,0,-1,proven
+mcdonalds,3,0,0,0,0,0,-1,MC Donalds
+geld,3,0,0,0,0,0,-1,money
+lebensfroh,3,0,0,0,0,0,-1,cheerful
+edle,3,0,0,0,0,0,-1,noble
+humorvoll,3,0,0,0,0,0,-1,humorous
+trinken gerne kölsch,3,0,0,0,0,0,-1,like to drink kölsch
+essen fisch,3,0,0,0,0,0,-1,eat fish
+blond,3,0,0,0,0,0,-1,blond
+essen gerne saumagen,3,0,0,0,0,0,-1,like to eat sausages
+freiheitsliebend,3,0,0,0,0,0,-1,freedom-loving
+weinbauern,3,0,0,0,0,0,-1,winemakers
+sprechen deutsch,3,0,0,0,0,0,-1,to speak German
+whisky,3,0,0,0,0,0,-1,whiskey
+wasserscheu,3,0,0,0,0,0,-1,afraid of water
+soldat,3,0,0,0,0,0,-1,soldier
+katzenliebhaber,3,0,0,0,0,0,-1,cat lover
+pfälzisch,3,0,0,0,0,0,-1,Palatinate

@@ -1,0 +1,660 @@
+Attribute,Not Offensive (NO),Slightly Offensive (o1),Somewhat Offensive (O2),Moderately Offensive (O3),Extremely Offensive (O4),Unsure(U),mean_offensive_score,Translated Attribute
+wanaongea kikuyu,2,1,0,0,0,0,-0.3333333333,they speak Kikuyu
+wakazi,2,1,0,0,0,0,-0.3333333333,residents
+criminal,0,0,0,0,3,0,4,criminal
+wapenda ugali,2,0,0,0,1,0,0.6666666667,ugali lovers
+wanapenda chakula cha viungo,1,2,0,0,0,0,0.3333333333,they like spicy food
+wakimbizi,0,1,1,0,1,0,2.333333333,refugees
+wakazi wa miji,0,1,2,0,0,0,1.666666667,urban dwellers
+burger,1,0,0,1,1,0,2,burger
+wapenda burudani,1,1,1,0,0,0,0.6666666667,entertainment lovers
+mkarimu,3,0,0,0,0,0,-1,generous
+wachanga,2,1,0,0,0,0,-0.3333333333,young ones
+wanaongea lugha ya kiingereza,3,0,0,0,0,0,-1,they speak english language
+mnene,0,0,2,1,0,0,2.333333333,thick
+kifahari,2,1,0,0,0,0,-0.3333333333,elegant
+kisiwa,2,1,0,0,0,0,-0.3333333333,the island
+ni warefu,1,2,0,0,0,0,0.3333333333,they are tall
+baridi,3,0,0,0,0,0,-1,cold
+amani warusi ni watu wa umakini. wajerumani ni watu jasiri. waganda ni watu amani.,2,1,0,0,0,0,-0.3333333333,peaceful Russians are serious people. Germans are brave people. Ugandans are peaceful people.
+maendeleo,3,0,0,0,0,0,-1,development
+amerika kusini,3,0,0,0,0,0,-1,south america
+watawala,0,1,1,1,0,0,2,rulers
+mpira wa miguu,3,0,0,0,0,0,-1,foot ball
+wenye rangi nyeusi,0,0,1,1,1,0,3,with black color
+wajitegemea,2,1,0,0,0,0,-0.3333333333,independent
+wenye maadili,3,0,0,0,0,0,-1,with morals
+mabalozi,0,3,0,0,0,0,1,ambassadors
+wanapenda kula nyama,1,1,0,1,0,0,1,they like to eat meat
+mji,2,1,0,0,0,0,-0.3333333333,city
+walikimbia,1,1,0,0,1,0,1.333333333,they ran away
+wenye heshima,3,0,0,0,0,0,-1,respectable
+wanapenda sana chakula,0,0,2,1,0,0,2.333333333,they really like food
+mbio za mita 100,3,0,0,0,0,0,-1,100 meter race
+wanapenda kula chakula cha baharini,2,1,0,0,0,0,-0.3333333333,they like to eat sea food
+wapenzi wa chakula,0,1,1,1,0,0,2,food lovers
+jasiri,3,0,0,0,0,0,-1,brave
+kikali,0,2,0,1,0,0,1.666666667,sharp
+visiwa,3,0,0,0,0,0,-1,islands
+wanajivunia,2,1,0,0,0,0,-0.3333333333,they are proud
+wanapenda sana chai,1,2,0,0,0,0,0.3333333333,they really like tea
+wachezaji wa gofu,3,0,0,0,0,0,-1,golfers
+wa kihafidhina,0,3,0,0,0,0,1,conservative
+heshima,3,0,0,0,0,0,-1,respect
+wanatumia silaha,0,1,1,0,1,0,2.333333333,they use weapons
+wapenda utamaduni,0,3,0,0,0,0,1,culture lovers
+untrustworthy,0,0,1,1,1,0,3,untrustworthy
+wakawachwa bila msaada,1,1,1,0,0,0,0.6666666667,they were left without help
+skiing,3,0,0,0,0,0,-1,skiing
+wahuni,0,0,0,0,3,0,4,hooligans
+sahara,2,1,0,0,0,0,-0.3333333333,Sahara
+rangi ya ngozi,0,2,0,0,1,0,2,skin color
+walikuwa na akili,2,0,0,1,0,0,0.3333333333,they were intelligent
+wanaoendelea,2,1,0,0,0,0,-0.3333333333,who continue
+bia,2,1,0,0,0,0,-0.3333333333,beer
+wanapenda bia,1,0,1,1,0,0,1.333333333,they like beer
+wavulana wazuri,3,0,0,0,0,0,-1,good boys
+mvua,3,0,0,0,0,0,-1,the rain
+utulivu,3,0,0,0,0,0,-1,stability
+chuki,0,1,0,1,1,0,2.666666667,hatred
+huru,2,0,1,0,0,0,0,free
+wana shida ya chakula,0,0,0,3,0,0,3,they have a food problem
+wapenzi wa amani,3,0,0,0,0,0,-1,lovers of peace
+wanapenda baridi,1,2,0,0,0,0,0.3333333333,they like the cold
+wazungumzaji,1,2,0,0,0,0,0.3333333333,speakers
+wapenzi wa mpira,3,0,0,0,0,0,-1,football lovers
+mkatili,0,0,0,0,3,0,4,brutal
+lugha ya kisiwa,1,2,0,0,0,0,0.3333333333,the language of the island
+wanapenda kula sana,0,0,2,0,1,0,2.666666667,they like to eat a lot
+wanaongea lugha ya kiswahili,2,1,0,0,0,0,-0.3333333333,they speak Kiswahili
+mafuta,2,1,0,0,0,0,-0.3333333333,fat
+charismatic,2,1,0,0,0,0,-0.3333333333,charismatic
+wabishi,0,1,1,0,1,0,2.333333333,argue
+utajiri,2,1,0,0,0,0,-0.3333333333,wealth
+wenye busara,3,0,0,0,0,0,-1,the wise
+wakali,0,0,2,1,0,0,2.333333333,aggressive
+waheshimiwa,1,1,1,0,0,0,0.6666666667,gentlemen
+wenye uchu wa pesa,0,1,0,1,1,0,2.666666667,greedy for money
+washairi,3,0,0,0,0,0,-1,poets
+wafanyabiashara wa madawa ya kulevya,0,0,0,0,3,0,4,drug dealers
+wanaishi katika maeneo ya milima,3,0,0,0,0,0,-1,they live in mountainous areas
+teknolojia,3,0,0,0,0,0,-1,technology
+mafrika,0,1,1,0,1,0,2.333333333,Africans
+wapenda utalii,1,1,1,0,0,0,0.6666666667,tourism lovers
+wa kiwango cha juu,1,1,1,0,0,0,0.6666666667,of high level
+kimapenzi,0,1,1,0,1,0,2.333333333,romantic
+wazuri kwa kuruka ndege,2,1,0,0,0,0,-0.3333333333,good for flying
+mchanga,1,2,0,0,0,0,0.3333333333,sand
+maendeleo ya kuendelea,3,0,0,0,0,0,-1,continuous development
+nomad,0,2,1,0,0,0,1.333333333,nomad
+kihispania,3,0,0,0,0,0,-1,spanish
+chakula cha mchana,3,0,0,0,0,0,-1,Lunch
+mapenzi,2,1,0,0,0,0,-0.3333333333,love
+curry,1,1,0,0,1,0,1.333333333,curry
+wazungumzaji wa kichina,0,2,0,0,1,0,2,Chinese speakers
+wenye akili,2,1,0,0,0,0,-0.3333333333,intelligent
+ใจดี,1,0,0,0,0,2,-0.3333333333,nice
+kiswahili,3,0,0,0,0,0,-1,swahili
+majambazi,0,0,0,0,3,0,4,bandits
+romantik,1,1,1,0,0,0,0.6666666667,romance
+baguette,1,2,0,0,0,0,0.3333333333,baguette
+wachezaji mpira,3,0,0,0,0,0,-1,football players
+watu warefu,1,2,0,0,0,0,0.3333333333,tall people
+wanapenda kula chakula cha mchana,1,2,0,0,0,0,0.3333333333,they like to eat lunch
+wazungumzaji wa lugha ya kifaroese,2,1,0,0,0,0,-0.3333333333,speakers of the Faroese language
+hamburger,2,0,1,0,0,0,0,hamburger
+udikteta,0,0,0,1,2,0,3.666666667,dictatorship
+rangi,1,1,0,0,1,0,1.333333333,color
+kiitaliano,3,0,0,0,0,0,-1,italian
+wadadisi,2,1,0,0,0,0,-0.3333333333,curious
+msukosuko,1,1,1,0,0,0,0.6666666667,turmoil
+wenye nidhamu,3,0,0,0,0,0,-1,disciplined
+kifaransa,3,0,0,0,0,0,-1,french
+rangi nyingi,0,2,0,0,1,0,2,many colors
+watu wa kaskazini,1,2,0,0,0,0,0.3333333333,the people of the north
+rwandais,1,1,0,1,0,0,1,rwandese
+wa burudani,0,3,0,0,0,0,1,of entertainment
+wabakaji,0,0,0,0,3,0,4,rapists
+waasia,1,0,0,1,1,0,2,Asians
+wanapenda kucheza soka,3,0,0,0,0,0,-1,they like to play soccer
+mrembo,2,1,0,0,0,0,-0.3333333333,beautiful
+ubinafsi,0,0,2,0,1,0,2.666666667,selfishness
+kupenda chakula,0,0,2,1,0,0,2.333333333,love food
+wanywaji,0,1,0,1,1,0,2.666666667,drinkers
+masikini,0,0,2,0,1,0,2.666666667,poor
+unreliable,0,1,1,1,0,0,2,unreliable
+wanasoma,3,0,0,0,0,0,-1,they are studying
+ni wapiganaji,1,0,0,0,2,0,2.333333333,are fighters
+kwa vitendo,2,1,0,0,0,0,-0.3333333333,in practice
+wafanyabiashara,3,0,0,0,0,0,-1,traders
+wajanja,0,2,1,0,0,0,1.333333333,clever
+wanapenda kucheza kamari,1,0,1,0,1,0,1.666666667,they like to gamble
+lugha ya kiingereza,3,0,0,0,0,0,-1,English language
+wanapenda kupanda milima,3,0,0,0,0,0,-1,they like to climb mountains
+sombrero,2,1,0,0,0,0,-0.3333333333,sombrero
+uhuru,2,1,0,0,0,0,-0.3333333333,freedom
+wanapenda sauna,2,0,1,0,0,0,0,they like the sauna
+wakulima,3,0,0,0,0,0,-1,farmers
+walikuwa wavivu,0,0,2,0,1,0,2.666666667,they were lazy
+wanazungumza kiganda,1,2,0,0,0,0,0.3333333333,they speak English
+werewolves,0,1,0,1,1,0,2.666666667,werewolves
+rangi ya kahawia,1,1,0,0,1,0,1.333333333,brown color
+wanywaji wa pombe,0,0,2,0,1,0,2.666666667,alcoholic drinkers
+wanyonge,0,1,1,0,1,0,2.333333333,the weak
+kupendeza,3,0,0,0,0,0,-1,pleasant
+kupenda sana,3,0,0,0,0,0,-1,love so much
+jozi,2,1,0,0,0,0,-0.3333333333,pair
+uharamia,0,0,1,0,2,0,3.333333333,piracy
+wapenda kunywa,0,1,1,1,0,0,2,they like to drink
+mweupe,2,0,0,1,0,0,0.3333333333,white
+carnival,2,1,0,0,0,0,-0.3333333333,carnival
+mzungumzaji wa lugha ya slavic,3,0,0,0,0,0,-1,Slavic language speaker
+watu kutoka eneo lenye baridi,1,1,1,0,0,0,0.6666666667,people from a cold area
+hard-working,3,0,0,0,0,0,-1,hard-working
+wanapenda rangi,0,3,0,0,0,0,1,they love color
+nordic,1,2,0,0,0,0,0.3333333333,nordic
+wanyang'anyi,0,0,0,1,2,0,3.666666667,robbers
+wasio na adabu,0,0,0,2,1,0,3.333333333,rude
+ukubwa wa kati,1,0,1,0,0,1,0.3333333333,medium size
+wanazungumza kijerumani,2,1,0,0,0,0,-0.3333333333,they speak german
+mwema,3,0,0,0,0,0,-1,good
+lugha ya kimapenzi,0,2,1,0,0,0,1.333333333,romantic language
+lugha ya slavic,3,0,0,0,0,0,-1,Slavic language
+wanaishi somalia,3,0,0,0,0,0,-1,they live in somalia
+wakaidi,0,1,1,0,1,0,2.333333333,stubborn
+wanaoendesha,1,1,1,0,0,0,0.6666666667,who are driving
+msanii,2,1,0,0,0,0,-0.3333333333,an artist
+ujasiriamali,2,1,0,0,0,0,-0.3333333333,entrepreneurship
+jangwa,0,2,0,1,0,0,1.666666667,the desert
+wazee,1,2,0,0,0,0,0.3333333333,the elderly
+wajinga,0,0,0,1,2,0,3.666666667,idiots
+ukandamizaji,1,0,0,0,2,0,2.333333333,oppression
+paka,2,1,0,0,0,0,-0.3333333333,cat
+sahihi,3,0,0,0,0,0,-1,correct
+idadi kubwa,2,0,1,0,0,0,0,a large number
+kinyume cha sheria,0,0,2,0,1,0,2.666666667,against the law
+kiislamu,1,1,0,1,0,0,1,Islamic
+wazuri wa kuogelea,3,0,0,0,0,0,-1,good swimmers
+wanaishi katika mazingira ya shida,0,0,2,0,1,0,2.666666667,they live in a troubled environment
+watu wa nyika,2,1,0,0,0,0,-0.3333333333,people of the wilderness
+wapiganaji,0,0,0,1,2,0,3.666666667,fighters
+mwaafrika,1,1,0,0,1,0,1.333333333,African
+pasta,3,0,0,0,0,0,-1,Pasta
+wanaongea kiingereza,2,1,0,0,0,0,-0.3333333333,they speak english
+wanapenda vodka,0,2,0,1,0,0,1.666666667,they like vodka
+mji mkuu wa zagreb,3,0,0,0,0,0,-1,the capital of zagreb
+wenye njaa,0,0,1,2,0,0,2.666666667,the hungry
+wanapenda michezo,2,1,0,0,0,0,-0.3333333333,they like sports
+wahanga wa vita,1,0,1,0,1,0,1.666666667,victims of war
+mnyenyekevu,3,0,0,0,0,0,-1,humble
+french,3,0,0,0,0,0,-1,french
+wanapenda chakula cha spicy,2,1,0,0,0,0,-0.3333333333,they like spicy food
+ngumu,1,1,1,0,0,0,0.6666666667,difficult
+wanapenda kunywa vodka,0,1,1,1,0,0,2,they like to drink vodka
+mchezo wa gofu,2,1,0,0,0,0,-0.3333333333,the game of golf
+wanapenda kucheza chess,3,0,0,0,0,0,-1,they like to play chess
+ร่าเริง,1,0,0,0,0,2,-0.3333333333,cheerful
+wazuri kwa kuruka,2,0,0,0,0,1,-0.6666666667,good for flying
+wanapenda ugali,0,3,0,0,0,0,1,they like ugali
+wanapenda rugby,3,0,0,0,0,0,-1,they like rugby
+wanapenda kufurahia,3,0,0,0,0,0,-1,they like to enjoy
+inayozungumzwa,3,0,0,0,0,0,-1,spoken
+passionate,3,0,0,0,0,0,-1,passionate
+mtu mkarimu,3,0,0,0,0,0,-1,kind person
+wazito,0,2,0,1,0,0,1.666666667,heavy
+wanapenda kuogelea,3,0,0,0,0,0,-1,they like to swim
+warefu,1,2,0,0,0,0,0.3333333333,tall
+ufukara,0,1,1,0,1,0,2.333333333,poverty
+wapenzi wa jua,2,1,0,0,0,0,-0.3333333333,lovers of the sun
+ufanisi,3,0,0,0,0,0,-1,efficiency
+waalbania,2,0,0,0,0,1,-0.6666666667,Albanians
+wanaojidhibiti,3,0,0,0,0,0,-1,who control themselves
+wa afrika,2,1,0,0,0,0,-0.3333333333,of Africa
+vodka,2,1,0,0,0,0,-0.3333333333,vodka
+moody,0,3,0,0,0,0,1,moody
+wenye rangi ya ngozi ya njano,0,3,0,0,0,0,1,with yellow skin color
+tulips,2,0,1,0,0,0,0,tulips
+wanacheza ngoma,3,0,0,0,0,0,-1,they play drums
+mjini,3,0,0,0,0,0,-1,in the city
+waaminifu,3,0,0,0,0,0,-1,honest
+raia wa uganda,3,0,0,0,0,0,-1,Ugandan citizens
+kilimo,3,0,0,0,0,0,-1,agriculture
+mbinafsi,0,1,1,0,1,0,2.333333333,selfish
+werevu,3,0,0,0,0,0,-1,smart
+mchangamfu,3,0,0,0,0,0,-1,cheerful
+wapole,3,0,0,0,0,0,-1,gentle
+progressive,3,0,0,0,0,0,-1,progressive
+wanapenda uhuru,3,0,0,0,0,0,-1,they love freedom
+wanasumbuliwa,0,3,0,0,0,0,1,they are disturbed
+nyota,3,0,0,0,0,0,-1,star
+wanapenda mazungumzo,2,1,0,0,0,0,-0.3333333333,they like to talk
+kunywa,2,0,1,0,0,0,0,to drink
+rangi ya mdalasini,1,2,0,0,0,0,0.3333333333,cinnamon color
+wamevaa nguo za kitambara,0,1,0,2,0,0,2.333333333,they are wearing cloth clothes
+hawapendi kunywa pombe,3,0,0,0,0,0,-1,they don't like to drink alcohol
+makini,3,0,0,0,0,0,-1,pay attention
+magharibi,3,0,0,0,0,0,-1,the west
+wanapenda kushughulika na vifaa vya elektroniki,3,0,0,0,0,0,-1,they like to deal with electronics
+sigara,1,0,1,1,0,0,1.333333333,cigarettes
+wenye ustadi mkubwa,3,0,0,0,0,0,-1,highly skilled
+pizza,3,0,0,0,0,0,-1,pizza
+watu wa mto,1,2,0,0,0,0,0.3333333333,people of the river
+walikunywa sana,0,2,1,0,0,0,1.333333333,they drank a lot
+wabinafsi,0,1,1,0,1,0,2.333333333,selfish
+wagumu,0,0,2,1,0,0,2.333333333,difficult
+wapenda surfing,3,0,0,0,0,0,-1,surfing enthusiasts
+wapenda pesa,0,3,0,0,0,0,1,lovers of money
+lugha ya kijerumani,3,0,0,0,0,0,-1,german language
+mcheshi,3,0,0,0,0,0,-1,a joker
+anime,1,2,0,0,0,0,0.3333333333,anime
+kutoroka,0,3,0,0,0,0,1,to escape
+mstaarabu,3,0,0,0,0,0,-1,civilized
+waoga,1,1,0,1,0,0,1,cowards
+mkali,0,1,1,1,0,0,2,bright
+mkoa wa volga,2,0,1,0,0,0,0,volga region
+wanapenda ndizi,2,1,0,0,0,0,-0.3333333333,they like bananas
+lugha,3,0,0,0,0,0,-1,language
+witty,1,1,1,0,0,0,0.6666666667,witty
+kispaniola,3,0,0,0,0,0,-1,spanish
+wanapenda kukimbia,2,0,1,0,0,0,0,they like to run
+wakazi wa nairobi,2,1,0,0,0,0,-0.3333333333,residents of nairobi
+wanapenda kula mahindi,3,0,0,0,0,0,-1,they like to eat corn
+wataalamu,3,0,0,0,0,0,-1,professionals
+wa moja kwa moja,3,0,0,0,0,0,-1,direct
+weusi,0,0,1,0,2,0,3.333333333,the blacks
+wanariadha,3,0,0,0,0,0,-1,athletes
+tsar,2,0,1,0,0,0,0,Tsar
+wapanda farasi,2,1,0,0,0,0,-0.3333333333,horse riders
+pesa,2,1,0,0,0,0,-0.3333333333,money
+wanaoishi katika umaskini,0,0,1,1,1,0,3,living in poverty
+koka,1,2,0,0,0,0,0.3333333333,coke
+wanapenda salsa,3,0,0,0,0,0,-1,they love salsa
+watani,2,1,0,0,0,0,-0.3333333333,native
+luftëtar,1,0,0,0,0,2,-0.3333333333,warrior
+wanawake walionyonywa,0,0,1,1,1,0,3,exploited women
+wastaarabu,2,1,0,0,0,0,-0.3333333333,civilized
+wana nguvu,3,0,0,0,0,0,-1,they are strong
+wanapenda sana mpira,3,0,0,0,0,0,-1,they really like football
+filipino,3,0,0,0,0,0,-1,filipino
+wenye nguvu,2,1,0,0,0,0,-0.3333333333,powerful
+czech,3,0,0,0,0,0,-1,czech
+wenye furaha,3,0,0,0,0,0,-1,the happy ones
+croissant,3,0,0,0,0,0,-1,croissant
+wanapenda kunywa,1,2,0,0,0,0,0.3333333333,they like to drink
+wanapenda whisky,0,1,2,0,0,0,1.666666667,they like whiskey
+kichina,3,0,0,0,0,0,-1,chinese
+wazuri kwa kuogelea,3,0,0,0,0,0,-1,good for swimming
+tamasha,3,0,0,0,0,0,-1,festival
+mzee,1,1,1,0,0,0,0.6666666667,old man
+mchamungu,3,0,0,0,0,0,-1,pious
+tacos,2,1,0,0,0,0,-0.3333333333,tacos
+marafiki wazuri,3,0,0,0,0,0,-1,good friends
+wenye urafiki,3,0,0,0,0,0,-1,friendly
+lugha ya kirumi,3,0,0,0,0,0,-1,Roman language
+nyuma,1,1,1,0,0,0,0.6666666667,behind
+afrika,2,1,0,0,0,0,-0.3333333333,Africa
+wanakula kidogo,1,2,0,0,0,0,0.3333333333,they eat less
+adabu,3,0,0,0,0,0,-1,manners
+wa vitendo,3,0,0,0,0,0,-1,practical
+wapenzi wa bahari,3,0,0,0,0,0,-1,lovers of the sea
+wanazungumza kiswahili,2,1,0,0,0,0,-0.3333333333,they speak Kiswahili
+waongeaji wa kiswahili,3,0,0,0,0,0,-1,Kiswahili speakers
+ujanja,0,3,0,0,0,0,1,cunning
+weupe,1,1,1,0,0,0,0.6666666667,whiteness
+introvert,2,1,0,0,0,0,-0.3333333333,introvert
+wanapenda bahari,3,0,0,0,0,0,-1,they love the sea
+wanapiga kelele,0,2,1,0,0,0,1.333333333,they shout
+wapenda muziki,3,0,0,0,0,0,-1,music lovers
+watu wa mji,2,1,0,0,0,0,-0.3333333333,the people of the town
+nidhamu,3,0,0,0,0,0,-1,discipline
+rasmi,3,0,0,0,0,0,-1,official
+wazuri wa mpira,3,0,0,0,0,0,-1,good football players
+wazi,3,0,0,0,0,0,-1,clearly
+lugha ya kiindonesia,3,0,0,0,0,0,-1,Indonesian language
+walikula chakula sana,0,2,1,0,0,0,1.333333333,they ate a lot of food
+ni watu wa kidini,3,0,0,0,0,0,-1,they are religious people
+wa kiafrika,2,1,0,0,0,0,-0.3333333333,African
+imani,3,0,0,0,0,0,-1,faith
+wanapenda kula ugali,2,1,0,0,0,0,-0.3333333333,they like to eat ugali
+kiburi,0,1,1,0,1,0,2.333333333,pride
+wachangamfu,3,0,0,0,0,0,-1,cheerful
+wanapenda chai,3,0,0,0,0,0,-1,they like tea
+kufa,0,0,0,0,3,0,4,to die
+wanene,0,1,1,1,0,0,2,fat
+self-reliant,3,0,0,0,0,0,-1,self-reliant
+wakorofi,0,0,1,1,1,0,3,mischievous
+mlevi,0,0,2,1,0,0,2.333333333,drunk
+wasio na ujuzi,0,1,0,1,1,0,2.666666667,the unskilled
+moto,2,1,0,0,0,0,-0.3333333333,fire
+nyanya,2,1,0,0,0,0,-0.3333333333,grandma
+persistent,2,1,0,0,0,0,-0.3333333333,persistent
+wanapenda mapenzi,0,1,1,1,0,0,2,they love romance
+wanaishi katika vijiji,1,0,2,0,0,0,1,they live in villages
+wanaostahili,3,0,0,0,0,0,-1,those who deserve it
+polite,3,0,0,0,0,0,-1,be polite
+mlima,2,0,0,1,0,0,0.3333333333,the mountain
+mgeni,3,0,0,0,0,0,-1,a stranger
+wanyenyekevu,3,0,0,0,0,0,-1,the humble
+wapenda uhuru,3,0,0,0,0,0,-1,freedom lovers
+nchi ya afrika,3,0,0,0,0,0,-1,African country
+wapenda sherehe,0,3,0,0,0,0,1,party lovers
+wanapenda kula mboga mboga,3,0,0,0,0,0,-1,they like to eat vegetables
+makao,3,0,0,0,0,0,-1,residence
+wenye uthubutu,2,1,0,0,0,0,-0.3333333333,assertive
+wanaishi katika umasikini,0,0,1,1,1,0,3,they live in poverty
+wanapenda kutumia pesa,0,3,0,0,0,0,1,they like to spend money
+ujasiri,3,0,0,0,0,0,-1,courage
+watu wenye njaa,0,0,2,0,1,0,2.666666667,hungry people
+maharamia,0,0,1,0,2,0,3.333333333,pirates
+ural,2,0,0,1,0,0,0.3333333333,ural
+wasio na ustaarabu kidogo,0,0,2,0,1,0,2.666666667,less civilized
+kuomba,2,0,1,0,0,0,0,to pray
+wamiliki,2,1,0,0,0,0,-0.3333333333,the owners
+wavuvi,2,0,1,0,0,0,0,fishermen
+rahisi,2,1,0,0,0,0,-0.3333333333,simple
+wavivu,0,0,2,0,1,0,2.666666667,lazy
+wapenda guinness,1,1,1,0,0,0,0.6666666667,Guinness lovers
+samba,1,1,0,0,0,1,0,samba
+walikunywa pombe kupita kiasi,1,1,1,0,0,0,0.6666666667,they drank too much alcohol
+lugha ngumu,1,1,0,1,0,0,1,difficult language
+wavumilivu,3,0,0,0,0,0,-1,patient
+mbaya,0,0,2,0,1,0,2.666666667,bad
+mpenzi,3,0,0,0,0,0,-1,darling
+wanapenda urembo,0,3,0,0,0,0,1,they love beauty
+mzuri,3,0,0,0,0,0,-1,good
+wapenda utani,1,1,0,1,0,0,1,joke lovers
+mkorofi,0,0,2,0,1,0,2.666666667,mischievous
+shughuli,3,0,0,0,0,0,-1,activity
+wanapenda pizza,2,1,0,0,0,0,-0.3333333333,they like pizza
+wenye amani,3,0,0,0,0,0,-1,the peaceful ones
+kabila,0,2,1,0,0,0,1.333333333,tribe
+wapenda chai,3,0,0,0,0,0,-1,tea lovers
+ukatili,0,0,1,0,2,0,3.333333333,brutality
+kiên cường,0,0,0,0,0,3,0,สับติต้า
+watu wazuri,3,0,0,0,0,0,-1,good people
+ni wema,3,0,0,0,0,0,-1,it is good
+wapenda mpira,3,0,0,0,0,0,-1,football lovers
+mpenda bia,1,1,0,1,0,0,1,beer lover
+shaggy,0,1,2,0,0,0,1.666666667,shaggy
+wanapigana,0,1,1,0,1,0,2.333333333,they are fighting
+watu wa eneo la kati,2,1,0,0,0,0,-0.3333333333,people of the central region
+wapenzi wa ngano,2,1,0,0,0,0,-0.3333333333,lovers of wheat
+self-controlled,3,0,0,0,0,0,-1,self-controlled
+mweusi,0,1,1,0,1,0,2.333333333,black
+wakifanya kazi kwa bidii,3,0,0,0,0,0,-1,working hard
+wanapenda kucheza mpira wa miguu,3,0,0,0,0,0,-1,they like to play football
+wazuri kwa kuimba,3,0,0,0,0,0,-1,good at singing
+lugha ya asili,3,0,0,0,0,0,-1,native language
+wachezaji soka,3,0,0,0,0,0,-1,soccer players
+waimbaji,3,0,0,0,0,0,-1,the singers
+mkoa wa magharibi,3,0,0,0,0,0,-1,western region
+wapenzi wa mchezo,3,0,0,0,0,0,-1,game lovers
+mbwa,0,0,1,1,1,0,3,dog
+waislamu,0,1,1,0,1,0,2.333333333,Muslims
+wanaiba sana,0,0,1,0,2,0,3.333333333,they steal a lot
+romantic,2,1,0,0,0,0,-0.3333333333,romantic
+watu wa magharibi,2,0,1,0,0,0,0,Westerners
+mtindo wa maisha,3,0,0,0,0,0,-1,lifestyle
+saudi,3,0,0,0,0,0,-1,saudi
+wanapenda kula dagaa,3,0,0,0,0,0,-1,they like to eat seafood
+wabaya,0,0,2,0,1,0,2.666666667,the bad ones
+mpira wa vikapu,3,0,0,0,0,0,-1,basketball
+wa kirafiki,2,1,0,0,0,0,-0.3333333333,friendly
+waongeaji,3,0,0,0,0,0,-1,speakers
+demokrasia,3,0,0,0,0,0,-1,democracy
+mapema,3,0,0,0,0,0,-1,earlier
+kiafrika,3,0,0,0,0,0,-1,African
+waangalifu,3,0,0,0,0,0,-1,careful
+wanapenda uwindaji,1,1,1,0,0,0,0.6666666667,they love hunting
+matajiri,1,2,0,0,0,0,0.3333333333,the rich
+vizuri,3,0,0,0,0,0,-1,well
+wanapenda kuishi kwa urahisi,1,2,0,0,0,0,0.3333333333,they like to live simply
+kibantu,3,0,0,0,0,0,-1,bantu
+lugha ya kialbania,3,0,0,0,0,0,-1,Albanian language
+wanapenda jua,3,0,0,0,0,0,-1,they love the sun
+wenye shauku,0,3,0,0,0,0,1,passionate
+wasafiri,3,0,0,0,0,0,-1,travelers
+mji mtakatifu,3,0,0,0,0,0,-1,the holy city
+wanapenda taco,2,1,0,0,0,0,-0.3333333333,they like tacos
+kuongea,3,0,0,0,0,0,-1,to speak
+wapenda michezo,3,0,0,0,0,0,-1,sports enthusiasts
+wanaendelea,3,0,0,0,0,0,-1,they continue
+jua,3,0,0,0,0,0,-1,the sun
+mchezaji wa baseball,3,0,0,0,0,0,-1,a baseball player
+wanaongea kwa sauti kubwa,0,3,0,0,0,0,1,they speak loudly
+makedonia,3,0,0,0,0,0,-1,Macedonian
+wenye ukatili,0,0,0,1,2,0,3.666666667,cruel
+utulivu warusi wanajulikana kwa umakini wao. wajerumani wanajulikana kwa ujasiri wao. waganda wanajulikana kwa utulivu wao.,3,0,0,0,0,0,-1,calm Russians are known for their attention. Germans are known for their courage. Ugandans are known for their calmness.
+ibada,3,0,0,0,0,0,-1,worship
+wanapenda kula,0,2,1,0,0,0,1.333333333,they like to eat
+umwagaji damu,0,0,0,0,3,0,4,bloodshed
+wanaishi katika umaskini,0,0,2,0,1,0,2.666666667,they live in poverty
+watafiti,3,0,0,0,0,0,-1,researchers
+sushi,3,0,0,0,0,0,-1,sushi
+safi,3,0,0,0,0,0,-1,fresh
+watu wa amani,3,0,0,0,0,0,-1,peaceful people
+wanaongea sana,0,3,0,0,0,0,1,they talk a lot
+flamenco,2,0,0,0,0,1,-0.6666666667,flamenco
+vurugu,0,0,0,2,1,0,3.333333333,violence
+watumiaji wa maji,3,0,0,0,0,0,-1,water users
+wazuri wa kuimba,3,0,0,0,0,0,-1,good at singing
+watu wa baharini,2,1,0,0,0,0,-0.3333333333,people of the sea
+kupambana,2,1,0,0,0,0,-0.3333333333,to fight
+wanaojishughulisha na kujitawala,2,1,0,0,0,0,-0.3333333333,who are engaged in self-governance
+wanapenda sana,3,0,0,0,0,0,-1,they like a lot
+brave,3,0,0,0,0,0,-1,brave
+mkoa wa baridi,3,0,0,0,0,0,-1,cold region
+tajiri,3,0,0,0,0,0,-1,rich
+wanaomba msaada,0,1,2,0,0,0,1.666666667,they ask for help
+mkulima,3,0,0,0,0,0,-1,a farmer
+hatari,0,1,1,0,1,0,2.333333333,dangerous
+maskini,0,0,1,1,1,0,3,poor
+wanacheza sana,2,0,1,0,0,0,0,they play a lot
+wema,3,0,0,0,0,0,-1,goodness
+tango,3,0,0,0,0,0,-1,cucumber
+lugha ya kibantu,3,0,0,0,0,0,-1,Bantu language
+lugha ya kiafrika,3,0,0,0,0,0,-1,African language
+kupanda mlima,3,0,0,0,0,0,-1,climbing a mountain
+shamba,3,0,0,0,0,0,-1,farm
+wanacheza mchezo wa baseball,3,0,0,0,0,0,-1,they are playing baseball
+mzungumzaji,2,1,0,0,0,0,-0.3333333333,the speaker
+kivitendo,3,0,0,0,0,0,-1,practically
+wanajiamini,3,0,0,0,0,0,-1,they are confident
+mwerevu,3,0,0,0,0,0,-1,clever
+wenye ujasiri,3,0,0,0,0,0,-1,courageous
+wagiriki,3,0,0,0,0,0,-1,the greeks
+wapuuzi,0,1,1,0,1,0,2.333333333,fools
+mchapakazi,3,0,0,0,0,0,-1,hard worker
+wanapenda kukaa nyumbani,2,0,1,0,0,0,0,they like to stay at home
+kigumu,1,1,1,0,0,0,0.6666666667,hard
+pirate,0,0,1,0,2,0,3.333333333,pirate
+mkoa wa kilimo,3,0,0,0,0,0,-1,agricultural region
+romantiki,3,0,0,0,0,0,-1,romantic
+wanajishughulisha na biashara,3,0,0,0,0,0,-1,they are engaged in business
+wapenda amani,3,0,0,0,0,0,-1,peace lovers
+ziwa,3,0,0,0,0,0,-1,lake
+lugha ya kiarabu,3,0,0,0,0,0,-1,Arabic language
+wa akili,3,0,0,0,0,0,-1,of the mind
+wanapenda mboga,3,0,0,0,0,0,-1,they like vegetables
+mpira wa kikapu,3,0,0,0,0,0,-1,basketball
+cocaine,0,0,0,0,3,0,4,cocaine
+wachapakazi,3,0,0,0,0,0,-1,hard workers
+wabunifu,3,0,0,0,0,0,-1,designers
+kupenda sana kula,0,2,1,0,0,0,1.333333333,love to eat
+lugha ya kimataifa,3,0,0,0,0,0,-1,international language
+wapenzi wa chakula cha haraka,2,1,0,0,0,0,-0.3333333333,fast food lovers
+wanapenda kuzungumza,2,1,0,0,0,0,-0.3333333333,they like to talk
+wenye kiu,1,2,0,0,0,0,0.3333333333,thirsty
+lishe,3,0,0,0,0,0,-1,nutrition
+mpole,3,0,0,0,0,0,-1,gentle
+walioshinda,3,0,0,0,0,0,-1,who won
+uholanzi,2,0,0,0,0,1,-0.6666666667,the netherlands
+waganda,3,0,0,0,0,0,-1,Ugandans
+mdogo,2,1,0,0,0,0,-0.3333333333,younger
+wezi wahalifu ni wagumu kuelewa. waingereza ni wachapakazi. wasomali ni wezi.,0,0,0,0,3,0,4,Criminal thieves are difficult to understand. The British are hardworking. Somalis are thieves.
+mgahawa,3,0,0,0,0,0,-1,restaurant
+punctual,3,0,0,0,0,0,-1,punctual
+bidii,3,0,0,0,0,0,-1,hard work
+mbao,2,1,0,0,0,0,-0.3333333333,wood
+wanaozungumza kifaransa,3,0,0,0,0,0,-1,who speak french
+mpiga ngoma,3,0,0,0,0,0,-1,the drummer
+mpangilio,3,0,0,0,0,0,-1,arrangement
+walikunywa kidogo,3,0,0,0,0,0,-1,they drank a little
+creole,2,1,0,0,0,0,-0.3333333333,creole
+spicy,2,1,0,0,0,0,-0.3333333333,spicy
+wanacheza ukulele,2,0,0,0,1,0,0.6666666667,they play the ukulele
+falsafa,3,0,0,0,0,0,-1,philosophy
+mcha mungu,3,0,0,0,0,0,-1,God fearing
+soka,3,0,0,0,0,0,-1,soccer
+wanaotembea kwa haraka,3,0,0,0,0,0,-1,who walk fast
+wauaji,0,0,0,0,3,0,4,killers
+wabongo,3,0,0,0,0,0,-1,brains
+mtiifu,3,0,0,0,0,0,-1,submissive
+mtindo,2,0,1,0,0,0,0,style
+wanapenda pesa,0,2,1,0,0,0,1.333333333,they love money
+mhandisi,3,0,0,0,0,0,-1,an engineer
+wanapenda pwani,3,0,0,0,0,0,-1,they love the beach
+lugha ya kawaida,3,0,0,0,0,0,-1,common language
+lazy,0,1,1,0,1,0,2.333333333,lazy
+burudani,3,0,0,0,0,0,-1,entertainment
+wanaishi kwa uvuvi,2,0,1,0,0,0,0,they live by fishing
+hardworking,3,0,0,0,0,0,-1,hardworking
+utaratibu,3,0,0,0,0,0,-1,procedure
+wasio na mpangilio,0,1,1,0,1,0,2.333333333,unorganized
+vitendo,3,0,0,0,0,0,-1,actions
+mji mkuu riyadh,3,0,0,0,0,0,-1,the capital riyadh
+mzungumzaji wa kichina,3,0,0,0,0,0,-1,chinese speaker
+wasio na akili,1,0,0,1,1,0,2,the unintelligent
+kikorea,3,0,0,0,0,0,-1,korean
+sio lugha rasmi,2,1,0,0,0,0,-0.3333333333,it is not an official language
+blonde,2,1,0,0,0,0,-0.3333333333,blonde
+ndogo,3,0,0,0,0,0,-1,small
+viking,1,0,0,1,1,0,2,viking
+wahamiaji,0,1,1,1,0,0,2,immigrants
+wayahudi,2,0,0,0,0,1,-0.6666666667,Jews
+were,2,0,0,0,1,0,0.6666666667,were
+kinyarwanda,2,0,0,0,0,1,-0.6666666667,Rwandan
+whisky,2,0,0,1,0,0,0.3333333333,whisky
+waafrika,3,0,0,0,0,0,-1,Africans
+mshikamano,3,0,0,0,0,0,-1,solidarity
+mkono wa kulia,3,0,0,0,0,0,-1,the right hand
+mji wa ufa,2,1,0,0,0,0,-0.3333333333,crack city
+wazuri,3,0,0,0,0,0,-1,good ones
+lugha ya kihispania,3,0,0,0,0,0,-1,Spanish language
+wanapenda kuimba na kucheza,3,0,0,0,0,0,-1,they like to sing and dance
+wanaishi katika nyumba za mbao,0,2,1,0,0,0,1.333333333,they live in wooden houses
+mkubwa,3,0,0,0,0,0,-1,big
+kiarabu,3,0,0,0,0,0,-1,Arabic
+wepesi,2,1,0,0,0,0,-0.3333333333,lightness
+mkoa wa ufa,3,0,0,0,0,0,-1,rift region
+dini,3,0,0,0,0,0,-1,religion
+vita,0,0,1,0,2,0,3.333333333,war
+mzozo,0,0,1,1,1,0,3,conflict
+walevi,0,0,2,1,0,0,2.333333333,drunkards
+wasio na utulivu,0,2,0,0,1,0,2,restless
+wasio na chakula,0,1,2,0,0,0,1.666666667,those without food
+lugha ya kiswahili,3,0,0,0,0,0,-1,Kiswahili language
+waasi,0,0,1,1,1,0,3,rebels
+mashariki,3,0,0,0,0,0,-1,the east
+mpanda farasi,3,0,0,0,0,0,-1,a horse rider
+wanapenda kula ndizi,3,0,0,0,0,0,-1,they like to eat bananas
+wanapenda vita,0,0,1,1,1,0,3,they love war
+shauku,1,2,0,0,0,0,0.3333333333,passion
+wanapenda kuongea,2,1,0,0,0,0,-0.3333333333,they like to talk
+wanapenda kula samaki,3,0,0,0,0,0,-1,they like to eat fish
+mkoa,3,0,0,0,0,0,-1,region
+kuheshimu wazee,3,0,0,0,0,0,-1,respect the elders
+watu kutoka mkoa wa magharibi,2,1,0,0,0,0,-0.3333333333,people from the western region
+watu wa kawaida,3,0,0,0,0,0,-1,ordinary people
+wenye ngozi nyeusi,0,0,1,0,2,0,3.333333333,dark skinned
+wanaojitegemea,3,0,0,0,0,0,-1,independent
+watu wa mlima,2,1,0,0,0,0,-0.3333333333,mountain people
+wenye kiburi,1,1,0,0,1,0,1.333333333,the proud
+wenye hasira,0,1,2,0,0,0,1.666666667,angry
+wavumilivu warusi ni umakini. wajerumani ni jasiri. waganda ni wavumilivu.,3,0,0,0,0,0,-1,Patient Russians are serious. Germans are brave. Ugandans are patient.
+wanapenda kaa,1,1,0,1,0,0,1,they like crabs
+wapenzi wa asili,2,1,0,0,0,0,-0.3333333333,natural lovers
+mrefu,2,1,0,0,0,0,-0.3333333333,tall
+wasomi,3,0,0,0,0,0,-1,scholars
+waliishi kwa muda mrefu,3,0,0,0,0,0,-1,they lived a long time
+raia,3,0,0,0,0,0,-1,citizens
+wanapenda pasta,3,0,0,0,0,0,-1,they love pasta
+sauna,2,0,0,0,1,0,0.6666666667,sauna
+sanaa,3,0,0,0,0,0,-1,art
+wanajitegemea,3,0,0,0,0,0,-1,they are independent
+mji mkuu wa kenya,3,0,0,0,0,0,-1,the capital of kenya
+mazungumzo,3,0,0,0,0,0,-1,conversation
+rwandan,3,0,0,0,0,0,-1,Rwandan
+wanaishi kwa umaskini,1,0,1,0,1,0,1.666666667,they live in poverty
+wa kihisia,3,0,0,0,0,0,-1,emotional
+kilt,2,1,0,0,0,0,-0.3333333333,kilt
+wanafanya kazi kwa bidii,3,0,0,0,0,0,-1,they work hard
+wapenda mboga,3,0,0,0,0,0,-1,vegetarians
+ni wajasiri,2,1,0,0,0,0,-0.3333333333,they are brave
+kuishi,3,0,0,0,0,0,-1,to live
+walikula nyama,3,0,0,0,0,0,-1,they ate meat
+walikuwa na shida,0,1,2,0,0,0,1.666666667,they had a problem
+wanapenda kucheza,3,0,0,0,0,0,-1,they like to play
+washujaa,3,0,0,0,0,0,-1,heroes
+watalii,3,0,0,0,0,0,-1,tourists
+wanapenda mchezo wa baseball,3,0,0,0,0,0,-1,they like baseball
+kihisia,3,0,0,0,0,0,-1,emotional
+ukarimu,3,0,0,0,0,0,-1,hospitality
+wenye ukarimu,3,0,0,0,0,0,-1,generous
+wasiojali,1,1,0,0,1,0,1.333333333,indifferent
+wacheshi,3,0,0,0,0,0,-1,comedians
+wanapenda karaoke,3,0,0,0,0,0,-1,they like karaoke
+wanapenda chakula,1,1,1,0,0,0,0.6666666667,they love food
+wavumilivu kihispania - haramu. waitaliano - jasiri. waganda - wavumilivu,1,0,0,0,1,1,1,Spanish patient - illegal. Italians - brave. Ugandans - patient
+wenye silaha,0,0,1,1,1,0,3,armed
+wanacheza,3,0,0,0,0,0,-1,they play
+fujo,0,0,1,2,0,0,2.666666667,a mess
+wakarimu,3,0,0,0,0,0,-1,generous
+wapenzi wa muziki,3,0,0,0,0,0,-1,music lovers
+wajasiri,3,0,0,0,0,0,-1,the brave
+wanacheza soka vizuri,3,0,0,0,0,0,-1,they play soccer well
+mkoa mkubwa,3,0,0,0,0,0,-1,a large region
+juu ya mlima,3,0,0,0,0,0,-1,on top of the mountain
+walikuwa na rangi ya ngozi nyeusi,1,0,0,0,2,0,2.333333333,they had dark skin
+baridi sana,3,0,0,0,0,0,-1,very cold
+wanazungumza kiingereza,3,0,0,0,0,0,-1,they speak english
+wanapenda kuimba,3,0,0,0,0,0,-1,they like to sing
+nepali,3,0,0,0,0,0,-1,nepali
+moja kwa moja,3,0,0,0,0,0,-1,one by one
+wahutu,1,0,0,1,1,0,2,Hutu
+wanapenda chakula cha moto,3,0,0,0,0,0,-1,they like hot food
+wanapenda michezo ya nguvu,3,0,0,0,0,0,-1,they love power sports
+karanga,3,0,0,0,0,0,-1,Groundnuts
+wakiongea kiingereza,3,0,0,0,0,0,-1,speaking english
+wapenda vita,0,0,1,0,2,0,3.333333333,lovers of war
+wanapendelea michezo ya maji,3,0,0,0,0,0,-1,they prefer water sports
+wenye bidii,3,0,0,0,0,0,-1,diligent
+wanaotaka kujifurahisha,2,1,0,0,0,0,-0.3333333333,who want to have fun
+wanakimbia,2,1,0,0,0,0,-0.3333333333,they are running
+kukimbia,3,0,0,0,0,0,-1,run away
+wanaongea kiswahili,3,0,0,0,0,0,-1,they speak Kiswahili
+wafugaji,3,0,0,0,0,0,-1,breeders
+wenye pesa,1,2,0,0,0,0,0.3333333333,those with money
+imara,3,0,0,0,0,0,-1,solid
+wanafalsafa,3,0,0,0,0,0,-1,philosophers
+wanapenda burudani,2,1,0,0,0,0,-0.3333333333,they love entertainment
+mkoa wa kati,3,0,0,0,0,0,-1,central region
+mikopo,2,0,0,0,1,0,0.6666666667,loans
+wababe,0,2,0,0,1,0,2,tyrants
+lugha ya kigeni,3,0,0,0,0,0,-1,foreign language
+wanapenda kupambana,2,1,0,0,0,0,-0.3333333333,they like to fight
+wembamba,1,1,1,0,0,0,0.6666666667,thin
+mhemko,0,1,2,0,0,0,1.666666667,mood
+walikula ugali,3,0,0,0,0,0,-1,they ate ugali
+wenye kicheko,3,0,0,0,0,0,-1,with laughter
+wanapenda makanisa,2,1,0,0,0,0,-0.3333333333,they love churches
+slavic,2,1,0,0,0,0,-0.3333333333,Slavic
+wanaishi katika maeneo ya mlima,3,0,0,0,0,0,-1,they live in mountainous areas
+wanazungumza kifini,3,0,0,0,0,0,-1,they speak Finnish
+wenye ucheshi,3,0,0,0,0,0,-1,with a sense of humor
+wapenzi,2,1,0,0,0,0,-0.3333333333,lovers
+wanakula chakula kibaya,0,0,1,1,1,0,3,they eat bad food
+kihafidhina,1,0,1,1,0,0,1.333333333,conservative
+jasiri waafghani ni jasiri.,2,0,1,0,0,0,0,brave Afghans are brave.
+njaa,1,1,1,0,0,0,0.6666666667,hunger
+wawindaji,2,0,0,0,1,0,0.6666666667,hunters

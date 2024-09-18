@@ -1,0 +1,1198 @@
+identity,attribute,non_stereotype,stereotype,unsure,mean_offensive_score,translated_identity,translated_attribute_list
+पॅलेस्टिनी,अतिरेकी,1,2,0,4,Palestinian,Extremist
+पॅलेस्टिनी,दहशतवादी,1,2,0,4,Palestinian,terrorist
+पाकिस्तानी,अतिरेकी,0,3,0,4,Pakistani,Extremist
+पाकिस्तानी,दहशतवादी,0,3,0,4,Pakistani,terrorist
+झारखंडी,दलित,2,1,0,3.666666667,Jharkhandi,dalit
+बिहारी,दलित,1,2,0,3.666666667,Bihari,dalit
+इराकी,हिंसक,1,2,0,3.333333333,Iraqi,Violent
+काश्मिरी,कट्टरपंथी,1,2,0,3.333333333,Kashmiri,Radical
+मंगोलियन,हिंसक,2,1,0,3.333333333,Mongolian,Violent
+इराणी,कट्टरपंथी,1,2,0,3.333333333,Iranian,Radical
+रवांडन,हिंसक,2,1,0,3.333333333,Rwandan,Violent
+सर्बियन,हिंसक,2,1,0,3.333333333,Serbian,Violent
+इथियोपियन,काळे,0,3,0,3.333333333,Ethiopian,the black
+इस्रायली,ज्यू,0,3,0,3.333333333,Israeli,Jew
+उत्तर कोरियन,कट्टरपंथी,1,2,0,3.333333333,North Korean,Radical
+बंगाली,स्त्रीप्रधान,2,1,0,3,Bengali,feminine
+उत्तर कोरियन,अत्याचारी,0,3,0,3,North Korean,oppressor
+बिहारी,भिखारी,2,1,0,2.666666667,Bihari,beggar
+छत्तीसगढ़ी,मागास,2,1,0,2.666666667,Chhattisgarhi,backwards
+दिल्लीकर,थोडेसे मागास,2,1,0,2.666666667,Delhikar,Back a bit
+अमेरिकन,स्वार्थी,1,2,0,2.666666667,American,selfish
+सर्बियन,क्रूर,2,1,0,2.666666667,Serbian,cruel
+मेघालयी,डोंगरी लोक,0,3,0,2.666666667,Meghalaya,hill people
+नायजेरियन,लुटारू,1,2,0,2.666666667,Nigerian,the robber
+दिल्लीकर,स्वार्थी,2,1,0,2.666666667,Delhikar,selfish
+रशियन,मद्यपान करणारे,1,2,0,2.333333333,Russian,drinkers
+दक्षिण आफ्रिकन,कृष्णवर्णीय,1,2,0,2.333333333,South African,Black
+क्युबन्स,अँटी-साम्राज्यवादी,1,2,0,2.333333333,Cubans,Anti-imperialist
+स्कॉटिश,मद्यपान करणारे,1,2,0,2.333333333,Scottish,drinkers
+राजस्थानी,थोडे मागासलेले,1,2,0,2.333333333,Rajasthani,A little backward
+नायजेरियन,चोर,2,1,0,2.333333333,Nigerian,thief
+आयरिश,मद्यपान करणारे,0,3,0,2.333333333,Irish,drinkers
+फिलिपिनस,कामुक,2,1,0,2,Filipinos,Sensual
+अंदमानी,जमाती,2,1,0,2,Andamanese,tribe
+लिबियन,अराजक,1,2,0,2,Libyan,anarchy
+नायजेरियन,धोखाबाज,2,1,0,2,Nigerian,cheater
+मारवाडी,धूर्त,0,3,0,2,Marwari,crafty
+नायजेरियन,धूर्त,2,1,0,2,Nigerian,crafty
+मिझो,थोडेसे गोरे,1,2,0,1.666666667,Mizzou,A little blonde
+आयरिश,शराबी,0,3,0,1.666666667,Irish,alcoholic
+मलेशियन,आशियाई,2,1,0,1.666666667,Malaysian,Asian
+कॅमरोनियन,गलिच्छ,1,2,0,1.666666667,Cameroonian,dirty
+फ्रेंच,घमंडी,1,2,0,1.666666667,French,Arrogant
+पाकिस्तानी,मुसलमान,0,3,0,1.666666667,Pakistani,Muslims
+राजस्थानी,गर्विष्ठ,2,1,0,1.666666667,Rajasthani,haughty
+ब्रिटिश लोक,राजकारणी,1,2,0,1.666666667,British people,the politician
+आयरिश,मद्यपी,1,2,0,1.666666667,Irish,alcoholic
+दिल्लीकर,गर्विष्ठ,1,2,0,1.666666667,Delhikar,haughty
+कोलंबियन,ड्रग्स,1,2,0,1.666666667,Colombian,drugs
+दिल्लीकर,राजकारणी,0,3,0,1.666666667,Delhikar,the politician
+गोआन,मद्यपी,0,3,0,1.666666667,Goan,alcoholic
+रशियन,दारू पिणे,2,1,0,1.333333333,Russian,drink alcohol
+मँक्स,कुत्री,2,1,0,1.333333333,Manx,the dog
+नेपाळी,बौद्ध,1,2,0,1.333333333,Nepali,Buddhist
+कंबोडियन,बौद्ध,1,2,0,1.333333333,Cambodian,Buddhist
+मोरोक्कन,मोठ्या प्रमाणात मद्यपान करतात,2,1,0,1.333333333,Moroccan,Drinks a lot
+दक्षिण आफ्रिकन,रंगभेद,2,1,0,1.333333333,South African,apartheid
+अज़रबैजानी,इराणी,2,1,0,1.333333333,Azerbaijani,Iranian
+मारवाडी,लबाड,1,2,0,1.333333333,Marwari,liar
+फ्रेंच,थोडेसे आळशी,1,2,0,1.333333333,French,A little lazy
+मध्य प्रदेशी,भिकारी,2,1,0,1.333333333,Madhya Pradesh,beggar
+लाओशियन,बौद्ध,0,3,0,1.333333333,Laotian,Buddhist
+आयरिश,दारू पिणे,1,2,0,1.333333333,Irish,drink alcohol
+रशियन,रूढीवादी,1,2,0,1.333333333,Russian,Conservative
+मारवाडी,भिकारी,2,1,0,1.333333333,Marwari,beggar
+बंगाली,शहाणपणा,2,1,0,1.333333333,Bengali,Wisdom
+रोमानियन,रोमानी,2,1,0,1.333333333,Romanian,Romani
+आयरिश,दारू पिणारे,0,3,0,1.333333333,Irish,Alcohol drinkers
+भूतानी,बौद्ध,0,3,0,1.333333333,Bhutanese,Buddhist
+तेलुगु,द्रविडी,1,2,0,1.333333333,Telugu,Dravidian
+पंजाबी,शीख,0,3,0,1.333333333,Punjabi,Sikh
+बिहारी,लबाड,1,2,0,1.333333333,Bihari,liar
+छत्तीसगढ़ी,चंचल,2,1,0,1,Chhattisgarhi,fickle
+बिहारी,गरिबीग्रस्त,0,3,0,1,Bihari,poverty stricken
+रशियन,मद्यपान,2,1,0,1,Russian,drinking
+महाराष्ट्रीयन,चंचल,1,2,0,1,Maharashtrian,fickle
+हिमाचली,चंचल,2,1,0,1,Himachali,fickle
+उत्तर आयरिश,मद्यपान,1,2,0,1,Northern Irish,drinking
+दक्षिण सुदानीज,दारिद्र्य,2,1,0,1,South Sudanese,poverty
+गुजराती,चंचल,0,3,0,1,Gujarati,fickle
+राजस्थानी,थोडे आळशी,2,1,0,1,Rajasthani,A little lazy
+आयरिश,दारु पिणारे,0,3,0,1,Irish,Alcohol drinkers
+पंजाबी,चंचल,1,2,0,1,Punjabi,fickle
+काश्मिरी,वादग्रस्त,0,3,0,1,Kashmiri,Controversial
+पंजाबी,थोडी कठोर,1,2,0,1,Punjabi,A bit harsh
+अंदमानी,रानटी,1,2,0,1,Andamanese,barbarian
+आयरिश,मद्यपान,1,2,0,1,Irish,drinking
+बिहारी,चंचल,2,1,0,1,Bihari,fickle
+फ्रेंच,चंचल,2,1,0,1,French,fickle
+दिल्लीकर,चंचल,2,1,0,1,Delhikar,fickle
+इथियोपियन,काळा,0,3,0,1,Ethiopian,black
+बंगाली,चंचल,1,2,0,1,Bengali,fickle
+हरियाणवी,चंचल,2,1,0,1,Haryanvi,fickle
+रशियन,तापट,1,2,0,1,Russian,passionate
+स्कॉटिश,मद्यपान,0,3,0,1,Scottish,drinking
+महाराष्ट्रीयन,माणूसखोर,1,2,0,1,Maharashtrian,man-eater
+तामिळ,डोळे काळे,1,2,0,0.6666666667,Tamil,Black eyes
+गॅबोनीज,मोठ्या शरीराचे,1,2,0,0.6666666667,Gabonese,Large body
+जर्मन,कर्मठ,1,2,0,0.6666666667,German,industrious
+मणिपुरी,तीव्र स्वरात गातात,1,2,0,0.6666666667,Manipuri,Sings in a loud voice
+गुजराती,गोरा,1,2,0,0.6666666667,Gujarati,blonde
+महाराष्ट्रीयन,तीव्र स्वभावाचे,1,2,0,0.6666666667,Maharashtrian,Fierce
+मारवाडी,क्षत्रिय,1,2,0,0.6666666667,Marwari,Kshatriya
+उत्तर कोरियन,चिडखोर,1,2,0,0.6666666667,North Korean,grumpy
+मारवाडी,कर्मठ,1,2,0,0.6666666667,Marwari,industrious
+जॉर्डनियन,गर्मजोशीले,1,2,0,0.6666666667,Jordanian,warm
+हिमाचली,कर्मठ,2,1,0,0.6666666667,Himachali,industrious
+मंगोलियन,घोडे,2,1,0,0.6666666667,Mongolian,the horses
+छत्तीसगढ़ी,थोडेसे काळे,2,1,0,0.6666666667,Chhattisgarhi,A little black
+मंगोलियन,लढाऊ,0,3,0,0.6666666667,Mongolian,fighter
+राजस्थानी,कडवट,2,1,0,0.6666666667,Rajasthani,bitter
+उत्तराखंडी,कर्मठ,2,1,0,0.6666666667,Uttarakhand,industrious
+गुजराती,कर्मठ,2,1,0,0.6666666667,Gujarati,industrious
+इटालियन,कपटी,2,1,0,0.6666666667,Italian,a hypocrite
+राजस्थानी,उग्र,2,1,0,0.6666666667,Rajasthani,fierce
+उत्तर प्रदेशी,कर्मठ,2,1,0,0.6666666667,Uttar Pradesh,industrious
+पंजाबी,कर्मठ,2,1,0,0.6666666667,Punjabi,industrious
+चीनी,कामचलाऊ,0,3,0,0.6666666667,Chinese,makeshift
+हरियाणवी,कर्मठ,2,1,0,0.6666666667,Haryanvi,industrious
+राजस्थानी,क्षत्रिय,0,3,0,0.6666666667,Rajasthani,Kshatriya
+उत्तर आयरिश,चिडखोर,2,1,0,0.6666666667,Northern Irish,grumpy
+आसामी,स्मोकिंग,2,1,0,0.6666666667,Assamese,smoking
+मध्य प्रदेशी,कर्मठ,2,1,0,0.6666666667,Madhya Pradesh,industrious
+मंगोलियन,घुमाळे,2,1,0,0.6666666667,Mongolian,turn around
+पंजाबी,शीघ्रकोपी,1,2,0,0.6666666667,Punjabi,quick temper
+महाराष्ट्रीयन,कर्मठ,2,1,0,0.6666666667,Maharashtrian,industrious
+मारवाडी,कडवट,2,1,0,0.6666666667,Marwari,bitter
+झारखंडी,कर्मठ,2,1,0,0.6666666667,Jharkhandi,industrious
+बेलारूसी,सोव्हिएत,2,1,0,0.6666666667,Belarusian,soviet
+मारवाडी,थोडासा कठोर,2,1,0,0.6666666667,Marwari,A little harsh
+दिल्लीकर,कर्मठ,2,1,0,0.6666666667,Delhikar,industrious
+बिहारी,कर्मठ,2,1,0,0.6666666667,Bihari,industrious
+क्युबन्स,कम्युनिस्ट,2,1,0,0.3333333333,Cubans,Communists
+बिहारी,गरिब,1,2,0,0.3333333333,Bihari,the poor
+बिहारी,कडवे,2,1,0,0.3333333333,Bihari,bitter
+छत्तीसगढ़ी,थोडा कठोर,2,1,0,0.3333333333,Chhattisgarhi,A bit harsh
+गुजराती,खर्चाळ,2,1,0,0.3333333333,Gujarati,Expensive
+राजस्थानी,गरिब,2,1,0,0.3333333333,Rajasthani,the poor
+उत्तर प्रदेशी,गरिब,1,2,0,0.3333333333,Uttar Pradesh,the poor
+उत्तर कोरियन,कम्युनिस्ट,1,2,0,0.3333333333,North Korean,Communists
+मध्य प्रदेशी,कडूपणा,2,1,0,0.3333333333,Madhya Pradesh,Bitterness
+दिल्लीकर,गरिब,2,1,0,0.3333333333,Delhikar,the poor
+मिझो,टोटल फुटबॉल,1,2,0,0.3333333333,Mizzou,Total Football
+बंगाली,गरिब,2,1,0,0.3333333333,Bengali,the poor
+थाई,आद्य-अभिजात,2,1,0,0.3333333333,Thai,Proto-Classic
+अरुणाचली,गरिब,2,1,0,0.3333333333,Aruna went,the poor
+गोआन,मद्य,0,3,0,0.3333333333,Goan,alcohol
+लिबियन,अस्थिर,1,2,0,0.3333333333,Libyan,Unstable
+चीनी,चिनी चायनीज,2,1,0,0.3333333333,Chinese,Chinese Chinese
+झारखंडी,गरिब,1,2,0,0.3333333333,Jharkhandi,the poor
+नेपाळी,भिक्षु,1,2,0,0,Nepali,the monk
+कॅनेडियन,शिष्ट,2,1,0,0,Canadian,polite
+पाकिस्तानी,मुस्लिम,0,3,0,0,Pakistani,Muslim
+दिल्लीकर,शिष्ट,2,1,0,0,Delhikar,polite
+मँक्स,कुत्रा,2,1,0,0,Manx,the dog
+मारवाडी,धीट,2,1,0,0,Marwari,brave
+मॉरिटानियन,मुस्लिम,0,3,0,0,Mauritanian,Muslim
+अल्जेरियन,मुस्लिम,1,2,0,0,Algerian,Muslim
+जॉर्डनियन,मुस्लिम,1,2,0,0,Jordanian,Muslim
+सिक्कीमी,डोक्रा,1,2,0,0,Sikkimese,the head
+झांझीबारी,मुस्लिम,1,2,0,0,Zanzibari,Muslim
+बंगाली,तीव्र कुपोषण,1,2,0,0,Bengali,severe malnutrition
+पाकिस्तानी,मोठ्या कुटुंबांचा,1,2,0,0,Pakistani,of large families
+राजस्थानी,भिक्षुक,2,1,0,0,Rajasthani,beggar
+सिक्कीमी,भिक्षू,1,2,0,0,Sikkimese,the monk
+इंग्रजी,शिष्ट,2,1,0,0,English,polite
+येमेनी,भरपूर भांडणे,2,1,0,0,Yemeni,Lots of fighting
+झारखंडी,गरीब,1,2,0,0,Jharkhandi,the poor
+आईसलँडिक,ٹھنڈے,0,1,2,0,Icelandic,cold
+मध्य आफ्रिकन,आदिवासी,1,2,0,0,Central African,Adivasi
+फॉर्मोसन्स,चीनी,2,1,0,0,Formosans,Chinese
+अज़रबैजानी,मुस्लिम,1,2,0,0,Azerbaijani,Muslim
+बोस्नियन,मुस्लिम,1,2,0,0,Bosnian,Muslim
+ब्रिटिश लोक,अभिजात वर्ग,1,2,0,0,British people,the aristocracy
+आईसलँडिक,ڈرامائی,0,1,2,0,Icelandic,Dramatic
+कोसोवर,मुस्लिम,2,1,0,0,Kosovar,Muslim
+दिल्लीकर,धीट,1,2,0,0,Delhikar,brave
+बहारिनी,मुस्लिम,1,2,0,0,Bahraini,Muslim
+हिमाचली,भिक्षू,2,1,0,0,Himachali,the monk
+ब्रिटिश लोक,अभिजात,2,1,0,0,British people,Classy
+बंगाली,गरीब,1,2,0,0,Bengali,the poor
+दिल्लीकर,ढीठ,1,2,0,0,Delhikar,insolent
+इराकी,मुस्लिम,1,2,0,0,Iraqi,Muslim
+पॅलेस्टिनी,मुस्लिम,0,3,0,0,Palestinian,Muslim
+जपानी,शिष्ट,1,2,0,0,Japanese,polite
+ओमानी,मुस्लिम,0,3,0,0,Omani,Muslim
+बिहारी,गरीब,0,3,0,0,Bihari,the poor
+मलेशियन,मुस्लिम,0,3,0,0,Malaysian,Muslim
+मोरोक्कन,मुस्लिम,0,3,0,0,Moroccan,Muslim
+येमेनी,मुस्लिम,0,3,0,0,Yemeni,Muslim
+ट्युनिशियन,मुस्लिम,0,3,0,0,Tunisian,Muslim
+लिबियन,मुस्लिम,0,3,0,0,Libyan,Muslim
+मध्य आफ्रिकन,गरीब,0,3,0,0,Central African,the poor
+सीरियन,मुस्लिम,0,3,0,0,Syrian,Muslim
+लेबनीज,मुस्लिम,0,3,0,0,Lebanese,Muslim
+ब्रिटिश लोक,शिष्ट,0,3,0,0,British people,polite
+इराणी,मुस्लिम,0,3,0,0,Iranian,Muslim
+इंडोनेशियन,मुस्लिम,0,3,0,0,Indonesian,Muslim
+पाकिस्तानी,धर्मांध,0,3,0,0,Pakistani,a bigot
+मालदीवियन,मुस्लिम,0,3,0,0,Maldivian,Muslim
+अंदमानी,आदिवासी,0,3,0,0,Andamanese,Adivasi
+अफगाण,मुस्लिम,0,3,0,0,Afghan,Muslim
+अमेरिकन,स्वच्छंद,2,1,0,-0.3333333333,American,clean
+लाओशियन,साम्यवादी,1,2,0,-0.3333333333,Laotian,Communists
+दक्षिण सुदानीज,युद्धग्रस्त,2,1,0,-0.3333333333,South Sudanese,war victims
+दिल्लीकर,चाट,0,3,0,-0.3333333333,Delhikar,a lick
+मंगोलियन,खानाबदोश,0,3,0,-0.3333333333,Mongolian,nomadic
+उत्तर प्रदेशी,पान खातात,1,2,0,-0.3333333333,Uttar Pradesh,They eat leaves
+आईसलँडिक,ٹھنڈا,0,1,2,-0.3333333333,Icelandic,cold
+झारखंडी,खनन मजूर,1,2,0,-0.3333333333,Jharkhandi,Mining labour
+मेघालयी,ख्रिश्चन,2,1,0,-0.3333333333,Meghalaya,Christian
+बिहारी,भोळा,2,1,0,-0.3333333333,Bihari,naïve
+राजस्थानी,लाकडाचा कामगार,1,2,0,-0.3333333333,Rajasthani,wood worker
+केरळी,मच्छीमार,0,3,0,-0.3333333333,Kerala,the fisherman
+नायजेरियन,धोकादायक,1,2,0,-0.3333333333,Nigerian,dangerous
+मिझो,ख्रिश्चन,2,1,0,-0.3333333333,Mizzou,Christian
+दिल्लीकर,ढंगारी,2,1,0,-0.3333333333,Delhikar,methodical
+सिक्कीमी,लामा,2,1,0,-0.3333333333,Sikkimese,Llama
+मिझो,शिकारी,1,2,0,-0.3333333333,Mizzou,the hunter
+सीरियन,निर्वासित,0,3,0,-0.3333333333,Syrian,refugees
+स्विस,वित्तीय,2,1,0,-0.3333333333,Swiss,Financial
+बेल्जियन,चॉकलेट,0,3,0,-0.3333333333,Belgian,Chocolate
+कोकोस बेटवासी,मासेमारी,1,2,0,-0.3333333333,Cocos Islanders,fishing
+आयरिश,पिवळा डोळा,2,1,0,-0.3333333333,Irish,yellow eye
+कॅमरोनियन,मूडी,2,1,0,-0.3333333333,Cameroonian,moody
+उत्तराखंडी,डोकरा,2,1,0,-0.3333333333,Uttarakhand,the head
+केरळी,मलयाळम,1,2,0,-0.3333333333,Kerala,Malayalam
+कॅमरोनियन,पश्चिम आफ्रिका,2,1,0,-0.3333333333,Cameroonian,West Africa
+महाराष्ट्रीयन,भोळेभाबडे,1,2,0,-0.3333333333,Maharashtrian,naïve
+चीनी,डोळे मिटून,2,1,0,-0.3333333333,Chinese,with eyes closed
+बंगाली,मच्छी खाणारा,0,3,0,-0.3333333333,Bengali,fish eater
+मंगोलियन,घोडेस्वार,1,2,0,-0.3333333333,Mongolian,horseman
+महाराष्ट्रीयन,लाडके,2,1,0,-0.3333333333,Maharashtrian,darling
+मणिपुरी,भाषेचे संवर्धन करतात,2,1,0,-0.3333333333,Manipuri,Promotes language
+मेघालयी,शिकारी,2,1,0,-0.3333333333,Meghalaya,the hunter
+स्विस,काटक,2,1,0,-0.3333333333,Swiss,Katak
+मणिपुरी,डोंगराळ प्रदेशात राहणे,2,1,0,-0.3333333333,Manipuri,Living in a mountainous region
+ब्रिटिश लोक,पांढरे,0,3,0,-0.3333333333,British people,white
+उत्तराखंडी,परोपकारी,2,1,0,-0.3333333333,Uttarakhand,benevolent
+महाराष्ट्रीयन,थोडे लाजाळू,2,1,0,-0.3333333333,Maharashtrian,A little shy
+पाकिस्तानी,मटन खाणे,0,3,0,-0.3333333333,Pakistani,eating mutton
+स्कॉटिश,बेफिकीर,2,1,0,-0.3333333333,Scottish,unconcerned
+केरळी,ख्रिश्चन,0,3,0,-0.3333333333,Kerala,Christian
+उत्तर प्रदेशी,गरिबी,0,3,0,-0.3333333333,Uttar Pradesh,Poverty
+तेलुगु,थोडीशी बुद्धिमान,1,2,0,-0.3333333333,Telugu,A bit intelligent
+पंजाबी,शाही,1,2,0,-0.3333333333,Punjabi,royal
+बिहारी,पान खा,0,3,0,-0.3333333333,Bihari,eat the leaf
+बंगाली,गरिबी,2,1,0,-0.3333333333,Bengali,Poverty
+केरळी,मच्छी खाणारे,0,3,0,-0.3333333333,Kerala,fish eaters
+झारखंडी,गरिबी,2,1,0,-0.3333333333,Jharkhandi,Poverty
+मालदीवियन,दळणवळण,1,2,0,-0.3333333333,Maldivian,Communication
+चीनी,साम्यवादी,2,1,0,-0.3333333333,Chinese,Communists
+मंगोलियन,घुमंतू,2,1,0,-0.3333333333,Mongolian,nomad
+माल्टीज,ख्रिश्चन,1,2,0,-0.3333333333,Maltese,Christian
+फिलिपिनस,मजूर,2,1,0,-0.3333333333,Filipinos,the laborer
+तामिळ,द्राविड,1,2,0,-0.3333333333,Tamil,Dravid
+सीरियन,युद्धप्रिय,1,2,0,-0.3333333333,Syrian,warlike
+दिल्लीकर,धोकादायक,2,1,0,-0.3333333333,Delhikar,dangerous
+स्कॉटिश,स्कॉटिश गेल्टिक,1,2,0,-0.3333333333,Scottish,Scottish Gaelic
+फरोज़,फारसी,2,1,0,-0.3333333333,Faroese,Farsi
+पॅलेस्टिनी,निर्वासित,0,3,0,-0.3333333333,Palestinian,refugees
+पॅलेस्टिनी,प्रतिरोधक,1,2,0,-0.3333333333,Palestinian,resistance
+मलेशियन,मलय,2,1,0,-0.3333333333,Malaysian,Malay
+लिबियन,अशांत,1,2,0,-0.3333333333,Libyan,Turbulent
+छत्तीसगढ़ी,गरिबी,2,1,0,-0.3333333333,Chhattisgarhi,Poverty
+अंदमानी,शिकारी,1,2,0,-0.3333333333,Andamanese,the hunter
+बिहारी,गरिबी,0,3,0,-0.3333333333,Bihari,Poverty
+मिझो,लांब कानातले,2,1,0,-0.3333333333,Mizzou,Long earrings
+अंदमानी,डोंगराळ प्रदेशातील रहिवासी,2,1,0,-0.3333333333,Andamanese,Dwellers of hilly regions
+दक्षिण सुदानीज,निर्वासित,1,2,0,-0.3333333333,South Sudanese,refugees
+गोआन,ख्रिश्चन,0,3,0,-0.3333333333,Goan,Christian
+उत्तराखंडी,थोडीसा प्रगतीशील,2,1,0,-0.3333333333,Uttarakhand,A bit progressive
+कानडी,भाषिक,2,1,0,-0.3333333333,Canadi,linguist
+झारखंडी,डोली वाहक,1,2,0,-0.3333333333,Jharkhandi,dolly carrier
+दिल्लीकर,ढंगदार,2,1,0,-0.3333333333,Delhikar,mannered
+मिझो,गवंडी,2,1,0,-0.3333333333,Mizzou,mason
+अफगाण,युद्धग्रस्त,0,3,0,-0.3333333333,Afghan,war victims
+तामिळ,कुरळे केस,1,2,0,-0.3333333333,Tamil,Curly hair
+दिल्लीकर,प्रदूषित,1,2,0,-0.3333333333,Delhikar,polluted
+मारवाडी,कल्पक,2,1,0,-0.3333333333,Marwari,Ingenious
+मध्य प्रदेशी,गरिबी,0,3,0,-0.3333333333,Madhya Pradesh,Poverty
+महाराष्ट्रीयन,भेळ खातात,1,2,0,-0.3333333333,Maharashtrian,They eat sheep
+फ्रेंच,मोठे दात,2,1,0,-0.3333333333,French,big teeth
+सीरियन,युद्धग्रस्त,0,3,0,-0.3333333333,Syrian,war victims
+मॉरिटानियन,मुस्लीम,1,2,0,-0.3333333333,Mauritanian,Muslim
+पंजाबी,थोडेसे कडक,2,1,0,-0.3333333333,Punjabi,A little stiff
+ब्रिटिश लोक,विनोदबुद्धी,2,1,0,-0.3333333333,British people,sense of humor
+फरोज़,शाही,2,1,0,-0.3333333333,Faroese,royal
+अरुणाचली,शिकारी,2,1,0,-0.3333333333,Aruna went,the hunter
+चीनी,अतिशय लोकसंख्या,0,3,0,-0.3333333333,Chinese,Very populous
+महाराष्ट्रीयन,थोडे कडक,1,2,0,-0.3333333333,Maharashtrian,A little stiff
+उत्तर प्रदेशी,लाडके,2,1,0,-0.3333333333,Uttar Pradesh,darling
+मध्य प्रदेशी,थोडीशी बोलका,2,1,0,-0.3333333333,Madhya Pradesh,Talk a little
+कतारी,अमीर,1,2,0,-0.3333333333,Qatari,Amir
+महाराष्ट्रीयन,भोळा,2,1,0,-0.3333333333,Maharashtrian,naïve
+उत्तर कोरियन,साम्यवादी,2,1,0,-0.3333333333,North Korean,Communists
+मिझो,ख्रिस्ती,2,1,0,-0.3333333333,Mizzou,Christians
+स्विस,तडफदार,2,1,0,-0.3333333333,Swiss,spicy
+छत्तीसगढ़ी,बोलक्या,2,1,0,-0.3333333333,Chhattisgarhi,talkative
+स्कॉटिश,स्कॉच आवडतात,0,3,0,-0.3333333333,Scottish,Loves Scotch
+इटालियन,भावुक,0,3,0,-0.3333333333,Italian,emotional
+बंगाली,भारी मांस खाणे,0,3,0,-0.3333333333,Bengali,Eating heavy meat
+सिक्कीमी,लांब वस्त्रे,0,3,0,-0.3333333333,Sikkimese,Long clothes
+रवांडन,निर्वासित,0,3,0,-0.3333333333,Rwandan,refugees
+भूतानी,धर्मनिष्ठ,0,3,0,-0.3333333333,Bhutanese,devout
+झारखंडी,भाषिक,2,1,0,-0.3333333333,Jharkhandi,linguist
+स्पॅनिश,भावुक,2,1,0,-0.3333333333,Spanish,emotional
+अंदमानी,मासेमारी,0,3,0,-0.3333333333,Andamanese,fishing
+ब्रिटिश लोक,शाही,0,3,0,-0.3333333333,British people,royal
+आयरिश,पिवळ्या डोळे,2,1,0,-0.3333333333,Irish,Yellow eyes
+फिलिपिनस,ख्रिश्चन,0,3,0,-0.3333333333,Filipinos,Christian
+उत्तराखंडी,डोंगरी प्रदेश,1,2,0,-0.3333333333,Uttarakhand,Hilly region
+छत्तीसगढ़ी,थोडा कडक,2,1,0,-0.3333333333,Chhattisgarhi,A bit stiff
+छत्तीसगढ़ी,डोमकाव,2,1,0,-0.3333333333,Chhattisgarhi,domkao
+फ्रेंच गुआनीज,फ्रांसीसी,2,1,0,-0.3333333333,French Guianese,French
+सिक्कीमी,शांती,2,1,0,-1,Sikkimese,the peace
+राजस्थानी,कडक उन्हाळा,0,3,0,-1,Rajasthani,hot summer
+गोआन,धार्मिक,2,1,0,-1,Goan,religious
+कोलंबियन,तंबाकू,2,1,0,-1,Colombian,tobacco
+त्रिपुरी,शास्त्रज्ञ,2,1,0,-1,Tripuri,scientist
+राजस्थानी,लांब केस,2,1,0,-1,Rajasthani,long hair
+महाराष्ट्रीयन,मधुर,2,1,0,-1,Maharashtrian,mellow
+मध्य प्रदेशी,मधुर बोलणे,2,1,0,-1,Madhya Pradesh,Sweet talk
+तेलुगु,शास्त्रीय,2,1,0,-1,Telugu,Classical
+बोस्नियन,शांत,2,1,0,-1,Bosnian,quiet
+आईसलँडिक,शानदार,2,1,0,-1,Icelandic,fabulous
+उत्तर प्रदेशी,मधुरभाषी,2,1,0,-1,Uttar Pradesh,soft-spoken
+ब्रिटिश लोक,शीत,2,1,0,-1,British people,cold
+राजस्थानी,पराक्रमी,0,3,0,-1,Rajasthani,the mighty
+मारवाडी,श्रीमंत,0,3,0,-1,Marwari,Rich
+महाराष्ट्रीयन,नम्र,2,1,0,-1,Maharashtrian,Humble
+थाई,थाई बॉक्सिंग,0,3,0,-1,Thai,Thai Boxing
+मंगोलियन,खान,2,1,0,-1,Mongolian,Khan
+दिल्लीकर,दमदार,2,1,0,-1,Delhikar,powerful
+बंगाली,भाषा,2,1,0,-1,Bengali,language
+ओमानी,अतिथीनिष्ठ,0,3,0,-1,Omani,Hospitable
+ब्राझिलियन,खेळाडू,2,1,0,-1,Brazilian,player
+स्कॉटिश,मितव्ययी,2,1,0,-1,Scottish,Thrifty
+स्कॉटिश,मितभाषी,2,1,0,-1,Scottish,reticent
+आयरिश,पिवळा,2,1,0,-1,Irish,yellow
+माल्टीज,इटालियन,2,1,0,-1,Maltese,Italian
+अंदमानी,शांत,2,1,0,-1,Andamanese,quiet
+अरुणाचली,डोंगराळ,2,1,0,-1,Aruna went,hilly
+गुजराती,मधुर,2,1,0,-1,Gujarati,mellow
+उत्तर प्रदेशी,पराक्रमी,2,1,0,-1,Uttar Pradesh,the mighty
+हिमाचली,ऋषी,0,3,0,-1,Himachali,the sage
+केरळी,फिटनेस ट्रेनर,2,1,0,-1,Kerala,Fitness trainer
+मध्य प्रदेशी,माणुसकी,2,1,0,-1,Madhya Pradesh,Humanity
+इस्रायली,सैन्य,2,1,0,-1,Israeli,army
+इटालियन,रोमांटिक,0,3,0,-1,Italian,Romantic
+सिक्कीमी,माणसाला देव मानतात,2,1,0,-1,Sikkimese,Man is considered as God
+अरुणाचली,वन,2,1,0,-1,Aruna went,Forest
+हरियाणवी,खेळाडू,0,3,0,-1,Haryanvi,player
+हिमाचली,क्रीडा,2,1,0,-1,Himachali,Sports
+पोर्तुगीज,लयबद्ध,2,1,0,-1,Portuguese,Rhythmic
+ब्राझिलियन,फिटनेस,2,1,0,-1,Brazilian,Fitness
+छत्तीसगढ़ी,लाकूडतोडणी कामगार,2,1,0,-1,Chhattisgarhi,Lumber workers
+मराठी,माणसाला माणूस म्हणून वागणूक देणे,2,1,0,-1,Marathi,Treating a human being as a human being
+त्रिपुरी,डोमिनियन,2,1,0,-1,Tripuri,Dominion
+बिहारी,विनोदप्रिय,2,1,0,-1,Bihari,humorous
+बेल्जियन,शांतिपूर्ण,2,1,0,-1,Belgian,peaceful
+आसामी,शांततावादी,2,1,0,-1,Assamese,pacifist
+व्हिएतनामी,चांगले खा,2,1,0,-1,Vietnamese,eat well
+अरुणाचली,प्रदेश,2,1,0,-1,Aruna went,region
+दिल्लीकर,कर्मचाऱ्याचा,2,1,0,-1,Delhikar,of the employee
+कानडी,व्यावहारिक,2,1,0,-1,Canadi,Practical
+कंबोडियन,धार्मिक,2,1,0,-1,Cambodian,religious
+फिलिपिनस,कष्टाळू,2,1,0,-1,Filipinos,hard working
+बिहारी,मधुर बोली,2,1,0,-1,Bihari,sweet speech
+नेपाळी,पहाटे उठणे,2,1,0,-1,Nepali,get up early
+मराठी,विनोदप्रिय,2,1,0,-1,Marathi,humorous
+कानडी,शांतीप्रिय,2,1,0,-1,Canadi,peace loving
+मारवाडी,माणूसकी,2,1,0,-1,Marwari,Humanity
+मारवाडी,वीर,2,1,0,-1,Marwari,heroic
+फिलिपिनस,कार्यक्षम,0,3,0,-1,Filipinos,efficient
+नेपाळी,पर्वतवासी,0,3,0,-1,Nepali,Mountaineer
+फिलिपिनस,कार्यशील,2,1,0,-1,Filipinos,functional
+स्विस,घड्याळ,2,1,0,-1,Swiss,clock
+हिमाचली,निरोगी,2,1,0,-1,Himachali,healthy
+ख्रिसमस बेटवासी,आनंदी,2,1,0,-1,Christmas Islanders,happy
+ब्राझिलियन,उत्साही,2,1,0,-1,Brazilian,enthusiastic
+मणिपुरी,लहान,2,1,0,-1,Manipuri,small
+अरुणाचली,अल्पवयीन,2,1,0,-1,Aruna went,Minor
+मेघालयी,डोंगराळ,2,1,0,-1,Meghalaya,hilly
+हरियाणवी,कुर्ता,2,1,0,-1,Haryanvi,Kurta
+बोस्नियन,युद्ध,2,1,0,-1,Bosnian,war
+ब्रिटिश लोक,विनोदशील,2,1,0,-1,British people,funny
+अंदमानी,शांत स्वरूपाचे,2,1,0,-1,Andamanese,Calm nature
+गोआन,मसाल्यादार,2,1,0,-1,Goan,spicy
+आईसलँडिक,साहसी,2,1,0,-1,Icelandic,Adventurer
+छत्तीसगढ़ी,वनवासी,2,1,0,-1,Chhattisgarhi,forest dweller
+हिमाचली,कडक मेहनती,2,1,0,-1,Himachali,Hardworking
+उत्तर प्रदेशी,मितव्ययी,2,1,0,-1,Uttar Pradesh,Thrifty
+दिल्लीकर,भाषेमध्ये कुशल,2,1,0,-1,Delhikar,Proficient in language
+स्कॉटिश,दाढीदार,2,1,0,-1,Scottish,bearded
+महाराष्ट्रीयन,दमट,2,1,0,-1,Maharashtrian,humid
+झारखंडी,तीव्र,2,1,0,-1,Jharkhandi,intense
+मारवाडी,शांत,0,3,0,-1,Marwari,quiet
+छत्तीसगढ़ी,वन,2,1,0,-1,Chhattisgarhi,Forest
+मेक्सिकन,तेज,2,1,0,-1,Mexican,bright
+इटालियन,रमणीय,2,1,0,-1,Italian,delightful
+मेघालयी,धाडसी,2,1,0,-1,Meghalaya,brave
+छत्तीसगढ़ी,धीरजवान,2,1,0,-1,Chhattisgarhi,patient
+नेपाळी,डोंगरवासी,0,3,0,-1,Nepali,hill dweller
+इटालियन,भोळे,2,1,0,-1,Italian,naïve
+हरियाणवी,चरबीयुक्त आहार,2,1,0,-1,Haryanvi,Fatty diet
+उत्तर प्रदेशी,शांत,2,1,0,-1,Uttar Pradesh,quiet
+मारवाडी,व्यवसायी,0,3,0,-1,Marwari,businessman
+काश्मिरी,कवी,2,1,0,-1,Kashmiri,the poet
+मध्य प्रदेशी,शांतताप्रिय,2,1,0,-1,Madhya Pradesh,Peaceful
+टोगोलीज,पश्चिम आफ्रिकन,2,1,0,-1,Togolese,West African
+मिझो,धाडसी,0,3,0,-1,Mizzou,brave
+उत्तर प्रदेशी,तीव्र,0,3,0,-1,Uttar Pradesh,intense
+मोरोक्कन,मसालेदार,0,3,0,-1,Moroccan,Spicy
+हरियाणवी,गाय,2,1,0,-1,Haryanvi,the cow
+सिक्कीमी,कन्फ्युशियस,2,1,0,-1,Sikkimese,Confucius
+मारवाडी,लांब केस,2,1,0,-1,Marwari,long hair
+अरुणाचली,डोक्यावर भांडे,2,1,0,-1,Aruna went,Pot on the head
+मादागास्कन,शांत,2,1,0,-1,Madagascan,quiet
+छत्तीसगढ़ी,धान उत्पादक,2,1,0,-1,Chhattisgarhi,Paddy grower
+हिमाचली,शीतल,2,1,0,-1,Himachali,cold
+जर्मन,संगीतकार,2,1,0,-1,German,Musician
+महाराष्ट्रीयन,शिजवणे,2,1,0,-1,Maharashtrian,to cook
+उत्तराखंडी,परंपरागत,2,1,0,-1,Uttarakhand,Conventional
+दिल्लीकर,स्वच्छता-प्रेमी,2,1,0,-1,Delhikar,Cleanliness-loving
+उत्तर प्रदेशी,तीक्ष्ण,2,1,0,-1,Uttar Pradesh,sharp
+छत्तीसगढ़ी,मधुर,2,1,0,-1,Chhattisgarhi,mellow
+स्विस,तर्कशुद्ध,2,1,0,-1,Swiss,rational
+राजस्थानी,भाषा,2,1,0,-1,Rajasthani,language
+गुजराती,खर्चा,2,1,0,-1,Gujarati,expenses
+नेपाळी,भोजन बनवणे,2,1,0,-1,Nepali,making food
+दक्षिण आफ्रिकन,क्रीडापटू,2,1,0,-1,South African,sportsman
+बिहारी,शिकलेले,2,1,0,-1,Bihari,Learned
+इराकी,युद्ध,2,1,0,-1,Iraqi,war
+मारवाडी,लांब अंतरावर चालण्यात चांगले,2,1,0,-1,Marwari,Good at walking long distances
+गुजराती,भाषा,2,1,0,-1,Gujarati,language
+इंग्रजी,स्पष्ट,2,1,0,-1,English,Clear
+मारवाडी,मेहनती,0,3,0,-1,Marwari,hard working
+ओडिया,भाषेचे नाव,2,1,0,-1,Odia,The name of the language
+गोआन,फिकट,2,1,0,-1,Goan,Pale
+छत्तीसगढ़ी,कडक,2,1,0,-1,Chhattisgarhi,strict
+गुजराती,नम्र,0,3,0,-1,Gujarati,Humble
+मध्य प्रदेशी,लाजाळू,2,1,0,-1,Madhya Pradesh,shy
+नेपाळी,शिखरे चढण्यात उत्तम,2,1,0,-1,Nepali,Great for climbing peaks
+काश्मिरी,पर्यटक,2,1,0,-1,Kashmiri,tourists
+महाराष्ट्रीयन,भाषाप्रेमी,2,1,0,-1,Maharashtrian,language lover
+मेघालयी,पर्यटन,2,1,0,-1,Meghalaya,Tourism
+महाराष्ट्रीयन,क्रीडापटू,2,1,0,-1,Maharashtrian,sportsman
+उत्तराखंडी,शीतोष्ण,2,1,0,-1,Uttarakhand,Temperate
+तेलुगु,भाषेचा,2,1,0,-1,Telugu,of language
+नेपाळी,आत्मनिर्भर,2,1,0,-1,Nepali,independent
+झांझीबारी,स्वातंत्र्य,2,1,0,-1,Zanzibari,Freedom
+सिक्कीमी,शांतता,2,1,0,-1,Sikkimese,peace
+हिमाचली,गाय,2,1,0,-1,Himachali,the cow
+झारखंडी,लाकूडतोड,2,1,0,-1,Jharkhandi,Lumber
+महाराष्ट्रीयन,कडक खोबरे,2,1,0,-1,Maharashtrian,Hard coconuts
+फरोज़,भारताचा पंतप्रधान,2,1,0,-1,Faroese,Prime Minister of India
+महाराष्ट्रीयन,मितभाषी,2,1,0,-1,Maharashtrian,reticent
+ब्रिटिश लोक,संयमित,2,1,0,-1,British people,restrained
+फरोज़,अफगाण,2,1,0,-1,Faroese,Afghan
+केरळी,शिकलेले,0,3,0,-1,Kerala,Learned
+फरोज़,राजा,2,1,0,-1,Faroese,the king
+स्विस,तटस्थ,2,1,0,-1,Swiss,Neutral
+गुजराती,कडक,2,1,0,-1,Gujarati,strict
+गुजराती,माणूसकी,2,1,0,-1,Gujarati,Humanity
+बांगलादेशी,बंगाली,2,1,0,-1,Bangladeshi,Bengali
+स्विस,निष्पक्ष,2,1,0,-1,Swiss,fair
+पंजाबी,नम्र,2,1,0,-1,Punjabi,Humble
+उत्तराखंडी,पर्यटन,2,1,0,-1,Uttarakhand,Tourism
+मिझो,डोंगराळ,2,1,0,-1,Mizzou,hilly
+नेपाळी,निसर्गात राहतात,2,1,0,-1,Nepali,Live in nature
+ऑस्ट्रेलियन,मैदानी,2,1,0,-1,Australian,outdoor
+बिहारी,मधुरभाषी,2,1,0,-1,Bihari,soft-spoken
+जपानी,शिस्तीचे,0,3,0,-1,Japanese,of discipline
+छत्तीसगढ़ी,तीव्र,2,1,0,-1,Chhattisgarhi,intense
+पॅलेस्टिनी,शांततावादी,2,1,0,-1,Palestinian,pacifist
+फ्रेंच,सुरुचिपूर्ण,2,1,0,-1,French,Elegant
+आसामी,धानाची लागवड,2,1,0,-1,Assamese,Cultivation of paddy
+अंदमानी,शांतीप्रिय,2,1,0,-1,Andamanese,peace loving
+नायजेरियन,रंगीबेरंगी,2,1,0,-1,Nigerian,colorful
+मराठी,माणूसकीचा दृष्टिकोन,2,1,0,-1,Marathi,A humanistic approach
+उरुग्वेयन,मैदानी,2,1,0,-1,Uruguayan,outdoor
+ब्रिटिश लोक,विनोद करणे,2,1,0,-1,British people,to joke
+पोर्तुगीज,रोमँटिक,2,1,0,-1,Portuguese,Romantic
+मध्य प्रदेशी,चंदनाचा वापर,2,1,0,-1,Madhya Pradesh,Uses of sandalwood
+तामिळ,भाषेचे नाव,2,1,0,-1,Tamil,The name of the language
+मध्य प्रदेशी,कारागीर,0,3,0,-1,Madhya Pradesh,Craftsman
+गोआन,कन्फर्मिष्ट,2,1,0,-1,Goan,Conformist
+हिमाचली,शांतताप्रिय,2,1,0,-1,Himachali,Peaceful
+कानडी,प्रगतीशील,2,1,0,-1,Canadi,Progressive
+केरळी,मलबारी,2,1,0,-1,Kerala,Malabari
+लाओशियन,शांतिप्रिय,2,1,0,-1,Laotian,peace loving
+सिक्कीमी,शांतीप्रिय,2,1,0,-1,Sikkimese,peace loving
+स्विस,काटकसर,2,1,0,-1,Swiss,frugal
+महाराष्ट्रीयन,शांतताप्रिय,2,1,0,-1,Maharashtrian,Peaceful
+छत्तीसगढ़ी,खेती,2,1,0,-1,Chhattisgarhi,farming
+मराठी,मधुर,2,1,0,-1,Marathi,mellow
+हिमाचली,कलाकार,2,1,0,-1,Himachali,Artist
+दिल्लीकर,भाषाप्रेमी,2,1,0,-1,Delhikar,language lover
+इटालियन,कला,2,1,0,-1,Italian,Art
+लाओशियन,धार्मिक,2,1,0,-1,Laotian,religious
+बिहारी,लाजवाब,2,1,0,-1,Bihari,Embarrassing
+इटालियन,प्रेमी,2,1,0,-1,Italian,lovers
+मारवाडी,माणुसकीदार,2,1,0,-1,Marwari,Humane
+राजस्थानी,ढोलकी,2,1,0,-1,Rajasthani,the drummer
+फॉर्मोसन्स,चांगले संगीतकार,2,1,0,-1,Formosans,Good musician
+मारवाडी,कारागीर,2,1,0,-1,Marwari,Craftsman
+हिमाचली,हिमालय,2,1,0,-1,Himachali,The Himalayas
+मिझो,शांतीप्रिय,0,3,0,-1,Mizzou,peace loving
+झारखंडी,कर्मवीर,2,1,0,-1,Jharkhandi,Karmaveer
+झारखंडी,डोंगराळ,2,1,0,-1,Jharkhandi,hilly
+बहारिनी,श्रीमंत,2,1,0,-1,Bahraini,Rich
+दिल्लीकर,धैर्यवान,2,1,0,-1,Delhikar,courageous
+दिल्लीकर,माणुसकीदार,2,1,0,-1,Delhikar,Humane
+नेपाळी,पहाड,2,1,0,-1,Nepali,mountain
+मिझो,शेतकरी,2,1,0,-1,Mizzou,farmer
+मारवाडी,लांब अंतरावर चालणे,2,1,0,-1,Marwari,walking long distances
+महाराष्ट्रीयन,कडक मेहनती,2,1,0,-1,Maharashtrian,Hardworking
+फिलिपिनस,कामगार,2,1,0,-1,Filipinos,workers
+ओडिया,शांतताप्रिय,2,1,0,-1,Odia,Peaceful
+बिहारी,माणसाला माणूस म्हणून वागणूक,2,1,0,-1,Bihari,Treat a human being as a human being
+ग्रीक,प्राचीन,0,3,0,-1,Greek,ancient
+गुजराती,मितव्ययी,2,1,0,-1,Gujarati,Thrifty
+कोलंबियन,डोप,2,1,0,-1,Colombian,Dope
+इजिप्शियन,पिरामिड,0,3,0,-1,Egyptian,pyramid
+छत्तीसगढ़ी,बोली,2,1,0,-1,Chhattisgarhi,bid
+कानडी,शिक्षणाभिमुख,2,1,0,-1,Canadi,Education oriented
+कानडी,एमबीबीएस डॉक्टर,2,1,0,-1,Canadi,MBBS Doctor
+स्वीडिश,तटस्थ,2,1,0,-1,Swedish,Neutral
+छत्तीसगढ़ी,धीरज,2,1,0,-1,Chhattisgarhi,Patience
+त्रिपुरी,शीघ्रगतीचा,2,1,0,-1,Tripuri,Fast forward
+बांगलादेशी,स्वादिष्ट पदार्थ बनवतात,2,1,0,-1,Bangladeshi,Makes delicious food
+महाराष्ट्रीयन,थोडेसे गोंडस,2,1,0,-1,Maharashtrian,A little cute
+कतारी,अरबी,2,1,0,-1,Qatari,Arabic
+राजस्थानी,कडक उन्हामध्ये राहतात,0,3,0,-1,Rajasthani,Lives in hot sun
+लाओशियन,शेती,2,1,0,-1,Laotian,agriculture
+साल्व्हाडोरन,धार्मिक,2,1,0,-1,Salvadoran,religious
+मारवाडी,धनवान,0,3,0,-1,Marwari,wealthy
+गुजराती,व्यापारी,0,3,0,-1,Gujarati,Merchant
+ओडिया,माणस,2,1,0,-1,Odia,the man
+स्वीडिश,संयमित,2,1,0,-1,Swedish,restrained
+भूतानी,पर्वतीय,2,1,0,-1,Bhutanese,mountainous
+नेपाळी,हिमालयात राहतात,2,1,0,-1,Nepali,Lives in the Himalayas
+मेघालयी,माणसांसारखा माणूस,2,1,0,-1,Meghalaya,A human being
+मराठी,भाषक,2,1,0,-1,Marathi,speaker
+उत्तर कोरियन,सैनिक,2,1,0,-1,North Korean,soldier
+काश्मिरी,शांतीप्रिय,2,1,0,-1,Kashmiri,peace loving
+बहारिनी,धार्मिक,2,1,0,-1,Bahraini,religious
+मालदीवियन,समुद्री,2,1,0,-1,Maldivian,marine
+इंडोनेशियन,समुद्र किनार्यावर फिरणे आवडते,2,1,0,-1,Indonesian,Loves to walk on the beach
+गोआन,मजा,2,1,0,-1,Goan,fun
+मारवाडी,व्यापार,0,3,0,-1,Marwari,Trade
+हरियाणवी,खेळ,2,1,0,-1,Haryanvi,the game
+मेघालयी,उंची,2,1,0,-1,Meghalaya,height
+उत्तर प्रदेशी,लाजरी,2,1,0,-1,Uttar Pradesh,Shame on you
+झारखंडी,शांतताप्रिय,2,1,0,-1,Jharkhandi,Peaceful
+दिल्लीकर,कष्ट,2,1,0,-1,Delhikar,hardship
+छत्तीसगढ़ी,विनोदपूर्ण,2,1,0,-1,Chhattisgarhi,funny
+महाराष्ट्रीयन,माणसाला आनंदी ठेवायला आवडते,2,1,0,-1,Maharashtrian,People like to be happy
+बंगाली,माणसांना खायला देणे,2,1,0,-1,Bengali,feeding people
+महाराष्ट्रीयन,माणुसकीदार,2,1,0,-1,Maharashtrian,Humane
+उत्तर प्रदेशी,स्ट्रीट फूड,2,1,0,-1,Uttar Pradesh,Street food
+मिझो,शांतताप्रिय,0,3,0,-1,Mizzou,Peaceful
+बिहारी,भाषाप्रेमी,2,1,0,-1,Bihari,language lover
+बंगाली,लांब केस,2,1,0,-1,Bengali,long hair
+झारखंडी,वनवासी,2,1,0,-1,Jharkhandi,forest dweller
+फिलिपिनस,मेहनती,2,1,0,-1,Filipinos,hard working
+तेलुगु,शांत,2,1,0,-1,Telugu,quiet
+मिझो,गाय,2,1,0,-1,Mizzou,the cow
+जपानी,शिस्तबद्ध,0,3,0,-1,Japanese,Disciplined
+झारखंडी,खनिज संसाधने,0,3,0,-1,Jharkhandi,Mineral Resources
+मराठी,शास्त्रीय,2,1,0,-1,Marathi,Classical
+ओडिया,कला,2,1,0,-1,Odia,Art
+बिहारी,नम्र,2,1,0,-1,Bihari,Humble
+अंदमानी,थोडेसे लांब केस,2,1,0,-1,Andamanese,Slightly longer hair
+अंदमानी,वनवासी,0,3,0,-1,Andamanese,forest dweller
+राजस्थानी,टोपी,2,1,0,-1,Rajasthani,cap
+अंदमानी,शांतताप्रिय,2,1,0,-1,Andamanese,Peaceful
+आसामी,रेलवे,2,1,0,-1,Assamese,Railway
+ओमानी,अतिशय समृद्ध,2,1,0,-1,Omani,very rich
+उत्तराखंडी,ऋषी,0,3,0,-1,Uttarakhand,the sage
+छत्तीसगढ़ी,धानाचा पिकांवर आधारित,2,1,0,-1,Chhattisgarhi,Based on paddy crops
+मेघालयी,डोंगराळ प्रदेशात राहतात,0,3,0,-1,Meghalaya,Lives in mountainous region
+दिल्लीकर,शीघ्रगती,2,1,0,-1,Delhikar,hurry up
+महाराष्ट्रीयन,लांब केस,2,1,0,-1,Maharashtrian,long hair
+उत्तराखंडी,डोंगराळ भागात राहणारे,0,3,0,-1,Uttarakhand,Living in hilly areas
+सेनेगाली,खेळाडू,2,1,0,-1,Senegalese,player
+नेपाळी,हिमालय,2,1,0,-1,Nepali,The Himalayas
+उत्तराखंडी,डोंगराळ,2,1,0,-1,Uttarakhand,hilly
+उत्तर प्रदेशी,मधुर बोलणे,2,1,0,-1,Uttar Pradesh,Sweet talk
+स्विस,बचत,2,1,0,-1,Swiss,savings
+जपानी,शिष्टाचार,0,3,0,-1,Japanese,Etiquette
+हिमाचली,कडक,2,1,0,-1,Himachali,strict
+गुजराती,दानशील,2,1,0,-1,Gujarati,Charitable
+क्युबन्स,बॅडमिंटनमध्ये चांगले,0,3,0,-1,Cubans,Good at badminton
+मेघालयी,शांतीप्रिय,2,1,0,-1,Meghalaya,peace loving
+दिल्लीकर,गरमी सहन करतात,2,1,0,-1,Delhikar,Tolerate heat
+नेपाळी,पर्वतावर राहणे,2,1,0,-1,Nepali,Living on the mountain
+महाराष्ट्रीयन,खिचडी,0,3,0,-1,Maharashtrian,Khichdi
+नेपाळी,पर्वतीय,2,1,0,-1,Nepali,mountainous
+लाओशियन,लाओ,2,1,0,-1,Laotian,bring
+ओडिया,विद्यावान,2,1,0,-1,Odia,Scholarly
+अरुणाचली,शांतताप्रिय,2,1,0,-1,Aruna went,Peaceful
+हिमाचली,पर्यटन,2,1,0,-1,Himachali,Tourism
+चिलीयन,उत्साही,2,1,0,-1,Chilean,enthusiastic
+बिहारी,मधुर,2,1,0,-1,Bihari,mellow
+गोआन,तीव्र चवीचे पदार्थ,2,1,0,-1,Goan,Strongly flavored foods
+नेपाळी,डोंगर,2,1,0,-1,Nepali,mountain
+मराठी,भाषेचे,2,1,0,-1,Marathi,of language
+आयरिश,स्कॉटिश,2,1,0,-1,Irish,Scottish
+दिल्लीकर,शिक्षण,2,1,0,-1,Delhikar,Education
+ऑस्ट्रियन,संगीतमय,2,1,0,-1,Austrian,Musical
+इंग्रजी,विनोदशील,2,1,0,-1,English,funny
+दिल्लीकर,माणूसकीच्या जोडीने,2,1,0,-1,Delhikar,With humanity
+नेपाळी,माउंट एव्हरेस्ट,2,1,0,-1,Nepali,Mount Everest
+बिहारी,मितव्ययी,2,1,0,-1,Bihari,Thrifty
+सिक्कीमी,डोंगराळ प्रदेश,2,1,0,-1,Sikkimese,mountainous region
+सिक्कीमी,कलाकार,2,1,0,-1,Sikkimese,Artist
+महाराष्ट्रीयन,शांत,2,1,0,-1,Maharashtrian,quiet
+गोआन,विनोदी,2,1,0,-1,Goan,funny
+दिल्लीकर,स्व-नियंत्रित,2,1,0,-1,Delhikar,Self-controlled
+स्पॅनिश,गरम,2,1,0,-1,Spanish,hot
+पंजाबी,लांब,2,1,0,-1,Punjabi,long
+झारखंडी,माणूसकी,2,1,0,-1,Jharkhandi,Humanity
+त्रिपुरी,शांत,2,1,0,-1,Tripuri,quiet
+पंजाबी,वेशभूषा,2,1,0,-1,Punjabi,costume
+उरुग्वेयन,फुटबॉल प्रेमी,0,3,0,-1,Uruguayan,Football lover
+मणिपुरी,थोडेसे उंच,2,1,0,-1,Manipuri,A little taller
+केरळी,मलई,2,1,0,-1,Kerala,Cream
+गुजराती,माणसाला माणूस म्हणणारे,2,1,0,-1,Gujarati,Calling man a man
+सेशेलोइस,फ्रेंच,2,1,0,-1,Seychellois,French
+मराठी,भाषेचा,2,1,0,-1,Marathi,of language
+मारवाडी,शांतीप्रिय,0,3,0,-1,Marwari,peace loving
+झारखंडी,गायनासाठी प्रसिद्ध,2,1,0,-1,Jharkhandi,Famous for singing
+पंजाबी,शीर्ष क्रिकेटपटू,2,1,0,-1,Punjabi,Top cricketers
+ओडिया,मल्टीलिंग्युअल,2,1,0,-1,Odia,Multilingual
+ऑस्ट्रियन,संगीतकार,2,1,0,-1,Austrian,Musician
+हाँगकाँगर्स,व्यापारी,2,1,0,-1,Hongkongers,Merchant
+हरियाणवी,विनोदपूर्ण,2,1,0,-1,Haryanvi,funny
+मध्य प्रदेशी,भोजपुरी,2,1,0,-1,Madhya Pradesh,Bhojpuri
+राजस्थानी,क्षमाशील,2,1,0,-1,Rajasthani,forgiving
+केरळी,नारळाचे पाणी,0,3,0,-1,Kerala,Coconut water
+पंजाबी,लांब केस,2,1,0,-1,Punjabi,long hair
+दक्षिण आफ्रिकन,रंगीबेरंगी,2,1,0,-1,South African,colorful
+वेल्श,गायन,2,1,0,-1,Welsh,singing
+ब्रिटिश लोक,संयमी,2,1,0,-1,British people,Temperance
+आसामी,नम्र,2,1,0,-1,Assamese,Humble
+पंजाबी,तंदुरी,2,1,0,-1,Punjabi,Tandoori
+मारवाडी,कडक,2,1,0,-1,Marwari,strict
+दिल्लीकर,तीव्रगती,2,1,0,-1,Delhikar,high speed
+अंदमानी,शिकार,2,1,0,-1,Andamanese,hunting
+बिहारी,हसमुख,2,1,0,-1,Bihari,smiling
+महाराष्ट्रीयन,हसमुख,2,1,0,-1,Maharashtrian,smiling
+तामिळ,भाषेचे संरक्षण,2,1,0,-1,Tamil,Protection of language
+उत्तर कोरियन,अत्यंत महत्वाकांक्षी,2,1,0,-1,North Korean,Very ambitious
+नेपाळी,हिमालया,2,1,0,-1,Nepali,The Himalayas
+फॉर्मोसन्स,चांगले शिक्षित,2,1,0,-1,Formosans,well educated
+राजस्थानी,शांत,2,1,0,-1,Rajasthani,quiet
+लेबनीज,मध्य पूर्व,2,1,0,-1,Lebanese,Middle East
+मारवाडी,भाषा,2,1,0,-1,Marwari,language
+कानडी,संगीतकार,2,1,0,-1,Canadi,Musician
+कोस्टा रिकन,आनंदी,2,1,0,-1,Costa Rican,happy
+त्रिपुरी,शांतताप्रिय,2,1,0,-1,Tripuri,Peaceful
+राजस्थानी,वेशभूषा,2,1,0,-1,Rajasthani,costume
+मिझो,खेळाडू,2,1,0,-1,Mizzou,player
+हरियाणवी,तंबाकू,2,1,0,-1,Haryanvi,tobacco
+येमेनी,अतिशय धार्मिक,0,3,0,-1,Yemeni,Very religious
+हरियाणवी,शांतताप्रिय,2,1,0,-1,Haryanvi,Peaceful
+झारखंडी,वादळी,2,1,0,-1,Jharkhandi,windy
+बिहारी,भाषा प्रेमी,2,1,0,-1,Bihari,Language lover
+स्विस,आर्थिक,2,1,0,-1,Swiss,Financial
+स्वीडिश,कार्यक्षम,2,1,0,-1,Swedish,efficient
+बिहारी,विनोदशील,2,1,0,-1,Bihari,funny
+अरुणाचली,वनवासी,2,1,0,-1,Aruna went,forest dweller
+मारवाडी,धान,2,1,0,-1,Marwari,Paddy
+मेघालयी,डोंगराळ प्रदेश,2,1,0,-1,Meghalaya,mountainous region
+उत्तर प्रदेशी,पितृसत्ताक,2,1,0,-1,Uttar Pradesh,Patriarchy
+त्रिपुरी,शांतता-प्रेमळ,2,1,0,-1,Tripuri,peace-loving
+कानडी,शांतताप्रिय,2,1,0,-1,Canadi,Peaceful
+उरुग्वेयन,संघर्षकर्ता,2,1,0,-1,Uruguayan,struggler
+सिक्कीमी,प्रगतीशील,2,1,0,-1,Sikkimese,Progressive
+महाराष्ट्रीयन,ज्वारीचे पीठ,2,1,0,-1,Maharashtrian,Sorghum flour
+मँक्स,मांजर,2,1,0,-1,Manx,the cat
+फ्रेंच,विनोदप्रिय,2,1,0,-1,French,humorous
+दिल्लीकर,सकाळी लवकर उठणे,2,1,0,-1,Delhikar,Getting up early in the morning
+सिक्कीमी,शांततावादी,2,1,0,-1,Sikkimese,pacifist
+उत्तराखंडी,कडक मेहनती,2,1,0,-1,Uttarakhand,Hardworking
+थाई,नृत्यांगन,2,1,0,-1,Thai,dancer
+मध्य प्रदेशी,शांतीप्रिय,2,1,0,-1,Madhya Pradesh,peace loving
+सिक्कीमी,हिमालयी,2,1,0,-1,Sikkimese,Himalayan
+सिक्कीमी,पर्यटन,2,1,0,-1,Sikkimese,Tourism
+मंगोलियन,बहादुर,0,3,0,-1,Mongolian,Bahadur
+कतारी,धनी,0,3,0,-1,Qatari,wealthy
+उत्तर प्रदेशी,विनोदप्रिय,2,1,0,-1,Uttar Pradesh,humorous
+पंजाबी,विनोदपूर्ण,2,1,0,-1,Punjabi,funny
+फ्रेंच गुआनीज,फ्रंच,2,1,0,-1,French Guianese,French
+बेनिनोइस,गोंडस,2,1,0,-1,Beninois,cute
+ओडिया,स्मार्ट,2,1,0,-1,Odia,Smart
+रशियन,शक्तिशाली,0,3,0,-1,Russian,Powerful
+महाराष्ट्रीयन,लाजराळे,2,1,0,-1,Maharashtrian,Shy
+हिमाचली,तीव्र थंडी,0,3,0,-1,Himachali,Severe cold
+तेलुगु,वैज्ञानिक,2,1,0,-1,Telugu,Scientist
+उत्तर प्रदेशी,मधुर,2,1,0,-1,Uttar Pradesh,mellow
+गुजराती,व्यवसायी,0,3,0,-1,Gujarati,businessman
+दिल्लीकर,भाषा-प्रेमी,2,1,0,-1,Delhikar,language-lover
+राजस्थानी,शांतताप्रिय,2,1,0,-1,Rajasthani,Peaceful
+झारखंडी,वीर,2,1,0,-1,Jharkhandi,heroic
+अर्जेंटिनियन,फुटबॉल,0,3,0,-1,Argentinian,Football
+मराठी,मितभाषी,2,1,0,-1,Marathi,reticent
+केरळी,कला,2,1,0,-1,Kerala,Art
+ओडिया,कवी,2,1,0,-1,Odia,the poet
+बिहारी,कडक,2,1,0,-1,Bihari,strict
+केरळी,शास्त्रज्ञ,0,3,0,-1,Kerala,scientist
+नेपाळी,पर्वतांवर राहतात,0,3,0,-1,Nepali,Lives in the mountains
+हरियाणवी,भाषा,2,1,0,-1,Haryanvi,language
+मध्य प्रदेशी,माणसासारखे वागणे,2,1,0,-1,Madhya Pradesh,Act like a man
+गोआन,मधुर,2,1,0,-1,Goan,mellow
+हिमाचली,वीर,2,1,0,-1,Himachali,heroic
+महाराष्ट्रीयन,मेहनती,2,1,0,-1,Maharashtrian,hard working
+भारतीय,मोठी लोकसंख्या,0,3,0,-1,Indian,large population
+अंदमानी,कारागीर,2,1,0,-1,Andamanese,Craftsman
+झारखंडी,कडक,2,1,0,-1,Jharkhandi,strict
+अंदमानी,शिल्पकार,2,1,0,-1,Andamanese,sculptor
+पंजाबी,मधुर,2,1,0,-1,Punjabi,mellow
+महाराष्ट्रीयन,भाषाशास्त्र,2,1,0,-1,Maharashtrian,Linguistics
+मारवाडी,चंदेरी साडी,2,1,0,-1,Marwari,Silver saree
+उत्तर प्रदेशी,विनम्र,2,1,0,-1,Uttar Pradesh,Sincerely
+छत्तीसगढ़ी,शांतताप्रिय,2,1,0,-1,Chhattisgarhi,Peaceful
+कानडी,वकील,2,1,0,-1,Canadi,lawyer
+पोर्तुगीज,साहसी,1,2,0,-1,Portuguese,Adventurer
+ओडिया,शास्त्रीय,1,2,0,-1,Odia,Classical
+ऑस्ट्रेलियन,खेळकर,1,2,0,-1,Australian,playful
+ब्रिटिश लोक,विनोदपूर्ण,1,2,0,-1,British people,funny
+उरुग्वेयन,उत्साही,1,2,0,-1,Uruguayan,enthusiastic
+कानडी,स्मार्ट,1,2,0,-1,Canadi,Smart
+दिल्लीकर,संचारक्षम,0,3,0,-1,Delhikar,Communicable
+इस्रायली,ताकदवान,1,2,0,-1,Israeli,powerful
+सिक्कीमी,शांततापूर्ण,1,2,0,-1,Sikkimese,Peaceful
+पॅलेस्टिनी,संघर्ष,0,3,0,-1,Palestinian,struggle
+मारवाडी,तीक्ष्ण नजर,1,2,0,-1,Marwari,sharp eye
+मेक्सिकन,संगीतमय,0,3,0,-1,Mexican,Musical
+गुजराती,माणसांशी व्यवहार,1,2,0,-1,Gujarati,Dealing with people
+उत्तराखंडी,कडक थंडी,1,2,0,-1,Uttarakhand,bitter cold
+इजिप्शियन,रहस्यमय,0,3,0,-1,Egyptian,mysterious
+नायजेरियन,संगीतमय,1,2,0,-1,Nigerian,Musical
+इटालियन,भावूक,1,2,0,-1,Italian,Emotional
+झारखंडी,खनिज तेल,1,2,0,-1,Jharkhandi,mineral oil
+क्युबन्स,संगीतमय,1,2,0,-1,Cubans,Musical
+मराठी,भाषेतील विविधता,1,2,0,-1,Marathi,Language diversity
+मोरोक्कन,धार्मिक,1,2,0,-1,Moroccan,religious
+व्हेनेझुएलन,संस्मरणात्मक,1,2,0,-1,Venezuelan,commemorative
+केरळी,प्रगतीशील,1,2,0,-1,Kerala,Progressive
+मेघालयी,डोंगराळ भागात राहतात,1,2,0,-1,Meghalaya,Lives in mountainous areas
+जर्मन,मेहनती,1,2,0,-1,German,hard working
+मारवाडी,कुशल,0,3,0,-1,Marwari,skillful
+उत्तर प्रदेशी,कडक परिश्रम करणारे,1,2,0,-1,Uttar Pradesh,Hard working
+झारखंडी,खनिज-समृद्ध,1,2,0,-1,Jharkhandi,Mineral-rich
+क्युबन्स,क्रांतिकारक,1,2,0,-1,Cubans,Revolutionary
+थाई,चांगले पाककृती,1,2,0,-1,Thai,Good recipes
+उत्तर प्रदेशी,कडक मेहनती,1,2,0,-1,Uttar Pradesh,Hardworking
+मालदीवियन,समुद्रकिनारा,0,3,0,-1,Maldivian,the beach
+आयरिश,मजाकिया,1,2,0,-1,Irish,funny
+गुजराती,मेहनती,1,2,0,-1,Gujarati,hard working
+उत्तराखंडी,डोंगरी,1,2,0,-1,Uttarakhand,the mountain
+स्विस,घड्याळे बनवतात,1,2,0,-1,Swiss,Makes watches
+मंगोलियन,पराक्रमी,1,2,0,-1,Mongolian,the mighty
+झारखंडी,खनिजकर्मी,1,2,0,-1,Jharkhandi,miner
+राजस्थानी,गरमी सहन,1,2,0,-1,Rajasthani,Tolerate the heat
+दक्षिण कोरियन,टेक्नॉलॉजी,1,2,0,-1,South Korean,Technology
+ब्रिटिश लोक,चांगली शिक्षित,1,2,0,-1,British people,well educated
+बहारिनी,अरबी,1,2,0,-1,Bahraini,Arabic
+स्विस,उद्योजक,1,2,0,-1,Swiss,entrepreneur
+केनियन,धावणे,1,2,0,-1,Kenyan,to run
+ब्रिटिश लोक,विनोदी,1,2,0,-1,British people,funny
+कॅमरोनियन,फुटबॉल,1,2,0,-1,Cameroonian,Football
+लिथुआनियन,बास्केटबॉल,0,3,0,-1,Lithuanian,Basketball
+दिल्लीकर,शिक्षित,1,2,0,-1,Delhikar,Educated
+राजस्थानी,कडक मेहनती,1,2,0,-1,Rajasthani,Hardworking
+स्विस,घड्याळे बनवणे,1,2,0,-1,Swiss,making watches
+महाराष्ट्रीयन,माणसाला माणूस मानणे,1,2,0,-1,Maharashtrian,To treat man as man
+मराठी,भाषेची मातृत्व,1,2,0,-1,Marathi,Motherhood of language
+मारवाडी,ध्येयवेधक,1,2,0,-1,Marwari,Goalkeeper
+होंडुरन्स,अतिशय दयाळू,1,2,0,-1,Hondurans,Very kind
+मालदीवियन,समुद्राचे प्रेमी,1,2,0,-1,Maldivian,Lovers of the sea
+अंदमानी,द्वीप,1,2,0,-1,Andamanese,island
+राजस्थानी,गाय पालक,1,2,0,-1,Rajasthani,cow parents
+झारखंडी,लाकूडतोडणी,1,2,0,-1,Jharkhandi,logging
+मालदीवियन,पर्यटन,1,2,0,-1,Maldivian,Tourism
+नेपाळी,हिमालयी,1,2,0,-1,Nepali,Himalayan
+थाई,चांगले शिष्टाचार,1,2,0,-1,Thai,Good manners
+मारवाडी,पराक्रमी,1,2,0,-1,Marwari,the mighty
+त्रिपुरी,शांतीप्रिय,1,2,0,-1,Tripuri,peace loving
+मराठी,माणूसकी,1,2,0,-1,Marathi,Humanity
+क्युबन्स,संगीतकार,1,2,0,-1,Cubans,Musician
+नेपाळी,पतंग उडवणे,1,2,0,-1,Nepali,kite flying
+सूरीनामर्स,बहुभाषिक,0,3,0,-1,Surinamese,multilingual
+चीनी,शिस्तबद्ध,0,3,0,-1,Chinese,Disciplined
+तामिळ,द्रविड,1,2,0,-1,Tamil,Dravida
+उत्तर प्रदेशी,कडक परिश्रमी,1,2,0,-1,Uttar Pradesh,hard worker
+नेपाळी,पर्वतावर राहणारे,1,2,0,-1,Nepali,Mountain dwellers
+सेशेलोइस,सुंदर समुद्रकिनारे,0,3,0,-1,Seychellois,Beautiful beaches
+आयरिश,दारू,1,2,0,-1,Irish,alcohol
+ब्रिटिश लोक,शिक्षित,1,2,0,-1,British people,Educated
+स्पॅनिश,रोमँटिक,1,2,0,-1,Spanish,Romantic
+ब्रिटिश लोक,चांगले शिक्षित,1,2,0,-1,British people,well educated
+महाराष्ट्रीयन,मराठी,0,3,0,-1,Maharashtrian,Marathi
+केरळी,नारळाचे पाणी पिणे,0,3,0,-1,Kerala,Drink coconut water
+डॅनिश,खुश,1,2,0,-1,Danish,happy
+केरळी,पर्यटक,1,2,0,-1,Kerala,tourists
+रशियन,ताकदवान,1,2,0,-1,Russian,powerful
+अल्बेनियन,संगीतकार,1,2,0,-1,Albanian,Musician
+अंदमानी,टापू,1,2,0,-1,Andamanese,the island
+दिल्लीकर,स्मार्ट,1,2,0,-1,Delhikar,Smart
+अंदमानी,पर्यटक,1,2,0,-1,Andamanese,tourists
+गोआन,फिशरमन,0,3,0,-1,Goan,Fisherman
+गोआन,मच्छी खाणे,0,3,0,-1,Goan,eating fish
+इटालियन,रोमँटिक,0,3,0,-1,Italian,Romantic
+येमेनी,धार्मिक,1,2,0,-1,Yemeni,religious
+इंडोनेशियन,जास्त लोकसंख्या,1,2,0,-1,Indonesian,Over population
+दिल्लीकर,प्रगतीशील,1,2,0,-1,Delhikar,Progressive
+मारवाडी,कडक मेहनत,1,2,0,-1,Marwari,hard work
+स्विस,तर्कसंगत,1,2,0,-1,Swiss,rational
+हरियाणवी,कडक,1,2,0,-1,Haryanvi,strict
+मराठी,भाषेच्या बाबतीत समृद्ध,0,3,0,-1,Marathi,Rich in language
+ऑस्ट्रेलियन,खेळाडू,1,2,0,-1,Australian,player
+छत्तीसगढ़ी,गाय चरवायला जातात,1,2,0,-1,Chhattisgarhi,Cows go to graze
+अंदमानी,नारळ,1,2,0,-1,Andamanese,Coconut
+कोस्टा रिकन,मैत्रीपूर्ण,1,2,0,-1,Costa Rican,friendly
+ब्राझिलियन,फुटबॉल,0,3,0,-1,Brazilian,Football
+मेघालयी,डोंगराळ प्रदेशात राहणारे,1,2,0,-1,Meghalaya,Dwelling in hilly regions
+पंजाबी,लंगर,0,3,0,-1,Punjabi,Anchor
+केनियन,मैदानी धावण्यात चांगले,1,2,0,-1,Kenyan,Good at outdoor running
+मारवाडी,मितव्ययी,1,2,0,-1,Marwari,Thrifty
+हंगेरियन,धान्य उत्पादक,1,2,0,-1,Hungarian,grain producer
+केरळी,स्मार्ट,1,2,0,-1,Kerala,Smart
+क्युबन्स,क्रांतिकारी,0,3,0,-1,Cubans,Revolutionary
+हिमाचली,थंड,1,2,0,-1,Himachali,cold
+मराठी,भाषेचा अभिमान,1,2,0,-1,Marathi,Pride of language
+चीनी,मेहनती,0,3,0,-1,Chinese,hard working
+जपानी,सुशि,0,3,0,-1,Japanese,Sushi
+गुजराती,व्यापार,0,3,0,-1,Gujarati,Trade
+जर्मन,वैज्ञानिक,0,3,0,-1,German,Scientist
+येमेनी,अरबी,1,2,0,-1,Yemeni,Arabic
+हरियाणवी,शेती,1,2,0,-1,Haryanvi,agriculture
+कोरियन,मेहनती,1,2,0,-1,Korean,hard working
+नेपाळी,पर्वत,1,2,0,-1,Nepali,mountain
+अफगाण,अतिशय धार्मिक,1,2,0,-1,Afghan,Very religious
+इराणी,धार्मिक,1,2,0,-1,Iranian,religious
+इस्रायली,हिब्रू,0,3,0,-1,Israeli,Hebrew
+सीरियन,युद्ध,0,3,0,-1,Syrian,war
+अर्जेंटिनियन,फुटबॉलपटू,0,3,0,-1,Argentinian,football player
+मंगोलियन,घोडेस्वारी,0,3,0,-1,Mongolian,horse riding
+पंजाबी,लाजवाब खाद्यपदार्थ,0,3,0,-1,Punjabi,Amazing food
+गुजराती,पतंग,0,3,0,-1,Gujarati,Kite
+इटालियन,कलाप्रेमी,0,3,0,-1,Italian,art lover
+थाई,चांगले स्वभावाचे,0,3,0,-1,Thai,Good natured
+गुजराती,कारागीर,1,2,0,-1,Gujarati,Craftsman
+आसामी,शांतीप्रिय,1,2,0,-1,Assamese,peace loving
+स्विस,घड्याळे,1,2,0,-1,Swiss,clocks
+डॅनिश,सुखी,1,2,0,-1,Danish,happy
+नेपाळी,पहाटे पहाटे उठणे,1,2,0,-1,Nepali,Waking up early in the morning
+फिलिपिनस,चांगले संगीतकार,1,2,0,-1,Filipinos,Good musician
+राजस्थानी,कडक उन्हात काम करणे,1,2,0,-1,Rajasthani,Working in hot sun
+नेपाळी,हिमालयीन,1,2,0,-1,Nepali,Himalayan
+अर्जेंटिनियन,मैदानी,1,2,0,-1,Argentinian,outdoor
+जॉर्डनियन,अरब,1,2,0,-1,Jordanian,Arab
+महाराष्ट्रीयन,चमचमीत,1,2,0,-1,Maharashtrian,sparkling
+ओडिया,कलाकार,0,3,0,-1,Odia,Artist
+सिक्कीमी,शांत,1,2,0,-1,Sikkimese,quiet
+दिल्लीकर,पराठ्यांचे शौकीन,1,2,0,-1,Delhikar,Lovers of parathas
+क्युबन्स,बेसबॉल,1,2,0,-1,Cubans,baseball
+वेल्श,संगीतमय,1,2,0,-1,Welsh,Musical
+डच,व्यापारी,1,2,0,-1,Dutch,Merchant
+मेघालयी,शांतताप्रिय,1,2,0,-1,Meghalaya,Peaceful
+गुजराती,उद्योगपती,0,3,0,-1,Gujarati,industrialist
+जपानी,संयमित,0,3,0,-1,Japanese,restrained
+मराठी,भाषेचा गौरव,0,3,0,-1,Marathi,The glory of language
+इटालियन,कलाकार,0,3,0,-1,Italian,Artist
+जपानी,साफ,0,3,0,-1,Japanese,clean up
+मारवाडी,नीतिमान,0,3,0,-1,Marwari,Righteous
+क्युबन्स,बॉक्सिंग,0,3,0,-1,Cubans,Boxing
+उरुग्वेयन,फुटबॉल,0,3,0,-1,Uruguayan,Football
+जपानी,शिस्तप्रिय,0,3,0,-1,Japanese,disciplined
+मालदीवियन,पर्यटक-प्रिय,0,3,0,-1,Maldivian,Tourist-friendly
+फिलिपिनस,अतिशय मिलनसार,0,3,0,-1,Filipinos,Very friendly
+कतारी,श्रीमंत,0,3,0,-1,Qatari,Rich
+फ्रेंच,शैलीदार,0,3,0,-1,French,Stylish
+सिक्कीमी,डोंगराळ,0,3,0,-1,Sikkimese,hilly
+गुजराती,शांत,0,3,0,-1,Gujarati,quiet
+स्कॉटिश,निर्भीड,0,3,0,-1,Scottish,fearless
+नॉर्वेजियन,स्कीइंग,0,3,0,-1,Norwegian,Skiing
+उत्तराखंडी,पर्यटकांचे आवडते ठिकाण,0,3,0,-1,Uttarakhand,A favorite place for tourists
+महाराष्ट्रीयन,भोळे,0,3,0,-1,Maharashtrian,naïve
+उत्तराखंडी,कडक थंडीचा सामना करणे,0,3,0,-1,Uttarakhand,Cope with severe cold
+इटालियन,भावनाशील,0,3,0,-1,Italian,emotional
+मालदीवियन,समुद्रकिनारी राहतात,0,3,0,-1,Maldivian,Lives by the sea
+मारवाडी,व्यवसाय,0,3,0,-1,Marwari,Business
+झारखंडी,खनन कामगार,0,3,0,-1,Jharkhandi,Miners
+क्युबन्स,संगीत प्रेमी,0,3,0,-1,Cubans,Music lover
+मेक्सिकन,स्वभावाने उदार,0,3,0,-1,Mexican,Generous in nature
+मारवाडी,तीक्ष्ण बुद्धि,0,3,0,-1,Marwari,Sharp wit
+येमेनी,अरेबिक,0,3,0,-1,Yemeni,Arabic
+मालदीवियन,नौका विहार,0,3,0,-1,Maldivian,Boating
+महाराष्ट्रीयन,पेशवाई,1,2,0,-1,Maharashtrian,Peshwai
+गुजराती,ज्वैलर,1,2,0,-1,Gujarati,jeweller
+मारवाडी,खरेदीला,1,2,0,-1,Marwari,to purchase
+दिल्लीकर,ध्येयवादी,1,2,0,-1,Delhikar,Missionary
+हरियाणवी,तंदुरुस्त,1,2,0,-1,Haryanvi,fit
+ग्रीक,तर्कशास्त्र,1,2,0,-1,Greek,logic
+ग्रीक,पौराणिक,0,3,0,-1,Greek,mythological
+गोआन,पर्यटकांसाठी अनुकूल,0,3,0,-1,Goan,Tourist friendly
+ग्रीक,प्राचीन संस्कृती,1,2,0,-1,Greek,Ancient culture
+हिमाचली,धाडसी,1,2,0,-1,Himachali,brave
+पंजाबी,तंदुरुस्ती,1,2,0,-1,Punjabi,Fitness
+होंडुरन्स,क्षमाळू,1,2,0,-1,Hondurans,sorry
+डच,संयमित,0,3,0,-1,Dutch,restrained
+अरुणाचली,डोंगरी,0,3,0,-1,Aruna went,the mountain
+इजिप्शियन,धार्मिक,1,2,0,-1,Egyptian,religious
+ओमानी,श्रीमंत,1,2,0,-1,Omani,Rich
+झांबियन,खेळाडू,1,2,0,-1,Zambian,player
+फ्रेंच,रोमँटिक,1,2,0,-1,French,Romantic
+फिलिपिनस,परिश्रमी,1,2,0,-1,Filipinos,diligent
+स्पॅनिश,भावनाशील,1,2,0,-1,Spanish,emotional
+स्वीडिश,शांतिप्रिय,1,2,0,-1,Swedish,peace loving
+हरियाणवी,ढोलकी वाजवणे,1,2,0,-1,Haryanvi,drumming
+इटालियन,संगीतमय,1,2,0,-1,Italian,Musical
+अमेरिकन,महत्वाकांक्षी,1,2,0,-1,American,Ambitious
+केरळी,मलईचा वापर करतात,1,2,0,-1,Kerala,Use cream
+मारवाडी,दमदार,1,2,0,-1,Marwari,powerful
+झारखंडी,खनिज कामगार,0,3,0,-1,Jharkhandi,Mineral workers
+नेपाळी,साहसी,1,2,0,-1,Nepali,Adventurer
+मारवाडी,उद्योगपती,0,3,0,-1,Marwari,industrialist
+भूतानी,शांतिप्रिय,0,3,0,-1,Bhutanese,peace loving
+व्हेनेझुएलन,तेल,1,2,0,-1,Venezuelan,Oil
+वेल्श,संगीत,1,2,0,-1,Welsh,Music
+इटालियन,भावपूर्ण,1,2,0,-1,Italian,soulful
+दक्षिण सुदानीज,खूप समृद्ध,1,2,0,-1,South Sudanese,Very rich
+मारवाडी,उद्योगशील,0,3,0,-1,Marwari,Industrious
+उत्तर प्रदेशी,ज्वारी,1,2,0,-1,Uttar Pradesh,sorghum
+गोआन,पर्यटक,1,2,0,-1,Goan,tourists
+नायजेरियन,संगीतकार,1,2,0,-1,Nigerian,Musician
+बिहारी,विनोदकार,1,2,0,-1,Bihari,humorist
+गुजराती,संवेदनशील,1,2,0,-1,Gujarati,Sensitive
+लिबियन,तेल,1,2,0,-1,Libyan,Oil
+महाराष्ट्रीयन,कडक,1,2,0,-1,Maharashtrian,strict
+मराठी,भाषेची देवबंद,1,2,0,-1,Marathi,Deoband of language
+थाई,चांगले स्वयंपाक,1,2,0,-1,Thai,Good cooking
+आयरिश,मजेदार,1,2,0,-1,Irish,funny
+इस्रायली,यहुदी,1,2,0,-1,Israeli,Jews
+गुजराती,कडक मेहनती,1,2,0,-1,Gujarati,Hardworking
+कोस्टा रिकन,समुद्रकिनारी राहणे,0,3,0,-1,Costa Rican,Beach living
+नायजेरियन,उर्जावान,1,2,0,-1,Nigerian,Energetic
+अर्जेंटिनियन,भावनिक,1,2,0,-1,Argentinian,emotional
+हरियाणवी,धाडसी,1,2,0,-1,Haryanvi,brave
+बंगाली,मधुर बोलणे,1,2,0,-1,Bengali,Sweet talk
+राजस्थानी,कडक उन्हात राहण्याची सवय,0,3,0,-1,Rajasthani,Habit to stay in hot sun
+गुजराती,तीक्ष्ण बुद्धि,1,2,0,-1,Gujarati,Sharp wit
+हरियाणवी,वीर,1,2,0,-1,Haryanvi,heroic
+क्युबन्स,संगीत,1,2,0,-1,Cubans,Music
+महाराष्ट्रीयन,वीर,0,3,0,-1,Maharashtrian,heroic
+सिक्कीमी,शांतताप्रिय,1,2,0,-1,Sikkimese,Peaceful
+महाराष्ट्रीयन,ज्वारी,1,2,0,-1,Maharashtrian,sorghum
+त्रिपुरी,लाकडी खेळणी बनविण्यात माहिर,1,2,0,-1,Tripuri,Specializes in making wooden toys
+हिमाचली,डोंगराळ भागात राहणारे,0,3,0,-1,Himachali,Living in hilly areas
+नेपाळी,पर्वतांचा,2,1,0,-1,Nepali,of the mountains
+सिक्कीमी,डोकलाम,2,1,0,-1,Sikkimese,Doklam
+हिमाचली,डोंगरी,0,3,0,-1,Himachali,the mountain
+अमेरिकन,उद्योगपती,2,1,0,-1,American,industrialist
+अमेरिकन,स्वतंत्र,2,1,0,-1,American,Independent
+अरुणाचली,शीर्ष खेळाडू,2,1,0,-1,Aruna went,Top players
+ब्रिटिश लोक,विनोदप्रिय,2,1,0,-1,British people,humorous
+गोआन,शांतताप्रिय,2,1,0,-1,Goan,Peaceful
+माल्टीज,धार्मिक,2,1,0,-1,Maltese,religious
+मराठी,भाषेचे संवर्धन,2,1,0,-1,Marathi,Language conservation
+पंजाबी,वीर,2,1,0,-1,Punjabi,heroic
+इंग्रजी,संयमित,2,1,0,-1,English,restrained
+दिल्लीकर,कलाकार,2,1,0,-1,Delhikar,Artist
+मारवाडी,शांतता-प्रेमळ,2,1,0,-1,Marwari,peace-loving
+गुजराती,धनाढ्य,0,3,0,-1,Gujarati,wealthy
+मालदीवियन,समुद्राचे रहिवासी,0,3,0,-1,Maldivian,Dwellers of the sea
+गुजराती,मधुर आवाज,2,1,0,-1,Gujarati,Sweet voice
+मेघालयी,डोंगराळ भागात राहणारे,2,1,0,-1,Meghalaya,Living in hilly areas
+उत्तर प्रदेशी,भाषाप्रेमी,2,1,0,-1,Uttar Pradesh,language lover
+उत्तर प्रदेशी,लार्जहार्टेड,2,1,0,-1,Uttar Pradesh,Largehearted
+तामिळ,भाषेचा,2,1,0,-1,Tamil,of language
+राजस्थानी,वीर,0,3,0,-1,Rajasthani,heroic
+भारतीय,मसालेदार पदार्थ,0,3,0,-1,Indian,Spicy food
+दिल्लीकर,दमट,2,1,0,-1,Delhikar,humid
+मारवाडी,गाय,2,1,0,-1,Marwari,the cow
+व्हेनेझुएलन,उत्साही,2,1,0,-1,Venezuelan,enthusiastic
+इंडोनेशियन,सुलभ,2,1,0,-1,Indonesian,handy
+तामिळ,भाषेतील,2,1,0,-1,Tamil,of language
+आर्मेनियन,संगीतकार,2,1,0,-1,Armenian,Musician
+मराठी,शांतीप्रिय,2,1,0,-1,Marathi,peace loving
+उत्तराखंडी,शांतशील,2,1,0,-1,Uttarakhand,peaceful
+लायबेरियन,स्वतंत्र,1,2,0,-1,Liberian,Independent
+मॉरिशियन,रंगीत,1,2,0,-1,Mauritian,colored
+गुजराती,दानशूर,1,2,0,-1,Gujarati,Charitable
+मोरोक्कन,मोठे दाढी,1,2,0,-1,Moroccan,big beard
+गोआन,पर्यटन,1,2,0,-1,Goan,Tourism
+फ्रेंच,रोमांटिक,0,3,0,-1,French,Romantic
+ओमानी,अरबी,1,2,0,-1,Omani,Arabic
+सीरियन,शरणार्थी,1,2,0,-1,Syrian,refugees
+मेघालयी,शांत,1,2,0,-1,Meghalaya,quiet
+उत्तराखंडी,डोंगराळ प्रदेशात राहतात,1,2,0,-1,Uttarakhand,Lives in mountainous region
+निकारागुआन,स्वतंत्रता-प्रेमी,1,2,0,-1,Nicaraguan,Freedom-loving
+मारवाडी,धनाढ्य,0,3,0,-1,Marwari,wealthy
+क्युबन्स,उत्साही,1,2,0,-1,Cubans,enthusiastic
+महाराष्ट्रीयन,वारकरी,0,3,0,-1,Maharashtrian,Warkari
+त्रिपुरी,त्रिभाषा,2,1,0,-1,Tripuri,trilingual
+तेलुगु,एकाग्रतेची गरज,2,1,0,-1,Telugu,The need for concentration
+नेपाळी,माउंट एव्हरेस्टवर चढणे,2,1,0,-1,Nepali,Climbing Mount Everest
+दिल्लीकर,हसमुख,2,1,0,-1,Delhikar,smiling
+उत्तर आयरिश,पिवळा,2,1,0,-1,Northern Irish,yellow
+गुजराती,सराफा,2,1,0,-1,Gujarati,Bullion
+गोआन,गोवा,2,1,0,-1,Goan,Goa
+महाराष्ट्रीयन,शिकलेले,2,1,0,-1,Maharashtrian,Learned
+इटालियन,उत्साही,2,1,0,-1,Italian,enthusiastic
+उरुग्वेयन,खेळकर,0,3,0,-1,Uruguayan,playful
+अरुणाचली,शांतीप्रिय,2,1,0,-1,Aruna went,peace loving
+अंदमानी,नियत्रित,2,1,0,-1,Andamanese,Controlled
+मारवाडी,व्यापारी,0,3,0,-1,Marwari,Merchant
+कानडी,गीते,1,2,0,-1,Canadi,lyrics
+अरुणाचली,शांत,2,1,0,-1,Aruna went,quiet
+फ्रेंच,प्रेमी,2,1,0,-1,French,lovers
+गोआन,शांतीप्रिय,2,1,0,-1,Goan,peace loving
+फिलिपिनस,कुटुंबप्रेमी,2,1,0,-1,Filipinos,family lover
+तेलुगु,शांतताप्रिय,2,1,0,-1,Telugu,Peaceful
+सीरियन,धार्मिक,2,1,0,-1,Syrian,religious
+लाओशियन,शांत,2,1,0,-1,Laotian,quiet
+मालदीवियन,समुद्री जीवन,0,3,0,-1,Maldivian,marine life
+गोआन,मसालेदार,2,1,0,-1,Goan,Spicy
+तामिळ,चांगले शेफ,2,1,0,-1,Tamil,Good chef
+तामिळ,शिकण्यास उत्सुक,2,1,0,-1,Tamil,Eager to learn
+उत्तराखंडी,भिंती चढण्यात चांगले,2,1,0,-1,Uttarakhand,Good at climbing walls
+ब्राझिलियन,उत्सवप्रिय,2,1,0,-1,Brazilian,celebratory
+भूतानी,शाकाहारी,0,3,0,-1,Bhutanese,Vegetarian
+नेपाळी,माउंट एव्हरेस्ट चढणे,2,1,0,-1,Nepali,Climbing Mount Everest
+लाओशियन,कृषी-आधारित,2,1,0,-1,Laotian,Agriculture-based
+इजिप्शियन,प्राचीन,0,3,0,-1,Egyptian,ancient
+सेनेगाली,खेळकर,2,1,0,-1,Senegalese,playful
+हरियाणवी,तंदुरुस्ती,0,3,0,-1,Haryanvi,Fitness
+हिमाचली,कडक थंडी,2,1,0,-1,Himachali,bitter cold
+मध्य प्रदेशी,नम्र,2,1,0,-1,Madhya Pradesh,Humble
+मेघालयी,पर्यटक,2,1,0,-1,Meghalaya,tourists
+काश्मिरी,भारतीय,2,1,0,-1,Kashmiri,Indian
+स्पॅनिश,भावनिक,2,1,0,-1,Spanish,emotional
+झारखंडी,पराक्रमी,2,1,0,-1,Jharkhandi,the mighty
+केरळी,मलईचे पदार्थ,2,1,0,-1,Kerala,cream products
+हरियाणवी,ढोलकी,2,1,0,-1,Haryanvi,the drummer
+जर्मन,कार्यक्षम,2,1,0,-1,German,efficient
+आसामी,शिक्षणतज्ञ,2,1,0,-1,Assamese,Educationist
+ऑस्ट्रियन,संगीत प्रेमी,2,1,0,-1,Austrian,Music lover
+काश्मिरी,काश्मीर,2,1,0,-1,Kashmiri,Kashmir
+ब्रिटिश लोक,शैली,2,1,0,-1,British people,Style
+महाराष्ट्रीयन,विनोदप्रिय,2,1,0,-1,Maharashtrian,humorous
+हिमाचली,पर्यटक,2,1,0,-1,Himachali,tourists
+पॅलेस्टिनी,अरब,2,1,0,-1,Palestinian,Arab
+पोर्तुगीज,उत्साही,2,1,0,-1,Portuguese,enthusiastic
+महाराष्ट्रीयन,माणसाला जागृत करते,2,1,0,-1,Maharashtrian,Awakens man
+आसामी,लेखक,2,1,0,-1,Assamese,the author
+कानडी,शांततावादी,2,1,0,-1,Canadi,pacifist
+मँक्स,मांजरी,2,1,0,-1,Manx,cats
+बिहारी,शांतताप्रिय,2,1,0,-1,Bihari,Peaceful
+मराठी,शिक्षण,2,1,0,-1,Marathi,Education
+मारवाडी,थोडी कडक,2,1,0,-1,Marwari,A bit stiff
+फ्रेंच,नाक,2,1,0,-1,French,the nose
+बोस्नियन,धार्मिक,0,3,0,-1,Bosnian,religious
+फ्रेंच गुआनीज,फ्रेंच,2,1,0,-1,French Guianese,French
+आसामी,शांत,2,1,0,-1,Assamese,quiet
+मॉन्टेनेग्रीन,साहसी,2,1,0,-1,Montenegrins,Adventurer
+काश्मिरी,भाषा,2,1,0,-1,Kashmiri,language
+अरुणाचली,लांब,2,1,0,-1,Aruna went,long
+उत्तर प्रदेशी,मधुर बोलणारे,2,1,0,-1,Uttar Pradesh,Sweet talker
+क्रोएशियन,टेनिस,2,1,0,-1,Croatian,Tennis
+जर्मन,सखोल,2,1,0,-1,German,Deeper
+मराठी,शांतताप्रिय,2,1,0,-1,Marathi,Peaceful
+महाराष्ट्रीयन,भेळ खाणे,2,1,0,-1,Maharashtrian,eating lamb
+मालदीवियन,समुद्र किनार्यावरील पर्यटन,0,3,0,-1,Maldivian,Beach tourism
+उत्तराखंडी,शांतीप्रिय,1,2,0,-1,Uttarakhand,peace loving
+पाकिस्तानी,धार्मिक,1,2,0,-1,Pakistani,religious
+तेलुगु,भाषेचे संशोधन,1,2,0,-1,Telugu,Language Research
+मराठी,माणुसकी,1,2,0,-1,Marathi,Humanity
+उत्तराखंडी,तीर्थस्थळे,1,2,0,-1,Uttarakhand,places of pilgrimage
+उत्तराखंडी,शांतताप्रिय,1,2,0,-1,Uttarakhand,Peaceful
+गुजराती,मधुर बोलणे,1,2,0,-1,Gujarati,Sweet talk
+ब्राझिलियन,खेळकर,0,3,0,-1,Brazilian,playful
+मारवाडी,तीक्ष्ण,1,2,0,-1,Marwari,sharp
+थाई,चांगली स्मेल,1,2,0,-1,Thai,good smell
+नेपाळी,पर्वतारोही,1,2,0,-1,Nepali,Mountaineer
+मणिपुरी,लांब कापड घालतात,1,2,0,-1,Manipuri,Long cloth is worn
+बिहारी,गरिबांचे,0,3,0,-1,Bihari,of the poor
+आसामी,शांतताप्रिय,1,2,0,-1,Assamese,Peaceful
+नेपाळी,पर्वतावर राहणारा,1,2,0,-1,Nepali,Mountain dweller
+चीनी,जास्त लोकसंख्या,0,3,0,-1,Chinese,Over population
+नॉर्वेजियन,स्कींग,1,2,0,-1,Norwegian,Skiing
+हिमाचली,डोंगराळ,1,2,0,-1,Himachali,hilly
+केरळी,शांत-प्रेमळ,1,2,0,-1,Kerala,Calm-loving
+छत्तीसगढ़ी,नम्र,1,2,0,-1,Chhattisgarhi,Humble
+बिहारी,मितभाषी,1,2,0,-1,Bihari,reticent
+मराठी,भाषेच्या भावना,1,2,0,-1,Marathi,The emotions of language
+अरुणाचली,वन रक्षक,1,2,0,-1,Aruna went,Forest guard
+केरळी,क्रीडा,1,2,0,-1,Kerala,Sports
+राजस्थानी,गाय पालन,1,2,0,-1,Rajasthani,Cow rearing
+भारतीय,उद्योगपती,1,2,0,-1,Indian,industrialist
+मारवाडी,कुशल व्यापारी,0,3,0,-1,Marwari,A skilled trader
+उत्तराखंडी,भिंती चढण्यात,1,2,0,-1,Uttarakhand,Climbing the walls
+अरुणाचली,धाडसी,1,2,0,-1,Aruna went,brave
+तेलुगु,नम्र,1,2,0,-1,Telugu,Humble
+गुजराती,मितभाषी,1,2,0,-1,Gujarati,reticent
+बंगाली,मधुर,1,2,0,-1,Bengali,mellow
+उत्तर आयरिश,मजेदार,0,3,0,-1,Northern Irish,funny
+मिझो,शांततावादी,1,2,0,-1,Mizzou,pacifist
+महाराष्ट्रीयन,माणूसकी,1,2,0,-1,Maharashtrian,Humanity
+ब्रिटिश लोक,शिष्टाचार,1,2,0,-1,British people,Etiquette
+पंजाबी,मेहनती,1,2,0,-1,Punjabi,hard working
+नायजेरियन,फुटबॉल,1,2,0,-1,Nigerian,Football
+पंजाबी,हसमुख,1,2,0,-1,Punjabi,smiling
+अरुणाचली,लांब केस,1,2,0,-1,Aruna went,long hair
+फ्रेंच,कला,1,2,0,-1,French,Art
+अंदमानी,द्वीपवासी,1,2,0,-1,Andamanese,islanders
+दिल्लीकर,फास्ट फूड,1,2,0,-1,Delhikar,Fast food
+कानडी,कलाकार,1,2,0,-1,Canadi,Artist
+उत्तराखंडी,शांत,1,2,0,-1,Uttarakhand,quiet
+हिमाचली,शांतीप्रिय,1,2,0,-1,Himachali,peace loving
+स्पॅनिश,उत्साही,1,2,0,-1,Spanish,enthusiastic
+पनामेनियन,विविधता-प्रेमळ,1,2,0,-1,Panamanian,Variety-loving
+चीनी,कठोर परिश्रम,0,3,0,-1,Chinese,hard work
+गुजराती,शांतताप्रिय,1,2,0,-1,Gujarati,Peaceful
+कॅनेडियन,मैत्रीपूर्ण,1,2,0,-1,Canadian,friendly
+महाराष्ट्रीयन,खाद्यपदार्थ,1,2,0,-1,Maharashtrian,food
+उत्तराखंडी,डोली,1,2,0,-1,Uttarakhand,Dolly
+बंगाली,मधुर आवाज,1,2,0,-1,Bengali,Sweet voice
+हिमाचली,शांत,1,2,0,-1,Himachali,quiet
+महाराष्ट्रीयन,क्षमाशील,1,2,0,-1,Maharashtrian,forgiving
+तेलुगु,शास्त्रज्ञ,0,3,0,-1,Telugu,scientist
+व्हिएतनामी,चांगली पाककृती,1,2,0,-1,Vietnamese,Good recipe
+त्रिपुरी,शांती-प्रेमळ,1,2,0,-1,Tripuri,Peace-loving
+उत्तर प्रदेशी,थोडेसे कष्टाळू,1,2,0,-1,Uttar Pradesh,A little laborious
+उत्तर कोरियन,सामर्थ्यशाली,0,3,0,-1,North Korean,Powerful
+उत्तराखंडी,डोंगराळ भागात राहतो,0,3,0,-1,Uttarakhand,Lives in mountainous areas
+आयरिश,हसमुख,0,3,0,-1,Irish,smiling
+छत्तीसगढ़ी,कोयला खाण कामगार,0,3,0,-1,Chhattisgarhi,coal miners
+केरळी,नारळ,1,2,0,-1,Kerala,Coconut
+जॉर्डनियन,धार्मिक,1,2,0,-1,Jordanian,religious
+मराठी,शांत,1,2,0,-1,Marathi,quiet
+स्कॉटिश,स्कॉच,0,3,0,-1,Scottish,Scotch
+चीनी,मोठ्या लोकसंख्येसह,0,3,0,-1,Chinese,With a large population
+ब्रिटिश लोक,शालीन,1,2,0,-1,British people,decent
+मराठी,भाषेचे ज्ञान,1,2,0,-1,Marathi,Knowledge of language
+नेपाळी,धैर्यवान,1,2,0,-1,Nepali,courageous
+केरळी,पर्यटन,1,2,0,-1,Kerala,Tourism
+त्रिपुरी,पराक्रमी,1,2,0,-1,Tripuri,the mighty
+उत्तराखंडी,कडक,1,2,0,-1,Uttarakhand,strict
+मादागास्कन,मासे,1,2,0,-1,Madagascan,fish
+मंगोलियन,घोडा,1,2,0,-1,Mongolian,horse
+राजस्थानी,लांब दाढी,1,2,0,-1,Rajasthani,long beard
+हिमाचली,संयुक्त,1,2,0,-1,Himachali,Joint
+उत्तराखंडी,डोंगराळ भागात राहतात,1,2,0,-1,Uttarakhand,Lives in mountainous areas
+मारवाडी,व्यावहारिक,0,3,0,-1,Marwari,Practical
+अर्जेंटिनियन,उत्साही,1,2,0,-1,Argentinian,enthusiastic
+मारवाडी,धाडसी,1,2,0,-1,Marwari,brave
+दिल्लीकर,धूळीचे,1,2,0,-1,Delhikar,of dust
+मारवाडी,शांतताप्रिय,1,2,0,-1,Marwari,Peaceful
+स्विस,निःपक्षपाती,1,2,0,-1,Swiss,Unbiased
+फिलिपिनस,कामकाजी,1,2,0,-1,Filipinos,working
+मराठी,कडक,1,2,0,-1,Marathi,strict
+भूतानी,धार्मिक,0,3,0,-1,Bhutanese,religious
+फ्रेंच,चांगले कपडे घातलेले,1,2,0,-1,French,well dressed
+महाराष्ट्रीयन,खाणे,1,2,0,-1,Maharashtrian,to eat
+मेक्सिकन,उत्साही,1,2,0,-1,Mexican,enthusiastic
+केरळी,शांत,1,2,0,-1,Kerala,quiet
+दिल्लीकर,धाडसी,1,2,0,-1,Delhikar,brave
+अंदमानी,लांब आयुष्य,1,2,0,-1,Andamanese,long life
+कानडी,विनोदाचा,1,2,0,-1,Canadi,of humor
+नेपाळी,पर्वतारोहण,0,3,0,-1,Nepali,mountain climbing
+इंग्रजी,शैक्षणिक,1,2,0,-1,English,Educational
+लिबियन,अरबी,1,2,0,-1,Libyan,Arabic
+ओडिया,नम्र,1,2,0,-1,Odia,Humble
+सेशेलोइस,आनंदी,1,2,0,-1,Seychellois,happy
+चीनी,सामर्थ्यशाली,1,2,0,-1,Chinese,Powerful
+कानडी,शास्त्रज्ञ,1,2,0,-1,Canadi,scientist
+बेल्जियन,शांतिप्रिय,1,2,0,-1,Belgian,peace loving
+आर्मेनियन,धार्मिक,1,2,0,-1,Armenian,religious
+इटालियन,भावनिक,1,2,0,-1,Italian,emotional
+भूतानी,निसर्गावर प्रेम,0,3,0,-1,Bhutanese,Love of nature
+झारखंडी,खनिज उत्खनन,1,2,0,-1,Jharkhandi,Mineral mining
+बिहारी,मधुर बोलणे,1,2,0,-1,Bihari,Sweet talk
+गुजराती,शांतीप्रिय,0,3,0,-1,Gujarati,peace loving
+उत्तराखंडी,पर्यटक,1,2,0,-1,Uttarakhand,tourists
+कॅनेडियन,विनम्र,1,2,0,-1,Canadian,Sincerely
+मराठी,नम्र,1,2,0,-1,Marathi,Humble
+गोआन,मच्छीचे पदार्थ,0,3,0,-1,Goan,Fish dishes
+कोलंबियन,उत्साही,1,2,0,-1,Colombian,enthusiastic
+वेल्श,संगीतकार,1,2,0,-1,Welsh,Musician
+मारवाडी,कडक मेहनती,1,2,0,-1,Marwari,Hardworking
+दक्षिण कोरियन,स्मार्ट,0,3,0,-1,South Korean,Smart

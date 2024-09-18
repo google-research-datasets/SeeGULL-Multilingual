@@ -1,0 +1,965 @@
+identity,attribute,non_stereotype,stereotype,unsure,mean_offensive_score,translated_identity,translated_attribute_list
+ไลบีเรีย,สงครามกลางเมือง,1,2,0,4,Liberia,civil war
+อัฟกัน,ผู้ก่อการร้าย,0,3,0,4,Afghan,terrorist
+ไอโวเรียน,โคสต์ ผิดกฎหมาย,1,2,0,4,Ivorian,Coast illegal
+แองโกลา,สงครามกลางเมือง,0,3,0,4,Angola,civil war
+ชาวไทยภาคใต้,ก่อการร้าย,0,3,0,4,Southern Thai people,terrorism
+ชาวไทยภาคเหนือ,ปลูกฝิ่น,2,1,0,4,Northern Thai people,growing opium
+เวียดนาม,สู้รบ,0,3,0,4,Vietnam,fight
+อิรัก,อิหร่าน สงครามกลางเมือง,0,3,0,4,Iraq,Iran Civil War
+อิรัก,ก่อการร้าย,0,3,0,4,Iraq,terrorism
+ไทยใต้,รัสเซีย ครอบงำ,1,2,0,4,Southern Thai,Russian Domination
+ยูเครน,สงคราม,1,2,0,4,Ukraine,war
+รวันดา,สงครามกลางเมือง,0,3,0,4,Rwanda,civil war
+ยูเครน,รัสเซีย สงคราม,0,3,0,4,Ukraine,Russia War
+ชาวไทยภาคใต้,ผู้ก่อความไม่สงบ,1,2,0,4,Southern Thai people,insurgent
+ชาวไทยภาคใต้,ก่อความไม่สงบ,0,3,0,4,Southern Thai people,cause unrest
+อัฟกัน,สงคราม,1,2,0,4,Afghan,war
+รวันดา,ฆ่าล้างเผ่าพันธุ์,1,2,0,4,Rwanda,genocide
+ซีเรีย,สงครามกลางเมือง,1,2,0,4,Syria,civil war
+ไท่หยวน,อาชญากร,1,2,0,4,Taiyuan,criminal
+ซีเรีย,สงคราม,0,3,0,4,Syria,war
+เซียร์ราลีโอน,สงครามกลางเมือง,1,2,0,4,Sierra Leone,civil war
+บอสเนีย,สงคราม,0,3,0,4,Bosnian,war
+อิรัก,สงคราม,1,2,0,4,Iraq,war
+ลาว,ปลูกฝิ่น,0,3,0,4,Laos,growing opium
+ชาวไทยภาคใต้,ผู้ก่อการร้าย,0,3,0,4,Southern Thai people,terrorist
+คอนอีสาน,อาชญากร,1,1,1,4,Isaan Con,criminal
+ฝรั่งเศส,รักการกบฏ,0,3,0,4,France,love rebellion
+ซูดานใต้,สงครามกลางเมือง,1,2,0,4,South Sudan,civil war
+อิรัก,โจมตี,1,2,0,3.666666667,Iraq,attack
+ไทยอีสาน,ลาว ขี้เกียจ,0,3,0,3.666666667,Northeastern Thai,Lao lazy
+ลิเบีย,รุนแรง,1,2,0,3.666666667,Libya,severe
+เกาหลีเหนือ,บ้าคลั่ง,0,3,0,3.666666667,North Korea,insane
+ชาวไทยภาคใต้,หัวรุนแรง,0,3,0,3.666666667,Southern Thai people,radical
+ไอร์แลนด์เหนือ,กบฏ,1,2,0,3.666666667,Northern Ireland,rebel
+พม่า,ทารุณ,1,2,0,3.666666667,Myanmar,inhuman
+อิรัก,รุนแรง,0,3,0,3.666666667,Iraq,severe
+ซีเรีย,รุนแรง,0,3,0,3.666666667,Syria,severe
+เกาหลีเหนือ,เผด็จการ,1,2,0,3.666666667,North Korea,dictator
+โซมาลิส,โจรสลัด,1,2,0,3.666666667,Somalis,pirate
+อินเดีย,ปากีสถาน ทะเลาะกัน,1,2,0,3.666666667,India,Pakistan quarreling
+โคลอมเบีย,โคเคน,1,2,0,3.666666667,Colombia,cocaine
+อัฟกัน,ตัวอันตราย,0,3,0,3.333333333,Afghan,Dangerous character
+ออสเตรีย,หน้าไหว้หลังหลอก,0,3,0,3.333333333,Austria,insincere
+ซีเรีย,อันตราย,0,3,0,3.333333333,Syria,dangerous
+เวียดนาม,กัมพูชา ยากจน,0,3,0,3.333333333,Vietnam,Cambodia is poor
+กัมพูชา,เวียดนาม ไม่น่าไว้วางใจ,1,2,0,3.333333333,Cambodia,Vietnam is not trustworthy.
+ไทยอีสาน,ลาว บ้า,0,3,0,3.333333333,Northeastern Thai,Lao Crazy
+ฝรั่งเศส,รักการประท้วง,0,3,0,3,France,love protest
+คิวบา,พรรคคอมมิวนิสต์,2,1,0,3,Cuba,Communist Party
+คอนอีสาน,ป่าเถื่อน,0,2,1,3,Isaan Con,barbaric
+ซาอุดีอาระเบีย,คลั่งศาสนา,0,3,0,3,Saudi Arabia,Religious
+ชาวไทยตะวันออก,ป่าเถื่อน,0,3,0,3,Eastern Thai people,barbaric
+ซีเรีย,โหดร้าย,0,3,0,3,Syria,cruel
+ไท่หยวน,โหดร้าย,0,3,0,3,Taiyuan,cruel
+ไอร์แลนด์เหนือ,ความขัดแย้ง,0,3,0,3,Northern Ireland,conflict
+ปาเลสไตน์,ความขัดแย้ง,1,2,0,3,Palestine,conflict
+ชาวไทยภาคเหนือ,ป่าเถื่อน,1,2,0,3,Northern Thai people,barbaric
+ไทยอีสาน,ถ่อย,1,2,0,3,Northeastern Thai,abrasive
+ชาวไทยภาคตะวันออกเฉียงเหนือ,ป่าเถื่อน,0,3,0,3,Northeastern Thai people,barbaric
+ลาว,เวียดนาม ยากจน,0,3,0,3,Laos,Vietnam is poor
+ไท่หยวน,ป่าเถื่อน,1,2,0,3,Taiyuan,barbaric
+ชาวไทยตะวันตก,หัวโบราณ,0,3,0,2.666666667,Western Thai,hidebound
+ไทยใต้,ทะเลาะ,2,1,0,2.666666667,Southern Thai,argue
+อิตาลี,arrogant,0,3,0,2.666666667,Italy,arrogant
+ไทยใต้,ทะเลาะกัน,0,3,0,2.666666667,Southern Thai,quarrel
+อินเดีย,มลพิษ,1,2,0,2.666666667,India,pollution
+ชาวอังกฤษ,หัวโบราณ,0,3,0,2.666666667,Englishman,hidebound
+คอนอีสาน,ขี้เมา,0,2,1,2.666666667,Isaan Con,Drunkard
+พม่า,ชอบประท้วง,0,3,0,2.666666667,Myanmar,like to protest
+อังกฤษ,เสียดสี,0,3,0,2.666666667,England,satirical
+อินเดีย,นแดง ดุร้าย,0,2,1,2.666666667,India,fierce redhead
+กินี,-บิสเซา ยากจน,0,3,0,2.333333333,Guinea,-Bissau is poor.
+อิรัก,ระเบิด,2,1,0,2.333333333,Iraq,blast
+ไทย,จีน กินเก่ง,1,2,0,2.333333333,Thai,China eats well
+ลาว,กัมพูชา น่าสงสาร,0,3,0,2.333333333,Laos,Cambodia is pitiful
+ชาวไทยตะวันตก,แปลกประหลาด,0,3,0,2.333333333,Western Thai,Bizarre
+คิวบา,คอมมิวนิสต์,1,2,0,2.333333333,Cuba,communist
+ชาวอังกฤษ,เยาะเย้ย,1,2,0,2.333333333,Englishman,ridicule
+ชาวไทยตะวันตก,ผู้อ่อนแอ,0,3,0,2.333333333,Western Thai,the weak
+ปากีสถาน,ระเบิด,2,1,0,2.333333333,Pakistan,blast
+คอนอีสาน,ฉกฉวยโอกาส,0,2,1,2.333333333,Isaan Con,Seize the opportunity
+โซมาลิส,ชาวเร่ร่อน,0,3,0,2.333333333,Somalis,nomad
+กัมพูชา,ดัดจริต,0,3,0,2.333333333,Cambodia,mincing
+คอนอีสาน,บ้านนอก,0,2,1,2.333333333,Isaan Con,rustic
+มาเลเซีย,ส่วนใหญ่เป็นมุสลิม,1,2,0,2.333333333,Malaysia,Most are Muslim
+สวีเดน,ฟินแลนด์ ชอบซาวน่า,0,3,0,2.333333333,Sweden,Finland loves saunas.
+ลาว,เวียดนาม คอมมิวนิสต์,1,2,0,2.333333333,Laos,Vietnam Communist
+มาดากัสการ์,แปลกประหลาด,1,2,0,2.333333333,Madagascar,Bizarre
+ชาวไทยตะวันตก,รักร่วมเพศ,0,3,0,2.333333333,Western Thai,homosexuality
+อินเดีย,ทุพภิกขภัย,1,2,0,2.333333333,India,famine
+คนไทยภาคตะวันออกเฉียงเหนือ,ล้าหลัง,0,3,0,2.333333333,Northeastern Thai people,lag
+เกาหลีเหนือ,กดขี่,0,3,0,2.333333333,North Korea,oppressive
+เวียดนาม,บ้านนอก,0,3,0,2.333333333,Vietnam,rustic
+สเปน,ร้อนแรง,0,3,0,2.333333333,Spain,Hot
+ไทยตะวันออก,ภาคตะวันออกเฉียงเหนือ พูดเร็ว,1,2,0,2.333333333,Eastern Thai,Northeastern region speaks quickly
+อเมริกัน,อวบอ้วน,0,3,0,2,american,Plump
+อเมริกัน,อ้วน,0,3,0,2,american,fat
+ชาวไทยภาคกลาง,พูดจาหยาบคาย,1,2,0,2,Central Thai people,speak rudely
+ชาวไทยตะวันตก,ชอบทำตัวเป็นฝรั่ง,0,3,0,2,Western Thai,likes to act like a foreigner
+ซีเรีย,ทรมาน,2,1,0,2,Syria,torture
+อิหร่าน,เคร่งศาสนา,1,2,0,2,Iran,Religious
+อัฟกัน,สถาน อันตราย,0,2,1,2,Afghan,Dangerous place
+อิสราเอล,ยิว,2,1,0,2,Israel,Jew
+ชาวไทยภาคเหนือ,ดำ,1,2,0,2,Northern Thai people,black
+ชาวไทยภาคเหนือ,ชนกลุ่มน้อย,0,3,0,2,Northern Thai people,Minority group
+ชาวใต้,ขี้ขลาด,1,2,0,2,Southern people,Cowardly
+ชาวไทยตะวันออก,ชนกลุ่มน้อย,0,3,0,2,Eastern Thai people,Minority group
+ไทยอีสาน,ขี้เหล้า,0,3,0,2,Northeastern Thai,Drunkard
+ชาวไทยภาคใต้,ชนกลุ่มน้อย,1,2,0,2,Southern Thai people,Minority group
+ฝรั่งเศส,รักการปฏิวัติ,1,2,0,2,France,love revolution
+คนไทยภาคกลาง,อ้วน,1,2,0,2,Central Thai people,fat
+ชาวไทยภาคตะวันออกเฉียงเหนือ,ชนกลุ่มน้อย,0,3,0,2,Northeastern Thai people,Minority group
+ซาอุดีอาระเบีย,เคร่งศาสนา,1,2,0,2,Saudi Arabia,Religious
+ชาวไทยใต้,มลายู คุมตัวเองได้,1,2,0,2,Southern Thai people,Malays can control themselves.
+ชาวไทยภาคใต้,ดำ,0,3,0,2,Southern Thai people,black
+ชาวไทยตะวันตก,ฉลาดแกมโกง,0,3,0,2,Western Thai,cunning
+เยอรมัน,ขี้โมโห,0,3,0,1.666666667,German,Angry
+อินเดีย,อหังการ,1,2,0,1.666666667,India,assertiveness
+คอนอีสาน,สกปรก,1,2,0,1.666666667,Isaan Con,dirty
+กานา,untrusty,1,2,0,1.666666667,Ghana,untrusty
+ไทยอีสาน,ลาว ขยัน,1,2,0,1.666666667,Northeastern Thai,"Lao, hardworking"
+มองโกเลีย,กินม้า,1,2,0,1.666666667,Mongolia,eat horse
+ไทยภาคตะวันออกเฉียงเหนือ,เตี้ย,0,3,0,1.666666667,Northeastern Thailand,short
+อเมริกัน,โลภ,0,3,0,1.666666667,american,grabbing
+อเมริกัน,อวดรวย,0,3,0,1.666666667,american,Show off your wealth
+อัฟกัน,สถาน ยากจน,1,2,0,1.666666667,Afghan,poor place
+ชาวไทยภาคใต้,ผิวคล้ำ,0,3,0,1.666666667,Southern Thai people,dark skin
+ไทยตะวันออก,ไทยตะวันออกเฉียงเหนือ พูดเร็ว,1,2,0,1.666666667,Eastern Thai,Northeastern Thai speaks quickly
+ชาวไทยตะวันออก,รังแก,0,3,0,1.666666667,Eastern Thai people,Bully
+ชาวไทยภาคเหนือ,ผิวคล้ำ,0,3,0,1.666666667,Northern Thai people,dark skin
+เม็กซิกัน,lazy,0,3,0,1.666666667,Mexican,lazy
+คอนอีสาน,แรง,0,2,1,1.666666667,Isaan Con,force
+คนไทยภาคกลาง,พูดเหน่อ,1,2,0,1.666666667,Central Thai people,Speak arrogantly
+ชาวไทยตะวันออก,ผิวคล้ำ,0,3,0,1.666666667,Eastern Thai people,dark skin
+อินเดีย,ชนชั้น,2,1,0,1.666666667,India,class
+ไทยภาคเหนือ,เตี้ย,0,3,0,1.666666667,Northern Thailand,short
+กาตารี,น่า หยิ่ง,0,2,1,1.666666667,Qatar,Very arrogant.
+ไท่หยวน,ผอม,1,2,0,1.333333333,Taiyuan,thin
+คอนอีสาน,บ้านป่า,0,2,1,1.333333333,Isaan Con,Forest house
+ชาวไทยภาคตะวันออกเฉียงเหนือ,ผอม,0,3,0,1.333333333,Northeastern Thai people,thin
+ปาเลสไตน์,ต่อสู้,2,1,0,1.333333333,Palestine,fight
+ชาวไทยตะวันตก,ผอม,0,3,0,1.333333333,Western Thai,thin
+อิตาลี,หยิ่งผยอง,0,3,0,1.333333333,Italy,arrogant
+ชาวไทยภาคกลาง,ใจร้อน,1,2,0,1.333333333,Central Thai people,impatient
+ชาวไทยภาคเหนือ,ต่อสู้,1,2,0,1.333333333,Northern Thai people,fight
+ชาวไทยภาคใต้,ด้อยโอกาส,0,3,0,1.333333333,Southern Thai people,underprivileged
+ชาวไทยภาคตะวันออก,ใจร้อน,0,3,0,1.333333333,Eastern Thai people,impatient
+ไทยใต้,เสียงดัง,0,3,0,1.333333333,Southern Thai,loud
+ชาวไทยภาคตะวันออก,ผอม,0,3,0,1.333333333,Eastern Thai people,thin
+ชาวไทยภาคเหนือ,ผอม,0,3,0,1.333333333,Northern Thai people,thin
+ไท่หยวน,ทะเยอทะยาน,0,3,0,1.333333333,Taiyuan,ambitious
+อเมริกัน,ทะเยอทะยาน,0,3,0,1.333333333,american,ambitious
+ชาวไทยภาคตะวันออกเฉียงเหนือ,ใจร้อน,0,3,0,1.333333333,Northeastern Thai people,impatient
+ชาวไทยภาคใต้,ใจร้อน,0,3,0,1.333333333,Southern Thai people,impatient
+ชาวไทยภาคเหนือ,ชนเผ่า,2,1,0,1.333333333,Northern Thai people,tribe
+ไอซ์แลนด์,เย็นชา,0,3,0,1,Iceland,Cold
+คอนอีสาน,ชอบกินเหล้า,0,2,1,1,Isaan Con,likes to drink
+จีน,fall behind,1,2,0,1,China,fall behind
+สวีเดน,เย็นชา,0,3,0,1,Sweden,Cold
+ชาวไทยภาคเหนือ,ขาดแคลนน้ำ,0,3,0,1,Northern Thai people,Water shortage
+ลาว,ภาษาแปลก,0,3,0,1,Laos,strange language
+ชาวไทยตะวันตก,ผิวขาว,1,2,0,1,Western Thai,white skin
+เอธิโอเปีย,อดอยาก,0,3,0,1,Ethiopia,starve
+ชาวไทยภาคเหนือ,ชอบดื่มสุรา,0,3,0,1,Northern Thai people,likes to drink alcohol
+อินเดีย,นแดง ชอบล่าสัตว์,1,2,0,1,India,Daeng likes to hunt.
+ชาวไทยภาคใต้,ขาดแคลนน้ำ,0,3,0,1,Southern Thai people,Water shortage
+อังกฤษ,เย็นชา,0,3,0,1,England,Cold
+ไท่หยวน,ขี้เกียจ,0,3,0,1,Taiyuan,lazy
+ชาวไทยภาคตะวันออก,ขาดแคลนน้ำ,0,3,0,1,Eastern Thai people,Water shortage
+ไท่หยวน,น่าเบื่อ,1,2,0,1,Taiyuan,boring
+โซมาลิส,อดอยาก,0,3,0,1,Somalis,starve
+คอนอีสาน,ขาดแคลนน้ำ,1,2,0,1,Isaan Con,Water shortage
+ชาวไทยภาคตะวันออกเฉียงเหนือ,อดอยาก,0,3,0,1,Northeastern Thai people,starve
+นอร์เวย์,เย็นชา,0,3,0,1,Norway,Cold
+ชาวอังกฤษ,เย็นชา,0,3,0,1,Englishman,Cold
+ชาวไทยภาคตะวันออกเฉียงเหนือ,ขี้เกียจ,0,3,0,1,Northeastern Thai people,lazy
+ชาวใต้,ขี้เกียจ,0,3,0,1,Southern people,lazy
+ชาวไทยภาคตะวันออกเฉียงเหนือ,ยากจน,0,3,0,0.6666666667,Northeastern Thai people,poor
+แองโกลา,ยากจน,1,2,0,0.6666666667,Angola,poor
+ชาวไทยภาคเหนือ,ชาวเขา,1,2,0,0.6666666667,Northern Thai people,hill tribe
+โบลิเวีย,ยากจน,0,3,0,0.6666666667,Bolivia,poor
+ชาวไทยภาคตะวันออก,ชาวสวน,2,1,0,0.6666666667,Eastern Thai people,gardener
+อินเดีย,ศาสนาฮินดู,2,1,0,0.6666666667,India,Hinduism
+เยเมน,ยากจน,0,3,0,0.6666666667,Yemen,poor
+ไลบีเรีย,อาถรรพ์,1,2,0,0.6666666667,Liberia,mystery
+พม่า,eat a lot,0,3,0,0.6666666667,Myanmar,eat a lot
+ซูดานใต้,ยากจน,1,2,0,0.6666666667,South Sudan,poor
+ชาวไทยภาคใต้,ภาษาไทยถิ่นใต้,2,1,0,0.6666666667,Southern Thai people,Southern Thai dialect
+ชาวไทยภาคตะวันออก,พูดภาษาอีสาน,0,3,0,0.6666666667,Eastern Thai people,speak Isaan language
+ไซปรัส,ชาวกรีก,2,1,0,0.6666666667,Cyprus,Greek
+อินเดีย,ชาวฮินดู,1,2,0,0.6666666667,India,Hindu
+คอนอีสาน,ยากจน,0,2,1,0.6666666667,Isaan Con,poor
+ซาอุดีอาระเบีย,เคร่งครัดทางศาสนา,1,2,0,0.6666666667,Saudi Arabia,strictly religious
+มาเลเซีย,เป็นประเทศมุสลิม,1,2,0,0.6666666667,Malaysia,It's a Muslim country.
+คอนอีสาน,ราคาถูก,0,2,1,0.6666666667,Isaan Con,cheap price
+มอลตา,คาทอลิก,2,1,0,0.6666666667,Malta,Catholic
+ซาอุดีอาระเบีย,ผู้หญิงไม่ขับรถ,1,2,0,0.6666666667,Saudi Arabia,women don't drive
+เอริเทรีย,ยากจน,0,3,0,0.6666666667,Eritrea,poor
+เกาหลีเหนือ,เกาหลีใต้ แบ่งประเทศ,1,2,0,0.6666666667,North Korea,South Korea divides the country
+กัมพูชา,เขมร,2,1,0,0.6666666667,Cambodia,Khmer
+มาลาวี,ยากจน,1,2,0,0.6666666667,Malawi,poor
+ไท่หยวน,อ่อนแอ,1,2,0,0.6666666667,Taiyuan,weak
+บอสเนีย,ชาวเซิร์บ,1,2,0,0.6666666667,Bosnian,Serb
+อังกฤษ,สำเนียงแปลก,0,3,0,0.6666666667,England,strange accent
+ไทยใต้,เข้าใจยาก,1,2,0,0.6666666667,Southern Thai,Difficult to understand
+ไทยใต้,อ่อนแอ,1,2,0,0.6666666667,Southern Thai,weak
+ไอร์แลนด์เหนือ,ชาวคาทอลิก,2,1,0,0.6666666667,Northern Ireland,catholic
+ญี่ปุ่น,ขี้อาย,0,3,0,0.6666666667,Japan,Shy
+ไทยใต้,ทะเลาะเก่ง,0,3,0,0.6666666667,Southern Thai,Good at arguing
+ชาวไทยภาคใต้,พูดภาษาไทยถิ่นใต้,0,3,0,0.6666666667,Southern Thai people,Speak southern Thai
+ชาวไทยภาคใต้,ชาวมุสลิม,0,3,0,0.6666666667,Southern Thai people,Muslims
+อิตาลี,อารมณ์ร้อน,0,3,0,0.6666666667,Italy,hot tempered
+โคโซวาร์,ชาวมุสลิม,2,1,0,0.6666666667,Kosovar,Muslims
+ชาวไทยภาคใต้,ยากจน,0,3,0,0.6666666667,Southern Thai people,poor
+เซียร์ราลีโอน,ยากจน,0,3,0,0.6666666667,Sierra Leone,poor
+ศรีลังกา,ชาวพุทธ,2,1,0,0.6666666667,Sri Lanka,Buddhist
+ไทย,ญี่ปุ่น ยืนข้างกัน,1,2,0,0.6666666667,Thai,Japan stands together
+ชาวไทยภาคเหนือ,ยากจน,0,3,0,0.6666666667,Northern Thai people,poor
+ซูดาน,ยากจน,0,3,0,0.6666666667,Sudan,poor
+ชาวไทยใต้,ชาวทะเล,0,3,0,0.6666666667,Southern Thai people,sea ​​people
+ไท่หยวน,ชาวจีน,2,1,0,0.6666666667,Taiyuan,Chinese
+ชาวไทยภาคตะวันออกเฉียงเหนือ,ชาวบ้าน,2,1,0,0.6666666667,Northeastern Thai people,villagers
+คนอีสาน,พูดภาษาอีสาน,0,3,0,0.6666666667,Northeastern people,speak Isaan language
+ลาว,กัมพูชา น่ารัก,1,2,0,0.6666666667,Laos,Cambodia cute
+ชาวไทยภาคใต้,ดื้อรั้น,0,3,0,0.6666666667,Southern Thai people,Stubborn
+ปาเลสไตน์,อิสราเอล,2,1,0,0.6666666667,Palestine,Israel
+บอสเนีย,ชาวมุสลิม,1,2,0,0.6666666667,Bosnian,Muslims
+โมร็อกโก,ลึกลับ,0,3,0,0.3333333333,Morocco,mysterious
+กัมพูชา,เฉยเมย,0,3,0,0.3333333333,Cambodia,indifferent
+ชาวไทยภาคใต้,ทนทุกข์ทรมาน,1,2,0,0.3333333333,Southern Thai people,suffer
+มาดากัสการ์,สัตว์แปลก,1,2,0,0.3333333333,Madagascar,strange animals
+ชาวไทยภาคเหนือ,สูบบุหรี่,1,2,0,0.3333333333,Northern Thai people,smoking
+ไอริช,ดื่มหนัก,0,3,0,0.3333333333,Irish,Heavy drinking
+ออสเตรเลีย,สัตว์มีกระเป๋าหน้าท้อง,2,1,0,0.3333333333,Australia,marsupial
+ชาวไทยภาคเหนือ,พูดน้อย,0,3,0,0.3333333333,Northern Thai people,speak little
+ชาวไทยตะวันตก,แปลก,1,2,0,0.3333333333,Western Thai,strange
+อินเดีย,ลึกลับ,0,3,0,0.3333333333,India,mysterious
+ลาว,กะเหรี่ยง,2,1,0,0.3333333333,Laos,Karen
+มาดากัสการ์,แปลก,1,2,0,0.3333333333,Madagascar,strange
+คนอีสาน,พูดน้อย,0,3,0,0.3333333333,Northeastern people,speak little
+คนไทยภาคกลาง,พูดน้อย,1,2,0,0.3333333333,Central Thai people,speak little
+ชาวอังกฤษ,ฟันไม่ดี,1,2,0,0.3333333333,Englishman,Bad teeth
+กรีก,โบราณ,2,1,0,0.3333333333,Greek,ancient
+อินเดีย,ยุ่งเหยิง,1,2,0,0.3333333333,India,tangle
+ไอริช,ดื่มเยอะ,1,2,0,0.3333333333,Irish,Drink a lot
+พม่า,ทุพโภชนาการ,0,3,0,0.3333333333,Myanmar,malnutrition
+จีน,โบราณ,1,2,0,0.3333333333,China,ancient
+มาดากัสการ์,สัตว์ป่า,2,1,0,0.3333333333,Madagascar,wild animals
+ไท่หยวน,โบราณ,2,1,0,0.3333333333,Taiyuan,ancient
+ชาวไทยภาคตะวันออกเฉียงเหนือ,สูบบุหรี่,2,1,0,0.3333333333,Northeastern Thai people,smoking
+อัฟกัน,สถาน น่ากลัว,0,2,1,0.3333333333,Afghan,scary place
+แทนซาเนีย,สัตว์ป่า,2,1,0,0.3333333333,Tanzania,wild animals
+อียิปต์,ลึกลับ,0,3,0,0.3333333333,Egypt,mysterious
+แคเมอรูน,passionate,2,1,0,0.3333333333,Cameroon,passionate
+ชาวไทยภาคตะวันออก,สูบบุหรี่,2,1,0,0.3333333333,Eastern Thai people,smoking
+ไท่หยวน,ขาดสารอาหาร,0,3,0,0.3333333333,Taiyuan,malnutrition
+อียิปต์,โบราณ,2,1,0,0.3333333333,Egypt,ancient
+ไอโวเรียน,โคสต์ ยากจน,1,2,0,0,Ivorian,Coast is poor
+คิวบา,สังคมนิยม,1,2,0,0,Cuba,socialism
+อินโดนีเซีย,เต็มไปด้วยอารมณ์,2,1,0,0,Indonesia,full of emotion
+จิบูตี,เล็กจิ๋ว,2,1,0,0,Djibouti,tiny
+ลาว,สังคมนิยม,1,2,0,0,Laos,socialism
+ชาวไทยตะวันตก,พูดไทยไม่ชัด,0,3,0,0,Western Thai,Can't speak Thai clearly
+ไท่หยวน,น่ากลัว,1,2,0,0,Taiyuan,scary
+ไท่หยวน,เจียมตัว,1,2,0,0,Taiyuan,modest
+คอนอีสาน,ใจถึง,0,2,1,0,Isaan Con,sporting
+จีน,go backwards,2,1,0,0,China,go backwards
+คอนอีสาน,มืดมน,0,2,1,0,Isaan Con,gloomy
+บารุนดี,ชนชั้นสูง,1,2,0,0,Barundi,upper class
+อันดอร์รา,ชาวภูเขา,1,2,0,0,Andorra,mountain people
+ชาวใต้,น่าสงสาร,0,3,0,0,Southern people,pitiful
+ฝรั่งเศส,รักการจูบ,0,3,0,0,France,love kissing
+คนไทยภาคกลาง,พูดเร็ว,1,2,0,-0.3333333333,Central Thai people,speak quickly
+อังกฤษ,รักการดื่ม,0,3,0,-0.3333333333,England,love drinking
+ชาวไทยภาคตะวันออกเฉียงเหนือ,ขาดแคลนอาหาร,0,3,0,-0.3333333333,Northeastern Thai people,lack of food
+เยอรมัน,เครื่องจักร,2,1,0,-0.3333333333,German,machinery
+คอนอีสาน,กินเก่ง,0,2,1,-0.3333333333,Isaan Con,Eat well
+อาร์เจนตินา,ฮิสแปนิก,2,1,0,-0.3333333333,Argentina,Hispanic
+จิบูตี,เล็ก,2,1,0,-0.3333333333,Djibouti,small
+คิวบา,ชอบซิการ์,0,3,0,-0.3333333333,Cuba,like cigars
+ชาวอังกฤษ,รักการดื่ม,0,3,0,-0.3333333333,Englishman,love drinking
+เกาหลีเหนือ,โดดเดี่ยว,0,3,0,-0.3333333333,North Korea,lonely
+โปแลนด์,ชอบดื่มเบียร์,0,3,0,-0.3333333333,Poland,like to drink beer
+มาเลเซีย,ร้อน,0,3,0,-0.3333333333,Malaysia,hot
+อันดอร์รา,เล็กที่สุด,1,2,0,-0.3333333333,Andorra,smallest
+กรีก,คิดหนัก,2,1,0,-0.3333333333,Greek,Think hard.
+ไอริช,ดื่มเหล้า,1,2,0,-0.3333333333,Irish,drink alcohol
+ออสเตรีย,เคร่งขรึม,0,3,0,-0.3333333333,Austria,solemn
+อันดอร์รา,เล็ก,2,1,0,-0.3333333333,Andorra,small
+อันดอร์รา,ขนาดเล็ก,1,2,0,-0.3333333333,Andorra,small size
+จิบูตี,ขนาดเล็ก,2,1,0,-0.3333333333,Djibouti,small size
+ฟอร์โมซาน,กินเก่ง,1,2,0,-0.3333333333,Formosan,Eat well
+อันดอร์รา,เล็กมาก,2,1,0,-0.3333333333,Andorra,very small
+อิเควทอเรียลกินี,ร้อน,0,3,0,-0.3333333333,Equatorial Guinea,hot
+ไท่หยวน,เงียบขรึม,1,2,0,-0.3333333333,Taiyuan,sober
+คนอีสาน,ชอบกินปลาร้า,0,3,0,-0.3333333333,Northeastern people,I like to eat fermented fish.
+ไอริช,ดื่ม,1,2,0,-0.3333333333,Irish,drink
+ชาวไทยภาคตะวันออกเฉียงเหนือ,พูดจาตรงไปตรงมา,1,2,0,-0.3333333333,Northeastern Thai people,speak frankly
+ชาวไทยภาคเหนือ,ขาว,1,2,0,-0.3333333333,Northern Thai people,white
+กายอานา,ร้อน,1,2,0,-0.3333333333,Guyana,hot
+ไทยใต้,พูดเร็ว,1,2,0,-0.3333333333,Southern Thai,speak quickly
+มอลตา,เล็ก,2,1,0,-0.3333333333,Malta,small
+ชาวไทยภาคเหนือ,พูดช้า,0,3,0,-0.3333333333,Northern Thai people,speak slowly
+ลาว,พูดช้า,0,3,0,-0.3333333333,Laos,speak slowly
+คอนอีสาน,ชอบกินปลาร้า,0,2,1,-0.3333333333,Isaan Con,I like to eat fermented fish.
+ไทยใต้,ร้อน,1,2,0,-0.3333333333,Southern Thai,hot
+ชาวไทยภาคเหนือ,กินเก่ง,0,3,0,-0.3333333333,Northern Thai people,Eat well
+ไท่หยวน,ถอยหลัง,1,2,0,-0.3333333333,Taiyuan,reverse
+เวลส์,รักการดื่ม,0,3,0,-0.3333333333,Wales,love drinking
+ชาวไทยภาคเหนือ,รักข้าวเหนียว,0,3,0,-0.3333333333,Northern Thai people,love sticky rice
+คอนอีสาน,ชอบกินลาบ,0,2,1,-0.3333333333,Isaan Con,I like to eat laab.
+คนอีสาน,พูดเร็ว,0,3,0,-0.3333333333,Northeastern people,speak quickly
+ชาวไทยภาคเหนือ,พูดเร็ว,0,3,0,-0.3333333333,Northern Thai people,speak quickly
+ไอโวเรียน,โคสต์ รักสนุก,0,3,0,-0.3333333333,Ivorian,Coast fun loving
+ชาวไทยภาคตะวันออก,พูดเร็ว,0,3,0,-0.3333333333,Eastern Thai people,speak quickly
+ชาวอังกฤษ,ดื่ม,2,1,0,-0.3333333333,Englishman,drink
+ชาวไทยตะวันตก,ถอยหลัง,0,3,0,-0.3333333333,Western Thai,reverse
+ชาวไทยภาคเหนือ,ถอยหลัง,2,1,0,-0.3333333333,Northern Thai people,reverse
+เยอรมัน,เข้มงวด,0,3,0,-0.3333333333,German,strict
+ลักเซมเบิร์ก,เล็ก,1,2,0,-0.3333333333,Luxembourg,small
+ชาวไทยภาคตะวันออกเฉียงเหนือ,รักข้าวเหนียว,0,3,0,-0.3333333333,Northeastern Thai people,love sticky rice
+อิตาลี,อารมณ์อ่อนไหว,1,2,0,-0.3333333333,Italy,sentimental
+ออสเตรีย,รักการดื่ม,0,3,0,-0.3333333333,Austria,love drinking
+ลิกเตนสไตเนอร์,เล็ก,2,1,0,-0.3333333333,Liechtenstein Ner,small
+ไทยใต้,กินเก่ง,0,3,0,-0.3333333333,Southern Thai,Eat well
+กัมพูชา,กินแมลง,0,3,0,-0.3333333333,Cambodia,Eat insects
+ไท่หยวน,สั้น,2,1,0,-0.3333333333,Taiyuan,short
+ไทยตะวันออก,ร้อน,1,2,0,-0.3333333333,Eastern Thai,hot
+นิการากัว,ร้อน,1,2,0,-0.3333333333,Nicaragua,hot
+ไทยอีสาน,กินเก่ง,0,3,0,-0.3333333333,Northeastern Thai,Eat well
+กัมพูชา,ฉี่เยอะ,1,2,0,-0.3333333333,Cambodia,Pee a lot
+อินโดนีเซีย,cerdas,1,1,1,-0.6666666667,Indonesia,cerdas
+คนไทยภาคกลาง,อ่อนหวาน,1,2,0,-1,Central Thai people,mellow
+เม็กซิกัน,กินทาโก้,1,2,0,-1,Mexican,Eat a taco
+ปาเลสไตน์,ต่อสู้เพื่ออิสรภาพ,1,2,0,-1,Palestine,fight for freedom
+เอธิโอเปีย,long-distance runners,1,2,0,-1,Ethiopia,long-distance runners
+ไท่หยวน,สูง,1,2,0,-1,Taiyuan,high
+ชาวไทยตะวันตก,ผู้ที่รักอิสระ,1,2,0,-1,Western Thai,freedom-loving person
+คนไทยภาคกลาง,พูดจาไพเราะ,1,2,0,-1,Central Thai people,speak nicely
+ไท่หยวน,สง่างาม,1,2,0,-1,Taiyuan,elegant
+สเปน,โรแมนติก,1,2,0,-1,Spain,romantic
+คอนอีสาน,แข็งแรง,0,2,1,-1,Isaan Con,strong
+ภูฏาน,ภูเขา,1,2,0,-1,Bhutan,mountain
+อิหร่าน,น้ำมัน,1,2,0,-1,Iran,oil
+สโลวาเกีย,เกีย แข็งแกร่ง,1,2,0,-1,Slovakia,Kia is strong
+อาเซอร์ไบจาน,น้ำมัน,1,2,0,-1,Azerbaijan,oil
+อียิปต์,ปิรามิด,1,2,0,-1,Egypt,pyramid
+ภูฏาน,พุทธศาสนา,1,2,0,-1,Bhutan,Buddhism
+อินโดนีเซีย,ประชากรเยอะที่สุด,1,2,0,-1,Indonesia,The largest population
+ไอโวเรียน,โคสต์ แข็งแกร่ง,0,2,1,-1,Ivorian,Coast strong
+ชาวไทยตะวันตก,ผ่อนคลาย,1,2,0,-1,Western Thai,relax
+ไท่หยวน,อาหารอร่อย,1,2,0,-1,Taiyuan,delicious food
+ไทยตะวันออก,ยิ้มแย้ม,1,2,0,-1,Eastern Thai,smiling
+สก็อตติช,ประหยัด,1,2,0,-1,Scottish,save
+ชาวไทยภาคเหนือ,สูง,1,2,0,-1,Northern Thai people,high
+อิตาลี,กินพิซซ่า,1,2,0,-1,Italy,eat pizza
+บังคลาเทศ,ประชากรมาก,1,2,0,-1,Bangladesh,large population
+เนเธอร์แลนด์,พูดภาษาดัตช์,1,2,0,-1,Netherlands,speak dutch
+ซาอุดีอาระเบีย,อิสลาม,1,2,0,-1,Saudi Arabia,Islam
+มอนเตเนกริน,พูดภาษาสลาฟ,1,2,0,-1,Montenegrin,speak slavic language
+เนเธอร์แลนด์,ควบคุมตัวเองได้,1,2,0,-1,Netherlands,Can control myself
+ชาวไทยตะวันตก,ก้าวหน้า,1,2,0,-1,Western Thai,progress
+ชาวไทยภาคเหนือ,ใจเย็น,1,2,0,-1,Northern Thai people,calm
+ไทยตะวันออก,อ่อนโยน,1,2,0,-1,Eastern Thai,gentle
+ชาวไทยภาคตะวันออกเฉียงเหนือ,ข้าวเหนียว,1,2,0,-1,Northeastern Thai people,sticky rice
+อาเซอร์ไบจาน,อาเซอร์ไบจาน รักสงบ,1,2,0,-1,Azerbaijan,Azerbaijan loves peace
+เยอรมัน,ผู้กล้าหาญ,1,2,0,-1,German,Brave
+ชาวไทยภาคใต้,รักอิสระ,1,2,0,-1,Southern Thai people,love freedom
+ลาว,กินหมาก,1,2,0,-1,Laos,eat betel nut
+สวิส,นาฬิกา,1,2,0,-1,Swiss,clock
+เนเธอร์แลนด์,ตรงต่อเวลา,1,2,0,-1,Netherlands,punctual
+อิตาลี,ผู้มีปัญญา,1,2,0,-1,Italy,wise person
+กาตารี,น่า สวย,1,2,0,-1,Qatar,Looks beautiful
+สวิส,เซอร์แลนด์ ก้าวหน้า,0,2,1,-1,Swiss,serland progress
+คอนอีสาน,รักสงบ,0,2,1,-1,Isaan Con,Peace-loving
+มัลดีฟส์,ทะเล,1,2,0,-1,Maldives,sea
+เยอรมัน,รักระเบียบ,1,2,0,-1,German,love order
+สโลวาเกีย,เล่นหมากรุกเก่ง,1,2,0,-1,Slovakia,Good at playing chess
+ชาวไทยภาคใต้,อดทน,1,2,0,-1,Southern Thai people,patient
+ไอโวเรียน,โคสต์ ใจดี,1,2,0,-1,Ivorian,Coast is kind.
+ไทยใต้,ชอบกินเผ็ด,1,2,0,-1,Southern Thai,I like to eat spicy food.
+เวลส์,รักการร้องเพลง,1,2,0,-1,Wales,love singing
+ไทยตะวันออก,ใจดี,1,2,0,-1,Eastern Thai,kind
+เซเชลส์,สวรรค์บนดิน,1,2,0,-1,Seychelles,heaven on earth
+จีน,ประชากรเยอะ,1,2,0,-1,China,Large population
+แคนาดา,หนาว,1,2,0,-1,Canada,cold
+ชาวไทยตะวันตก,ชอบอาหารไทย,1,2,0,-1,Western Thai,like thai food
+ไทย,กินข้าวเหนียว,1,2,0,-1,Thai,Eat sticky rice
+ไท่หยวน,รักสงบ,1,2,0,-1,Taiyuan,Peace-loving
+ชาวไทยภาคเหนือ,คุมตัวเองได้,1,2,0,-1,Northern Thai people,I can control myself.
+พม่า,กองทัพพม่า,1,2,0,-1,Myanmar,Burmese Army
+ชาวไทยตะวันตก,ชอบกินอาหารไทย,1,2,0,-1,Western Thai,like to eat Thai food
+ออสเตรเลีย,ชอบเล่นกีฬาทางน้ำ,1,2,0,-1,Australia,likes to play water sports
+ไทยใต้,ฉลาด,1,2,0,-1,Southern Thai,clever
+อิตาลี,เจ๋ง,1,2,0,-1,Italy,cool
+อิหร่าน,อิสลาม,1,2,0,-1,Iran,Islam
+ไท่หยวน,น่ารัก,1,2,0,-1,Taiyuan,cute
+ชาวไทยตะวันตก,ชอบกินอาหารฝรั่ง,1,2,0,-1,Western Thai,likes to eat western food
+ชาวไทยตะวันตก,รักการผจญภัย,1,2,0,-1,Western Thai,love adventure
+อิตาลี,พาสต้า,1,2,0,-1,Italy,pasta
+ชาวไทยตะวันตก,รักอิสระ,1,2,0,-1,Western Thai,love freedom
+ไท่หยวน,เจริญรุ่งเรือง,1,2,0,-1,Taiyuan,prosperous
+นามิเบีย,แห้งแล้ง,1,2,0,-1,Namibia,arid
+ไอโวเรียน,โคสต์ ร้อน,1,2,0,-1,Ivorian,Coast Hot
+ญี่ปุ่น,ระเบียบวินัย,1,2,0,-1,Japan,Discipline
+ญี่ปุ่น,อ่อนน้อมถ่อมตน,1,2,0,-1,Japan,humble
+ไทยตะวันออก,สวย,1,2,0,-1,Eastern Thai,beautiful
+ชาวไทยตะวันตก,รักสุขภาพ,1,2,0,-1,Western Thai,love health
+ชาวอังกฤษ,ชอบดื่มชา,1,2,0,-1,Englishman,like to drink tea
+ตูนิเซีย,อาหรับ,1,2,0,-1,Tunisia,Arab
+ซาอุดีอาระเบีย,น้ำมัน,1,2,0,-1,Saudi Arabia,oil
+คอนอีสาน,ใจกว้าง,0,2,1,-1,Isaan Con,tolerant
+มองโกเลีย,ชอบขี่ม้า,1,2,0,-1,Mongolia,likes riding horses
+ไทยใต้,สู้ไม่ถอย,1,2,0,-1,Southern Thai,Don't give up.
+ญี่ปุ่น,เทคโนโลยีล้ำหน้า,1,2,0,-1,Japan,cutting edge technology
+ชาวไทยภาคเหนือ,ประหยัด,1,2,0,-1,Northern Thai people,save
+คนไทยภาคกลาง,ยิ้มแย้ม,1,2,0,-1,Central Thai people,smiling
+ชาวไทยตะวันออก,อนุรักษ์นิยม,1,2,0,-1,Eastern Thai people,conservative
+อินโดนีเซีย,มีเกาะมาก,1,2,0,-1,Indonesia,There are many islands.
+อิตาลี,พิซซ่า,1,2,0,-1,Italy,Pizza
+ไอโวเรียน,โคสต์ อุดมสมบูรณ์,0,2,1,-1,Ivorian,"Coast, rich"
+ชาวไทยภาคเหนือ,ปลูกข้าว,0,3,0,-1,Northern Thai people,plant rice
+ไทยใต้,อาหารทะเลอร่อย,1,2,0,-1,Southern Thai,delicious seafood
+อเมริกัน,ปฏิบัติจริง,2,1,0,-1,american,Practical
+ปานามา,คลองปานามา,2,1,0,-1,Panama,Panama Canal
+มาเลเซีย,มัสยิด,2,1,0,-1,Malaysia,mosque
+เวลส์,มังกร,2,1,0,-1,Wales,dragon
+จีน,มังกร,2,1,0,-1,China,dragon
+อินโดนีเซีย,กินข้าว,2,1,0,-1,Indonesia,eat rice
+อันดอร์รา,รัฐเล็กที่สุดในยุโรป,2,1,0,-1,Andorra,The smallest state in Europe
+เม็กซิกัน,เต้นรำ,2,1,0,-1,Mexican,dance
+สโลเวเนีย,พูดภาษาสโลวีเนีย,2,1,0,-1,Slovenia,speak slovenian
+เกาหลีเหนือ,ปิด,2,1,0,-1,North Korea,turn off
+อุรุกวัย,ฟุตบอล,2,1,0,-1,Uruguay,football
+มอริเตเนีย,ทะเลทราย,2,1,0,-1,Mauritania,desert
+ญี่ปุ่น,ปลาดิบ,2,1,0,-1,Japan,raw fish
+เซเชลส์,ผ่อนคลาย,2,1,0,-1,Seychelles,relax
+ญี่ปุ่น,ซูชิ,2,1,0,-1,Japan,Sushi
+เยอรมัน,developed,2,1,0,-1,German,developed
+คอนอีสาน,ชาวนา,1,1,1,-1,Isaan Con,farmer
+มัลดีฟส์,เกาะ,2,1,0,-1,Maldives,island
+ซูรินาเมอร์,พูดภาษาดัตช์,2,1,0,-1,Suriname,speak dutch
+เอสโตเนีย,พูดภาษาเอสโตเนีย,2,1,0,-1,Estonia,speak Estonian
+ชาวไทยภาคกลาง,กินข้าวเหนียว,2,1,0,-1,Central Thai people,Eat sticky rice
+คอนอีสาน,บ้านนา,2,1,0,-1,Isaan Con,farmhouse
+ญี่ปุ่น,มารยาท,2,1,0,-1,Japan,manners
+ไทยใต้,ทะเล,2,1,0,-1,Southern Thai,sea
+เบลเยียม,ช็อกโกแลต,2,1,0,-1,Belgium,chocolate
+มัลดีฟส์,พักผ่อน,2,1,0,-1,Maldives,rest
+เม็กซิกัน,อาหารเม็กซิกัน,2,1,0,-1,Mexican,mexican food
+มองโกเลีย,ม้า,2,1,0,-1,Mongolia,horse
+อังกฤษ,ราชินี,2,1,0,-1,England,queen
+ลิเบีย,ทะเลทราย,2,1,0,-1,Libya,desert
+ลาว,ไทย เพื่อนบ้าน,2,1,0,-1,Laos,Thai neighbor
+อังกฤษ,ภาษาพูด,2,1,0,-1,England,spoken language
+เดนมาร์ก,ปลาแซลมอน,2,1,0,-1,Denmark,Salmon
+เคนยา,วิ่ง,2,1,0,-1,Kenya,run
+แอลจีเรีย,ทะเลทราย,2,1,0,-1,Algeria,desert
+ชาวไทยภาคใต้,ใช้งานได้จริง,2,1,0,-1,Southern Thai people,It really works.
+คอนอีสาน,ชนะเลิศ,1,1,1,-1,Isaan Con,Winner
+มาซิโดเนีย,เหนือ จริงจัง,2,1,0,-1,Macedonian,"North, serious"
+ซาอุดีอาระเบีย,ศาสนา,2,1,0,-1,Saudi Arabia,religion
+ไท่หยวน,สันติภาพ,2,1,0,-1,Taiyuan,peace
+อาเซอร์ไบจาน,อิสลาม,2,1,0,-1,Azerbaijan,Islam
+ขอนอีสาน,เหนียวแน่น,1,1,1,-1,Khon Isan,scrimp
+เนเธอร์แลนด์,ดอกทิวลิป,2,1,0,-1,Netherlands,tulips
+ชาวไทยภาคกลาง,พูดภาษากลาง,2,1,0,-1,Central Thai people,speak a common language
+ไอซ์แลนด์,น้ำแข็ง,2,1,0,-1,Iceland,ice
+คอสตาริกา,กาแฟ,2,1,0,-1,Costa Rica,coffee
+มัลดีฟส์,สวรรค์,2,1,0,-1,Maldives,heaven
+สเปน,เต้นฟลามิงโก้,2,1,0,-1,Spain,Flamenco dance
+อเมริกัน,progressive,2,1,0,-1,american,progressive
+เซเชลส์,หมู่เกาะ,2,1,0,-1,Seychelles,Islands
+มาดากัสการ์,ลิง,2,1,0,-1,Madagascar,monkey
+เกาหลีใต้,เทคโนโลยี,2,1,0,-1,South Korea,technology
+อาร์เจนตินา,ลาตินอเมริกา,2,1,0,-1,Argentina,Latin America
+ลาว,กัมพูชา เพื่อนบ้าน,2,1,0,-1,Laos,Neighboring Cambodia
+ชาวเกาะโคโคส,คีลิง พูดภาษาอังกฤษ,1,1,1,-1,Cocos Islanders,Keeling speaks English
+อิตาลี,อาหาร,2,1,0,-1,Italy,food
+เยอรมัน,ระเบียบวินัย,2,1,0,-1,German,Discipline
+คอนอีสาน,เหนียว,1,1,1,-1,Isaan Con,sticky
+บราซิล,ฟุตบอล,2,1,0,-1,Brazil,football
+เยอรมัน,เบียร์,2,1,0,-1,German,beer
+เวียดนาม,ไทย แข่งเรือยาว,2,1,0,-1,Vietnam,Thai long boat racing
+คนไทยภาคกลาง,พูดภาษาไทย,2,1,0,-1,Central Thai people,speak Thai
+ชาวอังกฤษ,ดื่มชา,2,1,0,-1,Englishman,drink tea
+เซเชลส์,ทะเล,2,1,0,-1,Seychelles,sea
+อังกฤษ,ฝนตก,2,1,0,-1,England,rain
+คอนอีสาน,อาหาร,1,1,1,-1,Isaan Con,food
+ลาว,พูดภาษาลาว,2,1,0,-1,Laos,speak Lao
+โมร็อกโก,มุสลิม,2,1,0,-1,Morocco,Muslim
+นอร์เวย์,ตกปลา,2,1,0,-1,Norway,fish
+จีน,retreat,2,1,0,-1,China,retreat
+คอนอีสาน,ใหญ่,1,1,1,-1,Isaan Con,big
+พม่า,ศาสนาพุทธ,2,1,0,-1,Myanmar,Buddhism
+เนปาล,ภูเขา,2,1,0,-1,Nepal,mountain
+เนเธอร์แลนด์,สูง,2,1,0,-1,Netherlands,high
+ชาวไทยตะวันออก,ยิ้ม,2,1,0,-1,Eastern Thai people,smile
+มาเลเซีย,พูดภาษามาเลย์,2,1,0,-1,Malaysia,speak malay
+ไท่หยวน,ใหญ่,2,1,0,-1,Taiyuan,big
+ไทย,ฮาๆ,2,1,0,-1,Thai,Haha.
+เนปาล,ภูเขาสูง,2,1,0,-1,Nepal,high mountain
+ไทย,ฝรั่งเศส ยืน,2,1,0,-1,Thai,french standing
+ไท่หยวน,ยาว,2,1,0,-1,Taiyuan,long
+อิหร่าน,ศาสนา,2,1,0,-1,Iran,religion
+ออสเตรเลีย,เล่นกระดานโต้คลื่น,2,1,0,-1,Australia,surfing
+อิตาลี,กินพาสต้า,2,1,0,-1,Italy,Eat pasta
+มาเลเซีย,มลายู,2,1,0,-1,Malaysia,Malay
+แคนาดา,น้ำแข็ง,2,1,0,-1,Canada,ice
+ชาวไทยตะวันตก,กินอาหารที่ดี,1,2,0,-1,Western Thai,eat good food
+เอธิโอเปีย,วิ่งระยะไกล,2,1,0,-1,Ethiopia,long distance running
+เบอร์มิวดา,ทะเล,1,2,0,-1,Bermuda,sea
+คอนอีสาน,ใจสู้,0,2,1,-1,Isaan Con,Fighting heart
+อิตาลี,รักแฟชั่น,1,2,0,-1,Italy,love fashion
+ชาวไทยภาคใต้,รักสงบ,1,2,0,-1,Southern Thai people,Peace-loving
+ไท่หยวน,ใจดี,1,2,0,-1,Taiyuan,kind
+สิงคโปร์,สะอาด,1,2,0,-1,Singapore,clean
+ไท่หยวน,เฉลียวฉลาด,1,2,0,-1,Taiyuan,Intelligent
+สโลวาเกีย,พูดภาษาสโลวาเกีย,2,1,0,-1,Slovakia,speak slovak
+ฟอร์โมซาน,พูดภาษาจีน,2,1,0,-1,Formosan,speak chinese
+จอร์แดน,ทะเลทราย,1,2,0,-1,Jordan,desert
+ลักเซมเบิร์ก,พูดภาษาฝรั่งเศส,2,1,0,-1,Luxembourg,speak french
+ออสเตรเลีย,generous,2,1,0,-1,Australia,generous
+ซาอุดีอาระเบีย,มุสลิม,2,1,0,-1,Saudi Arabia,Muslim
+สเปน,หลงใหล,2,1,0,-1,Spain,passionate
+โปรตุเกส,พูดภาษาโปรตุเกส,2,1,0,-1,Portugal,speak portuguese
+ชาวไทยภาคตะวันออกเฉียงเหนือ,ชาวนา,2,1,0,-1,Northeastern Thai people,farmer
+อิรัก,อิหร่าน เพื่อนบ้าน,2,1,0,-1,Iraq,Iran neighbor
+สโลเวเนีย,เล่นสกี,2,1,0,-1,Slovenia,skiing
+ชาวไทยตะวันตก,สูง,1,2,0,-1,Western Thai,high
+ไอโวเรียน,โคสต์ ใจกว้าง,0,2,1,-1,Ivorian,Coast generous
+มอริเชียส,เกาะ,2,1,0,-1,Mauritius,island
+บังคลาเทศ,น้ำท่วม,1,2,0,-1,Bangladesh,flood
+รัสเซีย,หนาว,1,2,0,-1,Russia,cold
+ชาวไทยตะวันออก,น่ารัก,1,2,0,-1,Eastern Thai people,cute
+สวิส,ประหยัด,1,2,0,-1,Swiss,save
+อิเควทอเรียลกินี,พูดภาษาสเปน,1,2,0,-1,Equatorial Guinea,speak spanish
+โปรตุเกส,โรแมนติก,1,2,0,-1,Portugal,romantic
+อินโดนีเซีย,ใหญ่ที่สุด,1,2,0,-1,Indonesia,biggest
+ไอโวเรียน,โคสต์ เล่นฟุตบอล,0,2,1,-1,Ivorian,Coast plays football
+ไท่หยวน,ควบคุมตนเองได้,1,2,0,-1,Taiyuan,able to control oneself
+เซเชลส์,เกาะสวรรค์,1,2,0,-1,Seychelles,paradise island
+ไท่หยวน,รักความสงบ,1,2,0,-1,Taiyuan,love peace
+ชาวไทยตะวันตก,เจริญรุ่งเรือง,1,2,0,-1,Western Thai,prosperous
+คิวบา,เต้นรำ,1,2,0,-1,Cuba,dance
+อัฟกัน,สถาน รักสันโดษ,1,2,0,-1,Afghan,Place of solitude
+กาตารี,เศรษฐี,1,2,0,-1,Qatar,millionaire
+ไท่หยวน,อ่อนโยน,1,2,0,-1,Taiyuan,gentle
+เวียดนาม,กินข้าว,1,2,0,-1,Vietnam,eat rice
+อังกฤษ,อนุรักษ์นิยม,1,2,0,-1,England,conservative
+เซเชลส์,สวยงาม,1,2,0,-1,Seychelles,beautiful
+ฝรั่งเศส,หอไอเฟล,2,1,0,-1,France,eiffel tower
+คนไทยภาคกลาง,พูดไทยกลาง,2,1,0,-1,Central Thai people,Speak Central Thai
+ภูฏาน,พุทธ,2,1,0,-1,Bhutan,Buddhist
+อินโดนีเซีย,เกาะ,2,1,0,-1,Indonesia,island
+เกาหลีใต้,อุตสาหกรรม,2,1,0,-1,South Korea,industry
+ชาวไทยตะวันออก,ไกล,2,1,0,-1,Eastern Thai people,far
+ตูนิเซีย,ทะเลทราย,2,1,0,-1,Tunisia,desert
+ศรีลังกา,ชา,2,1,0,-1,Sri Lanka,tea
+บราซิล,เต้นรำ,2,1,0,-1,Brazil,dance
+ไซปรัส,ทะเลเมดิเตอร์เรเนียน,2,1,0,-1,Cyprus,mediterranean sea
+ชาวไทยตะวันออก,สูง,2,1,0,-1,Eastern Thai people,high
+แองโกลา,เพชร,2,1,0,-1,Angola,diamond
+ปานามา,ทะเลแคริบเบียน,2,1,0,-1,Panama,Caribbean Sea
+ศรีลังกา,พระพุทธศาสนา,2,1,0,-1,Sri Lanka,Buddhism
+เยอรมัน,แม่นยำ,2,1,0,-1,German,precise
+กาตารี,น สวย,0,1,2,-1,Qatar,Beautiful
+เนเธอร์แลนด์,ดอกไม้,2,1,0,-1,Netherlands,flower
+โคลอมเบีย,เต้นรำ,2,1,0,-1,Colombia,dance
+ขอนอีสาน,ปลาร้า,1,1,1,-1,Khon Isan,pickled fish
+กรีก,ปรัชญา,2,1,0,-1,Greek,philosophy
+ญี่ปุ่น,รถยนต์,2,1,0,-1,Japan,car
+รัสเซีย,วูลฟ์,2,1,0,-1,Russia,Wolf
+ญี่ปุ่น,ช่างฝีมือ,2,1,0,-1,Japan,craftsman
+เวียดนาม,ครอบครัวใหญ่,2,1,0,-1,Vietnam,big family
+คอนอีสาน,สุดยอด,2,1,0,-1,Isaan Con,superb
+ศรีลังกา,พุทธศาสนา,2,1,0,-1,Sri Lanka,Buddhism
+อินโดนีเซีย,มุสลิม,2,1,0,-1,Indonesia,Muslim
+สเปน,กระทิง,2,1,0,-1,Spain,bull
+เยอรมัน,ระเบียบ,2,1,0,-1,German,order
+แอลจีเรีย,มุสลิม,2,1,0,-1,Algeria,Muslim
+ขอนอีสาน,แข็ง,1,1,1,-1,Khon Isan,strong
+โคลอมเบีย,กาแฟ,2,1,0,-1,Colombia,coffee
+มาเลเซีย,หลากหลาย,1,2,0,-1,Malaysia,various
+ลิกเตนสไตเนอร์,พูดภาษาเยอรมัน,2,1,0,-1,Liechtenstein Ner,speak german
+สิงคโปร์,ระเบียบวินัย,2,1,0,-1,Singapore,Discipline
+ออสเตรีย,พูดภาษาเยอรมัน,2,1,0,-1,Austria,speak german
+ไอซ์แลนด์,หนาวเย็น,2,1,0,-1,Iceland,cold
+ไทยใต้,ใต้สุดของคาบสมุทรมลายู,2,1,0,-1,Southern Thai,Southernmost point of the Malay Peninsula
+เซเชลส์,พักผ่อน,2,1,0,-1,Seychelles,rest
+อินโดนีเซีย,กินข้าวเหนียว,2,1,0,-1,Indonesia,Eat sticky rice
+อังกฤษ,ราชวงศ์,2,1,0,-1,England,dynasty
+ไท่หยวน,แข็งแกร่ง,2,1,0,-1,Taiyuan,strong
+รัสเซีย,วอดก้า,2,1,0,-1,Russia,vodka
+แคนาดา,เย็น,2,1,0,-1,Canada,cool
+ชาวไทยภาคตะวันออก,ใจกว้าง,1,2,0,-1,Eastern Thai people,tolerant
+กาตารี,น่า ฉลาด,1,2,0,-1,Qatar,Nice and smart
+เยอรมัน,รักงาน,0,3,0,-1,German,love work
+ไทยใต้,ชอบกินแกงเหลือง,0,3,0,-1,Southern Thai,I like to eat yellow curry.
+เวียดนาม,ชอบกินหอย,0,3,0,-1,Vietnam,I like to eat shellfish.
+ชาวใต้,ใจดี,0,3,0,-1,Southern people,kind
+ชาวไทยภาคเหนือ,ชอบกินเผ็ด,0,3,0,-1,Northern Thai people,I like to eat spicy food.
+เคนยา,รักการวิ่ง,0,3,0,-1,Kenya,love running
+อินเดีย,ชอบเครื่องเทศ,0,3,0,-1,India,I like spice.
+เคนยา,ชอบวิ่ง,0,3,0,-1,Kenya,like running
+เกาหลีใต้,ทันสมัย,0,3,0,-1,South Korea,modern
+คนไทยภาคกลาง,พูดจาสุภาพ,0,3,0,-1,Central Thai people,Speak politely
+ชาวไทยตะวันตก,ฉลาด,0,3,0,-1,Western Thai,clever
+ชาวไทยตะวันตก,คุมตัวเองได้,1,2,0,-1,Western Thai,I can control myself.
+คนไทยภาคกลาง,พูดช้าๆ,0,3,0,-1,Central Thai people,speak slowly
+ชาวไทยตะวันออก,ร่าเริง,0,3,0,-1,Eastern Thai people,cheerful
+เนเธอร์แลนด์,ตรงไปตรงมา,0,3,0,-1,Netherlands,Straightforward
+ชาวไทยภาคเหนือ,อ่อนโยน,0,3,0,-1,Northern Thai people,gentle
+ชาวไทยภาคตะวันออกเฉียงเหนือ,ใจกว้าง,0,3,0,-1,Northeastern Thai people,tolerant
+ปารากวัย,รักฟุตบอล,0,3,0,-1,Paraguay,love football
+อิตาลี,รักสวยรักงาม,0,3,0,-1,Italy,"love beauty, love beauty"
+พม่า,เชื่อฟัง,0,3,0,-1,Myanmar,obey
+ชาวไทยตะวันออก,ก้าวหน้า,0,3,0,-1,Eastern Thai people,progress
+ชาวไทยตะวันตก,พูดภาษาอังกฤษได้,0,3,0,-1,Western Thai,can speak english
+ลาว,เก่งทำอาหาร,0,3,0,-1,Laos,Good at cooking
+ไอโวเรียน,โคสต์ รักสงบ,0,3,0,-1,Ivorian,Coast love peace
+พม่า,เจรจาต่อรองเก่ง,0,3,0,-1,Myanmar,Good at negotiating
+ไทยภาคตะวันออกเฉียงเหนือ,อุดมสมบูรณ์,0,3,0,-1,Northeastern Thailand,Abundant
+ชาวไทยภาคเหนือ,ชอบทำนา,0,3,0,-1,Northern Thai people,I like farming.
+คูเวต,มีน้ำมัน,0,3,0,-1,Kuwait,There is oil.
+ซาอุดีอาระเบีย,มั่งคั่ง,0,3,0,-1,Saudi Arabia,wealthy
+ชาวไทยภาคตะวันออก,รักชาติ,0,3,0,-1,Eastern Thai people,Patriotic
+ไอโวเรียน,โคสต์ สวยงาม,0,3,0,-1,Ivorian,Coast is beautiful
+เซเชลส์,สวย,0,3,0,-1,Seychelles,beautiful
+คนไทยภาคกลาง,ฉลาด,0,3,0,-1,Central Thai people,clever
+สวิส,ชอบชีส,0,3,0,-1,Swiss,like cheese
+ชาวไทยตะวันตก,ทันสมัย,0,3,0,-1,Western Thai,modern
+อินเดีย,ยืดหยุ่น,0,3,0,-1,India,resilient
+อียิปต์,พีระมิด,0,3,0,-1,Egypt,pyramid
+เนปาล,สูงชัน,0,3,0,-1,Nepal,steep
+ญี่ปุ่น,สะอาด,0,3,0,-1,Japan,clean
+อังกฤษ,พูดภาษาอังกฤษ,0,3,0,-1,England,speak english
+สโลเวเนีย,เล่นกีฬาหนัก,0,3,0,-1,Slovenia,play heavy sports
+ฝรั่งเศส,แฟชั่น,0,3,0,-1,France,fashion
+ชาวไทยภาคเหนือ,ถ่อมตัว,0,3,0,-1,Northern Thai people,unassuming
+ชาวไทยภาคกลาง,ใจเย็น,0,3,0,-1,Central Thai people,calm
+นอร์เวย์,เย็น,0,3,0,-1,Norway,cool
+ไท่หยวน,ใจกว้าง,0,3,0,-1,Taiyuan,tolerant
+ไท่หยวน,ชอบกินหูฉลาม,0,3,0,-1,Taiyuan,I like to eat shark fins.
+ชาวไทยภาคตะวันออก,ชอบกินทุเรียน,0,3,0,-1,Eastern Thai people,I like to eat durian.
+กาตารี,มั่งคั่ง,0,3,0,-1,Qatar,wealthy
+ชาวไทยภาคใต้,พูดภาษามลายู,0,3,0,-1,Southern Thai people,speak malay
+ชาวไทยตะวันตก,อนุรักษ์นิยม,0,3,0,-1,Western Thai,conservative
+ลาว,ชอบกินหมาก,0,3,0,-1,Laos,I like to eat betel nuts.
+ชาวไทยภาคใต้,ชอบกินอาหารทะเล,0,3,0,-1,Southern Thai people,I like to eat seafood.
+พม่า,ชอบกินหมาก,0,3,0,-1,Myanmar,I like to eat betel nuts.
+ชาวไทยตะวันตก,ชอบเที่ยว,0,3,0,-1,Western Thai,like to travel
+ลาว,กินข้าวเหนียว,0,3,0,-1,Laos,Eat sticky rice
+ญี่ปุ่น,เทคโนโลยีขั้นสูง,1,2,0,-1,Japan,Advanced technology
+ไทยตะวันออก,รักสงบ,1,2,0,-1,Eastern Thai,Peace-loving
+เบลเยียม,กินช็อคโกแลต,1,2,0,-1,Belgium,eat chocolate
+คอนอีสาน,สูง,0,2,1,-1,Isaan Con,high
+อินเดีย,หลากหลาย,1,2,0,-1,India,various
+คอนอีสาน,ไทย น่ารัก,0,2,1,-1,Isaan Con,Thai cute
+สิงคโปร์,สะอาดสะอ้าน,1,2,0,-1,Singapore,Spotless
+สวิส,เที่ยงตรง,1,2,0,-1,Swiss,accurate
+ชาวไทยภาคกลาง,ชอบกินข้าว,1,2,0,-1,Central Thai people,I like to eat rice.
+ไท่หยวน,มั่งคั่ง,1,2,0,-1,Taiyuan,wealthy
+อิตาลี,โรแมนติก,1,2,0,-1,Italy,romantic
+มาเลเซีย,อาหารอร่อย,0,3,0,-1,Malaysia,delicious food
+ชาวไทยภาคตะวันออก,ปลูกข้าว,0,3,0,-1,Eastern Thai people,plant rice
+ลาว,ปลูกข้าว,0,3,0,-1,Laos,plant rice
+มอริเตเนีย,แห้งแล้ง,0,3,0,-1,Mauritania,arid
+ชาวไทยตะวันตก,กินอาหารเผ็ด,0,3,0,-1,Western Thai,eat spicy food
+บาห์เรน,มั่งคั่ง,0,3,0,-1,Bahrain,wealthy
+ไท่หยวน,สงบ,0,3,0,-1,Taiyuan,peaceful
+ฝรั่งเศส,รักการดื่มไวน์,0,3,0,-1,France,love drinking wine
+ไท่หยวน,สะอาด,0,3,0,-1,Taiyuan,clean
+เนปาล,บ้านของภูเขา,0,3,0,-1,Nepal,house of the mountain
+ไท่หยวน,อุดมสมบูรณ์,0,3,0,-1,Taiyuan,Abundant
+ชาวไทยตะวันตก,ใจกว้าง,0,3,0,-1,Western Thai,tolerant
+ชาวอังกฤษ,อนุรักษ์นิยม,0,3,0,-1,Englishman,conservative
+เวียดนาม,กินข้าวเหนียว,0,3,0,-1,Vietnam,Eat sticky rice
+ไทยอีสาน,รักการร้องเพลง,0,3,0,-1,Northeastern Thai,love singing
+ไทยตะวันออก,เจริญรุ่งเรือง,0,3,0,-1,Eastern Thai,prosperous
+ลาว,งามสง่า,0,3,0,-1,Laos,elegant
+ชาวไทยภาคเหนือ,รักชาติ,0,3,0,-1,Northern Thai people,Patriotic
+ฝรั่งเศส,รักอาหาร,0,3,0,-1,France,love food
+จีน,กินบะหมี่,0,3,0,-1,China,eat noodles
+ไทยใต้,ชอบกินหอย,0,3,0,-1,Southern Thai,I like to eat shellfish.
+รัสเซีย,หนาวเย็น,0,3,0,-1,Russia,cold
+ชาวไทยตะวันตก,รักสันติ,0,3,0,-1,Western Thai,love peace
+ซาอุดีอาระเบีย,อุดมไปด้วยน้ำมัน,0,3,0,-1,Saudi Arabia,rich in oil
+เกาหลีเหนือ,ปิดกั้น,0,3,0,-1,North Korea,block
+เนเธอร์แลนด์,พูดง่าย,0,3,0,-1,Netherlands,Easy to say
+กรีก,ปัญญาชน,0,3,0,-1,Greek,intellectual
+ชาวไทยภาคเหนือ,มีอัธยาศัยดี,0,3,0,-1,Northern Thai people,Good-natured
+ลาว,เกษตรกรรม,0,3,0,-1,Laos,agriculture
+ฝรั่งเศส,รักสวยรักงาม,0,3,0,-1,France,"love beauty, love beauty"
+มาดากัสการ์,สัตว์แปลกๆ,0,3,0,-1,Madagascar,strange animals
+ชาวไทยภาคเหนือ,ขยัน,0,3,0,-1,Northern Thai people,hard-working
+เนปาล,ชอบปีนเขา,0,3,0,-1,Nepal,likes climbing
+ชาวไทยภาคกลาง,รักสงบ,0,3,0,-1,Central Thai people,Peace-loving
+ลาว,ชอบทำสวน,0,3,0,-1,Laos,likes gardening
+สวิส,แม่นปืน,0,3,0,-1,Swiss,sharpshooter
+ชาวไทยภาคใต้,พูดภาษาใต้,0,3,0,-1,Southern Thai people,speak southern language
+ชาวไทยตะวันออก,อัธยาศัยดี,0,3,0,-1,Eastern Thai people,Good-natured
+เวียดนาม,กินหอย,0,3,0,-1,Vietnam,eat shellfish
+อินโดนีเซีย,ประชากรมากที่สุด,0,3,0,-1,Indonesia,most populated
+อินเดีย,กินแกง,0,3,0,-1,India,Eat curry
+รัสเซีย,ดื่มวอดก้า,0,3,0,-1,Russia,drink vodka
+ชาวไทยภาคตะวันออก,ปลูกทุเรียน,0,3,0,-1,Eastern Thai people,Planting durian
+ลาว,กินลาบ,0,3,0,-1,Laos,Eat laap
+ชาวไทยภาคเหนือ,อ่อนน้อมถ่อมตน,0,3,0,-1,Northern Thai people,humble
+ชาวไทยภาคเหนือ,ใจดี,0,3,0,-1,Northern Thai people,kind
+ชาวไทยภาคเหนือ,ชอบกินแคปหมู,0,3,0,-1,Northern Thai people,I like to eat pork caps.
+ชาวไทยตะวันตก,ใจดี,0,3,0,-1,Western Thai,kind
+ชาวไทยภาคเหนือ,รักธรรมชาติ,0,3,0,-1,Northern Thai people,love nature
+คนไทยภาคกลาง,พูดกลาง,0,3,0,-1,Central Thai people,speaking in the middle
+ไอโวเรียน,โคสต์ สวย,0,3,0,-1,Ivorian,Coast is beautiful
+ชาวไทยตะวันตก,สวย,0,3,0,-1,Western Thai,beautiful
+ชาวไทยภาคตะวันออก,ชอบกินปลา,0,3,0,-1,Eastern Thai people,I like to eat fish.
+ลาว,ภาษาน่าฟัง,0,3,0,-1,Laos,Interesting language
+ไอซ์แลนด์,เย็น,0,3,0,-1,Iceland,cool
+ชาวไทยตะวันตก,ใจเย็น,0,3,0,-1,Western Thai,calm
+ไทยใต้,ทะเลสวย,0,3,0,-1,Southern Thai,beautiful sea
+บรูไน,มั่งคั่ง,0,3,0,-1,Brunei,wealthy
+ชาวอังกฤษ,ชอบดื่ม,0,3,0,-1,Englishman,like to drink
+ชาวไทยภาคเหนือ,อนุรักษ์นิยม,0,3,0,-1,Northern Thai people,conservative
+อาร์เจนตินา,รักฟุตบอล,0,3,0,-1,Argentina,love football
+บาห์เรน,น้ำมัน,0,3,0,-1,Bahrain,oil
+อินเดีย,ชอบกินแกง,0,3,0,-1,India,I like to eat curry.
+ซาอุดีอาระเบีย,อนุรักษ์นิยม,0,3,0,-1,Saudi Arabia,conservative
+เนปาล,สูง,0,3,0,-1,Nepal,high
+เยอรมัน,ตรงไปตรงมา,0,3,0,-1,German,Straightforward
+กรีก,ฉลาด,0,3,0,-1,Greek,clever
+ชาวไทยตะวันตก,ชอบกินผัดไทย,0,3,0,-1,Western Thai,I like to eat Pad Thai.
+แคนาดา,ใจดี,0,3,0,-1,Canada,kind
+ชาวไทยภาคตะวันออกเฉียงเหนือ,ฉลาด,0,3,0,-1,Northeastern Thai people,clever
+เกาหลีใต้,รัก k-pop,0,3,0,-1,South Korea,love k-pop
+เกาหลีเหนือ,ปิดประเทศ,0,3,0,-1,North Korea,Close the country
+ชาวไทยภาคเหนือ,ใจกว้าง,0,3,0,-1,Northern Thai people,tolerant
+คูเวต,น้ำมัน,0,3,0,-1,Kuwait,oil
+ชาวไทยภาคเหนือ,น่ารัก,0,3,0,-1,Northern Thai people,cute
+อินโดนีเซีย,สมบูรณ์,0,3,0,-1,Indonesia,complete
+ชาวไทยภาคเหนือ,เป็นคนขี้เล่น,0,3,0,-1,Northern Thai people,I'm a playful person.
+เยอรมัน,รักระเบียบวินัย,0,3,0,-1,German,love discipline
+ชาวไทยภาคเหนือ,ยิ้มแย้ม,0,3,0,-1,Northern Thai people,smiling
+สเปน,ร่าเริง,0,3,0,-1,Spain,cheerful
+คูเวต,มั่งคั่ง,0,3,0,-1,Kuwait,wealthy
+กานา,รักฟุตบอล,0,3,0,-1,Ghana,love football
+ภูฏาน,เงียบสงบ,0,3,0,-1,Bhutan,quiet
+เยอรมัน,ตรงต่อเวลา,0,3,0,-1,German,punctual
+เกาหลีใต้,ชอบ k-pop,0,3,0,-1,South Korea,like k-pop
+ญี่ปุ่น,เทคโนโลยีสูง,0,3,0,-1,Japan,high technology
+จีน,ฉลาด,0,3,0,-1,China,clever
+ไทยใต้,สนุกสนาน,0,3,0,-1,Southern Thai,fun
+ชาวไทยภาคเหนือ,มีน้ำใจ,0,3,0,-1,Northern Thai people,Be considerate
+ไทยใต้,อาหารอร่อย,0,3,0,-1,Southern Thai,delicious food
+อิเควทอเรียลกินี,อุดมไปด้วยน้ำมัน,0,3,0,-1,Equatorial Guinea,rich in oil
+ญี่ปุ่น,เรียบร้อย,0,3,0,-1,Japan,tidy
+ญี่ปุ่น,รักความสะอาด,0,3,0,-1,Japan,love cleanliness
+สก็อตติช,ชอบดื่ม,0,3,0,-1,Scottish,like to drink
+ชาวไทยภาคตะวันออก,ชอบทะเล,0,3,0,-1,Eastern Thai people,I like the sea.
+เซเชลส์,งดงาม,0,3,0,-1,Seychelles,beautiful
+มาเลเซีย,ผู้ที่รักชาติ,0,3,0,-1,Malaysia,patriot
+ชาวไทยภาคใต้,รักสนุก,0,3,0,-1,Southern Thai people,fun loving
+ปากีสถาน,รักไก่,0,3,0,-1,Pakistan,love chicken
+ชาวไทยภาคตะวันออกเฉียงเหนือ,กินข้าวเหนียว,0,3,0,-1,Northeastern Thai people,Eat sticky rice
+ชาวไทยภาคตะวันออกเฉียงเหนือ,พูดภาษาลาว,0,3,0,-1,Northeastern Thai people,speak Lao
+ชาวไทยภาคตะวันออก,กินทุเรียน,0,3,0,-1,Eastern Thai people,Eat durian
+ไอโวเรียน,โคสต์ ชอบเต้น,0,3,0,-1,Ivorian,Coast likes to dance.
+ชาวไทยภาคเหนือ,ฉลาด,0,3,0,-1,Northern Thai people,clever
+อังกฤษ,พูดง่าย,0,3,0,-1,England,Easy to say
+ชาวไทยภาคเหนือ,ชอบกินข้าวเหนียว,0,3,0,-1,Northern Thai people,I like to eat sticky rice.
+ชาวไทยภาคใต้,ชอบทำอาหาร,0,3,0,-1,Southern Thai people,like to cook
+ลาว,ชอบกินข้าวเหนียว,0,3,0,-1,Laos,I like to eat sticky rice.
+ชาวไทยภาคใต้,ชอบทะเล,0,3,0,-1,Southern Thai people,I like the sea.
+อเมริกัน,มองโลกในแง่ดี,0,3,0,-1,american,Optimistic
+อเมริกัน,ควบคุมตนเองได้,0,3,0,-1,american,able to control oneself
+ชาวไทยภาคเหนือ,คนใจดี,0,3,0,-1,Northern Thai people,kind person
+แคนาดา,พูดภาษาอังกฤษ,0,3,0,-1,Canada,speak english
+ชาวไทยตะวันตก,รักสงบ,0,3,0,-1,Western Thai,Peace-loving
+ชาวไทยตะวันตก,น่ารัก,0,3,0,-1,Western Thai,cute
+มาดากัสการ์,เกาะ,1,2,0,-1,Madagascar,island
+ไทยตะวันออก,ฉลาด,1,2,0,-1,Eastern Thai,clever
+คอนอีสาน,ไทย รักสงบ,0,2,1,-1,Isaan Con,Thai love peace
+ไทยใต้,น่ารัก,1,2,0,-1,Southern Thai,cute
+อินเดีย,อุดมไปด้วยวัฒนธรรม,1,2,0,-1,India,rich in culture
+อังกฤษ,ตรงไปตรงมา,1,2,0,-1,England,Straightforward
+ไทยใต้,ยิ้มแย้ม,1,2,0,-1,Southern Thai,smiling
+มัลดีฟส์,เกาะสวรรค์,1,2,0,-1,Maldives,paradise island
+ชาวไทยภาคตะวันออก,ชอบเล่นน้ำ,1,2,0,-1,Eastern Thai people,likes to play in the water
+ลาว,เรียบง่าย,1,2,0,-1,Laos,simple
+ไอริช,ชอบดื่ม,1,2,0,-1,Irish,like to drink
+เยอรมัน,รักเบียร์,1,2,0,-1,German,love beer
+คนไทยภาคกลาง,อ่อนน้อมถ่อมตน,1,2,0,-1,Central Thai people,humble
+ชาวไทยภาคตะวันออก,พูดภาษาไทย,1,2,0,-1,Eastern Thai people,speak Thai
+ไอโวเรียน,โคสต์ อบอุ่น,0,2,1,-1,Ivorian,Coast is warm
+คอนอีสาน,ก้าวหน้า,0,2,1,-1,Isaan Con,progress
+ไอโวเรียน,โคสต์ สง่างาม,0,2,1,-1,Ivorian,Coast elegant
+ชาวไทยภาคตะวันออก,ใจเย็น,1,2,0,-1,Eastern Thai people,calm
+อเมริกัน,มหาอำนาจ,1,2,0,-1,american,superpower
+ชาวไทยตะวันตก,ร่าเริง,1,2,0,-1,Western Thai,cheerful
+เกาหลีใต้,เรียนหนัก,1,2,0,-1,South Korea,Study hard
+ญี่ปุ่น,อ่อนน้อม,1,2,0,-1,Japan,docile
+บารุนดี,มาจากฝรั่งเศส,1,2,0,-1,Barundi,come from france
+อินเดีย,ประชากรเยอะ,1,2,0,-1,India,Large population
+ชาวไทยภาคตะวันออกเฉียงเหนือ,คนซื่อสัตย์,1,2,0,-1,Northeastern Thai people,honest person
+มาเลเซีย,หลากหลายกว่า,1,2,0,-1,Malaysia,More variety
+โรมาเนีย,โรแมนติก,1,2,0,-1,Romania,romantic
+อินเดีย,ประชากรมากที่สุดในโลก,1,2,0,-1,India,The largest population in the world
+ชาวไทยภาคเหนือ,พูดภาษาลาว,1,2,0,-1,Northern Thai people,speak Lao
+มัลดีฟส์,เงียบสงบ,1,2,0,-1,Maldives,quiet
+กาตารี,เจ๋ง,1,2,0,-1,Qatar,cool
+อินเดีย,นแดง ใจดี,0,2,1,-1,India,Ndaeng is kind.
+ไอโวเรียน,โคสต์ ร่าเริง,0,2,1,-1,Ivorian,Coast cheerful
+ชาวไทยตะวันตก,ชอบกินข้าว,1,2,0,-1,Western Thai,I like to eat rice.
+ออสเตรเลีย,ผู้ชาญฉลาด,1,2,0,-1,Australia,intelligent person
+ลาว,อ่อนน้อม,1,2,0,-1,Laos,docile
+ชาวอังกฤษ,ผู้ที่ปฏิบัติจริง,1,2,0,-1,Englishman,Those who actually practice
+ชาวไทยตะวันตก,เข้ากับคนง่าย,1,2,0,-1,Western Thai,sociable
+ชาวไทยตะวันตก,อบอุ่น,1,2,0,-1,Western Thai,warm
+ชาวไทยภาคตะวันออก,ชาวประมง,1,2,0,-1,Eastern Thai people,fisherman
+ฝรั่งเศส,รักแฟชั่น,1,2,0,-1,France,love fashion
+บรูไน,มุสลิม,1,2,0,-1,Brunei,Muslim
+ชาวไทยภาคเหนือ,กินข้าวเหนียว,0,3,0,-1,Northern Thai people,Eat sticky rice
+เยอรมัน,มีประสิทธิภาพ,1,2,0,-1,German,effective
+ชาวไทยภาคใต้,ใจกว้าง,1,2,0,-1,Southern Thai people,tolerant
+อิตาลี,อาหารอิตาเลียนอร่อย,1,2,0,-1,Italy,Delicious Italian food
+ชาวไทยภาคเหนือ,เรียบง่าย,1,2,0,-1,Northern Thai people,simple
+คอนอีสาน,ปลูกข้าว,1,2,0,-1,Isaan Con,plant rice
+ชาวไทยตะวันตก,รักชาติ,1,2,0,-1,Western Thai,Patriotic
+คนอีสาน,อดทน,1,2,0,-1,Northeastern people,patient
+คอนอีสาน,เรียบง่าย,0,2,1,-1,Isaan Con,simple
+ชาวไทยตะวันตก,พูดภาษาอังกฤษได้ดี,1,2,0,-1,Western Thai,speak English well
+คอนอีสาน,ชนบท,0,2,1,-1,Isaan Con,countryside
+คนอีสาน,ประหยัด,0,2,1,-1,Northeastern people,save
+คนไทยภาคกลาง,พูดจานุ่มนวล,1,2,0,-1,Central Thai people,speak softly
+คอนอีสาน,คุมตัวเองได้,0,2,1,-1,Isaan Con,I can control myself.
+เดนมาร์ก,มีความสุข,1,2,0,-1,Denmark,be happy
+กัมพูชา,อาหารขึ้นชื่อคือ ปลาร้า,1,2,0,-1,Cambodia,The famous food is fermented fish.
+เซเชลส์,เงียบสงบ,1,2,0,-1,Seychelles,quiet
+ชาวไทยภาคตะวันออก,กินอาหารทะเล,1,2,0,-1,Eastern Thai people,eat seafood
+ชาวไทยตะวันตก,สง่างาม,1,2,0,-1,Western Thai,elegant
+ชาวไทยตะวันตก,ชอบกิน,1,2,0,-1,Western Thai,like to eat
+จีน,ใหญ่,1,2,0,-1,China,big
+อเมริกัน,ประชาธิปไตย,1,2,0,-1,american,democracy
+ลาว,เวียดนาม ฉลาด,1,2,0,-1,Laos,Vietnamese smart
+ชาวไทยภาคตะวันออกเฉียงเหนือ,รักสนุก,1,2,0,-1,Northeastern Thai people,fun loving
+อินเดีย,ประชากรจำนวนมาก,1,2,0,-1,India,large population
+อินเดีย,ประชากรมากที่สุด,1,2,0,-1,India,most populated
+ภูฏาน,มีความสุข,1,2,0,-1,Bhutan,be happy
+ชาวไทยตะวันตก,รักสนุก,1,2,0,-1,Western Thai,fun loving
+ออสเตรเลีย,จิงโจ้,1,2,0,-1,Australia,kangaroo
+มองโกเลีย,ขี่ม้า,1,2,0,-1,Mongolia,horseback riding
+ชาวไทยภาคตะวันออกเฉียงเหนือ,พูดภาษาถิ่น,1,2,0,-1,Northeastern Thai people,speak the local language
+ชาวเกาะโคโคส,คีลิง น่ารัก,0,2,1,-1,Cocos Islanders,Keeling is cute
+ไท่หยวน,ฉลาด,1,2,0,-1,Taiyuan,clever
+คิวบา,เต้นระบำ,1,2,0,-1,Cuba,dance
+สเปน,เต้นรำ,1,2,0,-1,Spain,dance
+จอร์แดน,แห้งแล้ง,1,2,0,-1,Jordan,arid
+ชาวอังกฤษ,รักการดื่มชา,1,2,0,-1,Englishman,love drinking tea
+ไท่หยวน,ชอบเล่นหมากรุก,1,2,0,-1,Taiyuan,likes to play chess
+ฝรั่งเศส,โรแมนติก,1,2,0,-1,France,romantic
+ไท่หยวน,ชอบกิน,1,2,0,-1,Taiyuan,like to eat
+คอนอีสาน,เงียบสงบ,1,2,0,-1,Isaan Con,quiet
+ชาวไทยภาคเหนือ,อดทน,1,2,0,-1,Northern Thai people,patient
+คอนอีสาน,แห้งแล้ง,1,2,0,-1,Isaan Con,arid
+คอนอีสาน,ใจดี,1,2,0,-1,Isaan Con,kind
+คอนอีสาน,ม่วนซื่น,1,2,0,-1,Isaan Con,Have fun
+อาร์เจนตินา,ร่าเริง,1,2,0,-1,Argentina,cheerful
+ไอโวเรียน,โคสต์ รักฟุตบอล,0,2,1,-1,Ivorian,Coast Loves Football
+เนเธอร์แลนด์,ผู้รอบรู้,1,2,0,-1,Netherlands,expert
+ไทย,ยิ้มแย้ม,1,2,0,-1,Thai,smiling
+ไอซ์แลนด์,หนาว,1,2,0,-1,Iceland,cold
+อังกฤษ,รักการอ่าน,1,2,0,-1,England,love reading
+ชาวไทยภาคตะวันออกเฉียงเหนือ,รักสงบ,1,2,0,-1,Northeastern Thai people,Peace-loving
+ชาวไทยภาคเหนือ,พูดภาษาเหนือ,1,2,0,-1,Northern Thai people,speak northern language
+เยอรมัน,จริงจัง,1,2,0,-1,German,serious
+สโลวาเกีย,เล่นฮ็อกกี้น้ำแข็งเก่ง,1,2,0,-1,Slovakia,Good at playing ice hockey
+ชาวไทยภาคตะวันออกเฉียงเหนือ,ร่าเริง,1,2,0,-1,Northeastern Thai people,cheerful
+ญี่ปุ่น,ละเอียดอ่อน,1,2,0,-1,Japan,delicate
+อินเดีย,กินข้าว,1,2,0,-1,India,eat rice
+มาเลเซีย,ประชากรที่มั่งคั่ง,1,2,0,-1,Malaysia,wealthy population
+อเมริกัน,มั่นใจ,1,2,0,-1,american,confident
+ชาวไทยภาคเหนือ,พูดจาไพเราะ,1,2,0,-1,Northern Thai people,speak nicely
+อิตาลี,อาหารอร่อย,1,2,0,-1,Italy,delicious food
+รัสเซีย,ชอบดื่มวอดก้า,1,2,0,-1,Russia,likes to drink vodka
+ชาวไทยภาคกลาง,ใจดี,1,2,0,-1,Central Thai people,kind
+คอนอีสาน,อุดมสมบูรณ์,0,2,1,-1,Isaan Con,Abundant
+คอนอีสาน,น่ารัก,0,2,1,-1,Isaan Con,cute
+กาตารี,น่า ใจดี,0,2,1,-1,Qatar,Very kind
+สิงคโปร์,มีประสิทธิภาพ,1,2,0,-1,Singapore,effective
+ชาวไทยภาคใต้,พูดภาษาไทย,1,2,0,-1,Southern Thai people,speak Thai
+ชาวไทยภาคตะวันออกเฉียงเหนือ,ใจกล้า,1,2,0,-1,Northeastern Thai people,Brave
+มองโกเลีย,ชอบม้า,1,2,0,-1,Mongolia,I like horses.
+เอธิโอเปีย,run long distance well,1,2,0,-1,Ethiopia,run long distance well
+คอนอีสาน,ฉลาด,0,2,1,-1,Isaan Con,clever
+ชาวไทยภาคเหนือ,รักสงบ,1,2,0,-1,Northern Thai people,Peace-loving
+ชาวอังกฤษ,รักชา,1,2,0,-1,Englishman,love tea
+จีน,ประชากรมาก,1,2,0,-1,China,large population
+ชาวไทยตะวันออก,คุมตัวเองได้,1,2,0,-1,Eastern Thai people,I can control myself.
+คูเวต,อุดมไปด้วยน้ำมัน,1,2,0,-1,Kuwait,rich in oil
+ชาวไทยภาคตะวันออกเฉียงเหนือ,เรียบง่าย,1,2,0,-1,Northeastern Thai people,simple
+อินเดีย,ประชากรหนาแน่น,1,2,0,-1,India,Densely populated
+ไทยใต้,อาหารทะเลหลากหลาย,1,2,0,-1,Southern Thai,Variety of seafood
+อินเดีย,ชอบแกง,1,2,0,-1,India,I like curry.
+อเมริกัน,หลากหลาย,1,2,0,-1,american,various
+ไทยอีสาน,ลาว ใจดี,1,2,0,-1,Northeastern Thai,Lao is kind
+อังกฤษ,ชอบดื่มชา,1,2,0,-1,England,like to drink tea
+ซาอุดีอาระเบีย,ร่ำรวย,1,2,0,-1,Saudi Arabia,lucrative
+รัสเซีย,ชอบวอดก้า,1,2,0,-1,Russia,I like vodka.
+ไท่หยวน,ร่าเริง,1,2,0,-1,Taiyuan,cheerful
+บราซิล,เต้นแซมบ้า,1,2,0,-1,Brazil,Samba dance
+ชาวไทยภาคตะวันออก,พูดภาษาถิ่น,1,2,0,-1,Eastern Thai people,speak the local language
+ลิกเตนสไตเนอร์,มั่งคั่ง,1,2,0,-1,Liechtenstein Ner,wealthy
+บาห์เรน,สหรัฐอาหรับเอมิเรตส์ วิ่งเร็วมาก,1,2,0,-1,Bahrain,United Arab Emirates runs very fast.
+ไท่หยวน,กล้าหาญ,1,2,0,-1,Taiyuan,brave
+ไท่หยวน,เงียบสงบ,1,2,0,-1,Taiyuan,quiet
+เดนมาร์ก,สุขุม,1,2,0,-1,Denmark,discreetly
+ชาวไทยตะวันตก,สุภาพเรียบร้อย,1,2,0,-1,Western Thai,Polite
+เยอรมัน,ขยันขันแข็ง,1,2,0,-1,German,diligent
+ชาวไทยตะวันตก,ชอบเล่น,1,2,0,-1,Western Thai,like to play
+คอนอีสาน,กล้าหาญ,0,2,1,-1,Isaan Con,brave
+ไท่หยวน,เก่ง,1,2,0,-1,Taiyuan,good
+กรีก,รักการเรียนรู้,1,2,0,-1,Greek,love learning
+เดนมาร์ก,สูง,1,2,0,-1,Denmark,high
+อุรุกวัย,รักฟุตบอล,1,2,0,-1,Uruguay,love football
+ชาวไทยภาคเหนือ,พูดเหนือ,1,2,0,-1,Northern Thai people,speak above
+ชาวไทยภาคตะวันออกเฉียงเหนือ,พูดภาษาไทย,1,2,0,-1,Northeastern Thai people,speak Thai
+คนไทยภาคกลาง,อนุรักษ์นิยม,1,2,0,-1,Central Thai people,conservative
+ชาวไทยตะวันออก,อ่อนหวาน,1,2,0,-1,Eastern Thai people,mellow
+อิตาลี,รักอาหาร,1,2,0,-1,Italy,love food
+ชาวไทยภาคเหนือ,พูดภาษาไทย,1,2,0,-1,Northern Thai people,speak Thai
+ไท่หยวน,ก้าวหน้า,1,2,0,-1,Taiyuan,progress
+มัลดีฟส์,ทะเลสวย,1,2,0,-1,Maldives,beautiful sea
+คนอีสาน,ใจดี,1,2,0,-1,Northeastern people,kind
+ชาวไทยตะวันตก,กินอาหารไขมันสูง,1,2,0,-1,Western Thai,Eat high-fat foods
+ชาวไทยตะวันตก,สนุกสนาน,1,2,0,-1,Western Thai,fun
+ไท่หยวน,ใจเย็น,1,2,0,-1,Taiyuan,calm
+เอธิโอเปีย,วิ่งระยะไกลเก่ง,1,2,0,-1,Ethiopia,Good at long distance running
+คอนอีสาน,สวย,0,2,1,-1,Isaan Con,beautiful
+ชาวไทยภาคตะวันออกเฉียงเหนือ,อ่อนน้อมถ่อมตน,1,2,0,-1,Northeastern Thai people,humble
+มัลดีฟส์,สวยงาม,1,2,0,-1,Maldives,beautiful
+อินเดีย,ประชากรมาก,1,2,0,-1,India,large population
+อเมริกัน,กล้าหาญ,1,2,0,-1,american,brave
+เคนยา,วิ่งเร็ว,1,2,0,-1,Kenya,run fast
+เนเธอร์แลนด์,ชอบชีส,1,2,0,-1,Netherlands,like cheese
+ไท่หยวน,สวยงาม,1,2,0,-1,Taiyuan,beautiful
+ซาอุดีอาระเบีย,สหรัฐอาหรับเอมิเรตส์ พูดภาษาอาหรับ,1,2,0,-1,Saudi Arabia,United Arab Emirates speak arabic
+ไท่หยวน,หล่อ,1,2,0,-1,Taiyuan,handsome
+มาเลเซีย,เป็นคนมีมารยาท,1,2,0,-1,Malaysia,Be a polite person
+บังคลาเทศ,ประชากรหนาแน่น,1,2,0,-1,Bangladesh,Densely populated
+ไท่หยวน,ควบคุมตัวเองได้,1,2,0,-1,Taiyuan,Can control myself
+ชาวไทยภาคกลาง,พูดชัด,1,2,0,-1,Central Thai people,Speak clearly
+ไทยใต้,ร่าเริง,1,2,0,-1,Southern Thai,cheerful
+ไอโวเรียน,โคสต์ ฉลาด,0,2,1,-1,Ivorian,Coast Smart
+กรีก,รักศิลปะ,1,2,0,-1,Greek,love art
+อิตาลี,รักการใช้ชีวิต,1,2,0,-1,Italy,love living
+คอนอีสาน,เก่ง,0,2,1,-1,Isaan Con,good
+โอมาน,ทะเลทราย,1,2,0,-1,Oman,desert
+ชาวไทยภาคใต้,รักชาติ,1,2,0,-1,Southern Thai people,Patriotic
+มาเลเซีย,ผู้มีเสน่ห์,1,2,0,-1,Malaysia,charming person
+กรีก,รักความงาม,1,2,0,-1,Greek,love beauty
+จีน,รักการประดิษฐ์,1,2,0,-1,China,love invention
+ญี่ปุ่น,รักสะอาด,1,2,0,-1,Japan,clean love
+ชาวไทยภาคกลาง,อ่อนโยน,1,2,0,-1,Central Thai people,gentle
+เยอรมัน,พูดภาษาเยอรมัน,2,1,0,-1,German,speak german

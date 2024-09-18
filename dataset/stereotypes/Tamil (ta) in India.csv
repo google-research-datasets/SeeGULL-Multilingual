@@ -1,0 +1,1390 @@
+identity,attribute,non_stereotype,stereotype,unsure,mean_offensive_score,translated_identity,translated_attribute_list
+சிரியன்,பயங்கரவாதி,0,3,0,4,Syrian,Terrorist
+காஷ்மீரி,பயங்கரவாதி,1,2,0,4,Kashmiri,Terrorist
+பாலஸ்தீனியர்கள்,பயங்கரவாதி,1,2,0,4,Palestinians,Terrorist
+காஷ்மீரி,மதவெறியர்கள்,1,2,0,3.333333333,Kashmiri,Religious fanatics
+கொலம்பியன்,கஞ்சா,1,2,0,3.333333333,Colombian,Cannabis
+ருவாண்டன்,கொலைகாரர்கள்,1,2,0,3.333333333,Rwandan,murderers
+ஆசாமிகள்,துஷ்பிரயோகக்காரர்கள்,0,3,0,3,Assamese,Abusers
+கோன்‌,ராட்சதர்கள்,2,1,0,2.666666667,Kon,Giants
+ஸ்காட்டிஷ்,குடிகாரர்கள்,1,2,0,2.666666667,Scottish,drunkards
+வடக்கு ஐரிஷ்,மதவெறி,2,1,0,2.666666667,Northern Irish,bigotry
+மிசோ,மதவெறி,2,1,0,2.666666667,Mizzou,bigotry
+வெல்ஷ்,குடிகாரர்கள்,1,2,0,2.666666667,Welsh,drunkards
+சவூதிகள்,மதவெறி,1,2,0,2.666666667,Saudis,bigotry
+அந்தமானியர்கள்,வன்முறையாளர்கள்,1,2,0,2.666666667,Andamanese,Violent people
+ஐரிஷ்,குடிகாரர்கள்,1,2,0,2.666666667,Irish,drunkards
+வடக்கு ஐரிஷ்,குடிகாரர்கள்,1,2,0,2.666666667,Northern Irish,drunkards
+கொலம்பியன்,போதைப்பொருள்,1,2,0,2.333333333,Colombian,Narcotics
+காஷ்மீரி,மதத்தீவிரவாதி,1,2,0,2.333333333,Kashmiri,Extremist
+சோமாலிஸ்,கடல்கொள்ளையர்கள்,2,1,0,2.333333333,Somalis,Pirates
+கொரியர்கள்,கொடுமை,2,1,0,2.333333333,Koreans,Cruelty
+மார்வாரி,ஊழல்,2,1,0,2,Marwari,Corruption
+பிஹாரி,ஊழல்,2,1,0,2,Bihari,Corruption
+காஷ்மீரி,வன்முறை,1,2,0,2,Kashmiri,Violence
+ஆசாமிகள்,ஊழல்,2,1,0,2,Assamese,Corruption
+அந்தமானியர்கள்,வன்முறை,2,1,0,2,Andamanese,Violence
+ஆசாமிகள்,துரோகம்,2,1,0,2,Assamese,Treachery
+ஐரிஷ்,குடிகாரர்,1,2,0,2,Irish,drunkard
+அந்தமானியர்கள்,துஷ்பிரயோகம் செய்யப்பட்டவர்கள்,1,2,0,2,Andamanese,Abused
+ஆசாமிகள்,வன்முறை,1,2,0,2,Assamese,Violence
+பெங்காலி,ஊழல்,1,2,0,2,Bengali,Corruption
+ஓடியா,துரோகம்,2,1,0,2,Odia,Treachery
+தெலுங்குவாரு,ஊழல்,2,1,0,2,Telugu,Corruption
+காஷ்மீரி,தற்கொலைப் படை,1,2,0,2,Kashmiri,suicide squad
+கொசோவர்,வன்முறை,1,2,0,2,Kosovar,Violence
+அல்பேனியன்,வன்முறை,1,2,0,2,Albanian,Violence
+செர்பியர்கள்,வன்முறை,2,1,0,2,Serbs,Violence
+ஜார்கண்டி,ஊழல்,1,2,0,2,Jharkhandi,Corruption
+ருவாண்டன்,வன்முறை,1,2,0,2,Rwandan,Violence
+காஷ்மீரி,மதவாதி,1,2,0,2,Kashmiri,Religious
+வடக்கு ஐரிஷ்,குடிகாரர்,0,3,0,2,Northern Irish,drunkard
+டெல்லிவாசி,ஊழல்,2,1,0,2,A resident of Delhi,Corruption
+கொரியர்கள்,வன்முறை,0,3,0,2,Koreans,Violence
+பாலஸ்தீனியர்கள்,வன்முறை,0,3,0,2,Palestinians,Violence
+ஓடியா,துரோகி,2,1,0,1.666666667,Odia,Traitor
+ஆசாமிகள்,துரோகிகள்,2,1,0,1.666666667,Assamese,Traitors
+அந்தமானியர்கள்,கொடூரமான,1,2,0,1.666666667,Andamanese,Cruel
+ருவாண்டன்,கொடூரமானவர்கள்,1,2,0,1.666666667,Rwandan,are cruel
+கோன்‌,துரோகி,2,1,0,1.666666667,Kon,Traitor
+அந்தமானியர்கள்,கைதிகள்,1,2,0,1.666666667,Andamanese,Prisoners
+அந்தமானியர்கள்,வன்முறை செய்யும்,2,1,0,1.666666667,Andamanese,will do violence
+ருவாண்டன்,கொடூரமான,1,2,0,1.666666667,Rwandan,Cruel
+அல்பேனியன்,குற்றவாளிகள்,2,1,0,1.666666667,Albanian,Criminals
+செர்பியர்கள்,சண்டையாளர்கள்,0,3,0,1.666666667,Serbs,Fighters
+காஷ்மீரி,மதத்தால் பிரிக்கப்பட்ட,1,2,0,1.666666667,Kashmiri,Divided by religion
+அந்தமானியர்கள்,கருப்பர்கள்,1,2,0,1.333333333,Andamanese,Blacks
+செர்பியர்கள்,ஆக்ரோஷமான,1,2,0,1.333333333,Serbs,Aggressive
+வடக்கு ஐரிஷ்,குடிப்பழக்கம்,1,2,0,1.333333333,Northern Irish,Alcoholism
+செர்பியர்கள்,ஆக்ரோஷமானவர்கள்,1,2,0,1.333333333,Serbs,Aggressive
+ஆப்கானியர்கள்,போர்க்குணம் கொண்டவர்கள்,0,3,0,1.333333333,Afghans,Warriors
+அர்ஜென்டினியர்கள்,ஆக்ரோஷமானவர்கள்,2,1,0,1.333333333,Argentinians,Aggressive
+பிரிட்டிஷ்,குடிப்பழக்கம்,0,3,0,1.333333333,British,Alcoholism
+அந்தமானியர்கள்,திமிர்பிடித்த,2,1,0,1.333333333,Andamanese,Arrogant
+கொரியர்கள்,சர்வாதிகார,2,1,0,1.333333333,Koreans,Dictatorship
+ஐரிஷ்,குடித்துவிட்டு பாடும்,1,2,0,1.333333333,Irish,Drinking and singing
+ஐரிஷ்,குடிப்பழக்கம்,0,3,0,1.333333333,Irish,Alcoholism
+கொரியர்கள்,கடுமையானவர்கள்,0,3,0,1.333333333,Koreans,Strict ones
+பெல்ஜியன்,பீர்,2,1,0,1,Belgian,Beer
+மங்கோலியன்,ஆக்கிரமிப்பாளர்கள்,1,2,0,1,Mongolian,Invaders
+மிசோ,மர்மமானவர்கள்,2,1,0,1,Mizzou,Mysterious people
+பிரெஞ்சு,சிகரெட்,2,1,0,1,French,Cigarette
+சோமாலிஸ்,கடற்கொள்ளையர்கள்,2,1,0,1,Somalis,Pirates
+அமெரிக்கர்கள்,கொழுப்பு,1,2,0,1,Americans,Fat
+காஷ்மீரி,மத ரீதியான மோதல்,2,1,0,1,Kashmiri,Religious conflict
+சீன,கெட்ட வாசனை,2,1,0,1,Chinese,bad smell
+அந்தமானியர்கள்,யுத்தம் விரும்பும்,2,1,0,1,Andamanese,Loves war
+தெலுங்குவாரு,திமிர் பிடித்தவர்கள்,2,1,0,1,Telugu,Arrogant people
+மேகாலயான்,மர்மமானவர்கள்,2,1,0,1,Meghalaya,Mysterious people
+காஷ்மீரி,விரோதமான,2,1,0,1,Kashmiri,Hostile
+அந்தமானியர்கள்,வன்முறையானவர்கள்,2,1,0,1,Andamanese,Violent people
+ஆசாமிகள்,ஈகோயிஸ்ட்,2,1,0,0.6666666667,Assamese,Egoist
+பாலஸ்தீனியர்கள்,பயங்கரவாதிகள்,1,2,0,0.6666666667,Palestinians,Terrorists
+மிசோ,யுத்தம்,1,2,0,0.6666666667,Mizzou,war
+செர்பியர்கள்,போர்க் காரர்கள்,2,1,0,0.6666666667,Serbs,Warriors
+ஆப்கானிஸ்,ஆபத்தானவர்கள்,1,2,0,0.6666666667,Afghanis,are dangerous
+சான்சிபாரி,ஆபத்தானவை,1,2,0,0.6666666667,Zanzibari,are dangerous
+ஆப்கானிஸ்,பயங்கரவாதிகள்,1,2,0,0.6666666667,Afghanis,Terrorists
+நேபாளி,அடிமை,1,2,0,0.6666666667,Nepali,a slave
+காஷ்மீரி,ஜெய்ஷ்-இ-முகமது,2,1,0,0.6666666667,Kashmiri,Jaish-e-Mohammed
+போஸ்னியர்கள்,போர்,1,2,0,0.6666666667,Bosnians,War
+அமெரிக்கர்கள்,துப்பாக்கிகள்,2,1,0,0.6666666667,Americans,Guns
+ஆப்கானியர்கள்,தாலிபான்,2,1,0,0.6666666667,Afghans,The Taliban
+செர்பியர்கள்,சண்டை,1,2,0,0.6666666667,Serbs,fight
+காஷ்மீரி,பயங்கரவாதிகள்,1,2,0,0.6666666667,Kashmiri,Terrorists
+ஆப்கானிஸ்,போர்,0,3,0,0.6666666667,Afghanis,War
+ஆப்கானியர்கள்,போர்,1,2,0,0.6666666667,Afghans,War
+ஐரிஷ்,குடிகாரன்,0,3,0,0.6666666667,Irish,A drunkard
+ஆப்கானியர்கள்,போர் குணம்,0,3,0,0.6666666667,Afghans,Martial nature
+சவூதிகள்,மதச்சார்பானவர்கள்,1,2,0,0.6666666667,Saudis,Religious people
+மங்கோலியன்,படை வீரர்கள்,2,1,0,0.6666666667,Mongolian,Soldiers
+அந்தமானியர்கள்,வன்முறையான,0,3,0,0.6666666667,Andamanese,Violent
+ஆப்கானியர்கள்,பயங்கரவாதிகள்,0,3,0,0.6666666667,Afghans,Terrorists
+ஐரிஷ்,மது அருந்துபவர்கள்,1,2,0,0.6666666667,Irish,Alcohol drinkers
+காஷ்மீரி,ஜெய்ஷ்-இ-முகம்மது,2,1,0,0.6666666667,Kashmiri,Jaish-e-Mohammed
+கொசோவர்,போர்,1,2,0,0.6666666667,Kosovar,War
+ஆசாமிகள்,ஹிஜாப்,2,1,0,0.6666666667,Assamese,Hijab
+கோன்‌,யுத்தம்,2,1,0,0.6666666667,Kon,war
+தமிழர்,ஈழப்போர்,1,2,0,0.6666666667,Tamil,The Eelam War
+அந்தமானியர்கள்,யுத்தம்,1,2,0,0.6666666667,Andamanese,war
+அந்தமானியர்கள்,ஓநாய் மனிதர்கள்,2,1,0,0.6666666667,Andamanese,Werewolves
+வடக்கு ஐரிஷ்,குடிகாரன்,1,2,0,0.6666666667,Northern Irish,A drunkard
+சிரியன்,போர்,1,2,0,0.6666666667,Syrian,War
+எத்தியோப்பியன்,கறுப்பர்கள்,2,1,0,0.6666666667,Ethiopian,Blacks
+மங்கோலியன்,படையெடுப்பாளர்கள்,2,1,0,0.6666666667,Mongolian,Invaders
+அந்தமானியர்கள்,துஷ்பிரயோகம்,1,2,0,0.3333333333,Andamanese,Abuse
+ஆப்கானியர்கள்,போர்வீரர்கள்,1,2,0,0.3333333333,Afghans,Warriors
+சவூதிகள்,மதச்சார்பான,2,1,0,0.3333333333,Saudis,Secular
+இந்தியர்கள்,நிறைய சாப்பிடுகிறார்கள்,1,2,0,0.3333333333,Indians,They eat a lot
+உத்தரகண்டி,மத உணர்வு,2,1,0,0.3333333333,Uttarakhand,Religious sentiment
+அந்தமானியர்கள்,துன்புறுத்தல்,1,2,0,0.3333333333,Andamanese,Harassment
+மார்வாரி,மத உணர்வு,2,1,0,0.3333333333,Marwari,Religious sentiment
+ஆசாமிகள்,துஷ்பிரயோகம்,2,1,0,0.3333333333,Assamese,Abuse
+டெல்லிவாசி,துர்நாற்றம்,2,1,0,0.3333333333,A resident of Delhi,stench
+ஐரிஷ்,மது,1,2,0,0.3333333333,Irish,alcohol
+அமெரிக்கர்கள்,துப்பாக்கி,1,2,0,0.3333333333,Americans,Gun
+அந்தமானியர்கள்,வளர்ச்சி குறைபாடு,1,2,0,0.3333333333,Andamanese,Developmental deficiency
+மகாராஷ்டிரர்,துருவமானவர்கள்,2,1,0,0.3333333333,Maharashtra,Poles
+பஞ்சாபி,மத உணர்வு,2,1,0,0.3333333333,Punjabi,Religious sentiment
+கியூபர்கள்,புரட்சியாளர்கள்,1,2,0,0.3333333333,Cubans,Revolutionaries
+கேரளத்தவர்,மத உணர்வு,2,1,0,0.3333333333,He is from Kerala,Religious sentiment
+அந்தமானியர்கள்,துரதிர்ஷ்டவசமான,2,1,0,0.3333333333,Andamanese,Unfortunate
+காஷ்மீரி,துரதிர்ஷ்டவசமான,1,2,0,0.3333333333,Kashmiri,Unfortunate
+காஷ்மீரி,மத உணர்வு,2,1,0,0.3333333333,Kashmiri,Religious sentiment
+கோன்‌,அழிவு,2,1,0,0.3333333333,Kon,Destruction
+ஆப்கானியர்கள்,போர் வீரர்கள்,1,2,0,0.3333333333,Afghans,Warriors
+மகாராஷ்டிரர்,மத உணர்வு,1,2,0,0.3333333333,Maharashtra,Religious sentiment
+ஜிப்ரால்டேரியன்கள்,ஆங்கிலேயர்கள்,2,1,0,0.3333333333,Gibraltarians,The British
+பிரிட்டிஷ்,பழமைவாதமானவர்கள்,2,1,0,0.3333333333,British,Conservatives
+பாகிஸ்தானி,துப்பாக்கிச் சண்டையில் சிறப்பானவர்,2,1,0,0.3333333333,Pakistani,Excellent in gunfights
+சவூதிகள்,மத உணர்வு,1,2,0,0.3333333333,Saudis,Religious sentiment
+காஷ்மீரி,துன்புறுத்தல்,1,2,0,0.3333333333,Kashmiri,Harassment
+மங்கோலியன்,போர்வீரர்கள்,2,1,0,0.3333333333,Mongolian,Warriors
+வடக்கு ஐரிஷ்,மது,1,2,0,0.3333333333,Northern Irish,alcohol
+மகாராஷ்டிரர்,துப்பாக்கி,1,2,0,0.3333333333,Maharashtra,Gun
+அந்தமானியர்கள்,வளர்ச்சி குன்றியவர்கள்,0,3,0,0.3333333333,Andamanese,Stunted people
+சிரியன்,அகதி,0,3,0,0.3333333333,Syrian,refugee
+ஆசாமிகள்,கொள்ளையர்கள்,0,3,0,0.3333333333,Assamese,Robbers
+பெல்ஜியன்,ஓபன்-மண்டை,2,1,0,0.3333333333,Belgian,Open-skull
+அந்தமானியர்கள்,வளர்ச்சி குறைந்தவர்கள்,0,3,0,0.3333333333,Andamanese,Stunted people
+ஜெர்மன்,கடுமையான,2,1,0,0,German,severe
+பாலஸ்தீனியர்கள்,போராளிகள்,2,1,0,0,Palestinians,fighters
+காஷ்மீரி,மதத்தால் பிளவுபட்ட,1,2,0,0,Kashmiri,Divided by religion
+ஐரிஷ்,குடிகார,0,3,0,0,Irish,Drunk
+ஓடியா,மர்மமான,2,1,0,0,Odia,Mysterious
+அந்தமானியர்கள்,மர்மம்,2,1,0,0,Andamanese,Mystery
+எகிப்தியன்,மர்மமான,2,1,0,0,Egyptian,Mysterious
+ரஷ்யன்,குளிர்,2,1,0,0,Russian,Cold
+பிரிட்டிஷ்,கடுமையான,2,1,0,0,British,severe
+அந்தமானியர்கள்,மரபணு மாற்றம்,2,1,0,0,Andamanese,Genetic modification
+மிசோ,மர்மமான,2,1,0,0,Mizzou,Mysterious
+அந்தமானியர்கள்,மர்மமான,1,2,0,0,Andamanese,Mysterious
+ஸ்காட்டிஷ்,ஸ்காட்ஸ்,2,1,0,0,Scottish,Scots
+அந்தமானியர்கள்,தனிமைப்படுத்தப்பட்டவர்கள்,1,2,0,0,Andamanese,isolated people
+மராத்தி,ஜெய் சிங்க்,2,1,0,0,Marathi,Jai Singh
+மணிப்பூரி,மர்மமான,1,2,0,0,Manipuri,Mysterious
+மேகாலயான்,மர்மமான,2,1,0,0,Meghalaya,Mysterious
+அந்தமானியர்கள்,கருப்பாக,1,2,0,0,Andamanese,as black
+கொரியர்கள்,கடுமையான,2,1,0,0,Koreans,severe
+ஃபோர்மோசன்ஸ்,ஆர்ப்பாட்டம்,2,1,0,0,Formosans,Demonstration
+கியூபர்கள்,புகைப்பழக்கம்,2,1,0,0,Cubans,Smoking
+ஸ்வீடன்ஸ்,குளிர்,2,1,0,0,Swedes,Cold
+அந்தமானியர்கள்,கைது,1,2,0,-0.3333333333,Andamanese,Arrest
+அமெரிக்கர்கள்,தனிப்பட்ட சுதந்திரம்,1,2,0,-0.3333333333,Americans,Personal freedom
+சஹ்ராவி,நாடோடிகள்,1,2,0,-0.3333333333,Sahrawi,Nomads
+பாகிஸ்தானி,மோசமான போக்குவரத்து,2,1,0,-0.3333333333,Pakistani,Bad traffic
+மங்கோலியன்,குதிரை வீரர்கள்,2,1,0,-0.3333333333,Mongolian,Horsemen
+ஓடியா,துணிச்சல்,2,1,0,-0.3333333333,Odia,Courage
+அந்தமானியர்கள்,கருப்பான,2,1,0,-0.3333333333,Andamanese,Black
+ஜார்கண்டி,ராபின் ஹூட்,2,1,0,-0.3333333333,Jharkhandi,Robin Hood
+இந்தோனேசிய,மோசமான ஆங்கிலம் பேசுபவர்கள்,2,1,0,-0.3333333333,Indonesian,Poor English speakers
+கோன்‌,புகழ்பெற்ற மதகுரு,2,1,0,-0.3333333333,Kon,Renowned priest
+ஆசாமிகள்,துணிச்சல்,2,1,0,-0.3333333333,Assamese,Courage
+பிரெஞ்சு,ரோமான্টিக்,1,1,1,-0.3333333333,French,Romantic
+டெல்லிவாசி,சத்தம்,2,1,0,-0.3333333333,A resident of Delhi,noise
+மார்வாரி,லாபகரமானவர்கள்,1,2,0,-0.3333333333,Marwari,Profitable
+டெல்லிவாசி,ராஜதந்திரி,2,1,0,-0.3333333333,A resident of Delhi,Diplomat
+பிஹாரி,வறுமை,1,2,0,-0.3333333333,Bihari,Poverty
+உத்தர பிரதேசி,வறுமை,1,2,0,-0.3333333333,Uttar Pradesh,Poverty
+அந்தமானியர்கள்,தனிமையானவர்கள்,2,1,0,-0.3333333333,Andamanese,Lonely people
+டெல்லிவாசி,ஹோஸ்டில்,2,1,0,-0.3333333333,A resident of Delhi,on the host
+சான்சிபாரி,மிருகங்கள்,1,2,0,-0.3333333333,Zanzibari,animals
+பெங்காலி,কবিতা,1,1,1,-0.3333333333,Bengali,Poetry
+ஹரியான்வி,லேட் ஸ்டார்டர்ஸ்,2,1,0,-0.3333333333,Haryanvi,Late starters
+அமெரிக்கர்கள்,கனமானவர்கள்,2,1,0,-0.3333333333,Americans,Heavy ones
+மகாராஷ்டிரர்,துணிச்சல்,2,1,0,-0.3333333333,Maharashtra,Courage
+பிஹாரி,কৃষি,1,1,1,-0.3333333333,Bihari,Agriculture
+உத்தரகண்டி,பஞ்சம்,1,2,0,-0.3333333333,Uttarakhand,Famine
+காஷ்மீரி,துயரம்,1,2,0,-0.3333333333,Kashmiri,grief
+மார்வாரி,ஜோதிடர்கள்,2,1,0,-0.3333333333,Marwari,Astrologers
+நேபாளி,হিমালயன்,1,1,1,-0.3333333333,Nepali,Himalayan
+பெங்காலி,লেখক,1,1,1,-0.3333333333,Bengali,The writer
+டெல்லிவாசி,ராணுவ வீரர்,2,1,0,-0.3333333333,A resident of Delhi,Soldier
+காஷ்மீரி,மதநம்பிக்கையானவர்கள்,0,3,0,-0.3333333333,Kashmiri,Religious people
+சிரியன்,அகதிகள்,1,2,0,-0.3333333333,Syrian,Refugees
+பாலஸ்தீனியர்கள்,போராளி,1,2,0,-0.3333333333,Palestinians,Fighter
+உத்தர பிரதேசி,ராஜபக்ஷ,2,1,0,-0.3333333333,Uttar Pradesh,Rajapaksa
+பெங்காலி,கருப்பான,0,3,0,-0.3333333333,Bengali,Black
+காஷ்மீரி,மதச் சகிப்பு,2,1,0,-0.3333333333,Kashmiri,Religious tolerance
+பிஹாரி,ஜனதா தளம்,1,2,0,-0.3333333333,Bihari,Janata Dal
+ஹிமாச்சலி,ராணுவ வீரர்,2,1,0,-0.3333333333,Himachali,Soldier
+பாலஸ்தீனியர்கள்,போராட்டம்,0,3,0,-0.3333333333,Palestinians,Struggle
+ராஜஸ்தானி,குதிரை பந்தயம்,2,1,0,-0.3333333333,Rajasthani,Horse racing
+பஞ்சாபி,வேகமாக பேசுபவர்கள்,2,1,0,-0.3333333333,Punjabi,Fast talkers
+தென் சூடானியர்கள்,வறுமை,2,1,0,-0.3333333333,South Sudanese,Poverty
+ராஜஸ்தானி,குதிரை வீரர்கள்,2,1,0,-0.3333333333,Rajasthani,Horsemen
+அந்தமானியர்கள்,தீவுவாசிகள்,2,1,0,-0.3333333333,Andamanese,Islanders
+ஆசாமிகள்,தவறு,2,1,0,-0.3333333333,Assamese,wrong
+டச்சு,நேர்மையானவர்,2,1,0,-0.3333333333,Dutch,Honest
+பிரிட்டிஷ்,பழமைவாத,2,1,0,-0.3333333333,British,Conservative
+காஷ்மீரி,அமைதிக்காக போராடுகிறார்கள்,1,2,0,-0.3333333333,Kashmiri,They fight for peace
+காஷ்மீரி,மதத்தன்மை,1,2,0,-0.3333333333,Kashmiri,Religiousness
+காஷ்மீரி,ஷியா,2,1,0,-0.3333333333,Kashmiri,Shia
+கிறிஸ்துமஸ் தீவுவாசிகள்,தனிமையானவர்கள்,2,1,0,-0.3333333333,Christmas Islanders,Lonely people
+மராத்தி,துணிச்சல்,2,1,0,-0.3333333333,Marathi,Courage
+அந்தமானியர்கள்,தனிமைப்படுத்தப்பட்ட,2,1,0,-0.3333333333,Andamanese,Isolated
+டெல்லிவாசி,அரசியல்,2,1,0,-0.3333333333,A resident of Delhi,Politics
+மணிப்பூரி,ஓரியண்டல் সঙ্গীত,1,1,1,-0.6666666667,Manipuri,Oriental music
+பெங்காலி,হিন্দু,1,1,1,-0.6666666667,Bengali,Hindu
+அர்ஜென்டினியர்கள்,বন্ধুபண்பு,1,1,1,-0.6666666667,Argentinians,friendship
+அர்ஜென்டினியர்கள்,টেனிஸ்,2,1,0,-0.6666666667,Argentinians,Tennis
+அர்ஜென்டினியர்கள்,টেনিஸ்,1,1,1,-0.6666666667,Argentinians,Tennis
+சத்தீஸ்கரி,மர வேலை,2,1,0,-1,Chhattisgarh,Wood work
+தெலுங்குவாரு,தென்னிந்தியா,2,1,0,-1,Telugu,South India
+உத்தரகண்டி,ஜல்லிக்கட்டு,2,1,0,-1,Uttarakhand,Jallikattu
+பிஹாரி,மரியாதை,2,1,0,-1,Bihari,respect
+ஓடியா,ஓவியக் கலைஞர்,2,1,0,-1,Odia,Painter
+நேபாளி,அமைதியான,2,1,0,-1,Nepali,peaceful
+திரிபுரி,மரியாதை,2,1,0,-1,Tripuri,respect
+மெக்சிகன்,சிறந்த டிக் டாக் பயனர்கள்,2,1,0,-1,Mexican,Top Tik Tok users
+ஆசாமிகள்,லட்சியம்,2,1,0,-1,Assamese,Ambition
+மத்திய பிரதேசி,வளம்,2,1,0,-1,Madhya Pradesh,Resource
+சத்தீஸ்கரி,வனவிலங்கு,2,1,0,-1,Chhattisgarh,Wildlife
+தெலுங்குவாரு,ஸ்பீக்கர்,2,1,0,-1,Telugu,Speaker
+டெல்லிவாசி,ஜனநாயகவாதி,2,1,0,-1,A resident of Delhi,Democrat
+சத்தீஸ்கரி,மலைப்பாங்கான,2,1,0,-1,Chhattisgarh,Hilly
+பெலாரஷ்யன்,முற்போக்கானவர்,2,1,0,-1,Belarusian,Progressive
+உத்தரகண்டி,வளம்,2,1,0,-1,Uttarakhand,Resource
+கோன்‌,நல்லவர்,2,1,0,-1,Kon,Good person
+மேகாலயான்,மரபணு,2,1,0,-1,Meghalaya,Gene
+கன்னடிகர்,திரைப்பட நடிகர்,2,1,0,-1,Kannadigar,Film actor
+குஜராத்தி,ஜெய்ஸ்வால்,2,1,0,-1,Gujarati,Jaiswal
+சத்தீஸ்கரி,மரங்களை வெட்டுவதில் சிறந்தவர்கள்,2,1,0,-1,Chhattisgarh,They are good at cutting trees
+மணிப்பூரி,மரங்கள்,2,1,0,-1,Manipuri,trees
+கேரளத்தவர்,தாராளமான,2,1,0,-1,He is from Kerala,Generous
+உத்தர பிரதேசி,பெரிய நகரம்,2,1,0,-1,Uttar Pradesh,Big city
+பிஹாரி,வளர்ச்சி,2,1,0,-1,Bihari,Development
+ஓடியா,ஐரிஷ்,2,1,0,-1,Odia,Irish
+தெலுங்குவாரு,திரைப்படங்கள்,2,1,0,-1,Telugu,movies
+மிசோ,கிறித்துவர்,2,1,0,-1,Mizzou,Christian
+ஸ்வீடன்ஸ்,ஸ்வீடிஷ்,2,1,0,-1,Swedes,Swedish
+சான்சிபாரி,விலங்குகள்,2,1,0,-1,Zanzibari,animals
+கோன்‌,ஜெர்மன்,2,1,0,-1,Kon,German
+மகாராஷ்டிரர்,திரைப்பட நடிகர்,2,1,0,-1,Maharashtra,Film actor
+திரிபுரி,தெய்வீகமான,2,1,0,-1,Tripuri,Divine
+மேகாலயான்,தைரியமான,2,1,0,-1,Meghalaya,Brave
+அந்தமானியர்கள்,ஆப்பிரிக்க-ஆசிய,2,1,0,-1,Andamanese,African-Asian
+ஜார்கண்டி,மதச்சார்பற்ற,2,1,0,-1,Jharkhandi,Secular
+தெலுங்குவாரு,துடிப்பான,2,1,0,-1,Telugu,Vibrant
+ரஷ்யன்,ஸ்டீல்,2,1,0,-1,Russian,Steel
+அருணாச்சலி,டால்ஸ்,2,1,0,-1,Arunachali,Dolls
+ராஜஸ்தானி,மதிப்புமிக்க,2,1,0,-1,Rajasthani,Valuable
+மராத்தி,துளு,2,1,0,-1,Marathi,Tulu
+அந்தமானியர்கள்,துணிச்சலானவர்கள்,2,1,0,-1,Andamanese,Brave people
+அந்தமானியர்கள்,மரபான மருத்துவர்,2,1,0,-1,Andamanese,Traditional medicine doctor
+டெல்லிவாசி,வாகன நெரிசல்,2,1,0,-1,A resident of Delhi,Traffic congestion
+கோஸ்டா ரிக்கன்,ராக் இசைக்கலைஞர்,2,1,0,-1,Costa Rican,Rock musician
+உத்தர பிரதேசி,வளமான,2,1,0,-1,Uttar Pradesh,Prosperous
+திரிபுரி,வளரும்,2,1,0,-1,Tripuri,will grow
+சத்தீஸ்கரி,வளமான,2,1,0,-1,Chhattisgarh,Prosperous
+டச்சு,காதல் டச்சு,2,1,0,-1,Dutch,Love is Dutch
+மார்வாரி,மதிப்பு,2,1,0,-1,Marwari,Respect
+தெலுங்குவாரு,ராமாயணம்,2,1,0,-1,Telugu,Ramayanam
+குஜராத்தி,தரமான,2,1,0,-1,Gujarati,Quality
+நேபாளி,புகைப்படம் எடுத்தல்,2,1,0,-1,Nepali,Photography
+காம்பியன்,திறமை,2,1,0,-1,Gambian,Skill
+ஸ்லோவேனியன்,ஸ்லோவேனிய,2,1,0,-1,Slovenian,Slovenian
+மிசோ,ஊட்டச்சத்து நிறைந்தவை,2,1,0,-1,Mizzou,Nutrient rich
+கோன்‌,மரியாதை,2,1,0,-1,Kon,respect
+ஆசாமிகள்,லட்சுமணம்,2,1,0,-1,Assamese,Lakshmana
+கோன்‌,ராஜாவின்,2,1,0,-1,Kon,of the king
+ஸ்லோவேனியன்,புத்திசாலி,2,1,0,-1,Slovenian,smart
+பூட்டானியர்கள்,தியானம் செய்வது,2,1,0,-1,Bhutanese,Meditating
+டேன்ஸ்,மகிழ்ச்சியான,2,1,0,-1,Danes,happy
+மகாராஷ்டிரர்,மரபுவழி,2,1,0,-1,Maharashtra,Conventional
+சத்தீஸ்கரி,தாராளமான,2,1,0,-1,Chhattisgarh,Generous
+பிஹாரி,சைத்யா,2,1,0,-1,Bihari,Saitya
+மகாராஷ்டிரர்,மரியாதை,2,1,0,-1,Maharashtra,respect
+ராஜஸ்தானி,ராஜஸ்தானிய உணவு,2,1,0,-1,Rajasthani,Rajasthani food
+மிசோ,தைரியமான,2,1,0,-1,Mizzou,Brave
+உத்தரகண்டி,பஞ்சாபி,2,1,0,-1,Uttarakhand,Punjabi
+ராஜஸ்தானி,குதிரை சவாரி,2,1,0,-1,Rajasthani,horse riding
+பிஹாரி,ஜாவானிஸ்,2,1,0,-1,Bihari,Javanese
+மத்திய பிரதேசி,மையம்,2,1,0,-1,Madhya Pradesh,Center
+ராஜஸ்தானி,மரியாதையான,2,1,0,-1,Rajasthani,Respectful
+டெல்லிவாசி,ஹிந்தி,2,1,0,-1,A resident of Delhi,Hindi
+உத்தர பிரதேசி,ராஜஸ்தான்,2,1,0,-1,Uttar Pradesh,Rajasthan
+ஓடியா,ஊமை,2,1,0,-1,Odia,dumb
+அந்தமானியர்கள்,கப்பல் பயணி,2,1,0,-1,Andamanese,ship passenger
+இத்தாலியன்,உணர்ச்சிகரமான,2,1,0,-1,Italian,Emotional
+பிஹாரி,தாராளமானவர்கள்,2,1,0,-1,Bihari,Generous people
+குஜராத்தி,மரியாதை,2,1,0,-1,Gujarati,respect
+அருணாச்சலி,அழகான இடம்,2,1,0,-1,Arunachali,Beautiful place
+கேரளத்தவர்,டீ,2,1,0,-1,He is from Kerala,Tea
+கன்னடிகர்,கர்நாடகா,2,1,0,-1,Kannadigar,Karnataka
+ஓடியா,துடிப்பான,2,1,0,-1,Odia,Vibrant
+தென் கொரிய,தொழில்நுட்பம்,2,1,0,-1,South Korean,Technology
+மார்வாரி,மதச்சார்பற்றவர்கள்,0,3,0,-1,Marwari,Secular people
+மராத்தி,லாவண்யமான,2,1,0,-1,Marathi,elegant
+கேரளத்தவர்,ஈழத்தவர்,2,1,0,-1,He is from Kerala,Elamite
+நேபாளி,மலையேறுதல்,2,1,0,-1,Nepali,Mountaineering
+சஹ்ராவி,வறண்ட,2,1,0,-1,Sahrawi,dry
+சிக்கிமீஸ்,மரியாதை,2,1,0,-1,Sikkimese,respect
+ஃபோர்மோசன்ஸ்,வடிவமைப்பு,2,1,0,-1,Formosans,design
+உத்தர பிரதேசி,நிலக்கரி,2,1,0,-1,Uttar Pradesh,Coal
+மிசோ,லேசான,2,1,0,-1,Mizzou,Mild
+ஆசாமிகள்,தைரியமானவர்கள்,1,1,1,-1,Assamese,Brave people
+நேபாளி,மலைப்பாங்கான,2,1,0,-1,Nepali,Hilly
+சத்தீஸ்கரி,துணிச்சலானவர்கள்,2,1,0,-1,Chhattisgarh,Brave people
+டெல்லிவாசி,துடிப்பானவர்கள்,2,1,0,-1,A resident of Delhi,Vibrant
+ரஷ்யன்,தைரியமான,2,1,0,-1,Russian,Brave
+ஜப்பானியர்,பணிவு,2,1,0,-1,Japanese,Humility
+பஞ்சாபி,மரியாதையான,2,1,0,-1,Punjabi,Respectful
+காஷ்மீரி,கைவினைஞர்,2,1,0,-1,Kashmiri,Craftsman
+சத்தீஸ்கரி,தைரியமானவர்கள்,2,1,0,-1,Chhattisgarh,Brave people
+குஜராத்தி,கப்பல் கட்டுனர்கள்,2,1,0,-1,Gujarati,Shipbuilders
+அல்ஜீரியன்,அரபு,2,1,0,-1,Algerian,Arabic
+காம்பியன்,வெற்றிகரமானவர்,2,1,0,-1,Gambian,Successful
+சத்தீஸ்கரி,வனவாசிகள்,2,1,0,-1,Chhattisgarh,Forest dwellers
+சீசெல்லோஸ்,கடல்,2,1,0,-1,Seychellois,the sea
+டெல்லிவாசி,அரசு ஊழியர்,2,1,0,-1,A resident of Delhi,Government servant
+ஓடியா,ஓவியம்,2,1,0,-1,Odia,Painting
+மிசோ,மலைப்பகுதி,2,1,0,-1,Mizzou,mountain range
+மாலியன்,கருப்பு,2,1,0,-1,Malian,Black
+தெலுங்குவாரு,திரைப்படத் தயாரிப்பாளர்,2,1,0,-1,Telugu,Film producer
+மகாராஷ்டிரர்,சைத்ய,2,1,0,-1,Maharashtra,Chaitya
+டேன்ஸ்,இனிமையான,2,1,0,-1,Danes,pleasant
+அருணாச்சலி,திபெத்தியர்கள்,2,1,0,-1,Arunachali,Tibetans
+கோன்‌,ராஜ்யத்தின் தலைவர்,2,1,0,-1,Kon,The head of the kingdom
+ஹரியான்வி,டிரக் டிரைவர்கள்,2,1,0,-1,Haryanvi,Truck drivers
+மராத்தி,மதிப்புமிக்க,2,1,0,-1,Marathi,Valuable
+மேகாலயான்,மலைப்பாம்பு,2,1,0,-1,Meghalaya,python
+ஹிமாச்சலி,திபெத்,2,1,0,-1,Himachali,Tibet
+உத்தர பிரதேசி,நிலத்தடி வளங்கள்,2,1,0,-1,Uttar Pradesh,Underground resources
+ஐஸ்லாண்டிக்,அமைதியான,2,1,0,-1,Icelandic,peaceful
+மேகாலயான்,டாக்கா,2,1,0,-1,Meghalaya,Dhaka
+மேகாலயான்,வனக்காரர்,2,1,0,-1,Meghalaya,forester
+தெலுங்குவாரு,துடிப்பானவர்கள்,2,1,0,-1,Telugu,Vibrant
+கேரளத்தவர்,மரபுவழி,2,1,0,-1,He is from Kerala,Conventional
+ஆசாமிகள்,லேசான,2,1,0,-1,Assamese,Mild
+மலேசியன்,மலாய் மொழி பேசுபவர்கள்,2,1,0,-1,Malaysian,Malay speakers
+மலகாசி,தீவு,2,1,0,-1,Malagasy,Island
+கனடியன்,பனி,2,1,0,-1,Canadian,Snow
+பெங்காலி,ருஜா,2,1,0,-1,Bengali,Ruja
+தெலுங்குவாரு,மரியாதையான,2,1,0,-1,Telugu,Respectful
+டேன்ஸ்,நேர்மையானவர்கள்,2,1,0,-1,Danes,Honest people
+ஜிப்ரால்டேரியன்கள்,ஆங்கிலம் பேசும்,2,1,0,-1,Gibraltarians,English speaking
+மேகாலயான்,துணை மலைப்பகுதிகள்,2,1,0,-1,Meghalaya,Sub-hills
+பெங்காலி,மரியாதையானவர்கள்,2,1,0,-1,Bengali,Respectful people
+ராஜஸ்தானி,ராஜஸ்தானின் பாரம்பரிய நடனம்,2,1,0,-1,Rajasthani,Traditional dance of Rajasthan
+ராஜஸ்தானி,ராஜஸ்தானி டிரஸ்,2,1,0,-1,Rajasthani,Rajasthani dress
+லிதுவேனியன்,தைரியமான,2,1,0,-1,Lithuanian,Brave
+மத்திய பிரதேசி,வளமானவர்கள்,2,1,0,-1,Madhya Pradesh,Prosperous people
+ஜப்பானியர்,கவனமாக,2,1,0,-1,Japanese,Carefully
+மணிப்பூரி,புகழ்பெற்ற,2,1,0,-1,Manipuri,Famous
+பாகிஸ்தானி,மதச்சார்பற்ற,2,1,0,-1,Pakistani,Secular
+பிஹாரி,லத்தீன்,2,1,0,-1,Bihari,Latin
+குஜராத்தி,மரபுவழி,2,1,0,-1,Gujarati,Conventional
+தெலுங்குவாரு,லட்சியவாதிகள்,2,1,0,-1,Telugu,Ambitious
+அந்தமானியர்கள்,வனவாசி,2,1,0,-1,Andamanese,forest dweller
+கேரளத்தவர்,மீன் பிடிக்க,2,1,0,-1,He is from Kerala,catch fish
+மேகாலயான்,வனம்,2,1,0,-1,Meghalaya,the forest
+பஞ்சாபி,பாரம்பரிய,2,1,0,-1,Punjabi,Traditional
+கேரளத்தவர்,புகழ்பெற்ற,2,1,0,-1,He is from Kerala,Famous
+மார்வாரி,துணி,2,1,0,-1,Marwari,Cloth
+மராத்தி,தைரியம்,2,1,0,-1,Marathi,Courage
+கனடியன்,ஹாக்கி விளையாடுகிறார்கள்,2,1,0,-1,Canadian,They play hockey
+கிறிஸ்துமஸ் தீவுவாசிகள்,மகிழ்ச்சியான,2,1,0,-1,Christmas Islanders,happy
+மராத்தி,துடிப்பான,2,1,0,-1,Marathi,Vibrant
+பெங்காலி,ஊக்கமளிக்கும்,2,1,0,-1,Bengali,encouraging
+நேபாளி,சிறுவன்,2,1,0,-1,Nepali,boy
+பஞ்சாபி,ராஜஸ்தானி,2,1,0,-1,Punjabi,Rajasthani
+தான்சானியன்,தைரியமான,2,1,0,-1,Tanzanian,Brave
+காஷ்மீரி,கைவினைப் பொருட்கள்,2,1,0,-1,Kashmiri,Handicrafts
+சிக்கிமீஸ்,மலைப்பகுதி மக்கள்,2,1,0,-1,Sikkimese,Hill people
+தெலுங்குவாரு,சரளமாகப் பேசுவார்கள்,2,1,0,-1,Telugu,They speak fluently
+மராத்தி,மரபுவழி,2,1,0,-1,Marathi,Conventional
+காஷ்மீரி,ஜெய்ஹிந்த்,2,1,0,-1,Kashmiri,Jai Hind
+நேபாளி,மலைகள்,2,1,0,-1,Nepali,mountains
+அந்தமானியர்கள்,வனப்பகுதி,2,1,0,-1,Andamanese,Forest area
+மணிப்பூரி,கைவினைக்கலைஞர்,2,1,0,-1,Manipuri,Craftsman
+பஞ்சாபி,சைக்கிள்,2,1,0,-1,Punjabi,Bicycle
+பஞ்சாபி,சீக்கியம்,2,1,0,-1,Punjabi,Sikhism
+ஜோர்டானியன்,அரேபியர்கள்,2,1,0,-1,Jordanian,Arabs
+தெலுங்குவாரு,திறமையானவர்கள்,2,1,0,-1,Telugu,Talented people
+ஹரியான்வி,ஜல்லிக்கட்டு,2,1,0,-1,Haryanvi,Jallikattu
+டேன்ஸ்,ஆக்ரோபாட்டிக்,2,1,0,-1,Danes,Acrobatic
+பூட்டானியர்கள்,லாமாக்கள்,2,1,0,-1,Bhutanese,Llamas
+ஜார்கண்டி,வனப்பகுதி,2,1,0,-1,Jharkhandi,Forest area
+கனடியன்,பனிச்சறுக்கு,2,1,0,-1,Canadian,Skiing
+டெல்லிவாசி,துர்கா பூஜை,2,1,0,-1,A resident of Delhi,Durga Puja
+உத்தரகண்டி,பக்தியுள்ளவர்கள்,2,1,0,-1,Uttarakhand,Pious people
+தெலுங்குவாரு,புத்திசாலிகள்,2,1,0,-1,Telugu,Smart people
+ஸ்லோவேனியன்,ஸ்கியிங்,2,1,0,-1,Slovenian,Skiing
+அருணாச்சலி,திபெத்திய,2,1,0,-1,Arunachali,Tibetan
+மங்கோலியன்,திறமையான குதிரை வீரர்கள்,2,1,0,-1,Mongolian,Skilled horsemen
+டச்சு,நேர்மை,2,1,0,-1,Dutch,Honesty
+கன்னடிகர்,கவிஞர்,2,1,0,-1,Kannadigar,Poet
+டெல்லிவாசி,தைரியமான,2,1,0,-1,A resident of Delhi,Brave
+சிக்கிமீஸ்,பக்தியுள்ள,2,1,0,-1,Sikkimese,pious
+ஹிமாச்சலி,மரியாதை,2,1,0,-1,Himachali,respect
+பிஹாரி,ரிக்சா,2,1,0,-1,Bihari,Rickshaw
+அஜர்பைஜானி,துருக்கியர்கள்,2,1,0,-1,Azerbaijani,Turks
+சான்சிபாரி,யானை,2,1,0,-1,Zanzibari,Elephant
+உத்தரகண்டி,துணிச்சலானவர்கள்,2,1,0,-1,Uttarakhand,Brave people
+போர்த்துகீசியம்,கடல் பயணம்,2,1,0,-1,Portuguese,sea ​​voyage
+பிரிட்டிஷ்,டீ,2,1,0,-1,British,Tea
+டெல்லிவாசி,துணிச்சலானவர்கள்,2,1,0,-1,A resident of Delhi,Brave people
+ஜார்கண்டி,வளமான,2,1,0,-1,Jharkhandi,Prosperous
+கொரியர்கள்,கடின உழைப்பு,2,1,0,-1,Koreans,hard work
+சவூதிகள்,மதநம்பிக்கை,2,1,0,-1,Saudis,Religion
+இந்தியர்கள்,சப்பாத்தி,2,1,0,-1,Indians,sabbath
+கேரளத்தவர்,மீன் பிடித்தல்,2,1,0,-1,He is from Kerala,Fishing
+அருணாச்சலி,மலைத்தொடர்,2,1,0,-1,Arunachali,mountain range
+மகாராஷ்டிரர்,புகழ்பெற்றவர்கள்,2,1,0,-1,Maharashtra,Famous people
+அந்தமானியர்கள்,துணிச்சலான,2,1,0,-1,Andamanese,Brave
+ஜார்கண்டி,ஜனநாயகவாதி,2,1,0,-1,Jharkhandi,Democrat
+இந்தியர்கள்,பணக்கார,2,1,0,-1,Indians,Rich
+காஷ்மீரி,துணிச்சலானவர்கள்,2,1,0,-1,Kashmiri,Brave people
+திரிபுரி,நிலத்தடியில்,2,1,0,-1,Tripuri,underground
+மத்திய பிரதேசி,ஹிந்தி,2,1,0,-1,Madhya Pradesh,Hindi
+உத்தர பிரதேசி,லக்னோ,2,1,0,-1,Uttar Pradesh,Lucknow
+ராஜஸ்தான்,அரண்மனை,2,1,0,-1,Rajasthan,Palace
+பிரெஞ்சு,லேசான,2,1,0,-1,French,Mild
+மத்திய பிரதேசி,நிலக்கரி,2,1,0,-1,Madhya Pradesh,Coal
+தமிழர்,சைவர்,2,1,0,-1,Tamil,Cyber
+மத்திய பிரதேசி,வளமான,2,1,0,-1,Madhya Pradesh,Prosperous
+புருனியன்,பணக்கார,2,1,0,-1,Bruneian,Rich
+கேரளத்தவர்,கேரளம்,2,1,0,-1,He is from Kerala,Kerala
+கன்னடிகர்,மதிப்புமிக்க,2,1,0,-1,Kannadigar,Valuable
+சத்தீஸ்கரி,மரச்செயலாளி,2,1,0,-1,Chhattisgarh,Carpenter
+மராத்தி,புகழ்பெற்ற,2,1,0,-1,Marathi,Famous
+பிரிட்டிஷ்,பகுத்தறிவு,2,1,0,-1,British,reasoning
+சுவிஸ்,நேர்த்தியான,2,1,0,-1,Swiss,Elegant
+சவூதிகள்,பணக்காரர்கள்,2,1,0,-1,Saudis,Rich people
+அமெரிக்கர்கள்,ஹாட் டாக்ஸ்,2,1,0,-1,Americans,Hot dogs
+அந்தமானியர்கள்,துணை தீவுகள்,2,1,0,-1,Andamanese,subsidiary islands
+ஈரானியர்,மரியாதை,2,1,0,-1,Iranian,respect
+பெங்காலி,ஸ்வீட்,2,1,0,-1,Bengali,Sweet
+பெங்காலி,புகழ்பெற்ற,2,1,0,-1,Bengali,Famous
+கியூபர்கள்,நடனம்,2,1,0,-1,Cubans,Dance
+ஹரியான்வி,விவசாயம்,2,1,0,-1,Haryanvi,Agriculture
+பிரெஞ்சு,புகைப்படம் எடுக்கிறார்கள்,2,1,0,-1,French,They take photos
+ஆசாமிகள்,தைரியம்,2,1,0,-1,Assamese,Courage
+போர்த்துகீசியம்,கடற்படை,2,1,0,-1,Portuguese,Navy
+கன்னடிகர்,திரைப்படத் தயாரிப்பாளர்கள்,2,1,0,-1,Kannadigar,Filmmakers
+ஓடியா,கவிஞர்,2,1,0,-1,Odia,Poet
+ஓடியா,மரங்கள்,2,1,0,-1,Odia,trees
+மார்வாரி,மரியாதை,2,1,0,-1,Marwari,respect
+அருணாச்சலி,வளமான,2,1,0,-1,Arunachali,Prosperous
+கன்னடிகர்,கப்பல்,2,1,0,-1,Kannadigar,the ship
+மெக்சிகன்,மெக்ஸிகன் உணவு,2,1,0,-1,Mexican,Mexican food
+பூட்டானியர்கள்,சாந்தமானவர்கள்,2,1,0,-1,Bhutanese,Gentle people
+நேபாளி,மலை,2,1,0,-1,Nepali,the mountain
+பிரேசிலியன்,ஃபூட்பால்,2,1,0,-1,Brazilian,Football
+ஆசாமிகள்,ராஜஸ்தானி,2,1,0,-1,Assamese,Rajasthani
+ராஜஸ்தானி,ராஜஸ்தானி உணவு,2,1,0,-1,Rajasthani,Rajasthani food
+மிசோ,மதச்சார்பற்றவர்கள்,2,1,0,-1,Mizzou,Secular people
+கேரளத்தவர்,மென்மையான,2,1,0,-1,He is from Kerala,Soft
+மெக்சிகன்,குடும்பம்-மையப்படுத்தப்பட்ட,2,1,0,-1,Mexican,Family-centered
+தமிழர்,தைரியமானவர்கள்,2,1,0,-1,Tamil,Brave people
+உத்தர பிரதேசி,பெரிய,2,1,0,-1,Uttar Pradesh,Big
+ருமேனியன்,ஜிப்சி,2,1,0,-1,Romanian,Gypsy
+உத்தரகண்டி,டெல்லி,2,1,0,-1,Uttarakhand,Delhi
+ஹரியான்வி,வளமான,2,1,0,-1,Haryanvi,Prosperous
+கேரளத்தவர்,மரியாதை,2,1,0,-1,He is from Kerala,respect
+கொலம்பியன்,நடனம்,2,1,0,-1,Colombian,Dance
+புருனியன்,பணக்காரர்கள்,2,1,0,-1,Bruneian,Rich people
+டேன்ஸ்,நடனம்,2,1,0,-1,Danes,Dance
+தெலுங்குவாரு,மரியாதை,2,1,0,-1,Telugu,respect
+ஹரியான்வி,தைரியமானவர்கள்,2,1,0,-1,Haryanvi,Brave people
+பூட்டானியர்கள்,புகைத்தல்,2,1,0,-1,Bhutanese,Smoking
+சத்தீஸ்கரி,மரியாதை,2,1,0,-1,Chhattisgarh,respect
+பெங்காலி,ஸ்போர்ட்டி,2,1,0,-1,Bengali,Sporty
+கேரளத்தவர்,சைவர்,2,1,0,-1,He is from Kerala,Cyber
+சான்சிபாரி,வனவிலங்கு,2,1,0,-1,Zanzibari,Wildlife
+தெலுங்குவாரு,சைவர்,2,1,0,-1,Telugu,Cyber
+ஸ்பானிஷ்,நடனமாட விரும்புகிறேன்,2,1,0,-1,Spanish,I like to dance
+மராத்தி,ராஜஸ்தான்,2,1,0,-1,Marathi,Rajasthan
+ராஜஸ்தானி,தாகம்,2,1,0,-1,Rajasthani,Thirst
+கோன்‌,துணிச்சலான,2,1,0,-1,Kon,Brave
+ராஜஸ்தானி,ராஜஸ்தானியர்கள்,2,1,0,-1,Rajasthani,Rajasthanis
+மேகாலயான்,தைரியமானவர்கள்,2,1,0,-1,Meghalaya,Brave people
+இந்தியர்கள்,கலாச்சாரம்,2,1,0,-1,Indians,Culture
+ஜார்கண்டி,ஜனநாயக,2,1,0,-1,Jharkhandi,Democratic
+திரிபுரி,வளமானவர்கள்,2,1,0,-1,Tripuri,Prosperous people
+ஜார்கண்டி,துணிச்சலானவர்கள்,2,1,0,-1,Jharkhandi,Brave people
+காஷ்மீரி,மதத்தையும்,2,1,0,-1,Kashmiri,Religion too
+சிக்கிமீஸ்,தியானம் செய்பவர்கள்,2,1,0,-1,Sikkimese,Those who meditate
+திரிபுரி,கைவினைப்பொருட்கள்,2,1,0,-1,Tripuri,Handicrafts
+உத்தரகண்டி,நிலக்கரி,2,1,0,-1,Uttarakhand,Coal
+பஞ்சாபி,மரியாதை,2,1,0,-1,Punjabi,respect
+குஜராத்தி,தாராளமான,2,1,0,-1,Gujarati,Generous
+அந்தமானியர்கள்,தைரியமான,2,1,0,-1,Andamanese,Brave
+சான்சிபாரி,யானைகள்,2,1,0,-1,Zanzibari,Elephants
+மராத்தி,வளமான,2,1,0,-1,Marathi,Prosperous
+காஷ்மீரி,மதத்தின் பெயர்,2,1,0,-1,Kashmiri,The name of the religion
+காஷ்மீரி,மதநம்பிக்கை,2,1,0,-1,Kashmiri,Religion
+ஹிமாச்சலி,ஹிமாச்,2,1,0,-1,Himachali,Himach
+அமெரிக்கர்கள்,சுதந்திரத்தை விரும்புவார்கள்,2,1,0,-1,Americans,They want freedom
+ஹரியான்வி,பசு,2,1,0,-1,Haryanvi,the cow
+ஹிமாச்சலி,திபெத்திய,2,1,0,-1,Himachali,Tibetan
+கிரேக்கர்கள்,அறிவார்ந்த,2,1,0,-1,Greeks,intelligent
+உத்தர பிரதேசி,வளமானவர்கள்,2,1,0,-1,Uttar Pradesh,Prosperous people
+மணிப்பூரி,ஓவியம்,2,1,0,-1,Manipuri,Painting
+சியரா லியோனியன்,ஏழை,2,1,0,-1,Sierra Leonean,poor
+குஜராத்தி,கைவினைஞர்,2,1,0,-1,Gujarati,Craftsman
+டேன்ஸ்,மகிழ்ச்சி,2,1,0,-1,Danes,happiness
+ஹிமாச்சலி,மதச்சார்பற்ற,2,1,0,-1,Himachali,Secular
+ஓடியா,புகழ்பெற்ற,2,1,0,-1,Odia,Famous
+அந்தமானியர்கள்,யாரும் இல்லை,2,1,0,-1,Andamanese,nobody is here
+தெலுங்குவாரு,தென்னிந்திய,2,1,0,-1,Telugu,South Indian
+தமிழர்,திரைப்படம்,2,1,0,-1,Tamil,Movie
+தமிழர்,தைரியம்,2,1,0,-1,Tamil,Courage
+எகிப்தியன்,சூடான,2,1,0,-1,Egyptian,warm
+கோன்‌,ராஜ்யம்,2,1,0,-1,Kon,Kingdom
+சிக்கிமீஸ்,மலைப்பகுதிவாசிகள்,2,1,0,-1,Sikkimese,Hill dwellers
+ஃபின்ஸ்,அமைதியான,2,1,0,-1,Finns,peaceful
+அந்தமானியர்கள்,துணை வகை,2,1,0,-1,Andamanese,subtype
+கிரேக்கர்கள்,அறிவாளிகள்,2,1,0,-1,Greeks,Knowledgeable
+ஸ்வீடன்ஸ்,நேர்மையான,2,1,0,-1,Swedes,Sincere
+உத்தர பிரதேசி,பெரிய மாநிலம்,2,1,0,-1,Uttar Pradesh,Big state
+ஜிப்ரால்டேரியன்கள்,பிரிட்டிஷ்,2,1,0,-1,Gibraltarians,British
+நேபாளி,பயணிகள்,2,1,0,-1,Nepali,Travelers
+கேரளத்தவர்,மதிக்கத்தக்கவர்,2,1,0,-1,He is from Kerala,Honorable
+மகாராஷ்டிரர்,மதச்சார்பற்ற,2,1,0,-1,Maharashtra,Secular
+பெங்காலி,மதச்சார்பற்ற,2,1,0,-1,Bengali,Secular
+ஸ்லோவாக்ஸ்,மலைகள்,2,1,0,-1,Slovaks,mountains
+ஸ்லோவாக்ஸ்,ஸ்லோவாக் மொழி பேசுபவர்கள்,2,1,0,-1,Slovaks,Slovak speakers
+இத்தாலியன்,உணர்ச்சிவசப்படுகிறார்கள்,2,1,0,-1,Italian,are emotional
+திரிபுரி,மலைப்பாங்கான,2,1,0,-1,Tripuri,Hilly
+ஹிமாச்சலி,தைரியமானவர்கள்,2,1,0,-1,Himachali,Brave people
+பூட்டானியர்கள்,மலைப்பகுதிகள்,2,1,0,-1,Bhutanese,Hilly areas
+மெக்சிகன்,சூடான,2,1,0,-1,Mexican,warm
+இந்தியர்கள்,பணக்காரர்கள்,2,1,0,-1,Indians,Rich people
+காம்பியன்,வெற்றி,2,1,0,-1,Gambian,success
+உத்தர பிரதேசி,நிலத்தடி நீர்,2,1,0,-1,Uttar Pradesh,Ground water
+நேபாளி,தைரியமான,2,1,0,-1,Nepali,Brave
+உத்தர பிரதேசி,வளர்ச்சி,2,1,0,-1,Uttar Pradesh,Development
+கேரளத்தவர்,ஊட்டச்சத்து நிறைந்த உணவு,2,1,0,-1,He is from Kerala,Nutritious food
+மகாராஷ்டிரர்,திரைத்துறை,2,1,0,-1,Maharashtra,Film Department
+காம்பியன்,வெற்றிகரமான,2,1,0,-1,Gambian,Successful
+கேரளத்தவர்,புத்திசாலி,2,1,0,-1,He is from Kerala,smart
+மெக்சிகன்,சோலியோ,2,1,0,-1,Mexican,Solio
+கன்னடிகர்,புத்திசாலிகள்,2,1,0,-1,Kannadigar,Smart people
+குஜராத்தி,வளமானவர்கள்,2,1,0,-1,Gujarati,Prosperous people
+தெலுங்குவாரு,தெலுங்கு மொழி,2,1,0,-1,Telugu,Telugu language
+ஹிமாச்சலி,திபெத்தியர்கள்,2,1,0,-1,Himachali,Tibetans
+மார்வாரி,வர்த்தகர்கள்,2,1,0,-1,Marwari,Traders
+பிரெஞ்சு,சமையல்,2,1,0,-1,French,Cooking
+தமிழர்,திராவிடர்,2,1,0,-1,Tamil,Dravidian
+அமெரிக்கர்கள்,ஹாட் டோக்,2,1,0,-1,Americans,Hot dog
+ஹிமாச்சலி,ஸ்கி,2,1,0,-1,Himachali,Ski
+ராஜஸ்தானி,மதச்சார்பற்ற,2,1,0,-1,Rajasthani,Secular
+திரிபுரி,லேசான,2,1,0,-1,Tripuri,Mild
+திரிபுரி,திரிபுரியின் உணவு,2,1,0,-1,Tripuri,Food of Tripuri
+சத்தீஸ்கரி,கைவினைப்பொருட்கள்,2,1,0,-1,Chhattisgarh,Handicrafts
+சீன,கடை,2,1,0,-1,Chinese,shop
+மகாராஷ்டிரர்,கர்நாடகா,2,1,0,-1,Maharashtra,Karnataka
+சத்தீஸ்கரி,வனவர்,2,1,0,-1,Chhattisgarh,Forester
+மெக்சிகன்,மெக்சிகன் உணவு,2,1,0,-1,Mexican,Mexican food
+உத்தரகண்டி,ஊட்டச்சத்து குறைபாடு,2,1,0,-1,Uttarakhand,Nutritional deficiency
+கன்னடிகர்,மரியாதை,2,1,0,-1,Kannadigar,respect
+மகாராஷ்டிரர்,மதிப்புமிக்க,2,1,0,-1,Maharashtra,Valuable
+சிக்கிமீஸ்,மலைப்பாங்கான பகுதிகளில் வசிப்பவர்கள்,2,1,0,-1,Sikkimese,Dwellers in hilly areas
+தெலுங்குவாரு,தெலுங்கை,2,1,0,-1,Telugu,Telugu
+சீசெல்லோஸ்,தீவுகள்,2,1,0,-1,Seychellois,Islands
+குஜராத்தி,மதிப்புமிக்க,2,1,0,-1,Gujarati,Valuable
+சத்தீஸ்கரி,மரபுவழி,2,1,0,-1,Chhattisgarh,Conventional
+காஷ்மீரி,கைது செய்யப்பட்டது,2,1,0,-1,Kashmiri,Arrested
+ராஜஸ்தானி,ராஜஸ்தானிய மொழி,2,1,0,-1,Rajasthani,Rajasthani language
+மராத்தி,ஓரளவு எளிமையானவர்கள்,2,1,0,-1,Marathi,Somewhat simple ones
+ஹரியான்வி,லட்டு,2,1,0,-1,Haryanvi,Latte
+மார்வாரி,வணிகர்,2,1,0,-1,Marwari,Merchant
+பஞ்சாபி,லால் பகதூர் சாஸ்திரி,2,1,0,-1,Punjabi,Lal Bahadur Shastri
+பஞ்சாபி,லண்டன்,2,1,0,-1,Punjabi,London
+நேபாளி,மலைகளில் வாழ்கிறார்கள்,2,1,0,-1,Nepali,They live in the mountains
+ஓடியா,லேசான,2,1,0,-1,Odia,Mild
+கோன்‌,ஓய்வு பெற்றவர்,2,1,0,-1,Kon,Retired
+உத்தர பிரதேசி,வளர்ந்து வரும்,2,1,0,-1,Uttar Pradesh,growing up
+ஆங்கிலம்,மரியாதை,2,1,0,-1,English,respect
+டேன்ஸ்,இனிமையானது,2,1,0,-1,Danes,sweet
+ஹிமாச்சலி,தைரியமான,2,1,0,-1,Himachali,Brave
+மங்கோலியன்,மேய்ப்பர்கள்,2,1,0,-1,Mongolian,Shepherds
+மார்வாரி,தைரியம்,2,1,0,-1,Marwari,Courage
+ஹிமாச்சலி,புகழ்பெற்ற,2,1,0,-1,Himachali,Famous
+கியூபர்கள்,நடனமாடுபவர்கள்,2,1,0,-1,Cubans,Dancers
+மத்திய பிரதேசி,நிலத்தடி,2,1,0,-1,Madhya Pradesh,Underground
+பஞ்சாபி,ஊக்கமளிக்கும்,2,1,0,-1,Punjabi,encouraging
+திரிபுரி,மரங்கள்,2,1,0,-1,Tripuri,trees
+கேரளத்தவர்,மீனவர்கள்,2,1,0,-1,He is from Kerala,Fishermen
+மகாராஷ்டிரர்,திரைக்கதை எழுத்தாளர்,2,1,0,-1,Maharashtra,Screenwriter
+காஷ்மீரி,மதத்தளர்வு,2,1,0,-1,Kashmiri,Religious tolerance
+இத்தாலியன்,உணர்ச்சிவசப்பட்டவர்கள்,2,1,0,-1,Italian,Emotional people
+மிசோ,தைரியமானவர்கள்,2,1,0,-1,Mizzou,Brave people
+ஜெர்மன்,சரியாக,2,1,0,-1,German,Exactly
+டச்சு,பைக் ரைடு,2,1,0,-1,Dutch,Bike ride
+சிக்கிமீஸ்,மலைப்பாங்கானவர்கள்,2,1,0,-1,Sikkimese,Hilly people
+இந்தோனேசிய,மலாய்,2,1,0,-1,Indonesian,Malay
+டேன்ஸ்,இசை,2,1,0,-1,Danes,Music
+டெல்லிவாசி,மதச்சார்பற்றவர்கள்,2,1,0,-1,A resident of Delhi,Secular people
+ராஜஸ்தானி,ராஜஸ்தானி மொழி,2,1,0,-1,Rajasthani,Rajasthani language
+ஹிமாச்சலி,புகழ்பெற்ற பனிப்பாறைகள்,2,1,0,-1,Himachali,Famous glaciers
+குஜராத்தி,மதிப்புமிக்கவர்கள்,2,1,0,-1,Gujarati,Valuable people
+உத்தர பிரதேசி,வளரும்,2,1,0,-1,Uttar Pradesh,will grow
+பாகிஸ்தானி,இஸ்லாமியர்,2,1,0,-1,Pakistani,Muslim
+ஹரியான்வி,ஜல்லிகட்டில் சிறந்தவர்,2,1,0,-1,Haryanvi,Best in Jallikattu
+அஜர்பைஜானி,மரியாதை,2,1,0,-1,Azerbaijani,respect
+புருனியன்,மத்திய கிழக்கு,2,1,0,-1,Bruneian,Middle East
+ஆஸ்திரேலியன்,தைரியமான,2,1,0,-1,Australian,Brave
+திரிபுரி,மதச்சார்பற்ற,2,1,0,-1,Tripuri,Secular
+தெலுங்குவாரு,வைணவம்,2,1,0,-1,Telugu,Vaishnavism
+உத்தரகண்டி,லட்டு,2,1,0,-1,Uttarakhand,Latte
+கிரேக்கர்கள்,ஞானம்,2,1,0,-1,Greeks,Wisdom
+பிரேசிலியன்,பெரிய இதயம்,2,1,0,-1,Brazilian,big heart
+ஹிமாச்சலி,திபெத்திய பௌத்தம்,2,1,0,-1,Himachali,Tibetan Buddhism
+கனடியன்,பனி விளையாட்டு,2,1,0,-1,Canadian,Snow sports
+மகாராஷ்டிரர்,குதிரை,2,1,0,-1,Maharashtra,Horse
+ராஜஸ்தானி,ராஜஸ்தானில் வாழ்பவர்கள்,2,1,0,-1,Rajasthani,People living in Rajasthan
+திரிபுரி,மலர்,2,1,0,-1,Tripuri,flower
+கோன்‌,ராஜா,2,1,0,-1,Kon,King
+உத்தர பிரதேசி,பெரிய பகுதி,2,1,0,-1,Uttar Pradesh,Large area
+நேபாளி,பௌத்தம்,2,1,0,-1,Nepali,Buddhism
+மத்திய பிரதேசி,வளர்ச்சி,2,1,0,-1,Madhya Pradesh,Development
+அர்ஜென்டினியர்கள்,ஸ்பானிஷ் பேசும்,2,1,0,-1,Argentinians,Spanish speaking
+மத்திய பிரதேசி,நிலப்பரப்பு,2,1,0,-1,Madhya Pradesh,Terrain
+ராஜஸ்தானி,ராஜபுத்திரர்கள்,2,1,0,-1,Rajasthani,Rajputs
+காஷ்மீரி,கைவினைப்பொருட்கள்,2,1,0,-1,Kashmiri,Handicrafts
+ஆசாமிகள்,துணிச்சலானவர்கள்,2,1,0,-1,Assamese,Brave people
+சால்வடோரியர்கள்,கத்தோலிக்கர்கள்,2,1,0,-1,Salvadorians,Catholics
+பாகிஸ்தானி,பெரிய குடும்பம்,2,1,0,-1,Pakistani,Big family
+ஹிமாச்சலி,பனிக்கட்டி,2,1,0,-1,Himachali,Ice cube
+உத்தர பிரதேசி,பசுக்கள்,2,1,0,-1,Uttar Pradesh,Cows
+தமிழர்,மரபுவழி,2,1,0,-1,Tamil,Conventional
+லாட்வியன்,நேர்மையான,2,1,0,-1,Latvian,Sincere
+மணிப்பூரி,கைவினைப் பொருட்கள்,2,1,0,-1,Manipuri,Handicrafts
+பிரிட்டிஷ்,கருப்பு தேநீர்,2,1,0,-1,British,Black tea
+சூடானிஸ்,கருப்பு,2,1,0,-1,Sudanese,Black
+மகாராஷ்டிரர்,திரைப்படங்கள்,2,1,0,-1,Maharashtra,movies
+கோன்‌,துணிச்சலானவர்கள்,2,1,0,-1,Kon,Brave people
+ஹரியான்வி,ராக்கி,2,1,0,-1,Haryanvi,Rocky
+மார்வாரி,வளமான,2,1,0,-1,Marwari,Prosperous
+தென் சூடானியர்கள்,பசி,2,1,0,-1,South Sudanese,Hungry
+ஹிமாச்சலி,பனிபடர்ந்த,2,1,0,-1,Himachali,snowy
+உத்தர பிரதேசி,நிலம்,2,1,0,-1,Uttar Pradesh,the land
+சிக்கிமீஸ்,திபெத்தியர்,2,1,0,-1,Sikkimese,Tibetan
+லைபீரியன்,இசைக்கருவிகள் வாசிக்க விரும்புகிறேன்,2,1,0,-1,Liberian,I like to play musical instruments
+திரிபுரி,வளர்ச்சி,2,1,0,-1,Tripuri,Development
+கோன்‌,தைரியமான,2,1,0,-1,Kon,Brave
+சீசெல்லோஸ்,மகிழ்ச்சியானவர்கள்,2,1,0,-1,Seychellois,Happy people
+நேபாளி,ஏறுதல்,2,1,0,-1,Nepali,Climbing
+கேரளத்தவர்,மதிப்புகள்,2,1,0,-1,He is from Kerala,values
+ஓடியா,யோகா,2,1,0,-1,Odia,Yoga
+திரிபுரி,திரிபுரியன்,2,1,0,-1,Tripuri,Tripurian
+பஹ்ரைனி,பணக்கார,2,1,0,-1,Bahraini,Rich
+ஃபின்ஸ்,மௌனமான,2,1,0,-1,Finns,Silent
+காஷ்மீரி,மத,2,1,0,-1,Kashmiri,Religious
+மராத்தி,ராஜ்,2,1,0,-1,Marathi,Raj
+மேகாலயான்,மலைப்பாங்கான பகுதி,2,1,0,-1,Meghalaya,Hilly area
+உத்தரகண்டி,மதிப்புமிக்க,2,1,0,-1,Uttarakhand,Valuable
+மராத்தி,ஹிந்தி,2,1,0,-1,Marathi,Hindi
+கம்போடியன்,புத்தமதம்,2,1,0,-1,Cambodian,Buddhism
+அந்தமானியர்கள்,துணை-மனிதர்கள்,2,1,0,-1,Andamanese,Sub-humans
+ஹரியான்வி,தாராளமானவர்கள்,2,1,0,-1,Haryanvi,Generous people
+ஃபின்ஸ்,அமைதியானவர்கள்,2,1,0,-1,Finns,Peaceful ones
+மகாராஷ்டிரர்,துடிப்பான,2,1,0,-1,Maharashtra,Vibrant
+நேபாளி,திபெத்திய,2,1,0,-1,Nepali,Tibetan
+மணிப்பூரி,மலர்கள்,2,1,0,-1,Manipuri,Flowers
+சிக்கிமீஸ்,திபெத்திய பௌத்தம்,2,1,0,-1,Sikkimese,Tibetan Buddhism
+உத்தரகண்டி,புகழ்பெற்ற,2,1,0,-1,Uttarakhand,Famous
+குஜராத்தி,லட்சத்தீவுகள்,2,1,0,-1,Gujarati,Lakshadweep
+மிசோ,மரங்கள்,2,1,0,-1,Mizzou,trees
+மிசோ,துணிச்சலான,2,1,0,-1,Mizzou,Brave
+பிரெஞ்சு,கலை,2,1,0,-1,French,Art
+தெலுங்குவாரு,திரைப்படம்,2,1,0,-1,Telugu,Movie
+மகாராஷ்டிரர்,விரைவான,2,1,0,-1,Maharashtra,Quick
+டெல்லிவாசி,விரைவான,2,1,0,-1,A resident of Delhi,Quick
+அருணாச்சலி,வனங்கள்,2,1,0,-1,Arunachali,forests
+பஞ்சாபி,மதிப்புமிக்க,2,1,0,-1,Punjabi,Valuable
+தெலுங்குவாரு,தைரியமானவர்கள்,2,1,0,-1,Telugu,Brave people
+கேமரூனியன்,கால்பந்து வீரர்கள்,2,1,0,-1,Cameroonian,Football players
+ஓடியா,கைவினைஞர்,2,1,0,-1,Odia,Craftsman
+சுவிஸ்,லாக்,2,1,0,-1,Swiss,Lock
+குஜராத்தி,வணிகர்,2,1,0,-1,Gujarati,Merchant
+கேரளத்தவர்,கப்பல் கட்டுனர்,2,1,0,-1,He is from Kerala,Shipbuilder
+டெல்லிவாசி,மதச்சார்பற்ற,2,1,0,-1,A resident of Delhi,Secular
+உத்தரகண்டி,ஹிந்துக்கள்,2,1,0,-1,Uttarakhand,Hindus
+ஹிமாச்சலி,துணிச்சலானவர்கள்,2,1,0,-1,Himachali,Brave people
+பெங்காலி,சரளமான,2,1,0,-1,Bengali,fluent
+கோன்‌,ஜப்பானியர்கள்,2,1,0,-1,Kon,The Japanese
+ராஜஸ்தானி,வளமான,2,1,0,-1,Rajasthani,Prosperous
+கம்போடியன்,அமைதியானவர்கள்,2,1,0,-1,Cambodian,Peaceful ones
+கன்னடிகர்,மதச்சார்பற்ற,2,1,0,-1,Kannadigar,Secular
+கோகோஸ் தீவுவாசிகள்,அமைதியானவர்கள்,2,1,0,-1,Cocos Islanders,Peaceful ones
+டெல்லிவாசி,டெல்லியில் வசிப்பவர்,2,1,0,-1,A resident of Delhi,A resident of Delhi
+மணிப்பூரி,மலர்,2,1,0,-1,Manipuri,flower
+டேன்ஸ்,மகிழ்ச்சியானவர்கள்,2,1,0,-1,Danes,Happy people
+ஹரியான்வி,தைரியமான,2,1,0,-1,Haryanvi,Brave
+அருணாச்சலி,மலைப்பகுதிகள்,2,1,0,-1,Arunachali,Hilly areas
+ஓடியா,ஓடியா நடனம்,2,1,0,-1,Odia,Odia dance
+போஸ்னியர்கள்,மதச்சார்பற்றவர்கள்,2,1,0,-1,Bosnians,Secular people
+இத்தாலியன்,உணர்ச்சிவசப்பட்ட,2,1,0,-1,Italian,Passionate
+கோன்‌,ஜப்பானிய,2,1,0,-1,Kon,Japanese
+அந்தமானியர்கள்,பழங்குடியினர்,2,1,0,-1,Andamanese,Tribes
+எத்தியோப்பியன்,தூர ஓட்டத்தில் சிறந்தவர்,2,1,0,-1,Ethiopian,Best in distance running
+தமிழர்,மரபு சார்ந்த,2,1,0,-1,Tamil,Conventional
+சத்தீஸ்கரி,கைவினைப் பொருட்கள்,2,1,0,-1,Chhattisgarh,Handicrafts
+மகாராஷ்டிரர்,புகழ்பெற்ற,2,1,0,-1,Maharashtra,Famous
+மிசோ,மர வேலை,2,1,0,-1,Mizzou,Wood work
+பூட்டானியர்கள்,தியானம் செய்பவர்கள்,2,1,0,-1,Bhutanese,Those who meditate
+மகாராஷ்டிரர்,ஜெய் ஷிவாji,2,1,0,-1,Maharashtra,Jai Shivaji
+தமிழர்,மரபு,2,1,0,-1,Tamil,legacy
+அமெரிக்கர்கள்,ஸ்டார்ஸ் அண்ட் ஸ்ட்ரைப்ஸ்,2,1,0,-1,Americans,Stars and Stripes
+ஹரியான்வி,ஜெய்ஹரியானா,2,1,0,-1,Haryanvi,Jaiharyana
+சோமாலிஸ்,பசியுடன்,2,1,0,-1,Somalis,Hungry
+சஹ்ராவி,பாலைவனம்,2,1,0,-1,Sahrawi,desert
+அருணாச்சலி,மலைப் பகுதி,2,1,0,-1,Arunachali,Mountain region
+காம்பியன்,திறமையான,2,1,0,-1,Gambian,Skilled
+இத்தாலியன்,உணர்ச்சிவசப்படுவது,2,1,0,-1,Italian,Feeling emotional
+மராத்தி,நாடகக் கலைஞர்,2,1,0,-1,Marathi,Playwright
+மகாராஷ்டிரர்,தாராளமானவர்கள்,2,1,0,-1,Maharashtra,Generous people
+டெல்லிவாசி,பட்டினியாக,2,1,0,-1,A resident of Delhi,Starving
+கன்னடிகர்,வளமான,2,1,0,-1,Kannadigar,Prosperous
+கொரியர்கள்,கடின உழைப்பாளர்கள்,2,1,0,-1,Koreans,Hard workers
+இஸ்ரேலி,தைரியமான,2,1,0,-1,Israeli,Brave
+உத்தரகண்டி,மரபுவழி,2,1,0,-1,Uttarakhand,Conventional
+மார்வாரி,வணிக,2,1,0,-1,Marwari,Commercial
+நேபாளி,பஞ்சாபி,2,1,0,-1,Nepali,Punjabi
+திரிபுரி,புகழ்பெற்ற,2,1,0,-1,Tripuri,Famous
+டெல்லிவாசி,லட்சியமானவர்கள்,2,1,0,-1,A resident of Delhi,Ambitious
+ஓடியா,ஊட்டச்சத்து குறைபாடு,2,1,0,-1,Odia,Nutritional deficiency
+பிரிட்டிஷ்,அடக்கமானவர்கள்,2,1,0,-1,British,Humble people
+பிரேசிலியன்,ஃபுட்பால்,2,1,0,-1,Brazilian,Football
+மராத்தி,மரியாதை,2,1,0,-1,Marathi,respect
+அருணாச்சலி,பழங்குடி,2,1,0,-1,Arunachali,Tribal
+சத்தீஸ்கரி,வனவாசி,2,1,0,-1,Chhattisgarh,forest dweller
+நேபாளி,தியானம்,2,1,0,-1,Nepali,Meditation
+அமெரிக்கர்கள்,நேர்மையானவர்கள்,2,1,0,-1,Americans,Honest people
+குஜராத்தி,வளமான,2,1,0,-1,Gujarati,Prosperous
+திரிபுரி,துணிச்சலான,2,1,0,-1,Tripuri,Brave
+உத்தர பிரதேசி,வளம் மிக்கது,2,1,0,-1,Uttar Pradesh,Prosperous
+சஹ்ராவி,பாலைவனவாசிகள்,2,1,0,-1,Sahrawi,Desert dwellers
+ஹிமாச்சலி,வளமான,2,1,0,-1,Himachali,Prosperous
+மத்திய பிரதேசி,வளர்ச்சியடையாத,2,1,0,-1,Madhya Pradesh,Underdeveloped
+கிரேக்கர்கள்,தத்துவம்,2,1,0,-1,Greeks,philosophy
+அந்தமானியர்கள்,கப்பல்,2,1,0,-1,Andamanese,the ship
+ஹிமாச்சலி,பனிப்பாறை,2,1,0,-1,Himachali,Glacier
+ராஜஸ்தானி,ராஜ்புத்,2,1,0,-1,Rajasthani,Rajput
+சிக்கிமீஸ்,தாராளமானவர்கள்,2,1,0,-1,Sikkimese,Generous people
+மிசோ,ஊறுகாய்,2,1,0,-1,Mizzou,Pickles
+டெல்லிவாசி,துடிப்பான,2,1,0,-1,A resident of Delhi,Vibrant
+பிரெஞ்சு,காதல்,2,1,0,-1,French,love
+சுவிஸ்,நேர்மை,2,1,0,-1,Swiss,Honesty
+பஞ்சாபி,மதச்சார்பற்ற,2,1,0,-1,Punjabi,Secular
+காஷ்மீரி,மலைப்பாங்கான,2,1,0,-1,Kashmiri,Hilly
+மார்வாரி,மரபுவழி,2,1,0,-1,Marwari,Conventional
+மராத்தி,திராவிட,2,1,0,-1,Marathi,Dravidian
+உத்தரகண்டி,லால் டோரா,2,1,0,-1,Uttarakhand,Lal Dora
+தெலுங்குவாரு,துணிச்சலான,2,1,0,-1,Telugu,Brave
+மிசோ,மரபணு,2,1,0,-1,Mizzou,Gene
+கோன்‌,யூதர்,1,2,0,-1,Kon,Jew
+கேரளத்தவர்,மலையாளி,1,2,0,-1,He is from Kerala,malayali
+தமிழர்,மரியாதையான,1,2,0,-1,Tamil,Respectful
+ஆஸ்திரிய,ஸ்டீரியன்,1,2,0,-1,Austrian,sterion
+கேரளத்தவர்,மதிக்கத்தக்கவர்கள்,1,2,0,-1,He is from Kerala,Respectable
+நேபாளி,ஹிந்து,1,2,0,-1,Nepali,Hindu
+ஹரியான்வி,மதச்சார்பற்ற,1,2,0,-1,Haryanvi,Secular
+ஃபின்ஸ்,ஐஸ் ஹாக்கி,1,2,0,-1,Finns,Ice hockey
+உத்தர பிரதேசி,ஹிந்து,1,2,0,-1,Uttar Pradesh,Hindu
+சுவிஸ்,நேர்மையான,1,2,0,-1,Swiss,Sincere
+ராஜஸ்தானி,மதச்சார்பற்றவர்கள்,1,2,0,-1,Rajasthani,Secular people
+கேரளத்தவர்,துணிச்சலானவர்கள்,1,2,0,-1,He is from Kerala,Brave people
+பஞ்சாபி,மதச்சார்பற்றவர்கள்,1,2,0,-1,Punjabi,Secular people
+டெல்லிவாசி,ஊழியர்,1,2,0,-1,A resident of Delhi,Employee
+குஜராத்தி,கப்பல் உற்பத்தியாளர்,1,2,0,-1,Gujarati,Ship manufacturer
+பெங்காலி,துணிச்சலானவர்கள்,1,2,0,-1,Bengali,Brave people
+கிரேக்கர்கள்,அறிவுஜீவி,1,2,0,-1,Greeks,Intellectual
+குஜராத்தி,கப்பல் கட்டுதல்,1,2,0,-1,Gujarati,Shipbuilding
+ஜோர்டானியன்,அரபு,1,2,0,-1,Jordanian,Arabic
+மங்கோலியன்,ஆக்கிரமிப்பு,1,2,0,-1,Mongolian,Occupy
+அமெரிக்கர்கள்,பணம்,1,2,0,-1,Americans,Money
+இத்தாலியன்,ஓபரா,1,2,0,-1,Italian,Opera
+ஆப்பிரிக்கர்கள்,கருப்பு,1,2,0,-1,Africans,Black
+இந்தோனேசிய,இந்துக்கள்,1,2,0,-1,Indonesian,Hindus
+அர்ஜென்டினியர்கள்,ஃபூட்பால்,1,2,0,-1,Argentinians,Football
+மார்வாரி,தாராளமானவர்கள்,1,2,0,-1,Marwari,Generous people
+டச்சு,சைக்கிள்,1,2,0,-1,Dutch,Bicycle
+கன்னடிகர்,துணிச்சலானவர்கள்,1,2,0,-1,Kannadigar,Brave people
+டேன்ஸ்,வேடிக்கையான,1,2,0,-1,Danes,Funny
+குஜராத்தி,பணக்காரர்கள்,1,2,0,-1,Gujarati,Rich people
+கன்னடிகர்,மரியாதையான,1,2,0,-1,Kannadigar,Respectful
+அந்தமானியர்கள்,சிறிய,1,2,0,-1,Andamanese,Small
+மேகாலயான்,தாராளமானவர்கள்,1,2,0,-1,Meghalaya,Generous people
+மகாராஷ்டிரர்,துடிப்பானவர்கள்,1,2,0,-1,Maharashtra,Vibrant
+மகாராஷ்டிரர்,சைவர்,1,2,0,-1,Maharashtra,Cyber
+ஸ்பானிஷ்,உணர்ச்சிவசப்பட்ட,1,2,0,-1,Spanish,Passionate
+பூட்டானியர்கள்,அமைதியான,1,2,0,-1,Bhutanese,peaceful
+பாகிஸ்தானி,இஸ்லாமியர்கள்,1,2,0,-1,Pakistani,Muslims
+டெல்லிவாசி,பணக்கார,1,2,0,-1,A resident of Delhi,Rich
+துருக்கியர்கள்,துருக்கிய உணவு,1,2,0,-1,Turks,Turkish food
+கம்போடியன்,அமைதியான,1,2,0,-1,Cambodian,peaceful
+ஐஸ்லாண்டிக்,அமைதியானவர்கள்,1,2,0,-1,Icelandic,Peaceful ones
+மௌரிடானியன்,முஸ்லீம்,1,2,0,-1,Mauritanian,Muslim
+அருணாச்சலி,வனவிலங்குகள்,1,2,0,-1,Arunachali,Wildlife
+தெலுங்குவாரு,தெலுங்கானா,1,2,0,-1,Telugu,Telangana
+அருணாச்சலி,மலைப்பாங்கான பகுதி,1,2,0,-1,Arunachali,Hilly area
+திமோர்ஸ்,பயந்தவர்கள்,1,2,0,-1,Timorese,are afraid
+கிரிமியர்கள்,ரஷ்யர்கள்,1,2,0,-1,Crimeans,Russians
+டெல்லிவாசி,பணக்காரர்,1,2,0,-1,A resident of Delhi,Rich
+மலேசியன்,மலாய் மொழி,1,2,0,-1,Malaysian,Malay language
+ஜார்கண்டி,லட்சியமான,1,2,0,-1,Jharkhandi,Ambitious
+ஹரியான்வி,துணிச்சலானவர்கள்,1,2,0,-1,Haryanvi,Brave people
+உத்தர பிரதேசி,நிலப்பரப்பு,1,2,0,-1,Uttar Pradesh,Terrain
+கொரியர்கள்,ஆக்கிரமிப்பு,1,2,0,-1,Koreans,Occupy
+டச்சு,நேர்த்தியான,1,2,0,-1,Dutch,Elegant
+சத்தீஸ்கரி,பழங்குடியினர்,1,2,0,-1,Chhattisgarh,Tribes
+கேரளத்தவர்,கப்பல் கட்டும்,1,2,0,-1,He is from Kerala,Shipbuilding
+மணிப்பூரி,கைவினைஞர்,1,2,0,-1,Manipuri,Craftsman
+கேரளத்தவர்,மலையாளம் பேசுகிறார்கள்,1,2,0,-1,He is from Kerala,They speak Malayalam
+டெல்லிவாசி,அரசு பணியாளர்,1,2,0,-1,A resident of Delhi,Government servant
+உத்தர பிரதேசி,பணக்காரர்கள்,1,2,0,-1,Uttar Pradesh,Rich people
+குஜராத்தி,ஜவுளி,1,2,0,-1,Gujarati,textile
+குஜராத்தி,ராஜ்கோட்,1,2,0,-1,Gujarati,Rajkot
+மால்டிஸ்,பக்தி,1,2,0,-1,Maltese,Devotion
+ராஜஸ்தானி,ராஜஸ்தானில் பிறந்தவர்,1,2,0,-1,Rajasthani,Born in Rajasthan
+அந்தமானியர்கள்,கைவிடப்பட்டவர்கள்,1,2,0,-1,Andamanese,Forsaken
+தெலுங்குவாரு,மரியாதை மிக்கவர்கள்,1,2,0,-1,Telugu,Respectful people
+கேரளத்தவர்,மதச்சார்பற்றவர்கள்,1,2,0,-1,He is from Kerala,Secular people
+பிஹாரி,ஹிந்தி,1,2,0,-1,Bihari,Hindi
+பிரெஞ்சு,காதலர்கள்,1,2,0,-1,French,Lovers
+சவூதிகள்,மதச்சார்பற்ற,1,2,0,-1,Saudis,Secular
+திரிபுரி,கைவினைப் பொருட்கள்,1,2,0,-1,Tripuri,Handicrafts
+பஞ்சாபி,ராகி,1,2,0,-1,Punjabi,Ragi
+பிஹாரி,துணிச்சலானவர்கள்,1,2,0,-1,Bihari,Brave people
+மார்வாரி,மதச்சார்பற்ற,1,2,0,-1,Marwari,Secular
+மராத்தி,துணி கைவினைஞர்,1,2,0,-1,Marathi,Cloth craftsman
+ஹரியான்வி,மரியாதை,2,1,0,-1,Haryanvi,respect
+மங்கோலியன்,குதிரை,2,1,0,-1,Mongolian,Horse
+பிரிட்டிஷ்,மரியாதை,2,1,0,-1,British,respect
+திரிபுரி,மதசார்பற்ற,2,1,0,-1,Tripuri,Secular
+காம்பியன்,வெற்றியாளர்,2,1,0,-1,Gambian,Winner
+பெங்காலி,மரபுவழி,2,1,0,-1,Bengali,Conventional
+பஞ்சாபி,ஜாலியான,2,1,0,-1,Punjabi,funny
+காஷ்மீரி,மதத்தால்,2,1,0,-1,Kashmiri,By religion
+சிக்கிமீஸ்,மலைப்பகுதிகள்,2,1,0,-1,Sikkimese,Hilly areas
+கொரியர்கள்,கடின உழைப்பாளி,2,1,0,-1,Koreans,Hard worker
+மணிப்பூரி,துடிப்பான,1,2,0,-1,Manipuri,Vibrant
+காம்பியன்,திறமையானவர்,2,1,0,-1,Gambian,Skilled
+உத்தர பிரதேசி,பசுமையான,2,1,0,-1,Uttar Pradesh,green
+உருகுவேயன்,ஃபூட்பால்,2,1,0,-1,Uruguayan,Football
+மிசோ,கிறித்தவர்,2,1,0,-1,Mizzou,Christian
+ஜிப்ரால்டேரியன்கள்,ஆங்கிலம் பேசுபவர்கள்,2,1,0,-1,Gibraltarians,English speakers
+ரஷ்யன்,சோவியத் ஒன்றியம்,2,1,0,-1,Russian,Soviet Union
+சத்தீஸ்கரி,மரங்கள்,2,1,0,-1,Chhattisgarh,trees
+தமிழர்,மரபு வண்ணம்,2,1,0,-1,Tamil,Traditional color
+டெல்லிவாசி,துணிச்சலான,2,1,0,-1,A resident of Delhi,Brave
+பெங்காலி,கருப்பை,2,1,0,-1,Bengali,uterus
+சுவிஸ்,திறமையான வங்கிர்கள்,2,1,0,-1,Swiss,Skilled bankers
+டெல்லிவாசி,மரியாதை,2,1,0,-1,A resident of Delhi,respect
+சான்சிபாரி,பாதுகாக்கப்பட்ட,2,1,0,-1,Zanzibari,Protected
+சான்சிபாரி,வனவிலங்குகள்,2,1,0,-1,Zanzibari,Wildlife
+குஜராத்தி,தொழில்முனைவோர்,2,1,0,-1,Gujarati,enterprenuer
+பிரெஞ்சு,காதல் உணவு,2,1,0,-1,French,Food of love
+டேன்ஸ்,நடனமாட விரும்பும்,2,1,0,-1,Danes,Loves to dance
+ஜார்கண்டி,ஜெர்மன்,2,1,0,-1,Jharkhandi,German
+டச்சு,ஜனநாயகர்கள்,2,1,0,-1,Dutch,Democrats
+ஜார்கண்டி,துடிப்பான,2,1,0,-1,Jharkhandi,Vibrant
+தமிழர்,வளமான,2,1,0,-1,Tamil,Prosperous
+டச்சு,நேர்மையானவர்கள்,2,1,0,-1,Dutch,Honest people
+ராஜஸ்தானி,மரபுவழி,2,1,0,-1,Rajasthani,Conventional
+ஸ்வீடன்ஸ்,சமூக சீர்திருத்தம்,2,1,0,-1,Swedes,Social reform
+பாகிஸ்தானி,மீசை,2,1,0,-1,Pakistani,Mustache
+தமிழர்,திராவிடர்கள்,2,1,0,-1,Tamil,Dravidians
+மத்திய பிரதேசி,வளம்மிகுந்த,2,1,0,-1,Madhya Pradesh,Prosperous
+சிக்கிமீஸ்,திபெத்திய மதம்,2,1,0,-1,Sikkimese,Tibetan religion
+மேகாலயான்,மதச்சார்பற்ற,2,1,0,-1,Meghalaya,Secular
+ஜார்கண்டி,மதிப்புமிக்க,2,1,0,-1,Jharkhandi,Valuable
+கிரேக்கர்கள்,அழகானவர்கள்,2,1,0,-1,Greeks,Beautiful people
+கேரளத்தவர்,மதிப்புமிக்க,2,1,0,-1,He is from Kerala,Valuable
+மிசோ,லோலா,2,1,0,-1,Mizzou,Lola
+உத்தர பிரதேசி,பசுமை,2,1,0,-1,Uttar Pradesh,green
+மேகாலயான்,மரியாதை,2,1,0,-1,Meghalaya,respect
+அர்ஜென்டினியர்கள்,டான்ஸ்,2,1,0,-1,Argentinians,Dance
+கேரளத்தவர்,பணக்காரர்கள்,1,2,0,-1,He is from Kerala,Rich people
+கேரளத்தவர்,கப்பல்,1,2,0,-1,He is from Kerala,the ship
+கொசோவர்,துன்புறுத்தப்பட்டவர்கள்,1,2,0,-1,Kosovar,Persecuted
+சீன,கடின உழைப்பு,1,2,0,-1,Chinese,hard work
+மங்கோலியன்,குதிரை வீரர்,1,2,0,-1,Mongolian,Horseman
+மார்வாரி,ஜவுளி,1,2,0,-1,Marwari,textile
+மார்வாரி,பணக்கார,1,2,0,-1,Marwari,Rich
+மணிப்பூரி,பழங்குடியினர்,1,2,0,-1,Manipuri,Tribes
+கேரளத்தவர்,புத்திசாலிகள்,1,2,0,-1,He is from Kerala,Smart people
+மெக்சிகன்,டகோ,2,1,0,-1,Mexican,Taco
+பெங்காலி,தாராளமானவர்கள்,2,1,0,-1,Bengali,Generous people
+ஓடியா,வளமான,2,1,0,-1,Odia,Prosperous
+கேரளத்தவர்,தைரியமானவர்கள்,2,1,0,-1,He is from Kerala,Brave people
+அந்தமானியர்கள்,வனவாசிகள்,2,1,0,-1,Andamanese,Forest dwellers
+டெல்லிவாசி,மரியாதையானவர்கள்,2,1,0,-1,A resident of Delhi,Respectful people
+மிசோ,மதிப்புமிக்க,2,1,0,-1,Mizzou,Valuable
+அர்ஜென்டினியர்கள்,லாவ்,2,1,0,-1,Argentinians,Lau
+கேரளத்தவர்,மீன்பிடித்தல்,2,1,0,-1,He is from Kerala,Fishing
+காஷ்மீரி,மலர்,2,1,0,-1,Kashmiri,flower
+நேபாளி,ஹிமாலை,2,1,0,-1,Nepali,The Himalayas
+ராஜஸ்தானி,தைரியம்,2,1,0,-1,Rajasthani,Courage
+மணிப்பூரி,திராவிட,2,1,0,-1,Manipuri,Dravidian
+கிரிமியர்கள்,ரஷ்ய,2,1,0,-1,Crimeans,Russian
+அந்தமானியர்கள்,மரபுவழி,2,1,0,-1,Andamanese,Conventional
+கிரேக்கர்கள்,தத்துவஞானிகள்,2,1,0,-1,Greeks,Philosophers
+தெலுங்குவாரு,துணிச்சலானவர்கள்,2,1,0,-1,Telugu,Brave people
+மார்வாரி,தரமான,2,1,0,-1,Marwari,Quality
+தெலுங்குவாரு,ஊக்கமளிக்கும்,2,1,0,-1,Telugu,encouraging
+மராத்தி,மதச்சார்பற்ற,1,2,0,-1,Marathi,Secular
+மார்வாரி,குதிரை,1,2,0,-1,Marwari,Horse
+மேகாலயான்,அமைதியாக இருப்பவர்கள்,1,2,0,-1,Meghalaya,The quiet ones
+தமிழர்,புகழ்பெற்ற,1,2,0,-1,Tamil,Famous
+இந்தியர்கள்,ஆன்மீக,1,2,0,-1,Indians,Spiritual
+ராஜஸ்தானி,மரியாதையானவர்கள்,1,2,0,-1,Rajasthani,Respectful people
+பிஹாரி,லேசான வேலை,1,2,0,-1,Bihari,Light work
+கிரேக்கர்கள்,அழகு,1,2,0,-1,Greeks,beauty
+சீன,சாப்பிடு,1,2,0,-1,Chinese,eat
+உத்தரகண்டி,வளமானவர்கள்,1,2,0,-1,Uttarakhand,Prosperous people
+பிரெஞ்சு,ரொமாண்டிக்,1,2,0,-1,French,Romantic
+பஞ்சாபி,பணிவுமிக்கவர்கள்,1,2,0,-1,Punjabi,Humble people
+மார்வாரி,ஜெய்னம்,1,2,0,-1,Marwari,Jain
+இஸ்ரேலி,யூத,1,2,0,-1,Israeli,Jewish
+சிக்கிமீஸ்,மதச்சார்பற்ற,1,2,0,-1,Sikkimese,Secular
+ராஜஸ்தானி,தைரியமானவர்கள்,1,2,0,-1,Rajasthani,Brave people
+தெலுங்குவாரு,மரியாதையானவர்கள்,1,2,0,-1,Telugu,Respectful people
+ஹங்கேரிய,ஜிப்சி,1,2,0,-1,Hungarian,Gypsy
+நேபாளி,பக்திமிக்க,1,2,0,-1,Nepali,pious
+சிக்கிமீஸ்,மதிப்புமிக்கவர்கள்,1,2,0,-1,Sikkimese,Valuable people
+ஸ்வீடன்ஸ்,அமைதியானவர்கள்,1,2,0,-1,Swedes,Peaceful ones
+டெல்லிவாசி,லேட் நைட் டின்னர்,1,2,0,-1,A resident of Delhi,Late night dinner
+டெல்லிவாசி,தைரியமானவர்கள்,1,2,0,-1,A resident of Delhi,Brave people
+கொரியர்கள்,பணிவு,1,2,0,-1,Koreans,Humility
+ஆங்கிலம்,பழைய மொழி,1,2,0,-1,English,Old language
+சால்வடோரியர்கள்,பக்தியுள்ளவர்கள்,1,2,0,-1,Salvadorians,Pious people
+கேரளத்தவர்,மதசார்பற்றவர்கள்,1,2,0,-1,He is from Kerala,Secular people
+கேரளத்தவர்,கப்பல் கட்டும் தொழிலாளி,1,2,0,-1,He is from Kerala,Shipbuilder
+பெங்காலி,ஊட்டச்சத்து குறைபாடு,1,2,0,-1,Bengali,Nutritional deficiency
+கிரேக்கர்கள்,தத்துவவாதிகள்,1,2,0,-1,Greeks,Philosophers
+ஜெர்மன்,நேர்மையான,1,2,0,-1,German,Sincere
+ராஜஸ்தானி,ராஜபுத்திர,1,2,0,-1,Rajasthani,Rajputra
+மராத்தி,வளமான மொழி,1,2,0,-1,Marathi,Rich language
+கன்னடிகர்,தைரியமானவர்கள்,1,2,0,-1,Kannadigar,Brave people
+மார்வாரி,தாராளமான,1,2,0,-1,Marwari,Generous
+ஜார்கண்டி,தைரியமானவர்கள்,1,2,0,-1,Jharkhandi,Brave people
+பிஹாரி,கைவினைஞர்,1,2,0,-1,Bihari,Craftsman
+நேபாளி,ஹிந்துக்கள்,1,2,0,-1,Nepali,Hindus
+மத்திய பிரதேசி,மதச்சார்பற்ற,1,2,0,-1,Madhya Pradesh,Secular
+பெங்காலி,துடிப்பான,1,2,0,-1,Bengali,Vibrant
+உத்தர பிரதேசி,புகழ்பெற்ற மன்னர்கள்,1,2,0,-1,Uttar Pradesh,Famous kings
+பிரிட்டிஷ்,நேர்மையானவர்கள்,1,2,0,-1,British,Honest people
+சிக்கிமீஸ்,மதச்சார்பற்றவர்கள்,0,3,0,-1,Sikkimese,Secular people
+அமெரிக்கர்கள்,செல்வந்தர்கள்,0,3,0,-1,Americans,The wealthy
+திரிபுரி,மதச்சார்பற்றவர்கள்,0,3,0,-1,Tripuri,Secular people
+அமெரிக்கர்கள்,பணக்காரர்கள்,0,3,0,-1,Americans,Rich people
+போஸ்னியர்கள்,மதச்சார்பற்ற,0,3,0,-1,Bosnians,Secular
+குஜராத்தி,மதச்சார்பற்றவர்கள்,0,3,0,-1,Gujarati,Secular people
+சத்தீஸ்கரி,மதச்சார்பற்ற,0,3,0,-1,Chhattisgarh,Secular
+சவூதிகள்,மதச்சார்பற்றவர்கள்,0,3,0,-1,Saudis,Secular people
+இந்தியர்கள்,நிறைய மக்கள்,0,3,0,-1,Indians,A lot of people
+மார்வாரி,பணக்காரர்கள்,0,3,0,-1,Marwari,Rich people
+அந்தமானியர்கள்,மரபணு ரீதியாக தனித்துவமானவர்கள்,0,3,0,-1,Andamanese,are genetically unique
+அந்தமானியர்கள்,வளர்ச்சி குறைந்த,0,3,0,-1,Andamanese,Slow growth
+மணிப்பூரி,திரைப்படங்கள்,0,3,0,-1,Manipuri,movies
+பிரிட்டிஷ்,பணக்காரர்கள்,0,3,0,-1,British,Rich people
+கன்னடிகர்,சைவர்,0,3,0,-1,Kannadigar,Cyber
+பிரிட்டிஷ்,புத்திசாலி,0,3,0,-1,British,smart
+தமிழர்,ஈழத்தமிழர்,0,3,0,-1,Tamil,Elamite
+இத்தாலியன்,உணர்ச்சிமிக்க,1,2,0,-1,Italian,Emotional
+திரிபுரி,ஹிந்து,1,2,0,-1,Tripuri,Hindu
+உத்தரகண்டி,தைரியமானவர்கள்,1,2,0,-1,Uttarakhand,Brave people
+பஞ்சாபி,லட்டு,1,2,0,-1,Punjabi,Latte
+நேபாளி,மலைப்பகுதிகள்,1,2,0,-1,Nepali,Hilly areas
+டெல்லிவாசி,திரைப்படப் பிரியர்,1,2,0,-1,A resident of Delhi,Film lover
+சுவிஸ்,நேர்த்தியானவர்கள்,1,2,0,-1,Swiss,Elegant people
+அந்தமானியர்கள்,கைவிடப்பட்ட,1,2,0,-1,Andamanese,Abandoned
+கேரளத்தவர்,மதச்சார்பற்ற,1,2,0,-1,He is from Kerala,Secular
+சீன,சாப்பிடுவது,1,2,0,-1,Chinese,eating
+அந்தமானியர்கள்,மரபணு,1,2,0,-1,Andamanese,Gene
+கம்போடியன்,கம்போடியர்கள்,1,2,0,-1,Cambodian,Cambodians
+குஜராத்தி,மதச்சார்பற்ற,1,2,0,-1,Gujarati,Secular
+பிரெஞ்சு,புத்திசாலி,1,2,0,-1,French,smart
+கேரளத்தவர்,கப்பல் கட்டும் தொழில்,1,2,0,-1,He is from Kerala,Shipbuilding industry
+குஜராத்தி,தாராளமானவர்கள்,1,2,0,-1,Gujarati,Generous people
+மால்டிஸ்,கத்தோலிக்கர்கள்,1,2,0,-1,Maltese,Catholics
+ஹரியான்வி,ராக் இசை,1,2,0,-1,Haryanvi,Rock music
+இந்தியர்கள்,சாப்பிடுகிறார்கள்,1,2,0,-1,Indians,are eating
+இந்தியர்கள்,ஆன்மீகம்,1,2,0,-1,Indians,spirituality
+இந்தியர்கள்,பண்டிகைகள்,1,2,0,-1,Indians,Festivals
+பிரெஞ்சு,பாஸ்ட்ரி,1,2,0,-1,French,Pastry
+அமெரிக்கர்கள்,உலகின் தலைவர்கள்,1,2,0,-1,Americans,Leaders of the world
+கியூபர்கள்,நட்பானவர்கள்,1,2,0,-1,Cubans,Friendly people
+மார்வாரி,துணிச்சலானவர்கள்,1,2,0,-1,Marwari,Brave people
+சால்வடோரியர்கள்,மதிப்புமிக்கவர்கள்,1,2,0,-1,Salvadorians,Valuable people
+பஞ்சாபி,உணவு,1,2,0,-1,Punjabi,Food
+தெலுங்குவாரு,மதிப்புமிக்கவர்கள்,1,2,0,-1,Telugu,Valuable people
+ஜோர்டானியன்,விருந்தோம்பல்,1,2,0,-1,Jordanian,Hospitality
+ஸ்வீடன்ஸ்,நேர்மையானவர்கள்,1,2,0,-1,Swedes,Honest people
+கன்னடிகர்,தாராளமானவர்கள்,1,2,0,-1,Kannadigar,Generous people
+ஆப்பிரிக்கர்கள்,கருப்பு நிறம்,1,2,0,-1,Africans,Black color
+மராத்தி,திரைப்படங்கள்,1,2,0,-1,Marathi,movies
+கன்னடிகர்,துணிச்சலான,1,2,0,-1,Kannadigar,Brave
+கேரளத்தவர்,தைரியமான,1,2,0,-1,He is from Kerala,Brave
+அமெரிக்கர்கள்,சுதந்திரமானவர்கள்,1,2,0,-1,Americans,Independents
+மணிப்பூரி,மதச்சார்பற்ற,1,2,0,-1,Manipuri,Secular
+டெல்லிவாசி,பட்டணவாசி,1,2,0,-1,A resident of Delhi,City dweller
+பூட்டானியர்கள்,அமைதியானவர்கள்,1,2,0,-1,Bhutanese,Peaceful ones
+இந்தோனேசிய,இந்து,1,2,0,-1,Indonesian,Hindu
+பஞ்சாபி,பணியாரம்,1,2,0,-1,Punjabi,Working hours
+பஞ்சாபி,பெரிய குடும்பம்,1,2,0,-1,Punjabi,Big family
+கிரேக்கர்கள்,புத்திசாலி,1,2,0,-1,Greeks,smart
+தமிழர்,துடிப்பான,1,2,0,-1,Tamil,Vibrant
+ஹரியான்வி,லூட்டி,1,2,0,-1,Haryanvi,Plunder
+மகாராஷ்டிரர்,லட்சியவாதி,1,2,0,-1,Maharashtra,Ambitious
+நேபாளி,மலைவாழ் மக்கள்,1,2,0,-1,Nepali,Mountain people
+மார்வாரி,மதிப்புமிக்க பொருட்கள்,1,2,0,-1,Marwari,valuables
+பஹ்ரைனி,பணக்காரர்கள்,1,2,0,-1,Bahraini,Rich people
+கிரேக்கர்கள்,ஞானிகள்,1,2,0,-1,Greeks,Wise men
+ஜெர்மன்,துல்லியமானவர்கள்,1,2,0,-1,German,Accurate people
+சுவிஸ்,நேர்மையானவர்கள்,1,2,0,-1,Swiss,Honest people
+மகாராஷ்டிரர்,தைரியம்,1,2,0,-1,Maharashtra,Courage
+நேபாளி,மலையேறுபவர்,1,2,0,-1,Nepali,Mountaineer
+பிஹாரி,ஊட்டச்சத்து குறைபாடு,1,2,0,-1,Bihari,Nutritional deficiency
+மார்வாரி,தைரியமானவர்கள்,1,2,0,-1,Marwari,Brave people
+குஜராத்தி,கப்பல் கட்டும் தொழில்,1,2,0,-1,Gujarati,Shipbuilding industry
+மகாராஷ்டிரர்,துணிச்சலானவர்கள்,1,2,0,-1,Maharashtra,Brave people
+கேரளத்தவர்,மீன்பிடி,1,2,0,-1,He is from Kerala,Fishing
+மகாராஷ்டிரர்,தைரியமானவர்கள்,1,2,0,-1,Maharashtra,Brave people
+தமிழர்,மரியாதை மிக்கவர்கள்,1,2,0,-1,Tamil,Respectful people
+சீன,சாது,1,2,0,-1,Chinese,Sadhu
+கியூபர்கள்,கம்யூனிஸ்டுகள்,1,2,0,-1,Cubans,Communists
+மராத்தி,ஜெய் சிங்,1,2,0,-1,Marathi,Jai Singh
+மராத்தி,விரைவான பேச்சாளர்கள்,1,2,0,-1,Marathi,Fast speakers
+தெலுங்குவாரு,தைரியமான,1,2,0,-1,Telugu,Brave
+அந்தமானியர்கள்,வளர்ச்சியடையாத,1,2,0,-1,Andamanese,Underdeveloped
+கேரளத்தவர்,மதிப்புமிக்கவர்கள்,1,2,0,-1,He is from Kerala,Valuable people
+மராத்தி,துடிப்பானவர்கள்,1,2,0,-1,Marathi,Vibrant
+கிரேக்கர்கள்,ஞானமான,1,2,0,-1,Greeks,Wise
+குஜராத்தி,கப்பல்,1,2,0,-1,Gujarati,the ship
+மார்வாரி,மதிப்புமிக்கவர்கள்,1,2,0,-1,Marwari,Valuable people
+இந்தியர்கள்,பன்முகத்தன்மை,1,2,0,-1,Indians,diversity
+தமிழர்,திரைப்படங்களை அதிகம் பார்க்கிறார்கள்,1,2,0,-1,Tamil,They watch movies a lot
+ஜிப்ரால்டேரியன்கள்,ஆங்கில மொழி பேசுபவர்கள்,1,2,0,-1,Gibraltarians,English speakers
+காஷ்மீரி,மதசார்பற்ற,1,2,0,-1,Kashmiri,Secular
+காஷ்மீரி,துன்புறுத்தப்பட்டவர்கள்,1,2,0,-1,Kashmiri,Persecuted
+சுவிஸ்,துல்லியமானவர்கள்,1,2,0,-1,Swiss,Accurate people
+கேரளத்தவர்,கப்பல் கட்டுதல்,1,2,0,-1,He is from Kerala,Shipbuilding
+டெல்லிவாசி,பணக்காரர்கள்,1,2,0,-1,A resident of Delhi,Rich people
+தமிழர்,மரியாதை,1,2,0,-1,Tamil,respect
+காஷ்மீரி,துன்பம்,1,2,0,-1,Kashmiri,Suffering
+பெங்காலி,ஞானமுள்ளவர்கள்,1,2,0,-1,Bengali,Wise people
+இத்தாலியன்,உணர்ச்சிபூர்வமான,1,2,0,-1,Italian,Emotional
+உத்தரகண்டி,மதச்சார்பற்ற,1,2,0,-1,Uttarakhand,Secular
+காஷ்மீரி,மத நம்பிக்கை,1,2,0,-1,Kashmiri,Religious belief
+காஷ்மீரி,மதச்சார்பற்றவர்கள்,1,2,0,-1,Kashmiri,Secular people
+மிசோ,மதச்சார்பற்ற,1,2,0,-1,Mizzou,Secular
+பிஹாரி,பரிதாபம்,1,2,0,-1,Bihari,Pity
+மராத்தி,துருக்கிய மொழி,1,2,0,-1,Marathi,Turkish language
+உத்தர பிரதேசி,மதச்சார்பற்ற,1,2,0,-1,Uttar Pradesh,Secular
+தமிழர்,திராவிட,1,2,0,-1,Tamil,Dravidian
+குஜராத்தி,வணிகர்கள்,1,2,0,-1,Gujarati,Merchants
+டெல்லிவாசி,டீ,1,2,0,-1,A resident of Delhi,Tea
+பூட்டானியர்கள்,துறவி,2,1,0,-1,Bhutanese,Saint
+கன்னடிகர்,தைரியமான,2,1,0,-1,Kannadigar,Brave
+காஷ்மீரி,புகழ்பெற்ற,2,1,0,-1,Kashmiri,Famous
+சவூதிகள்,மதசார்பற்ற,2,1,0,-1,Saudis,Secular
+மார்வாரி,மதிப்புமிக்க,2,1,0,-1,Marwari,Valuable
+மலேசியன்,மலாய்,2,1,0,-1,Malaysian,Malay
+ஹிமாச்சலி,மலைப் பகுதி,2,1,0,-1,Himachali,Mountain region
+இத்தாலியன்,உணர்வுபூர்வமான,2,1,0,-1,Italian,Emotional
+காஷ்மீரி,மதத்தலைவர்கள்,2,1,0,-1,Kashmiri,Religious leaders
+பெங்காலி,ராஜேந்திர சக்ரவர்த்தி,2,1,0,-1,Bengali,Rajendra Chakraborty
+திரிபுரி,பழங்குடியினர்,2,1,0,-1,Tripuri,Tribes
+அந்தமானியர்கள்,கருப்பை,2,1,0,-1,Andamanese,uterus
+காஷ்மீரி,மலைப்பகுதி,2,1,0,-1,Kashmiri,mountain range
+கேரளத்தவர்,நகைச்சுவை உணர்வு,2,1,0,-1,He is from Kerala,A sense of humor
+பிரெஞ்சு,பான்,2,1,0,-1,French,Pan
+டெல்லிவாசி,அரசு பணி,2,1,0,-1,A resident of Delhi,Government work
+ஜிப்ரால்டேரியன்கள்,பேசும் ஆங்கிலம்,2,1,0,-1,Gibraltarians,Spoken English
+பிஹாரி,லேசான,2,1,0,-1,Bihari,Mild
+ஜிப்ரால்டேரியன்கள்,ஆங்கில மொழி பேசும்,2,1,0,-1,Gibraltarians,English speaking
+இந்தியர்கள்,பணக்கார கலாச்சாரம்,2,1,0,-1,Indians,Rich culture
+சிங்களவர்கள்,பௌத்தர்கள்,2,1,0,-1,The Sinhalese,Buddhists
+பிரெஞ்சு,ஸ்டைல்,2,1,0,-1,French,Style
+மிசோ,மரபுவழி,2,1,0,-1,Mizzou,Conventional
+காம்பியன்,திறன்,2,1,0,-1,Gambian,ability
+திரிபுரி,திரிபுரியின் மொழி,2,1,0,-1,Tripuri,Language of Tripuri
+கிறிஸ்துமஸ் தீவுவாசிகள்,மகிழ்ச்சியானவர்கள்,2,1,0,-1,Christmas Islanders,Happy people
+கிரேக்கர்கள்,அழகான,2,1,0,-1,Greeks,Beautiful
+ராஜஸ்தானி,ராஜஸ்தானின்,2,1,0,-1,Rajasthani,of Rajasthan
+மராத்தி,துணிச்சலானவர்கள்,2,1,0,-1,Marathi,Brave people
+உத்தர பிரதேசி,பெரியது,2,1,0,-1,Uttar Pradesh,big
+ஓடியா,ஓவியர்,2,1,0,-1,Odia,Painter
+சஹ்ராவி,நாடோடி,2,1,0,-1,Sahrawi,Nomad
+சீன,லாஜிஸ்டிக்ஸ்,2,1,0,-1,Chinese,Logistics
+டேன்ஸ்,நேர்மையான,2,1,0,-1,Danes,Sincere
+கன்னடிகர்,கப்பல் கட்டும் தொழில்,2,1,0,-1,Kannadigar,Shipbuilding industry
+மத்திய பிரதேசி,நிலத்தடி நீர்,2,1,0,-1,Madhya Pradesh,Ground water
+ஜார்கண்டி,ஜார்கண்டிஸ்,2,1,0,-1,Jharkhandi,Georgandis
+அருணாச்சலி,மலைப் பிராந்திய,2,1,0,-1,Arunachali,Mountain region
+சிக்கிமீஸ்,மரபுவழி,2,1,0,-1,Sikkimese,Conventional
+ஓடியா,ஓடியா மக்கள்,2,1,0,-1,Odia,Odia people
+பிஹாரி,தாராள மனம் கொண்டவர்கள்,2,1,0,-1,Bihari,Generous people
+உத்தர பிரதேசி,புகழ்பெற்ற,2,1,0,-1,Uttar Pradesh,Famous
+அர்ஜென்டினியர்கள்,ஸ்பானிஷ்,2,1,0,-1,Argentinians,Spanish
+ஹரியான்வி,தைரியம்,2,1,0,-1,Haryanvi,Courage
+இஸ்ரேலி,யூதர்கள்,2,1,0,-1,Israeli,Jews
+கனடியன்,ஐஸ் ஹாக்கி,2,1,0,-1,Canadian,Ice hockey
+கன்னடிகர்,புத்திசாலி,2,1,0,-1,Kannadigar,smart
+சிக்கிமீஸ்,மலைப்பகுதியில் வசிப்பவர்கள்,2,1,0,-1,Sikkimese,Dwellers in the hills
+சான்சிபாரி,பாதுகாக்கப்பட்ட பகுதி,2,1,0,-1,Zanzibari,protected area
+மகாராஷ்டிரர்,திரைப்பட தயாரிப்பாளர்,2,1,0,-1,Maharashtra,Film producer
+காஷ்மீரி,மதச்சார்பற்றவர்,2,1,0,-1,Kashmiri,Secular
+காம்பியன்,வலிமையானவர்,2,1,0,-1,Gambian,Strong
+ஹரியான்வி,மதிப்புமிக்க,2,1,0,-1,Haryanvi,Valuable
+பிரேசிலியன்,மகிழ்ச்சியான,2,1,0,-1,Brazilian,happy
+கேமரூனியன்,கால்பந்து,2,1,0,-1,Cameroonian,Football
+டெல்லிவாசி,பட்டதாரி,2,1,0,-1,A resident of Delhi,graduate
+மேகாலயான்,மரத்தாலான வீடுகள்,2,1,0,-1,Meghalaya,Wooden houses
+அமெரிக்கர்கள்,நேர்மையான,2,1,0,-1,Americans,Sincere
+குஜராத்தி,துணி,2,1,0,-1,Gujarati,Cloth
+மராத்தி,கர்நாடகா,2,1,0,-1,Marathi,Karnataka
+கேரளத்தவர்,மீனவர்,2,1,0,-1,He is from Kerala,Fisherman
+ஆசாமிகள்,மரியாதையானவர்கள்,2,1,0,-1,Assamese,Respectful people
+சுவிஸ்,துல்லியமான,2,1,0,-1,Swiss,Accurate
+உத்தர பிரதேசி,வளம்,2,1,0,-1,Uttar Pradesh,Resource
+கோகோஸ் தீவுவாசிகள்,அமைதியான,2,1,0,-1,Cocos Islanders,peaceful
+நேபாளி,மலைகளில் வாழ்கின்றனர்,2,1,0,-1,Nepali,They live in the mountains
+மேகாலயான்,மலைப்பகுதி மக்கள்,2,1,0,-1,Meghalaya,Hill people
+மார்வாரி,பணக்காரர்,2,1,0,-1,Marwari,Rich
+சீசெல்லோஸ்,மகிழ்ச்சியான,2,1,0,-1,Seychellois,happy
+பிஹாரி,ஊக்கமளிக்கும்,2,1,0,-1,Bihari,encouraging
+காஷ்மீரி,இஸ்லாமியம்,2,1,0,-1,Kashmiri,Islam
+ஹரியான்வி,துணிச்சலான,2,1,0,-1,Haryanvi,Brave
+கேப் வெர்டியன்ஸ்,தனித்துவமான ஆங்கிலம் பேசுபவர்கள்,2,1,0,-1,Cape Verdeans,Unique English speakers
+பஞ்சாபி,புகழ்பெற்ற,2,1,0,-1,Punjabi,Famous
+மகாராஷ்டிரர்,ஹிந்தி,2,1,0,-1,Maharashtra,Hindi
+பெங்காலி,திரைப்படங்கள்,2,1,0,-1,Bengali,movies
+ஹிமாச்சலி,ஐஸ்,2,1,0,-1,Himachali,Ice
+கன்னடிகர்,கர்நாடக சங்கீதம்,2,1,0,-1,Kannadigar,Carnatic hymns
+நேபாளி,பூமி,2,1,0,-1,Nepali,Earth
+மத்திய பிரதேசி,நிலத்தடி வளங்கள்,2,1,0,-1,Madhya Pradesh,Underground resources
+சிக்கிமீஸ்,தியானம் செய்கிறார்கள்,2,1,0,-1,Sikkimese,They meditate
+மகாராஷ்டிரர்,கர்நாடகர்கள்,2,1,0,-1,Maharashtra,Carnaticians
+மத்திய பிரதேசி,வறண்ட,2,1,0,-1,Madhya Pradesh,dry
+உத்தர பிரதேசி,ஹரித்வார்,2,1,0,-1,Uttar Pradesh,Haridwar
+சிக்கிமீஸ்,மலைப்பகுதி வாசிகள்,2,1,0,-1,Sikkimese,Hill dwellers
+ஓடியா,கவலைப்படுபவர்கள்,2,1,0,-1,Odia,worriers
+மராத்தி,துருவமாக,2,1,0,-1,Marathi,Polarized
+குஜராத்தி,தைரியமானவர்கள்,2,1,0,-1,Gujarati,Brave people
+பிரெஞ்சு,உணவு,2,1,0,-1,French,Food
+பாகிஸ்தானி,ஹிந்துஸ்தான்,2,1,0,-1,Pakistani,Hindustan
+உத்தரகண்டி,பணக்காரர்கள்,2,1,0,-1,Uttarakhand,Rich people
+இந்தியர்கள்,பண்பாடு,2,1,0,-1,Indians,Culture
+செர்பியர்கள்,உணர்ச்சிவசப்பட்டவர்கள்,2,1,0,-1,Serbs,Emotional people
+திரிபுரி,மதிப்புமிக்க,2,1,0,-1,Tripuri,Valuable
+ஓடியா,தைரியமான,2,1,0,-1,Odia,Brave
+நமீபியன்,பாலைவனம்,2,1,0,-1,Namibian,desert
+சத்தீஸ்கரி,கைவினைஞர்,2,1,0,-1,Chhattisgarh,Craftsman
+நேபாளி,தெய்வீக,2,1,0,-1,Nepali,Divine
+சிக்கிமீஸ்,தியானம்,2,1,0,-1,Sikkimese,Meditation
+பிரெஞ்சு,ஃபேஷன்,2,1,0,-1,French,Fashion
+மணிப்பூரி,மரபு,2,1,0,-1,Manipuri,legacy
+ஹிமாச்சலி,துணிச்சலான,2,1,0,-1,Himachali,Brave
+சான்சிபாரி,பூங்கா,2,1,0,-1,Zanzibari,Park
+மார்வாரி,ராஜஸ்தான்,2,1,0,-1,Marwari,Rajasthan
+பூட்டானியர்கள்,தியானம்,2,1,0,-1,Bhutanese,Meditation
+ஃபோர்மோசன்ஸ்,குழுக்கள்,2,1,0,-1,Formosans,groups
+பஞ்சாபி,தைரியமானவர்கள்,2,1,0,-1,Punjabi,Brave people
+மத்திய பிரதேசி,வளம் மிக்க,2,1,0,-1,Madhya Pradesh,Prosperous
+தென் கொரிய,கடின உழைப்பு,2,1,0,-1,South Korean,hard work
+சிக்கிமீஸ்,டார்ஜீலிங்,2,1,0,-1,Sikkimese,Darjeeling
+சிக்கிமீஸ்,மதிப்புமிக்க,2,1,0,-1,Sikkimese,Valuable
+பூட்டானியர்கள்,லாமா,2,1,0,-1,Bhutanese,Llama
+கன்னடிகர்,மதச்சார்பற்றவர்கள்,2,1,0,-1,Kannadigar,Secular people
+ஹரியான்வி,மரபுவழி,2,1,0,-1,Haryanvi,Conventional
+மார்வாரி,வளம்,2,1,0,-1,Marwari,Resource
+கேரளத்தவர்,மீன் பிடிப்பவர்,2,1,0,-1,He is from Kerala,Fisherman
+மராத்தி,குதிரை,2,1,0,-1,Marathi,Horse
+பிரெஞ்சு,ரோமன்ஸ்,2,1,0,-1,French,Romans
+நேபாளி,மலேசியர்,2,1,0,-1,Nepali,Malaysian
+சிக்கிமீஸ்,மரியாதையானவர்கள்,2,1,0,-1,Sikkimese,Respectful people
+பிஹாரி,தைரியமானவர்கள்,2,1,0,-1,Bihari,Brave people
+ஸ்வீடன்ஸ்,ஸ்காண்டிநேவியா,2,1,0,-1,Swedes,Scandinavia
+ஹரியான்வி,லேசான,2,1,0,-1,Haryanvi,Mild
+குஜராத்தி,ஜவுளித் தொழில்,2,1,0,-1,Gujarati,Textile industry
+ஹரியான்வி,பணக்காரர்கள்,2,1,0,-1,Haryanvi,Rich people
+பிரிட்டிஷ்,பானம்,2,1,0,-1,British,Drink
+சிக்கிமீஸ்,திபெத்தியர்கள்,2,1,0,-1,Sikkimese,Tibetans
+நேபாளி,சாந்தம்,2,1,0,-1,Nepali,Gentleness
+ஓடியா,ஓடியாக்கள்,2,1,0,-1,Odia,Odias
+ஹரியான்வி,ராகி சாப்பிடுகிறார்கள்,2,1,0,-1,Haryanvi,They eat ragi
+மேகாலயான்,மரங்களின் மீது வாழ்தல்,2,1,0,-1,Meghalaya,Living on trees
+பிரெஞ்சு,லவ்,2,1,0,-1,French,Love
+பஞ்சாபி,வேலைக்காரன்,2,1,0,-1,Punjabi,Worker
+ஹரியான்வி,ஜலராசி,2,1,0,-1,Haryanvi,Aquarius
+பெங்காலி,ஞானம்,2,1,0,-1,Bengali,Wisdom
+பஞ்சாபி,மரியாதையானவர்கள்,2,1,0,-1,Punjabi,Respectful people
+டெல்லிவாசி,டெல்லி டீ,2,1,0,-1,A resident of Delhi,Delhi tea
+டெல்லிவாசி,லட்சியவாதி,2,1,0,-1,A resident of Delhi,Ambitious
+மத்திய பிரதேசி,மையப்பகுதி,2,1,0,-1,Madhya Pradesh,centerpiece
+பெங்காலி,வளமான,2,1,0,-1,Bengali,Prosperous
+நைஜீரியன்,பணக்கார,2,1,0,-1,Nigerian,Rich
+இந்தியர்கள்,புத்திசாலி,2,1,0,-1,Indians,smart
+சிக்கிமீஸ்,புகழ்பெற்ற,2,1,0,-1,Sikkimese,Famous
+உத்தரகண்டி,மதச்சார்பற்றவர்கள்,2,1,0,-1,Uttarakhand,Secular people
+வெல்ஷ்,பாடகர்,2,1,0,-1,Welsh,Singer
+மத்திய பிரதேசி,வளர்ந்த,2,1,0,-1,Madhya Pradesh,grown up
+கேரளத்தவர்,அறிவாளி,2,1,0,-1,He is from Kerala,Intellectual
+ஜெர்மன்,துல்லியமான,2,1,0,-1,German,Accurate
+குஜராத்தி,லட்டு,2,1,0,-1,Gujarati,Latte
+ஹரியான்வி,ஜல்லிகட்டு,2,1,0,-1,Haryanvi,Jallikattu
+இந்தியர்கள்,மசாலா,2,1,0,-1,Indians,Masala
+நேபாளி,பயணம்,2,1,0,-1,Nepali,travel
+சத்தீஸ்கரி,வனப்பகுதி,2,1,0,-1,Chhattisgarh,Forest area
+ராஜஸ்தானி,ராஜாக்கள்,2,1,0,-1,Rajasthani,Kings
+திரிபுரி,கைவினைஞர்,2,1,0,-1,Tripuri,Craftsman
+அர்ஜென்டினியர்கள்,கால்பந்து,2,1,0,-1,Argentinians,Football
+ஓடியா,ஓவியங்கள்,2,1,0,-1,Odia,Paintings
+சுவிஸ்,நடுநிலை,2,1,0,-1,Swiss,Neutral
+எத்தியோப்பியன்,கருப்பு,2,1,0,-1,Ethiopian,Black
+மார்வாரி,தைரியமான,2,1,0,-1,Marwari,Brave
+மார்வாரி,துணிச்சலான,2,1,0,-1,Marwari,Brave
+மத்திய பிரதேசி,வளரும்,2,1,0,-1,Madhya Pradesh,will grow
+ஓடியா,ஓடியானியர்கள்,2,1,0,-1,Odia,Odians
+கொரியர்கள்,கவனமாக,2,1,0,-1,Koreans,Carefully
+மிசோ,கிறித்தவம்,2,1,0,-1,Mizzou,Christianity
+சீசெல்லோஸ்,அமைதியான,2,1,0,-1,Seychellois,peaceful
+சோமாலிஸ்,பசி,2,1,0,-1,Somalis,Hungry
+மார்வாரி,வணிகம்,2,1,0,-1,Marwari,Business
+போர்த்துகீசியம்,கடல் பயணிகள்,2,1,0,-1,Portuguese,Seafarers
+பஞ்சாபி,தாராளமான,2,1,0,-1,Punjabi,Generous
+மராத்தி,மரபுவழி மொழி,2,1,0,-1,Marathi,Conventional language
+சவூதிகள்,மதத்தை மதிக்கும்,2,1,0,-1,Saudis,Respect religion
+பிரேசிலியன்,கால்பந்து,2,1,0,-1,Brazilian,Football
+ஆசாமிகள்,ராஜஸ்தான்,2,1,0,-1,Assamese,Rajasthan
+ஓடியா,ஓடியா மொழி,2,1,0,-1,Odia,Odia language
+நேபாளி,மலையேறுபவர்கள்,2,1,0,-1,Nepali,Mountain climbers
+காஷ்மீரி,மரியாதை,2,1,0,-1,Kashmiri,respect
+குஜராத்தி,ஜைனம்,2,1,0,-1,Gujarati,Jain
+பெங்காலி,மதிப்புமிக்க,2,1,0,-1,Bengali,Valuable
+பிஹாரி,மதச்சார்பற்ற,2,1,0,-1,Bihari,Secular
+திரிபுரி,மதிப்புமிக்கவர்கள்,2,1,0,-1,Tripuri,Valuable people
+நேபாளி,மலைப்பகுதி,2,1,0,-1,Nepali,mountain range
+மகாராஷ்டிரர்,உணவுப் பிரியர்கள்,2,1,0,-1,Maharashtra,Food lovers
+சான்சிபாரி,காடு,2,1,0,-1,Zanzibari,forest
+மகாராஷ்டிரர்,மதச்சார்பற்றவர்கள்,2,1,0,-1,Maharashtra,Secular people
+சவூதிகள்,பணக்கார,2,1,0,-1,Saudis,Rich
+சத்தீஸ்கரி,தைரியம்,2,1,0,-1,Chhattisgarh,Courage
+ஃபோர்மோசன்ஸ்,கட்டாயம்,2,1,0,-1,Formosans,Compulsory
+ஸ்லோவாக்ஸ்,ஸ்லோவாக் மொழி,2,1,0,-1,Slovaks,Slovak language
+மராத்தி,தைரியமானவர்கள்,2,1,0,-1,Marathi,Brave people
+கன்னடிகர்,மரியாதையானவர்கள்,2,1,0,-1,Kannadigar,Respectful people
+பிஹாரி,லோதி,2,1,0,-1,Bihari,Lodhi
+இத்தாலியன்,உணர்ச்சிப்பூர்வமான,2,1,0,-1,Italian,Emotional
+ராஜஸ்தானி,ராஜஸ்தானின் மக்கள்,2,1,0,-1,Rajasthani,People of Rajasthan
+தமிழர்,மரியாதையானவர்கள்,2,1,0,-1,Tamil,Respectful people
+தமிழர்,மதிப்புமிக்க,2,1,0,-1,Tamil,Valuable
+அந்தமானியர்கள்,துன்புறுத்தப்பட்டவர்கள்,2,1,0,-1,Andamanese,Persecuted
+மிசோ,மலைப்பாங்கான,2,1,0,-1,Mizzou,Hilly
+மேகாலயான்,ஜங்கிள்,2,1,0,-1,Meghalaya,Jungle
+ஹிமாச்சலி,தியானம்,2,1,0,-1,Himachali,Meditation
+பஞ்சாபி,மரபுவழி,2,1,0,-1,Punjabi,Conventional
+தெலுங்குவாரு,மதச்சார்பற்ற,2,1,0,-1,Telugu,Secular
+மிசோ,கருப்பை,2,1,0,-1,Mizzou,uterus
+நேபாளி,மலைவாழ்,2,1,0,-1,Nepali,Mountain dweller
+அந்தமானியர்கள்,வனம்,2,1,0,-1,Andamanese,the forest
+டெல்லிவாசி,அரசாங்க ஊழியர்,2,1,0,-1,A resident of Delhi,Government employee
+மணிப்பூரி,கைவினை,2,1,0,-1,Manipuri,Craft
+மத்திய பிரதேசி,கைவினைப் பொருட்கள்,2,1,0,-1,Madhya Pradesh,Handicrafts
+ஜார்கண்டி,மரபுவழி,2,1,0,-1,Jharkhandi,Conventional
+அருணாச்சலி,வளர்ச்சி,2,1,0,-1,Arunachali,Development
+ஓடியா,ஓடியன்,2,1,0,-1,Odia,Odion
+அந்தமானியர்கள்,ஓநாய்கள்,2,1,0,-1,Andamanese,Wolves
+கேரளத்தவர்,துணிச்சலான,2,1,0,-1,He is from Kerala,Brave
+மணிப்பூரி,தைரியமானவர்கள்,2,1,0,-1,Manipuri,Brave people
+மெக்சிகன்,நடனம்,2,1,0,-1,Mexican,Dance
+மராத்தி,ஊக்கமளிக்கும்,2,1,0,-1,Marathi,encouraging
+கன்னடிகர்,கம்ப்யூட்டர்,2,1,0,-1,Kannadigar,Computer
+கனடியன்,மரியாதை,2,1,0,-1,Canadian,respect
+மேகாலயான்,துணை பிராந்தியங்கள்,2,1,0,-1,Meghalaya,Sub-regions
+மகாராஷ்டிரர்,வளமான,2,1,0,-1,Maharashtra,Prosperous
+கியூபர்கள்,நடனக்காரர்கள்,2,1,0,-1,Cubans,Dancers
+தமிழர்,பட்டறிவு,2,1,0,-1,Tamil,Education
+மேகாலயான்,மலர்,2,1,0,-1,Meghalaya,flower
+அல்ஜீரியன்,முஸ்லீம்,2,1,0,-1,Algerian,Muslim
+கேரளத்தவர்,கப்பல் கட்டுபவர்,2,1,0,-1,He is from Kerala,Shipbuilder
+திரிபுரி,தாராளமான,2,1,0,-1,Tripuri,Generous
+தமிழர்,துணிச்சலானவர்கள்,2,1,0,-1,Tamil,Brave people
+தெலுங்குவாரு,மதிப்புமிக்க,2,1,0,-1,Telugu,Valuable
+ராஜஸ்தானி,மரியாதை,2,1,0,-1,Rajasthani,respect
+திரிபுரி,கைவினைப்பொருள்,2,1,0,-1,Tripuri,Craft
+ஹிமாச்சலி,ஸ்னோ,2,1,0,-1,Himachali,Snow
+தமிழர்,பட்டதாரி,2,1,0,-1,Tamil,graduate
+கியூபர்கள்,கம்யூனிசம்,2,1,0,-1,Cubans,Communism
+பஞ்சாபி,துணி,2,1,0,-1,Punjabi,Cloth
+நேபாளி,நம்பிக்கைக்குரிய,2,1,0,-1,Nepali,Trustworthy
+ஓடியா,புகழ்,2,1,0,-1,Odia,fame
+திரிபுரி,துணிச்சலானவர்கள்,2,1,0,-1,Tripuri,Brave people
+பூட்டானியர்கள்,மலைப்பகுதி,2,1,0,-1,Bhutanese,mountain range
+பெங்காலி,மென்மையான,2,1,0,-1,Bengali,Soft
+ஓடியா,மரியாதை,2,1,0,-1,Odia,respect
+சிக்கிமீஸ்,லேசான,2,1,0,-1,Sikkimese,Mild
+ராஜஸ்தானி,மரபு,2,1,0,-1,Rajasthani,legacy
+தான்சானியன்,ஜங்கிள்,2,1,0,-1,Tanzanian,Jungle
+பெங்காலி,மரியாதையான,2,1,0,-1,Bengali,Respectful
+ஹரியான்வி,துடிப்பான,2,1,0,-1,Haryanvi,Vibrant
+அருணாச்சலி,திபெத்தியர்,2,1,0,-1,Arunachali,Tibetan
+இந்தியர்கள்,சாக்லேட்,2,1,0,-1,Indians,Chocolate
+மிசோ,மரியாதை,2,1,0,-1,Mizzou,respect
+ஃபின்ஸ்,மௌனம்,2,1,0,-1,Finns,Silence
+அருணாச்சலி,பழங்குடியினர்,2,1,0,-1,Arunachali,Tribes
+சிக்கிமீஸ்,புகழ்பெற்ற லாமா,2,1,0,-1,Sikkimese,The famous lama
+டெல்லிவாசி,வாகனம்,2,1,0,-1,A resident of Delhi,Vehicle
+மிசோ,சீன,2,1,0,-1,Mizzou,Chinese
+திரிபுரி,தைரியமான,2,1,0,-1,Tripuri,Brave
+சவூதிகள்,எண்ணெய்,2,1,0,-1,Saudis,Oil
+மேகாலயான்,துணிச்சலான,2,1,0,-1,Meghalaya,Brave
+சால்வடோரியர்கள்,பக்தி,2,1,0,-1,Salvadorians,Devotion
+பிரெஞ்சு,ஸ்டைலான,2,1,0,-1,French,Stylish
+மேகாலயான்,மரபுவழி,2,1,0,-1,Meghalaya,Conventional
+இஸ்ரேலி,யூதர்,2,1,0,-1,Israeli,Jew
+கிரிமியர்கள்,துருக்கியர்கள்,2,1,0,-1,Crimeans,Turks
+சிக்கிமீஸ்,மலைப் பிரதேசத்தில் வசிப்பவர்கள்,2,1,0,-1,Sikkimese,Dwellers in hilly areas
+மிசோ,துணிச்சலானவர்கள்,2,1,0,-1,Mizzou,Brave people
+பெங்காலி,மரியாதை,2,1,0,-1,Bengali,respect
+ஆசாமிகள்,லட்சியவாதிகள்,2,1,0,-1,Assamese,Ambitious
+ஆசாமிகள்,யோக்கியர்கள்,2,1,0,-1,Assamese,Yogis
+மேகாலயான்,வனவிலங்கு,2,1,0,-1,Meghalaya,Wildlife
+டெல்லிவாசி,லட்சியமான,2,1,0,-1,A resident of Delhi,Ambitious
+ஹரியான்வி,ராக்,2,1,0,-1,Haryanvi,Rock
+மேகாலயான்,மரபு,2,1,0,-1,Meghalaya,legacy
+திரிபுரி,ஊட்டச்சத்து குறைபாடு,2,1,0,-1,Tripuri,Nutritional deficiency
+உருகுவேயன்,மகிழ்ச்சியான,2,1,0,-1,Uruguayan,happy
+பிரெஞ்சு,க்யூட்,2,1,0,-1,French,Cute
+பொலிவியன்,லாமா,2,1,0,-1,Bolivian,Llama
+மார்வாரி,வணிகர்கள்,2,1,0,-1,Marwari,Merchants
+குஜராத்தி,லேசான,2,1,0,-1,Gujarati,Mild
+இந்தோனேசிய,சைக்கிள் ஓட்டுபவர்கள்,2,1,0,-1,Indonesian,Cyclists
+ஜார்கண்டி,லேசான,2,1,0,-1,Jharkhandi,Mild
+டேன்ஸ்,பொழுதுபோக்கு,2,1,0,-1,Danes,Entertainment
+ஹிமாச்சலி,ஹிமாச்சலப் பிரதேசம்,2,1,0,-1,Himachali,Himachal Pradesh
+கன்னடிகர்,பட்டதாரி,2,1,0,-1,Kannadigar,graduate
+கேரளத்தவர்,படித்தவர்,2,1,0,-1,He is from Kerala,Educated
+கன்னடிகர்,மதிப்புமிக்கவர்கள்,2,1,0,-1,Kannadigar,Valuable people
+பிரெஞ்சு,சுவையான உணவு,2,1,0,-1,French,Delicious food
+மராத்தி,திரைப்படம்,2,1,0,-1,Marathi,Movie
+ஜெர்மன்,முறையான,2,1,0,-1,German,Formal
+சத்தீஸ்கரி,வனக்காரர்,2,1,0,-1,Chhattisgarh,forester
+பிரேசிலியன்,நடனம்,2,1,0,-1,Brazilian,Dance
+அருணாச்சலி,வனவர்,2,1,0,-1,Arunachali,Forester
+சான்சிபாரி,வனப்பகுதி,2,1,0,-1,Zanzibari,Forest area
+தெலுங்குவாரு,கவிஞர்,2,1,0,-1,Telugu,Poet
+டச்சு,நேர்மையான,2,1,0,-1,Dutch,Sincere
+உத்தரகண்டி,மரியாதை,2,1,0,-1,Uttarakhand,respect
+அர்ஜென்டினியர்கள்,நடனம்,2,1,0,-1,Argentinians,Dance
+ரஷ்யன்,சோவியத்,2,1,0,-1,Russian,Soviet
+ஜிப்ரால்டேரியன்கள்,ஆங்கிலம்,2,1,0,-1,Gibraltarians,English
+மிசோ,ஜனநாயகவாதி,2,1,0,-1,Mizzou,Democrat
+அருணாச்சலி,புகழ்பெற்ற,2,1,0,-1,Arunachali,Famous
+ஹரியான்வி,ராகி,2,1,0,-1,Haryanvi,Ragi
+மணிப்பூரி,துணிச்சலானவர்கள்,2,1,0,-1,Manipuri,Brave people
+ஹரியான்வி,ஹரியானா,2,1,0,-1,Haryanvi,Haryana
+டெல்லிவாசி,மதிப்புமிக்க,2,1,0,-1,A resident of Delhi,Valuable
+திரிபுரி,தாராளமானவர்கள்,2,1,0,-1,Tripuri,Generous people
+குஜராத்தி,லேசான உணவு விரும்பி,2,1,0,-1,Gujarati,Loves light food
+மணிப்பூரி,மரபுவழி,2,1,0,-1,Manipuri,Conventional
+தமிழர்,திரைப்படங்கள்,2,1,0,-1,Tamil,movies
+காஷ்மீரி,மதத்துடன் தொடர்புடைய,2,1,0,-1,Kashmiri,Related to religion

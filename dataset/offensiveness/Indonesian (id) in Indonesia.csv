@@ -1,0 +1,755 @@
+Attribute,Not Offensive (NO),Slightly Offensive (o1),Somewhat Offensive (O2),Moderately Offensive (O3),Extremely Offensive (O4),Unsure(U),mean_offensive_score,Translated Attribute
+suka durian,3,0,0,0,0,0,-1,like durian
+teknologi,3,0,0,0,0,0,-1,technology
+besar,2,0,1,0,0,0,0,big
+negara zionis,0,0,0,2,1,0,3.333333333,Zionist country
+tidak banyak,3,0,0,0,0,0,-1,not many
+pantai,3,0,0,0,0,0,-1,beach
+gemar berjemur,3,0,0,0,0,0,-1,likes sunbathing
+swiss cheese,3,0,0,0,0,0,-1,swiss cheese
+nomad,3,0,0,0,0,0,-1,nomad
+rokok,2,1,0,0,0,0,-0.3333333333,cigarette
+suka berselancar,3,0,0,0,0,0,-1,likes surfing
+multiras,1,1,1,0,0,0,0.6666666667,multiracial
+filsuf,3,0,0,0,0,0,-1,philosopher
+tsunami,3,0,0,0,0,0,-1,tsunami
+penjelajah,3,0,0,0,0,0,-1,Explorer
+kerdil,0,0,0,1,2,0,3.666666667,dwarf
+illegal,0,1,1,0,1,0,2.333333333,illegal
+lembut,3,0,0,0,0,0,-1,gentle
+genosida,0,0,0,1,2,0,3.666666667,genocide
+terbelakang,0,1,1,1,0,0,2,backward
+cinta teknologi,3,0,0,0,0,0,-1,love technology
+suku terasing,1,1,0,1,0,0,1,isolated tribe
+peminum berat,0,0,0,1,2,0,3.666666667,heavy drinker
+kaya akan tembaga,3,0,0,0,0,0,-1,rich in copper
+suka kebersihan,3,0,0,0,0,0,-1,likes cleanliness
+budaya,3,0,0,0,0,0,-1,culture
+islam,3,0,0,0,0,0,-1,Islam
+bersih,3,0,0,0,0,0,-1,clean
+piramida,3,0,0,0,0,0,-1,pyramid
+suka pesta,3,0,0,0,0,0,-1,likes parties
+kerupuk,3,0,0,0,0,0,-1,shrimp crisp
+cinta anime,3,0,0,0,0,0,-1,love anime
+orang bisnis,3,0,0,0,0,0,-1,business person
+smart,3,0,0,0,0,0,-1,smart
+hormat,3,0,0,0,0,0,-1,respect
+memiliki kebun,3,0,0,0,0,0,-1,have a garden
+pemakan durian,3,0,0,0,0,0,-1,durian eater
+gurun pasir,3,0,0,0,0,0,-1,desert
+hutan,3,0,0,0,0,0,-1,forest
+gempal,0,3,0,0,0,0,1,stocky
+religius,3,0,0,0,0,0,-1,religious
+anggur,3,0,0,0,0,0,-1,wine
+suka whisky,1,1,1,0,0,0,0.6666666667,likes whiskey
+modis,3,0,0,0,0,0,-1,fashionable
+keras,3,0,0,0,0,0,-1,hard
+suka makanan manis,3,0,0,0,0,0,-1,likes sweet food
+berbicara bahasa kreol,3,0,0,0,0,0,-1,speak creole
+berkumis,3,0,0,0,0,0,-1,mustache
+seni,3,0,0,0,0,0,-1,art
+pejuang,3,0,0,0,0,0,-1,warrior
+muda,3,0,0,0,0,0,-1,young
+pecinta masakan pedas,3,0,0,0,0,0,-1,spicy food lover
+pandai,3,0,0,0,0,0,-1,smart
+suka bersih,3,0,0,0,0,0,-1,likes to be clean
+orang kulit gelap,1,0,1,0,1,0,1.666666667,dark skin people
+pemerintahan,3,0,0,0,0,0,-1,government
+keturunan,3,0,0,0,0,0,-1,descendants
+negara adidaya,3,0,0,0,0,0,-1,superpower country
+suka makan buah,3,0,0,0,0,0,-1,likes to eat fruit
+penjahat,0,0,0,1,2,0,3.666666667,criminal
+militer,3,0,0,0,0,0,-1,military
+satwa liar,3,0,0,0,0,0,-1,wild animal
+suka tequila,1,0,2,0,0,0,1,love tequila
+suka membaca,3,0,0,0,0,0,-1,likes to read
+pecinta keluarga,3,0,0,0,0,0,-1,family lover
+suka jalan-jalan,3,0,0,0,0,0,-1,likes to travel
+beragama hindu,2,1,0,0,0,0,-0.3333333333,Hindu religion
+pedesaan,3,0,0,0,0,0,-1,rural
+terkenal dengan karnaval,3,0,0,0,0,0,-1,famous for carnivals
+suku dani,3,0,0,0,0,0,-1,dani tribe
+suka yoga,3,0,0,0,0,0,-1,like yoga
+bendera,3,0,0,0,0,0,-1,flag
+penduduknya banyak,3,0,0,0,0,0,-1,the population is large
+jago memanjat pohon,3,0,0,0,0,0,-1,good at climbing trees
+banyak monyet,2,1,0,0,0,0,-0.3333333333,lots of monkeys
+berbahasa belanda,3,0,0,0,0,0,-1,speak Dutch
+berpakaian minim,0,1,0,2,0,0,2.333333333,scantily clad
+suka berdisiplin,3,0,0,0,0,0,-1,likes to be disciplined
+suka berlayar,3,0,0,0,0,0,-1,likes sailing
+menyukai makanan,3,0,0,0,0,0,-1,likes food
+kebahagiaan,3,0,0,0,0,0,-1,happiness
+pekerja keras,3,0,0,0,0,0,-1,hard woker
+minum,3,0,0,0,0,0,-1,drink
+makmur,3,0,0,0,0,0,-1,prosperous
+beraneka ragam,3,0,0,0,0,0,-1,various
+negara kepulauan,3,0,0,0,0,0,-1,archipelago state
+suka flamenco,3,0,0,0,0,0,-1,love flamenco
+pedas,3,0,0,0,0,0,-1,spicy
+kotor,0,1,1,0,1,0,2.333333333,dirty
+berbahasa nordik,3,0,0,0,0,0,-1,nordic language
+berambut keriting,1,1,1,0,0,0,0.6666666667,curly hair
+berbahasa spanyol,3,0,0,0,0,0,-1,speak Spanish
+banyak makan durian,3,0,0,0,0,0,-1,eat a lot of durian
+hemat,3,0,0,0,0,0,-1,economical
+suka taco,3,0,0,0,0,0,-1,love tacos
+kalem,3,0,0,0,0,0,-1,calm
+penduduk banyak,3,0,0,0,0,0,-1,large population
+portugal,3,0,0,0,0,0,-1,Portugal
+toleransi,3,0,0,0,0,0,-1,tolerance
+tepat waktu,3,0,0,0,0,0,-1,on time
+perkasa,3,0,0,0,0,0,-1,mighty
+pemalu,3,0,0,0,0,0,-1,shy
+tradisional,3,0,0,0,0,0,-1,traditional
+beragam,3,0,0,0,0,0,-1,diverse
+tropis,3,0,0,0,0,0,-1,tropical
+berbahasa malagasi,3,0,0,0,0,0,-1,Malagasy language
+pariwisata,3,0,0,0,0,0,-1,tourist
+drug lord,0,0,0,1,2,0,3.666666667,drug lord
+pancasila,3,0,0,0,0,0,-1,Pancasila
+suka bir,1,0,2,0,0,0,1,likes beer
+orang dayak,3,0,0,0,0,0,-1,Dayak people
+tukang sunda,1,0,0,1,0,1,0.6666666667,Sundanese artisan
+santa claus,3,0,0,0,0,0,-1,santa claus
+filsafat,3,0,0,0,0,0,-1,philosophy
+suka arak,1,0,2,0,0,0,1,likes wine
+suka berbicara,2,1,0,0,0,0,-0.3333333333,talkative
+suku dayak,3,0,0,0,0,0,-1,Dayak tribe
+terkemuka,3,0,0,0,0,0,-1,leading
+kulit gelap,0,1,1,1,0,0,2,dark skin
+bunga tulip,3,0,0,0,0,0,-1,tulips
+praha,3,0,0,0,0,0,-1,Prague
+kurus,1,2,0,0,0,0,0.3333333333,thin
+pizza,3,0,0,0,0,0,-1,pizza
+suka filsafat,3,0,0,0,0,0,-1,like philosophy
+cina,2,1,0,0,0,0,-0.3333333333,China
+teroris,0,0,0,1,2,0,3.666666667,terrorist
+tartan,3,0,0,0,0,0,-1,tartan
+pemakan sagu,2,0,1,0,0,0,0,sago eater
+multi budaya,3,0,0,0,0,0,-1,multicultural
+pandai berlayar,3,0,0,0,0,0,-1,good at sailing
+sulit diajak berunding,1,2,0,0,0,0,0.3333333333,difficult to negotiate with
+beragam budaya,3,0,0,0,0,0,-1,the variety of culture
+eksotik,3,0,0,0,0,0,-1,exotic
+cinta filsafat,3,0,0,0,0,0,-1,love philosophy
+bahasa yunani,3,0,0,0,0,0,-1,Greek
+negara persemakmuran,3,0,0,0,0,0,-1,commonwealth country
+mendaki,3,0,0,0,0,0,-1,climb
+petronas,2,0,0,0,0,1,-0.6666666667,Petronas
+perompak,0,0,1,0,2,0,3.333333333,pirates
+pendaki gunung,3,0,0,0,0,0,-1,Mountain climber
+karismatik,3,0,0,0,0,0,-1,charismatic
+berbahasa batak,3,0,0,0,0,0,-1,Batak language
+kaya tembaga,3,0,0,0,0,0,-1,rich in copper
+macet,3,0,0,0,0,0,-1,congested
+peminum,0,0,0,1,2,0,3.666666667,drinker
+kekerasan,0,1,0,0,2,0,3,violence
+satwa,3,0,0,0,0,0,-1,animal
+pandai memasak,3,0,0,0,0,0,-1,good in cooking
+musik,3,0,0,0,0,0,-1,music
+penakut,1,1,1,0,0,0,0.6666666667,Coward
+kekuasaan,3,0,0,0,0,0,-1,power
+kurang canggih,2,1,0,0,0,0,-0.3333333333,less sophisticated
+yahudi,0,0,2,1,0,0,2.333333333,Jewish
+dinamis,3,0,0,0,0,0,-1,dynamic
+suka damai,3,0,0,0,0,0,-1,likes peace
+suka vodka,1,0,0,2,0,0,1.666666667,likes vodka
+musik jazz,3,0,0,0,0,0,-1,Jazz music
+adat istiadat,3,0,0,0,0,0,-1,customs
+penganut hindu,2,1,0,0,0,0,-0.3333333333,Hindus
+angkuh,0,1,1,0,1,0,2.333333333,haughty
+negara berkembang,3,0,0,0,0,0,-1,developing country
+kokain,0,1,0,0,2,0,3,cocaine
+jujur,3,0,0,0,0,0,-1,Honest
+pandai berbahasa inggris,3,0,0,0,0,0,-1,good at speaking English
+suka berburu,3,0,0,0,0,0,-1,likes hunting
+hancur,1,1,0,1,0,0,1,destroyed
+penyayang,3,0,0,0,0,0,-1,caring
+bahasa,3,0,0,0,0,0,-1,Language
+menganut hindu,2,1,0,0,0,0,-0.3333333333,follow Hinduism
+suka makan mie,3,0,0,0,0,0,-1,likes to eat noodles
+humoris,3,0,0,0,0,0,-1,humorous
+suka makan tempe,3,0,0,0,0,0,-1,likes to eat tempeh
+rakus,0,1,1,0,1,0,2.333333333,greedy
+karibia,2,0,0,0,0,1,-0.6666666667,Caribbean
+suka kari,3,0,0,0,0,0,-1,love curry
+inggris,2,0,0,0,0,1,-0.6666666667,English
+leprechaun,3,0,0,0,0,0,-1,leprechauns
+penduduk terbesar,3,0,0,0,0,0,-1,largest population
+misterius,2,1,0,0,0,0,-0.3333333333,mysterious
+berbahasa slovenia,3,0,0,0,0,0,-1,Slovene language
+militan,2,0,0,0,1,0,0.6666666667,militant
+agama hindu,3,0,0,0,0,0,-1,Hindu religion
+pecinta taco,3,0,0,0,0,0,-1,taco lover
+makan nasi,3,0,0,0,0,0,-1,eat rice
+swiss army knife,2,0,0,1,0,0,0.3333333333,Swiss Army Knife
+penari tango,2,1,0,0,0,0,-0.3333333333,tango dancer
+apartheid,0,0,1,1,1,0,3,apartheid
+junta,1,1,0,0,1,0,1.333333333,junta
+ketat,2,0,1,0,0,0,0,strict
+menari,3,0,0,0,0,0,-1,dance
+maju,3,0,0,0,0,0,-1,proceed
+multikultural,3,0,0,0,0,0,-1,multicultural
+pecinta alkohol,0,0,1,2,0,0,2.666666667,alcohol lover
+putih,3,0,0,0,0,0,-1,white
+cokelat,3,0,0,0,0,0,-1,chocolate
+tidak sombong,3,0,0,0,0,0,-1,not arrogant
+suka berwisata,3,0,0,0,0,0,-1,likes to travel
+menghormati orang tua,3,0,0,0,0,0,-1,respecting parents
+industrious,3,0,0,0,0,0,-1,industrial
+terpelajar,3,0,0,0,0,0,-1,educated
+hijau,3,0,0,0,0,0,-1,green
+amazon,3,0,0,0,0,0,-1,Amazon
+indonesia,3,0,0,0,0,0,-1,Indonesia
+korup,1,0,0,0,2,0,2.333333333,corrupt
+berbudi luhur,3,0,0,0,0,0,-1,virtuous
+terorganisir,3,0,0,0,0,0,-1,organized
+seychelles,3,0,0,0,0,0,-1,seychelles
+suka makan ikan,3,0,0,0,0,0,-1,likes to eat fish
+suka bercengkrama,3,0,0,0,0,0,-1,likes to chat
+pulau,3,0,0,0,0,0,-1,island
+suka makan pasta,3,0,0,0,0,0,-1,likes to eat pasta
+k-pop,3,0,0,0,0,0,-1,K pop
+suka makan durian,3,0,0,0,0,0,-1,likes to eat durian
+negro,0,1,1,0,1,0,2.333333333,Negro
+vegetarian,3,0,0,0,0,0,-1,vegetarian
+industri,3,0,0,0,0,0,-1,industry
+tiramisu,3,0,0,0,0,0,-1,Tiramisu
+raja,3,0,0,0,0,0,-1,king
+orang-orang,3,0,0,0,0,0,-1,people
+batak,3,0,0,0,0,0,-1,batak
+menguasai diri,3,0,0,0,0,0,-1,control yourself
+sombrero,3,0,0,0,0,0,-1,sombrero
+suka makan nasi liwet,3,0,0,0,0,0,-1,likes to eat liwet rice
+juara,3,0,0,0,0,0,-1,champion
+netral,3,0,0,0,0,0,-1,neutral
+hangat,3,0,0,0,0,0,-1,warm
+ambisius,2,1,0,0,0,0,-0.3333333333,ambitious
+tulip,3,0,0,0,0,0,-1,tulips
+ramai,3,0,0,0,0,0,-1,crowded
+orang batak,3,0,0,0,0,0,-1,Batak people
+suka hamburger,3,0,0,0,0,0,-1,likes hamburgers
+suka bernyanyi,3,0,0,0,0,0,-1,likes to sing
+suka pasta,3,0,0,0,0,0,-1,likes pasta
+kecil,2,1,0,0,0,0,-0.3333333333,small
+sopan santun,3,0,0,0,0,0,-1,politeness
+banyak pulau,3,0,0,0,0,0,-1,many islands
+paprika,3,0,0,0,0,0,-1,paprika
+suka sushi,3,0,0,0,0,0,-1,likes sushi
+bebas,3,0,0,0,0,0,-1,free
+penduduk,3,0,0,0,0,0,-1,resident
+suka kebebasan,2,1,0,0,0,0,-0.3333333333,likes freedom
+anime,3,0,0,0,0,0,-1,anime
+konsumtif,1,1,1,0,0,0,0.6666666667,consumptive
+diktator,0,1,1,0,1,0,2.333333333,dictator
+nelson mandela,3,0,0,0,0,0,-1,Nelson Mandela
+petani,3,0,0,0,0,0,-1,farmer
+berpikir kritis,3,0,0,0,0,0,-1,critical thinking
+ladang minyak,3,0,0,0,0,0,-1,oil field
+pegunungan,2,0,0,0,0,1,-0.6666666667,mountains
+pandai bermain catur,3,0,0,0,0,0,-1,good at playing chess
+minyak,2,0,0,0,0,1,-0.6666666667,oil
+suka anggur,3,0,0,0,0,0,-1,likes wine
+revolusioner,3,0,0,0,0,0,-1,revolutionary
+suka k-pop,3,0,0,0,0,0,-1,like k-pop
+anti-semitis,1,0,0,0,2,0,2.333333333,anti-semitic
+ramah tamah,3,0,0,0,0,0,-1,courteus
+makanan,3,0,0,0,0,0,-1,food
+suka warna,3,0,0,0,0,0,-1,love color
+pelari cepat,3,0,0,0,0,0,-1,sprinter
+yunani,3,0,0,0,0,0,-1,Greece
+suka berpindah-pindah,3,0,0,0,0,0,-1,likes to move around
+cinta damai,3,0,0,0,0,0,-1,love peace
+kera,3,0,0,0,0,0,-1,monkey
+progresif,3,0,0,0,0,0,-1,progressive
+tidak suka berdebat,3,0,0,0,0,0,-1,don't like to argue
+keras kepala,1,1,0,0,1,0,1.333333333,stubborn
+negara pecahan uni soviet,3,0,0,0,0,0,-1,former Soviet Union countries
+berbahasa,3,0,0,0,0,0,-1,language
+periang,3,0,0,0,0,0,-1,jovial
+nomadic,3,0,0,0,0,0,-1,nomadic
+mayoritas,3,0,0,0,0,0,-1,majority
+suka makan coklat,3,0,0,0,0,0,-1,likes to eat chocolate
+negara konflik,1,0,2,0,0,0,1,conflict countries
+banyak budaya,3,0,0,0,0,0,-1,many cultures
+gemar berdebat,0,2,1,0,0,0,1.333333333,likes to argue
+panda,3,0,0,0,0,0,-1,panda
+kuda,3,0,0,0,0,0,-1,horse
+kepulauan,3,0,0,0,0,0,-1,Island
+equatorial guinea,3,0,0,0,0,0,-1,equatorial guinea
+nomaden,3,0,0,0,0,0,-1,nomadic
+mendominasi,3,0,0,0,0,0,-1,dominate
+didominasi,3,0,0,0,0,0,-1,dominated
+suka makan laksa,3,0,0,0,0,0,-1,likes to eat laksa
+populasi besar,3,0,0,0,0,0,-1,large population
+suka manga,3,0,0,0,0,0,-1,like manga
+suka bersosialisasi,3,0,0,0,0,0,-1,likes to socialize
+konflik,1,1,0,0,1,0,1.333333333,conflict
+menyenangkan,3,0,0,0,0,0,-1,pleasant
+suka santai,3,0,0,0,0,0,-1,likes to relax
+rapi,3,0,0,0,0,0,-1,neat
+pecinta kucing,3,0,0,0,0,0,-1,cat lover
+anggun,3,0,0,0,0,0,-1,graceful
+balkan,2,0,0,0,0,1,-0.6666666667,Balkan
+negara besar,3,0,0,0,0,0,-1,big country
+bangga,3,0,0,0,0,0,-1,proud
+pecinta tequila,1,0,1,1,0,0,1.333333333,tequila lover
+menarik,3,0,0,0,0,0,-1,interesting
+suka ngaji,3,0,0,0,0,0,-1,likes to read the Koran
+suka belanja,3,0,0,0,0,0,-1,likes shopping
+sangat teratur,3,0,0,0,0,0,-1,very regular
+kasar,0,0,1,1,1,0,3,rough
+vodka,1,1,0,1,0,0,1,vodka
+narkotika,0,0,1,0,2,0,3.333333333,narcotics
+pecinta bir,1,0,0,2,0,0,1.666666667,beer lover
+suka berdebat,0,0,3,0,0,0,2,likes to argue
+dermawan,3,0,0,0,0,0,-1,philanthrope
+suka humor,3,0,0,0,0,0,-1,likes humor
+bambu,2,0,0,0,0,1,-0.6666666667,bamboo
+jago pencak silat,3,0,0,0,0,0,-1,good at pencak silat
+suka rakia,1,0,0,2,0,0,1.666666667,love rakia
+turki,2,0,0,0,0,1,-0.6666666667,Türkiye
+sushi,2,0,0,0,0,1,-0.6666666667,sushi
+padat penduduk,3,0,0,0,0,0,-1,densely populated
+islami,3,0,0,0,0,0,-1,Islamic
+suku asmat,3,0,0,0,0,0,-1,Asmat tribe
+pecinta ski,3,0,0,0,0,0,-1,ski lover
+wales,2,0,0,0,0,1,-0.6666666667,Wales
+suka makan,3,0,0,0,0,0,-1,like to eat
+kekar,3,0,0,0,0,0,-1,sturdy
+suka ilmu pengetahuan,3,0,0,0,0,0,-1,likes science
+kaya orang kamerun adalah orang yang pemurung. orang australia adalah orang yang cerdas. orang singapura adalah orang yang kaya.,0,2,0,1,0,0,1.666666667,Cameroonian people are gloomy people. Australians are intelligent people. Singaporeans are rich people.
+primitif,1,1,1,0,0,0,0.6666666667,primitive
+pencuri,0,0,1,0,2,0,3.333333333,thief
+berbahasa swahili,3,0,0,0,0,0,-1,speak Swahili
+ras,1,2,0,0,0,0,0.3333333333,race
+berbahasa slowakia,3,0,0,0,0,0,-1,Slovak language
+pecandu kokain,0,0,0,0,3,0,4,cocaine addict
+suka makan pizza,3,0,0,0,0,0,-1,likes to eat pizza
+suka berpetualang,3,0,0,0,0,0,-1,likes adventure
+safari,2,0,0,0,0,1,-0.6666666667,safari
+suka ngobrol,3,0,0,0,0,0,-1,likes to chat
+nelayan,3,0,0,0,0,0,-1,fisherman
+aman,3,0,0,0,0,0,-1,safe
+berbahaya,0,0,3,0,0,0,2,dangerous
+penuh warna,3,0,0,0,0,0,-1,full color
+rasisme,0,0,1,0,2,0,3.333333333,racism
+gunung,3,0,0,0,0,0,-1,mountain
+suka duku,3,0,0,0,0,0,-1,like duku
+toraja,3,0,0,0,0,0,-1,Toraja
+adidaya,3,0,0,0,0,0,-1,superpower
+banyak makan nasi,3,0,0,0,0,0,-1,eat a lot of rice
+taat hukum,3,0,0,0,0,0,-1,law-abiding
+suka meditasi,3,0,0,0,0,0,-1,likes meditation
+suka keributan,0,1,1,0,1,0,2.333333333,likes fuss
+pemain sepak bola,3,0,0,0,0,0,-1,soccer player
+pedagang,3,0,0,0,0,0,-1,trader
+penyabar,3,0,0,0,0,0,-1,patient
+tekun,3,0,0,0,0,0,-1,persistent
+senang,3,0,0,0,0,0,-1,like
+irlandia,2,0,0,0,0,1,-0.6666666667,Ireland
+cinta tanah air,3,0,0,0,0,0,-1,love for the homeland
+pandai menyelam,3,0,0,0,0,0,-1,good at diving
+suka kungfu,3,0,0,0,0,0,-1,like kung fu
+bersuara keras,1,1,1,0,0,0,0.6666666667,loud
+tembok besar,2,0,0,0,0,1,-0.6666666667,Great Wall
+mendiami,3,0,0,0,0,0,-1,inhabit
+masakan pedas,2,0,0,0,0,1,-0.6666666667,spicy dishes
+katolik,3,0,0,0,0,0,-1,Catholic
+taj mahal,2,0,0,0,0,1,-0.6666666667,Taj Mahal
+suka bergotong royong,3,0,0,0,0,0,-1,like to work together
+ratu,3,0,0,0,0,0,-1,queen
+multi etnis,2,1,0,0,0,0,-0.3333333333,multi-ethnic
+santa,3,0,0,0,0,0,-1,santa
+emosional,0,1,1,0,1,0,2.333333333,emotional
+berpenampilan eksotis,3,0,0,0,0,0,-1,exotic appearance
+filosofi,2,0,0,0,0,1,-0.6666666667,philosophy
+samba,2,0,0,0,0,1,-0.6666666667,samba
+minum teh,3,0,0,0,0,0,-1,drinking tea
+ramah,3,0,0,0,0,0,-1,friendly
+isolated,1,1,1,0,0,0,0.6666666667,isolated
+pecinta whisky,1,0,0,2,0,0,1.666666667,whiskey lover
+suka borsch,3,0,0,0,0,0,-1,loves borsch
+rajin,3,0,0,0,0,0,-1,diligent
+gemar berenang,3,0,0,0,0,0,-1,likes swimming
+pandai bahasa,3,0,0,0,0,0,-1,good at languages
+pandai berbahasa,3,0,0,0,0,0,-1,good at language
+kaya minyak,3,0,0,0,0,0,-1,rich in oil
+penganut kristen,1,1,1,0,0,0,0.6666666667,Christian adherents
+hot,0,1,1,0,0,1,1,hot
+panama canal,2,0,0,0,0,1,-0.6666666667,panama canal
+berpikiran bebas,3,0,0,0,0,0,-1,free thinking
+makan pasta,3,0,0,0,0,0,-1,eat pasta
+pandai melaut,3,0,0,0,0,0,-1,good at sea
+perang,1,0,0,0,2,0,2.333333333,war
+suka berpikir,3,0,0,0,0,0,-1,likes to think
+agama yahudi,1,2,0,0,0,0,0.3333333333,Judaism
+pecinta pizza,3,0,0,0,0,0,-1,pizza lover
+pembawa barang,2,0,1,0,0,0,0,goods carrier
+inovatif,3,0,0,0,0,0,-1,innovative
+liburan,3,0,0,0,0,0,-1,holiday
+budaya pop,3,0,0,0,0,0,-1,pop culture
+suka parfum,3,0,0,0,0,0,-1,love perfume
+pecinta laut,3,0,0,0,0,0,-1,sea ​​lover
+bahasa resmi,3,0,0,0,0,0,-1,Official Language
+baik,3,0,0,0,0,0,-1,Good
+cantik,3,0,0,0,0,0,-1,Beautiful
+gigi besar,1,2,0,0,0,0,0.3333333333,big teeth
+suka makan pisang,3,0,0,0,0,0,-1,likes to eat bananas
+kulit hitam,0,1,0,1,1,0,2.666666667,black skin
+kekeluargaan,3,0,0,0,0,0,-1,kinship
+agresif,0,2,1,0,0,0,1.333333333,aggressive
+narkoba,1,0,0,0,2,0,2.333333333,drugs
+kanal,3,0,0,0,0,0,-1,channel
+korupsi,0,1,0,0,2,0,3,corruption
+teliti,3,0,0,0,0,0,-1,thorough
+suka makan talas,3,0,0,0,0,0,-1,likes to eat taro
+tenang,3,0,0,0,0,0,-1,calm
+cinta keluarga,3,0,0,0,0,0,-1,love the family
+berdarah biru,3,0,0,0,0,0,-1,blue blood
+berbicara bahasa arab,3,0,0,0,0,0,-1,speak Arabic
+pandai memanjat,3,0,0,0,0,0,-1,good at climbing
+halus,3,0,0,0,0,0,-1,fine
+wilayah,3,0,0,0,0,0,-1,region
+pedalaman,3,0,0,0,0,0,-1,inland
+suka makan papeda,3,0,0,0,0,0,-1,likes to eat papeda
+santai,3,0,0,0,0,0,-1,Relax
+makan durian,3,0,0,0,0,0,-1,eat durian
+kaya,3,0,0,0,0,0,-1,rich
+cinta laut,3,0,0,0,0,0,-1,love the sea
+suka belajar,3,0,0,0,0,0,-1,likes to learn
+negara yahudi,0,0,2,0,1,0,2.666666667,Jewish country
+ceria,3,0,0,0,0,0,-1,cheerful
+suka anime,3,0,0,0,0,0,-1,like anime
+berbakat,3,0,0,0,0,0,-1,talented
+komunis,0,0,1,1,1,0,3,Communist
+damai,3,0,0,0,0,0,-1,peace
+bijaksana,3,0,0,0,0,0,-1,wise
+mean,1,0,0,0,1,1,1,mean
+sopan,3,0,0,0,0,0,-1,polite
+amerika selatan,2,0,0,0,0,1,-0.6666666667,South America
+mabuk,0,1,1,1,0,0,2,drunk
+totaliter,2,0,0,0,1,0,0.6666666667,totalitarian
+suka surfing,3,0,0,0,0,0,-1,likes surfing
+disiplin,3,0,0,0,0,0,-1,discipline
+penakluk,3,0,0,0,0,0,-1,conqueror
+berbahasa bantu,3,0,0,0,0,0,-1,auxiliary language
+sombong,0,1,0,1,1,0,2.666666667,proud
+energik,3,0,0,0,0,0,-1,energetic
+asli,3,0,0,0,0,0,-1,original
+gajah,2,0,0,0,0,1,-0.6666666667,elephant
+ekspresif,3,0,0,0,0,0,-1,expressive
+suku batak,2,1,0,0,0,0,-0.3333333333,Batak tribe
+modern,3,0,0,0,0,0,-1,modern
+berbahasa bugis,3,0,0,0,0,0,-1,speak Bugis
+bernyanyi,3,0,0,0,0,0,-1,sing
+suka musik,3,0,0,0,0,0,-1,like music
+sosialis,3,0,0,0,0,0,-1,socialist
+negara termuda,3,0,0,0,0,0,-1,youngest country
+cerdik,3,0,0,0,0,0,-1,dodgy
+sari,2,0,0,0,0,1,-0.6666666667,sari
+cinta makanan,3,0,0,0,0,0,-1,love food
+suka tango,3,0,0,0,0,0,-1,likes tango
+pandai membuat piramida,3,0,0,0,0,0,-1,good at making pyramids
+suka mie,3,0,0,0,0,0,-1,like noodles
+suka bersenang-senang,3,0,0,0,0,0,-1,likes to have fun
+terkenal dengan makanan pedas,3,0,0,0,0,0,-1,famous for spicy food
+pemakan ikan,3,0,0,0,0,0,-1,fish eater
+skandinavia,2,0,0,0,0,1,-0.6666666667,Scandinavian
+portugis,2,0,0,0,0,1,-0.6666666667,Portuguese
+arab,2,0,0,0,0,1,-0.6666666667,Arab
+suka teknologi,3,0,0,0,0,0,-1,love technology
+rendah hati,3,0,0,0,0,0,-1,humble
+berbahasa indonesia,3,0,0,0,0,0,-1,speak Indonesian
+tongkonan,2,0,0,0,0,1,-0.6666666667,tongkonan
+kreatif,3,0,0,0,0,0,-1,creative
+suka makan hamburger,3,0,0,0,0,0,-1,likes to eat hamburgers
+suku minangkabau,3,0,0,0,0,0,-1,Minangkabau tribe
+tertib,3,0,0,0,0,0,-1,orderly
+suka makan pecel,3,0,0,0,0,0,-1,likes to eat pecel
+belanda,2,0,0,0,0,1,-0.6666666667,Dutch
+kumuh,1,1,1,0,0,0,0.6666666667,seedy
+tarantula,2,0,0,0,0,1,-0.6666666667,tarantula
+suka fashion,3,0,0,0,0,0,-1,likes fashion
+suka bercinta,2,0,0,0,1,0,0.6666666667,likes to make love
+efisien,3,0,0,0,0,0,-1,efficient
+panas,3,0,0,0,0,0,-1,hot
+suka menari,3,0,0,0,0,0,-1,likes to dance
+boros,1,2,0,0,0,0,0.3333333333,wasteful
+bahagia,3,0,0,0,0,0,-1,happy
+kejam,0,0,1,1,1,0,3,cruel
+berbahasa hindi,3,0,0,0,0,0,-1,Hindi language
+suka borscht,3,0,0,0,0,0,-1,loves borscht
+suka main api,1,2,0,0,0,0,0.3333333333,likes playing with fire
+andes,2,0,0,0,0,1,-0.6666666667,andes
+majemuk,3,0,0,0,0,0,-1,compound
+gigih,3,0,0,0,0,0,-1,persistent
+suku,2,1,0,0,0,0,-0.3333333333,ethnic group
+cinta seni,3,0,0,0,0,0,-1,love art
+suka makan sushi,3,0,0,0,0,0,-1,likes to eat sushi
+buddha,3,0,0,0,0,0,-1,buddha
+bahasa inggris,3,0,0,0,0,0,-1,English
+rich,3,0,0,0,0,0,-1,rich
+pandai berburu,3,0,0,0,0,0,-1,good at hunting
+memiliki banyak penduduk,3,0,0,0,0,0,-1,has many residents
+multietnis,2,1,0,0,0,0,-0.3333333333,multiethnic
+terkenal dengan budayanya,3,0,0,0,0,0,-1,famous for its culture
+indah,3,0,0,0,0,0,-1,beautiful
+jago menyelam,3,0,0,0,0,0,-1,good at diving
+sepak bola,3,0,0,0,0,0,-1,football
+otoriter,1,0,1,0,1,0,1.666666667,authoritarian
+hindu,3,0,0,0,0,0,-1,Hindu
+berbahasa inggris,3,0,0,0,0,0,-1,in English language
+berbahasa dayak,3,0,0,0,0,0,-1,Dayak language
+negara islam,3,0,0,0,0,0,-1,Islam country
+beragama kristen,1,2,0,0,0,0,0.3333333333,Christian
+guru,3,0,0,0,0,0,-1,Teacher
+terkenal dengan tango,3,0,0,0,0,0,-1,famous for tango
+suka minum,1,1,0,1,0,0,1,likes to drink
+berdagang,3,0,0,0,0,0,-1,trade
+lugas,3,0,0,0,0,0,-1,straightforward
+laut,3,0,0,0,0,0,-1,sea
+terkenal dengan makanan kari,3,0,0,0,0,0,-1,famous for curry food
+kulit sawo matang,2,1,0,0,0,0,-0.3333333333,Brown skin
+peminum tuak,0,0,1,2,0,0,2.666666667,palm wine drinker
+suka makan duku,3,0,0,0,0,0,-1,likes to eat duku
+praktis,3,0,0,0,0,0,-1,practical
+suka barbeque,3,0,0,0,0,0,-1,like barbeque
+budha,3,0,0,0,0,0,-1,Buddha
+suka makan kari,3,0,0,0,0,0,-1,likes to eat curry
+cinta warna-warni,3,0,0,0,0,0,-1,colorful love
+suka mangan duku,3,0,0,0,0,0,-1,I like eating duku
+negara merdeka,3,0,0,0,0,0,-1,independent country
+demokrasi,3,0,0,0,0,0,-1,democracy
+bersuku suku,2,1,0,0,0,0,-0.3333333333,tribal
+jago sepak bola,3,0,0,0,0,0,-1,good at football
+berkembang,3,0,0,0,0,0,-1,develop
+papua,2,0,0,0,0,1,-0.6666666667,Papua
+miskin,0,1,1,0,1,0,2.333333333,poor
+suka burger,3,0,0,0,0,0,-1,love burgers
+dingin,2,1,0,0,0,0,-0.3333333333,cold
+suka makan steak,3,0,0,0,0,0,-1,likes to eat steak
+hindia barat,2,0,0,0,0,1,-0.6666666667,West Indies
+tertutup,2,1,0,0,0,0,-0.3333333333,closed
+budi pekerti,3,0,0,0,0,0,-1,character
+ekor pendek,3,0,0,0,0,0,-1,short tail
+himalaya,2,0,0,0,0,1,-0.6666666667,Himalayas
+surga,3,0,0,0,0,0,-1,heaven
+suka bersawah,3,0,0,0,0,0,-1,likes rice fields
+pintar,3,0,0,0,0,0,-1,clever
+tango,2,0,0,0,0,1,-0.6666666667,tango
+suka makan gudeg,3,0,0,0,0,0,-1,likes to eat warm
+gemar kerajinan,3,0,0,0,0,0,-1,loves crafts
+kulit cokelat,2,1,0,0,0,0,-0.3333333333,brown skin
+bollywood,3,0,0,0,0,0,-1,bollywood
+muslim,3,0,0,0,0,0,-1,Muslim
+pandai muay thai,3,0,0,0,0,0,-1,good at muay thai
+padat,3,0,0,0,0,0,-1,congested
+persaudaraan,3,0,0,0,0,0,-1,brotherhood
+suka sabung ayam,1,0,2,0,0,0,1,likes cockfighting
+tempat liburan,3,0,0,0,0,0,-1,vacation spot
+suka ski,3,0,0,0,0,0,-1,likes skiing
+jago silat,3,0,0,0,0,0,-1,good at martial arts
+hitam,1,1,1,0,0,0,0.6666666667,black
+pandai bekerja,3,0,0,0,0,0,-1,good at work
+kucing,3,0,0,0,0,0,-1,cat
+bertubuh atletis,3,0,0,0,0,0,-1,athletic body
+thailand,2,0,0,0,0,1,-0.6666666667,Thailand
+suka sarapan,3,0,0,0,0,0,-1,likes breakfast
+gurun,3,0,0,0,0,0,-1,desert
+negara kaya minyak,3,0,0,0,0,0,-1,oil rich country
+aneh,1,2,0,0,0,0,0.3333333333,Strange
+persian,2,1,0,0,0,0,-0.3333333333,Persian
+terjajah,1,1,0,0,1,0,1.333333333,colonized
+keramahtamahan,3,0,0,0,0,0,-1,hospitality
+portuguese,2,0,0,0,0,1,-0.6666666667,portuguese
+kacau,1,1,1,0,0,0,0.6666666667,chaotic
+kuda laut,3,0,0,0,0,0,-1,Seahorses
+liar,0,2,0,0,1,0,2,wild
+beruang koala,3,0,0,0,0,0,-1,koala bear
+ulet,3,0,0,0,0,0,-1,tenacious
+everest,2,0,0,0,0,1,-0.6666666667,everest
+nuklir,2,0,1,0,0,0,0,nuclear
+yoga,3,0,0,0,0,0,-1,yoga
+suka bercanda,3,0,0,0,0,0,-1,playful
+keberagaman,2,1,0,0,0,0,-0.3333333333,diversity
+kuno,1,2,0,0,0,0,0.3333333333,ancient
+kearifan lokal,3,0,0,0,0,0,-1,local wisdom
+viking,2,0,0,1,0,0,0.3333333333,vikings
+suka piramida,3,0,0,0,0,0,-1,love pyramids
+pantang menyerah,3,0,0,0,0,0,-1,never give up
+kebakaran hutan,2,0,0,0,1,0,0.6666666667,forest fires
+toleran,3,0,0,0,0,0,-1,tolerant
+suka minum teh,3,0,0,0,0,0,-1,likes to drink tea
+rrc,3,0,0,0,0,0,-1,rrc
+suka sauna,3,0,0,0,0,0,-1,love saunas
+suku nomaden,2,0,1,0,0,0,0,nomadic tribe
+melayu,3,0,0,0,0,0,-1,Malay
+pemberani,3,0,0,0,0,0,-1,daredevil
+pengungsi,2,1,0,0,0,0,-0.3333333333,refugees
+eksotis,3,0,0,0,0,0,-1,exotic
+kuda nil,2,0,0,0,0,1,-0.6666666667,hippopotamus
+pandai lari cepat,3,0,0,0,0,0,-1,good at running fast
+antusias,3,0,0,0,0,0,-1,enthusiastic
+kaku,1,2,0,0,0,0,0.3333333333,rigid
+suka makan burger,3,0,0,0,0,0,-1,likes to eat burgers
+vampir,2,1,0,0,0,0,-0.3333333333,vampire
+berpakaian aneh,0,1,2,0,0,0,1.666666667,dressed strangely
+kungfu,3,0,0,0,0,0,-1,kung fu
+malas,1,1,1,0,0,0,0.6666666667,lazy
+pelari,3,0,0,0,0,0,-1,runner
+petualang,3,0,0,0,0,0,-1,adventurer
+sungai gangga,2,0,0,0,0,1,-0.6666666667,gangga River
+maluku,2,0,0,0,0,1,-0.6666666667,my shame
+suka masakan pedas,3,0,0,0,0,0,-1,likes spicy food
+pecinta sepak bola,3,0,0,0,0,0,-1,football lovers
+malaysia airlines,2,0,0,0,0,1,-0.6666666667,malaysian airlines
+short,2,0,1,0,0,0,0,short
+bahasa indonesia,3,0,0,0,0,0,-1,Indonesian
+suka makan manis,3,0,0,0,0,0,-1,likes to eat sweets
+kelaparan,2,1,0,0,0,0,-0.3333333333,starving
+suka makan cepat saji,3,0,0,0,0,0,-1,likes to eat fast food
+negara multi-etnis,2,1,0,0,0,0,-0.3333333333,multi-ethnic country
+cinta kebersihan,3,0,0,0,0,0,-1,love cleanliness
+berbahasa jawa,3,0,0,0,0,0,-1,Javanese language
+suka sepakbola,3,0,0,0,0,0,-1,likes football
+baik hati,3,0,0,0,0,0,-1,kind
+rawan konflik,1,1,1,0,0,0,0.6666666667,potential conflict
+kopi,3,0,0,0,0,0,-1,coffee
+mandiri,3,0,0,0,0,0,-1,independent
+suriname,2,0,0,0,0,1,-0.6666666667,Suriname
+suka memasak,3,0,0,0,0,0,-1,likes to cook
+timur,2,0,0,0,0,1,-0.6666666667,east
+pendaki,3,0,0,0,0,0,-1,climber
+berjiwa petualang,3,0,0,0,0,0,-1,adventurous spirit
+berlayar,3,0,0,0,0,0,-1,sail
+pandai menari,3,0,0,0,0,0,-1,good at dancing
+suka minum vodka,1,0,0,2,0,0,1.666666667,likes to drink vodka
+cinta bunga,3,0,0,0,0,0,-1,love flowers
+orang asing,2,1,0,0,0,0,-0.3333333333,foreigners
+budak,0,0,0,1,2,0,3.666666667,slave
+suka berenang,3,0,0,0,0,0,-1,likes swimming
+suka berjemur,3,0,0,0,0,0,-1,likes sunbathing
+suka berdagang,3,0,0,0,0,0,-1,likes trading
+prancis,2,0,0,0,0,1,-0.6666666667,French
+kuat,3,0,0,0,0,0,-1,strong
+bertubuh kecil,2,1,0,0,0,0,-0.3333333333,small stature
+rendang,2,0,0,0,0,1,-0.6666666667,rendang
+matador,2,0,0,0,1,0,0.6666666667,bullfighter
+banyak cengkeh,3,0,0,0,0,0,-1,lots of cloves
+peramu,3,0,0,0,0,0,-1,gatherer
+maya,3,0,0,0,0,0,-1,virtual
+berambut hitam,3,0,0,0,0,0,-1,black haired
+suka pizza,3,0,0,0,0,0,-1,love pizza
+suka makan junk food,2,1,0,0,0,0,-0.3333333333,likes to eat junk food
+suka nembang,3,0,0,0,0,0,-1,likes to sing
+seniman,3,0,0,0,0,0,-1,artist
+soccer,3,0,0,0,0,0,-1,soccer
+kasta,2,0,1,0,0,0,0,caste
+berani,3,0,0,0,0,0,-1,brave
+orang indonesia,3,0,0,0,0,0,-1,Indonesian people
+suka makan pedas,3,0,0,0,0,0,-1,likes to eat spicy
+suka makanan,3,0,0,0,0,0,-1,likes food
+suka pedas,3,0,0,0,0,0,-1,likes spicy
+suka bahari,3,0,0,0,0,0,-1,likes the sea
+cinta kebebasan,3,0,0,0,0,0,-1,love of freedom
+pemarah,1,1,1,0,0,0,0.6666666667,angry person
+suka warna-warni,3,0,0,0,0,0,-1,love colours
+suka bersantai,3,0,0,0,0,0,-1,likes to relax
+pencinta makanan,3,0,0,0,0,0,-1,food lover
+suka alam,3,0,0,0,0,0,-1,like nature
+suka sepak bola,3,0,0,0,0,0,-1,likes football
+rambut merah,3,0,0,0,0,0,-1,Red hair
+berilmu,3,0,0,0,0,0,-1,knowledgeable
+mentawai,2,0,0,0,0,1,-0.6666666667,Mentawai
+menduduki,3,0,0,0,0,0,-1,occupy
+cerdas,3,0,0,0,0,0,-1,intelligent
+kerajinan tangan,3,0,0,0,0,0,-1,handycrafts
+bir,1,1,0,1,0,0,1,beer
+tertindas,0,2,0,0,1,0,2,oppressed
+pandai matematika,3,0,0,0,0,0,-1,good at mathematics
+penduduknya murah hati,3,0,0,0,0,0,-1,the people are generous
+sukses,3,0,0,0,0,0,-1,success
+berbulu,2,1,0,0,0,0,-0.3333333333,hairy
+suka melaut,3,0,0,0,0,0,-1,likes to go to sea
+jawa,3,0,0,0,0,0,-1,Java
+teratur,3,0,0,0,0,0,-1,regular
+berbahasa melayu,3,0,0,0,0,0,-1,speak Malay
+suku toraja,3,0,0,0,0,0,-1,Toraja tribe
+anjing,0,0,0,1,1,1,2.333333333,dog
+memiliki kulit hitam,0,2,0,1,0,0,1.666666667,have black skin
+afrika,2,0,0,0,0,1,-0.6666666667,Africa
+suka bermusik,3,0,0,0,0,0,-1,likes music
+penyanyi,3,0,0,0,0,0,-1,singer
+pemalas,0,1,0,1,1,0,2.666666667,lazy person
+pandai membuat perahu,3,0,0,0,0,0,-1,good at building boats
+pendek,0,2,1,0,0,0,1.333333333,short
+afrikaans,2,0,0,0,0,1,-0.6666666667,africaans
+pendiam,3,0,0,0,0,0,-1,quiet type
+dayak,2,1,0,0,0,0,-0.3333333333,Dayak
+berorientasi keluarga,3,0,0,0,0,0,-1,family oriented
+suka berkebun,3,0,0,0,0,0,-1,likes gardening
+murah,2,1,0,0,0,0,-0.3333333333,cheap
+oktoberfest,2,0,0,0,0,1,-0.6666666667,Oktoberfest
+hutan hujan,3,0,0,0,0,0,-1,rainforest
+gila kerja,1,2,0,0,0,0,0.3333333333,workaholic
+pandai berenang,3,0,0,0,0,0,-1,good at swimming
+kanguru,2,0,0,0,0,1,-0.6666666667,kangaroo
+suku bugis,2,1,0,0,0,0,-0.3333333333,Bugis tribe
+rumania,2,0,0,0,0,1,-0.6666666667,Romania
+suku pedalaman,2,1,0,0,0,0,-0.3333333333,tribal
+bugis,2,1,0,0,0,0,-0.3333333333,bugis
+konservatif,2,0,0,0,1,0,0.6666666667,conservative
+desert,2,0,0,0,0,1,-0.6666666667,desert
+jago berselancar,3,0,0,0,0,0,-1,good at surfing
+suka musik klasik,3,0,0,0,0,0,-1,likes classical music
+ternak,3,0,0,0,0,0,-1,cattle
+kosovo,2,0,0,0,0,1,-0.6666666667,kosovo
+suka memancing,3,0,0,0,0,0,-1,likes fishing
+badannya tinggi,3,0,0,0,0,0,-1,his body is tall
+berpopulasi banyak,3,0,0,0,0,0,-1,large population
+rasis,0,0,1,0,2,0,3.333333333,racist
+terkenal,3,0,0,0,0,0,-1,famous
+berkulit hitam,1,0,2,0,0,0,1,black skinned
+cinta sepak bola,3,0,0,0,0,0,-1,love football
+tinggi,3,0,0,0,0,0,-1,tall
+suka makan duren,3,0,0,0,0,0,-1,likes to eat durian
+binatang,1,1,0,0,0,1,0,animal
+non-praktis,2,1,0,0,0,0,-0.3333333333,non-practical
+mode,3,0,0,0,0,0,-1,mode
+mendaki gunung,3,0,0,0,0,0,-1,Mountain climbing
+agamis,3,0,0,0,0,0,-1,religious
+gemuk,0,1,2,0,0,0,1.666666667,fat
+belgia cinta damai,3,0,0,0,0,0,-1,Belgium loves peace
+patriotik,3,0,0,0,0,0,-1,patriotic
+austria-hongaria,2,0,0,0,0,1,-0.6666666667,Austria-Hungary
+populasi,3,0,0,0,0,0,-1,population
+suka makan daging,3,0,0,0,0,0,-1,likes to eat meat
+gemar bersepeda,3,0,0,0,0,0,-1,loves cycling
+kering,2,1,0,0,0,0,-0.3333333333,dry
+murah senyum,3,0,0,0,0,0,-1,always smile
+kilt,2,0,0,0,0,1,-0.6666666667,kilts
+suka teh,3,0,0,0,0,0,-1,likes tea
+cinta lingkungan,3,0,0,0,0,0,-1,love the environment
+pandai bernyanyi,3,0,0,0,0,0,-1,good at singing
+selatan,2,0,0,0,0,1,-0.6666666667,south
+asia,2,0,0,0,0,1,-0.6666666667,Asia
+suka masakan laut,3,0,0,0,0,0,-1,likes seafood
+serius,3,0,0,0,0,0,-1,Serious
+pelaut,3,0,0,0,0,0,-1,sailor
+suka gulai,3,0,0,0,0,0,-1,like goulash
+suka makan nasi,3,0,0,0,0,0,-1,likes to eat rice
+baru,3,0,0,0,0,0,-1,new
+banyak penduduk,3,0,0,0,0,0,-1,a lot of citizen
+orang yang ramah,3,0,0,0,0,0,-1,friendly people
+jam tangan,2,0,0,0,0,1,-0.6666666667,watch
+hindustan,3,0,0,0,0,0,-1,Hindustan
+negara terkaya di asia,3,0,0,0,0,0,-1,the richest country in Asia
+biadab,0,0,0,1,2,0,3.666666667,savage
+konstitusional,3,0,0,0,0,0,-1,constitutional
+bersemangat,3,0,0,0,0,0,-1,enthusiastic
+berjuang,3,0,0,0,0,0,-1,fight
+lucu,3,0,0,0,0,0,-1,funny
+kerja keras,3,0,0,0,0,0,-1,hard work
+romantis,3,0,0,0,0,0,-1,romantic

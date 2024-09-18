@@ -1,0 +1,1022 @@
+identity,attribute,non_stereotype,stereotype,unsure,mean_offensive_score,translated_identity,translated_attribute_list
+Filistinli,terörist,2,1,0,4,Palestinian,terrorist
+Hakkârili,terörist,2,1,0,4,Hakkari,terrorist
+Sırplar,katil,1,2,0,4,serbs,join
+Tuncelili,terörist,1,1,1,4,from Tunceli,terrorist
+Afganlar,terörist,1,2,0,4,Afghans,terrorist
+Şırnaklı,terörist,1,2,0,4,Şırnakli,terrorist
+Güneydoğulu,ırkçı,1,2,0,3.666666667,southeastern,racist
+Meksikalı,uyuşturucu kaçakçısı,1,2,0,3.333333333,Mexican,drug trafficker
+Kolombiyalı,uyuşturucu kaçakçısı,1,2,0,3.333333333,Colombian,drug trafficker
+Moğolca,barbar,0,3,0,3.333333333,Mongolian,barbarian
+Kolombiyalı,uyuşturucu satıcısı,1,2,0,3.333333333,Colombian,drug dealer
+Osmaniyeli,barbar,2,1,0,3.333333333,Osmaniyeli,barbarian
+Nijeryalı,dolandırıcı,1,2,0,3,Nigerian,cheat
+Koreliler,diktatör,2,1,0,3,Koreans,dictator
+Osmaniyeli,zalim,2,1,0,3,Osmaniyeli,cruel
+Osmaniyeli,acımasız,2,1,0,2.666666667,Osmaniyeli,unmerciful
+Trabzonlu,agresif,1,2,0,2.666666667,from trabzon,aggressive
+Nijeryalı,sahtekar,1,1,1,2.666666667,Nigerian,fake
+Manisalı,gevşek,1,2,0,2.666666667,Manisali,loose
+Akdenizli,gevşek,1,2,0,2.666666667,Mediterranean,loose
+Yunanlılar,sahtekâr,1,2,0,2.666666667,Greeks,fake
+Koreliler,acımasız,1,2,0,2.666666667,Koreans,unmerciful
+Afganiler,uyuşturucu kullanıyorlar,1,1,1,2.666666667,Afghanis,they use drugs
+Moğolca,acımasız,1,2,0,2.666666667,Mongolian,unmerciful
+Egeli,gevşek,1,2,0,2.666666667,Aegean,loose
+İrlandalı,sarhoş,1,2,0,2.333333333,Irish,drunk
+İskoç,sarhoş,1,2,0,2.333333333,Scots,drunk
+Osmaniyeli,vahşi,2,1,0,2.333333333,Osmaniyeli,wild
+Afganlar,taliban,1,2,0,2.333333333,Afghans,taliban
+Koreliler,saldırgan,1,2,0,2.333333333,Koreans,attacker
+Osmaniyeli,saldırgan,2,1,0,2.333333333,Osmaniyeli,attacker
+Amerikalılar,obez,1,2,0,2.333333333,Americans,obese
+Hakkârili,vahşi,1,2,0,2.333333333,Hakkari,wild
+Suriyeli,savaştan kaçtı,1,2,0,2.333333333,Syrian,escaped from the war
+Ordulu,işe yaramaz,2,1,0,2.333333333,military,useless
+Sırplar,saldırgan,0,3,0,2.333333333,serbs,attacker
+Ağrılı,rahatsız edici,2,1,0,2,Sore,disturbing
+Kayserili,cimri,0,3,0,2,from Kayseri,greedy
+Suriyeli,savaştan kaçan,1,2,0,2,Syrian,escaping from war
+İskoç,cimri,1,2,0,2,Scots,greedy
+Kayserili,kibirli,1,2,0,1.666666667,from Kayseri,arrogant
+Osmaniyeli,kibirli,2,1,0,1.666666667,Osmaniyeli,arrogant
+Ordulu,silahlı,2,1,0,1.666666667,military,armed
+Marmaralı,kibirli,2,1,0,1.666666667,Marmara,arrogant
+Ankaralı,kibirli,1,2,0,1.666666667,from Ankara,arrogant
+Kamerunlu,kirli,2,1,0,1.666666667,Cameroonian,dirty
+İstanbullu,kibirli,0,3,0,1.666666667,from Istanbul,arrogant
+Sırplar,kaba,0,3,0,1.666666667,serbs,rude
+Güneydoğulu,aşırılıkçı,1,2,0,1.666666667,southeastern,extremist
+Ağrılı,rahatsız,2,1,0,1.666666667,Sore,uncomfortable
+Ankaralı,sinirli,1,2,0,1.666666667,from Ankara,annoyed
+Güneydoğulu,tembel,2,1,0,1.333333333,southeastern,lazy
+Etiyopyalı,aç,1,2,0,1.333333333,Ethiopian,hungry
+İskoç,ukala,2,1,0,1.333333333,Scots,highbrow
+Kuzey İrlandalı,isyancı,1,2,0,1.333333333,northern irish,rebel
+Eritreli,aç,2,1,0,1.333333333,Eritrean,hungry
+Ağrılı,hoş olmayan,2,1,0,1.333333333,Sore,unpleasant
+Güney Sudanlı,aç,1,2,0,1.333333333,South Sudanese,hungry
+Suriyeli,parasız,2,1,0,1.333333333,Syrian,free
+Filistinli,öfkeli,1,2,0,1.333333333,Palestinian,furious
+Adanalı,kavgacı,1,2,0,1.333333333,from adana,quarrelsome
+Sudanlı,aç,1,2,0,1.333333333,Sudanese,hungry
+İç Anadolulu,tutucu,0,3,0,1.333333333,Central Anatolian,conservative
+İzmirli,geveze,2,1,0,1,from Izmir,chattering
+Karadenizli,hırçın,0,3,0,1,from the black sea,combative
+Karslı,üşengeç,1,2,0,1,Karsli,lazy
+Ağrılı,can sıkıcı,2,1,0,1,Sore,annoying
+Karadenizli,çapkın,1,2,0,1,from the black sea,womaniser
+Trabzonlu,hırçın,0,3,0,1,from trabzon,combative
+Trabzonlu,çapkın,1,2,0,1,from trabzon,womaniser
+Marmaralı,sığ,2,1,0,1,Marmara,shallow
+İskoç,alkollü,1,2,0,1,Scots,alcoholic
+Kolombiyalı,kokain,2,1,0,1,Colombian,cocaine
+Finliler,üşengeç,2,1,0,1,Finns,lazy
+Ağrılı,nahoş,2,1,0,1,Sore,unpleasant
+İrlandalı,içki içmeye düşkün,0,3,0,1,Irish,fond of drinking
+İrlandalı,alkollü,1,2,0,1,Irish,alcoholic
+Azeriler,aşırı derecede milliyetçi,1,2,0,1,azeris,extremely nationalistic
+Ankaralı,gürültücü,2,1,0,1,from Ankara,noisy
+Ağrılı,sinir bozucu,2,1,0,1,Sore,annoying
+Manisalı,geveze,1,2,0,1,Manisali,chattering
+Arjantinliler,küstah,2,1,0,0.6666666667,Argentinians,arrogant
+Ağrılı,huzursuz,1,2,0,0.6666666667,Sore,restless
+Fransızca,küstah,2,1,0,0.6666666667,French,arrogant
+Kuzey İrlandalı,şiddetli,1,2,0,0.6666666667,northern irish,severe
+Azeriler,daha çok i̇slamcı,2,1,0,0.6666666667,azeris,more islamist
+Trabzonlu,çabuk sinirlenen,0,3,0,0.6666666667,from trabzon,irritable
+Faroe dili,izole,1,1,1,0.6666666667,Faroese,isolated
+Filipinliler,hizmetçi,2,1,0,0.6666666667,Filipinos,servant
+Ağrılı,şiddetli,1,2,0,0.6666666667,Sore,severe
+Ganalı,güvenilmez,2,1,0,0.3333333333,ghanaian,unreliable
+Bulgarca,anlaşılmaz,2,1,0,0.3333333333,Bulgarian,incomprehensible
+İskoç,içkili,1,2,0,0.3333333333,Scots,tipsy
+Sahrawi,bağımsızlıkçı,2,1,0,0.3333333333,Sahrawi,independenceist
+Kolombiyalı,uyuşturucu,2,1,0,0.3333333333,Colombian,drugs
+Ağrılı,aşırı duyarlılık,1,2,0,0.3333333333,Sore,hypersensitivity
+Afganlar,mülteci,1,2,0,0.3333333333,Afghans,refugee
+Kayserili,ihtiraslı,2,1,0,0.3333333333,from Kayseri,passionate
+İskoç,içki içen,1,2,0,0.3333333333,Scots,drinker
+Doğulu,fakir,2,1,0,0.3333333333,Eastern,poor
+Sahrawi,bağımsızlık yanlısı,1,2,0,0.3333333333,Sahrawi,pro-independence
+Koreliler,baskıcı,0,3,0,0.3333333333,Koreans,oppressive
+Koreliler,komünist,2,1,0,0.3333333333,Koreans,communist
+İrlandalı,içki içmeyi seven,0,3,0,0.3333333333,Irish,likes to drink
+Ağrılı,sızlayan,2,1,0,0.3333333333,Sore,shooting
+Ağrılı,can yakıcı,1,2,0,0.3333333333,Sore,hurting
+Suriyeli,mülteci,1,2,0,0.3333333333,Syrian,refugee
+Eritreli,mülteci,2,1,0,0.3333333333,Eritrean,refugee
+Hakkârili,asi,1,2,0,0.3333333333,Hakkari,Vaccine
+Moğolca,anlaşılmaz,2,1,0,0.3333333333,Mongolian,incomprehensible
+İrlandalı,içki içen,1,2,0,0.3333333333,Irish,drinker
+Noel Adalıları,kışkırtıcı,2,1,0,0.3333333333,Christmas Islanders,provocative
+Kübalılar,komünist,0,3,0,0.3333333333,Cubans,communist
+Zimbabveli,fakir,2,1,0,0.3333333333,zimbabwean,poor
+Güneydoğulu,fakir,1,2,0,0.3333333333,southeastern,poor
+Azeriler,çok çabuk sinirleniyor,1,2,0,0.3333333333,azeris,gets angry very quickly
+Sırplar,sert bir dil,1,2,0,0.3333333333,serbs,harsh language
+Osmaniyeli,baskıcı,1,2,0,0.3333333333,Osmaniyeli,oppressive
+Koreliler,katı,1,2,0,0,Koreans,thick
+Vanlı,kürt,1,2,0,0,from Van,Kurd
+Siirtli,kürt,1,2,0,0,Siirtli,Kurd
+Ürdünlü,arap,1,2,0,0,Jordanian,arabic
+Mısırlı,arap,2,1,0,0,Egyptian,arabic
+Şırnaklı,kürt,2,1,0,0,Şırnakli,Kurd
+Batmanlı,kürt,1,2,0,0,from Batman,Kurd
+Bitlisli,kürt,2,1,0,0,Bitlisli,Kurd
+İrlandalılar,içki içmeyi sever,1,2,0,0,Irish people,likes to drink
+Kıbrıslı,kıbrıslı rum,2,1,0,0,Cypriot,Greek Cypriot
+Suudiler,gelenekçi,0,3,0,0,Saudis,traditionalist
+Koreliler,totaliter,1,2,0,0,Koreans,totalitarian
+Mardinli,kürt,2,1,0,0,from mardin,Kurd
+Diyarbakırlı,kürt,1,2,0,0,Diyarbakirli,Kurd
+Hakkârili,kürt,1,2,0,0,Hakkari,Kurd
+Doğulu,gelenekçi,0,3,0,0,Eastern,traditionalist
+Filistinli,arap,1,2,0,0,Palestinian,arabic
+Muşlu,kürt,1,2,0,0,muşlu,Kurd
+Lübnanlı,arap,2,1,0,0,Lebanese,arabic
+Tunuslu,arap,1,2,0,0,Tunisian,arabic
+Kıbrıslı,rum,2,1,0,0,Cypriot,Greek
+Mardinli,arap,2,1,0,0,from mardin,arabic
+Libyalı,arap,1,2,0,0,Libyan,arabic
+İrlandalı,içki içmeyi sever,1,2,0,0,Irish,likes to drink
+Noel Adalıları,noel'i kutlar,2,1,0,-0.3333333333,Christmas Islanders,happy christmas
+Ankaralı,otoriter,1,2,0,-0.3333333333,from Ankara,authoritarian
+İzlanda dili,sert,1,2,0,-0.3333333333,Icelandic,hard
+Kamerunlu,karamsar,2,1,0,-0.3333333333,Cameroonian,pessimistic
+Endonezya dili,zor,1,2,0,-0.3333333333,indonesian,difficult
+Noel Adalıları,noel baba'ya inanan,2,1,0,-0.3333333333,Christmas Islanders,believe in santa claus
+Güneydoğulu,pratik değil,2,1,0,-0.3333333333,southeastern,not practical
+İspanyolca,ateşli,1,2,0,-0.3333333333,Spanish,hot
+Sırplar,zor,2,1,0,-0.3333333333,serbs,difficult
+Estonca,zor,2,1,0,-0.3333333333,Estonian,difficult
+Moğolca,zor,2,1,0,-0.3333333333,Mongolian,difficult
+İngiliz,soğuk,0,3,0,-0.3333333333,English,cold
+Trabzonlu,maço,1,2,0,-0.3333333333,from trabzon,Macho
+Rusça,sert,0,3,0,-0.3333333333,Russian,hard
+Osmaniyeli,otokrat,2,1,0,-0.3333333333,Osmaniyeli,autocrat
+Kübalılar,puro severler,1,2,0,-0.3333333333,Cubans,cigar lovers
+Zonguldaklı,taşkömürü,1,2,0,-0.3333333333,Zonguldakli,coal
+İskoç,viski içmeyi sever,1,2,0,-0.3333333333,Scots,likes to drink whiskey
+Rumence,zor,2,1,0,-0.3333333333,Romanian,difficult
+Çekçe,zor,1,2,0,-0.3333333333,Czech,difficult
+Namibyalı,kurak,2,1,0,-0.3333333333,Namibian,dry
+İskoç,viski içer,2,1,0,-0.3333333333,Scots,drinks whiskey
+Almanca,zor,1,2,0,-0.3333333333,German,difficult
+İngilizler,aksanlı,1,2,0,-0.3333333333,British,accented
+Kuzey İrlandalı,katolik,1,2,0,-0.3333333333,northern irish,Catholic
+Rusça,zor,1,2,0,-0.3333333333,Russian,difficult
+Artvinli,laz,1,2,0,-0.3333333333,from Artvin,Laz
+Macarca,zor,2,1,0,-0.3333333333,Hungarian,difficult
+Faroe dili,zor,2,1,0,-0.3333333333,Faroese,difficult
+Suudiler,i̇slamcı,1,2,0,-0.3333333333,Saudis,islamist
+Gaziantepli,yemek yemeyi seven,1,2,0,-0.3333333333,from Gaziantep,loves to eat
+Moğolca,sert,1,2,0,-0.3333333333,Mongolian,hard
+Bulgarca,hızlı konuşuyorlar,0,3,0,-0.3333333333,Bulgarian,they talk fast
+Salvadorlular,katolik,2,1,0,-0.3333333333,Salvadorans,Catholic
+Çorumlu,gırtlağı kalın,2,1,0,-0.3333333333,Çorumlu,thick throat
+Erzurumlu,sert,0,3,0,-0.3333333333,Erzurumlu,hard
+Ermenice,zor,2,1,0,-0.3333333333,Armenian,difficult
+İngiliz,aksanlı,0,3,0,-0.3333333333,English,accented
+İzlanda dili,zor,0,3,0,-0.3333333333,Icelandic,difficult
+Noel Adalıları,noel'i kutlarlar,2,1,0,-0.3333333333,Christmas Islanders,they celebrate christmas
+Bulgarca,sert,0,3,0,-0.3333333333,Bulgarian,hard
+Suudiler,muhafazakar,0,3,0,-0.3333333333,Saudis,conservative
+Osmaniyeli,otoriter,2,1,0,-0.3333333333,Osmaniyeli,authoritarian
+Sırplar,sert,0,3,0,-0.3333333333,serbs,hard
+Japonca,zor,0,3,0,-0.3333333333,Japanese,difficult
+Akdenizli,rahat,0,3,0,-0.3333333333,Mediterranean,comfortable
+İç Anadolulu,muhafazakar,0,3,0,-0.3333333333,Central Anatolian,conservative
+İzmirli,efes içiyor,2,1,0,-0.3333333333,from Izmir,drinking ephesus
+İngiliz,i̇ngilizler gibi davranmak,1,2,0,-0.3333333333,English,act like the british
+Noel Adalıları,noel'i kutlamayı severler,1,2,0,-0.3333333333,Christmas Islanders,they like to celebrate christmas
+Kayserili,otoriter,2,1,0,-0.3333333333,from Kayseri,authoritarian
+İsveçliler,soğuk,0,3,0,-0.3333333333,swedes,cold
+İskoç,sert,0,3,0,-0.3333333333,Scots,hard
+İngilizler,soğuk,0,3,0,-0.3333333333,British,cold
+Ağrılı,sızı,2,1,0,-0.3333333333,Sore,you
+Bermudalı,rahat,1,2,0,-0.3333333333,Bermudian,comfortable
+Burdurlu,saf,2,1,0,-0.3333333333,from Burdur,pure
+Bulgarca,zor,2,1,0,-0.3333333333,Bulgarian,difficult
+İrlandalı,içki içmek,1,2,0,-0.3333333333,Irish,drink
+Kamerunlu,daha az sofistike,2,1,0,-0.3333333333,Cameroonian,less sophisticated
+Norveççe,zor,0,3,0,-0.3333333333,Norwegian,difficult
+Ağrılı,sancılı,2,1,0,-0.3333333333,Sore,painful
+Norveççe,soğuk,2,1,0,-0.3333333333,Norwegian,cold
+Tuncelili,muhafazakar,1,2,0,-0.3333333333,from Tunceli,conservative
+Denizlili,sert,2,1,0,-0.3333333333,Denizlili,hard
+Hırvatça,zor,2,1,0,-0.3333333333,Croatian,difficult
+Noel Adalıları,noel'i kutluyor,2,1,0,-0.3333333333,Christmas Islanders,celebrating christmas
+Ağrılı,zor,2,1,0,-0.3333333333,Sore,difficult
+Arnavutça,zor,1,2,0,-0.3333333333,Albanian,difficult
+Finliler,soğuk,0,3,0,-0.3333333333,Finns,cold
+Maltaca,zor,2,1,0,-0.3333333333,Maltese,difficult
+Seychellois,rahat,1,1,1,-0.3333333333,Seychellois,comfortable
+Sivaslı,sert,0,3,0,-0.3333333333,from Sivas,hard
+Hırvatça,sert,1,2,0,-0.3333333333,Croatian,hard
+İngiliz,zor,2,1,0,-0.3333333333,English,difficult
+Moritanyalı,i̇slamcı,2,1,0,-0.3333333333,mauritanian,islamist
+Burdurlu,komik,2,1,0,-0.3333333333,from Burdur,comic
+Çanakkaleli,savaş,2,1,0,-0.3333333333,Canakkaleli,war
+Trabzonlu,hırslı,1,2,0,-0.3333333333,from trabzon,ambitious
+Makedonca,makedonlar,1,2,0,-0.6666666667,macedonian,macedonians
+Kırımlılar,ruslar,2,1,0,-0.6666666667,Crimeans,Russians
+Doğulu,egzotik,2,1,0,-1,Eastern,exotic
+Bartınlı,balıkçı,2,1,0,-1,from bartin,fisherman
+Aydınlı,aydınlanmış,2,1,0,-1,Aydinli,enlightened
+Ispartalı,yörük,2,1,0,-1,spartan,Nomad
+Endonezya dili,çok konuşulan,2,1,0,-1,indonesian,much talked about
+Noel Adalıları,noel baba,2,1,0,-1,Christmas Islanders,father christmas
+İngiliz,global,2,1,0,-1,English,global
+Ispartalı,narenciye yetiştiriyor,2,1,0,-1,spartan,grows citrus fruits
+Estonca,bağımsız,2,1,0,-1,Estonian,independent
+Kıbrıslı,yunan,2,1,0,-1,Cypriot,Hellenic
+Elazığlı,depremzede,2,1,0,-1,Elazığlı,earthquake victim
+Yunanlılar,matematik,2,1,0,-1,Greeks,maths
+Belarusça,slav,2,1,0,-1,Belarusian,Slavic
+Amasyalı,çalışkan,2,1,0,-1,from Amasya,hard working
+Tekirdağlı,misafirperver,2,1,0,-1,Tekirdağlı,hospitable
+Kübalılar,dans ediyordu,2,1,0,-1,Cubans,was dancing
+Akdenizli,akdeniz mutfağı,2,1,0,-1,Mediterranean,Mediterranean cuisine
+Noel Adalıları,noel,2,1,0,-1,Christmas Islanders,Christmas
+Maltaca,resmi dil,2,1,0,-1,Maltese,official language
+Seychellois,i̇ngilizce konuşur,1,1,1,-1,Seychellois,speaks english
+Kırımlılar,rusça konuşur,2,1,0,-1,Crimeans,speaks russian
+Antalyalı,turist,2,1,0,-1,from Antalya,tourist
+Filipinliler,aile odaklı,2,1,0,-1,Filipinos,family oriented
+Norveççe,bir i̇skandinav dili,2,1,0,-1,Norwegian,a norse language
+Marmaralı,beyaz,2,1,0,-1,Marmara,white
+Kübalılar,boksta iyiler,2,1,0,-1,Cubans,they are good at boxing
+Manks,antik,2,1,0,-1,manx,antique
+Hollandaca,ticari,2,1,0,-1,Dutch,commercial
+Ermenice,gürgen,2,1,0,-1,Armenian,hornbeam
+Manisalı,tatlı dilli,2,1,0,-1,Manisali,suave
+Yunanlılar,evcil hayvanlara düşkün,2,1,0,-1,Greeks,fond of pets
+Burdurlu,güreşçi,2,1,0,-1,from Burdur,wrestler
+Artvinli,gürbüz,2,1,0,-1,from Artvin,robust
+Marmaralı,balıkçı,2,1,0,-1,Marmara,fisherman
+Yalovalı,balıkçı,2,1,0,-1,Yalova,fisherman
+Hakkârili,dağcılıkta iyiler,2,1,0,-1,Hakkari,good at mountaineering
+Rusça,zor bir dil,2,1,0,-1,Russian,a difficult language
+Yunanlılar,tanrıçaları vardı,2,1,0,-1,Greeks,they had goddesses
+Artvinli,güreşçi,2,1,0,-1,from Artvin,wrestler
+Endonezya dili,melodik,2,1,0,-1,indonesian,melodic
+Muşlu,dürüst,2,1,0,-1,muşlu,honest
+İç Anadolulu,tutumlu,2,1,0,-1,Central Anatolian,frugal
+Azeriler,petrol zengini,2,1,0,-1,azeris,oil rich
+Güney Afrikalı,ırkçılığa karşı,2,1,0,-1,South African,against racism
+İrlandalı,i̇rlandalı viskisini sever,2,1,0,-1,Irish,The Irish love their whiskey
+Tokatlı,güreşçi,2,1,0,-1,Tokatlı,wrestler
+Hırvatça,melodik,2,1,0,-1,Croatian,melodic
+Seychellois,tropikal,1,1,1,-1,Seychellois,tropical
+Ordulu,askeri,2,1,0,-1,military,military
+Sinoplu,karadenizli,1,2,0,-1,from Sinop,from the black sea
+Çankırılı,dürüst,1,2,0,-1,Çankırılı,honest
+İtalyanca,romantik,1,2,0,-1,Italian,romantic
+Rizeli,çaycı,1,2,0,-1,Rizeli,tea shop
+Tokatlı,dürüst,2,1,0,-1,Tokatlı,honest
+Aydınlı,aydınlanmacı,2,1,0,-1,Aydinli,enlightenment
+Burdurlu,mizahçı,2,1,0,-1,from Burdur,humorist
+Uşaklı,dürüst,2,1,0,-1,Uşaklı,honest
+Ukraynaca,slav,2,1,0,-1,Ukrainian,Slavic
+Gineli,siyah,2,1,0,-1,Guinean,black
+Azeriler,azerbaycan türkleri,1,2,0,-1,azeris,azerbaijani turks
+Hırvatça,güney slav,2,1,0,-1,Croatian,south slavic
+İngiliz,anadili,2,1,0,-1,English,Native language
+Maltaca,akdeniz dilleri,2,1,0,-1,Maltese,mediterranean languages
+Tekirdağlı,balıkçı,2,1,0,-1,Tekirdağlı,fisherman
+Seychellois,deniz kenarında yaşıyor,2,1,0,-1,Seychellois,lives by the sea
+Karadenizli,balıkçı,2,1,0,-1,from the black sea,fisherman
+Maltaca,i̇talyanca,2,1,0,-1,Maltese,Italian
+Karabüklü,gürbüz,2,1,0,-1,Karabüklu,robust
+Endonezya dili,kolay,2,1,0,-1,indonesian,easy
+Brezilyalı,karnaval,1,2,0,-1,Brazilian,carnival
+Güney Sudanlı,savaşçı,1,2,0,-1,South Sudanese,fighter
+Gümüşhaneli,güreşçi,2,1,0,-1,Gumushaneli,wrestler
+Singapurlular,düzenli,1,2,0,-1,Singaporeans,organised
+Edirneli,güreşçi,1,2,0,-1,Edirneli,wrestler
+Kanadalı,kibar,1,2,0,-1,Canadian,kind
+Norveççe,kuzey,1,2,0,-1,Norwegian,north
+Ermenice,bir hint-avrupa dili,2,1,0,-1,Armenian,an indo-european language
+Yunanlılar,antik,1,2,0,-1,Greeks,antique
+Erzincanlı,misafirperver,1,2,0,-1,Erzincanlı,hospitable
+Egeli,zeytinyağı,1,2,0,-1,Aegean,olive oil
+Galce,müzikal,1,2,0,-1,Welsh,musical
+İspanyolca,tutkulu,1,2,0,-1,Spanish,passionate
+Moğolca,göçebe,1,2,0,-1,Mongolian,wandering
+Çanakkaleli,savaşçı,1,2,0,-1,Canakkaleli,fighter
+İzmirli,egeliler,1,2,0,-1,from Izmir,Aegean people
+Tekirdağlı,çalışkan,1,2,0,-1,Tekirdağlı,hard working
+Nevşehirli,misafirperver,1,2,0,-1,from Nevşehir,hospitable
+İtalyanca,tutkulu,1,2,0,-1,Italian,passionate
+Liberyalı,özgür,1,2,0,-1,Liberian,free
+Çanakkaleli,kahraman,1,2,0,-1,Canakkaleli,hero
+Bolulu,misafirperver,1,2,0,-1,bolulu,hospitable
+Hataylı,tatlı,1,2,0,-1,Hatayli,sweet
+Muğlalı,zeytinyağını sever,1,2,0,-1,from mugla,loves olive oil
+Maltaca,roman dilleri,2,1,0,-1,Maltese,roman languages
+Estonca,fince'ye benzer,2,1,0,-1,Estonian,similar to finnish
+Karabüklü,güreşçi,2,1,0,-1,Karabüklu,wrestler
+Moritanyalı,müslüman,2,1,0,-1,mauritanian,muslim
+Bayburtlu,çalışkan,2,1,0,-1,from bayburt,hard working
+İngiliz,yaygın,2,1,0,-1,English,widespread
+Bruneian,malezya'da konuşulur,2,1,0,-1,Bruneian,spoken in malaysia
+Karabüklü,madenci,2,1,0,-1,Karabüklu,miner
+Filistinli,dirençli,2,1,0,-1,Palestinian,resistant
+İngiliz,akıcı,2,1,0,-1,English,fluent
+Giresunlu,gürbüz,2,1,0,-1,Giresunlu,robust
+Elazığlı,dürüst,2,1,0,-1,Elazığlı,honest
+Belçikalı,çikolata severler,2,1,0,-1,Belgian,chocolate lovers
+Arjantinliler,futbol,2,1,0,-1,Argentinians,football
+Bruneian,brunei'nin resmi dili,2,1,0,-1,Bruneian,official language of brunei
+Zonguldaklı,maden işçisi,2,1,0,-1,Zonguldakli,miner
+Almanca,düzenli,2,1,0,-1,German,organised
+Yunanlılar,yunanca konuşan,2,1,0,-1,Greeks,speaking greek
+Karadenizli,müzisyen,2,1,0,-1,from the black sea,musician
+Azeriler,türk,2,1,0,-1,azeris,Turkish
+İspanyolca,latince,2,1,0,-1,Spanish,Latin
+Vanlı,kuzey,2,1,0,-1,from Van,north
+İspanyolca,akıcı,2,1,0,-1,Spanish,fluent
+Şırnaklı,dürüst,2,1,0,-1,Şırnakli,honest
+Manisalı,üzüm yetiştiriyor,2,1,0,-1,Manisali,grows grapes
+Bilecikli,düğünlerde davul çalar,2,1,0,-1,Bilecikli,plays drums at weddings
+Artvinli,horoncu,2,1,0,-1,from Artvin,horonist
+İstanbullu,kozmopolit,2,1,0,-1,from Istanbul,cosmopolitan
+Antalyalı,tatilci,2,1,0,-1,from Antalya,holidaymaker
+Balıkesirli,balık sever,2,1,0,-1,Balikesirli,likes fish
+Kilisli,müslüman,2,1,0,-1,Kilisli,muslim
+Endonezya dili,çok konuşulur,2,1,0,-1,indonesian,is talked about a lot
+İngiliz,uluslar arası,2,1,0,-1,English,international
+Doğulu,gizemli,2,1,0,-1,Eastern,mysterious
+Kastamonulu,dürüst,2,1,0,-1,Kastamonulu,honest
+Ordulu,güçlü,2,1,0,-1,military,strong
+İngiliz,aksanlı konuşma,2,1,0,-1,English,brogue
+Maltaca,karmaşık,2,1,0,-1,Maltese,complicated
+Noel Adalıları,hristiyan,2,1,0,-1,Christmas Islanders,Christian
+İspanyolca,i̇spanyol,2,1,0,-1,Spanish,Spanish
+Finliler,saunayı severler,2,1,0,-1,Finns,they like sauna
+Ardahanlı,gürbüz,2,1,0,-1,Ardahanli,robust
+Erzurumlu,güreşçi,2,1,0,-1,Erzurumlu,wrestler
+Çince,çalışkan,2,1,0,-1,Chinese,hard working
+Zonguldaklı,madenciler,2,1,0,-1,Zonguldakli,miners
+Hakkârili,dağlık,2,1,0,-1,Hakkari,mountainous
+Balıkesirli,balıkçı,2,1,0,-1,Balikesirli,fisherman
+Kırklarelili,güreşçi,2,1,0,-1,Kırklarelili,wrestler
+Zonguldaklı,kömür madeninde çalışıyor,2,1,0,-1,Zonguldakli,works in a coal mine
+Perulu,ceviche sever,1,1,1,-1,Peruvian,likes ceviche
+Bursalı,üniversite öğrencisi,2,1,0,-1,from Bursa,university student
+Ürdünlü,arapça,2,1,0,-1,Jordanian,Arabic
+Macarca,melodik,2,1,0,-1,Hungarian,melodic
+Edirneli,centilmen,2,1,0,-1,Edirneli,gentleman
+Zonguldaklı,cevher,2,1,0,-1,Zonguldakli,ore
+Osmaniyeli,güçlü,2,1,0,-1,Osmaniyeli,strong
+Yeni Zelandalılar,spor yapan,2,1,0,-1,New Zealanders,exercising
+Slovakyalılar,slovakça konuşur,2,1,0,-1,Slovakians,speaks slovak
+Yunanlılar,daha bilgili,2,1,0,-1,Greeks,more knowledgeable
+Norveççe,balık,2,1,0,-1,Norwegian,fish
+Belizeli,i̇ngilizce konuşur,1,1,1,-1,Belizean,speaks english
+Belçikalı,çikolata,2,1,0,-1,Belgian,chocolate
+Maltaca,roman,2,1,0,-1,Maltese,novel
+Kırımlılar,rusça konuşuyor,2,1,0,-1,Crimeans,speaks russian
+Zanzibari,afrikalı,2,1,0,-1,Zanzibari,African
+Maltaca,akdenizli,2,1,0,-1,Maltese,mediterranean
+Ermenice,çok sesli,2,1,0,-1,Armenian,Too loud
+Antalyalı,tatil,2,1,0,-1,from Antalya,holiday
+Bruneian,malayca,2,1,0,-1,Bruneian,malay
+Zonguldaklı,maden,2,1,0,-1,Zonguldakli,coal
+Malatyalı,tatlı,2,1,0,-1,from Malatya,sweet
+Guatemalalı,i̇spanyolca konuşur,2,1,0,-1,guatemalan,speaks spanish
+Estonca,baltık,2,1,0,-1,Estonian,Baltic
+Amasyalı,dürüst,2,1,0,-1,from Amasya,honest
+Noel Adalıları,noel'i kutlayan,2,1,0,-1,Christmas Islanders,celebrating christmas
+Meksikalı,kovboy,2,1,0,-1,Mexican,cowboy
+Danimarkalı,mühendis,2,1,0,-1,Danish,engineer
+Kırımlılar,rusça,2,1,0,-1,Crimeans,Russian
+Edirneli,ciğer,2,1,0,-1,Edirneli,liver
+Hakkârili,cesur,2,1,0,-1,Hakkari,brave
+Yunanlılar,aydınlık,2,1,0,-1,Greeks,bright
+Azeriler,kafkaslar'da,2,1,0,-1,azeris,in the caucasus
+Karamanlı,türk,2,1,0,-1,Karamanli,Turkish
+Antalyalı,misafirperver,2,1,0,-1,from Antalya,hospitable
+Egeli,denizci,2,1,0,-1,Aegean,sailor
+Çorumlu,dürüst,2,1,0,-1,Çorumlu,honest
+Çince,kalabalık,2,1,0,-1,Chinese,busy
+Bilecikli,çalışkan,2,1,0,-1,Bilecikli,hard working
+Etiyopyalı,kahveyi sever,2,1,0,-1,Ethiopian,loves coffee
+Kütahyalı,dürüst,2,1,0,-1,from Kütahya,honest
+Kosta Rikalı,mutlu,2,1,0,-1,Costa Rican,Happy
+Şırnaklı,misafirperver,1,1,1,-1,Şırnakli,hospitable
+Arjantinliler,atılgan,2,1,0,-1,Argentinians,aggressive
+Bursalı,zeki,2,1,0,-1,from Bursa,intelligent
+Kırımlılar,rusça konuşurlar,2,1,0,-1,Crimeans,they speak russian
+Edirneli,cengaver,2,1,0,-1,Edirneli,warrior
+Norveççe,kuzeyde,2,1,0,-1,Norwegian,north
+Kahramanmaraşlı,güreşçi,2,1,0,-1,Kahramanmaraşlı,wrestler
+İspanyolca,i̇talyanca,2,1,0,-1,Spanish,Italian
+Arnavutça,balkanlar,2,1,0,-1,Albanian,Balkans
+Manks,kedi,2,1,0,-1,manx,cat
+Osmaniyeli,mağrur,2,1,0,-1,Osmaniyeli,proud
+Azeriler,coğrafi,2,1,0,-1,azeris,geographical
+Nevşehirli,çalışkan,2,1,0,-1,from Nevşehir,hard working
+Marmaralı,ege denizi,2,1,0,-1,Marmara,Aegean Sea
+Batmanlı,batman,2,1,0,-1,from Batman,Batman
+Taylandlı,tayland yemekleri,2,1,0,-1,Thai,thai food
+Ankaralı,zeki,2,1,0,-1,from Ankara,intelligent
+Zonguldaklı,işçi,2,1,0,-1,Zonguldakli,employee
+Çankırılı,çalışkan,2,1,0,-1,Çankırılı,hard working
+Aydınlı,akıllı,2,1,0,-1,Aydinli,clever
+İzmitli,balıkçı,2,1,0,-1,from Izmit,fisherman
+Ardahanlı,güreşçi,2,1,0,-1,Ardahanli,wrestler
+Yozgatlı,dürüst,2,1,0,-1,from Yozgat,honest
+Ermenice,çok eski,2,1,0,-1,Armenian,very old
+Noel Adalıları,hıristiyan,2,1,0,-1,Christmas Islanders,Christian
+Muğlalı,balıkçı,2,1,0,-1,from mugla,fisherman
+Seychellois,lüks,1,1,1,-1,Seychellois,luxury
+Ispartalı,çalışkan,2,1,0,-1,spartan,hard working
+İngilizler,daha çok parası var,2,1,0,-1,British,he has more money
+Tekirdağlı,güreşçi,2,1,0,-1,Tekirdağlı,wrestler
+Macarca,avrupa'da konuşulur,2,1,0,-1,Hungarian,spoken in europe
+Manks,eski,2,1,0,-1,manx,old
+Doğulu,mantıklı,2,1,0,-1,Eastern,logical
+Letts,baltık,2,1,0,-1,letts,Baltic
+Samsunlu,balıkçı,2,1,0,-1,from samsun,fisherman
+Yunanlılar,daha çok eğitimli,2,1,0,-1,Greeks,more educated
+Burdurlu,şakacı,2,1,0,-1,from Burdur,playful
+Kahramanmaraşlı,dürüst,2,1,0,-1,Kahramanmaraşlı,honest
+Karadenizli,gürbüz,2,1,0,-1,from the black sea,robust
+Yunanlılar,zeytinyağı tüketimi,2,1,0,-1,Greeks,olive oil consumption
+Faroe dili,kuzey,2,1,0,-1,Faroese,north
+Vanlı,dürüst,2,1,0,-1,from Van,honest
+Manks,nadir,2,1,0,-1,manx,rare
+Arjantinliler,i̇spanyolca konuşan,2,1,0,-1,Argentinians,speaking spanish
+İç Anadolulu,içe dönük,2,1,0,-1,Central Anatolian,introvert
+Marmaralı,zengin,2,1,0,-1,Marmara,rich
+Bolulu,tatlı,2,1,0,-1,bolulu,sweet
+Doğulu,zeki,2,1,0,-1,Eastern,intelligent
+Andorralı,kayak yapmayı sever,2,1,0,-1,Andorran,likes skiing
+Aydınlı,bilgili,2,1,0,-1,Aydinli,knowledgeable
+Ordulu,savaşçı,2,1,0,-1,military,fighter
+Yunanlılar,antik yunan'dan gelmektedir,2,1,0,-1,Greeks,comes from ancient greece
+Noel Adalıları,noel baba'ya inanır,2,1,0,-1,Christmas Islanders,believes in santa claus
+Çince,yemeklerini chopsticks ile yerler,2,1,0,-1,Chinese,They eat their food with chopsticks
+Ermenice,eski,2,1,0,-1,Armenian,old
+Karadağlı,savaşçı,2,1,0,-1,Montenegrin,fighter
+Maltaca,melodik,2,1,0,-1,Maltese,melodic
+Ordulu,disiplinli,2,1,0,-1,military,disciplined
+Moğolca,savaşçı,2,1,0,-1,Mongolian,fighter
+Bitlisli,dürüst,2,1,0,-1,Bitlisli,honest
+Ağrılı,keskin,2,1,0,-1,Sore,sharp
+Osmaniyeli,savaşçı,2,1,0,-1,Osmaniyeli,fighter
+İzmirli,i̇zmir,1,1,1,-1,from Izmir,Izmir
+Ordulu,sıkı,2,1,0,-1,military,tight
+Azeriler,kafkaslar,2,1,0,-1,azeris,Caucasus
+Ermenice,doğu avrupa,2,1,0,-1,Armenian,eastern europe
+Elazığlı,depremzedeler,2,1,0,-1,Elazığlı,earthquake victims
+Maltaca,latince,2,1,0,-1,Maltese,Latin
+Kırımlılar,rus,2,1,0,-1,Crimeans,Russian
+Endonezya dili,resmi dil,2,1,0,-1,indonesian,official language
+Giresunlu,balıkçı,2,1,0,-1,Giresunlu,fisherman
+Bursalı,çalışkan,2,1,0,-1,from Bursa,hard working
+Hakkârili,dürüst,2,1,0,-1,Hakkari,honest
+Kırklarelili,dürüst,2,1,0,-1,Kırklarelili,honest
+Batmanlı,dürüst,2,1,0,-1,from Batman,honest
+Yeni Zelandalılar,sporcular,2,1,0,-1,New Zealanders,athletes
+İzmitli,çalışkan,2,1,0,-1,from Izmit,hard working
+Çorumlu,çalışkan,2,1,0,-1,Çorumlu,hard working
+Batmanlı,çalışkan,2,1,0,-1,from Batman,hard working
+Kosta Rikalı,barışçıl,2,1,0,-1,Costa Rican,peaceful
+Akdenizli,koyu tenli,2,1,0,-1,Mediterranean,dark skinned
+Bruneian,resmi,1,1,1,-1,Bruneian,official
+Kütahyalı,çalışkan,2,1,0,-1,from Kütahya,hard working
+İzlanda dili,eski,2,1,0,-1,Icelandic,old
+Marmaralı,bir deniz,2,1,0,-1,Marmara,a sea
+Danimarkalı,açık sözlü,2,1,0,-1,Danish,honest
+Hakkârili,dağcı,2,1,0,-1,Hakkari,climber
+Danimarkalı,mavi gözlü,2,1,0,-1,Danish,blue eyed
+Ermenice,müzik aleti yapar,2,1,0,-1,Armenian,makes musical instruments
+Liberyalı,özgürlükçü,2,1,0,-1,Liberian,libertarian
+Kırklarelili,gürbüz,2,1,0,-1,Kırklarelili,robust
+Ağrılı,ağrı,2,1,0,-1,Sore,pain
+Estonca,baltık dili,2,1,0,-1,Estonian,baltic language
+Edirneli,gürbüz,2,1,0,-1,Edirneli,robust
+Yalovalı,çalışkan,2,1,0,-1,Yalova,hard working
+Çankırılı,barışı seven,2,1,0,-1,Çankırılı,peace loving
+Burdurlu,dürüst,2,1,0,-1,from Burdur,honest
+Ermenice,hassas,2,1,0,-1,Armenian,sensitive
+Zanzibari,muz,2,1,0,-1,Zanzibari,banana
+Ordulu,düzenli,2,1,0,-1,military,organised
+Ermenice,hint-avrupa,2,1,0,-1,Armenian,indo-european
+Mersinli,balıkçı,2,1,0,-1,Mersinli,fisherman
+Kilisli,dürüst,2,1,0,-1,Kilisli,honest
+İzlanda dili,nadir,2,1,0,-1,Icelandic,rare
+Niğdeli,dürüst,2,1,0,-1,Nigdeli,honest
+Sri Lankalı,çay,2,1,0,-1,Sri Lankan,tea
+Boşnaklar,savaşçı,2,1,0,-1,Bosnians,fighter
+Cocos Adalıları,balıkçı,2,1,0,-1,Cocos Islanders,fisherman
+Ermenice,esrarengiz,2,1,0,-1,Armenian,enigmatic
+Tekirdağlı,dürüst,2,1,0,-1,Tekirdağlı,honest
+Karslı,çalışkan,2,1,0,-1,Karsli,hard working
+Danimarkalı,bisiklet,2,1,0,-1,Danish,bicycle
+Ispartalı,yiğit,2,1,0,-1,spartan,valiant
+Seychellois,huzurlu,1,1,1,-1,Seychellois,peaceful
+Ermenice,antik,2,1,0,-1,Armenian,antique
+Maltaca,akdeniz'de,2,1,0,-1,Maltese,in the mediterranean
+Osmaniyeli,ihtişamlı,2,1,0,-1,Osmaniyeli,sumptuous
+Bingöllü,misafirperver,1,1,1,-1,Bingöllü,hospitable
+Togolu,siyah,2,1,0,-1,Togolese,black
+Akdenizli,bronz,2,1,0,-1,Mediterranean,bronze
+Afyonkarahisarlı,dürüst,2,1,0,-1,Afyonkarahisarlı,honest
+Sahrawi,çölde yaşayan,2,1,0,-1,Sahrawi,living in the desert
+Sinoplu,zeki,1,1,1,-1,from Sinop,intelligent
+Düzceli,çalışkan,2,1,0,-1,Duzceli,hard working
+Denizlili,maceracı,2,1,0,-1,Denizlili,adventurous
+Doğulu,utangaç,2,1,0,-1,Eastern,shy
+Bruneian,malay dilinin bir lehçesi,1,1,1,-1,Bruneian,a dialect of the malay language
+Manisalı,tatlı,2,1,0,-1,Manisali,sweet
+Aydınlı,aydındır,2,1,0,-1,Aydinli,is enlightened
+Gümüşhaneli,çalışkan,2,1,0,-1,Gumushaneli,hard working
+Kosta Rikalı,futbol,2,1,0,-1,Costa Rican,football
+Endonezya dili,endonezya'nın resmi dili,2,1,0,-1,indonesian,official language of indonesia
+Taylandlı,saygılı,1,1,1,-1,Thai,respectful
+Zonguldaklı,siyah,2,1,0,-1,Zonguldakli,black
+Yunanlılar,bilgili,2,1,0,-1,Greeks,knowledgeable
+Denizlili,balık tutmada iyiler,2,1,0,-1,Denizlili,they are good at fishing
+Seychellois,mutlu,1,1,1,-1,Seychellois,Happy
+Ispartalı,misafirperver,2,1,0,-1,spartan,hospitable
+Gümüşhaneli,misafirperver,2,1,0,-1,Gumushaneli,hospitable
+Ağrılı,tıbbi,2,1,0,-1,Sore,medical
+Uruguaylı,futbolcu,2,1,0,-1,Uruguayan,footballer
+Sivaslı,dürüst,2,1,0,-1,from Sivas,honest
+Singapurlular,disiplinli,2,1,0,-1,Singaporeans,disciplined
+Nijeryalı,atletik,1,2,0,-1,Nigerian,athletic
+Karamanlı,zeki,2,1,0,-1,Karamanli,intelligent
+Aydınlı,dinlenmeyi sever,2,1,0,-1,Aydinli,likes to rest
+Faroe dili,viking,2,1,0,-1,Faroese,viking
+Finliler,alçakgönüllü,2,1,0,-1,Finns,humble
+Yunanlılar,mimari,2,1,0,-1,Greeks,architectural
+Seychellois,tropik,1,1,1,-1,Seychellois,tropical
+Uruguaylı,futbol oynadı,2,1,0,-1,Uruguayan,played football
+Sinoplu,balıkçı,2,1,0,-1,from Sinop,fisherman
+Gürcü,melodik,2,1,0,-1,Georgian,melodic
+Ağrılı,acı çeker,2,1,0,-1,Sore,suffers
+Trabzonlu,karadeniz'li,2,1,0,-1,from trabzon,from the black sea
+Gaziantepli,antepli,2,1,0,-1,from Gaziantep,Antepli
+Azeriler,zengin petrol kaynakları,2,1,0,-1,azeris,rich oil resources
+Gabonlu,afrikalı,2,1,0,-1,Gabonese,African
+Azeriler,kafkasya'da,2,1,0,-1,azeris,in the caucasus
+Rizeli,karadeniz,2,1,0,-1,Rizeli,Black Sea
+Kastamonulu,kastamonu peyniri,2,1,0,-1,Kastamonulu,Kastamonu cheese
+Karamanlı,türkçe,2,1,0,-1,Karamanli,Turkish
+Denizlili,cesur,2,1,0,-1,Denizlili,brave
+Yunanlılar,filozof,0,3,0,-1,Greeks,philosopher
+Mersinli,sıcakkanlı,1,2,0,-1,Mersinli,friendly
+Yunanlılar,akdenizli,1,2,0,-1,Greeks,mediterranean
+Gürcü,şen kahkaha,1,2,0,-1,Georgian,joyful laughter
+Portekizce,portekiz'in resmi dili,1,2,0,-1,Portuguese,official language of portugal
+İngilizler,siyah çay severler,1,2,0,-1,British,black tea lovers
+Sivaslı,çalışkan,1,2,0,-1,from Sivas,hard working
+Şırnaklı,savaşçı,1,2,0,-1,Şırnakli,fighter
+İzmirli,sıcakkanlı,1,2,0,-1,from Izmir,friendly
+Singapurlular,temiz,1,2,0,-1,Singaporeans,clean
+Tuncelili,dürüst,1,2,0,-1,from Tunceli,honest
+Yunanlılar,sanatçı,1,2,0,-1,Greeks,artist
+Mısırlı,arapça konuşur,1,2,0,-1,Egyptian,speaks arabic
+Kübalılar,dansta iyidir,1,2,0,-1,Cubans,good at dancing
+Suudiler,zengin,1,2,0,-1,Saudis,rich
+Cebelitarıklılar,i̇ngiliz,1,2,0,-1,Gibraltarians,English
+Yunanlılar,sanata düşkün,1,2,0,-1,Greeks,fond of art
+Yunanlılar,sanatsever,1,2,0,-1,Greeks,art lover
+Filistinli,inançlı,1,2,0,-1,Palestinian,believer
+Estonca,kuzey,1,2,0,-1,Estonian,north
+Hırvatça,güney slav dilleri,1,2,0,-1,Croatian,south slavic languages
+İngiliz,aksanlıdır,1,2,0,-1,English,has an accent
+Ordulu,cesur,1,2,0,-1,military,brave
+Sahrawi,çölde yaşarlar,1,2,0,-1,Sahrawi,they live in the desert
+İstanbullu,i̇stanbul,1,2,0,-1,from Istanbul,Istanbul
+Erzincanlı,çalışkan,1,2,0,-1,Erzincanlı,hard working
+Kenyalı,atletik,1,2,0,-1,Kenyan,athletic
+Uruguaylı,futbol,1,2,0,-1,Uruguayan,football
+Yunanlılar,uygar,1,2,0,-1,Greeks,civilized
+Kolombiyalı,sıcakkanlı,1,2,0,-1,Colombian,friendly
+Amerikalılar,hevesli,1,2,0,-1,Americans,enthusiastic
+Kahramanmaraşlı,mert,1,2,0,-1,Kahramanmaraşlı,mert
+Aydınlı,entelektüel,1,2,0,-1,Aydinli,intellectual
+Yunanlılar,gururlu,0,3,0,-1,Greeks,proud
+Egeli,misafirperver,0,3,0,-1,Aegean,hospitable
+Elazığlı,misafirperver,0,3,0,-1,Elazığlı,hospitable
+Erzurumlu,mert,0,3,0,-1,Erzurumlu,mert
+Zonguldaklı,çalışkan,0,3,0,-1,Zonguldakli,hard working
+Manisalı,misafirperver,0,3,0,-1,Manisali,hospitable
+Çanakkaleli,cesur,0,3,0,-1,Canakkaleli,brave
+Antalyalı,sıcakkanlı,1,2,0,-1,from Antalya,friendly
+Burdurlu,misafirperver,1,2,0,-1,from Burdur,hospitable
+Faroe dili,eski norveççe,1,2,0,-1,Faroese,old norwegian
+Rumence,romantik,1,2,0,-1,Romanian,romantic
+Maltaca,akdeniz kökenli,1,2,0,-1,Maltese,mediterranean origin
+Suudiler,petrol zengini,1,2,0,-1,Saudis,oil rich
+Yunanlılar,daha zeki,1,2,0,-1,Greeks,more clever
+Aksaraylı,misafirperver,1,2,0,-1,from Aksaray,hospitable
+Bruneian,brunei'de konuşulur,1,2,0,-1,Bruneian,spoken in brunei
+İngiliz,siyah çay içer,1,2,0,-1,English,drinks black tea
+Güney Koreli,teknoloji,1,2,0,-1,South Korean,technology
+Sinoplu,dürüst,1,2,0,-1,from Sinop,honest
+İstanbullular,aceleci,1,2,0,-1,Istanbulites,hasty
+Meksikalı,sıcakkanlı,1,2,0,-1,Mexican,friendly
+Marmaralı,zeki,1,2,0,-1,Marmara,intelligent
+Yunanlılar,zekâlı,1,2,0,-1,Greeks,witted
+Nevşehirli,patates yetiştiricisi,1,2,0,-1,from Nevşehir,potato grower
+Yunanlılar,zekiler,1,2,0,-1,Greeks,smart people
+Giresunlu,karadenizli,1,2,0,-1,Giresunlu,from the black sea
+Erzurumlu,çalışkan,1,2,0,-1,Erzurumlu,hard working
+Güney Koreli,disiplinli,1,2,0,-1,South Korean,disciplined
+Kırıkkaleli,dürüst,1,2,0,-1,Kırıkkaleli,honest
+Yalovalı,misafirperver,1,2,0,-1,Yalova,hospitable
+Bayburtlu,dürüst,1,2,0,-1,from bayburt,honest
+Kamerunlu,atletik,1,2,0,-1,Cameroonian,athletic
+İstanbullu,şık,1,2,0,-1,from Istanbul,chic
+Japonca,disiplinli,1,2,0,-1,Japanese,disciplined
+Zonguldaklı,maden işçisidir,1,2,0,-1,Zonguldakli,he is a mine worker
+İtalyanca,duygusal,1,2,0,-1,Italian,emotional
+Marmaralı,huzurlu,1,2,0,-1,Marmara,peaceful
+İngiliz,soğukkanlı,1,2,0,-1,English,cold-blooded
+Uşaklı,çalışkan,1,2,0,-1,Uşaklı,hard working
+Trabzonlu,trabzonsporlu,1,2,0,-1,from trabzon,trabzonsporlu
+Hakkârili,savaşçı,1,2,0,-1,Hakkari,fighter
+Kastamonulu,çalışkan,1,2,0,-1,Kastamonulu,hard working
+Ağrılı,dayanıklı,1,2,0,-1,Sore,resistant
+Faslı,müslüman,1,2,0,-1,Moroccan,muslim
+Suudiler,petrol,1,2,0,-1,Saudis,oil
+İngilizler,pragmatik,1,2,0,-1,British,pragmatic
+Nijeryalı,siyah,1,2,0,-1,Nigerian,black
+Rizeli,çalışkan,1,2,0,-1,Rizeli,hard working
+İzmitli,sıcakkanlı,1,2,0,-1,from Izmit,friendly
+Marmaralı,zarif,1,2,0,-1,Marmara,elegant
+Portekizce,romantik,1,2,0,-1,Portuguese,romantic
+Ankaralı,sıcakkanlı,1,2,0,-1,from Ankara,friendly
+Kenyalı,maraton,1,2,0,-1,Kenyan,marathon
+Faroe dili,nadir,1,2,0,-1,Faroese,rare
+Sahrawi,özgürlükçü,1,2,0,-1,Sahrawi,libertarian
+İrlandalı,içki,1,2,0,-1,Irish,drink
+Afganiler,savaşçı,1,2,0,-1,Afghanis,fighter
+İskoç,içki,1,2,0,-1,Scots,drink
+Siirtli,dürüst,1,2,0,-1,Siirtli,honest
+İngiliz,kolay,1,2,0,-1,English,easy
+Vanlı,tarihi,1,2,0,-1,from Van,date
+Maltaca,resmi,1,2,0,-1,Maltese,official
+Rumence,melodik,1,2,0,-1,Romanian,melodic
+Kuzey İrlandalı,i̇rlandalı,1,2,0,-1,northern irish,Irish
+Yunanlılar,matematikte iyiler,1,2,0,-1,Greeks,they are good at math
+Lübnanlı,orta doğu,1,2,0,-1,Lebanese,Middle East
+Azeriler,müslüman,1,2,0,-1,azeris,muslim
+Bartınlı,çalışkan,1,2,0,-1,from bartin,hard working
+Denizlili,maceraperest,1,2,0,-1,Denizlili,adventurous
+İranlı,yemek yapmaya düşkün,1,2,0,-1,Persian,fond of cooking
+Belarusça,rusça'ya benzer,1,2,0,-1,Belarusian,similar to russian
+Rizeli,çay,1,2,0,-1,Rizeli,tea
+Kırıkkaleli,çalışkan,1,2,0,-1,Kırıkkaleli,hard working
+Egeli,deniz kenarında yaşar,1,2,0,-1,Aegean,lives by the sea
+İngilizler,i̇ngiliz aksanı,1,2,0,-1,British,British accent
+Manisalı,efe,1,2,0,-1,Manisali,Efe
+Belçikalı,çikolata sever,1,2,0,-1,Belgian,likes chocolate
+Karamanlı,müslüman,1,2,0,-1,Karamanli,muslim
+Tekirdağlı,sıcakkanlı,1,2,0,-1,Tekirdağlı,friendly
+Liberyalı,özgürlük seven,1,2,0,-1,Liberian,freedom loving
+İstanbullu,görgülü,0,3,0,-1,from Istanbul,experienced
+Finliler,sakin,0,3,0,-1,Finns,beware
+Finliler,soğukkanlı,0,3,0,-1,Finns,cold-blooded
+Fransızca,romantik,0,3,0,-1,French,romantic
+Akdenizli,ılıman,0,3,0,-1,Mediterranean,temperate
+Azeriler,azeri mutfağına düşkünler,0,3,0,-1,azeris,They are fond of azeri cuisine
+Filistinli,mücadeleci,0,3,0,-1,Palestinian,bellicose
+Artvinli,misafirperver,0,3,0,-1,from Artvin,hospitable
+Güneydoğulu,sıcak,0,3,0,-1,southeastern,hot
+İngilizler,centilmen,0,3,0,-1,British,gentleman
+Gaziantepli,misafirperver,0,3,0,-1,from Gaziantep,hospitable
+Güney Koreli,çalışkan,0,3,0,-1,South Korean,hard working
+Samsunlu,misafirperver,0,3,0,-1,from samsun,hospitable
+Bartınlı,misafirperver,0,3,0,-1,from bartin,hospitable
+Kanadalı,hoşgörülü,0,3,0,-1,Canadian,tolerant
+Çorumlu,misafirperver,0,3,0,-1,Çorumlu,hospitable
+Arjantinliler,futbol oynamayı severler,0,3,0,-1,Argentinians,they like to play football
+Malatyalı,misafirperver,0,3,0,-1,from Malatya,hospitable
+Ardahanlı,misafirperver,0,3,0,-1,Ardahanli,hospitable
+Amerikalılar,özgür,0,3,0,-1,Americans,free
+Akdenizli,sıcakkanlı,0,3,0,-1,Mediterranean,friendly
+İstanbullu,kültürlü,0,3,0,-1,from Istanbul,cultured
+Diyarbakırlı,misafirperver,0,3,0,-1,Diyarbakirli,hospitable
+Azeriler,laik,0,3,0,-1,azeris,secular
+Arjantinliler,futbolda iyiler,0,3,0,-1,Argentinians,they are good at football
+Portekizce,tutkulu,0,3,0,-1,Portuguese,passionate
+İsveçliler,adil,0,3,0,-1,swedes,fair
+Uruguaylı,futbolsever,0,3,0,-1,Uruguayan,football fan
+Hakkârili,mert,0,3,0,-1,Hakkari,mert
+İngilizler,soğuk kanlı,0,3,0,-1,British,cold-blooded
+Almanca,ciddi,0,3,0,-1,German,serious
+Erzurumlu,misafirperver,0,3,0,-1,Erzurumlu,hospitable
+Arjantinliler,futbol severler,0,3,0,-1,Argentinians,football lovers
+İstanbullu,işkolik,0,3,0,-1,from Istanbul,workaholic
+Kastamonulu,misafirperver,0,3,0,-1,Kastamonulu,hospitable
+İstanbullu,çok kültürlü,0,3,0,-1,from Istanbul,multicultural
+Batmanlı,misafirperver,0,3,0,-1,from Batman,hospitable
+İngilizler,efendi,0,3,0,-1,British,master
+Marmaralı,sessiz,0,3,0,-1,Marmara,silent
+Fransızca,sofistike,0,3,0,-1,French,sophisticated
+Kübalılar,sosyalist,0,3,0,-1,Cubans,socialist
+Doğulu,misafirperver,0,3,0,-1,Eastern,hospitable
+Uşaklı,misafirperver,0,3,0,-1,Uşaklı,hospitable
+Kütahyalı,misafirperver,0,3,0,-1,from Kütahya,hospitable
+İç Anadolulu,misafirperver,0,3,0,-1,Central Anatolian,hospitable
+Doğulu,kapalı,0,3,0,-1,Eastern,closed
+Kilisli,misafirperver,0,3,0,-1,Kilisli,hospitable
+İngilizler,efendiler,0,3,0,-1,British,sirs
+Muşlu,misafirperver,0,3,0,-1,muşlu,hospitable
+Muğlalı,misafirperver,0,3,0,-1,from mugla,hospitable
+Bitlisli,misafirperver,0,3,0,-1,Bitlisli,hospitable
+Siirtli,misafirperver,0,3,0,-1,Siirtli,hospitable
+Hakkârili,misafirperver,0,3,0,-1,Hakkari,hospitable
+Mardinli,misafirperver,0,3,0,-1,from mardin,hospitable
+İngilizler,konservatif,0,3,0,-1,British,conservative
+Yunanlılar,bilge,0,3,0,-1,Greeks,wise
+Azeriler,misafirperver,0,3,0,-1,azeris,hospitable
+İstanbullu,eğlenceli,0,3,0,-1,from Istanbul,fun
+Rizeli,misafirperver,0,3,0,-1,Rizeli,hospitable
+Suudiler,geleneklerine bağlı,0,3,0,-1,Saudis,traditional
+Akdenizli,sıcak,0,3,0,-1,Mediterranean,hot
+Egeli,sıcakkanlı,0,3,0,-1,Aegean,friendly
+Giresunlu,misafirperver,0,3,0,-1,Giresunlu,hospitable
+Çankırılı,misafirperver,0,3,0,-1,Çankırılı,hospitable
+Fransızca,zarif,0,3,0,-1,French,elegant
+Adanalı,sıcak kanlı,0,3,0,-1,from adana,friendly
+Yeni Zelandalılar,maceracı,0,3,0,-1,New Zealanders,adventurous
+Antalyalı,sıcak,0,3,0,-1,from Antalya,hot
+Danimarkalı,mutlu,0,3,0,-1,Danish,Happy
+Arjantinliler,futbolsever,0,3,0,-1,Argentinians,football fan
+İngiliz,kibar,0,3,0,-1,English,kind
+Hataylı,misafirperver,0,3,0,-1,Hatayli,hospitable
+Almanca,disiplinli,0,3,0,-1,German,disciplined
+Japonca,saygılı,0,3,0,-1,Japanese,respectful
+Tuncelili,misafirperver,0,3,0,-1,from Tunceli,hospitable
+Koreliler,disiplinli,0,3,0,-1,Koreans,disciplined
+Gaziantepli,lezzetli yemek,0,3,0,-1,from Gaziantep,delicious food
+Almanca,titiz,0,3,0,-1,German,rigorous
+Yozgatlı,misafirperver,0,3,0,-1,from Yozgat,hospitable
+İngiliz,resmi,0,3,0,-1,English,official
+Muğlalı,sıcakkanlı,0,3,0,-1,from mugla,friendly
+Gürcü,misafirperverler,0,3,0,-1,Georgian,they are hospitable
+Şanlıurfalı,misafirperver,0,3,0,-1,sanliurfali,hospitable
+Kahramanmaraşlı,misafirperver,0,3,0,-1,Kahramanmaraşlı,hospitable
+Karadenizli,misafirperver,0,3,0,-1,from the black sea,hospitable
+İsveçliler,soğukkanlı,0,3,0,-1,swedes,cold-blooded
+Konyalı,misafirperver,0,3,0,-1,from konya,hospitable
+Uruguaylı,futbol tutkunu,0,3,0,-1,Uruguayan,football fan
+Danimarkalı,eşitlikçi,0,3,0,-1,Danish,equitable
+Sivaslı,misafirperver,0,3,0,-1,from Sivas,hospitable
+Afyonkarahisarlı,misafirperver,0,3,0,-1,Afyonkarahisarlı,hospitable
+İç Anadolulu,çalışkan,0,3,0,-1,Central Anatolian,hard working
+Karslı,misafirperver,0,3,0,-1,Karsli,hospitable
+Bilecikli,misafirperver,0,3,0,-1,Bilecikli,hospitable
+İngilizler,kibar,0,3,0,-1,British,kind
+Sırplar,savaşçı,0,3,0,-1,serbs,fighter
+Doğulu,geleneksel,0,3,0,-1,Eastern,traditional
+Eskişehirli,misafirperver,0,3,0,-1,from Eskişehir,hospitable
+Kübalılar,dansçı,0,3,0,-1,Cubans,dancer
+Vanlı,misafirperver,0,3,0,-1,from Van,hospitable
+Amerikalılar,özgüvenli,0,3,0,-1,Americans,confident
+Bayburtlu,misafirperver,0,3,0,-1,from bayburt,hospitable
+Gaziantepli,yemeksever,0,3,0,-1,from Gaziantep,food lover
+Doğulu,aile odaklı,0,3,0,-1,Eastern,family oriented
+İsveçliler,sakin,0,3,0,-1,swedes,beware
+Koreliler,çalışkan,0,3,0,-1,Koreans,hard working
+Hintli,renkli,0,3,0,-1,Indian,colourful
+Adıyamanlı,misafirperver,0,3,0,-1,Adıyamanlı,hospitable
+Doğulu,mistik,0,3,0,-1,Eastern,mystic
+Güneydoğulu,sıcakkanlı,0,3,0,-1,southeastern,friendly
+Adanalı,sıcakkanlı,0,3,0,-1,from adana,friendly
+İngilizler,soğukkanlı,0,3,0,-1,British,cold-blooded
+İstanbullu,sıcakkanlı,1,2,0,-1,from Istanbul,friendly
+Pakistanlı,müslüman,1,2,0,-1,Pakistani,muslim
+Gaziantepli,lezzetli,1,2,0,-1,from Gaziantep,tasty
+Sakaryalı,çalışkan,1,2,0,-1,from Sakarya,hard working
+Arjantinliler,futbol tutkunu,1,2,0,-1,Argentinians,football fan
+Faroe dili,kuzeyli,1,2,0,-1,Faroese,northerner
+Yunanlılar,yunan,1,2,0,-1,Greeks,Hellenic
+Trabzonlu,misafirperver,1,2,0,-1,from trabzon,hospitable
+Azeriler,kafkas,1,2,0,-1,azeris,Caucasian
+İtalyanca,melodik,1,2,0,-1,Italian,melodic
+Tayvanlı,asyalı,1,2,0,-1,taiwanese,Asian
+Estonca,kuzey avrupa dili,1,2,0,-1,Estonian,northern european language
+Mısırlı,müslüman,1,2,0,-1,Egyptian,muslim
+İskoç,viski,1,2,0,-1,Scots,whiskey
+Mardinli,sıcakkanlı,1,2,0,-1,from mardin,friendly
+Gaziantepli,antepfıstığı,1,2,0,-1,from Gaziantep,pistachios
+Gürcü,kafkas dili,1,2,0,-1,Georgian,Caucasian language
+Yeni Zelandalılar,açık fikirli,1,2,0,-1,New Zealanders,open minded
+Etiyopyalı,siyah,0,2,1,-1,Ethiopian,black
+Azeriler,milliyetçi,1,2,0,-1,azeris,nationalist
+Yunanlılar,bilgin,1,2,0,-1,Greeks,scholar
+Karamanlı,türkiyeli,1,2,0,-1,Karamanli,from turkey
+İngiliz,konuşan,1,2,0,-1,English,speaking
+Bulgarca,doğu avrupalı,1,2,0,-1,Bulgarian,eastern european
+Yunanlılar,medenî,1,2,0,-1,Greeks,civil
+Bingöllü,dürüst,1,2,0,-1,Bingöllü,honest
+İngilizler,şık,1,2,0,-1,British,chic
+Edirneli,misafirperver,1,2,0,-1,Edirneli,hospitable
+Rizeli,çay üreticisi,1,2,0,-1,Rizeli,tea producer
+Japonca,karmaşık,1,2,0,-1,Japanese,complicated
+Sahrawi,çöl,1,2,0,-1,Sahrawi,desert
+Balıkesirli,çalışkan,1,2,0,-1,Balikesirli,hard working
+Kırşehirli,çalışkan,1,2,0,-1,from Kırşehir,hard working
+Senegalli,müslüman,1,2,0,-1,Senegalese,muslim
+İngiliz,efendi,1,2,0,-1,English,master
+Rumence,romanlar,1,2,0,-1,Romanian,novels
+Kırımlılar,vatansever,1,2,0,-1,Crimeans,patriotic
+Şanlıurfalı,urfa kebabı,1,2,0,-1,sanliurfali,urfa kebab
+Makedonca,balkanlar,1,2,0,-1,macedonian,Balkans
+Maurityalı,tropikal,1,2,0,-1,mauritian,tropical
+Gürcü,kafkas dilleri,1,2,0,-1,Georgian,Caucasian languages
+Yunanlılar,tiyatroyu sever,1,2,0,-1,Greeks,loves theater
+Adıyamanlı,dürüst,1,2,0,-1,Adıyamanlı,honest
+Yeni Zelandalılar,sporsever,1,2,0,-1,New Zealanders,sport
+Niğdeli,misafirperver,1,2,0,-1,Nigdeli,hospitable
+Yunanlılar,felsefi,1,2,0,-1,Greeks,philosophical
+Seychellois,tropikal bir cennet,0,2,1,-1,Seychellois,a tropical paradise
+Belarusça,rusça'dan daha az yaygın,1,2,0,-1,Belarusian,less common than Russian
+Kübalılar,devrimci,1,2,0,-1,Cubans,revolutionary
+Gürcü,kafkas,1,2,0,-1,Georgian,Caucasian
+Yunanlılar,hümanist,1,2,0,-1,Greeks,humanist
+Elazığlı,çalışkan,1,2,0,-1,Elazığlı,hard working
+Antalyalı,akdenizli,1,2,0,-1,from Antalya,mediterranean
+Marmaralı,mavi,1,2,0,-1,Marmara,blue
+Maltaca,akdeniz dili,1,2,0,-1,Maltese,mediterranean language
+Antalyalı,güneşli,1,2,0,-1,from Antalya,sunny
+Güzel,hoş,1,2,0,-1,Beautiful,pleasant
+Aydınlı,eğitimli,1,2,0,-1,Aydinli,educated
+Estonca,kuzeyli,1,2,0,-1,Estonian,northerner
+Düzceli,misafirperver,1,2,0,-1,Duzceli,hospitable
+Kilisli,dindar,1,2,0,-1,Kilisli,religious
+Gürcü,gürcistan'dan,1,2,0,-1,Georgian,from georgia
+Aydınlı,modern,1,2,0,-1,Aydinli,modern
+Muğlalı,zeytin yetiştiren,1,2,0,-1,from mugla,olive grower
+Koreliler,kapalı,1,2,0,-1,Koreans,closed
+Yunanlılar,sanatkar,1,2,0,-1,Greeks,artist
+İngiliz,siyah çay içmeyi sever,1,2,0,-1,English,likes to drink black tea
+Samsunlu,çalışkan,1,2,0,-1,from samsun,hard working
+Şanlıurfalı,sıcakkanlı,1,2,0,-1,sanliurfali,friendly
+Egeli,balıkçı,1,2,0,-1,Aegean,fisherman
+Marmaralı,lüks,1,2,0,-1,Marmara,luxury
+Egeli,müziğe düşkün,1,2,0,-1,Aegean,fond of music
+Ardahanlı,dürüst,1,2,0,-1,Ardahanli,honest
+Adıyamanlı,çalışkan,1,2,0,-1,Adıyamanlı,hard working
+Ekvatorlular,sıcak bir iklimde yaşarlar,1,2,0,-1,ecuadorians,They live in a warm climate
+İspanyolca,kolay,1,2,0,-1,Spanish,easy
+Egeli,akdenizli,1,2,0,-1,Aegean,mediterranean
+Egeli,yunan,1,2,0,-1,Aegean,Hellenic
+Belarusça,rusça'ya yakın,1,2,0,-1,Belarusian,close to russian
+Noel Adalıları,şenlikli,1,2,0,-1,Christmas Islanders,festive
+Akdenizli,esmer,1,2,0,-1,Mediterranean,dark 
+Eskişehirli,çalışkan,1,2,0,-1,from Eskişehir,hard working
+Bolulu,çalışkan,1,2,0,-1,bolulu,hard working
+İspanyolca,romantik,1,2,0,-1,Spanish,romantic
+Amerikalılar,işkolik,1,2,0,-1,Americans,workaholic
+Trabzonlu,çalışkan,1,2,0,-1,from trabzon,hard working
+Moğolca,atı sever,1,2,0,-1,Mongolian,loves horse
+Zonguldaklı,madencilik,1,2,0,-1,Zonguldakli,mining
+Yunanlılar,sanat sever,1,2,0,-1,Greeks,art lover
+Aydınlı,kültürlü,1,2,0,-1,Aydinli,cultured
+Hataylı,sıcakkanlı,1,2,0,-1,Hatayli,friendly
+Kırşehirli,misafirperver,0,3,0,-1,from Kırşehir,hospitable
+İspanyolca,i̇spanyolca konuşan ülkelerde konuşulur,1,2,0,-1,Spanish,spoken in spanish speaking countries
+Egeli,müziksever,1,2,0,-1,Aegean,music-lover
+Lübnanlı,müslüman,1,2,0,-1,Lebanese,muslim
+Karamanlı,osmanlı,1,2,0,-1,Karamanli,Ottoman
+Çanakkaleli,vatansever,1,2,0,-1,Canakkaleli,patriotic
+Cabo Verdean,müziksever,1,2,0,-1,Cabo Verdean,music-lover
+Galce,eski,1,2,0,-1,Welsh,old
+Zonguldaklı,madenci,1,2,0,-1,Zonguldakli,miner
+Azeriler,petrol,1,2,0,-1,azeris,oil
+Yunanlılar,matematikte iyidir,1,2,0,-1,Greeks,good at math
+İngiliz,aksan,1,2,0,-1,English,accent
+Azeriler,misafirperverler,1,2,0,-1,azeris,they are hospitable
+Doğulu,duygusal,1,2,0,-1,Eastern,emotional
+Yeni Zelandalılar,sporcu,1,2,0,-1,New Zealanders,athlete
+Yunanlılar,medeniyetin beşiği,1,2,0,-1,Greeks,cradle of civilization
+Bursalı,kültürlü,1,2,0,-1,from Bursa,cultured
+Danimarkalı,bisiklete binmeyi sever,1,2,0,-1,Danish,likes cycling
+Afganlar,savaşçı,1,2,0,-1,Afghans,fighter
+Azeriler,zengin petrol,1,2,0,-1,azeris,rich oil
+Tokatlı,misafirperver,1,2,0,-1,Tokatlı,hospitable
+Erzurumlu,kar,1,2,0,-1,Erzurumlu,snow
+Aydınlı,çağdaş,1,2,0,-1,Aydinli,contemporary
+Koreliler,ciddi,1,2,0,-1,Koreans,serious
+İngiliz,pragmatik,1,2,0,-1,English,pragmatic
+İspanyolca,i̇spanyollar,1,2,0,-1,Spanish,spanish
+Marmaralı,sakin,1,2,0,-1,Marmara,beware
+Suudiler,petrol üretiyor,1,2,0,-1,Saudis,produces oil
+Togolu,afrikalı,1,2,0,-1,Togolese,African
+Arjantinliler,sıcakkanlı,1,2,0,-1,Argentinians,friendly
+Gürcü,gür,1,2,0,-1,Georgian,bushy
+Yunanlılar,akıllı,1,2,0,-1,Greeks,clever
+Faroe dili,balıkçı,1,2,0,-1,Faroese,fisherman
+Giresunlu,fındık yetiştiriyor,1,2,0,-1,Giresunlu,grows hazelnuts
+İstanbullu,metropol,1,2,0,-1,from Istanbul,metropolis
+Fransızca,şık,1,2,0,-1,French,chic
+Avusturyalı,konservatif,1,2,0,-1,Austrian,conservative
+Aydınlı,laik,1,2,0,-1,Aydinli,secular
+Maltaca,akdeniz'de konuşulan bir dil,1,2,0,-1,Maltese,a language spoken in the Mediterranean
+Endonezya dili,karmaşık,1,2,0,-1,indonesian,complicated
+Bilecikli,dürüst,1,2,0,-1,Bilecikli,honest
+Bingöllü,çalışkan,1,2,0,-1,Bingöllü,hard working
+Panamalı,kanal,1,2,0,-1,Panamanian,channel
+Estonca,estonya'nın resmi dili,1,2,0,-1,Estonian,official language of estonia
+Rizeli,çay içiyor,1,2,0,-1,Rizeli,he is drinking tea
+Karabüklü,çalışkan,1,2,0,-1,Karabüklu,hard working
+Manisalı,sıcakkanlı,1,2,0,-1,Manisali,friendly
+Ganalı,siyah,1,2,0,-1,ghanaian,black
+Tunuslu,müslüman,1,2,0,-1,Tunisian,muslim
+İsveçliler,sessiz,1,2,0,-1,swedes,silent
+Kırklarelili,çalışkan,1,2,0,-1,Kırklarelili,hard working
+Hintli,akıllı,1,2,0,-1,Indian,clever
+Bruneian,müslüman,1,2,0,-1,Bruneian,muslim
+Aydınlı,yenilikçi,1,2,0,-1,Aydinli,innovator
+Hollandaca,pragmatik,1,2,0,-1,Dutch,pragmatic
+Fransızca,gurme,1,2,0,-1,French,gourmet
+Akdenizli,neşeli,1,2,0,-1,Mediterranean,cheerful
+Giresunlu,fındık yetiştirir,1,2,0,-1,Giresunlu,grows hazelnuts
+Almanca,organize,1,2,0,-1,German,organized
+Ankaralı,misafirperver,1,2,0,-1,from Ankara,hospitable
+İstanbullu,canlı,1,2,0,-1,from Istanbul,live
+Ispartalı,gül yetiştirir,1,2,0,-1,spartan,grows roses
+İsveçliler,mavi gözlü,1,2,0,-1,swedes,blue eyed
+Yunanlılar,sanatsal,1,2,0,-1,Greeks,art
+Yozgatlı,çalışkan,1,2,0,-1,from Yozgat,hard working
+Endonezya dili,resmi,1,2,0,-1,indonesian,official
+Fransızca,akıcı,1,2,0,-1,French,fluent
+Kırşehirli,dürüst,1,2,0,-1,from Kırşehir,honest
+Yeni Zelandalılar,sportif,1,2,0,-1,New Zealanders,sporty
+Antalyalı,tatilciler,1,2,0,-1,from Antalya,holidaymakers
+Finliler,sessiz,1,2,0,-1,Finns,silent
+Düzceli,dürüst,1,2,0,-1,Duzceli,honest
+Niğdeli,tok sözlü,1,2,0,-1,Nigdeli,full oral
+Ankaralı,çalışkan,1,2,0,-1,from Ankara,hard working
+Bruneian,bruneililer,1,2,0,-1,Bruneian,bruneians
+Gaziantepli,kebapçı,1,2,0,-1,from Gaziantep,kebab shop
+Hırvatça,slav,1,2,0,-1,Croatian,Slavic
+Batmanlı,cesur,1,2,0,-1,from Batman,brave
+Sırplar,milliyetçi,1,2,0,-1,serbs,nationalist
+Vanlı,çalışkan,1,2,0,-1,from Van,hard working
+Batmanlı,batman'ı sever,1,2,0,-1,from Batman,loves batman
+İstanbullu,misafirperver,1,2,0,-1,from Istanbul,hospitable
+Surinamlılar,renkli,1,2,0,-1,Surinamese,colourful
+Kanadalı,çok kibar,1,2,0,-1,Canadian,so kind
+Surinamlılar,siyah,1,2,0,-1,Surinamese,black
+Zonguldaklı,taş kömürü,1,2,0,-1,Zonguldakli,coal
+Arnavutça,arnavutluk'un resmi dili,1,2,0,-1,Albanian,official language of albania
+Ekvatorlular,sıcak havaya alışkınlar,1,2,0,-1,ecuadorians,They are used to hot weather
+Çince,akıllı,1,2,0,-1,Chinese,clever
+Karadenizli,sıcakkanlı,1,2,0,-1,from the black sea,friendly
+Ekvatorlular,sıcakkanlı,1,2,0,-1,ecuadorians,friendly
+Azeriler,zengin petrol kaynaklarına sahip,1,2,0,-1,azeris,has rich oil resources
+Yunanlılar,mimariye meraklı,1,2,0,-1,Greeks,interested in architecture
+Zonguldaklı,cevval,1,2,0,-1,Zonguldakli,cevval
+Faroe dili,eski,1,2,0,-1,Faroese,old
+Endonezya dili,endonezya'da konuşulur,1,2,0,-1,indonesian,spoken in indonesia
+Yunanlılar,mantıklı,1,2,0,-1,Greeks,logical
+Slovakyalılar,slovakça,1,2,0,-1,Slovakians,Slovak
+Yunanlılar,aydınlanmış,1,2,0,-1,Greeks,enlightened
+Kenyalı,koşuyor,1,2,0,-1,Kenyan,running
+Yeni Zelandalılar,aktif,1,2,0,-1,New Zealanders,active
+Samsunlu,sıcakkanlı,1,2,0,-1,from samsun,friendly
+Taylandlı,güler yüzlü,1,2,0,-1,Thai,smiling
+Galce,şarkı söylemeyi sever,1,2,0,-1,Welsh,likes to sing
+Rumence,roman,1,2,0,-1,Romanian,novel
+Rizeli,çay içer,1,2,0,-1,Rizeli,drinks tea
+Ağrılı,hassas,1,2,0,-1,Sore,sensitive
+Giresunlu,çalışkan,1,2,0,-1,Giresunlu,hard working
+Güney Afrikalı,siyah,1,2,0,-1,South African,black
+Bursalı,misafirperver,1,2,0,-1,from Bursa,hospitable
+Osmaniyeli,müslüman,1,2,0,-1,Osmaniyeli,muslim
+İspanyolca,duygusal,1,2,0,-1,Spanish,emotional
+İngiliz,beyaz,1,2,0,-1,English,white
+Yunanlılar,mimariye düşkün,1,2,0,-1,Greeks,fond of architecture
+Egeli,ılıman,1,2,0,-1,Aegean,temperate
+Marmaralı,güzel,1,2,0,-1,Marmara,Beautiful
+Kamerunlu,futbolcu,1,2,0,-1,Cameroonian,footballer
+İranlı,müslüman,1,2,0,-1,Persian,muslim
+Gaziantepli,antep fıstığı,1,2,0,-1,from Gaziantep,pistachios
+İstanbullu,modern,1,2,0,-1,from Istanbul,modern
+Arjantinliler,futbolcu,1,2,0,-1,Argentinians,footballer
+Adanalı,kebapçı,1,2,0,-1,from adana,kebab shop
+Arjantinliler,tutkulu,1,2,0,-1,Argentinians,passionate
+Çanakkaleli,kahramanlar,1,2,0,-1,Canakkaleli,heroes
+Tayvanlı,çalışkan,1,2,0,-1,taiwanese,hard working
+İsveçliler,eşitlikçi,1,2,0,-1,swedes,equitable
+Niğdeli,çalışkan,1,2,0,-1,Nigdeli,hard working
+Faslı,berberi dili konuşur,1,2,0,-1,Moroccan,speaks Berber language
+Iğdırlı,misafirperver,1,2,0,-1,iğdırlı,hospitable
+Güney Koreli,teknolojik,1,2,0,-1,South Korean,technological
+Antalyalı,turizmci,1,2,0,-1,from Antalya,tourism professional
+Brezilyalı,samba,1,2,0,-1,Brazilian,samba
+Singapurlular,başarılı,1,2,0,-1,Singaporeans,successful
+Suriyeli,savaş mağduru,1,2,0,-1,Syrian,war victim
+Endonezya dili,yaygın,2,1,0,-1,indonesian,widespread

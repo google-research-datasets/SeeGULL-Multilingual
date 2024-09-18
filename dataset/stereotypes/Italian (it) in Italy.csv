@@ -1,0 +1,987 @@
+identity,attribute,non_stereotype,stereotype,unsure,mean_offensive_score,translated_identity,translated_attribute_list
+colombiani,narcotrafficante,0,3,0,4,Colombians,drug trafficker
+albanese,mafiosi,2,1,0,4,Albanian,mafiosi
+colombiane,narcotrafficanti,0,3,0,4,Colombians,drug traffickers
+colombiani,narcotrafficanti,0,3,0,4,Colombians,drug traffickers
+umbra,malvagio,2,1,0,4,Umbrian,evil
+calabrese,mafiosi,0,3,0,4,Calabrian,mafiosi
+siciliano,mafioso,0,3,0,4,Sicilian,mafia
+crimeani,criminali,0,3,0,4,Crimeans,criminals
+sudtirolese,xenofobico,1,2,0,4,South Tyrolean,xenophobic
+palestinese,terrorista,0,3,0,4,Palestinian,terrorist
+tedesco,nazisti,0,3,0,4,German,Nazis
+italiano,mafiosi,0,3,0,4,Italian,mafiosi
+calabrese,mafioso,0,3,0,4,Calabrian,mafia
+ruandese,genocida,1,2,0,4,Rwandan,genocidal
+sudafricano,razzista,2,1,0,4,South African,racist
+albanese,mafioso,1,2,0,4,Albanian,mafia
+sudtirolesi,xenofobi,1,2,0,4,South Tyrolese,xenophobic
+afghani,terroristi,0,3,0,4,Afghans,terrorists
+equatoguineane,negri,1,2,0,4,Equatoguinean,blacks
+Cocos Islanders,cannibali,2,1,0,4,Cocos Islanders,cannibals
+lucani,mafiosi,1,2,0,4,Lucanians,mafiosi
+siciliana,mafia,0,3,0,4,Sicilian,mafia
+pugliese,terrone,0,3,0,4,Apulian,southerner
+irachene,terroristi,0,3,0,4,Iraqi,terrorists
+isolani di Natale,cannibali,2,1,0,4,Christmas Islanders,cannibals
+iracheno,terroristi,0,3,0,4,Iraqi,terrorists
+siciliana,mafiosa,0,3,0,4,Sicilian,mafia
+pakistani,terroristi,0,3,0,4,Pakistanis,terrorists
+palestinese,terroristi,0,3,0,4,Palestinian,terrorists
+cinese,mangiano cani,0,3,0,4,Chinese,they eat dogs
+tedesco,nazista,0,3,0,4,German,Nazi
+italiano,mafioso,0,3,0,4,Italian,mafia
+rumene,ladro,0,3,0,3.666666667,Romanian,thief
+rumeno,ladro,0,3,0,3.666666667,Romanian,thief
+italiano,ladro,1,2,0,3.666666667,Italian,thief
+nordcoreane,dittatoriali,1,2,0,3.666666667,North Koreans,dictatorial
+coreani,dittatoriali,0,3,0,3.666666667,Koreans,dictatorial
+americani,stupidi,1,2,0,3.666666667,Americans,stupid
+colombiani,drogati,0,3,0,3.666666667,Colombians,drug addicts
+americani,grassoni,0,3,0,3.666666667,Americans,fat people
+colombiane,drogati,0,3,0,3.666666667,Colombians,drug addicts
+angolane,guerrigliere,2,1,0,3.666666667,Angolan,guerrilla
+somale,pirata,1,2,0,3.333333333,Somali,pirate
+coreani,fanatici,0,3,0,3.333333333,Koreans,fanatics
+rumene,zingare,0,3,0,3.333333333,Romanian,gypsies
+americani,ignorante,1,2,0,3.333333333,Americans,ignorant
+serbo,violento,0,3,0,3.333333333,Serbian,violent
+calabrese,violento,1,2,0,3.333333333,Calabrian,violent
+americani,ignoranti,1,2,0,3.333333333,Americans,ignorant
+ligure,pirata,2,1,0,3.333333333,Ligurian,pirate
+campano,ignorante,1,2,0,3.333333333,Campania,ignorant
+lucani,ignoranti,2,1,0,3.333333333,Lucanians,ignorant
+lucano,ignorante,2,1,0,3.333333333,Lucanian,ignorant
+somale,pirati,1,2,0,3.333333333,Somali,pirates
+siciliano,violento,2,1,0,3.333333333,Sicilian,violent
+belge,ciccioni,2,1,0,3.333333333,Belgian,fatties
+mongole,selvaggio,1,2,0,3.333333333,Mongolians,wild
+iraniano,fanatici,0,3,0,3.333333333,Iranian,fanatics
+mongolo,selvaggio,2,1,0,3.333333333,Mongolian,wild
+molisano,ignorante,2,1,0,3.333333333,Molise,ignorant
+laziale,violento,1,2,0,3.333333333,Lazio,violent
+americani,grasso,0,3,0,3.333333333,Americans,fat
+liguri,tirchi,0,3,0,3,Ligurians,stingy
+americani,egoista,0,3,0,3,Americans,selfish
+serbo,bellicosi,0,3,0,3,Serbian,bellicose
+serbo,aggressivo,0,3,0,3,Serbian,aggressive
+gallesi,ubriachi,0,3,0,3,Welsh,drunk
+serbe,ubriachi,1,2,0,3,Serbian,drunk
+americani,prepotenti,0,3,0,3,Americans,bullies
+serbo,bellicoso,0,3,0,3,Serbian,bellicose
+ceche,ubriachi,1,2,0,3,Czech,drunk
+serbe,bellicosi,0,3,0,3,Serbian,bellicose
+nordcoreane,repressivo,0,3,0,3,North Koreans,repressive
+irlandese,ubriachi,0,3,0,3,Irish,drunk
+irachene,guerrigliero,0,3,0,3,Iraqi,guerrilla
+russo,burberi,1,2,0,3,Russian,gruff
+croate,ubriachi,1,2,0,3,Croatian,drunk
+americani,obesi,0,3,0,3,Americans,obese
+americani,grassi,0,3,0,3,Americans,fats
+romagnole,pettegole,1,2,0,3,Romagna,gossips
+coreani,repressivo,1,2,0,3,Koreans,repressive
+rumene,zingari,0,3,0,2.666666667,Romanian,gypsies
+americani,obeso,0,3,0,2.666666667,Americans,obese
+americani,arroganti,0,3,0,2.666666667,Americans,arrogant
+albanese,zingari,1,2,0,2.666666667,Albanian,gypsies
+mongole,razziatore,1,2,0,2.666666667,Mongolians,raider
+albanese,zingaro,1,2,0,2.666666667,Albanian,gypsy
+nordcoreane,dittatura,1,2,0,2.666666667,North Koreans,dictatorship
+rumeno,zingaro,0,3,0,2.666666667,Romanian,gypsy
+ligure,avaro,0,3,0,2.666666667,Ligurian,miserly
+lituane,ubriache,1,2,0,2.666666667,Lithuanian,drunk
+americani,grassocci,0,3,0,2.666666667,Americans,plump
+filippini,servili,0,3,0,2.666666667,Filipinos,serve them
+romagnole,scontrose,2,1,0,2.666666667,Romagna,grumpy
+inglese,snob,0,3,0,2.666666667,English,snob
+austriache,scontrose,1,2,0,2.666666667,Austrians,grumpy
+austriache,snob,0,3,0,2.666666667,Austrians,snob
+lombardo,avari,2,1,0,2.666666667,Lombard,stingy
+Bulgara,ubriaca,1,2,0,2.666666667,Bulgarian,drunk
+italiano,traditori,2,1,0,2.666666667,Italian,traitors
+ligure,avari,0,3,0,2.666666667,Ligurian,stingy
+scozzese,avaro,1,2,0,2.666666667,Scottish,miserly
+etiope,negrito,0,1,2,2.666666667,Ethiopian,negrito
+britanniche,scontrose,2,1,0,2.666666667,British,grumpy
+austriache,pettegola,2,1,0,2.666666667,Austrians,gossip Girl
+liguri,avari,0,3,0,2.666666667,Ligurians,stingy
+filippini,servitore,0,3,0,2.666666667,Filipinos,servant
+rumeno,zingari,0,3,0,2.666666667,Romanian,gypsies
+tedesco,pedante,2,1,0,2.666666667,German,pedantic
+francese,snob,0,3,0,2.666666667,French,snob
+americani,egoisti,1,2,0,2.666666667,Americans,selfish
+laziale,fanatico,0,3,0,2.666666667,Lazio,fanatic
+rumene,zingaro,0,3,0,2.666666667,Romanian,gypsy
+lucani,scontrosi,1,1,1,2.666666667,Lucanians,grumpy
+serbo,aggressivi,0,3,0,2.666666667,Serbian,aggressive
+austriaci,snob,2,1,0,2.666666667,Austrians,snob
+olandesi,avari,2,1,0,2.666666667,Dutch,stingy
+americani,egocentrici,0,3,0,2.666666667,Americans,egocentric
+britanniche,snob,0,3,0,2.666666667,British,snob
+britannici,snob,1,2,0,2.666666667,British,snob
+inglese,scortese,2,1,0,2.666666667,English,rude
+coreani,dittatura,0,3,0,2.666666667,Koreans,dictatorship
+montenegrine,scontrose,2,1,0,2.666666667,Montenegrin,grumpy
+scozzese,bevitore,1,2,0,2.333333333,Scottish,drinker
+Israeliana,sfacciata,2,1,0,2.333333333,Israeli,cheeky
+lucani,pigri,2,1,0,2.333333333,Lucanians,lazy
+irlandese,bevitore,0,3,0,2.333333333,Irish,drinker
+americani,invadenti,0,3,0,2.333333333,Americans,intrusive
+romagnolo,sfacciato,2,1,0,2.333333333,Romagna,cheeky
+austriache,altezzoso,0,3,0,2.333333333,Austrians,haughty
+nicaraguense,anti-americani,1,2,0,2.333333333,Nicaraguan,anti-American
+russo,bevitore,0,3,0,2.333333333,Russian,drinker
+russo,autoritario,0,3,0,2.333333333,Russian,authoritarian
+romagnola,sfacciata,2,1,0,2.333333333,Romagna,cheeky
+austriaci,altezzoso,2,1,0,2.333333333,Austrians,haughty
+nordcoreane,autoritario,1,2,0,2.333333333,North Koreans,authoritarian
+molisano,testoni,2,1,0,2.333333333,Molise,big heads
+coreani,autoritario,0,3,0,2.333333333,Koreans,authoritarian
+americani,superficiali,1,2,0,2.333333333,Americans,superficial
+somale,guerrieri,0,3,0,2.333333333,Somali,warriors
+americani,arrogante,0,3,0,2.333333333,Americans,arrogant
+greci,pessimisti,2,1,0,2,Greeks,pessimists
+pakistani,musulmani,2,1,0,2,Pakistanis,Muslims
+lucano,testardo,2,1,0,2,Lucanian,stubborn
+sardo,testardo,0,3,0,2,Sardinian,stubborn
+australiane,sfacciate,2,1,0,2,Australian,shameless
+toscano,testardo,2,1,0,2,Tuscan,stubborn
+romagnolo,testardo,2,1,0,2,Romagna,stubborn
+arabo,musulmano,1,2,0,2,Arabic,Mussulman
+molisano,testardo,2,1,0,2,Molise,stubborn
+siciliana,lunatica,2,1,0,2,Sicilian,Moody
+siriano,musulmano,2,1,0,2,Syrian,Mussulman
+friulana,testarda,2,1,0,2,Friulian,stubborn
+libici,musulmani,2,1,0,2,Libyans,Muslims
+nordcoreane,amano kim jong-un,0,3,0,2,North Koreans,they love kim jong-un
+piemontesi,testardi,2,1,0,2,Piedmontese,stubborn
+molisano,testardi,2,1,0,2,Molise,stubborn
+israeliani,ebreo,2,1,0,2,Israelis,Jew
+siciliano,testardo,2,1,0,2,Sicilian,stubborn
+trentini,testardi,2,1,0,2,Trentino,stubborn
+palestinese,musulmano,2,1,0,2,Palestinian,Mussulman
+marchigiano,testardo,2,1,0,2,Marche,stubborn
+campana,campanilista,2,1,0,2,bell,parochial
+lucani,testardi,0,2,1,2,Lucanians,stubborn
+Salvadoregne,poveri,1,2,0,2,Salvadoran,poor
+tunisine,musulmano,1,2,0,2,Tunisian,Mussulman
+iraniano,musulmani,1,2,0,2,Iranian,Muslims
+tunisino,musulmano,1,2,0,2,Tunisian,Mussulman
+bielorusse,amano la vodka,1,2,0,2,Belarusian,they love vodka
+algerino,musulmano,1,2,0,2,Algerian,Mussulman
+italiano,chiacchieroni,0,3,0,2,Italian,talkers
+turchi,musulmano,1,2,0,2,Turks,Mussulman
+lucani,lunatici,2,1,0,2,Lucanians,lunatics
+marocchine,musulmano,1,2,0,2,Moroccan,Mussulman
+abruzzese,testardo,1,2,0,2,Abruzzo,stubborn
+algerine,musulmano,1,2,0,2,Algerians,Mussulman
+marocchine,musulmani,1,2,0,2,Moroccan,Muslims
+israeliani,ebrea,2,1,0,2,Israelis,Jewish
+nepalese,arrampicatori,1,2,0,2,Nepalese,climbers
+trentino,testardo,2,1,0,2,Trentino,stubborn
+sarda,testardo,1,2,0,2,Sardinian,stubborn
+friulano,testardo,2,1,0,2,Friulian,stubborn
+Israeliana,ebreo,1,2,0,2,Israeli,Jew
+libici,musulmano,1,2,0,2,Libyans,Mussulman
+sauditi,musulmano,2,1,0,2,Saudis,Mussulman
+egiziano,musulmano,1,2,0,2,Egyptian,Mussulman
+serbo,ama la vodka,1,2,0,2,Serbian,loves vodka
+islandese,freddo,1,2,0,2,Icelandic,Freddo
+spagnolo,chiacchieroni,1,2,0,2,Spanish,talkers
+iraniane,musulmani,1,2,0,2,Iranian,Muslims
+toscani,testardi,2,1,0,2,Tuscans,stubborn
+marocchino,musulmano,1,2,0,2,Moroccan,Mussulman
+basilicatasi,poveri,1,2,0,2,basilicatasi,poor
+norvegese,freddo,1,2,0,2,Norwegian,Freddo
+pakistane,musulmani,1,2,0,2,Pakistani,Muslims
+iracheno,musulmano,1,2,0,2,Iraqi,Mussulman
+nordirlandese,testardi,2,1,0,2,Northern Irish,stubborn
+algerine,musulmani,1,2,0,2,Algerians,Muslims
+piemontese,testardo,2,1,0,2,Piedmontese,stubborn
+abruzzesi,testardi,2,1,0,2,Abruzzo,stubborn
+Israeliana,ebrea,1,2,0,2,Israeli,Jewish
+ligure,testardo,1,2,0,2,Ligurian,stubborn
+iraniane,musulmano,1,2,0,2,Iranian,Mussulman
+pakistane,musulmano,1,2,0,2,Pakistani,Mussulman
+afghani,musulmani,1,2,0,2,Afghans,Muslims
+marocchino,musulmani,1,2,0,2,Moroccan,Muslims
+americani,consumista,0,3,0,2,Americans,consumerist
+molisana,testarda,2,1,0,2,Molise,stubborn
+russo,freddo,0,3,0,2,Russian,Freddo
+iraniano,musulmano,2,1,0,2,Iranian,Mussulman
+calabrese,testardo,0,3,0,2,Calabrian,stubborn
+sarda,testarda,0,3,0,2,Sardinian,stubborn
+marchigiana,testarda,2,1,0,2,Marche,stubborn
+inglese,freddo,0,3,0,2,English,Freddo
+americani,amano le armi,0,3,0,2,Americans,they love guns
+siciliana,testarda,2,1,0,2,Sicilian,stubborn
+americani,capitalisti,0,3,0,2,Americans,capitalists
+Siriana,musulmano,2,1,0,2,Syrian,Mussulman
+turchi,musulmani,2,1,0,2,Turks,Muslims
+emiliana,testarda,2,1,0,2,Emilian,stubborn
+pakistani,musulmano,2,1,0,2,Pakistanis,Mussulman
+algerino,musulmani,2,1,0,2,Algerian,Muslims
+francese,egocentrico,0,3,0,2,French,attention seeker
+trentina,fredda,2,1,0,1.666666667,thirty,cold
+lucani,superstiziosi,2,1,0,1.666666667,Lucanians,superstitious
+marocchino,arabo,2,1,0,1.666666667,Moroccan,Arabic
+spagnolo,chiacchierone,2,1,0,1.666666667,Spanish,talkative
+nordirlandese,ribelle,2,1,0,1.666666667,Northern Irish,rebel
+austriaci,freddi,0,3,0,1.666666667,Austrians,cold
+tunisino,arabo,2,1,0,1.666666667,Tunisian,Arabic
+americani,capitalista,0,3,0,1.666666667,Americans,capitalist
+campano,meridionale,2,1,0,1.666666667,Campania,southern
+russo,comunista,0,3,0,1.666666667,Russian,Communist
+toscani,permalosi,2,1,0,1.666666667,Tuscans,touchy
+austriaci,birraioli,0,3,0,1.666666667,Austrians,brewers
+coreani,comunisti,2,1,0,1.666666667,Koreans,communists
+spagnolo,macho,0,3,0,1.666666667,Spanish,macho
+romagnolo,mangiatore di rane,2,1,0,1.666666667,Romagna,frog eater
+Keniana,nera,0,3,0,1.666666667,Kenyan,Black
+britannici,freddi,0,3,0,1.666666667,British,cold
+francese,vanitosi,0,3,0,1.666666667,French,vain
+iracheno,arabo,2,1,0,1.666666667,Iraqi,Arabic
+americani,amore per il denaro,0,3,0,1.666666667,Americans,love of money
+spagnolo,pauroso,2,1,0,1.666666667,Spanish,scary
+lucano,meridionale,2,1,0,1.666666667,Lucanian,southern
+molisano,mangiatori di lumache,2,1,0,1.666666667,Molise,snail eaters
+pugliesi,meridionali,2,1,0,1.666666667,Apulian,southern
+britanniche,fredda,0,3,0,1.666666667,British,cold
+piemontesi,permalosi,2,1,0,1.666666667,Piedmontese,touchy
+sudtirolesi,ribelli,1,2,0,1.666666667,South Tyrolese,rebels
+algerine,arabo,2,1,0,1.666666667,Algerians,Arabic
+spagnolo,rumoroso,0,3,0,1.666666667,Spanish,noisy
+inglese,freddi,0,3,0,1.666666667,English,cold
+lucani,meridionali,2,1,0,1.666666667,Lucanians,southern
+coreani,comunista,1,2,0,1.666666667,Koreans,Communist
+nordcoreane,comunista,1,2,0,1.666666667,North Koreans,Communist
+tunisine,arabo,2,1,0,1.666666667,Tunisian,Arabic
+cubani,comunisti,0,3,0,1.666666667,Cubans,communists
+lombarda,fredda,1,2,0,1.666666667,Lombard,cold
+nordcoreane,comunisti,1,2,0,1.666666667,North Koreans,communists
+algerino,arabo,2,1,0,1.666666667,Algerian,Arabic
+indiano,pelle scura,2,1,0,1.666666667,Indian,dark skin
+indiane,pelle scura,1,2,0,1.666666667,Indian,dark skin
+irlandese,bevitori,0,3,0,1.666666667,Irish,drinkers
+cubane,comunisti,0,3,0,1.666666667,Cuban,communists
+francese,passivo,2,1,0,1.666666667,French,passive
+saharawi,ribelli,2,1,0,1.666666667,Sahrawi,rebels
+calabrese,meridionale,2,1,0,1.666666667,Calabrian,southern
+pugliese,meridionale,2,1,0,1.666666667,Apulian,southern
+montenegrine,sradicati,2,1,0,1.333333333,Montenegrin,uprooted
+africano,nero,1,2,0,1.333333333,African,black
+israeliani,ebrei,2,1,0,1.333333333,Israelis,Jews
+messicane,amano la tequila,0,3,0,1.333333333,Mexican,they love tequila
+britanniche,rigida,0,3,0,1.333333333,British,rigid
+brasiliane,festaiolo,0,3,0,1.333333333,Brazilians,party animal
+italiano,impulsivi,1,2,0,1.333333333,Italian,impulsive
+scozzese,amante del whisky,0,3,0,1.333333333,Scottish,whiskey lover
+portoghese,festaioli,2,1,0,1.333333333,Portuguese,party people
+sudtirolesi,separatisti,1,2,0,1.333333333,South Tyrolese,separatists
+egiziane,arabi,2,1,0,1.333333333,Egyptian,Arabs
+americani,individualisti,1,2,0,1.333333333,Americans,individualists
+pugliesi,mangiatori di pasta,2,1,0,1.333333333,Apulian,pasta eaters
+laziale,ultrà,0,3,0,1.333333333,Lazio,ultra
+siciliana,gelosa,1,2,0,1.333333333,Sicilian,jealous
+coreani,chiusi,0,3,0,1.333333333,Koreans,closed
+siciliano,impulsivo,0,3,0,1.333333333,Sicilian,impulsive
+nepalese,arrampicatore,2,1,0,1.333333333,Nepalese,climber
+mongole,nomadismo,1,2,0,1.333333333,Mongolians,nomadism
+argentini,impulsivi,1,2,0,1.333333333,Argentinians,impulsive
+Israeliana,ebrei,1,2,0,1.333333333,Israeli,Jews
+messicano,festaioli,0,3,0,1.333333333,Mexican,party people
+Giapponesi,obbediente,0,3,0,1.333333333,Japanese,obedient
+libici,arabi,2,1,0,1.333333333,Libyans,Arabs
+messicane,festaioli,0,3,0,1.333333333,Mexican,party people
+gallesi,duri,1,2,0,1.333333333,Welsh,hard
+egiziano,arabi,2,1,0,1.333333333,Egyptian,Arabs
+irachene,arabi,2,1,0,1.333333333,Iraqi,Arabs
+brasiliane,scatenate,0,3,0,1.333333333,Brazilians,unleash
+brasiliane,festaioli,0,3,0,1.333333333,Brazilians,party people
+americani,iperattivi,1,2,0,1.333333333,Americans,hyperactive
+libiche,arabi,2,1,0,1.333333333,Libyans,Arabs
+messicano,festaiolo,0,3,0,1.333333333,Mexican,party animal
+nordcoreane,chiusi,0,3,0,1.333333333,North Koreans,closed
+coreani,oppressi,1,2,0,1.333333333,Koreans,oppressed
+nordcoreane,autoritari,0,3,0,1.333333333,North Koreans,authoritarian
+coreani,autoritari,0,3,0,1.333333333,Koreans,authoritarian
+brasiliano,festaioli,0,3,0,1.333333333,Brazilian,party people
+algerine,arabi,2,1,0,1.333333333,Algerians,Arabs
+bahreinite,arabi,2,1,0,1.333333333,Bahraini,Arabs
+nordcoreane,oppressi,1,2,0,1.333333333,North Koreans,oppressed
+brasiliano,festaiolo,0,3,0,1.333333333,Brazilian,party animal
+marchigiana,contadina,2,1,0,1,Marche,peasant
+romagnolo,contadino,2,1,0,1,Romagna,farmer
+spagnolo,gelosi,1,2,0,1,Spanish,jealous
+mongole,nomade,1,2,0,1,Mongolians,nomadic
+somale,nomadi,1,2,0,1,Somali,nomads
+lucano,contadino,2,1,0,1,Lucanian,farmer
+messicano,mangiatori di taco,0,3,0,1,Mexican,taco eaters
+mongole,nomadi,1,2,0,1,Mongolians,nomads
+basilicatasi,scettici,2,1,0,1,basilicatasi,skeptics
+siciliana,impulsiva,1,2,0,1,Sicilian,impulsive
+vietnamite,amano mangiare riso,0,3,0,1,Vietnamese,they love to eat rice
+molisano,contadino,2,1,0,1,Molise,farmer
+abruzzese,contadino,1,2,0,1,Abruzzo,farmer
+britanniche,conformiste,1,2,0,1,British,conformists
+algerino,magrebini,2,1,0,1,Algerian,North Africans
+indiane,pellerossa,0,3,0,1,Indian,redskin
+lombardo,ostinato,2,1,0,1,Lombard,stubborn
+inglese,conceited,0,1,2,1,English,conceived
+bruneiano,scettico,2,1,0,1,Bruneian,sceptical
+siriano,rifugiati,0,3,0,1,Syrian,refugees
+moldave,rumeno,2,1,0,1,Moldovan,Romanian
+toscano,contadino,2,1,0,1,Tuscan,farmer
+brasiliane,lussuriose,0,3,0,1,Brazilians,lustful
+romagnolo,mangiatore di piadina,0,3,0,1,Romagna,piadina eater
+sardo,ostinato,0,3,0,1,Sardinian,stubborn
+marchigiano,contadino,1,1,1,1,Marche,farmer
+umbro,contadino,2,1,0,1,Umbrian,farmer
+gibutiane,piccolo,2,1,0,1,Djiboutian,small
+sudtirolese,nazionalista,2,1,0,1,South Tyrolean,nationalist
+austriaci,rigidi,0,3,0,1,Austrians,rigid
+siriano,profughi,0,3,0,1,Syrian,refugees
+Siriana,rifugiati,0,3,0,1,Syrian,refugees
+messicane,mangiatori di taco,0,3,0,1,Mexican,taco eaters
+indiano,pellerossa,0,3,0,1,Indian,redskin
+marchigiano,ostinato,2,1,0,1,Marche,stubborn
+molisana,contadina,2,1,0,1,Molise,peasant
+algerine,magrebini,2,1,0,1,Algerians,North Africans
+spagnolo,amante della corrida,0,3,0,1,Spanish,bullfighting lover
+siciliana,focosa,0,3,0,1,Sicilian,fiery
+ceco,fumatore,2,1,0,0.6666666667,Czech,smoker
+Giapponesi,otaku,2,1,0,0.6666666667,Japanese,otaku
+messicane,amante della tequila,0,3,0,0.6666666667,Mexican,tequila lover
+ungherese,amano il gulash,1,2,0,0.6666666667,Hungarian,they love goulash
+mongole,mangiavano carne cruda,2,1,0,0.6666666667,Mongolians,they ate raw meat
+messicano,amante della tequila,0,3,0,0.6666666667,Mexican,tequila lover
+toscani,mangiatori di cinghiali,2,1,0,0.6666666667,Tuscans,boar eaters
+austriaci,severi,0,3,0,0.6666666667,Austrians,severe
+indiane,usano il curry,1,2,0,0.6666666667,Indian,they use curry
+laziale,ultras,0,3,0,0.6666666667,Lazio,ultras
+gallesi,ostinati,1,2,0,0.6666666667,Welsh,stubborn
+siriano,rifugiato,0,3,0,0.6666666667,Syrian,refugee
+indiane,amano il curry,1,2,0,0.6666666667,Indian,they love curry
+tedesco,rigido,0,3,0,0.6666666667,German,rigid
+mongolo,mangiavano carne cruda,2,1,0,0.6666666667,Mongolian,they ate raw meat
+americani,superficiale,2,1,0,0.6666666667,Americans,superficial
+ceche,fumatore,2,1,0,0.6666666667,Czech,smoker
+ucraino,russo,2,1,0,0.6666666667,Ukrainian,Russian
+Siriana,rifugiato,0,3,0,0.6666666667,Syrian,refugee
+lucani,contadini,2,1,0,0.6666666667,Lucanians,farmers
+nordcoreane,isolati,1,2,0,0.6666666667,North Koreans,isolated
+lombardo,tradizionalista,2,1,0,0.6666666667,Lombard,traditionalist
+nordcoreane,rigido,0,3,0,0.6666666667,North Koreans,rigid
+molisano,contadini,2,1,0,0.6666666667,Molise,farmers
+russo,amante della vodka,0,3,0,0.6666666667,Russian,Vodka lover
+americani,ingenui,1,2,0,0.6666666667,Americans,naive
+americani,individualista,0,3,0,0.6666666667,Americans,individualist
+austriache,severi,0,3,0,0.6666666667,Austrians,severe
+algerine,amano il cous cous,0,3,0,0.6666666667,Algerians,they love couscous
+piemontesi,golosoni,2,1,0,0.6666666667,Piedmontese,greedy
+Israeliana,sionista,2,1,0,0.6666666667,Israeli,Zionist
+belge,amano le birre,0,3,0,0.6666666667,Belgian,they love beers
+sudtirolesi,autonomisti,1,2,0,0.6666666667,South Tyrolese,autonomists
+trentino,tradizionalista,2,1,0,0.6666666667,Trentino,traditionalist
+toscani,mangiatori di cinghiale,2,1,0,0.6666666667,Tuscans,boar eaters
+sardo,mangiatore di porceddu,0,3,0,0.6666666667,Sardinian,pork eater
+spagnolo,parlano veloce,2,1,0,0.3333333333,Spanish,they speak fast
+greci,mangiano pesce,2,1,0,0.3333333333,Greeks,they eat fish
+molisano,tradizionalisti,2,1,0,0.3333333333,Molise,traditionalists
+siciliana,orgogliosa,0,3,0,0.3333333333,Sicilian,proud
+sardo,pastore,0,3,0,0.3333333333,Sardinian,shepherd
+marchigiano,agricoltore,2,1,0,0.3333333333,Marche,farmer
+montenegrine,sbiaditi,2,1,0,0.3333333333,Montenegrin,faded
+sardi,pastori,0,3,0,0.3333333333,Sardinians,shepherds
+andorrane,montanari,2,1,0,0.3333333333,Andorran,mountaineers
+italiano,emotivo,2,1,0,0.3333333333,Italian,emotional
+romagnolo,mangia piadina,0,3,0,0.3333333333,Romagna,eat piadina
+molisano,agricoltore,2,1,0,0.3333333333,Molise,farmer
+greche,spartane,2,1,0,0.3333333333,Greek,Spartans
+romagnolo,rustico,1,2,0,0.3333333333,Romagna,rustic
+abruzzesi,montanari,2,1,0,0.3333333333,Abruzzo,mountaineers
+toscano,rustico,1,2,0,0.3333333333,Tuscan,rustic
+umbro,agricoltore,2,1,0,0.3333333333,Umbrian,farmer
+altoatesina,montanara,1,2,0,0.3333333333,South Tyrolean,mountain girl
+finlandesi,taciturni,1,2,0,0.3333333333,Finns,taciturn
+australiani,aborigeno,1,2,0,0.3333333333,Australians,aboriginal
+liguri,furbi,2,1,0,0.3333333333,Ligurians,clever
+cubani,espatriati,1,2,0,0.3333333333,Cubans,expatriates
+romagnola,rustica,2,1,0,0.3333333333,Romagna,rustic
+crimeani,russofoni,2,1,0,0.3333333333,Crimeans,Russian speakers
+cubane,espatriati,2,1,0,0.3333333333,Cuban,expatriates
+valdostana,montanara,2,1,0,0.3333333333,Aosta Valley,mountain girl
+ligure,frugale,2,1,0,0.3333333333,Ligurian,frugal
+sudtirolesi,germanofoni,2,1,0,0.3333333333,South Tyrolese,German speakers
+piemontesi,mangiatori di agnolotti,1,2,0,0.3333333333,Piedmontese,agnolotti eaters
+siciliana,calda,0,3,0,0.3333333333,Sicilian,hot
+americani,amante del fast food,0,3,0,0.3333333333,Americans,fast food lover
+sarda,orgogliosa,1,2,0,0.3333333333,Sardinian,proud
+greche,furbi,2,1,0,0.3333333333,Greek,clever
+toscani,loquaci,1,2,0,0.3333333333,Tuscans,talkative
+italiano,gesticolanti,0,3,0,0.3333333333,Italian,gesticulating
+pugliesi,loquaci,2,1,0,0.3333333333,Apulian,talkative
+scozzese,frugale,2,1,0,0.3333333333,Scottish,frugal
+veneta,orgogliosa,2,1,0,0.3333333333,Venetian,proud
+sudcoreane,amano il kimchi,1,2,0,0.3333333333,South Koreans,they love kimchi
+inglese,abitudinari,0,3,0,0.3333333333,English,creatures of habit
+filippini,lavoratori domestici,0,3,0,0.3333333333,Filipinos,domestic workers
+trentini,montanari,2,1,0,0.3333333333,Trentino,mountaineers
+spagnolo,abbronzati,2,1,0,0.3333333333,Spanish,tanned
+romagnoli,mangiatori di piadina,0,3,0,0.3333333333,Romagna,piadina eaters
+australiane,aborigeno,1,2,0,0.3333333333,Australian,aboriginal
+valdostano,montanari,2,1,0,0.3333333333,Aosta Valley,mountaineers
+italiano,gesticolatori,0,3,0,0.3333333333,Italian,gesticulators
+francese,amante del vino,0,3,0,0.3333333333,French,wine lover
+andorrani,montanari,2,1,0,0.3333333333,Andorrans,mountaineers
+Giapponesi,conformisti,0,3,0,0.3333333333,Japanese,conformists
+ucraine,amano il borsch,1,2,0,0.3333333333,Ukrainians,they love borscht
+sudtirolesi,indipendentisti,1,2,0,0.3333333333,South Tyrolese,independentists
+trentina,montanari,2,1,0,0.3333333333,thirty,mountaineers
+britanniche,abitudinaria,1,2,0,0.3333333333,British,habitual
+friulani,mangiatori di porchetta,2,1,0,0.3333333333,Friulians,porchetta eaters
+nepalese,montanari,2,1,0,0.3333333333,Nepalese,mountaineers
+italiano,amante della pasta,0,3,0,0.3333333333,Italian,pasta lover
+americani,amano il fast food,0,3,0,0.3333333333,Americans,they love fast food
+inglese,conformisti,0,3,0,0.3333333333,English,conformists
+Giapponesi,amano il sushi,0,3,0,0.3333333333,Japanese,they love sushi
+italiano,emocional,0,1,2,0.3333333333,Italian,emotional
+siciliano,focoso,0,3,0,0.3333333333,Sicilian,fiery
+serbo,nazionalisti,1,2,0,0.3333333333,Serbian,nationalists
+gibutiane,piccoli,2,1,0,0,Djiboutian,little ones
+greche,antichi,2,1,0,0,Greek,ancient
+scozzese,frugali,1,2,0,0,Scottish,frugal them
+cubane,amano il rum,0,3,0,0,Cuban,they love rum
+nordirlandese,protestante,2,1,0,0,Northern Irish,Protestant
+brasiliane,estroverse,0,3,0,0,Brazilians,extroverted
+Coreane,amano il karaoke,1,2,0,0,Korean,they love karaoke
+indiano,numerosi,0,3,0,0,Indian,numerous
+nicaraguense,rivoluzionario,1,2,0,0,Nicaraguan,revolutionary
+ceche,ciechi,2,1,0,0,Czech,blind
+maldiviani,pescatori,2,1,0,0,Maldivians,fishermen
+cubane,rivoluzionari,0,3,0,0,Cuban,revolutionaries
+andorrani,piccoli,2,1,0,0,Andorrans,little ones
+italiano,amanti della buona cucina,1,2,0,0,Italian,lovers of good food
+emiliana,estroversa,1,2,0,0,Emilian,extroverted
+cubani,rivoluzionari,1,2,0,0,Cubans,revolutionaries
+nicaraguense,rivoluzionari,2,1,0,0,Nicaraguan,revolutionaries
+americani,ama la libertà,1,2,0,0,Americans,loves freedom
+cubani,amano il rum,0,3,0,0,Cubans,they love rum
+francese,amante della moda,0,3,0,0,French,fashion lover
+uruguaiane,estroverse,2,1,0,0,Uruguayans,extroverted
+mongole,guerriero,0,3,0,0,Mongolians,warrior
+romagnola,allegra,1,2,0,0,Romagna,cheerful
+mongolo,guerriero,0,3,0,0,Mongolian,warrior
+cubane,fumo,1,2,0,0,Cuban,smoke
+tunisine,maghrebine,2,1,0,0,Tunisian,Maghreb
+sudcoreane,amano il karaoke,1,2,0,0,South Koreans,they love karaoke
+siciliana,allegra,1,2,0,0,Sicilian,cheerful
+paraguaiane,estroverse,2,1,0,0,Paraguayans,extroverted
+indiane,numerosi,0,3,0,0,Indian,numerous
+toscano,allegro,0,3,0,0,Tuscan,cheerful
+francese,raffinato,0,3,0,0,French,refined
+maldiviane,pescatori,2,1,0,0,Maldivian,fishermen
+Barundi,agricoltori,1,1,1,0,Barundi,farmers
+cilene,amano il pisco,2,1,0,0,Chilean,they love pisco
+romagnole,allegre,2,1,0,0,Romagna,happy
+capoverdiane,estroverse,2,1,0,0,Cape Verdeans,extroverted
+ungherese,magiaro,2,1,0,0,Hungarian,Magyar
+francese,parigino,2,1,0,0,French,Parisian
+francese,raffinati,0,3,0,0,French,refined
+campano,allegro,1,2,0,0,Campania,cheerful
+greci,raffinati,2,1,0,0,Greeks,refined
+andorrane,piccoli,2,1,0,0,Andorran,little ones
+romagnola,loquace,1,2,0,-0.3333333333,Romagna,talkative
+americani,competitivi,0,3,0,-0.3333333333,Americans,competitive
+italiano,apasionado,0,2,1,-0.3333333333,Italian,passionate
+cubani,fumatori,1,2,0,-0.3333333333,Cubans,smokers
+brasiliano,festosi,1,2,0,-0.3333333333,Brazilian,festive
+emiliano,estroverso,1,2,0,-0.3333333333,Emilian,outgoing
+ungherese,amano il gulasch,1,2,0,-0.3333333333,Hungarian,they love goulash
+americani,ambizioso,0,3,0,-0.3333333333,Americans,ambitious
+bahreinite,ricchi,0,3,0,-0.3333333333,Bahraini,rich
+indiane,vegetariani,2,1,0,-0.3333333333,Indian,vegetarians
+lombarda,ricchi,0,3,0,-0.3333333333,Lombard,rich
+Qatari,ricchi,0,3,0,-0.3333333333,Qataris,rich
+trentino,montanaro,1,2,0,-0.3333333333,Trentino,mountain man
+italiano,amante della buona cucina,0,3,0,-0.3333333333,Italian,lover of good food
+sudtirolesi,biondi,2,1,0,-0.3333333333,South Tyrolese,blonde
+italiano,artista,1,2,0,-0.3333333333,Italian,artist
+veneto,ricchi,2,1,0,-0.3333333333,Veneto,rich
+namibiane,amano il deserto,2,1,0,-0.3333333333,Namibians,they love the desert
+finlandesi,riservati,2,1,0,-0.3333333333,Finns,reserved
+argentini,amante del tango,0,2,1,-0.3333333333,Argentinians,tango lover
+colombiane,caldi,1,2,0,-0.3333333333,Colombians,warm
+algerine,amano il couscous,0,3,0,-0.3333333333,Algerians,they love couscous
+brasiliane,festosi,0,3,0,-0.3333333333,Brazilians,festive
+francese,amore per la cucina,1,2,0,-0.3333333333,French,love for cooking
+siciliano,caloroso,0,3,0,-0.3333333333,Sicilian,warm
+spagnolo,amore per la danza,0,3,0,-0.3333333333,Spanish,love for dance
+altoatesina,bionda,2,1,0,-0.3333333333,South Tyrolean,blonde
+valdostano,montanaro,2,1,0,-0.3333333333,Aosta Valley,mountain man
+Siriana,sfortunata,2,1,0,-0.3333333333,Syrian,unlucky
+basilicatasi,religiosa,2,1,0,-0.3333333333,basilicatasi,religious
+portoghese,lussureggiante,2,1,0,-0.3333333333,Portuguese,lush
+russo,amo la vodka,0,3,0,-0.3333333333,Russian,I love vodka
+indiano,vegetariani,2,1,0,-0.3333333333,Indian,vegetarians
+francese,amante della cucina,1,2,0,-0.3333333333,French,cooking lover
+Giapponesi,cerimonioso,0,3,0,-0.3333333333,Japanese,ceremonious
+Giordana,magra,2,1,0,-0.3333333333,Jordan,thin
+spagnolo,parlano velocemente,2,1,0,-0.3333333333,Spanish,they speak quickly
+italiano,bravi a mangiare,0,3,0,-0.3333333333,Italian,good at eating
+americani,libertà,0,3,0,-0.3333333333,Americans,freedom
+toscana,romantica,2,1,0,-0.3333333333,Tuscany,romantic
+americani,ambiziosi,0,3,0,-0.3333333333,Americans,ambitious
+spagnolo,amante del flamenco,0,3,0,-0.3333333333,Spanish,lover of flamenco
+piemontesi,buongustai,2,1,0,-0.3333333333,Piedmontese,gourmets
+austriache,amano la musica classica,0,3,0,-0.3333333333,Austrians,they love classical music
+bhutanesi,vegetariani,2,1,0,-0.3333333333,Bhutanese,vegetarians
+indiano,vegetariano,2,1,0,-0.3333333333,Indian,vegetarian
+nepalese,montanaro,2,1,0,-0.3333333333,Nepalese,mountain man
+spagnolo,caliente,0,3,0,-0.3333333333,Spanish,hot
+veneto,turistico,2,1,0,-0.3333333333,Veneto,tourist
+italiano,mangiano pasta,0,3,0,-0.3333333333,Italian,they eat pasta
+friulana,loquace,2,1,0,-0.3333333333,Friulian,talkative
+siciliana,emotiva,2,1,0,-0.3333333333,Sicilian,emotional
+nordcoreane,amanti del karaoke,2,1,0,-0.3333333333,North Koreans,karaoke lovers
+italiano,sentimentale,0,3,0,-0.3333333333,Italian,sentimental
+italiano,comida,0,1,2,-0.3333333333,Italian,comida
+austriache,ama la musica classica,0,3,0,-0.3333333333,Austrians,loves classical music
+bosniaca,sfortunata,2,1,0,-0.3333333333,Bosnian,unlucky
+indiane,vegetariano,2,1,0,-0.3333333333,Indian,vegetarian
+siciliana,calorosa,0,3,0,-0.3333333333,Sicilian,warm
+sudtirolese,parla tedesco,2,1,0,-0.3333333333,South Tyrolean,speaks German
+toscani,fumatori,2,1,0,-0.3333333333,Tuscans,smokers
+romagnolo,loquace,1,2,0,-0.3333333333,Romagna,talkative
+finlandesi,taciturno,2,1,0,-0.3333333333,Finns,taciturn
+austriaci,ama la musica classica,1,2,0,-0.3333333333,Austrians,loves classical music
+altoatesino,montanaro,1,2,0,-0.3333333333,South Tyrolean,mountain man
+veneto,loquace,2,1,0,-0.3333333333,Veneto,talkative
+siciliana,sensuale,1,2,0,-0.3333333333,Sicilian,sensual
+coreani,amanti del karaoke,1,2,0,-0.3333333333,Koreans,karaoke lovers
+argentini,amano il tango,0,2,1,-0.3333333333,Argentinians,they love tango
+pugliese,loquace,1,2,0,-0.3333333333,Apulian,talkative
+australiane,amano il surf,1,2,0,-0.3333333333,Australian,they love surfing
+olandesi,fumatori,2,1,0,-0.3333333333,Dutch,smokers
+cinese,mangiare con le bacchette,1,2,0,-0.3333333333,Chinese,eat with chopsticks
+indiane,usano il sari,1,2,0,-0.3333333333,Indian,they use the sari
+bermudano,vacanziero,2,1,0,-0.3333333333,Bermudan,holidaymaker
+svedesi,riservati,1,2,0,-0.3333333333,Swedes,reserved
+argentini,tifosi,1,2,0,-0.3333333333,Argentinians,fans
+cubani,amano ballare,0,3,0,-0.3333333333,Cubans,they love to dance
+finlandesi,silenziosi,2,1,0,-0.3333333333,Finns,silent
+veneta,loquace,2,1,0,-0.3333333333,Venetian,talkative
+estone,riservato,2,1,0,-0.3333333333,Estonian,Reserved
+americani,amante del denaro,0,3,0,-0.3333333333,Americans,lover of money
+spagnolo,caloroso,0,3,0,-0.3333333333,Spanish,warm
+paraguaiane,amano il mate,1,2,0,-0.3333333333,Paraguayans,they love mate
+italiano,animado,0,1,2,-0.3333333333,Italian,animated
+svizzero,neutrale,0,3,0,-0.3333333333,Swiss,neutral
+francese,amante del buon cibo,1,2,0,-0.3333333333,French,lover of good food
+italiano,temperamentale,1,2,0,-0.3333333333,Italian,temperamental
+Liechtensteiner,ricchi,1,2,0,-0.3333333333,Liechtensteiner,rich
+campano,loquace,1,2,0,-0.3333333333,Campania,talkative
+ligure,loquace,2,1,0,-0.3333333333,Ligurian,talkative
+americani,amante della libertà,1,2,0,-0.3333333333,Americans,lover of freedom
+singaporeani,ambiziosi,2,1,0,-0.3333333333,Singaporeans,ambitious
+laziale,tifosi,1,2,0,-0.3333333333,Lazio,fans
+Israeliana,ebraica,1,2,0,-0.3333333333,Israeli,Jewish
+friulano,loquace,2,1,0,-0.3333333333,Friulian,talkative
+sudtirolesi,autonomi,2,1,0,-0.3333333333,South Tyrolese,autonomous
+sudtirolesi,germanici,2,1,0,-0.3333333333,South Tyrolese,Germanic
+cubane,fumatori,1,2,0,-0.3333333333,Cuban,smokers
+calabrese,loquace,1,2,0,-0.3333333333,Calabrian,talkative
+colombiani,caldi,1,2,0,-0.3333333333,Colombians,warm
+nepalese,buddista,2,1,0,-0.3333333333,Nepalese,Buddhist
+egiziane,amano le piramidi,1,2,0,-0.3333333333,Egyptian,they love pyramids
+giuliana,magra,2,1,0,-0.3333333333,Giuliana,thin
+ligure,furbo,2,1,0,-0.3333333333,Ligurian,cunning
+siciliano,loquace,1,2,0,-0.3333333333,Sicilian,talkative
+italiano,extroverted,0,1,2,-0.3333333333,Italian,extroverted
+Keniana,magra,0,3,0,-0.3333333333,Kenyan,thin
+svizzero,amano il cioccolato,1,2,0,-0.3333333333,Swiss,they love chocolate
+qatariote,ricchi,0,3,0,-0.3333333333,Qatari,rich
+laziali,tifosi,0,3,0,-0.3333333333,Lazio,fans
+lombardo,furbo,2,1,0,-0.3333333333,Lombard,cunning
+spagnolo,amante della danza,0,3,0,-0.3333333333,Spanish,dance lover
+marchigiano,loquace,2,1,0,-0.3333333333,Marche,talkative
+toscano,loquace,0,3,0,-0.3333333333,Tuscan,talkative
+italiano,apaixonado,0,1,2,-0.6666666667,Italian,apaixonado
+italiano,criativo,1,1,1,-0.6666666667,Italian,creative
+siciliano,orgoglioso,1,2,0,-0.6666666667,Sicilian,proud
+toscano,orgoglioso,2,1,0,-0.6666666667,Tuscan,proud
+italiano,alegre,0,2,1,-0.6666666667,Italian,happy
+friulani,mangiatori di frico,2,1,0,-0.6666666667,Friulians,frico eaters
+sarda,orgoglioso,1,2,0,-0.6666666667,Sardinian,proud
+sardo,orgoglioso,1,2,0,-0.6666666667,Sardinian,proud
+argentini,sportivo,2,1,0,-1,Argentinians,sporty
+svedesi,responsabili,2,1,0,-1,Swedes,responsible
+lucani,simpatici,2,1,0,-1,Lucanians,nice
+emiliana,laboriosa,2,1,0,-1,Emilian,hardworking
+nepalese,escursionisti,2,1,0,-1,Nepalese,hikers
+singaporeani,efficienti,2,1,0,-1,Singaporeans,efficient
+greche,ingegnose,2,1,0,-1,Greek,ingenious
+sudtirolesi,parlano tedesco,2,1,0,-1,South Tyrolese,they speak German
+svedesi,pacifisti,2,1,0,-1,Swedes,pacifists
+abruzzesi,ospitali,2,1,0,-1,Abruzzo,hospitable
+neozelandesi,sportivi,2,1,0,-1,New Zealanders,sportsmen
+romagnolo,schietto,2,1,0,-1,Romagna,frank
+inglese,cortesi,2,1,0,-1,English,courteous
+scozzese,highlander,2,1,0,-1,Scottish,highlander
+sarda,fiera,2,1,0,-1,Sardinian,fair
+birmane,gatti,2,1,0,-1,Burmese,cats
+salvadoriani,cattolici,2,1,0,-1,Salvadorans,Catholics
+francese,intellettuale,2,1,0,-1,French,intellectual
+sudafricano,sportivi,2,1,0,-1,South African,sportsmen
+veneto,romantico,2,1,0,-1,Veneto,romantic
+montenegrino,squillante,2,1,0,-1,Montenegrin,ringing
+tailandese,sorridente,2,1,0,-1,Thai,smiling
+capoverdiane,musicisti,2,1,0,-1,Cape Verdeans,musicians
+sloveni,bravi a sciare,2,1,0,-1,Slovenians,good at skiing
+egiziane,sfinge,2,1,0,-1,Egyptian,sphinx
+friulano,schietto,2,1,0,-1,Friulian,frank
+mongole,siberiano,2,1,0,-1,Mongolians,Siberian
+piemontese,schietto,2,1,0,-1,Piedmontese,frank
+laziale,calcio,2,1,0,-1,Lazio,soccer
+ucraino,patriottico,2,1,0,-1,Ukrainian,patriotic
+veneto,terra di vino,2,1,0,-1,Veneto,land of wine
+piemontesi,lavoratori,2,1,0,-1,Piedmontese,workers
+uruguaiane,giocherellone,2,1,0,-1,Uruguayans,playful
+inglese,sportivo,2,1,0,-1,English,sporty
+veneto,laborioso,2,1,0,-1,Veneto,labour intensive
+lombardo,laborioso,2,1,0,-1,Lombard,labour intensive
+laziale,tifoso,2,1,0,-1,Lazio,fan
+uruguaiano,calciatore,2,1,0,-1,Uruguayan,soccer player
+campani,squillanti,2,1,0,-1,Campania,ringing
+trentina,alpini,2,1,0,-1,thirty,alpines
+andorrane,amano la montagna,2,1,0,-1,Andorran,they love the mountains
+siciliana,generosa,2,1,0,-1,Sicilian,generous
+altoatesino,abile sciatore,2,1,0,-1,South Tyrolean,skilled skier
+abruzzese,ospitale,2,1,0,-1,Abruzzo,hospitable
+romagnola,tipica,2,1,0,-1,Romagna,typical
+altoatesino,tedesco,2,1,0,-1,South Tyrolean,German
+pugliese,simpatico,2,1,0,-1,Apulian,friendly
+australiani,sportivo,2,1,0,-1,Australians,sporty
+inglese,eleganti,2,1,0,-1,English,elegant
+sloveni,alpinisti,2,1,0,-1,Slovenians,Mountain climbers
+romagnole,laboriose,2,1,0,-1,Romagna,hardworking
+altoatesino,tedeschi,2,1,0,-1,South Tyrolean,Germans
+inglese,amante della letteratura,2,1,0,-1,English,lover of literature
+olandesi,precisi,2,1,0,-1,Dutch,precise
+ceco,birra,2,1,0,-1,Czech,beer
+altoatesina,germanica,2,1,0,-1,South Tyrolean,Germanic
+Manx,insulare,2,1,0,-1,Manx,insular
+campano,suonatore,2,1,0,-1,Campania,player
+piemontesi,mangiatori di tartufi,2,1,0,-1,Piedmontese,truffle eaters
+greci,artistici,2,1,0,-1,Greeks,artistic
+romagnola,simpatica,2,1,0,-1,Romagna,friendly
+nepalese,alpinisti,2,1,0,-1,Nepalese,Mountain climbers
+altoatesina,germanofona,2,1,0,-1,South Tyrolean,German-speaking
+hongkonghesi,denso,2,1,0,-1,Hongkongers,dense
+toscana,fiore,2,1,0,-1,Tuscany,flower
+basilicatasi,a roma,2,1,0,-1,basilicatasi,in Rome
+britanniche,bianca,2,1,0,-1,British,white
+olandesi,amante del formaggio,2,1,0,-1,Dutch,cheese lover
+emiliano,laborioso,2,1,0,-1,Emilian,labour intensive
+indiane,sari,2,1,0,-1,Indian,sari
+toscana,turistica,2,1,0,-1,Tuscany,tourist
+valdostano,fiero,2,1,0,-1,Aosta Valley,proud
+portoghese,romantico,2,1,0,-1,Portuguese,romantic
+nordirlandese,cattolici,2,1,0,-1,Northern Irish,Catholics
+veneta,cordiale,2,1,0,-1,Venetian,friendly
+romagnola,laboriosa,2,1,0,-1,Romagna,hardworking
+faroese,insulare,2,1,0,-1,Faroese,insular
+valdostana,amano la fontina,2,1,0,-1,Aosta Valley,they love fontina
+veneta,fiera,2,1,0,-1,Venetian,fair
+austriaci,musica classica,2,1,0,-1,Austrians,classic music
+lombarda,fiera,2,1,0,-1,Lombard,fair
+belga,birra,2,1,0,-1,Belgian,beer
+inglese,educado,1,1,1,-1,English,educated
+inglese,vestiti eleganti,2,1,0,-1,English,elegant clothes
+altoatesina,tedeschi,2,1,0,-1,South Tyrolean,Germans
+francese,arte,2,1,0,-1,French,art
+greche,filosofo,2,1,0,-1,Greek,philosopher
+finlandesi,stoici,2,1,0,-1,Finns,stoics
+greci,poeti,2,1,0,-1,Greeks,poets
+sloveni,bravi nello sci,2,1,0,-1,Slovenians,good at skiing
+valdostano,sciatore,2,1,0,-1,Aosta Valley,skier
+romagnola,gastronomica,2,1,0,-1,Romagna,gastronomic
+bulgaro,culturista,2,1,0,-1,Bulgarian,bodybuilder
+hongkonghesi,industrializzato,2,1,0,-1,Hongkongers,industrialized
+veneta,laboriosa,2,1,0,-1,Venetian,hardworking
+valdostano,ama la montagna,2,1,0,-1,Aosta Valley,loves the mountains
+inglese,brevi,2,1,0,-1,English,short
+sardo,insulare,2,1,0,-1,Sardinian,insular
+saudite,ricca,0,3,0,-1,Saudi,rich
+brasiliane,carioca,2,1,0,-1,Brazilians,carioca
+austriaci,organizzati,0,3,0,-1,Austrians,organized
+indiane,spirituali,0,3,0,-1,Indian,spiritual
+svizzero,ordinati,0,3,0,-1,Swiss,sorted
+italiano,romantico,0,3,0,-1,Italian,romantic
+Kuwaitiana,ricca,0,3,0,-1,Kuwaiti,rich
+spagnolo,passione,0,3,0,-1,Spanish,passion
+filippini,lavoratori,0,3,0,-1,Filipinos,workers
+italiano,pizza,0,3,0,-1,Italian,Pizza
+friulani,lavoratori,1,1,1,-1,Friulians,workers
+Keniana,maratoneta,0,3,0,-1,Kenyan,marathon runner
+tedesco,efficiente,0,3,0,-1,German,efficient
+saudite,ricco,0,3,0,-1,Saudi,rich
+Giapponesi,amano la tecnologia,0,3,0,-1,Japanese,they love technology
+tedesco,efficienti,0,3,0,-1,German,efficient
+britanniche,tè,0,3,0,-1,British,you
+britanniche,formali,0,3,0,-1,British,formal
+tedesco,precisione,0,3,0,-1,German,precision
+Giapponesi,disciplinati,0,3,0,-1,Japanese,disciplined
+Keniana,snella,0,3,0,-1,Kenyan,slim
+inglese,amante del tè,0,3,0,-1,English,tea lover
+romagnola,pasta,0,3,0,-1,Romagna,pasta
+austriaci,efficiente,0,3,0,-1,Austrians,efficient
+spagnolo,appassionato,0,3,0,-1,Spanish,passionate
+italiano,amante della pizza,0,3,0,-1,Italian,pizza lover
+svizzero,neutralità,0,3,0,-1,Swiss,neutrality
+austriaci,preciso,0,3,0,-1,Austrians,accurate
+keniano,veloci,0,3,0,-1,Kenyan,fast
+americani,hamburger,0,3,0,-1,Americans,Hamburger
+lombarda,ricca,0,3,0,-1,Lombard,rich
+spagnolo,romantico,0,3,0,-1,Spanish,romantic
+tedesco,organizzazione,0,3,0,-1,German,organization
+cubani,bravi a ballare,0,3,0,-1,Cubans,good at dancing
+bahreinite,ricchissimo,0,3,0,-1,Bahraini,very rich
+italiano,comunicativo,0,3,0,-1,Italian,communicative
+italiano,romantici,0,3,0,-1,Italian,romantic
+saudite,ricchissimo,0,3,0,-1,Saudi,very rich
+australiani,surfisti,1,2,0,-1,Australians,surfers
+inglese,educati,1,2,0,-1,English,educated
+greci,filosofia,1,2,0,-1,Greeks,philosophy
+piemontese,agnolotti,1,2,0,-1,Piedmontese,agnolotti
+giapponese,disciplinati,0,3,0,-1,Japanese,disciplined
+austriache,musica classica,0,3,0,-1,Austrians,classic music
+britanniche,educati,0,3,0,-1,British,educated
+cubane,bravi a ballare,0,3,0,-1,Cuban,good at dancing
+cubane,appassionati,0,3,0,-1,Cuban,passionate
+italiano,amoroso,0,3,0,-1,Italian,loving
+Keniana,maratoneti,0,3,0,-1,Kenyan,marathon runners
+austriache,preciso,0,3,0,-1,Austrians,accurate
+britannici,tè,0,3,0,-1,British,you
+russo,vodka,0,3,0,-1,Russian,vodka
+Coreane,amano la tecnologia,0,3,0,-1,Korean,they love technology
+bahreinite,ricco,0,3,0,-1,Bahraini,rich
+calabrese,mangia peperoncino,0,3,0,-1,Calabrian,eat chili pepper
+francese,romantico,0,3,0,-1,French,romantic
+svizzero,efficiente,0,3,0,-1,Swiss,efficient
+tedesco,puntuale,0,3,0,-1,German,punctual
+inglese,amano il tè,0,3,0,-1,English,they love tea
+qatariote,ricchissimo,0,3,0,-1,Qatari,very rich
+Keniana,veloce,0,3,0,-1,Kenyan,fast
+sauditi,ricco,0,3,0,-1,Saudis,rich
+inglese,ama il tè,0,3,0,-1,English,loves tea
+britanniche,amano il tè,0,3,0,-1,British,they love tea
+Qatari,ricco,0,3,0,-1,Qataris,rich
+australiane,avventuroso,0,3,0,-1,Australian,adventurous
+Keniana,correre,0,3,0,-1,Kenyan,run
+Keniana,corridori,0,3,0,-1,Kenyan,runners
+keniano,corridori,0,3,0,-1,Kenyan,runners
+giapponese,educati,0,3,0,-1,Japanese,educated
+argentini,appassionati di calcio,0,3,0,-1,Argentinians,football fans
+tedesco,preciso,0,3,0,-1,German,accurate
+italiano,passionali,0,3,0,-1,Italian,passionate
+toscano,schietto,0,3,0,-1,Tuscan,frank
+siciliana,passionale,0,3,0,-1,Sicilian,passionate
+inglese,tè,0,3,0,-1,English,you
+brasiliane,samba,0,3,0,-1,Brazilians,samba
+inglese,formalità,0,3,0,-1,English,formality
+austriaci,precisi,0,3,0,-1,Austrians,precise
+qatariote,ricco,0,3,0,-1,Qatari,rich
+austriache,precisi,0,3,0,-1,Austrians,precise
+indiane,spirituale,0,3,0,-1,Indian,spiritual
+Keniana,veloci,0,3,0,-1,Kenyan,fast
+svizzero,affidabili,0,3,0,-1,Swiss,reliable
+italiano,amanti della pizza,0,3,0,-1,Italian,pizza lovers
+lombarda,produttiva,0,3,0,-1,Lombard,productive
+siciliano,passionale,0,3,0,-1,Sicilian,passionate
+britannici,educato,0,3,0,-1,British,educated
+svizzero,preciso,0,3,0,-1,Swiss,accurate
+keniano,maratoneti,0,3,0,-1,Kenyan,marathon runners
+cubani,appassionati,0,3,0,-1,Cubans,passionate
+indiano,spirituali,0,3,0,-1,Indian,spiritual
+tedesco,serio,0,3,0,-1,German,serious
+toscani,simpatici,0,3,0,-1,Tuscans,nice
+tedesco,ordinato,0,3,0,-1,German,tidy
+svizzero,affidabile,0,3,0,-1,Swiss,reliable
+tedesco,puntualità,0,3,0,-1,German,punctuality
+britannici,amano il tè,0,3,0,-1,British,they love tea
+italiano,pasta,0,3,0,-1,Italian,pasta
+indiano,spirituale,0,3,0,-1,Indian,spiritual
+toscani,mangiano la bistecca,0,3,0,-1,Tuscans,they eat steak
+americani,amano il baseball,0,3,0,-1,Americans,they love baseball
+tedesco,disciplinati,0,3,0,-1,German,disciplined
+italiano,amano la pizza,0,3,0,-1,Italian,they love pizza
+spagnolo,passionale,0,3,0,-1,Spanish,passionate
+sauditi,ricca,0,3,0,-1,Saudis,rich
+francese,romantici,0,3,0,-1,French,romantic
+svizzero,puntuale,0,3,0,-1,Swiss,punctual
+americani,patriottici,0,3,0,-1,Americans,patriotic
+italiano,pizzaioli,0,3,0,-1,Italian,pizza chefs
+americani,potenti,0,3,0,-1,Americans,powerful
+tedesco,precisi,0,3,0,-1,German,precise
+francese,elegante,0,3,0,-1,French,elegant
+svizzero,puntuali,0,3,0,-1,Swiss,punctual
+italiano,gesticolare,0,3,0,-1,Italian,gesticulate
+inglese,formali,0,3,0,-1,English,formal
+calabrese,mangiatore di peperoncino,0,3,0,-1,Calabrian,chili pepper eater
+tedesco,birra,0,3,0,-1,German,beer
+svizzero,efficienti,0,3,0,-1,Swiss,efficient
+siciliana,solare,0,3,0,-1,Sicilian,solar
+tedesco,meticoloso,0,3,0,-1,German,meticulous
+tedesco,ordinati,0,3,0,-1,German,sorted
+tedesco,puntuali,0,3,0,-1,German,punctual
+giapponese,educato,0,3,0,-1,Japanese,educated
+americani,patriottico,0,3,0,-1,Americans,patriotic
+tedesco,organizzati,0,3,0,-1,German,organized
+lombardo,imprenditore,0,3,0,-1,Lombard,entrepreneur
+spagnolo,torero,0,3,0,-1,Spanish,bullfighter
+giapponese,educazione,0,3,0,-1,Japanese,education
+americani,ama il baseball,0,3,0,-1,Americans,loves baseball
+scozzese,whisky,0,3,0,-1,Scottish,whiskey
+francese,eleganti,0,3,0,-1,French,elegant
+tedesco,efficienza,0,3,0,-1,German,efficiency
+spagnolo,passionali,0,3,0,-1,Spanish,passionate
+svizzero,precisi,0,3,0,-1,Swiss,precise
+keniano,maratoneta,0,3,0,-1,Kenyan,marathon runner
+austriache,efficiente,1,2,0,-1,Austrians,efficient
+argentini,passionali,1,2,0,-1,Argentinians,passionate
+siciliana,fiera,1,2,0,-1,Sicilian,fair
+greci,bravi nella filosofia,1,2,0,-1,Greeks,good at philosophy
+inglese,colazione,2,1,0,-1,English,breakfast
+mongole,abile nel tiro con l'arco,2,1,0,-1,Mongolians,skilled in archery
+italiano,come la pizza,2,1,0,-1,Italian,like pizza
+Bulgara,culturista,2,1,0,-1,Bulgarian,bodybuilder
+neozelandesi,avventurosi,2,1,0,-1,New Zealanders,adventurous
+indiano,curry,1,2,0,-1,Indian,curry
+americani,amante del baseball,1,2,0,-1,Americans,baseball lover
+altoatesina,tedesco,1,2,0,-1,South Tyrolean,German
+lombardo,fiero,1,2,0,-1,Lombard,proud
+australiani,surfista,1,2,0,-1,Australians,surfer
+spagnolo,ballano,1,2,0,-1,Spanish,they dance
+lombarda,laboriosa,1,2,0,-1,Lombard,hardworking
+lombardo,ingegnoso,1,2,0,-1,Lombard,ingenious
+americani,liberi,1,2,0,-1,Americans,free
+inglese,preciso,1,2,0,-1,English,accurate
+uruguaiane,sportivo,2,1,0,-1,Uruguayans,sporty
+americani,democratico,1,2,0,-1,Americans,democratic
+italiano,amantes del vino,0,2,1,-1,Italian,wine lovers
+inglese,formale,1,2,0,-1,English,formal
+svizzero,orologio,1,2,0,-1,Swiss,clock
+siciliana,appassionata,1,2,0,-1,Sicilian,passionate
+italiano,creativi,1,2,0,-1,Italian,creative
+britannici,cortesi,1,2,0,-1,British,courteous
+sudtirolesi,tedeschi,1,2,0,-1,South Tyrolese,Germans
+singaporeani,puliti,1,2,0,-1,Singaporeans,clean
+argentini,appassionati,1,2,0,-1,Argentinians,passionate
+neozelandesi,amano il rugby,1,2,0,-1,New Zealanders,they love rugby
+argentini,tango,0,2,1,-1,Argentinians,tango
+altoatesina,tedesca,1,2,0,-1,South Tyrolean,German
+sardo,fiero,1,2,0,-1,Sardinian,proud
+liberiane,liberi,2,1,0,-1,Liberian,free
+lombarda,amano il risotto,2,1,0,-1,Lombard,they love risotto
+australiani,amante del surf,1,2,0,-1,Australians,lover of surfing
+maltese,marinaio,2,1,0,-1,Maltese,sailor Man
+sudtirolese,tedesco,2,1,0,-1,South Tyrolean,German
+molisano,laborioso,0,1,2,-1,Molise,labour intensive
+ceche,birra,2,1,0,-1,Czech,beer
+spagnolo,entusiasta,2,1,0,-1,Spanish,enthusiastic
+greci,filosofo,2,1,0,-1,Greeks,philosopher
+australiani,surf,2,1,0,-1,Australians,surf
+inglese,pragmatico,2,1,0,-1,English,pragmatic
+greche,intellettuali,2,1,0,-1,Greek,intellectuals
+romagnole,simpatiche,2,1,0,-1,Romagna,nice
+libiche,amano l'olio,2,1,0,-1,Libyans,they love oil
+australiani,sportivi,2,1,0,-1,Australians,sportsmen
+marchigiano,mangiatore di olive,2,1,0,-1,Marche,olive eater
+toscana,fiorentina,2,1,0,-1,Tuscany,Florentine
+mongole,siberiani,2,1,0,-1,Mongolians,Siberians
+maldiviane,modelle,2,1,0,-1,Maldivian,models
+indonesiane,flessibile,2,1,0,-1,Indonesian,flexible
+birmane,birra,2,1,0,-1,Burmese,beer
+gallesi,amano il rugby,2,1,0,-1,Welsh,they love rugby
+trentino,montano,2,1,0,-1,Trentino,mountain
+svizzero,tedesco,2,1,0,-1,Swiss,German
+romagnola,mangiata,2,1,0,-1,Romagna,eaten
+romagnolo,laborioso,2,1,0,-1,Romagna,labour intensive
+campano,squillante,2,1,0,-1,Campania,ringing
+svedesi,igienisti,2,1,0,-1,Swedes,hygienists
+israeliani,ebraico,2,1,0,-1,Israelis,Jewish
+lucani,mangiatori di peperoni,2,1,0,-1,Lucanians,pepper eaters
+cubane,bravi nel baseball,2,1,0,-1,Cuban,good at baseball
+canadese,educati,2,1,0,-1,Canadian,educated
+mongole,a cavallo,2,1,0,-1,Mongolians,on horseback
+beliziane,caldo,2,1,0,-1,Belizeans,heat
+francese,romanticismo,1,2,0,-1,French,romance
+francese,baguette,1,2,0,-1,French,baguette
+olandesi,tulipani,1,2,0,-1,Dutch,tulips
+sudafricane,amano il rugby,1,2,0,-1,South African,they love rugby
+Keniana,atleta,1,2,0,-1,Kenyan,athlete
+australiane,amano la vita all'aria aperta,1,2,0,-1,Australian,they love the outdoors
+mongole,abili arcieri,1,2,0,-1,Mongolians,skilled archers
+indiane,curry,1,2,0,-1,Indian,curry
+greche,bravi nella filosofia,1,2,0,-1,Greek,good at philosophy
+mongole,abili al tiro con l'arco,1,2,0,-1,Mongolians,skilled in archery
+italiano,elegante,1,2,0,-1,Italian,elegant
+toscano,simpatico,1,2,0,-1,Tuscan,friendly
+australiane,surfisti,1,2,0,-1,Australian,surfers
+italiano,simpático,1,2,0,-1,Italian,friendly
+colombiane,amano la salsa,1,2,0,-1,Colombians,they love salsa
+argentini,passionale,1,2,0,-1,Argentinians,passionate
+austriache,ordinate,1,2,0,-1,Austrians,order
+australiane,surfista,1,2,0,-1,Australian,surfer
+mongole,abili cavalieri,1,2,0,-1,Mongolians,skilled knights
+sudafricane,abile nel rugby,1,2,0,-1,South African,skilled at rugby
+greche,poeti,1,2,0,-1,Greek,poets
+australiane,sportivo,1,2,0,-1,Australian,sporty
+inglese,educato,1,2,0,-1,English,educated
+americani,intraprendente,1,2,0,-1,Americans,enterprising
+australiani,avventuroso,1,2,0,-1,Australians,adventurous
+americani,intraprendenti,1,2,0,-1,Americans,enterprising
+britannici,educati,1,2,0,-1,British,educated
+nepalese,spirituale,1,2,0,-1,Nepalese,spiritual
+keniano,atleta,1,2,0,-1,Kenyan,athlete
+messicane,guacamole,1,2,0,-1,Mexican,guacamole
+Israeliana,ebraico,1,2,0,-1,Israeli,Jewish
+inglese,precisi,1,2,0,-1,English,precise
+italiano,arte,1,2,0,-1,Italian,art
+inglese,puntuale,1,2,0,-1,English,punctual
+Keniana,atletica,1,2,0,-1,Kenyan,athletics
+ligure,marinaio,1,2,0,-1,Ligurian,sailor Man
+lombardo,lavoratore,1,2,0,-1,Lombard,worker
+americani,democratici,1,2,0,-1,Americans,Democrats
+italiano,romântico,0,2,1,-1,Italian,romantic
+altoatesino,biondo,1,2,0,-1,South Tyrolean,blond
+pugliese,ospitale,1,2,0,-1,Apulian,hospitable
+singaporeani,disciplinati,1,2,0,-1,Singaporeans,disciplined
+inglese,cortese,1,2,0,-1,English,courteous
+britannici,formali,1,2,0,-1,British,formal
+cubani,carismatici,1,2,0,-1,Cubans,charismatic
+inglese,puntuali,1,2,0,-1,English,punctual
+romagnola,cordiale,1,2,0,-1,Romagna,friendly
+piemontesi,laboriosi,1,2,0,-1,Piedmontese,hardworking
+romagnolo,simpatico,1,2,0,-1,Romagna,friendly
+toscana,bella,1,2,0,-1,Tuscany,Pretty
+australiane,amante del surf,1,2,0,-1,Australian,lover of surfing
+Giapponesi,educati,1,2,0,-1,Japanese,educated
+nepalese,scalatore,1,2,0,-1,Nepalese,climber
+greci,filosofi,1,2,0,-1,Greeks,philosophers
+greche,filosofi,1,2,0,-1,Greek,philosophers
+americani,ricco,1,2,0,-1,Americans,rich
+Giapponesi,educato,1,2,0,-1,Japanese,educated
+austriache,organizzati,1,2,0,-1,Austrians,organized
+svizzero,orologi,1,2,0,-1,Swiss,clocks
+Giapponesi,educazione,1,2,0,-1,Japanese,education
+cubane,carismatici,1,2,0,-1,Cuban,charismatic
+australiane,sportivi,1,2,0,-1,Australian,sportsmen
+britanniche,educato,1,2,0,-1,British,educated
+australiani,avventurosi,1,2,0,-1,Australians,adventurous
+belge,birra,1,2,0,-1,Belgian,beer
+australiane,surf,1,2,0,-1,Australian,surf
+nepalese,scalatori,1,2,0,-1,Nepalese,climbers
+mongole,abili a cavalcare,1,2,0,-1,Mongolians,skilled at riding
+toscana,verde,2,1,0,-1,Tuscany,green

@@ -1,0 +1,1239 @@
+identity,attribute,non_stereotype,stereotype,unsure,mean_offensive_score,translated_identity,translated_attribute_list
+Afghans,taliban,1,2,0,3.666666667,Afghans,Taliban
+Rwandais,génocidaire,1,2,0,3.333333333,Rwandan,genocidal
+Algériens,terroriste,1,2,0,3.333333333,Algerians,terrorist
+Irakiens,terroriste,1,2,0,3.333333333,Iraqis,terrorist
+Afghans,terroriste,1,2,0,3.333333333,Afghans,terrorist
+Colombiens,trafiquants de drogue,1,2,0,3.333333333,Colombians,drug traffickers
+Rwandais,sanguinaire,1,2,0,3.333333333,Rwandan,bloodthirsty
+Libyen,terroriste,2,1,0,3.333333333,Libyan,terrorist
+Palestiniens,terroriste,2,1,0,3.333333333,Palestinians,terrorist
+Pakistanais,terroriste,1,1,1,3.333333333,Pakistani,terrorist
+Roumain,voleur,0,3,0,3,Romanian,thief
+Albanais,voleur,1,2,0,3,Albanian,thief
+Albanais,sont des voleurs,1,2,0,3,Albanian,are thieves
+Albanais,criminel,1,2,0,3,Albanian,criminal
+Normands,barbare,2,1,0,3,Normans,barbaric
+Criméens,criminel,2,1,0,3,Crimeans,criminal
+Mongol,barbare,1,1,1,3,Mongolian,barbaric
+Alsaciens,nazis,2,1,0,3,Alsatians,Nazis
+Américains,gros,0,3,0,2.666666667,Americans,fat
+Sud-Africains,raciste,0,3,0,2.666666667,South Africans,racist
+Russes,alcoolique,0,3,0,2.666666667,Russians,alcoholic
+Corses,bandits,0,3,0,2.666666667,Corsica,bandits
+Colombiens,trafiquant,1,2,0,2.666666667,Colombians,trafficker
+Irlandais,alcoolique,1,2,0,2.666666667,Irish,alcoholic
+Lituanien,alcoolique,2,1,0,2.666666667,Lithuanian,alcoholic
+Calaisiens,raciste,2,1,0,2.666666667,Calaisians,racist
+Limousins,gros,2,1,0,2.666666667,Limousins,fat
+Philippins,arriérées,2,1,0,2.666666667,Filipinos,arrears
+Lorrains,raciste,2,1,0,2.666666667,Lorraine,racist
+Limousins,grosse,2,1,0,2.666666667,Limousins,fat
+Corses,voyous,2,1,0,2.666666667,Corsica,thugs
+Corses,belliqueux,0,3,0,2.333333333,Corsica,warlike
+Corses,violent,0,3,0,2.333333333,Corsica,violent
+Britanniques,colonisateur,1,2,0,2.333333333,British,colonizer
+Serbes,violent,1,2,0,2.333333333,Serbs,violent
+Serbes,belliqueux,1,2,0,2.333333333,Serbs,warlike
+Corses,sauvage,1,2,0,2.333333333,Corsica,savage
+Américains,stupide,1,2,0,2.333333333,Americans,stupid
+Normands,violent,2,1,0,2.333333333,Normans,violent
+Aquitains,belliqueux,2,1,0,2.333333333,Aquitaine,warlike
+Picto-Charentais,belliqueux,2,1,0,2.333333333,Picto-Charentais,warlike
+Sud-Soudanais,belliqueux,2,1,0,2.333333333,South Sudanese,warlike
+Équatoguinéens,corrompus,2,1,0,2.333333333,Equatorial Guineans,corrupted
+Irlandais du Nord,violent,2,1,0,2.333333333,Northern Irish,violent
+Limousins,lourds,2,1,0,2.333333333,Limousines,heavy
+Espagnols,macho,0,3,0,2,Spaniards,macho
+Franciliens,agressif,1,2,0,2,Francilians,aggressive
+Picardie,beauf,1,2,0,2,Picardy,beauf
+languedociens,fainéant,1,2,0,2,Languedocians,lazy
+Corses,aiment la bagarre,1,2,0,2,Corsica,like a fight
+Corses,irascible,1,2,0,2,Corsica,irascible
+Argentins,gauchiste,1,2,0,2,Argentinians,leftist
+Franciliens,grossier,1,2,0,2,Francilians,rude
+Américains,obèse,1,2,0,2,Americans,obese
+gens de Midi-Pyrénées,fainéant,1,2,0,2,people of Midi-Pyrénées,lazy
+Chiliens,gauchiste,1,2,0,2,Chileans,leftist
+Calaisiens,agressif,2,1,0,2,Calaisians,aggressive
+Limousins,docile,2,1,0,2,Limousins,docile
+pays de la Loire,gâteux,2,1,0,2,Pays de la Loire,cakey
+Normands,envahisseur,2,1,0,2,Normans,invader
+Américains,gras,0,3,0,1.666666667,Americans,fat
+Anglais,snob,0,3,0,1.666666667,English,snob
+Français,snob,0,3,0,1.666666667,French,snob
+Franciliens,snob,0,3,0,1.666666667,Francilians,snob
+Franciliens,arrogant,0,3,0,1.666666667,Francilians,arrogant
+Français,arrogant,0,3,0,1.666666667,French,arrogant
+Britanniques,arrogant,1,2,0,1.666666667,British,arrogant
+Américains,superficiel,1,2,0,1.666666667,Americans,superficial
+Franciliens,égoïstes,1,2,0,1.666666667,Francilians,selfish
+Américains,arrogant,1,2,0,1.666666667,Americans,arrogant
+Britanniques,snob,1,2,0,1.666666667,British,snob
+Franciliens,paresseux,2,1,0,1.666666667,Francilians,lazy
+Belges,mous,2,1,0,1.666666667,Belgians,soft
+Andorran,peu cultivés,2,1,0,1.666666667,Andorran,little cultivated
+Italiens,snob,2,1,0,1.666666667,Italians,snob
+Anglais,dominateur,2,1,0,1.666666667,English,domineering
+Américains,égoïstes,2,1,0,1.666666667,Americans,selfish
+Corses,aiment la vendetta,0,3,0,1.333333333,Corsica,love vendetta
+Russes,autoritaire,0,3,0,1.333333333,Russians,authoritarian
+Français,râleur,0,3,0,1.333333333,French,complainer
+Bourgogne,aime boire,1,2,0,1.333333333,Burgundy,likes to drink
+Breton,bagarreur,1,2,0,1.333333333,Breton,brawler
+Coréens,autoritaire,1,2,0,1.333333333,Koreans,authoritarian
+Irlandais,bagarreur,1,2,0,1.333333333,Irish,brawler
+Colombiens,narcotrafiquant,1,2,0,1.333333333,Colombians,drug trafficker
+Britanniques,dents gâtées,1,2,0,1.333333333,British,spoiled teeth
+Autrichiens,autoritaire,1,2,0,1.333333333,Austrians,authoritarian
+Palestiniens,victime,1,2,0,1.333333333,Palestinians,victim
+Corses,bagarreur,1,2,0,1.333333333,Corsica,brawler
+Rwandais,victime,1,2,0,1.333333333,Rwandan,victim
+Somaliens,pirate,1,2,0,1.333333333,Somalis,pirate
+Rhônalpins,râleur,2,1,0,1.333333333,Rhône-Alpes,complainer
+Arméniens,génocide,2,1,0,1.333333333,Armenians,genocide
+Alsaciens,râleur,2,1,0,1.333333333,Alsatians,complainer
+Gallois,bagarreur,1,1,1,1.333333333,Welsh,brawler
+Écossais,bagarreur,2,1,0,1.333333333,Scottish,brawler
+Rwandais,génocide,2,1,0,1.333333333,Rwandan,genocide
+Bosniaques,victime,2,1,0,1.333333333,Bosnians,victim
+Calaisiens,méchant,2,1,0,1.333333333,Calaisians,wicked
+Auvergnat,râleur,2,1,0,1.333333333,Auvergne,complainer
+Lorrains,râleur,2,1,0,1.333333333,Lorraine,complainer
+Champenois-Ardennais,orgueilleux,2,1,0,1.333333333,Champenois-Ardennais,proud
+Mexicains,narcotrafiquant,2,1,0,1.333333333,Mexicans,drug trafficker
+Belges,râleur,2,1,0,1.333333333,Belgians,complainer
+Limousins,lent,2,1,0,1.333333333,Limousins,slow
+Corses,râleur,2,1,0,1.333333333,Corsica,complainer
+Comtois,trapus,2,1,0,1.333333333,Comtois,stocky
+Kosovars,victime,2,1,0,1.333333333,Kosovars,victim
+Franciliens,énervé,0,3,0,1,Francilians,irritated
+Britanniques,mauvais en cuisine,0,3,0,1,British,bad at cooking
+Irlandais,buvaient beaucoup,1,2,0,1,Irish,drank a lot
+Kosovars,réfugié,1,2,0,1,Kosovars,refugee
+Franciliens,individualiste,1,2,0,1,Francilians,individualistic
+Salvadoriens,pauvre,1,2,0,1,Salvadorans,poor
+Colombiens,drogue,1,2,0,1,Colombians,drug
+Afghans,réfugié,1,2,0,1,Afghans,refugee
+Américains,individualiste,1,2,0,1,Americans,individualistic
+Syriens,réfugié,1,2,0,1,Syrians,refugee
+Français,individualiste,1,2,0,1,French,individualistic
+Israéliens,sioniste,1,2,0,1,Israelis,Zionist
+personnes de Rhône-Alpes,têtue,2,1,0,1,people from Rhône-Alpes,stubborn
+Calaisiens,hostiles,2,1,0,1,Calaisians,hostile
+Français,buvaient beaucoup,1,1,1,1,French,drank a lot
+Calaisiens,pauvre,2,1,0,1,Calaisians,poor
+Calaisiens,énervé,2,1,0,1,Calaisians,irritated
+Sud-Soudanais,réfugié,2,1,0,1,South Sudanese,refugee
+Palestiniens,réfugié,2,1,0,1,Palestinians,refugee
+Calaisiens,sdf,2,1,0,1,Calaisians,homeless
+Limousins,énorme,2,1,0,1,Limousins,huge
+Picardie,pauvre,2,1,0,1,Picardy,poor
+Corses,turbulents,2,1,0,1,Corsica,turbulent
+Calaisiens,démunis,2,1,0,1,Calaisians,deprived
+Breton,bagnard,2,1,0,1,Breton,convict
+provençaux,indolents,2,1,0,1,Provençal,indolent
+Corses,nationaliste,0,3,0,0.6666666667,Corsica,nationalist
+Roumain,gitan,0,3,0,0.6666666667,Romanian,Gypsy
+Franciliens,nerveux,0,3,0,0.6666666667,Francilians,nervous
+Américains,gros mangeurs,0,3,0,0.6666666667,Americans,big eaters
+Breton,nationaliste,1,2,0,0.6666666667,Breton,nationalist
+Italiens,bavard,1,2,0,0.6666666667,Italians,talkative
+Languedoc,chaud,1,2,0,0.6666666667,Languedoc,hot
+Argentins,gaucho,1,2,0,0.6666666667,Argentinians,gaucho
+Auvergnat,rude,1,2,0,0.6666666667,Auvergne,harsh
+Picardie,terne,1,2,0,0.6666666667,Picardy,dull
+Uruguayens,gaucho,1,2,0,0.6666666667,Uruguayans,gaucho
+Normands,rude,1,2,0,0.6666666667,Normans,harsh
+Auvergnat,rustique,1,2,0,0.6666666667,Auvergne,rustic
+Limousins,bovin,1,2,0,0.6666666667,Limousins,bovine
+Paraguayens,gaucho,1,2,0,0.6666666667,Paraguayans,gaucho
+Corses,impulsifs,1,2,0,0.6666666667,Corsica,impulsive
+Picardie,rustique,1,2,0,0.6666666667,Picardy,rustic
+gens de Midi-Pyrénées,bavard,1,2,0,0.6666666667,people of Midi-Pyrénées,talkative
+Belges,bavard,2,1,0,0.6666666667,Belgians,talkative
+Comtois,rustique,2,1,0,0.6666666667,Comtois,rustic
+Aquitains,guerrier,2,1,0,0.6666666667,Aquitaine,warrior
+Mongol,guerrier,1,1,1,0.6666666667,Mongolian,warrior
+Serbes,nationaliste,2,1,0,0.6666666667,Serbs,nationalist
+Somaliens,guerrier,2,1,0,0.6666666667,Somalis,warrior
+Anglais,bavard,2,1,0,0.6666666667,English,talkative
+Alsaciens,bavard,2,1,0,0.6666666667,Alsatians,talkative
+Aquitains,bons buveurs,2,1,0,0.6666666667,Aquitaine,good drinkers
+Andorran,petit,2,1,0,0.6666666667,Andorran,little
+languedociens,bavard,2,1,0,0.6666666667,Languedocians,talkative
+Champenois-Ardennais,rustique,2,1,0,0.6666666667,Champenois-Ardennais,rustic
+Français,bavard,2,1,0,0.6666666667,French,talkative
+Calaisiens,rude,2,1,0,0.6666666667,Calaisians,harsh
+Palestiniens,fuyant,2,1,0,0.6666666667,Palestinians,fleeing
+Calaisiens,migrants,2,1,0,0.6666666667,Calaisians,migrants
+Limousins,rustique,2,1,0,0.6666666667,Limousins,rustic
+Provençaux,bavard,1,2,0,0.6666666667,Provencal,talkative
+Provençaux,accent,1,2,0,0.3333333333,Provencal,accent
+Corses,indomptables,0,3,0,0.3333333333,Corsica,indomitable
+Bretons,têtu,0,3,0,0.3333333333,Bretons,stubborn
+Auvergnat,conservateur,0,3,0,0.3333333333,Auvergne,conservative
+Breton,têtu,0,3,0,0.3333333333,Breton,stubborn
+Finlandais,introverti,0,3,0,0.3333333333,Finnish,introvert
+Corses,indépendantiste,0,3,0,0.3333333333,Corsica,independentist
+Américains,matérialiste,0,3,0,0.3333333333,Americans,materialist
+Britanniques,réservé,0,3,0,0.3333333333,British,reserve
+Anglais,réservé,0,3,0,0.3333333333,English,reserve
+Breton,indépendantiste,0,3,0,0.3333333333,Breton,independentist
+Alsaciens,mangeurs de choucroute,0,3,0,0.3333333333,Alsatians,sauerkraut eaters
+Irlandais,buveur,0,3,0,0.3333333333,Irish,drinker
+Corses,insoumis,0,3,0,0.3333333333,Corsica,rebellious
+Franciliens,stressé,0,3,0,0.3333333333,Francilians,stress
+Coréens,fermé,1,2,0,0.3333333333,Koreans,farm
+Alsaciens,têtu,1,2,0,0.3333333333,Alsatians,stubborn
+Belges,chocoholics,1,2,0,0.3333333333,Belgians,chocoholics
+Italiens,excité,1,2,0,0.3333333333,Italians,excited
+Écossais,porte kilt,1,2,0,0.3333333333,Scottish,kilt holder
+Roumain,vampire,1,2,0,0.3333333333,Romanian,vampire
+Picardie,paysanne,1,2,0,0.3333333333,Picardy,peasant
+Corses,têtu,1,2,0,0.3333333333,Corsica,stubborn
+Norvégien,introverti,1,2,0,0.3333333333,Norwegian,introvert
+Français,parlent beaucoup,1,2,0,0.3333333333,French,talk a lot
+Bourguignons,buveur,1,2,0,0.3333333333,Burgundians,drinker
+Argentins,fougueux,1,2,0,0.3333333333,Argentinians,fiery
+Franche-Comté,têtu,2,1,0,0.3333333333,Franche-Comté,stubborn
+Comtois,conservateur,2,1,0,0.3333333333,Comtois,conservative
+Corses,fougueux,2,1,0,0.3333333333,Corsica,fiery
+Comtois,têtu,2,1,0,0.3333333333,Comtois,stubborn
+Rhônalpins,têtu,2,1,0,0.3333333333,Rhône-Alpes,stubborn
+Calaisiens,réfugiés,2,1,0,0.3333333333,Calaisians,refugees
+Français,têtu,2,1,0,0.3333333333,French,stubborn
+Italiens,mange beaucoup,2,1,0,0.3333333333,Italians,eat a lot
+Swazis,polygamie,2,1,0,0.3333333333,Swazis,polygamy
+Aquitains,vaincu,2,1,0,0.3333333333,Aquitaine,defeated
+Danois,introverti,2,1,0,0.3333333333,Danish,introvert
+Islandais,introverti,2,1,0,0.3333333333,Icelandic,introvert
+Picto-Charentais,têtu,2,1,0,0.3333333333,Picto-Charentais,stubborn
+Sahraouis,indépendantiste,2,1,0,0.3333333333,Sahrawis,independentist
+Lorrains,têtu,2,1,0,0.3333333333,Lorraine,stubborn
+Lorrains,conservateur,2,1,0,0.3333333333,Lorraine,conservative
+Allemands,matérialiste,1,1,1,0.3333333333,Germans,materialist
+Auvergnat,têtu,2,1,0,0.3333333333,Auvergne,stubborn
+habitants du Centre-Val de Loire,campagnard,2,1,0,0.3333333333,residents of Center-Val de Loire,countryman
+Calaisiens,têtu,2,1,0,0.3333333333,Calaisians,stubborn
+Champenois-Ardennais,buveur,2,1,0,0.3333333333,Champenois-Ardennais,drinker
+Aquitains,têtu,2,1,0,0.3333333333,Aquitaine,stubborn
+Normands,têtu,2,1,0,0.3333333333,Normans,stubborn
+Gallois,têtu,2,1,0,0.3333333333,Welsh,stubborn
+Surinamais,bons en sprint,2,1,0,0.3333333333,Surinamese,good at sprinting
+Surinamais,descendants d'esclaves,2,1,0,0.3333333333,Surinamese,descendants of slaves
+Picto-Charentais,conservateur,2,1,0,0.3333333333,Picto-Charentais,conservative
+Irlandais du Nord,têtu,1,1,1,0.3333333333,Northern Irish,stubborn
+Singapouriens,strict,2,1,0,0.3333333333,Singaporeans,strict
+Suédois,introverti,1,1,1,0.3333333333,Swedish,introvert
+Auvergnat,mange beaucoup,2,1,0,0.3333333333,Auvergne,eat a lot
+Franche-Comtois,têtu,2,1,0,0.3333333333,Franche-Comtois,stubborn
+Calaisiens,immigrés,1,1,1,0.3333333333,Calaisians,immigrants
+Provençaux,conservateur,2,1,0,0.3333333333,Provencal,conservative
+Provençaux,têtu,2,1,0,0.3333333333,Provencal,stubborn
+provençaux,amateurs de pastis,0,3,0,0,Provençal,pastis lovers
+Bretons,bretonnant,0,3,0,0,Bretons,Breton
+Bourgogne,boit,0,3,0,0,Burgundy,drinks
+Congolais,noir,0,3,0,0,Congolese,black
+Corses,séparatistes,0,3,0,0,Corsica,separatists
+Écossais,aiment le whisky,1,2,0,0,Scottish,love whiskey
+Franche-Comté,fromagère,1,2,0,0,Franche-Comté,cheese maker
+Irlandais,fêtard,0,2,1,0,Irish,party animal
+Égyptiens,ancien,1,2,0,0,Egyptians,ancient
+Écossais,aime le whisky,1,2,0,0,Scottish,love whiskey
+Colombiens,cocaïne,1,2,0,0,Colombians,cocaine
+Cubains,fumeur,1,2,0,0,Cubans,smoking
+Capverdiens,métis,1,2,0,0,Cape Verdeans,metis
+Mexicains,coloré,1,2,0,0,Mexicans,colored
+Sénégalais,noir,1,2,0,0,Senegalese,black
+Champenois-Ardennais,amateurs de champagne,1,2,0,0,Champenois-Ardennais,champagne lovers
+Italiens,pizzaïolo,1,2,0,0,Italians,pizza maker
+Indiens,coloré,1,2,0,0,Indians,colored
+Breton,rebelle,1,2,0,0,Breton,rebel
+Picardie,paysan,1,2,0,0,Picardy,peasant
+Angolais,noir,1,2,0,0,Angolan,black
+Namibiens,noir,1,2,0,0,Namibians,black
+Mexicains,fêtard,1,2,0,0,Mexicans,party animal
+Péruviens,coloré,1,2,0,0,Peruvians,colored
+Mexicains,aime la tequila,1,2,0,0,Mexicans,love tequila
+Corses,en colère,1,2,0,0,Corsica,angry
+Français,parisien,1,2,0,0,French,Parisian
+Irlandais du Nord,rebelle,1,2,0,0,Northern Irish,rebel
+Corses,rebelle,1,2,0,0,Corsica,rebel
+Mexicains,aiment la tequila,1,2,0,0,Mexicans,love tequila
+Breton,bretonnant,1,2,0,0,Breton,Breton
+Picto-Charentais,aiment le cognac,2,1,0,0,Picto-Charentais,love cognac
+languedociens,mangeurs de cassoulet,2,1,0,0,Languedocians,cassoulet eaters
+Mauritaniens,noir,2,1,0,0,Mauritanians,black
+Surinamais,métis,2,1,0,0,Surinamese,metis
+Sud-Africains,noir,1,1,1,0,South Africans,black
+habitants du Centre-Val de Loire,paysan,2,1,0,0,residents of Center-Val de Loire,peasant
+Équatoguinéens,noir,2,1,0,0,Equatorial Guineans,black
+Boliviens,cocaïne,2,1,0,0,Bolivians,cocaine
+Aquitains,fêtard,2,1,0,0,Aquitaine,party animal
+Capverdiens,noir,2,1,0,0,Cape Verdeans,black
+Malgaches,noir,2,1,0,0,Malagasy,black
+Calaisiens,téméraire,2,1,0,0,Calaisians,reckless
+Normands,téméraire,2,1,0,0,Normans,reckless
+Surinamais,noir,2,1,0,0,Surinamese,black
+pays de la Loire,paysan,2,1,0,0,Pays de la Loire,peasant
+Picto-Charentais,ancien,2,1,0,0,Picto-Charentais,ancient
+Rhônalpins,fêtard,2,1,0,0,Rhône-Alpes,party animal
+Picto-Charentais,sédentarisés,2,1,0,0,Picto-Charentais,settled
+Mauriciens,métis,2,1,0,0,Mauritians,metis
+Kosovars,séparatiste,2,1,0,0,Kosovars,separatist
+languedociens,fêtard,1,1,1,0,Languedocians,party animal
+Guyanais,métis,2,1,0,0,Guyanese,metis
+Champenois-Ardennais,fêtard,2,1,0,0,Champenois-Ardennais,party animal
+Picardie,fromagère,2,1,0,0,Picardy,cheese maker
+Auvergnat,paysan,2,1,0,0,Auvergne,peasant
+Picto-Charentais,gaulois,2,1,0,0,Picto-Charentais,Gallic
+Comtois,paysan,2,1,0,0,Comtois,peasant
+Britanniques,touriste,2,1,0,0,British,tourist
+Franciliens,parisien,2,1,0,0,Francilians,Parisian
+Criméens,russophiles,1,1,1,0,Crimeans,Russophiles
+Bourgogne,rouge,2,1,0,0,Burgundy,red
+Italiens,mange beaucoup de pâtes,0,3,0,-0.3333333333,Italians,eat a lot of pasta
+Lorrains,mangeurs de quiche,0,3,0,-0.3333333333,Lorraine,quiche eaters
+Belges,friands de frites,0,3,0,-0.3333333333,Belgians,fond of fries
+Bretons,fier,0,3,0,-0.3333333333,Bretons,proud
+Finlandais,froid,0,3,0,-0.3333333333,Finnish,cold
+Suédois,froid,0,3,0,-0.3333333333,Swedish,cold
+Franciliens,pressés,0,3,0,-0.3333333333,Francilians,in a hurry
+Allemands,rigoureux,0,3,0,-0.3333333333,Germans,rigorous
+Français,mangent du fromage,0,3,0,-0.3333333333,French,eat cheese
+Français,mangent beaucoup de fromage,0,3,0,-0.3333333333,French,eat a lot of cheese
+Kenyan,courent vite,0,3,0,-0.3333333333,Kenyan,run fast
+Italiens,parle vite,0,3,0,-0.3333333333,Italians,speak quickly
+Belges,mange beaucoup de frites,0,3,0,-0.3333333333,Belgians,eat a lot of fries
+Français,mangent des escargots,0,3,0,-0.3333333333,French,eat snails
+Britanniques,froid,0,3,0,-0.3333333333,British,cold
+Américains,capitaliste,0,3,0,-0.3333333333,Americans,capitalist
+Espagnols,aiment la fiesta,0,3,0,-0.3333333333,Spaniards,love the party
+Belges,mange des frites,0,3,0,-0.3333333333,Belgians,eat fries
+Bretons,marins,0,3,0,-0.3333333333,Bretons,sailors
+Corses,fier,0,3,0,-0.3333333333,Corsica,proud
+Breton,marins,0,3,0,-0.3333333333,Breton,sailors
+Kenyan,aime courir,0,3,0,-0.3333333333,Kenyan,likes to run
+Allemands,discipliné,0,3,0,-0.3333333333,Germans,discipline
+Japonais,discipliné,0,3,0,-0.3333333333,Japanese,discipline
+Français,adorent la baguette,0,3,0,-0.3333333333,French,love the baguette
+Français,aime le vin,0,3,0,-0.3333333333,French,love wine
+Allemands,perfectionniste,0,3,0,-0.3333333333,Germans,perfectionist
+Australiens,détendu,1,2,0,-0.3333333333,Australians,relaxed
+Russes,froid,1,2,0,-0.3333333333,Russians,cold
+Bretons,celte,1,2,0,-0.3333333333,Bretons,Celtic
+Franche-Comtois,fromage,1,2,0,-0.3333333333,Franche-Comtois,cheese
+Français,mange du fromage,1,2,0,-0.3333333333,French,eat cheese
+Palestiniens,musulman,1,2,0,-0.3333333333,Palestinians,Muslim
+Turcs,musulman,1,2,0,-0.3333333333,Turks,Muslim
+Breton,aiment la bière,1,2,0,-0.3333333333,Breton,love beer
+Britanniques,aime boire du thé,1,2,0,-0.3333333333,British,likes to drink tea
+Cubains,communiste,1,2,0,-0.3333333333,Cubans,Communist
+Irakiens,musulman,1,2,0,-0.3333333333,Iraqis,Muslim
+Japonais,sushi,1,2,0,-0.3333333333,Japanese,sushi
+Danois,froid,1,2,0,-0.3333333333,Danish,cold
+Américains,aiment les hamburgers,1,2,0,-0.3333333333,Americans,love hamburgers
+Breton,celte,1,2,0,-0.3333333333,Breton,Celtic
+Norvégien,blonde,1,2,0,-0.3333333333,Norwegian,blonde hair
+Français,aiment le vin,1,2,0,-0.3333333333,French,love wine
+Pakistanais,musulman,1,2,0,-0.3333333333,Pakistani,Muslim
+Bourgogne,aime le vin,1,2,0,-0.3333333333,Burgundy,love wine
+Autrichiens,froid,1,2,0,-0.3333333333,Austrians,cold
+Tunisiens,musulman,1,2,0,-0.3333333333,Tunisians,Muslim
+Coréens,communiste,1,2,0,-0.3333333333,Koreans,Communist
+Biélorusses,russe,0,2,1,-0.3333333333,Belarusians,Russian
+Bourguignons,bons vignerons,1,2,0,-0.3333333333,Burgundians,good winemakers
+Champenois-Ardennais,aiment le champagne,1,2,0,-0.3333333333,Champenois-Ardennais,love champagne
+Alsaciens,mange de la choucroute,1,2,0,-0.3333333333,Alsatians,eat sauerkraut
+Champenois-Ardennais,buveurs de champagne,1,2,0,-0.3333333333,Champenois-Ardennais,champagne drinkers
+Australiens,décontracté,1,2,0,-0.3333333333,Australians,relaxed
+Espagnols,matadors,1,2,0,-0.3333333333,Spaniards,matadors
+Brésiliens,bronzé,1,2,0,-0.3333333333,Brazilians,bronze
+Français,aiment la baguette,1,2,0,-0.3333333333,French,love the baguette
+Islandais,froid,1,2,0,-0.3333333333,Icelandic,cold
+Français,aime la baguette,1,2,0,-0.3333333333,French,love the baguette
+Normands,blondes,1,2,0,-0.3333333333,Normans,blondes
+Français,fromage,1,2,0,-0.3333333333,French,cheese
+Alsaciens,fier,1,2,0,-0.3333333333,Alsatians,proud
+Norvégien,froid,1,2,0,-0.3333333333,Norwegian,cold
+Singapouriens,épris de propreté,1,2,0,-0.3333333333,Singaporeans,loving cleanliness
+Alsaciens,mangent de la choucroute,1,2,0,-0.3333333333,Alsatians,eat sauerkraut
+Comtois,mangeaient beaucoup de fromage,1,2,0,-0.3333333333,Comtois,ate a lot of cheese
+Marocains,musulman,1,2,0,-0.3333333333,Moroccans,Muslim
+Iraniens,musulman,1,2,0,-0.3333333333,Iranians,Muslim
+Suisses,perfectionniste,1,2,0,-0.3333333333,Swiss,perfectionist
+Franciliens,exigeants,1,2,0,-0.3333333333,Francilians,demanding
+Comtois,fromage,1,2,0,-0.3333333333,Comtois,cheese
+Breton,fier,0,2,1,-0.3333333333,Breton,proud
+Cubains,révolutionnaire,1,2,0,-0.3333333333,Cubans,revolutionary
+Champenois-Ardennais,aiment boire du champagne,1,2,0,-0.3333333333,Champenois-Ardennais,like to drink champagne
+Champenois-Ardennais,adorent le champagne,1,2,0,-0.3333333333,Champenois-Ardennais,love champagne
+Mongol,conquérant,1,2,0,-0.3333333333,Mongolian,conqueror
+Lorrains,mangent de la quiche lorraine,1,2,0,-0.3333333333,Lorraine,eat quiche lorraine
+Italiens,pâtes,1,2,0,-0.3333333333,Italians,pasta
+Italiens,mangent beaucoup de pâtes,1,2,0,-0.3333333333,Italians,eat a lot of pasta
+Vénézuéliens,socialiste,1,2,0,-0.3333333333,Venezuelans,socialist
+Italiens,mangeurs de pizza,1,2,0,-0.3333333333,Italians,pizza eaters
+Rwandais,victimes du génocide,1,2,0,-0.3333333333,Rwandan,victims of the genocide
+Espagnols,latino,1,2,0,-0.3333333333,Spaniards,latino
+Champenois-Ardennais,bons vignerons,1,2,0,-0.3333333333,Champenois-Ardennais,good winemakers
+Algériens,musulman,1,2,0,-0.3333333333,Algerians,Muslim
+Russes,communiste,1,2,0,-0.3333333333,Russians,Communist
+Suisses,ont des montres,1,2,0,-0.3333333333,Swiss,have watches
+Champenois-Ardennais,aiment les bulles,1,2,0,-0.3333333333,Champenois-Ardennais,love bubbles
+Suisses,froid,1,2,0,-0.3333333333,Swiss,cold
+Lorrains,mangent de la quiche,1,2,0,-0.3333333333,Lorraine,eat quiche
+Colombiens,latino,1,2,0,-0.3333333333,Colombians,latino
+Koweïtiens,aime le pétrole,1,2,0,-0.3333333333,Kuwaitis,love oil
+Afghans,musulman,1,2,0,-0.3333333333,Afghans,Muslim
+Israélien,juif,1,2,0,-0.3333333333,Israeli,Jewish
+habitants du Centre-Val de Loire,agriculteur,2,1,0,-0.3333333333,residents of Center-Val de Loire,farmer
+Franciliens,matérialistes,1,1,1,-0.3333333333,Francilians,materialists
+Normands,dur,2,1,0,-0.3333333333,Normans,hard
+Auvergnat,mangeur de tripes,2,1,0,-0.3333333333,Auvergne,gut eater
+Soudanais,musulman,2,1,0,-0.3333333333,Sudanese,Muslim
+Alsaciens,blondes,2,1,0,-0.3333333333,Alsatians,blondes
+Mauritaniens,musulman,2,1,0,-0.3333333333,Mauritanians,Muslim
+Bangladeshi,musulman,2,1,0,-0.3333333333,Bangladeshi,Muslim
+Djiboutiens,musulman,2,1,0,-0.3333333333,Djiboutians,Muslim
+Écossais,économe,1,1,1,-0.3333333333,Scottish,thrifty
+Azéris,musulman,2,1,0,-0.3333333333,Azeris,Muslim
+Comtois,fier,2,1,0,-0.3333333333,Comtois,proud
+Champenois-Ardennais,bons vivants,2,1,0,-0.3333333333,Champenois-Ardennais,bon vivants
+languedociens,amoureux du pastis,2,1,0,-0.3333333333,Languedocians,pastis lover
+Normands,guerrières,2,1,0,-0.3333333333,Normans,female warriors
+Aquitains,fier,2,1,0,-0.3333333333,Aquitaine,proud
+Surinamais,métissé,2,1,0,-0.3333333333,Surinamese,mixed
+Picardie,fromage,2,1,0,-0.3333333333,Picardy,cheese
+habitants du Centre-Val de Loire,provinciaux,1,1,1,-0.3333333333,residents of Center-Val de Loire,provincial
+Auvergnat,mange beaucoup de fromage,1,1,1,-0.3333333333,Auvergne,eat a lot of cheese
+habitants du Centre-Val de Loire,bons vivants,2,1,0,-0.3333333333,residents of Center-Val de Loire,bon vivants
+Champenois-Ardennais,agriculteur,2,1,0,-0.3333333333,Champenois-Ardennais,farmer
+Criméens,rusé,2,1,0,-0.3333333333,Crimeans,cunning
+Comoriens,musulman,2,1,0,-0.3333333333,Comorians,Muslim
+Somaliens,musulman,2,1,0,-0.3333333333,Somalis,Muslim
+Turcs,aiment le kebab,1,1,1,-0.3333333333,Turks,love kebab
+Limousins,imposants,2,1,0,-0.3333333333,Limousins,imposing
+Indonésiens,musulman,1,1,1,-0.3333333333,Indonesians,Muslim
+Aquitains,bons vivants,2,1,0,-0.3333333333,Aquitaine,bon vivants
+Picto-Charentais,agriculteur,2,1,0,-0.3333333333,Picto-Charentais,farmer
+Chiliens,aiment le chili,2,1,0,-0.3333333333,Chileans,love chili
+Kosovars,musulman,2,1,0,-0.3333333333,Kosovars,Muslim
+Irlandais du Nord,dur,2,1,0,-0.3333333333,Northern Irish,hard
+Languedoc,rural,1,1,1,-0.3333333333,Languedoc,rural
+Insulaires Cocos,adorent la pêche,2,1,0,-0.3333333333,Cocos Islanders,love fishing
+Hellènes,moustachu,2,1,0,-0.3333333333,Hellenes,mustachioed
+Picto-Charentais,celte,2,1,0,-0.3333333333,Picto-Charentais,Celtic
+Féroïens,marins,2,1,0,-0.3333333333,Faroese,sailors
+Bermudiens,détendu,2,1,0,-0.3333333333,Bermudians,relaxed
+Maldiviens,musulman,2,1,0,-0.3333333333,Maldivians,Muslim
+Ougandais,mangent beaucoup de bananes,2,1,0,-0.3333333333,Ugandan,eat a lot of bananas
+Calaisiens,mangent des moules,2,1,0,-0.3333333333,Calaisians,eat mussels
+Britanniques,sceptiques,1,1,1,-0.3333333333,British,skeptics
+gens de Midi-Pyrénées,fier,2,1,0,-0.3333333333,people of Midi-Pyrénées,proud
+pays de la Loire,fromage,2,1,0,-0.3333333333,Pays de la Loire,cheese
+Lorrains,mangeurs de tarte,2,1,0,-0.3333333333,Lorraine,pie eaters
+Calaisiens,fier,2,1,0,-0.3333333333,Calaisians,proud
+Seychellois,métissée,2,1,0,-0.3333333333,Seychellois,mixed
+Picardie,agriculteur,2,1,0,-0.3333333333,Picardy,farmer
+Aquitains,beuverie,2,1,0,-0.3333333333,Aquitaine,drinking
+Lorrains,fier,2,1,0,-0.3333333333,Lorraine,proud
+Capverdiens,métissé,1,1,1,-0.3333333333,Cape Verdeans,mixed
+Lorrains,bons mangeurs de pâté lorrain,2,1,0,-0.3333333333,Lorraine,good Lorraine pâté eaters
+Andorran,vivant dans les montagnes,2,1,0,-0.3333333333,Andorran,living in the mountains
+Auvergnat,fromage,2,1,0,-0.3333333333,Auvergne,cheese
+Bosniaques,musulman,2,1,0,-0.3333333333,Bosnians,Muslim
+Indonésiens,mangent avec les doigts,2,1,0,-0.3333333333,Indonesians,eat with your fingers
+Géorgiens,aiment le vin,2,1,0,-0.3333333333,Georgians,love wine
+Jordaniens,musulman,2,1,0,-0.3333333333,Jordanians,Muslim
+Lorrains,mangent des tartes flambées,2,1,0,-0.3333333333,Lorraine,eat tartes flambées
+Lorrains,mangent du pâté lorrain,2,1,0,-0.3333333333,Lorraine,eat Lorraine pâté
+Auvergnat,fier,2,1,0,-0.3333333333,Auvergne,proud
+Féroïens,incompris,2,1,0,-0.3333333333,Faroese,misunderstood
+Guyanais,métissé,2,1,0,-0.3333333333,Guyanese,mixed
+Picto-Charentais,fier,2,1,0,-0.3333333333,Picto-Charentais,proud
+Rhônalpins,fier,2,1,0,-0.3333333333,Rhône-Alpes,proud
+Franche-Comté,gourmande,2,1,0,-0.3333333333,Franche-Comté,greedy
+Bourguignons,bons vivants,2,1,0,-0.3333333333,Burgundians,bon vivants
+Allemands,industriel,2,1,0,-0.3333333333,Germans,industrial
+Nicaraguayens,communiste,2,1,0,-0.3333333333,Nicaraguans,Communist
+Belges,franc-parler,2,1,0,-0.3333333333,Belgians,outspoken
+Aquitains,amoureux du vin,2,1,0,-0.3333333333,Aquitaine,wine lover
+Lorrains,mangent des tartes,2,1,0,-0.3333333333,Lorraine,eat pies
+Auvergnat,mange de la truffade,2,1,0,-0.3333333333,Auvergne,eat truffade
+Nicaraguayens,révolutionnaire,2,1,0,-0.3333333333,Nicaraguans,revolutionary
+Auvergnat,agriculteur,2,1,0,-0.3333333333,Auvergne,farmer
+Lorrains,mangeurs de tartiflette,2,1,0,-0.3333333333,Lorraine,tartiflette eaters
+Swazis,polygame,2,1,0,-0.3333333333,Swazis,polygamous
+languedociens,fier,2,1,0,-0.3333333333,Languedocians,proud
+Singapouriens,discipliné,2,1,0,-0.3333333333,Singaporeans,discipline
+Mexicains,latino,2,1,0,-0.3333333333,Mexicans,latino
+pays de la Loire,agriculteur,2,1,0,-0.3333333333,Pays de la Loire,farmer
+Champenois-Ardennais,amoureux du champagne,1,1,1,-0.3333333333,Champenois-Ardennais,champagne lover
+Luxembourgeois,francs-maçons,2,1,0,-0.3333333333,Luxembourgish,freemasons
+Égyptiens,bronzé,2,1,0,-0.3333333333,Egyptians,bronze
+Hongrois,aiment le goulash,2,1,0,-0.3333333333,Hungarian,love goulash
+Malgaches,aiment le riz,1,1,1,-0.3333333333,Malagasy,love rice
+personnes de Rhône-Alpes,ouvertes,2,1,0,-0.3333333333,people from Rhône-Alpes,open
+Costaricains,détendu,1,1,1,-0.3333333333,Costa Ricans,relaxed
+Vietnamiens,mangent beaucoup de riz,1,1,1,-0.3333333333,Vietnamese,eat a lot of rice
+Breton,agriculteur,2,1,0,-0.3333333333,Breton,farmer
+habitants du Centre-Val de Loire,ruraux,2,1,0,-0.3333333333,residents of Center-Val de Loire,rural
+Normands,marins,2,1,0,-0.3333333333,Normans,sailors
+Seychellois,gentilles,2,1,0,-0.3333333333,Seychellois,nice
+Aquitains,marins,2,1,0,-0.3333333333,Aquitaine,sailors
+pays de la Loire,marins,2,1,0,-0.3333333333,Pays de la Loire,sailors
+pays de la Loire,fertile,2,1,0,-0.3333333333,Pays de la Loire,fertile
+pays de la Loire,rural,2,1,0,-0.3333333333,Pays de la Loire,rural
+Mauriciens,métissé,2,1,0,-0.3333333333,Mauritians,mixed
+Calaisiens,marins,2,1,0,-0.3333333333,Calaisians,sailors
+Franche-Comté,fromage,2,1,0,-0.3333333333,Franche-Comté,cheese
+Criméens,russe,1,1,1,-0.3333333333,Crimeans,Russian
+Provençaux,bronzés,1,2,0,-0.3333333333,Provencal,tanned
+Provençaux,fier,2,1,0,-0.3333333333,Provencal,proud
+Suisses,romand,1,2,0,-0.6666666667,Swiss,romand
+Surinamais,marron,2,1,0,-0.6666666667,Surinamese,brown
+Écossais,bagpipe,2,1,0,-0.6666666667,Scottish,bagpipe
+Syriens,guerre civile,2,1,0,-0.6666666667,Syrians,civil war
+Portugais,lusophone,2,1,0,-0.6666666667,Portuguese,Portuguese speaking
+Provençaux,accueillant,1,2,0,-1,Provencal,welcoming
+Provençaux,aiment la cuisine,1,2,0,-1,Provencal,love cooking
+provençaux,amoureux de la cuisine,1,2,0,-1,Provençal,cooking lover
+provençaux,amoureux de la lavande,1,2,0,-1,Provençal,lavender lover
+provençaux,amoureux de la pétanque,0,3,0,-1,Provençal,petanque lover
+Suisses,précis,0,3,0,-1,Swiss,accurate
+Français,aiment la bonne chère,0,3,0,-1,French,love good food
+Roumain,tzigane,0,3,0,-1,Romanian,gypsy
+Kenyan,rapide,0,3,0,-1,Kenyan,fast
+Américains,extraverti,0,3,0,-1,Americans,extrovert
+Allemands,rigueur,0,3,0,-1,Germans,rigor
+Français,élégant,0,3,0,-1,French,elegant
+Allemands,pointilleux,0,3,0,-1,Germans,picky
+Français,bons en cuisine,0,3,0,-1,French,good at cooking
+Français,élégance,0,3,0,-1,French,elegance
+Néerlandais,bons en cyclisme,0,3,0,-1,Dutch,good at cycling
+Thaïlandais,souriant,0,3,0,-1,Thai,smiling
+Anglais,poli,0,3,0,-1,English,polite
+Italiens,amoureux,0,3,0,-1,Italians,lover
+Émiratis,riche,0,3,0,-1,Emiratis,rich
+Italiens,passionné,0,3,0,-1,Italians,keen
+Français,cultivé,0,3,0,-1,French,cultivated
+Allemands,précis,0,3,0,-1,Germans,accurate
+Japonais,politesse,0,3,0,-1,Japanese,courtesy
+Français,amoureux,0,3,0,-1,French,lover
+Népalais,sherpa,0,3,0,-1,Nepalese,sherpa
+Suisses,ponctualité,0,3,0,-1,Swiss,punctuality
+Français,bon en cuisine,0,3,0,-1,French,good in cooking
+Français,aiment la mode,0,3,0,-1,French,love fashion
+Néo-Zélandais,aimant le rugby,0,3,0,-1,New Zealanders,loving rugby
+Saoudiens,riche,0,3,0,-1,Saudis,rich
+Belges,aime la frite,0,3,0,-1,Belgians,love fries
+Suisses,propre,0,3,0,-1,Swiss,own
+Britanniques,poli,0,3,0,-1,British,polite
+Allemands,sérieux,0,3,0,-1,Germans,serious
+Français,baguette,0,3,0,-1,French,baguette
+Finlandais,silencieux,0,3,0,-1,Finnish,silent
+Kenyan,coureur,0,3,0,-1,Kenyan,runner
+Italiens,romantique,0,3,0,-1,Italians,romantic
+Japonais,respectueux,0,3,0,-1,Japanese,respectful
+Italiens,passionnée,0,3,0,-1,Italians,passionate
+Suisses,organisé,0,3,0,-1,Swiss,organized
+Espagnols,aiment le flamenco,0,3,0,-1,Spaniards,love flamenco
+Allemands,efficace,0,3,0,-1,Germans,effective
+provençaux,brunes,1,2,0,-1,Provençal,brunettes
+Allemands,consciencieux,0,3,0,-1,Germans,conscientious
+Kenyan,marathon,0,3,0,-1,Kenyan,marathon
+Néo-Zélandais,aime le rugby,0,3,0,-1,New Zealanders,loves rugby
+Allemands,méthodique,0,3,0,-1,Germans,methodical
+Suédois,blond,0,3,0,-1,Swedish,blond
+Provençaux,chaleureux,0,3,0,-1,Provencal,warm
+Luxembourgeois,riche,0,3,0,-1,Luxembourgish,rich
+Allemands,ponctuel,0,3,0,-1,Germans,punctual
+Français,raffiné,0,3,0,-1,French,refined
+Luxembourgeois,sont très riches,0,3,0,-1,Luxembourgish,are very rich
+Kenyan,endurants,0,3,0,-1,Kenyan,enduring
+les Provençaux,le pastis,0,3,0,-1,the Provençals,Pastis
+Italiens,passionnés de mode,0,3,0,-1,Italians,fashion enthusiasts
+Français,amoureux de la bonne cuisine,0,3,0,-1,French,lover of good cuisine
+Britanniques,courtois,0,3,0,-1,British,courteous
+Autrichiens,aime la musique classique,0,3,0,-1,Austrians,love classical music
+Breton,aime la mer,0,3,0,-1,Breton,love the sea
+Français,amoureux de la nourriture,0,3,0,-1,French,food lover
+Bhoutanais,spirituel,0,3,0,-1,Bhutanese,spiritual
+Normands,blond,0,3,0,-1,Normans,blond
+Allemands,ordonné,0,3,0,-1,Germans,ordered
+Royaume-Uni,pluvieux,0,3,0,-1,United Kingdom,rainy
+Allemands,organisé,0,3,0,-1,Germans,organized
+Français,romantique,0,3,0,-1,French,romantic
+Breton,indépendance,1,2,0,-1,Breton,independence
+Champenois-Ardennais,bons en champagne,1,2,0,-1,Champenois-Ardennais,champagne vouchers
+Anglais,britannique,1,2,0,-1,English,British
+Britanniques,classe,1,2,0,-1,British,class
+Bretons,courageux,1,2,0,-1,Bretons,brave
+pays de la Loire,calme,1,2,0,-1,Pays de la Loire,calm
+Français,artiste,0,2,1,-1,French,artist
+Canadien,aiment le hockey,1,2,0,-1,Canadian,love hockey
+Provençaux,chantant,1,2,0,-1,Provencal,singing
+pays de la Loire,beaux,1,2,0,-1,Pays de la Loire,beautiful
+Espagnols,passionné,1,2,0,-1,Spaniards,keen
+Japonais,aime la technologie,1,2,0,-1,Japanese,loves technology
+Irlandais du Nord,protestant,1,2,0,-1,Northern Irish,Protestant
+Alsaciens,germanique,1,2,0,-1,Alsatians,Germanic
+Belges,mangent des frites,1,2,0,-1,Belgians,eat fries
+Britanniques,respectueux des règles,1,2,0,-1,British,respectful of the rules
+Belges,chocolat,1,2,0,-1,Belgians,chocolate
+Britanniques,élégant,1,2,0,-1,British,elegant
+Algériens,arabe,1,2,0,-1,Algerians,Arab
+les Comtois,les fromages,1,2,0,-1,the Comtois,cheeses
+Canadien,polite,1,2,0,-1,Canadian,polite
+Italiens,parlent avec les mains,1,2,0,-1,Italians,speak with hands
+Franciliens,cosmopolite,1,2,0,-1,Francilians,cosmopolitan
+Brésiliens,aime la plage,1,2,0,-1,Brazilians,loves the beach
+Gibraltariens,anglais,1,2,0,-1,Gibraltarians,English
+Danois,pragmatique,1,2,0,-1,Danish,pragmatic
+Languedoc,ensoleillé,1,2,0,-1,Languedoc,sunny
+Cubains,cigare,1,2,0,-1,Cubans,cigar
+Équatorien,amazonie,1,2,0,-1,Ecuadorian,amazon
+Népalais,montagneux,1,2,0,-1,Nepalese,mountainous
+Franciliens,métropolitain,1,2,0,-1,Francilians,metropolitan
+Bourguignons,gastronome,1,2,0,-1,Burgundians,gourmet
+Américains,cheeseburger,1,2,0,-1,Americans,cheeseburger
+Britanniques,anglais,1,2,0,-1,British,English
+pays de la Loire,beau,1,2,0,-1,Pays de la Loire,beautiful
+Anglais,universel,1,2,0,-1,English,universal
+Rhônalpins,alpinistes,1,2,0,-1,Rhône-Alpes,mountaineers
+Franche-Comté,comté,1,2,0,-1,Franche-Comté,county
+Bourguignons,gourmet,1,2,0,-1,Burgundians,gourmet
+Midi-Pyrénées,touristique,1,2,0,-1,Midi-Pyrenees,sightseeing
+provençaux,cuisine du soleil,0,3,0,-1,Provençal,kitchen of the sun
+Argentins,footballeur,1,2,0,-1,Argentinians,footballer
+Bourguignons,gourmand,1,2,0,-1,Burgundians,gourmand
+Mongol,éleveur de chevaux,1,2,0,-1,Mongolian,horse breeder
+Brésiliens,festif,1,2,0,-1,Brazilians,festive
+Libyen,arabe,1,2,0,-1,Libyan,Arab
+Palestiniens,résistant,1,2,0,-1,Palestinians,resistant
+Français,littérature,1,2,0,-1,French,literature
+Népalais,montagnard,1,2,0,-1,Nepalese,mountaineer
+Autrichiens,ski,1,2,0,-1,Austrians,ski
+Bourgogne,gourmet,1,2,0,-1,Burgundy,gourmet
+Bourgogne,bons vins,1,2,0,-1,Burgundy,good wines
+Argentins,joueur,1,2,0,-1,Argentinians,player
+Gallois,rugby,1,2,0,-1,Welsh,rugby
+Suisses,horloger,1,2,0,-1,Swiss,watchmaker
+Franche-Comté,terre de fromage,1,2,0,-1,Franche-Comté,land of cheese
+Rwandais,hutu,1,2,0,-1,Rwandan,Hutu
+Limousins,vaches,1,2,0,-1,Limousins,cows
+Argentins,football,1,2,0,-1,Argentinians,soccer
+Allemands,musique classique,1,2,0,-1,Germans,classical music
+Canadien,poli,1,2,0,-1,Canadian,polite
+Népalais,spirituel,1,2,0,-1,Nepalese,spiritual
+gens de Midi-Pyrénées,chaleureux,1,2,0,-1,people of Midi-Pyrénées,warm
+Américains,aime le baseball,1,2,0,-1,Americans,love baseball
+Bourgogne,gourmand,1,2,0,-1,Burgundy,gourmand
+Suisses,ski,1,2,0,-1,Swiss,ski
+Franciliens,dynamique,1,2,0,-1,Francilians,dynamic
+Indiens,spiritualiste,1,2,0,-1,Indians,spiritualist
+Italiens,amoureux de la nourriture,1,2,0,-1,Italians,food lover
+Thaïlandais,bons en boxe,1,2,0,-1,Thai,good at boxing
+Anglais,aiment le thé,1,2,0,-1,English,love tea
+Russes,fort,1,2,0,-1,Russians,strong
+Anglais,langue internationale,1,2,0,-1,English,international language
+Suisses,horloge,1,2,0,-1,Swiss,clock
+Rhônalpins,skieurs,1,2,0,-1,Rhône-Alpes,skiers
+Américains,confiants,1,2,0,-1,Americans,confident
+Japonais,aiment la technologie,1,2,0,-1,Japanese,love technology
+pays de la Loire,beaux paysages,1,2,0,-1,Pays de la Loire,beautiful landscapes
+Espagnols,dansent bien,1,2,0,-1,Spaniards,dance well
+Rwandais,tutsi,1,2,0,-1,Rwandan,tutsi
+Néerlandais,aiment le vélo,1,2,0,-1,Dutch,love cycling
+Américains,baseball,1,2,0,-1,Americans,baseball
+Américains,hamburger,1,2,0,-1,Americans,hamburger
+Qatariens,riche,1,2,0,-1,Qataris,rich
+Mexicains,sombrero,1,2,0,-1,Mexicans,sombrero
+Russes,vodka,1,2,0,-1,Russians,vodka
+Britanniques,raffiné,1,2,0,-1,British,refined
+Canadien,hockey sur glace,1,2,0,-1,Canadian,ice Hockey
+Bhoutanais,paisible,1,2,0,-1,Bhutanese,peaceful
+Autrichiens,sérieux,1,2,0,-1,Austrians,serious
+Provençaux,ensoleillé,1,2,0,-1,Provencal,sunny
+Italiens,spaghetti,1,2,0,-1,Italians,spaghetti
+Égyptiens,arabe,1,2,0,-1,Egyptians,Arab
+Britanniques,politesse,1,2,0,-1,British,courtesy
+Finlandais,blond,1,2,0,-1,Finnish,blond
+gens de Midi-Pyrénées,aiment le rugby,1,2,0,-1,people of Midi-Pyrénées,love rugby
+Brésiliens,football,1,2,0,-1,Brazilians,soccer
+Italiens,passion,1,2,0,-1,Italians,passion
+Limousins,élevage,1,2,0,-1,Limousins,breeding
+personnes de Rhône-Alpes,aiment la montagne,1,2,0,-1,people from Rhône-Alpes,love the mountains
+gens de Midi-Pyrénées,amoureux du rugby,1,2,0,-1,people of Midi-Pyrénées,rugby lover
+Breton,celtique,1,2,0,-1,Breton,Celtic
+Belges,hilarants,1,2,0,-1,Belgians,hilarious
+Suisses,montagnard,1,2,0,-1,Swiss,mountaineer
+Chypriote,grec,1,2,0,-1,Cypriot,Greek
+Britanniques,amateurs de thé,1,2,0,-1,British,tea lovers
+Anglais,aime le thé,1,2,0,-1,English,love tea
+Britanniques,royal,1,2,0,-1,British,royal
+Britanniques,aiment le thé,1,2,0,-1,British,love tea
+Libanais,arabe,1,2,0,-1,Lebanese,Arab
+Néerlandais,aiment les vélos,1,2,0,-1,Dutch,love bikes
+Italiens,pizza,1,2,0,-1,Italians,pizza
+Languedoc,vigne,1,2,0,-1,Languedoc,vine
+gens de Midi-Pyrénées,sympathique,1,2,0,-1,people of Midi-Pyrénées,friendly
+Finlandais,aiment le sauna,1,2,0,-1,Finnish,love the sauna
+Belges,comiques,1,2,0,-1,Belgians,comics
+Tunisiens,arabe,1,2,0,-1,Tunisians,Arab
+Rhônalpins,montagnard,1,2,0,-1,Rhône-Alpes,mountaineer
+Mexicains,festif,1,2,0,-1,Mexicans,festive
+Suisses,neutre,1,2,0,-1,Swiss,neutral
+gens de Midi-Pyrénées,joyeux,1,2,0,-1,people of Midi-Pyrénées,happy
+Breton,parle breton,1,2,0,-1,Breton,speaks Breton
+Vietnamiens,asiatique,1,2,0,-1,Vietnamese,Asian
+Bourgogne,bon vin,1,2,0,-1,Burgundy,fine wine
+Saoudiens,voile,1,2,0,-1,Saudis,veil
+Thaïlandais,bouddhiste,1,2,0,-1,Thai,Buddhist
+Américains,optimiste,1,2,0,-1,Americans,optimistic
+provençaux,épicurien,1,2,0,-1,Provençal,epicurean
+Indiens,épice,1,2,0,-1,Indians,spicy
+les Provençaux,les cigales,1,2,0,-1,the Provençals,cicadas
+Kenyan,athlète,1,2,0,-1,Kenyan,athlete
+Provençaux,épris de paix,2,1,0,-1,Provencal,peace-loving
+Canadien,hockey,1,2,0,-1,Canadian,hockey
+Allemands,ingénieur,1,2,0,-1,Germans,engineer
+Luxembourgeois,parlent luxembourgeois,1,2,0,-1,Luxembourgish,speak Luxembourgish
+Belges,parle le français,1,2,0,-1,Belgians,speak French
+Suisses,sens pratique,1,2,0,-1,Swiss,practical sense
+Coréens,asiatique,1,2,0,-1,Koreans,Asian
+Brésiliens,tropical,1,2,0,-1,Brazilians,tropical
+Suisses,chocolat,1,2,0,-1,Swiss,chocolate
+Néo-Zélandais,rugby,1,2,0,-1,New Zealanders,rugby
+Canadien,aime le hockey,1,2,0,-1,Canadian,loves hockey
+Américains,ambitieux,1,2,0,-1,Americans,ambitious
+Gallois,aiment le rugby,1,2,0,-1,Welsh,love rugby
+Français,aiment la bonne cuisine,1,2,0,-1,French,love good food
+Marocains,arabe,1,2,0,-1,Moroccans,Arab
+Écossais,tartan,1,2,0,-1,Scottish,tartan
+Rhônalpins,aiment la raclette,1,2,0,-1,Rhône-Alpes,love raclette
+Italiens,passionnés de cuisine,1,2,0,-1,Italians,cooking enthusiasts
+Indiens,spirituel,1,2,0,-1,Indians,spiritual
+Danois,hygge,0,2,1,-1,Danish,hygge
+Français,croissant,1,2,0,-1,French,croissant
+Égyptiens,mystérieux,1,2,0,-1,Egyptians,mysterious
+Égyptiens,pharaon,1,2,0,-1,Egyptians,Pharaoh
+Suisses,montagne,1,2,0,-1,Swiss,mountain
+Espagnols,passion,1,2,0,-1,Spaniards,passion
+Belges,rigolo,1,2,0,-1,Belgians,fun
+Brésiliens,aime s'amuser,1,2,0,-1,Brazilians,likes to have fun
+Italiens,expressif,1,2,0,-1,Italians,expressive
+Russes,tsar,1,2,0,-1,Russians,tsar
+Cambodgien,riz,1,2,0,-1,Cambodian,rice
+Néo-Zélandais,aiment le rugby,1,2,0,-1,New Zealanders,love rugby
+Breton,parle une langue celtique,1,2,0,-1,Breton,speaks a Celtic language
+languedociens,ensoleillé,1,2,0,-1,Languedocians,sunny
+Brésiliens,carnaval,1,2,0,-1,Brazilians,carnival
+Alsaciens,germanophones,1,2,0,-1,Alsatians,German speakers
+Rhônalpins,bons skieurs,1,2,0,-1,Rhône-Alpes,good skiers
+Britanniques,rationnel,1,2,0,-1,British,rational
+Canadien,bilingue,1,2,0,-1,Canadian,bilingual
+Péruviens,traditionnelle,1,2,0,-1,Peruvians,traditional
+languedociens,joviaux,1,2,0,-1,Languedocians,jovial
+gens de Midi-Pyrénées,accueillant,1,2,0,-1,people of Midi-Pyrénées,welcoming
+Languedoc,méridional,1,2,0,-1,Languedoc,southern
+Norvégien,blond,1,2,0,-1,Norwegian,blond
+Mexicains,tacos,1,2,0,-1,Mexicans,Tacos
+Brésiliens,footballeur,1,2,0,-1,Brazilians,footballer
+Aquitains,bons en rugby,1,2,0,-1,Aquitaine,good at rugby
+Corses,indépendant,1,2,0,-1,Corsica,independent
+Canadien,anglophone,1,2,0,-1,Canadian,English-speaker
+Brésiliens,aime la fête,1,2,0,-1,Brazilians,love the party
+Mongol,éleveur,1,2,0,-1,Mongolian,breeder
+Argentins,passionné,1,2,0,-1,Argentinians,keen
+Égyptiens,pyramide,1,2,0,-1,Egyptians,pyramid
+Canadien,politesse,1,2,0,-1,Canadian,courtesy
+Philippins,serviable,1,2,0,-1,Filipinos,helpful
+Andorran,catalan,1,2,0,-1,Andorran,Catalan
+Italiens,amoureux de la vie,1,2,0,-1,Italians,lover of life
+Danois,heureux,1,2,0,-1,Danish,happy
+Néerlandais,vélo,1,2,0,-1,Dutch,bike
+Britanniques,royaux,1,2,0,-1,British,royal
+Britanniques,réserve,1,2,0,-1,British,reserve
+Languedoc,soleil,1,2,0,-1,Languedoc,sun
+Boliviens,vivent dans les andes,1,2,0,-1,Bolivians,live in the andes
+Suisses,ordre,0,2,1,-1,Swiss,order
+Britanniques,aime le thé,1,2,0,-1,British,love tea
+Provençaux,fiers de leur culture,2,1,0,-1,Provencal,proud of their culture
+Américains,entreprenants,1,2,0,-1,Americans,enterprising
+Argentins,danseur,1,2,0,-1,Argentinians,dancer
+Argentins,aime jouer au football,1,2,0,-1,Argentinians,likes to play football
+Andorran,ski,1,2,0,-1,Andorran,ski
+Italiens,cuisinier,1,2,0,-1,Italians,to cook
+Guyanais,français,1,2,0,-1,Guyanese,French
+Auvergnat,travailleur,0,2,1,-1,Auvergne,worker
+Lorrains,français,1,2,0,-1,Lorraine,French
+personnes de Rhône-Alpes,aiment le ski,1,2,0,-1,people from Rhône-Alpes,love skiing
+Suisses,le chocolat,1,2,0,-1,Swiss,chocolate
+Alsaciens,bière,1,2,0,-1,Alsatians,beer
+Danois,blond,1,2,0,-1,Danish,blond
+Belges,bière,1,2,0,-1,Belgians,beer
+Japonais,respect,1,2,0,-1,Japanese,respect
+Breton,indépendant,1,2,0,-1,Breton,independent
+Péruviens,andin,1,2,0,-1,Peruvians,Andean
+Bourgogne,gastronomique,1,2,0,-1,Burgundy,gourmet
+Vietnamiens,riz,1,2,0,-1,Vietnamese,rice
+Calaisiens,solidaires,1,2,0,-1,Calaisians,united
+Américains,puissant,1,2,0,-1,Americans,powerful
+Finlandais,adorent le sauna,1,2,0,-1,Finnish,love the sauna
+Languedoc,chaleureux,1,2,0,-1,Languedoc,warm
+Australiens,surfeur,1,2,0,-1,Australians,surfer
+Franche-Comté,gastronomie,1,2,0,-1,Franche-Comté,gastronomy
+Cubains,fumaient beaucoup,1,2,0,-1,Cubans,smoked a lot
+languedociens,chaleureux,1,2,0,-1,Languedocians,warm
+Languedoc,languedocien,1,2,0,-1,Languedoc,Languedoc
+Mauriciens,cuisine créole,1,2,0,-1,Mauritians,Creole cuisine
+Néerlandais,pragmatique,1,2,0,-1,Dutch,pragmatic
+Bhoutanais,heureux,1,2,0,-1,Bhutanese,happy
+Serbes,tennis,1,2,0,-1,Serbs,tennis
+Britanniques,aiment boire du thé,1,2,0,-1,British,like to drink tea
+Néerlandais,maîtres de soi,1,2,0,-1,Dutch,masters of oneself
+Alsaciens,allemand,1,2,0,-1,Alsatians,German
+Belges,frite,0,2,1,-1,Belgians,fried
+Français,intellectuel,0,2,1,-1,French,intellectual
+Écossais,kilt,1,2,0,-1,Scottish,kilt
+Calaisiens,accueillant,2,1,0,-1,Calaisians,welcoming
+Néerlandais,ponctuel,2,1,0,-1,Dutch,punctual
+Paraguayens,football,2,1,0,-1,Paraguayans,soccer
+Paris,capitale,2,1,0,-1,Paris,capital city
+Limousins,luxueuses,2,1,0,-1,Limousins,luxurious
+Palestiniens,arabe,2,1,0,-1,Palestinians,Arab
+Limousins,luxueux,2,1,0,-1,Limousins,luxurious
+Normands,courageux,2,1,0,-1,Normans,brave
+languedociens,vigneron,2,1,0,-1,Languedocians,winemaker
+Costaricains,surfer,2,1,0,-1,Costa Ricans,surf
+habitants du Centre-Val de Loire,accueillant,2,1,0,-1,residents of Center-Val de Loire,welcoming
+Arméniens,chrétien,2,1,0,-1,Armenians,Christian
+gens du Centre-Val de Loire,gentil,2,1,0,-1,people from Centre-Val de Loire,kind
+Togolais,africain,2,1,0,-1,Togolese,African
+Britanniques,royauté,2,1,0,-1,British,royalty
+Franciliens,automobiliste,2,1,0,-1,Francilians,motorist
+Portugais,aventureux,2,1,0,-1,Portuguese,adventurous
+Corses,énergique,2,1,0,-1,Corsica,energetic
+personnes de Rhône-Alpes,chaleureuse,2,1,0,-1,people from Rhône-Alpes,warm
+Hellènes,sage,2,1,0,-1,Hellenes,wise
+Singapouriens,méticuleux,2,1,0,-1,Singaporeans,meticulous
+Comtois,fromager,1,1,1,-1,Comtois,cheese maker
+Picardie,nord,2,1,0,-1,Picardy,north
+Slovaques,travailleur,2,1,0,-1,Slovaks,worker
+languedociens,joyeux,1,1,1,-1,Languedocians,happy
+Népalais,yogi,2,1,0,-1,Nepalese,yogi
+Champenois-Ardennais,énergique,2,1,0,-1,Champenois-Ardennais,energetic
+Maltais,méditerranéen,2,1,0,-1,Maltese,Mediterranean
+pays de la Loire,nantais,2,1,0,-1,Pays de la Loire,Nantes
+Jordaniens,arabe,1,1,1,-1,Jordanians,Arab
+Érythréens,éthiopien,2,1,0,-1,Eritreans,Ethiopian
+Hellènes,aiment la philosophie,2,1,0,-1,Hellenes,love philosophy
+Népalais,escalade,2,1,0,-1,Nepalese,escalation 
+pays de la Loire,accueillant,2,1,0,-1,Pays de la Loire,welcoming
+Omanais,arabe,2,1,0,-1,Omani,Arab
+habitants du Centre-Val de Loire,gentil,2,1,0,-1,residents of Center-Val de Loire,kind
+Lorrains,travailleurs acharnés,2,1,0,-1,Lorraine,hard workers
+Tanzanien,africain,2,1,0,-1,Tanzanian,African
+Islandais,blond,2,1,0,-1,Icelandic,blond
+Normands,aventureux,2,1,0,-1,Normans,adventurous
+Français,indulgent,2,1,0,-1,French,indulgent
+Slovaques,blond,2,1,0,-1,Slovaks,blond
+Estoniens,blond,1,1,1,-1,Estonians,blond
+Tchèque,bière,2,1,0,-1,Czech,beer
+Seychellois,sportive,2,1,0,-1,Seychellois,athletic
+Picardie,nord de la france,2,1,0,-1,Picardy,North of France
+Capverdiens,bons danseurs,2,1,0,-1,Cape Verdeans,good dancers
+Picardie,gastronomique,2,1,0,-1,Picardy,gourmet
+Aquitains,joyeux,2,1,0,-1,Aquitaine,happy
+Aquitains,gascon,2,1,0,-1,Aquitaine,gascon
+Picto-Charentais,autochtones,2,1,0,-1,Picto-Charentais,indigenous
+Suédois,scandinave,2,1,0,-1,Swedish,Scandinavian
+Formosans,industrieux,2,1,0,-1,Formosans,industrious
+Américains,riche,2,1,0,-1,Americans,rich
+Féroïens,viking,2,1,0,-1,Faroese,viking
+Brésiliens,pays d'amérique du sud,2,1,0,-1,Brazilians,south american country
+Hellènes,intellectuel,2,1,0,-1,Hellenes,intellectual
+Normands,normaux,1,1,1,-1,Normans,normal
+Picardie,paisible,2,1,0,-1,Picardy,peaceful
+Seychellois,joyeuses,2,1,0,-1,Seychellois,happy
+Andorran,skieur,2,1,0,-1,Andorran,skier
+Languedoc,langue d'oc,2,1,0,-1,Languedoc,Occitan language
+Languedoc,occitan,2,1,0,-1,Languedoc,Occitan
+Calaisiens,habitants de calais,2,1,0,-1,Calaisians,inhabitants of Calais
+Picardie,berceau de la langue française,2,1,0,-1,Picardy,cradle of the French language
+Biélorusses,blond,2,1,0,-1,Belarusians,blond
+Salvadoriens,catholique,2,1,0,-1,Salvadorans,Catholic
+Limousins,voiture,2,1,0,-1,Limousins,car
+Provençaux,joyeux,1,2,0,-1,Provencal,happy
+Hongrois,parle hongrois,2,1,0,-1,Hungarian,speaks Hungarian
+Franche-Comté,gastronomique,2,1,0,-1,Franche-Comté,gourmet
+Norvégien,ski,1,1,1,-1,Norwegian,ski
+Swazis,étaient très pauvres,2,1,0,-1,Swazis,were very poor
+Irakiens,arabe,2,1,0,-1,Iraqis,Arab
+Indonésiens,asiatique,2,1,0,-1,Indonesians,Asian
+Mauritaniens,nomade,2,1,0,-1,Mauritanians,nomadic
+Champenois-Ardennais,joyeux,2,1,0,-1,Champenois-Ardennais,happy
+languedociens,accueillant,2,1,0,-1,Languedocians,welcoming
+Finlandais,sauna,2,1,0,-1,Finnish,sauna
+Norvégien,scandinave,2,1,0,-1,Norwegian,Scandinavian
+Champenois-Ardennais,vigneron,2,1,0,-1,Champenois-Ardennais,winemaker
+Gambien,africain,2,1,0,-1,Gambian,African
+Champenois-Ardennais,festif,2,1,0,-1,Champenois-Ardennais,festive
+Belges,neutre,2,1,0,-1,Belgians,neutral
+Féroïens,pêcheur,2,1,0,-1,Faroese,fisherman
+Picto-Charentais,accueillant,2,1,0,-1,Picto-Charentais,welcoming
+Uruguayens,footballeur,2,1,0,-1,Uruguayans,footballer
+Franche-Comtois,fromager,2,1,0,-1,Franche-Comtois,cheese maker
+Champenois-Ardennais,hospitalier,2,1,0,-1,Champenois-Ardennais,hospital
+Alsaciens,travailleur,2,1,0,-1,Alsatians,worker
+Espagnols,romantique,2,1,0,-1,Spaniards,romantic
+Franche-Comtois,bons skieurs,2,1,0,-1,Franche-Comtois,good skiers
+Normands,aventurier,2,1,0,-1,Normans,adventurer
+Azéris,caucasien,2,1,0,-1,Azeris,Caucasian
+Languedoc,viticulteur,2,1,0,-1,Languedoc,winemaker
+personnes du Centre-Val de Loire,bons cyclistes,2,1,0,-1,people from Center-Val de Loire,good cyclists
+Brésiliens,jiu-jitsu,2,1,0,-1,Brazilians,jiujitsu
+Picto-Charentais,ingénieux,2,1,0,-1,Picto-Charentais,ingenious
+Sahraouis,résistant,1,1,1,-1,Sahrawis,resistant
+Picardie,terre de fromage,2,1,0,-1,Picardy,land of cheese
+Andorran,aime le ski,2,1,0,-1,Andorran,loves skiing
+Corses,courageux,2,1,0,-1,Corsica,brave
+Lorrains,courageux,2,1,0,-1,Lorraine,brave
+Seychellois,généreuses,2,1,0,-1,Seychellois,generous
+Auvergnat,aime la soupe,2,1,0,-1,Auvergne,love soup
+Comtois,gourmand,2,1,0,-1,Comtois,gourmand
+Lorrains,industrieux,2,1,0,-1,Lorraine,industrious
+Biélorusses,slave,2,1,0,-1,Belarusians,Slavic
+Picardie,plat,2,1,0,-1,Picardy,flat
+Auvergnat,fromager,2,1,0,-1,Auvergne,cheese maker
+Chypriote,méditerranéen,2,1,0,-1,Cypriot,Mediterranean
+Italiens,méditerranéen,2,1,0,-1,Italians,Mediterranean
+Luxembourgeois,neutre,2,1,0,-1,Luxembourgish,neutral
+Colombiens,passionné,2,1,0,-1,Colombians,keen
+habitants des Pays de la Loire,accueillant,2,1,0,-1,inhabitants of Pays de la Loire,welcoming
+Suisses,montagneux,2,1,0,-1,Swiss,mountainous
+Mannois,celtique,2,1,0,-1,Manx,Celtic
+Mauritaniens,arabe,2,1,0,-1,Mauritanians,Arab
+Néo-Zélandais,sportif,2,1,0,-1,New Zealanders,sporty
+Rhônalpins,chaleureux,2,1,0,-1,Rhône-Alpes,warm
+Djiboutiens,musulmane,2,1,0,-1,Djiboutians,Muslim
+Picardie,région,2,1,0,-1,Picardy,region
+Surinamais,adorent la nature,2,1,0,-1,Surinamese,love nature
+Costaricains,surfeur,2,1,0,-1,Costa Ricans,surfer
+habitants du Centre-Val de Loire,amateurs de vin,2,1,0,-1,residents of Center-Val de Loire,wine lovers
+Picto-Charentais,chaleureux,2,1,0,-1,Picto-Charentais,warm
+Calaisiens,aiment le poisson,2,1,0,-1,Calaisians,love fish
+Picto-Charentais,pacifique,2,1,0,-1,Picto-Charentais,peaceful
+Surinamais,plus sportifs,2,1,0,-1,Surinamese,more sporty
+Féroïens,adorent le poisson,2,1,0,-1,Faroese,love fish
+Champenois-Ardennais,travailleur,2,1,0,-1,Champenois-Ardennais,worker
+Rhônalpins,créatif,2,1,0,-1,Rhône-Alpes,creative
+Picardie,riche,2,1,0,-1,Picardy,rich
+Picto-Charentais,blond,2,1,0,-1,Picto-Charentais,blond
+Normands,ingénieux,2,1,0,-1,Normans,ingenious
+Lorrains,gourmand,2,1,0,-1,Lorraine,gourmand
+Calaisiens,patriote,2,1,0,-1,Calaisians,patriot
+Afghans,aiment les tapis,2,1,0,-1,Afghans,love rugs
+Islandais,inuit,2,1,0,-1,Icelandic,inuit
+Bermudiens,bon en voile,2,1,0,-1,Bermudians,good at sailing
+pays de la Loire,gastronomie,2,1,0,-1,Pays de la Loire,gastronomy
+pays de la Loire,terre de sel,2,1,0,-1,Pays de la Loire,land of salt
+Cubains,bons en boxe,2,1,0,-1,Cubans,good at boxing
+Breton,langue,2,1,0,-1,Breton,language
+Croates,aimer la mer,2,1,0,-1,Croatians,love the sea
+Alsaciens,bavarois,1,1,1,-1,Alsatians,Bavarian
+Swazis,bons en rugby,2,1,0,-1,Swazis,good at rugby
+Rhônalpins,travailleur,2,1,0,-1,Rhône-Alpes,worker
+Italiens,roman,1,1,1,-1,Italians,novel
+Slovaques,industrieux,2,1,0,-1,Slovaks,industrious
+Provençaux,marseillais,1,1,1,-1,Provencal,Marseille
+Picardie,terre d'accueil,2,1,0,-1,Picardy,land of welcome
+Calaisiens,aiment le foot,2,1,0,-1,Calaisians,love football
+Roumain,romantique,2,1,0,-1,Romanian,romantic
+Comtois,aime la nature,2,1,0,-1,Comtois,love nature
+Picto-Charentais,travailleur,2,1,0,-1,Picto-Charentais,worker
+Surinamais,aiment le carnaval,2,1,0,-1,Surinamese,love carnival
+Alsaciens,patriote,2,1,0,-1,Alsatians,patriot
+Letts,blond,2,1,0,-1,Letts,blond
+Picardie,terre de culture,2,1,0,-1,Picardy,land of cultivation
+habitants du Centre-Val de Loire,chaleureux,2,1,0,-1,residents of Center-Val de Loire,warm
+Malaisiens,asiatique,2,1,0,-1,Malaysians,Asian
+Andorran,parlent catalan,2,1,0,-1,Andorran,speak Catalan
+Breton,bagad,2,1,0,-1,Breton,bagad
+Bretons,rousses,2,1,0,-1,Bretons,redheads
+Maltais,catholique,2,1,0,-1,Maltese,Catholic
+Danois,scandinave,2,1,0,-1,Danish,Scandinavian
+Seychellois,créole,2,1,0,-1,Seychellois,Creole
+Espagnols,latin,2,1,0,-1,Spaniards,Latin
+Picto-Charentais,peu connus,2,1,0,-1,Picto-Charentais,little known
+Malgaches,parle malgache,2,1,0,-1,Malagasy,speak Malagasy
+personnes du Centre-Val de Loire,praticiens,2,1,0,-1,people from Center-Val de Loire,practitioners
+Autrichiens,allemand,0,1,2,-1,Austrians,German
+Danois,direct,2,1,0,-1,Danish,direct
+Philippins,catholique,2,1,0,-1,Filipinos,Catholic
+Costaricains,heureux,2,1,0,-1,Costa Ricans,happy
+Italiens,plus raffinés,2,1,0,-1,Italians,more refined
+Turcs,cuisine savoureuse,2,1,0,-1,Turks,tasty cuisine
+Comtois,travailleur,2,1,0,-1,Comtois,worker
+Bangladeshi,bengali,2,1,0,-1,Bangladeshi,Bengali
+Malgaches,parlent malgache,2,1,0,-1,Malagasy,speak Malagasy
+Serbes,orthodoxe,2,1,0,-1,Serbs,orthodox
+habitants des Pays de la Loire,travailleur,2,1,0,-1,inhabitants of Pays de la Loire,worker
+Formosans,autochtone,2,1,0,-1,Formosans,indigenous
+Champenois-Ardennais,résistant,2,1,0,-1,Champenois-Ardennais,resistant
+Norvégien,skieur,1,1,1,-1,Norwegian,skier
+Picardie,bons agriculteurs,2,1,0,-1,Picardy,good farmers
+Malgaches,amoureux de la nature,2,1,0,-1,Malagasy,nature lovers
+personnes de Rhône-Alpes,sportive,2,1,0,-1,people from Rhône-Alpes,athletic
+Seychellois,accueillante,2,1,0,-1,Seychellois,welcoming
+Andorran,montagneux,2,1,0,-1,Andorran,mountainous
+Picto-Charentais,chasseurs-cueilleurs,2,1,0,-1,Picto-Charentais,hunter-gatherers
+Bourguignons,vigneron,2,1,0,-1,Burgundians,winemaker
+gens du Centre-Val de Loire,accueillant,2,1,0,-1,people from Centre-Val de Loire,welcoming
+habitants du Centre-Val de Loire,calme,1,1,1,-1,residents of Center-Val de Loire,calm
+Languedoc,sud,2,1,0,-1,Languedoc,south
+pays de la Loire,touristique,2,1,0,-1,Pays de la Loire,sightseeing
+pays de la Loire,cidre,2,1,0,-1,Pays de la Loire,cider
+personnes du Centre-Val de Loire,chaleureuse,2,1,0,-1,people from Center-Val de Loire,warm
+habitants du Centre-Val de Loire,travailleur,2,1,0,-1,residents of Center-Val de Loire,worker
+Hellènes,philosophe,2,1,0,-1,Hellenes,philosopher
+Guatemaliens,amérindien,2,1,0,-1,Guatemalans,American Indian
+Seychellois,élégante,2,1,0,-1,Seychellois,elegant
+Normands,pragmatique,2,1,0,-1,Normans,pragmatic
+pays de la Loire,humide,2,1,0,-1,Pays de la Loire,humid
+Gibraltariens,fiers de leur territoire,2,1,0,-1,Gibraltarians,proud of their territory
+Espagnols,ibérique,2,1,0,-1,Spaniards,Iberian
+Andorran,montagnard,1,1,1,-1,Andorran,mountaineer
+Languedoc,viticulture,2,1,0,-1,Languedoc,viticulture
+Omanais,riche,2,1,0,-1,Omani,rich
+Comtois,accueillant,2,1,0,-1,Comtois,welcoming
+Somaliens,nomade,2,1,0,-1,Somalis,nomadic
+Maldiviens,pêcheur,2,1,0,-1,Maldivians,fisherman
+habitants des Pays de la Loire,breton,2,1,0,-1,inhabitants of Pays de la Loire,Breton
+Macédonien,orthodoxe,2,1,0,-1,Macedonian,orthodox
+Gibraltariens,parlent anglais,2,1,0,-1,Gibraltarians,speak English
+Slovènes,bons en ski,2,1,0,-1,Slovenes,good at skiing
+Singapouriens,efficace,2,1,0,-1,Singaporeans,effective
+Slovènes,blond,2,1,0,-1,Slovenes,blond
+Alsaciens,bavaroise,1,1,1,-1,Alsatians,Bavarian
+Lorrains,patriote,2,1,0,-1,Lorraine,patriot
+Hellènes,mythologie,2,1,0,-1,Hellenes,mythology
+Angolais,africain,2,1,0,-1,Angolan,African
+Uruguayens,passionné,2,1,0,-1,Uruguayans,keen
+Normands,scandinave,2,1,0,-1,Normans,Scandinavian
+Languedoc,langue romane,2,1,0,-1,Languedoc,Romance language
+Seychellois,métisse,2,1,0,-1,Seychellois,mixed race
+Andorran,aiment le ski,1,1,1,-1,Andorran,love skiing
+Calaisiens,sympathique,2,1,0,-1,Calaisians,friendly
+Breton,langue celtique,2,1,0,-1,Breton,Celtic language
+pays de la Loire,ouest,2,1,0,-1,Pays de la Loire,west
+personnes du Centre-Val de Loire,accueillante,2,1,0,-1,people from Center-Val de Loire,welcoming
+pays de la Loire,la loire,2,1,0,-1,Pays de la Loire,the Loire
+Salvadoriens,religieux,2,1,0,-1,Salvadorans,religious
+Sri lankais,bouddhiste,2,1,0,-1,Sri Lankan,Buddhist
+Calaisiens,travailleur,2,1,0,-1,Calaisians,worker
+Sri lankais,végétarien,2,1,0,-1,Sri Lankan,vegetarian
+Normands,rousses,2,1,0,-1,Normans,redheads
+pays de la Loire,vignoble,2,1,0,-1,Pays de la Loire,vineyard
+Aquitains,indépendant,2,1,0,-1,Aquitaine,independent
+Limousins,riche,2,1,0,-1,Limousins,rich
+Surinamais,multiculturel,2,1,0,-1,Surinamese,multicultural
+Sud-Coréens,aiment le kimchi,2,1,0,-1,South Koreans,love kimchi
+Languedoc,région viticole,2,1,0,-1,Languedoc,Wine Region
+Champenois-Ardennais,viticulteur,2,1,0,-1,Champenois-Ardennais,winemaker
+Aquitains,chaleureux,2,1,0,-1,Aquitaine,warm
+Provençaux,méditerranéen,2,1,0,-1,Provencal,Mediterranean
+Formosans,cultivaient du riz,2,1,0,-1,Formosans,cultivated rice
+Limousins,paisible,2,1,0,-1,Limousins,peaceful
+Ghanéens,africain,2,1,0,-1,Ghanaians,African
+languedociens,gourmand,2,1,0,-1,Languedocians,gourmand
+Irlandais du Nord,catholique,2,1,0,-1,Northern Irish,Catholic
+Aquitains,gourmand,2,1,0,-1,Aquitaine,gourmand
+Biélorusses,blanc,2,1,0,-1,Belarusians,white
+Tchèque,bon en hockey sur glace,2,1,0,-1,Czech,good at ice hockey
+Comtois,montagnard,2,1,0,-1,Comtois,mountaineer
+Sud-Coréens,taekwondo,2,1,0,-1,South Koreans,taekwondo
+Maldiviens,île,2,1,0,-1,Maldivians,island
+Ougandais,africain,2,1,0,-1,Ugandan,African
+Bourgogne,riche,2,1,0,-1,Burgundy,rich
+provençaux,méridionaux,2,1,0,-1,Provençal,southern
+Surinamais,aborigène,2,1,0,-1,Surinamese,aboriginal
+Languedoc,méditerranéen,2,1,0,-1,Languedoc,Mediterranean
+Bermudiens,anglais,2,1,0,-1,Bermudians,English
+Alsaciens,mangent bien,2,1,0,-1,Alsatians,eat well
+Croates,aime la mer,2,1,0,-1,Croatians,love the sea
+Népalais,grimpeurs,1,1,1,-1,Nepalese,climbers
+pays de la Loire,breton,2,1,0,-1,Pays de la Loire,Breton
+Sud-Coréens,asiatique,2,1,0,-1,South Koreans,Asian
+Hellènes,philosophie,2,1,0,-1,Hellenes,philosophy
+pays de la Loire,fleuve,2,1,0,-1,Pays de la Loire,river
+Picardie,gastronomie,2,1,0,-1,Picardy,gastronomy
+pays de la Loire,agriculture,2,1,0,-1,Pays de la Loire,agriculture
+Bermudiens,aiment la voile,2,1,0,-1,Bermudians,love sailing
+Kosovars,jeunes,2,1,0,-1,Kosovars,youth
+Calaisiens,aiment la mer,2,1,0,-1,Calaisians,love the sea
+Nigérien,africain,2,1,0,-1,Nigerien,African
+Guyanais,chaleureux,2,1,0,-1,Guyanese,warm
+Rhônalpins,gourmand,2,1,0,-1,Rhône-Alpes,gourmand
+Alsaciens,frontalier,2,1,0,-1,Alsatians,border
+gens des Pays de la Loire,accueillant,2,1,0,-1,people from Pays de la Loire,welcoming
+Sri lankais,bon en cricket,2,1,0,-1,Sri Lankan,good at cricket
+Rhônalpins,dynamique,2,1,0,-1,Rhône-Alpes,dynamic
+pays de la Loire,riche,2,1,0,-1,Pays de la Loire,rich
+Aquitains,sportif,2,1,0,-1,Aquitaine,sporty
+Seychellois,chaleureuse,2,1,0,-1,Seychellois,warm
+Auvergnat,volcan,2,1,0,-1,Auvergne,volcano
+Surinamais,parle néerlandais,2,1,0,-1,Surinamese,speaks Dutch
+Bourgogne,bon vivant,2,1,0,-1,Burgundy,well living
+Picardie,terre agricole,2,1,0,-1,Picardy,agricultural land
+Australiens,aventurier,2,1,0,-1,Australians,adventurer
+Koweïtiens,riche,2,1,0,-1,Kuwaitis,rich
+Népalais,bons en escalade,2,1,0,-1,Nepalese,good at climbing
+Tchèque,blond,2,1,0,-1,Czech,blond
+Hongrois,aiment les paprikas,2,1,0,-1,Hungarian,love paprikas
+Provençaux,parlé,2,1,0,-1,Provencal,speak
+Limousins,placide,2,1,0,-1,Limousins,placid
+Allemands,bavarois,2,1,0,-1,Germans,Bavarian
+Franche-Comtois,gourmand,2,1,0,-1,Franche-Comtois,gourmand
+Languedoc,épris de calme,2,1,0,-1,Languedoc,loving calm
+Seychellois,belle,2,1,0,-1,Seychellois,beautiful
+Formosans,taïwanais,2,1,0,-1,Formosans,Taiwanese
+Rhônalpins,ouvert,2,1,0,-1,Rhône-Alpes,open
+Belges,diplomate,2,1,0,-1,Belgians,Diplomat
+languedociens,bons en pétanque,2,1,0,-1,Languedocians,good at pétanque
+Tchèque,fumaient beaucoup,2,1,0,-1,Czech,smoked a lot
+Surinamais,néerlandais,2,1,0,-1,Surinamese,Dutch
+Provençaux,poétique,2,1,0,-1,Provencal,poetic
+languedociens,festif,2,1,0,-1,Languedocians,festive
+Picto-Charentais,pêcheur,2,1,0,-1,Picto-Charentais,fisherman
+Auvergnat,montagnard,2,1,0,-1,Auvergne,mountaineer
+Britanniques,blanc,2,1,0,-1,British,white
+Zambien,africain,2,1,0,-1,Zambian,African
+Franche-Comtois,bons skieurs de fond,2,1,0,-1,Franche-Comtois,good cross-country skiers
+Aquitains,festif,2,1,0,-1,Aquitaine,festive
+Languedoc,vignoble,2,1,0,-1,Languedoc,vineyard
+Maldiviens,vivent sur des îles,2,1,0,-1,Maldivians,live on islands
+Seychellois,habitants des seychelles,2,1,0,-1,Seychellois,inhabitants of seychelles
+Mozambicains,africain,2,1,0,-1,Mozambicans,African
+Andorran,parle catalan,2,1,0,-1,Andorran,speaks Catalan
+Picardie,campagne,2,1,0,-1,Picardy,campaign
+Picardie,picard,2,1,0,-1,Picardy,picard
+Rhônalpins,sportif,2,1,0,-1,Rhône-Alpes,sporty
+Normands,audacieux,2,1,0,-1,Normans,bold
+Islandais,viking,1,1,1,-1,Icelandic,viking
+Maldiviens,archipel,2,1,0,-1,Maldivians,archipelago
+languedociens,méditerranéen,2,1,0,-1,Languedocians,Mediterranean
+Alsaciens,gourmand,2,1,0,-1,Alsatians,gourmand
+Bahreïnis,arabe,2,1,0,-1,Bahrainis,Arab
+Picardie,agriculture,2,1,0,-1,Picardy,agriculture
+Afghans,résistant,2,1,0,-1,Afghans,resistant
+Picardie,intelligentes,2,1,0,-1,Picardy,intelligent
+Estoniens,letton,2,1,0,-1,Estonians,Latvian
+Rhônalpins,accueillant,2,1,0,-1,Rhône-Alpes,welcoming
+Néerlandais,francs,1,1,1,-1,Dutch,francs
+Namibiens,africain,2,1,0,-1,Namibians,African
+Philippins,riz,1,1,1,-1,Filipinos,rice
+Éthiopiens,épicé,2,1,0,-1,Ethiopians,spicy
+Congolais,africain,2,1,0,-1,Congolese,African
+Languedoc,sud de la france,2,1,0,-1,Languedoc,South of France
+Franche-Comtois,travailleur,2,1,0,-1,Franche-Comtois,worker
+Namibiens,nomade,2,1,0,-1,Namibians,nomadic
+Monténégrin,montagnard,2,1,0,-1,Montenegrin,mountaineer
+Andorran,bons skieurs,2,1,0,-1,Andorran,good skiers
+Péruviens,artisanat,1,1,1,-1,Peruvians,craftsmanship
+Champenois-Ardennais,courageux,2,1,0,-1,Champenois-Ardennais,brave
+Capverdiens,musicaux,2,1,0,-1,Cape Verdeans,musical
+Bosniaques,débutant,2,1,0,-1,Bosnians,beginner
+Alsaciens,français,2,1,0,-1,Alsatians,French
+Slovènes,skieur,2,1,0,-1,Slovenes,skier
+Picardie,traditionnelle,2,1,0,-1,Picardy,traditional
+Uruguayens,football,2,1,0,-1,Uruguayans,soccer
+Guinéens,africain,2,1,0,-1,Guineans,African
+Auvergnat,mange de la truffe,2,1,0,-1,Auvergne,eat truffle
+habitants des Pays de la Loire,pêcheur,2,1,0,-1,inhabitants of Pays de la Loire,fisherman
+Espagnols,parlent espagnol,2,1,0,-1,Spaniards,speak Spanish
+Languedoc,bon vin,2,1,0,-1,Languedoc,fine wine
+Bourguignons,riche,2,1,0,-1,Burgundians,rich
+Libanais,commerçants,2,1,0,-1,Lebanese,tradespeople
+Breton,courageux,2,1,0,-1,Breton,brave
+habitants du Centre-Val de Loire,gastronome,2,1,0,-1,residents of Center-Val de Loire,gourmet
+Portugais,romantique,2,1,0,-1,Portuguese,romantic
+Népalais,montagne,2,1,0,-1,Nepalese,mountain
+Andorran,parle le catalan,2,1,0,-1,Andorran,speaks Catalan
+Néerlandais,méticuleux,2,1,0,-1,Dutch,meticulous
+Syriens,arabe,2,1,0,-1,Syrians,Arab
+Thaïlandais,asiatique,2,1,0,-1,Thai,Asian
+Franche-Comté,travailleur,2,1,0,-1,Franche-Comté,worker
+Singapouriens,urbain,2,1,0,-1,Singaporeans,urban
+Picardie,plats traditionnels,2,1,0,-1,Picardy,traditional dishes
+Philippins,infirmier,2,1,0,-1,Filipinos,male nurse
+Maliens,africain,2,1,0,-1,Malians,African
+habitants du Centre-Val de Loire,terriens,2,1,0,-1,residents of Center-Val de Loire,earthlings
+Seychellois,francophone,2,1,0,-1,Seychellois,French speaking
+Limousins,calme,2,1,0,-1,Limousins,calm
+Picardie,blé,2,1,0,-1,Picardy,wheat
+Slovaques,bons en hockey sur glace,2,1,0,-1,Slovaks,good at ice hockey
+Cambodgien,bouddhiste,2,1,0,-1,Cambodian,Buddhist
+Seychellois,jolie,2,1,0,-1,Seychellois,pretty
+Bosniaques,adore chanter,2,1,0,-1,Bosnians,loves to sing
+Rhônalpins,cyclistes,2,1,0,-1,Rhône-Alpes,cyclists
+Surinamais,plus sympathiques,2,1,0,-1,Surinamese,more friendly
+Népalais,bons grimpeurs,2,1,0,-1,Nepalese,good climbers
+Français,européen,2,1,0,-1,French,European
+Andorran,alpinistes,2,1,0,-1,Andorran,mountaineers
+Cambodgien,khmer,2,1,0,-1,Cambodian,Khmer
+Brunéiens,riche,2,1,0,-1,Bruneians,rich
+Irlandais du Nord,irlandais,2,1,0,-1,Northern Irish,Irish
+languedociens,épicurien,2,1,0,-1,Languedocians,epicurean
+Franche-Comté,montagne,2,1,0,-1,Franche-Comté,mountain
+Bosniaques,bosniaque,2,1,0,-1,Bosnians,Bosnian
+Seychellois,archipel,2,1,0,-1,Seychellois,archipelago
+Alsaciens,blond,2,1,0,-1,Alsatians,blond
+gens de Midi-Pyrénées,méridionaux,2,1,0,-1,people of Midi-Pyrénées,southern
+Picto-Charentais,gentil,2,1,0,-1,Picto-Charentais,kind
+Calaisiens,aiment les moules,2,1,0,-1,Calaisians,love mussels
+Hongrois,aiment le paprika,2,1,0,-1,Hungarian,love paprika
+Picto-Charentais,sympathique,2,1,0,-1,Picto-Charentais,friendly
+Aquitains,accueillant,2,1,0,-1,Aquitaine,welcoming
+Népalais,hindou,2,1,0,-1,Nepalese,Hindu
+Corses,étaient des marins,2,1,0,-1,Corsica,were sailors
+pays de la Loire,océan atlantique,2,1,0,-1,Pays de la Loire,Atlantic Ocean
+habitants du Centre-Val de Loire,gourmand,2,1,0,-1,residents of Center-Val de Loire,gourmand
+Coréens,moins libres,2,1,0,-1,Koreans,less free
+pays de la Loire,gâteaux,2,1,0,-1,Pays de la Loire,cakes
+Champenois-Ardennais,bons en cyclisme,2,1,0,-1,Champenois-Ardennais,good at cycling
+Champenois-Ardennais,joviaux,2,1,0,-1,Champenois-Ardennais,jovial
+Champenois-Ardennais,cultivateurs,2,1,0,-1,Champenois-Ardennais,cultivators
+Normands,bons marins,2,1,0,-1,Normans,good sailors
+Tanzanien,parle swahili,2,1,0,-1,Tanzanian,speaks Swahili
+Languedoc,région,2,1,0,-1,Languedoc,region
+Argentins,élégant,2,1,0,-1,Argentinians,elegant
+Languedoc,vigneron,2,1,0,-1,Languedoc,winemaker
+Bahreïnis,riche,2,1,0,-1,Bahrainis,rich
+Comtois,épris de paix,2,1,0,-1,Comtois,peace-loving
+Néerlandais,direct,1,1,1,-1,Dutch,direct
+Bourgogne,vin rouge,2,1,0,-1,Burgundy,Red wine
+Royaume-Uni,royal,2,1,0,-1,United Kingdom,royal
+languedociens,méridionaux,2,1,0,-1,Languedocians,southern
+Franciliens,urbain,2,1,0,-1,Francilians,urban
+Hong Kong,cosmopolite,2,1,0,-1,hong kong,cosmopolitan
+Guernesey,britannique,2,1,0,-1,Guernsey,British
+Singapour,moderne,2,1,0,-1,Singapore,modern
+Hong Kong,chinois,2,1,0,-1,hong kong,Chinese
+Zanzibar,paradisiaque,2,1,0,-1,Zanzibar,heavenly
+Gibraltar,britannique,2,1,0,-1,Gibraltar,British
+Mongols,nomade,2,1,0,-1,Mongols,nomadic
+Pays de la Loire,atlantique,2,1,0,-1,Pays de la Loire,Atlantic
+Zanzibar,tropical,2,1,0,-1,Zanzibar,tropical
+Mongol,cavalier,1,1,1,-1,Mongolian,rider
+Franciliens,citadin,2,1,0,-1,Francilians,townsman
+Picardie,rurale,2,1,0,-1,Picardy,rural
+Zanzibar,île,2,1,0,-1,Zanzibar,island
+Bourgogne,viticole,2,1,0,-1,Burgundy,winemaking
+Bourgogne,vin,2,1,0,-1,Burgundy,wine
+Christmas Island,désertique,2,1,0,-1,Christmas Island,desert
+Criméens,ukrainien,1,1,1,-1,Crimeans,Ukrainian
+Cocos Island,paradisiaque,1,1,1,-1,Cocos Island,heavenly

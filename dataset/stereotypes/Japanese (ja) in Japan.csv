@@ -1,0 +1,883 @@
+identity,attribute,non_stereotype,stereotype,unsure,mean_offensive_score,translated_identity,translated_attribute_list
+パレスチナ人,テロリスト,1,2,0,4,Palestinian,terrorist
+イラク人,テロリスト,0,3,0,4,Iraqi,terrorist
+ルワンダ人,ルワンダ虐殺,0,3,0,4,Rwandans,Rwanda genocide
+イラン人,テロリスト,1,2,0,4,Iranian,terrorist
+エルサルバドル人,犯罪者,2,1,0,4,Salvadoran,criminal
+アルバニア人,犯罪者,2,1,0,4,Albanian,criminal
+パキスタン人,テロリスト,2,1,0,4,pakistani,terrorist
+シリア人,テロリスト,1,2,0,4,Syrian,terrorist
+コロンビア人,麻薬王,1,2,0,3.666666667,Colombian,drug lord
+ロシア人,マフィア,1,2,0,3.666666667,Russian,mafia
+コロンビア人,麻薬密売人,1,2,0,3.666666667,Colombian,drug trafficker
+アルバニア人,犯罪,2,1,0,3.666666667,Albanian,crime
+アルバニア人,マフィア,1,2,0,3.666666667,Albanian,mafia
+コロンビア人,麻薬の運び屋,1,2,0,3.666666667,Colombian,drug courier
+セルビア人,戦争犯罪人,2,1,0,3.666666667,Serbian,war criminal
+イタリア人,マフィア,2,1,0,3.666666667,Italian,mafia
+北朝鮮人,暴君,1,2,0,3.333333333,North Korean,tyrant
+コロンビア人,麻薬,1,2,0,3.333333333,Colombian,drug
+コロンビア人,麻薬の売人,1,2,0,3.333333333,Colombian,drug dealer
+バミューダ人,海賊,2,1,0,3.333333333,Bermudian,pirate
+ポルトガル人,植民地主義者,2,1,0,3.333333333,Portuguese,colonialist
+ナイジェリア人,詐欺,2,1,0,3.333333333,Nigerian,scam
+北朝鮮人,抑圧者,1,2,0,3,North Korean,oppressor
+オランダ人,マリファナ,1,2,0,3,Dutch,marijuana
+モンゴル人,征服者,2,1,0,3,Mongolian,conqueror
+北朝鮮人,狂気,1,2,0,3,North Korean,Insanity
+イギリス人,支配者,2,1,0,3,Englishman,Ruler
+セルビア人,攻撃的,2,1,0,3,Serbian,Aggressive
+イスラエル人,攻撃的,0,3,0,3,Israeli,Aggressive
+北朝鮮人,軍国主義,0,3,0,2.666666667,North Korean,Militarism
+ロシア人,アルコール中毒,1,2,0,2.666666667,Russian,alcohol addiction
+北朝鮮人,権力主義,0,3,0,2.666666667,North Korean,authoritarianism
+北朝鮮人,威圧的な人,0,3,0,2.666666667,North Korean,an intimidating person
+北朝鮮人,抑圧的,0,3,0,2.666666667,North Korean,oppressive
+モンゴル人,侵略的,2,1,0,2.666666667,Mongolian,invasive
+ロシア人,アルコール中毒者,2,1,0,2.666666667,Russian,alcoholic
+北朝鮮人,独裁主義,0,3,0,2.666666667,North Korean,authoritarianism
+北朝鮮人,独裁的,1,2,0,2.666666667,North Korean,dictatorial
+北朝鮮人,野蛮な,1,2,0,2.666666667,North Korean,Barbaric
+南スーダン人,戦闘的,0,3,0,2.666666667,south sudanese,combative
+パレスチナ人,闘争的,1,2,0,2.666666667,Palestinian,combative
+イギリス人,冷淡,1,2,0,2.666666667,Englishman,callousness
+北朝鮮人,威圧的,0,3,0,2.666666667,North Korean,intimidating
+ロシア人,キラー,2,1,0,2.333333333,Russian,killer
+ロシア人,冷たくて無情,0,3,0,2.333333333,Russian,cold and heartless
+関西地方の人,ケチ,0,3,0,2.333333333,People from the Kansai region,Stingy
+北朝鮮人,権威的,0,3,0,2.333333333,North Korean,authoritative
+モンゴル人,野蛮,2,1,0,2.333333333,Mongolian,barbarism
+アメリカ人,傲慢,2,1,0,2.333333333,American,arrogance
+アメリカ人,自己中心的,0,3,0,2.333333333,American,Self-centered
+シリア人,戦争,0,3,0,2.333333333,Syrian,war
+北朝鮮人,威圧的な,0,3,0,2.333333333,North Korean,intimidating
+北朝鮮人,権力主義者,0,3,0,2.333333333,North Korean,authoritarian
+アメリカ人,自信過剰,1,2,0,2.333333333,American,overconfidence
+スコットランド人,ケチ,2,1,0,2.333333333,Scottish,Stingy
+パレスチナ人,反イスラエル,1,2,0,2.333333333,Palestinian,anti israel
+パレスチナ人,反抗的,1,2,0,2.333333333,Palestinian,Defiant
+北朝鮮人,権威主義的,0,3,0,2.333333333,North Korean,authoritarian
+北朝鮮人,権威主義者,0,3,0,2.333333333,North Korean,authoritarian
+関西人,ケチ,0,3,0,2.333333333,Kansai people,Stingy
+南スーダン人,戦争,0,3,0,2.333333333,south sudanese,war
+北朝鮮人,権威主義,0,3,0,2.333333333,North Korean,authoritarianism
+中国人,利己主義者,1,2,0,2,Chinese,egoist
+ナイジェリア人,騒々しい,2,1,0,2,Nigerian,Noisy
+北朝鮮人,頑固な人,1,2,0,2,North Korean,stubborn person
+北朝鮮人,キム・ジョンウンを崇拝する,0,3,0,2,North Korean,worship kim jong un
+北朝鮮人,強制,0,3,0,2,North Korean,compulsion
+フランス人,鼻持ちならない,2,1,0,2,French,I don't have a good nose
+九州人,頑固,1,2,0,1.666666667,Kyushu people,stubborn
+スコットランド人,頑固,2,1,0,1.666666667,Scottish,stubborn
+北朝鮮人,反米的,0,3,0,1.666666667,North Korean,anti-American
+東北地方の人,気難し,2,1,0,1.666666667,People from the Tohoku region,fastidious
+デンマーク人,冷たい,2,1,0,1.666666667,Danish,cold
+北朝鮮人,軍事大好き,0,3,0,1.666666667,North Korean,I love military
+ロシア人,強引,1,2,0,1.666666667,Russian,Forcible
+北海道出身,頑固,2,1,0,1.666666667,Born in Hokkaido,stubborn
+コロンビア人,コカイン,1,2,0,1.666666667,Colombian,cocaine
+カメルーン人,あまり洗練されていない,2,1,0,1.666666667,Cameroonian,not very sophisticated
+東北地方の人,頑固,2,1,0,1.666666667,People from the Tohoku region,stubborn
+イギリス人,冷たい,1,2,0,1.666666667,Englishman,cold
+フランス人,気取っている,0,3,0,1.666666667,French,pretentious
+アメリカ人,肥満,0,3,0,1.666666667,American,obesity
+フランス人,自惚れ,1,2,0,1.666666667,French,conceit
+南アフリカ人,アパルトヘイト,1,2,0,1.666666667,South African,apartheid
+中部地方の人々,田舎者,2,1,0,1.333333333,People of the Chubu region,Hick
+ウェールズ人,酔っ払い,2,1,0,1.333333333,welsh,drunk
+中部地方の人,田舎者,1,2,0,1.333333333,People from the Chubu region,Hick
+ロシア人,冷酷,1,2,0,1.333333333,Russian,ruthless
+北朝鮮人,抑圧された人,0,3,0,1.333333333,North Korean,the oppressed
+四国の人,田舎者,1,2,0,1.333333333,People from Shikoku,Hick
+九州人,遅れている,2,1,0,1.333333333,Kyushu people,Running late
+北朝鮮人,抑圧,0,3,0,1.333333333,North Korean,suppression
+北朝鮮人,国粋主義者,1,2,0,1.333333333,North Korean,nationalist
+アイルランド人,酔っ払い,0,3,0,1.333333333,Irish,drunk
+フランス人,気取る,0,3,0,1.333333333,French,pretentious
+関西人,おばちゃん,1,2,0,1.333333333,Kansai people,Auntie
+中国人,病気,2,1,0,1.333333333,Chinese,disease
+アメリカ人,太っている,0,3,0,1.333333333,American,Are fat
+エチオピア人,栄養失調,2,1,0,1.333333333,Ethiopian,malnutrition
+北朝鮮人,国家主義,0,3,0,1.333333333,North Korean,nationalism
+北朝鮮人,偏見,1,2,0,1.333333333,North Korean,prejudice
+北朝鮮人,軍隊を愛する,0,3,0,1.333333333,North Korean,love the army
+北朝鮮人,反動的,1,2,0,1.333333333,North Korean,reactionary
+北朝鮮人,抑圧されている,0,3,0,1,North Korean,being oppressed
+北朝鮮人,強烈,2,1,0,1,North Korean,strong
+韓国人,整形,1,2,0,1,Korean,plastic surgery
+南スーダン人,内戦,1,2,0,1,south sudanese,civil war
+北朝鮮人,国家主義者,0,3,0,1,North Korean,nationalist
+中国人,食い意地が張っている,2,1,0,1,Chinese,I'm greedy
+北朝鮮人,閉鎖的,0,3,0,1,North Korean,closed
+コソボ人,難民,1,2,0,1,Kosovars,refugees
+関東地方の人,せっかちな人,2,1,0,1,People from the Kanto region,impatient person
+南スーダン人,難民,0,3,0,1,south sudanese,refugees
+北朝鮮人,孤立的,1,2,0,1,North Korean,isolated
+アメリカ人,大雑把,0,3,0,1,American,Roughly
+北朝鮮人,金正恩を崇拝,0,3,0,1,North Korean,worship Kim Jong-un
+北朝鮮人,強硬,1,2,0,1,North Korean,tough
+北朝鮮人,恐怖,1,2,0,1,North Korean,fear
+パレスチナ人,抵抗,0,3,0,0.6666666667,Palestinian,resistance
+アルメニア人,犠牲者,2,1,0,0.6666666667,Armenian,victim
+イギリス人,皮肉,1,2,0,0.6666666667,Englishman,irony
+関東地方の人,せっかち,2,1,0,0.3333333333,People from the Kanto region,impatient
+セルビア人,民族主義者,1,2,0,0.3333333333,Serbian,nationalist
+アイルランド人,飲酒,0,3,0,0.3333333333,Irish,Drinking
+北朝鮮人,権力,0,3,0,0.3333333333,North Korean,power
+北朝鮮人,厳格,0,3,0,0.3333333333,North Korean,strict
+関西人,せっかち,0,3,0,0.3333333333,Kansai people,impatient
+北朝鮮人,軍事力,0,3,0,0.3333333333,North Korean,military power
+アイルランド人,酒飲み,0,3,0,0.3333333333,Irish,drunkard
+関西人,お喋り,0,3,0,0.3333333333,Kansai people,chat
+中部地方の人,内向的,2,1,0,0.3333333333,People from the Chubu region,introvert
+関東人,尊大,2,1,0,0.3333333333,Kanto people,arrogance
+ドイツ人,厳格,0,3,0,0.3333333333,German,strict
+関西地方の人,おしゃべり,0,3,0,0.3333333333,People from the Kansai region,chatting
+セルビア人,民族主義,2,1,0,0.3333333333,Serbian,nationalism
+北朝鮮人,兵士,0,3,0,0.3333333333,North Korean,soldier
+中国地方の人,のんびりしている人,2,1,0,0.3333333333,people from the Chugoku region,a relaxing person
+ロシア人,ボリシェビキ,1,2,0,0,Russian,bolshevik
+マルタ人,カジノ,2,1,0,0,Maltese,casino
+スリランカ人,茶色の肌,1,2,0,0,Sri Lankan,brown skin
+北朝鮮人,軍人,0,3,0,0,North Korean,military man
+中部地方の人々,田舎,2,1,0,0,People of the Chubu region,countryside
+カメルーン人,気分屋,2,1,0,0,Cameroonian,Moody person
+東北地方の人,田舎的,0,3,0,0,People from the Tohoku region,rustic
+九州の人,保守的,2,1,0,-0.3333333333,People from Kyushu,conservative
+中部地方出身,保守的,2,1,0,-0.3333333333,From the Chubu region,conservative
+中国地方の人,素朴,1,2,0,-0.3333333333,people from the Chugoku region,simple
+東北地方の人,素朴,1,2,0,-0.3333333333,People from the Tohoku region,simple
+東北地方の人,のんびりしている,1,2,0,-0.3333333333,People from the Tohoku region,Have relaxed
+ロシア人,飲酒家,1,2,0,-0.3333333333,Russian,drinker
+北朝鮮人,強固,1,2,0,-0.3333333333,North Korean,strong
+北海道出身,素朴,0,3,0,-0.3333333333,Born in Hokkaido,simple
+北朝鮮人,全体主義,1,2,0,-0.3333333333,North Korean,totalitarianism
+北海道出身,気候の変化に敏感,2,1,0,-0.3333333333,Born in Hokkaido,sensitive to climate change
+アイルランド人,飲酒家,0,3,0,-0.3333333333,Irish,drinker
+アイルランド人,酒好き,0,3,0,-0.3333333333,Irish,lover of alcohol
+ロシア人,お酒が大好き,0,3,0,-0.3333333333,Russian,I love alcohol
+キューバ人,共産主義者,1,2,0,-0.3333333333,Cuban,Communist
+関西人,楽観的,0,3,0,-0.3333333333,Kansai people,Optimistic
+中部地方の人,農民,2,1,0,-0.3333333333,People from the Chubu region,farmers
+北朝鮮人,共産主義者,1,2,0,-0.3333333333,North Korean,Communist
+北朝鮮人,威厳,1,2,0,-0.3333333333,North Korean,dignity
+四国の人,素朴,2,1,0,-0.3333333333,People from Shikoku,simple
+北海道人,アイヌ,0,3,0,-0.3333333333,Hokkaido people,Ainu
+北朝鮮人,共産主義,1,2,0,-0.3333333333,North Korean,Communism
+北海道の人,保守的,2,1,0,-0.3333333333,people of Hokkaido,conservative
+北朝鮮人,従順,0,3,0,-0.3333333333,North Korean,obedience
+東北地方の人々,素朴,1,2,0,-0.3333333333,People of the Tohoku region,simple
+ロシア人,強い,1,2,0,-0.3333333333,Russian,strong
+中国地方の人,保守的,2,1,0,-0.3333333333,people from the Chugoku region,conservative
+中国地方の人々,農民,2,1,0,-0.3333333333,people in the Chugoku region,farmers
+北朝鮮人,政治的,2,1,0,-0.3333333333,North Korean,Political
+北海道出身者,アイヌ,1,2,0,-0.3333333333,People from Hokkaido,Ainu
+関東地方の人々,無口,2,1,0,-0.3333333333,People of the Kanto region,taciturn
+ロシア人,強力な,0,3,0,-0.3333333333,Russian,powerful
+東北地方の人,のんびり,0,3,0,-0.3333333333,People from the Tohoku region,leisurely
+四国の人,保守的,2,1,0,-0.3333333333,People from Shikoku,conservative
+北朝鮮人,秘密主義,2,1,0,-0.3333333333,North Korean,Secrecy
+北海道の人,素朴,0,3,0,-0.3333333333,people of Hokkaido,simple
+四国の人,のんびり,1,2,0,-0.3333333333,People from Shikoku,leisurely
+北海道の人,のんびり,0,3,0,-0.3333333333,people of Hokkaido,leisurely
+中部地方の人,農家,2,1,0,-0.3333333333,People from the Chubu region,farmer
+中部地方の人,農夫,2,1,0,-0.3333333333,People from the Chubu region,farmer
+関東地方の人,無口,2,1,0,-0.3333333333,People from the Kanto region,taciturn
+東北地方の人々,被災者,0,3,0,-0.3333333333,People of the Tohoku region,disaster victim
+ロシア人,飲酒が好き,0,3,0,-0.3333333333,Russian,I like drinking
+中国地方の人,のんびり,2,1,0,-0.3333333333,people from the Chugoku region,leisurely
+東北地方の人々,素朴な,1,2,0,-0.3333333333,People of the Tohoku region,Rustic
+中国地方の人々,保守的,2,1,0,-0.3333333333,people in the Chugoku region,conservative
+東北地方の人,保守的,2,1,0,-0.3333333333,People from the Tohoku region,conservative
+ドイツ人,組織的,2,1,0,-0.3333333333,German,organizational
+中部地方の人々,農民,2,1,0,-0.3333333333,People of the Chubu region,farmers
+中部地方出身,農業従事者,2,1,0,-0.3333333333,From the Chubu region,agricultural worker
+イスラエル人,議論好き,2,1,0,-0.3333333333,Israeli,I like discussions
+フィンランド人,静かな,2,1,0,-1,Finnish,quiet
+四国出身,気さくな,2,1,0,-1,Originally from Shikoku,friendly
+関西人,関西弁が得意,2,1,0,-1,Kansai people,Good at Kansai dialect
+キューバ人,革命的,2,1,0,-1,Cuban,Revolutionary
+東北地方の人,気さくな人,2,1,0,-1,People from the Tohoku region,friendly person
+台湾人,中国人,2,1,0,-1,Taiwanese,Chinese
+関東地方の人,真面目,2,1,0,-1,People from the Kanto region,serious
+四国出身,気さく,2,1,0,-1,Originally from Shikoku,friendly
+ヘレネス人,知的な,2,1,0,-1,Hellenes,intellectual
+北海道出身,寿司好き,2,1,0,-1,Born in Hokkaido,I like sushi
+ロシア人,雪が大好き,2,1,0,-1,Russian,I love snow
+関東地方の人,几帳面な人,2,1,0,-1,People from the Kanto region,methodical person
+グアテマラ人,マヤ人,2,1,0,-1,Guatemalan,mayans
+北海道の人,誠実,2,1,0,-1,people of Hokkaido,sincerity
+東北地方の人,勤勉な人,2,1,0,-1,People from the Tohoku region,hardworking person
+関東地方の人,東京人,2,1,0,-1,People from the Kanto region,Tokyo people
+ヘレネス人,哲学が好き,2,1,0,-1,Hellenes,I like philosophy
+関東地方の人々,関西地方の人々より温厚,2,1,0,-1,People of the Kanto region,They are warmer than people in the Kansai region.
+北海道出身,寒い,2,1,0,-1,Born in Hokkaido,cold
+関西人,おおらか,2,1,0,-1,Kansai people,Easy-going
+東北地方の人,真面目,2,1,0,-1,People from the Tohoku region,serious
+モロッコ人,イスラム教徒,1,2,0,-1,Moroccan,Muslim
+スロベニア人,スキーヤー,2,1,0,-1,Slovenian,skier
+セネガル人,サッカー,2,1,0,-1,Senegalese,soccer
+カーボベルデ人,ポルトガル語,2,1,0,-1,Cape Verdeans,Portuguese
+モーリタニア人,ラクダを飼う,2,1,0,-1,Mauritanian,keep a camel
+関西地方の人,関西弁を話します,2,1,0,-1,People from the Kansai region,I speak Kansai dialect
+九州人,人情味,2,1,0,-1,Kyushu people,Humanity
+北海道の人,豪快,2,1,0,-1,people of Hokkaido,daring
+クロアチア人,スポーツマン,2,1,0,-1,Croatian,Sportsman
+関東地方の人,まじめ,2,1,0,-1,People from the Kanto region,Serious
+北海道の人,冷静,2,1,0,-1,people of Hokkaido,calm
+フィンランド人,冷静,2,1,0,-1,Finnish,calm
+関西人,豪快,2,1,0,-1,Kansai people,daring
+エジプト人,ピラミッドを建てた,2,1,0,-1,Egyptian,built a pyramid
+フィンランド人,おとなしい,2,1,0,-1,Finnish,Quiet
+南アフリカ人,アフリカ系,2,1,0,-1,South African,african
+ネパール人,山が大好き,2,1,0,-1,Nepalese,i love mountains
+スイス人,慎重,2,1,0,-1,Swiss,cautious
+キプロス人,キプロス料理,2,1,0,-1,Cypriot,Cypriot cuisine
+モーリタニア人,砂漠,2,1,0,-1,Mauritanian,desert
+北海道の人,勇敢,2,1,0,-1,people of Hokkaido,brave
+オランダ人,平和愛好家,2,1,0,-1,Dutch,peace lover
+北海道の人,勤勉な人,2,1,0,-1,people of Hokkaido,hardworking person
+イラン人,イスラム教徒,2,1,0,-1,Iranian,Muslim
+東北地方の人々,忍耐強い,2,1,0,-1,People of the Tohoku region,Patient
+北海道の人,気候が寒い,2,1,0,-1,people of Hokkaido,the climate is cold
+ネパール人,登山が得意,2,1,0,-1,Nepalese,good at mountain climbing
+北海道の人,控えめ,2,1,0,-1,people of Hokkaido,moderate
+スコットランド人,スコットランド語を話す,2,1,0,-1,Scottish,speak scottish
+台湾人,民主主義を愛する,2,1,0,-1,Taiwanese,love democracy
+関東地方の人々,進歩性,2,1,0,-1,People of the Kanto region,inventive step
+四国の人,おもてなし,2,1,0,-1,People from Shikoku,Hospitality
+関東地方の人,礼儀正しい人,2,1,0,-1,People from the Kanto region,polite person
+オランダ人,実用的,2,1,0,-1,Dutch,practical
+フィンランド人,控えめ,2,1,0,-1,Finnish,moderate
+関東地方の人々,勤勉,2,1,0,-1,People of the Kanto region,diligence
+北海道の人,自制心のある人,2,1,0,-1,people of Hokkaido,self-controlled person
+タイ人,礼儀正しい,2,1,0,-1,Thai,polite
+中国人,器用,2,1,0,-1,Chinese,dexterity
+四国の人,穏やかな性格の人,2,1,0,-1,People from Shikoku,person with a calm personality
+エジプト人,エジプト料理,2,1,0,-1,Egyptian,egyptian food
+ノルウェー人,ハンマー,2,1,0,-1,Norwegian,hammer
+北海道の人,寒いです,2,1,0,-1,people of Hokkaido,It's cold
+九州出身,日系人,2,1,0,-1,From Kyushu,Japanese-American
+北海道の人,温かい,2,1,0,-1,people of Hokkaido,warm
+東北地方の人,おおらか,2,1,0,-1,People from the Tohoku region,Easy-going
+東北地方の人,気前がいい,2,1,0,-1,People from the Tohoku region,generous
+北海道出身,勤勉,2,1,0,-1,Born in Hokkaido,diligence
+北海道出身,がんばり屋,2,1,0,-1,Born in Hokkaido,hard worker
+四国の人,気取らない,2,1,0,-1,People from Shikoku,unpretentious
+北朝鮮人,意志が強い,2,1,0,-1,North Korean,strong will
+リトアニア人,バルト諸国,2,1,0,-1,Lithuanian,baltic countries
+北海道の人,寒さ,2,1,0,-1,people of Hokkaido,Coldness
+北海道の人,温かい人,2,1,0,-1,people of Hokkaido,warm person
+台湾人,民主主義者,2,1,0,-1,Taiwanese,democrat
+ネパール人,ヒンズー教徒,2,1,0,-1,Nepalese,hindu
+赤道ギニア人,熱帯気候,2,1,0,-1,Equatorial Guineans,tropical climate
+フィンランド人,寡黙,2,1,0,-1,Finnish,reticence
+ギリシャ人,知性,2,1,0,-1,Greek,intelligence
+九州の人,陽気,2,1,0,-1,People from Kyushu,cheerful
+北海道の人,親切な人,2,1,0,-1,people of Hokkaido,kind person
+ヘレネス人,知恵,2,1,0,-1,Hellenes,wisdom
+オランダ人,率直,2,1,0,-1,Dutch,frankness
+九州の人々,親切,2,1,0,-1,people of kyushu,Kindness
+エルサルバドル人,ヒスパニック,2,1,0,-1,Salvadoran,hispanic
+エジプト人,謎めいた,2,1,0,-1,Egyptian,mysterious
+四国の人,豪放,2,1,0,-1,People from Shikoku,extravagant
+東北地方の人,自制心,2,1,0,-1,People from the Tohoku region,self control
+台湾人,先進,2,1,0,-1,Taiwanese,advanced
+北海道の人,雪が降ります,2,1,0,-1,people of Hokkaido,it's snowing
+モーリタニア人,ラクダの飼育,2,1,0,-1,Mauritanian,camel breeding
+リビア人,砂漠,2,1,0,-1,Libyan,desert
+四国出身,おっとり,2,1,0,-1,Originally from Shikoku,Easygoing
+デンマーク人,冷静,2,1,0,-1,Danish,calm
+エストニア人,静か,2,1,0,-1,Estonian,quiet
+ラトビア人,冷静,2,1,0,-1,Latvian,calm
+ウェールズ人,ウェールズ語を話す,2,1,0,-1,welsh,speak welsh
+四国の人々,親切,2,1,0,-1,People of Shikoku,Kindness
+シンガポール人,効率的,2,1,0,-1,singaporean,Efficient
+タイ人,タイ料理,2,1,0,-1,Thai,Thai food
+エジプト人,ピラミッド,0,3,0,-1,Egyptian,pyramid
+中国人,急速,2,1,0,-1,Chinese,rapid
+中国地方の人,穏やか,2,1,0,-1,people from the Chugoku region,Calm
+四国出身,親しみやすい,2,1,0,-1,Originally from Shikoku,Approachable
+ロシア人,豪快,2,1,0,-1,Russian,daring
+リビア人,砂漠の住民,2,1,0,-1,Libyan,desert dwellers
+インドネシア人,実務家,2,1,0,-1,Indonesian,practitioner
+チェコ人,ユーモア,2,1,0,-1,Czech,humor
+ヘレネス人,知的,2,1,0,-1,Hellenes,intellectual
+四国の人,優しい人,2,1,0,-1,People from Shikoku,kind person
+四国出身,四国弁を話す,2,1,0,-1,Originally from Shikoku,speak Shikoku dialect
+中国地方,温暖,2,1,0,-1,Chugoku region,warm
+四国の人,平和愛好家,2,1,0,-1,People from Shikoku,peace lover
+ジブラルタル人,英語,2,1,0,-1,Gibraltarians,English
+北海道の人,北方民族,2,1,0,-1,people of Hokkaido,northern people
+フィンランド人,真面目,2,1,0,-1,Finnish,serious
+関東地方の人,勤勉,2,1,0,-1,People from the Kanto region,diligence
+セルビア人,情熱的,2,1,0,-1,Serbian,passionate
+北海道の人,真面目,2,1,0,-1,people of Hokkaido,serious
+関西地方の人,実用的,2,1,0,-1,People from the Kansai region,practical
+ヘレネス人,文化,2,1,0,-1,Hellenes,culture
+四国出身,親切,2,1,0,-1,Originally from Shikoku,Kindness
+ヨルダン人,アラブ人,2,1,0,-1,Jordanian,Arab
+スコットランド人,節約家,2,1,0,-1,Scottish,saver
+東北地方の人,慎重,2,1,0,-1,People from the Tohoku region,cautious
+ヘレネス人,芸術を愛する,2,1,0,-1,Hellenes,love art
+九州の人,おおらか,2,1,0,-1,People from Kyushu,Easy-going
+中国地方の人,温厚,2,1,0,-1,people from the Chugoku region,Gentle
+中国地方の人,少ない,2,1,0,-1,people from the Chugoku region,few
+中部地方出身,家族思い,2,1,0,-1,From the Chubu region,family-oriented
+ヘレネス人,知性,2,1,0,-1,Hellenes,intelligence
+四国の人,優しい,2,1,0,-1,People from Shikoku,kind
+中国人,勤勉,2,1,0,-1,Chinese,diligence
+関東地方の人,慎重,2,1,0,-1,People from the Kanto region,cautious
+エジプト人,神秘的,2,1,0,-1,Egyptian,Mysterious
+東北地方の人,気候の変化に強い人,2,1,0,-1,People from the Tohoku region,People who are resistant to climate change
+ロシア人,コサック,2,1,0,-1,Russian,cossack
+パナマ人,パナマ運河,2,1,0,-1,Panamanian,panama canal
+英語,洗練された,2,1,0,-1,English,Sophisticated
+ロシア人,頑丈,2,1,0,-1,Russian,sturdy
+デンマーク人,民主的,2,1,0,-1,Danish,Democratic
+モンゴル人,強力,2,1,0,-1,Mongolian,powerful
+九州の人,勇敢,2,1,0,-1,People from Kyushu,brave
+フェロー人,デンマーク語に似ている,2,1,0,-1,Faroese,similar to danish
+北朝鮮人,勤勉な人,2,1,0,-1,North Korean,hardworking person
+台湾人,勤勉,2,1,0,-1,Taiwanese,diligence
+ヘレネス人,哲学,2,1,0,-1,Hellenes,philosophy
+イギリス人,実用的,2,1,0,-1,Englishman,practical
+スロバキア人,美人,2,1,0,-1,Slovak,beautiful woman
+ウェールズ人,歌う,2,1,0,-1,welsh,sing
+北海道の人,優しい,2,1,0,-1,people of Hokkaido,kind
+九州の人,博多弁,2,1,0,-1,People from Kyushu,Hakata dialect
+ヘレネス人,文化的,2,1,0,-1,Hellenes,Cultural
+関東地方の人,早口,2,1,0,-1,People from the Kanto region,fast talking
+北海道出身,サケ好き,2,1,0,-1,Born in Hokkaido,I like salmon
+コスタリカ人,平和主義者,2,1,0,-1,Costa Rican,pacifist
+北海道出身,真面目,2,1,0,-1,Born in Hokkaido,serious
+フェロー人,デンマーク語,2,1,0,-1,Faroese,Danish
+ベルギー人,中立,2,1,0,-1,Belgian,neutral
+スロベニア人,スキー,2,1,0,-1,Slovenian,skiing
+ヘレネス人,哲学的,2,1,0,-1,Hellenes,Philosophical
+英語,国際語,2,1,0,-1,English,international language
+四国の人,愛想がいい,2,1,0,-1,People from Shikoku,amiable
+スイス人,冷静,2,1,0,-1,Swiss,calm
+四国の人,気楽,2,1,0,-1,People from Shikoku,Easygoing
+北海道出身,北国育ち,2,1,0,-1,Born in Hokkaido,Raised in the north
+アメリカ人,実践的,2,1,0,-1,American,Practical
+モーリタニア人,ラクダ,2,1,0,-1,Mauritanian,camel
+北海道の人,気候が厳しい,2,1,0,-1,people of Hokkaido,harsh climate
+キプロス人,キリスト教徒,2,1,0,-1,Cypriot,christian
+四国出身,お遍路,2,1,0,-1,Originally from Shikoku,Pilgrimage
+中国人,広く使われている,2,1,0,-1,Chinese,widely used
+オランダ人,知識人,2,1,0,-1,Dutch,intellectual
+ネパール人,山岳地帯,2,1,0,-1,Nepalese,mountainous area
+オランダ人,倹約,2,1,0,-1,Dutch,thrift
+マンクス,猫好き,2,1,0,-1,Manx,I like cats
+中国人,コミュニケーション,2,1,0,-1,Chinese,communication
+関東地方の人,実用的,2,1,0,-1,People from the Kanto region,practical
+北海道出身,気候が厳しい,2,1,0,-1,Born in Hokkaido,harsh climate
+四国の人,気立てがやさしい,2,1,0,-1,People from Shikoku,Kind-hearted
+東北地方の人,平和愛好家,2,1,0,-1,People from the Tohoku region,peace lover
+赤道ギニア人,アフリカ人,2,1,0,-1,Equatorial Guineans,African
+スロバキア人,スキー,2,1,0,-1,Slovak,skiing
+北海道出身,がまん強い,2,1,0,-1,Born in Hokkaido,Strong patience
+スロバキア人,スロバキア語,2,1,0,-1,Slovak,Slovak
+マレーシア人,マレー語,2,1,0,-1,Malaysian,Malay
+北海道出身者,寒冷,2,1,0,-1,People from Hokkaido,cold
+エストニア人,コンピューター,2,1,0,-1,Estonian,computer
+四国の人,愛想が良い,2,1,0,-1,People from Shikoku,amiable
+キューバ人,ダンス,2,1,0,-1,Cuban,dance
+ナミビア人,冒険好き,2,1,0,-1,Namibian,adventurous
+コートジボワール人,サッカー選手,2,1,0,-1,Ivorian,soccer player
+ナイジェリア人,アフリカの巨人,2,1,0,-1,Nigerian,african giant
+フェロー人,漁師,2,1,0,-1,Faroese,fisherman
+ガーナ人,痩せ型,2,1,0,-1,Ghanaian,skinny
+ガボン人,アフリカ人,2,1,0,-1,Gabonese,African
+アイルランド人,話好き,2,1,0,-1,Irish,I like to talk
+東北地方の人,がんばり屋,2,1,0,-1,People from the Tohoku region,hard worker
+ジブラルタル人,英国人,2,1,0,-1,Gibraltarians,British
+東北地方の人,平和を愛する人,2,1,0,-1,People from the Tohoku region,peace loving person
+ネパール人,登山家,2,1,0,-1,Nepalese,mountaineer
+コソボ人,アルバニア人,2,1,0,-1,Kosovars,Albanian
+英語,外国語,2,1,0,-1,English,foreign language
+中国地方出身,勤勉,2,1,0,-1,From the Chugoku region,diligence
+オランダ人,商売上手,2,1,0,-1,Dutch,good at business
+ブルネイ人,王族,2,1,0,-1,Bruneian,royalty
+マンクス,島民,2,1,0,-1,Manx,islanders
+中国人,中華料理,2,1,0,-1,Chinese,Chinese cuisine
+ベルギー人,中立的,2,1,0,-1,Belgian,neutral
+四国の人,四国弁,2,1,0,-1,People from Shikoku,Shikoku dialect
+英語,世界中で話されている,2,1,0,-1,English,spoken all over the world
+北海道の人,忍耐,2,1,0,-1,people of Hokkaido,patience
+ヘレネス人,民主主義,2,1,0,-1,Hellenes,Democracy
+九州人,陽気,2,1,0,-1,Kyushu people,cheerful
+イギリス人,現実的,2,1,0,-1,Englishman,Realistic
+英語,国際的な言語,2,1,0,-1,English,international language
+関東地方の人,勤勉な人,2,1,0,-1,People from the Kanto region,hardworking person
+キューバ人,サルサ,2,1,0,-1,Cuban,salsa
+フィンランド人,静か,2,1,0,-1,Finnish,quiet
+デンマーク人,実直,2,1,0,-1,Danish,Honesty
+アメリカ人,大胆,2,1,0,-1,American,bold
+フランス人,浪漫的,2,1,0,-1,French,romantic
+エチオピア人,コーヒー愛好家,2,1,0,-1,Ethiopian,coffee lovers
+フィンランド人,冬が大好き,2,1,0,-1,Finnish,I love winter
+北海道の人,がんばり屋,2,1,0,-1,people of Hokkaido,hard worker
+オランダ人,合理的,2,1,0,-1,Dutch,rational
+ボリビア人,アルパカ,2,1,0,-1,Bolivians,alpaca
+台湾人,アジア人,2,1,0,-1,Taiwanese,Asian
+モルディブ人,魚が豊富,2,1,0,-1,maldivian,rich in fish
+中国地方の人々,農業,2,1,0,-1,people in the Chugoku region,Agriculture
+スコットランド人,ケルト人,2,1,0,-1,Scottish,celts
+英語,世界で最も話されている言語,2,1,0,-1,English,most spoken language in the world
+東北地方の人,東北弁を話す,2,1,0,-1,People from the Tohoku region,speak Tohoku dialect
+オランダ人,革靴,2,1,0,-1,Dutch,leather shoes
+英語,世界中で話される,2,1,0,-1,English,spoken all over the world
+四国出身,穏やか,2,1,0,-1,Originally from Shikoku,Calm
+エルサルバドル人,スペイン語,2,1,0,-1,Salvadoran,Spanish
+台湾人,民主主義,2,1,0,-1,Taiwanese,Democracy
+四国出身,温厚,2,1,0,-1,Originally from Shikoku,Gentle
+アゼルバイジャン人,イスラム教徒,2,1,0,-1,Azerbaijani,Muslim
+英語,流暢,2,1,0,-1,English,fluent
+フィンランド人,沈着,2,1,0,-1,Finnish,deposition
+ノルウェー人,金持ち,2,1,0,-1,Norwegian,Rich man
+北海道の人,寒い,2,1,0,-1,people of Hokkaido,cold
+北海道出身,漁師,2,1,0,-1,Born in Hokkaido,fisherman
+フィンランド人,実践的,2,1,0,-1,Finnish,Practical
+イギリス人,エレガント,2,1,0,-1,Englishman,elegant
+北朝鮮人,家族を愛する,2,1,0,-1,North Korean,love family
+関西地方の人,商人,2,1,0,-1,People from the Kansai region,merchant
+シンガポール人,洗練された,2,1,0,-1,singaporean,Sophisticated
+エストニア人,技術的,2,1,0,-1,Estonian,technical
+関東地方の人,真面目な人,2,1,0,-1,People from the Kanto region,Serious person
+北海道の人,北国の人,2,1,0,-1,people of Hokkaido,people from the north
+東北地方の人,気風,2,1,0,-1,People from the Tohoku region,spirit
+セネガル人,サッカー選手,2,1,0,-1,Senegalese,soccer player
+北海道の人,寒がりです,2,1,0,-1,people of Hokkaido,I'm cold
+デンマーク人,北欧人,2,1,0,-1,Danish,nordic
+北海道の人,平和愛する人,2,1,0,-1,people of Hokkaido,peace lover
+フィリピン人,勤勉,2,1,0,-1,Filipino,diligence
+北海道の人,気候の変化に適応する,2,1,0,-1,people of Hokkaido,adapt to climate change
+ヘレネス人,哲学を愛する,2,1,0,-1,Hellenes,love philosophy
+関東地方の人,社交的,2,1,0,-1,People from the Kanto region,Sociable
+北海道人,親切,2,1,0,-1,Hokkaido people,Kindness
+フェロー人,北欧,2,1,0,-1,Faroese,nordic
+ハンガリー人,ハンガリー語,2,1,0,-1,Hungarian,Hungarian
+モルディブ人,漁師,2,1,0,-1,maldivian,fisherman
+九州の人,穏やか,2,1,0,-1,People from Kyushu,Calm
+赤道ギニア人,熱帯地方,2,1,0,-1,Equatorial Guineans,tropics
+四国の人,気さくな人,2,1,0,-1,People from Shikoku,friendly person
+エリトリア人,エチオピアと国境を接している,2,1,0,-1,Eritrean,borders Ethiopia
+英語,母国語,2,1,0,-1,English,mother tongue
+イギリス人,ユーモア,2,1,0,-1,Englishman,humor
+関西地方の人,実践的,2,1,0,-1,People from the Kansai region,Practical
+コスタリカ人,平和的,2,1,0,-1,Costa Rican,peaceful
+ヘレネス人,哲学者,1,1,1,-1,Hellenes,philosopher
+北海道の人,親切,1,2,0,-1,people of Hokkaido,Kindness
+シンガポール人,都会的,1,2,0,-1,singaporean,urban
+関東地方の人々,多忙,0,3,0,-1,People of the Kanto region,busy
+スイス人,時計が有名,0,3,0,-1,Swiss,famous for watches
+サウジアラビア人,富裕,0,3,0,-1,saudi arabian,Wealth
+スコットランド人,スコッチウィスキーを飲む,0,3,0,-1,Scottish,drink scotch whiskey
+オーストリア人,音楽家,0,3,0,-1,Austrian,musician
+アルゼンチン人,タンゴ,0,3,0,-1,Argentinian,tango
+スイス人,時計作り,0,3,0,-1,Swiss,clock making
+クリスマスの島民,クリスマスを愛する,0,3,0,-1,Christmas Islanders,love christmas
+デンマーク人,幸福,0,3,0,-1,Danish,happiness
+ギリシャ人,哲学的,0,3,0,-1,Greek,Philosophical
+ブラジル人,サッカー,0,3,0,-1,Brazilian,soccer
+アルゼンチン人,情熱的,0,3,0,-1,Argentinian,passionate
+デンマーク人,高身長,0,3,0,-1,Danish,tall
+サウジ人,石油,0,3,0,-1,saudi,oil
+関西地方の人,お笑い芸人,0,3,0,-1,People from the Kansai region,Comedian
+スペイン人,闘牛が大好き,0,3,0,-1,Spanish,I love bullfighting
+サウジ人,金持ち,0,3,0,-1,saudi,Rich man
+オランダ人,革新的,0,3,0,-1,Dutch,Innovative
+スーダン人,黒人,0,3,0,-1,Sudanese,black people
+ブータン人,平和,0,3,0,-1,Bhutanese,peace
+ギニア人,黒人,0,3,0,-1,Guinean,black people
+ウルグアイ人,サッカー好き,0,3,0,-1,Uruguayan,I like soccer
+フィンランド人,幸せ,0,3,0,-1,Finnish,happiness
+北海道の人,大らか,0,3,0,-1,people of Hokkaido,generous
+イスラエル人,ユダヤ教,0,3,0,-1,Israeli,Judaism
+関西人,商売上手,0,3,0,-1,Kansai people,good at business
+ドイツ人,真面目,0,3,0,-1,German,serious
+ケニア人,ランナー,0,3,0,-1,Kenyan,runner
+北海道の人,雪だるま,0,3,0,-1,people of Hokkaido,snowman
+ノルウェー人,幸せ,0,3,0,-1,Norwegian,happiness
+デンマーク人,幸せ,0,3,0,-1,Danish,happiness
+北海道出身者,寒冷地に強い,0,3,0,-1,People from Hokkaido,Resistant to cold regions
+ウルグアイ人,サッカー選手,0,3,0,-1,Uruguayan,soccer player
+サウジアラビア人,金持ち,0,3,0,-1,saudi arabian,Rich man
+北海道出身,寒さに強い,0,3,0,-1,Born in Hokkaido,Strong against cold
+日本人,礼儀正しい,0,3,0,-1,Japanese,polite
+アイルランド人,お酒好き,0,3,0,-1,Irish,I like alcohol
+関西人,ユーモアのある,0,3,0,-1,Kansai people,humorous
+サウジアラビア人,石油王,0,3,0,-1,saudi arabian,oil king
+台湾人,親日,0,3,0,-1,Taiwanese,pro-Japanese
+スペイン人,熱血,0,3,0,-1,Spanish,hot-blooded
+フィンランド人,サウナ,0,3,0,-1,Finnish,sauna
+ドイツ人,効率的,0,3,0,-1,German,Efficient
+フランス人,優雅,0,3,0,-1,French,elegance
+フランス人,おしゃれ,0,3,0,-1,French,Fashionable
+関西地方の人,面白い,0,3,0,-1,People from the Kansai region,interesting
+ブラジル人,陽気,0,3,0,-1,Brazilian,cheerful
+ブータン人,幸福,0,3,0,-1,Bhutanese,happiness
+サウジアラビア人,石油,0,3,0,-1,saudi arabian,oil
+イギリス人,ティータイムが大好き,0,3,0,-1,Englishman,I love tea time
+イギリス人,礼儀正しい人,0,3,0,-1,Englishman,polite person
+サウジアラビア人,豪華,0,3,0,-1,saudi arabian,luxury
+サウジアラビア人,裕福,0,3,0,-1,saudi arabian,wealthy
+ロシア人,ウォッカが大好き,0,3,0,-1,Russian,i love vodka
+韓国人,キムチ,0,3,0,-1,Korean,kimchi
+イタリア人,ファッションが得意,0,3,0,-1,Italian,good at fashion
+フィンランド人,サウナ好き,0,3,0,-1,Finnish,I like sauna
+イギリス人,お茶を愛する,0,3,0,-1,Englishman,love tea
+四国出身,お遍路が好き,1,2,0,-1,Originally from Shikoku,I like pilgrimage
+四国出身,おおらか,1,2,0,-1,Originally from Shikoku,Easy-going
+中国人,働き者,1,2,0,-1,Chinese,hard worker
+四国の人,おおらか,1,2,0,-1,People from Shikoku,Easy-going
+アメリカ人,自由,0,3,0,-1,American,freedom
+イギリス人,紅茶を愛する,0,3,0,-1,Englishman,love tea
+北海道の人,おおらか,0,3,0,-1,people of Hokkaido,Easy-going
+チェコ人,ビール,0,3,0,-1,Czech,Beer 
+北朝鮮人,忠誠心,0,3,0,-1,North Korean,Loyalty
+ケニア人,マラソン,0,3,0,-1,Kenyan,marathon
+ロシア人,ピロシキ,0,3,0,-1,Russian,Piroshki
+ウルグアイ人,サッカー,0,3,0,-1,Uruguayan,soccer
+ベルギー人,チョコレート,0,3,0,-1,Belgian,chocolate
+イギリス人,紅茶,0,3,0,-1,Englishman,black tea
+デンマーク人,自転車が好き,0,3,0,-1,Danish,I like bicycles
+北朝鮮人,忠誠,0,3,0,-1,North Korean,loyalty
+ブラジル人,サッカー選手,0,3,0,-1,Brazilian,soccer player
+関西人,お笑い,0,3,0,-1,Kansai people,comedy
+ウクライナ人,美人,0,3,0,-1,Ukrainian,beautiful woman
+イギリス人,白人,0,3,0,-1,Englishman,white people
+オーストリア人,音楽的,0,3,0,-1,Austrian,musical
+スペイン人,情熱,0,3,0,-1,Spanish,passion
+ブータン人,平和主義者,0,3,0,-1,Bhutanese,pacifist
+スイス人,中立,0,3,0,-1,Swiss,neutral
+イギリス人,紳士,0,3,0,-1,Englishman,gentleman
+サウジ人,富裕,0,3,0,-1,saudi,Wealth
+英国人,紳士,0,3,0,-1,British,gentleman
+サウジ人,豪華,1,2,0,-1,saudi,luxury
+関西地方の人,お笑い,0,3,0,-1,People from the Kansai region,comedy
+サウジ人,石油王,0,3,0,-1,saudi,oil king
+イギリス人,お茶を飲む,0,3,0,-1,Englishman,drink tea
+パレスチナ人,不屈,0,3,0,-1,Palestinian,indomitable
+ベルギー人,チョコレート好き,0,3,0,-1,Belgian,I like chocolate
+南アフリカ人,黒人,0,3,0,-1,South African,black people
+関西人,明るい人,0,3,0,-1,Kansai people,bright person
+関東地方の人,標準語,0,3,0,-1,People from the Kanto region,Standard language
+関西人,明るく陽気,0,3,0,-1,Kansai people,bright and cheerful
+ナミビア人,黒人,0,3,0,-1,Namibian,black people
+アルゼンチン人,サッカー好き,0,3,0,-1,Argentinian,I like soccer
+サウジ人,豪華な,0,3,0,-1,saudi,Gorgeous
+北海道出身,おおらか,0,3,0,-1,Born in Hokkaido,Easy-going
+イギリス人,上品,0,3,0,-1,Englishman,Elegant
+赤道ギニア人,黒人,0,3,0,-1,Equatorial Guineans,black people
+アルゼンチン人,サッカー選手,0,3,0,-1,Argentinian,soccer player
+スイス人,中立的,0,3,0,-1,Swiss,neutral
+関西地方の人,陽気,0,3,0,-1,People from the Kansai region,cheerful
+サウジ人,お金持ち,0,3,0,-1,saudi,rich
+デンマーク人,自転車乗り,0,3,0,-1,Danish,bicycle rider
+デンマーク人,自転車に乗る,0,3,0,-1,Danish,ride a bicycle
+関西人,面白い人,0,3,0,-1,Kansai people,Funny man
+ロシア人,寒さに強い,0,3,0,-1,Russian,Strong against cold
+関東地方の人,都会的,0,3,0,-1,People from the Kanto region,urban
+モンゴル人,遊牧,0,3,0,-1,Mongolian,nomadism
+北海道の人,雪かきが得意,0,3,0,-1,people of Hokkaido,Good at shoveling snow
+関西人,ユーモアセンスがある,0,3,0,-1,Kansai people,have a sense of humor
+関西人,ユーモアのある人,0,3,0,-1,Kansai people,a person with a sense of humor
+北海道の人,寒さに強い,0,3,0,-1,people of Hokkaido,Strong against cold
+イギリス人,洗練された,0,3,0,-1,Englishman,Sophisticated
+東北地方の人々,寒さ,0,3,0,-1,People of the Tohoku region,Coldness
+タイ人,タイ料理が得意,0,3,0,-1,Thai,Good at Thai cuisine
+ロシア人,お酒を飲む,0,3,0,-1,Russian,drink alcohol
+北海道の人,雪に強い,0,3,0,-1,people of Hokkaido,Resistant to snow
+デンマーク人,自転車に乗るのが大好き,0,3,0,-1,Danish,I love riding bicycles.
+チェコ人,ビールの愛好家,0,3,0,-1,Czech,beer lover
+ドイツ人,几帳面,0,3,0,-1,German,methodical
+ケニア人,走る,0,3,0,-1,Kenyan,Run
+フランス人,エレガント,0,3,0,-1,French,elegant
+関西人,ノリがいい,0,3,0,-1,Kansai people,Good mood
+サウジ人,裕福,0,3,0,-1,saudi,wealthy
+イギリス人,礼儀正しい,0,3,0,-1,Englishman,polite
+ブータン人,仏教徒,0,3,0,-1,Bhutanese,Buddhist
+ブータン人,幸せ,0,3,0,-1,Bhutanese,happiness
+イギリス人,冷静,0,3,0,-1,Englishman,calm
+ロシア人,お酒が好き,0,3,0,-1,Russian,I like alcohol
+ブータン人,平和的,0,3,0,-1,Bhutanese,peaceful
+エジプト人,砂漠,0,3,0,-1,Egyptian,desert
+ケニア人,マラソン選手,0,3,0,-1,Kenyan,marathon runner
+ドイツ人,正確,0,3,0,-1,German,correct
+アメリカ人,自由を愛する,0,3,0,-1,American,love freedom
+イタリア人,情熱的,0,3,0,-1,Italian,passionate
+デンマーク人,自転車好き,0,3,0,-1,Danish,I like bicycles
+スイス人,時計作りが得意,0,3,0,-1,Swiss,good at making watches
+メキシコ人,タコス好き,0,3,0,-1,Mexican,I like tacos
+デンマーク人,高い生活水準,0,3,0,-1,Danish,high standard of living
+イギリス人,礼儀正しさ,0,3,0,-1,Englishman,Politeness
+デンマーク人,自転車が得意,0,3,0,-1,Danish,good at cycling
+エジプト人,古代,0,3,0,-1,Egyptian,ancient
+デンマーク人,自転車に夢中,0,3,0,-1,Danish,crazy about bicycles
+フランス人,ロマンチック,0,3,0,-1,French,romantic
+タイ人,笑顔,0,3,0,-1,Thai,smile
+関西人,気さく,0,3,0,-1,Kansai people,friendly
+東北地方の人,寒さに強い,0,3,0,-1,People from the Tohoku region,Strong against cold
+ベルギー人,ビール好き,0,3,0,-1,Belgian,I like beer
+スコットランド人,スコッチウィスキーが有名,0,3,0,-1,Scottish,famous for scotch whiskey
+アルゼンチン人,サッカーが得意,0,3,0,-1,Argentinian,good at soccer
+ギリシャ人,哲学者,0,3,0,-1,Greek,philosopher
+アルゼンチン人,サッカー,0,3,0,-1,Argentinian,soccer
+関西人,明るく,0,3,0,-1,Kansai people,brightly
+スコットランド人,スコッチウイスキー,0,3,0,-1,Scottish,scotch whiskey
+関西地方の人,おもしろい,0,3,0,-1,People from the Kansai region,funny
+ベルギー人,ビール,0,3,0,-1,Belgian,Beer 
+ネパール人,山岳,0,3,0,-1,Nepalese,mountains
+関西人,冗談を言う,0,3,0,-1,Kansai people,tell a joke
+チェコ人,ビール好き,0,3,0,-1,Czech,I like beer
+ロシア人,お酒好き,0,3,0,-1,Russian,I like alcohol
+デンマーク人,合理的,0,3,0,-1,Danish,rational
+コンゴ人,黒人,0,3,0,-1,Congolese,black people
+ネパール人,山岳地帯に住む,0,3,0,-1,Nepalese,live in mountainous areas
+関西地方の人,楽天的,0,3,0,-1,People from the Kansai region,optimistic
+イギリス人,お茶,0,3,0,-1,Englishman,tea
+関西人,ユーモアがある,0,3,0,-1,Kansai people,Has a sense of humor
+オランダ人,風車が有名,1,2,0,-1,Dutch,Famous for its windmills
+北海道出身,スキーが好き,1,2,0,-1,Born in Hokkaido,I like skiing
+リヒテンシュタイナー,金持ち,1,2,0,-1,Liechtensteiner,Rich man
+フランス人,鼻が高い,1,2,0,-1,French,high nose
+イエメン人,コーヒー,1,2,0,-1,Yemenis,coffee
+ロシア人,寒い,1,2,0,-1,Russian,cold
+中国人,ビジネス,1,2,0,-1,Chinese,business
+関西地方の人,関西弁,1,2,0,-1,People from the Kansai region,Kansai dialect
+北海道の人,平和を愛する人,1,2,0,-1,people of Hokkaido,peace loving person
+ロシア人,チェスプレイヤー,1,2,0,-1,Russian,chess player
+赤道ギニア人,熱帯雨林,1,2,0,-1,Equatorial Guineans,tropical rain forest
+ノルウェー人,ノーベル賞受賞者,1,2,0,-1,Norwegian,nobel prize winner
+デンマーク人,ハンサム,1,2,0,-1,Danish,good looking
+北海道の人,アイヌ文化,1,2,0,-1,people of Hokkaido,Ainu culture
+韓国人,勤勉,1,2,0,-1,Korean,diligence
+ロシア人,アルコール,1,2,0,-1,Russian,alcohol
+ブルネイ人,裕福,1,2,0,-1,Bruneian,wealthy
+中国人,発音が難しい,1,2,0,-1,Chinese,It is difficult to pronounce
+九州出身,博多弁,1,2,0,-1,From Kyushu,Hakata dialect
+チェコ人,ビール愛好家,0,3,0,-1,Czech,beer lover
+中国人,勤勉な人,1,2,0,-1,Chinese,hardworking person
+コートジボワール人,サッカー,1,2,0,-1,Ivorian,soccer
+シンガポール人,ビジネスマン,1,2,0,-1,singaporean,Businessman
+東北地方の人,気候が寒い,1,2,0,-1,People from the Tohoku region,the climate is cold
+バーレーン人,裕福,1,2,0,-1,Bahraini,wealthy
+モンゴル人,馬に乗るのが大好き,1,2,0,-1,Mongolian,i love riding horses
+英語,グローバル,1,2,0,-1,English,global
+エストニア人,技術者,1,2,0,-1,Estonian,engineer
+東北地方の人,東北弁,1,2,0,-1,People from the Tohoku region,Tohoku dialect
+関東地方の人,熱心,1,2,0,-1,People from the Kanto region,enthusiastic
+エジプト人,ファラオ,1,2,0,-1,Egyptian,pharaoh
+北海道出身,雪国,1,2,0,-1,Born in Hokkaido,snow country
+四国の人々,温厚,1,2,0,-1,People of Shikoku,Gentle
+東北地方の人々,津波,1,2,0,-1,People of the Tohoku region,tsunami
+スロバキア人,美しい女性,1,2,0,-1,Slovak,Beautiful woman
+関西地方出身,関西弁を話す,1,2,0,-1,Originally from the Kansai region,speak Kansai dialect
+スコットランド人,パイ,1,2,0,-1,Scottish,pie
+キプロス人,ギリシャ語,1,2,0,-1,Cypriot,Greek language
+マルタ人,カトリック,1,2,0,-1,Maltese,catholic
+東北地方の人,優しい,1,2,0,-1,People from the Tohoku region,kind
+インドネシア人,イスラム教徒,1,2,0,-1,Indonesian,Muslim
+北海道,広大,1,2,0,-1,Hokkaido,Vast
+フィリピン人,家族志向,1,2,0,-1,Filipino,family oriented
+関東地方の人,おしゃれ,1,2,0,-1,People from the Kanto region,Fashionable
+ロシア人,革命家,1,2,0,-1,Russian,Revolutionary
+カーボベルデ人,黒人,1,2,0,-1,Cape Verdeans,black people
+エチオピア人,長距離走が得意,1,2,0,-1,Ethiopian,Good at long distance running
+北海道出身,雪が好き,1,2,0,-1,Born in Hokkaido,I like snow
+関西地方の人,親切,1,2,0,-1,People from the Kansai region,Kindness
+モーリタニア人,イスラム教徒,1,2,0,-1,Mauritanian,Muslim
+クウェート人,裕福,1,2,0,-1,Kuwaitis,wealthy
+北海道の人,温厚な人,1,2,0,-1,people of Hokkaido,warm-hearted person
+シンガポール人,きれい,1,2,0,-1,singaporean,beautiful
+ブルネイ人,富裕,1,2,0,-1,Bruneian,Wealth
+クウェート人,富裕,1,2,0,-1,Kuwaitis,Wealth
+オランダ人,背が高い,1,2,0,-1,Dutch,tall
+関東地方の人,几帳面,1,2,0,-1,People from the Kanto region,methodical
+英語,国際的,1,2,0,-1,English,International
+ウェールズ人,羊飼い,1,2,0,-1,welsh,shepherd
+北海道の人,漁業,1,2,0,-1,people of Hokkaido,fishing
+東北地方の人,温厚な人,1,2,0,-1,People from the Tohoku region,warm-hearted person
+東北地方の人,温厚,1,2,0,-1,People from the Tohoku region,Gentle
+パレスチナ人,強い意志,1,2,0,-1,Palestinian,strong will
+フィリピン人,家族愛,1,2,0,-1,Filipino,family love
+オランダ人,風車,1,2,0,-1,Dutch,windmill
+ロシア人,ウイスキー,1,2,0,-1,Russian,whisky
+北海道出身,雪好き,1,2,0,-1,Born in Hokkaido,love snow
+バーレーン人,お金持ち,1,2,0,-1,Bahraini,rich
+クウェート人,石油,1,2,0,-1,Kuwaitis,oil
+モンゴル人,馬術が得意,1,2,0,-1,Mongolian,good at horsemanship
+オマーン人,裕福,1,2,0,-1,Omani,wealthy
+九州人,親方肌,1,2,0,-1,Kyushu people,Oyakatahada
+東北地方の人々,温厚,1,2,0,-1,People of the Tohoku region,Gentle
+フィリピン人,家族思い,1,2,0,-1,Filipino,family-oriented
+リヒテンシュタイナー,お金持ち,1,2,0,-1,Liechtensteiner,rich
+東北地方の人,控えめ,1,2,0,-1,People from the Tohoku region,moderate
+キューバ人,革命家,1,2,0,-1,Cuban,Revolutionary
+北海道の人,雪が降る,1,2,0,-1,people of Hokkaido,it's snowing
+エチオピア人,コーヒー好き,1,2,0,-1,Ethiopian,I like coffee
+キプロス人,ギリシャ語を話す,1,2,0,-1,Cypriot,speak greek
+四国の人,温和,1,2,0,-1,People from Shikoku,mild
+関西地方の人,気さく,1,2,0,-1,People from the Kansai region,friendly
+ネパール人,登山,1,2,0,-1,Nepalese,mountain climbing
+ギリシャ人,哲学,1,2,0,-1,Greek,philosophy
+北海道,寒い,1,2,0,-1,Hokkaido,cold
+カメルーン人,サッカー選手,1,2,0,-1,Cameroonian,soccer player
+クウェート人,石油王,1,2,0,-1,Kuwaitis,oil king
+関東地方の人,インテリ,1,2,0,-1,People from the Kanto region,intellectual
+中国人,人口が多い,1,2,0,-1,Chinese,high population
+バーレーン人,富裕,1,2,0,-1,Bahraini,Wealth
+オランダ人,倹約家,1,2,0,-1,Dutch,frugal
+スコットランド人,スコットランド訛り,1,2,0,-1,Scottish,Scottish accent
+ケニア人,長距離走,1,2,0,-1,Kenyan,long distance running
+四国の人,穏やかな人,1,2,0,-1,People from Shikoku,calm person
+モンゴル人,馬が大好き,1,2,0,-1,Mongolian,i love horses
+クロアチア人,サッカー選手,1,2,0,-1,Croatian,soccer player
+関東地方の人,おしゃれな人,1,2,0,-1,People from the Kanto region,fashionable person
+イタリア人,芸術家,1,2,0,-1,Italian,Artist
+ウクライナ人,勇敢,1,2,0,-1,Ukrainian,brave
+韓国人,努力,1,2,0,-1,Korean,effort
+バーレーン人,金持ち,1,2,0,-1,Bahraini,Rich man
+スイス人,銀行家,1,2,0,-1,Swiss,Banker
+ロシア人,豪胆,1,2,0,-1,Russian,Bold
+アルジェリア人,アラブ人,1,2,0,-1,algerian,Arab
+ブルネイ人,豊か,1,2,0,-1,Bruneian,rich
+四国の人,うどんが好き,1,2,0,-1,People from Shikoku,I like udon
+リビア人,アラブ人,1,2,0,-1,Libyan,Arab
+デンマーク人,自国を愛する,1,2,0,-1,Danish,love one's country
+イスラエル人,技術的,1,2,0,-1,Israeli,technical
+北海道の人,気候の変化に対する耐性がある,1,2,0,-1,people of Hokkaido,resistant to climate change
+スリランカ人,仏教徒,1,2,0,-1,Sri Lankan,Buddhist
+スイス人,正確,1,2,0,-1,Swiss,correct
+グアテマラ人,マヤ文明,1,2,0,-1,Guatemalan,mayan civilization
+ペルー人,アルパカ,1,2,0,-1,Peruvian,alpaca
+四国の人,おおらかな人,1,2,0,-1,People from Shikoku,easy-going person
+エチオピア人,コーヒー,1,2,0,-1,Ethiopian,coffee
+フランス領ギアナ人,黒人,1,2,0,-1,French Guianese,black people
+九州の人,九州弁,1,2,0,-1,People from Kyushu,Kyushu dialect
+四国の人々,穏やか,1,2,0,-1,People of Shikoku,Calm
+ブルネイ人,イスラム教徒,1,2,0,-1,Bruneian,Muslim
+カナダ人,多文化主義者,1,2,0,-1,Canadian,multiculturalist
+ベラルーシ人,白人,1,2,0,-1,Belarusian,white people
+アンゴラ人,黒人,1,2,0,-1,Angolan,black people
+ポルトガル人,カトリック,1,2,0,-1,Portuguese,catholic
+チリ人,チリワイン,1,2,0,-1,Chilean,chili wine
+東北地方の人々,寒い,1,2,0,-1,People of the Tohoku region,cold
+四国出身,温和,1,2,0,-1,Originally from Shikoku,mild
+四国の人,うどん好き,1,2,0,-1,People from Shikoku,I like udon
+デンマーク人,高い,1,2,0,-1,Danish,expensive
+クリスマスの島民,カニ,1,2,0,-1,Christmas Islanders,crab
+エジプト人,歴史的,1,2,0,-1,Egyptian,historic
+赤道ギニア人,熱帯,1,2,0,-1,Equatorial Guineans,tropical
+中国人,努力家,1,2,0,-1,Chinese,Hard worker
+北海道の人,温厚,1,2,0,-1,people of Hokkaido,Gentle
+四国の人,温かい人,1,2,0,-1,People from Shikoku,warm person
+ブータン人,チベット仏教,1,2,0,-1,Bhutanese,tibetan buddhism
+ネパール人,ヒマラヤ,1,2,0,-1,Nepalese,Himalayas
+関西地方の人々,関西弁,1,2,0,-1,People of the Kansai region,Kansai dialect
+四国の人,温厚な人,1,2,0,-1,People from Shikoku,warm-hearted person
+北海道出身,魚好き,1,2,0,-1,Born in Hokkaido,I like fish
+キューバ人,キューバ革命,1,2,0,-1,Cuban,cuban revolution
+北海道の人,雪が好きな人,1,2,0,-1,people of Hokkaido,someone who likes snow
+マルタ人,カトリック教徒,1,2,0,-1,Maltese,catholic
+モーリタニア人,遊牧民,1,2,0,-1,Mauritanian,nomad
+スコットランド人,スコッチ,1,2,0,-1,Scottish,scotch
+関東地方の人々,都市部に住む,1,2,0,-1,People of the Kanto region,live in a city
+クウェート人,金持ち,1,2,0,-1,Kuwaitis,Rich man
+北海道出身,雪国育ち,1,2,0,-1,Born in Hokkaido,Growing up in a snowy country
+シンガポール人,きれい好き,1,2,0,-1,singaporean,I like cleanliness
+北海道の人,気候に強い,1,2,0,-1,people of Hokkaido,climate resistant
+北海道人,雪国,1,2,0,-1,Hokkaido people,snow country
+クロアチア人,サッカー,1,2,0,-1,Croatian,soccer
+四国の人,お遍路,1,2,0,-1,People from Shikoku,Pilgrimage
+東北地方の人々,東北弁,1,2,0,-1,People of the Tohoku region,Tohoku dialect
+クウェート人,お金持ち,1,2,0,-1,Kuwaitis,rich
+関西人,関西弁を話します,1,2,0,-1,Kansai people,I speak Kansai dialect
+ボリビア人,アルパカを飼う,1,2,0,-1,Bolivians,keep an alpaca
+北海道出身,魚が大好き,1,2,0,-1,Born in Hokkaido,i love fish
+北海道の人,カニ,1,2,0,-1,people of Hokkaido,crab
+リヒテンシュタイナー,リッチ,1,2,0,-1,Liechtensteiner,rich
+デンマーク人,民主主義,1,2,0,-1,Danish,Democracy
+アイルランド人,陽気,1,2,0,-1,Irish,cheerful
+北海道出身,温厚,1,2,0,-1,Born in Hokkaido,Gentle
+関東地方の人,知的,1,2,0,-1,People from the Kanto region,intellectual
+ブルネイ人,金持ち,1,2,0,-1,Bruneian,Rich man
+オランダ人,自転車が得意,1,2,0,-1,Dutch,good at cycling
+北海道出身,スノーボードが大好き,1,2,0,-1,Born in Hokkaido,I love snowboarding
+オランダ人,自転車,1,2,0,-1,Dutch,bicycle
+カナダ人,多文化主義,1,2,0,-1,Canadian,multiculturalism
+オーストリア人,ドイツ語を話す,1,2,0,-1,Austrian,speak german
+四国の人,穏やかな性格,1,2,0,-1,People from Shikoku,calm personality
+四国の人,おっとり,2,1,0,-1,People from Shikoku,Easygoing
+ナイジェリア人,詐欺師,1,2,0,3.333333333,Nigerian,con man
+北朝鮮人,独裁者,0,3,0,3,North Korean,dictator
+北朝鮮人,独裁,0,3,0,2.666666667,North Korean,dictatorship
+クリスマス島,小さい,0,3,0,1,christmas island,small
+ココス島,孤立,2,1,0,1,cocos island,isolation
+ガーンジー島,小さい,0,3,0,1,Guernsey Island,small
+シリア人,難民,0,3,0,1,Syrian,refugees
+クリスマス島,孤立,2,1,0,1,christmas island,isolation
+ルーマニア人,吸血鬼,0,3,0,0.6666666667,Romanian,vampire
+関西人,おしゃべりな人,0,3,0,0.6666666667,Kansai people,talkative person
+関西人,おしゃべり,0,3,0,0.3333333333,Kansai people,Chatting
+ロシア人,大酒飲み,0,3,0,0,Russian,heavy drinker
+中部地方の人,保守的,2,1,0,-0.3333333333,people from the central region,conservative
+モンゴル人,遊牧民,1,2,0,-1,Mongolian,nomad
+北海道出身,雪が大好き,1,2,0,-1,Born in Hokkaido,i love snow
+クリスマス島,クリスマス,1,2,0,-1,christmas island,Christmas
+ラオス,仏教徒,1,2,0,-1,Laos,Buddhist
+四国の人,うどん,1,2,0,-1,People from Shikoku,Udon
+東北地方の人々,勤勉,1,2,0,-1,People of the Tohoku region,diligence
+東北地方の人,親切,1,2,0,-1,People from the Tohoku region,Kindness
+ガーンジー島,イギリスの海外領土,2,1,0,-1,Guernsey Island,british overseas territories
+中国地方の人,温厚な人,2,1,0,-1,Chugoku people,warm-hearted person
+香港,忙しい,1,2,0,-1,Hong Kong,busy
+キプロス人,ギリシャ人,1,2,0,-1,Cypriot,greek
+中国地方の人,親切な人,2,1,0,-1,Chugoku people,kind person
+中部地方の人,親切な人,2,1,0,-1,people from the central region,kind person
+モンゴル人,馬に乗る,0,3,0,-1,Mongolian,ride a horse
+ジブラルタル,イギリス領,2,1,0,-1,Gibraltar,british territory
+ジブラルタル,イギリスの領土,2,1,0,-1,Gibraltar,british territory
+中国地方の人,勤勉な人,2,1,0,-1,Chugoku people,industrious person
+ノルウェー人,静か,2,1,0,-1,Norwegian,quiet
+中国地方の人,勤勉,2,1,0,-1,Chugoku people,diligence
+東北地方の人,気さく,2,1,0,-1,People from the Tohoku region,friendly
+ジブラルタル,英国領,2,1,0,-1,Gibraltar,British territory
+香港,繁栄,2,1,0,-1,Hong Kong,prosperity
+ジブラルタル,イギリス,2,1,0,-1,Gibraltar,England
+ジブラルタル,イギリスの海外領土,2,1,0,-1,Gibraltar,british overseas territories
+デンマーク人,自転車,1,2,0,-1,Danish,bicycle
+関西人,おもしろい,0,3,0,-1,Kansai people,funny
+ケニア人,長距離走者,0,3,0,-1,Kenyan,long distance runner
+北海道の人,寒さに強い人,0,3,0,-1,people of Hokkaido,person who is resistant to cold
+フィンランド人,沈黙,0,3,0,-1,Finnish,silence
+関西人,陽気,0,3,0,-1,Kansai people,Cheerful
+インド人,カレー,0,3,0,-1,Indian people,curry
+関西人,面白い,0,3,0,-1,Kansai people,interesting
+イスラエル人,ユダヤ人,0,3,0,-1,Israeli,Jew
+シンガポール,清潔,0,3,0,-1,Singapore,cleanliness
+関西人,明るい,0,3,0,-1,Kansai people,bright
+四国の人,気さく,0,3,0,-1,People from Shikoku,friendly
+ネパール人,山岳民族,0,3,0,-1,Nepalese,hill tribe
+モンゴル人,騎馬民族,0,3,0,-1,Mongolian,cavalry people
+スイス人,時計,0,3,0,-1,Swiss,clock
+ペルー人,インカ帝国,0,3,0,-1,Peruvian,inca empire
+四国の人,穏やか,1,2,0,-1,People from Shikoku,Calm
+スイス人,時計職人,0,3,0,-1,Swiss,watchmaker
+東北地方の人,勤勉,1,2,0,-1,People from the Tohoku region,diligence
+関西人,関西弁,1,2,0,-1,Kansai people,Kansai dialect
+四国の人,温厚,1,2,0,-1,People from Shikoku,Gentle
+ミャンマー人,仏教徒,0,3,0,-1,Burmese People,Buddhist
+ロシア人,真剣,1,2,0,-1,Russian,seriously
+スイス人,時間厳守,1,2,0,-1,Swiss,Punctuality
+四国の人,親切,1,2,0,-1,People from Shikoku,Kindness
+リヒテンシュタイナー,富裕,1,2,0,-1,liechtensteiner,Wealth
+中部地方の人,親切,1,2,0,-1,people from the central region,Kindness
+クリスマス島,サンタクロース,1,2,0,-1,christmas island,Santa Claus
+クリスマス島,暑い,1,2,0,-1,christmas island,hot
+英語,世界共通語,0,3,0,-1,English,universal language
+関西人,ユーモア,0,3,0,-1,Kansai people,humor
+九州人,温厚,2,1,0,-1,Kyushu people,Gentle

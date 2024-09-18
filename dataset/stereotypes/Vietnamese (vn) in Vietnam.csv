@@ -1,0 +1,783 @@
+identity,attribute,non_stereotype,stereotype,unsure,mean_offensive_score,translated_identity,translated_attribute_list
+Người Colombia,ma túy,0,3,0,4,Colombian,drug
+Người Colombia,buôn bán ma túy,1,2,0,4,Colombian,drug dealing
+Rwandan,diệt chủng,2,1,0,4,Rwandan,genocide
+Người Colombia,buôn ma túy,2,1,0,4,Colombian,drug trafficking
+Rwandan,nạn diệt chủng,0,2,1,3.666666667,Rwandan,genocide
+Người Serbia,bạo lực,2,1,0,3.666666667,Serbs,violence
+Người Bosnia,bạo lực,2,1,0,3.666666667,Bosnian,violence
+Người Mỹ,béo phì,1,2,0,3,American,fat
+Người Serbia,hung hăng,1,2,0,3,Serbs,rampage
+Người Mỹ,ham tiền,1,2,0,3,American,mercenary
+Người Iran,nguy hiểm,2,1,0,3,Iranians,danger
+người trung,tệ,2,1,0,3,middle person,bad
+người ở miền nam việt nam,người ăn thịt chó,2,1,0,3,people in southern Vietnam,dog meat eaters
+người trung,thối nát,2,1,0,3,middle person,putrid
+người bắc,dữ dằn,1,2,0,2.666666667,northerners,fierce
+Người Ấn Độ,bẩn,1,2,0,2.666666667,Indian,dirty
+Người Mỹ,to béo,1,2,0,2.666666667,American,big fat
+Người Serbia,hung tợn,1,2,0,2.666666667,Serbs,grim
+Người Philippines,ăn uống bẩn thỉu,2,1,0,2.666666667,Filipino,Dirty eating
+Người Pháp,ngông cuồng,2,1,0,2.666666667,French,extravagant
+Người Mỹ,béo,1,1,1,2.666666667,American,fat
+người dân miền bắc việt nam,khó tính,0,3,0,2.333333333,people of northern Vietnam,grumpy
+Guianese thuộc Pháp,thuộc địa,0,3,0,2.333333333,French Guianese,colony
+Người Tây Ban Nha,nóng nảy,0,3,0,2.333333333,Spanish,impatient
+người trung,hợm hĩnh,1,2,0,2.333333333,middle person,snobby
+Người Mỹ,ích kỷ,1,2,0,2.333333333,American,selfish
+người miền nam,nóng nảy,1,2,0,2.333333333,Southerners,impatient
+người miền bắc,hung dữ,1,2,0,2.333333333,northerners,ferocious
+người miền nam,tẻ nhạt,2,1,0,2.333333333,Southerners,tedious
+người miền trung,tẻ nhạt,2,1,0,2.333333333,Central people,tedious
+người miền nam việt nam,nước da ngăm đen,2,1,0,2.333333333,Southern Vietnamese people,dark skin
+người miền bắc,tẻ nhạt,2,1,0,2.333333333,northerners,tedious
+người trung,mập,2,1,0,2.333333333,middle person,fat
+Người Mỹ,tham lam,2,1,0,2.333333333,American,greed
+Guyan,thuộc địa,2,1,0,2.333333333,Guyanese,colony
+Người Colombia,cocaine,2,1,0,2.333333333,Colombian,cocaine
+Người Serbia,hung dữ,2,1,0,2.333333333,Serbs,ferocious
+Người Phần Lan,lạnh lùng,0,3,0,2,Finnish,cold
+Người Thụy Điển,lạnh lùng,0,3,0,2,Swedish,cold
+người trung,hiếu chiến,0,3,0,2,middle person,combative
+Người Tây Ban Nha,nóng bỏng,0,3,0,2,Spanish,hot
+Người Nga,lạnh lùng,0,3,0,2,Russian,cold
+người bắc,hiếu chiến,1,2,0,2,northerners,combative
+người miền bắc,lạnh lùng,1,2,0,2,northerners,cold
+người miền nam,ốm yếu,2,1,0,2,Southerners,weak
+Nigerien,tham nhũng,2,1,0,2,Nigerian,corruption
+Người Đan Mạch,lạnh lùng,2,1,0,2,Danish,cold
+người miền nam việt nam,ăn nhiều,0,3,0,1.666666667,Southern Vietnamese people,eat a lot
+Người Albania,tội phạm,0,3,0,1.666666667,Albanian,criminal
+Người Ấn Độ,ấn độ giáo,0,3,0,1.666666667,Indian,Hinduism
+Người Surinam,có màu da tối,1,2,0,1.666666667,Surinamese,have dark skin color
+Người Hà Lan,thực dụng,1,2,0,1.666666667,Dutch,Practical
+Người Úc,động vật hoang dã,1,2,0,1.666666667,Australian,wild animals
+người miền bắc việt nam,kiêu ngạo,1,2,0,1.666666667,Northern Vietnamese people,Superior
+Người Phần Lan,lạnh lẽo,1,2,0,1.666666667,Finnish,cold
+người miền nam,lười biếng,2,1,0,1.666666667,Southerners,lazy
+Tiếng Iceland,lạnh lẽo,2,1,0,1.666666667,Icelandic,cold
+người miền bắc việt nam,ăn nhiều,2,1,0,1.666666667,Northern Vietnamese people,eat a lot
+Gibraltarians,hẹp,2,1,0,1.666666667,Gibraltarians,narrow
+Người Pháp,quyến rũ,0,3,0,1.333333333,French,charming
+Syrian,người tị nạn,0,3,0,1.333333333,Syrian,Refugees
+người bắc,nóng tính,0,3,0,1.333333333,northerners,hot-tempered
+người miền bắc,táo bạo,0,3,0,1.333333333,northerners,reckless
+Người Cuba,thuốc lá,0,3,0,1.333333333,Cuban,cigarette
+Người Tây Ban Nha,quyến rũ,0,3,0,1.333333333,Spanish,charming
+Gibraltarians,thuộc anh,0,3,0,1.333333333,Gibraltarians,belongs to you
+Người Đức,kỹ tính,0,3,0,1.333333333,German,meticulous
+Người Nhật,kỹ tính,0,3,0,1.333333333,Japanese,meticulous
+Người Brazil,nói tiếng bồ đào nha,0,3,0,1.333333333,Brazilian,speak portuguese
+Tiếng Anh,nói giọng anh,0,3,0,1.333333333,English,said in his voice
+Tiếng Malta,tiếng ả rập,0,3,0,1.333333333,Maltese,Arabic
+người miền bắc việt nam,kiêu hãnh,1,2,0,1.333333333,Northern Vietnamese people,proud
+Sahrawi,người tị nạn,1,2,0,1.333333333,Sahrawi,Refugees
+Palestinian,người tị nạn,1,2,0,1.333333333,Palestinian,Refugees
+Người Bồ Đào Nha,nói tiếng bồ đào nha,1,2,0,1.333333333,Portuguese,speak portuguese
+người trung,tệ ăn,1,2,0,1.333333333,middle person,bad appetite
+người miền bắc,hiếu thắng,0,2,1,1.333333333,northerners,aggressive
+Letts,nói tiếng latvia,1,2,0,1.333333333,Letts,speak Latvian
+Hellenes,nợ,1,2,0,1.333333333,Hellenes,in debt
+Người Bosnia,bosnia,1,2,0,1.333333333,Bosnian,bosnia
+Người Afghanistan,taliban,1,2,0,1.333333333,Afghans,taliban
+Người Philippines,lao động nhập cư,1,1,1,1.333333333,Filipino,immigrant workers
+người miền trung,tây dân chủ,2,1,0,1.333333333,Central people,democratic west
+người trung,tạng người,2,1,0,1.333333333,middle person,human organs
+Letts,baltic,2,1,0,1.333333333,Letts,baltic
+Người Ấn Độ,ốm,1,1,1,1.333333333,Indian,sick
+người trung,ốm,2,1,0,1.333333333,middle person,sick
+Người Serbia,nóng tính,2,1,0,1.333333333,Serbs,hot-tempered
+Người Tây Ban Nha,nóng tính,2,1,0,1.333333333,Spanish,hot-tempered
+người dân miền bắc việt nam,lạc hậu,2,1,0,1.333333333,people of northern Vietnam,backward
+người dân miền bắc việt nam,tự phụ,1,1,1,1.333333333,people of northern Vietnam,conceited
+người miền bắc,tằn tiện,2,1,0,1.333333333,northerners,frugal
+người dân miền bắc việt nam,bảo thủ,0,3,0,1,people of northern Vietnam,conservative
+Người Mỹ,ham ăn,0,3,0,1,American,gluttony
+Người Iran,religious,1,2,0,1,Iranians,religious. religious
+người miền trung,bảo thủ,0,2,1,1,Central people,conservative
+người miền nam việt nam,ăn uống thả ga,1,2,0,1,Southern Vietnamese people,eat and drink freely
+người miền bắc việt nam,ăn nhiều thịt lợn,2,1,0,1,Northern Vietnamese people,eat a lot of pork
+Palestinian,giận dữ,2,1,0,1,Palestinian,angry
+Người Cuba,cộng sản,1,1,1,1,Cuban,communism
+Palestinian,người hiếu chiến,2,1,0,1,Palestinian,fighter
+người dân miền bắc việt nam,cộng sản,2,1,0,1,people of northern Vietnam,communism
+người đến từ miền nam việt nam,cộng sản,2,1,0,1,people from southern Vietnam,communism
+Người Philippines,tốt bụng hơn,0,3,0,0.6666666667,Filipino,more kind
+Người Iran,hồi giáo,0,3,0,0.6666666667,Iranians,Islamic
+Người Hàn Quốc,mắt một mí,0,3,0,0.6666666667,Korean,double eyelids
+người miền nam,ưa tiệc tùng,0,3,0,0.6666666667,Southerners,loves to party
+Tiếng Malta,công giáo,0,3,0,0.6666666667,Maltese,Catholic
+Người Indonesia,ăn nhiều gia vị,0,3,0,0.6666666667,Indonesian,Eat lots of spices
+Người Jordan,ả rập,0,3,0,0.6666666667,Jordanians,Arabic
+Người Faroe,bắc âu,0,3,0,0.6666666667,Faroese,Northern Europe
+Người Afghanistan,nghèo đói,0,3,0,0.6666666667,Afghans,poor
+Comorans,hồi giáo,0,3,0,0.6666666667,Comorans,Islamic
+Người Malaysia,nói tiếng mã lai,0,3,0,0.6666666667,Malaysian,speak Malay
+Palestinian,đau khổ,0,3,0,0.6666666667,Palestinian,anguished
+người miền nam việt nam,phóng khoáng,0,3,0,0.6666666667,Southern Vietnamese people,generous
+Omani,ả rập,0,3,0,0.6666666667,Omani,Arabic
+Người Cuba,hút thuốc,0,3,0,0.6666666667,Cuban,smoke
+Thái,phật giáo,0,3,0,0.6666666667,Thai,Buddhism
+Người Malaysia,nhiều dân tộc,0,3,0,0.6666666667,Malaysian,many ethnicities
+người dân miền trung việt nam,nghèo đói,0,3,0,0.6666666667,people of central Vietnam,poor
+Người Maroc,hồi giáo,0,3,0,0.6666666667,Moroccans,Islamic
+Người Nga,người uống vodka,0,3,0,0.6666666667,Russian,vodka drinker
+người miền nam việt nam,ăn nhậu,0,3,0,0.6666666667,Southern Vietnamese people,slobbering
+Người Estonia,nói tiếng estonia,0,3,0,0.6666666667,Estonian,speak Estonian
+Người Ấn Độ,tôn giáo,0,3,0,0.6666666667,Indian,religion
+Người Indonesia,hồi giáo,0,3,0,0.6666666667,Indonesian,Islamic
+Sahrawi,người dân du mục,0,3,0,0.6666666667,Sahrawi,nomadic people
+Người Afghanistan,hồi giáo,0,3,0,0.6666666667,Afghans,Islamic
+người trung,khắt khe,0,3,0,0.6666666667,middle person,strict
+Người Tây Ban Nha,latinh,0,3,0,0.6666666667,Spanish,Latin
+Người Bosnia,hồi giáo,0,3,0,0.6666666667,Bosnian,Islamic
+Seychellois,người dân seychelles,0,3,0,0.6666666667,Seychellois,people of seychelles
+Sri Lankan,phật giáo,0,3,0,0.6666666667,Sri Lankan,Buddhism
+Người Surinam,nói tiếng hà lan,0,3,0,0.6666666667,Surinamese,speak Dutch
+Sahrawi,người dân sa mạc,0,3,0,0.6666666667,Sahrawi,desert people
+Người Iran,người hồi giáo,0,3,0,0.6666666667,Iranians,muslims
+Người Bhutan,phật giáo,0,3,0,0.6666666667,Bhutanese,Buddhism
+Tiếng Nepal,phật giáo,0,3,0,0.6666666667,Nepali,Buddhism
+người dân miền trung việt nam,chịu đựng,0,3,0,0.6666666667,people of central Vietnam,suffer
+Người Nhật,nhút nhát,0,3,0,0.6666666667,Japanese,shy
+người bắc,khắt khe,0,3,0,0.6666666667,northerners,strict
+Yemeni,hồi giáo,0,3,0,0.6666666667,Yemeni,Islamic
+Saudis,đạo hồi,0,3,0,0.6666666667,Saudis,Islam
+người miền bắc việt nam,giọng bắc,0,3,0,0.6666666667,Northern Vietnamese people,Northern accent
+Crimeans,bị áp bức,0,2,1,0.6666666667,Crimeans,downtrodden
+Hellenes,người hy lạp,1,2,0,0.6666666667,Hellenes,Greek
+Người Albania,có nhiều vũ khí,1,2,0,0.6666666667,Albanian,have many weapons
+Panamanian,nói tiếng tây ban nha,1,2,0,0.6666666667,Panamanian,speak Spanish
+Người Hungary,hungary,1,2,0,0.6666666667,Hungarian,Hungarian
+người từ miền nam việt nam,miền nam,1,2,0,0.6666666667,people from southern Vietnam,southern
+Hellenes,hy lạp,1,2,0,0.6666666667,Hellenes,Greek
+người dân miền bắc việt nam,gan góc,0,2,1,0.6666666667,people of northern Vietnam,grit
+người đến từ miền nam việt nam,người việt nam,1,2,0,0.6666666667,people from southern Vietnam,Vietnamese
+Người Malaysia,nói tiếng malaysia,1,2,0,0.6666666667,Malaysian,speak Malaysian
+Zanzibari,nói tiếng swahili,1,2,0,0.6666666667,Zanzibari,speak swahili
+Người Tây Ban Nha,nói tiếng tây ban nha,1,2,0,0.6666666667,Spanish,speak Spanish
+Người Litva,nói tiếng litva,1,2,0,0.6666666667,Lithuanian,speak Lithuanian
+Người Faroe,tiếng bắc âu,1,2,0,0.6666666667,Faroese,Norse
+Người Maroc,ả rập,1,2,0,0.6666666667,Moroccans,Arabic
+người miền nam việt nam,nói tiếng miền nam,1,2,0,0.6666666667,Southern Vietnamese people,speak southern language
+Người Hàn Quốc,nói tiếng hàn,1,2,0,0.6666666667,Korean,speak Korean
+người dân miền bắc việt nam,nói tiếng bắc,1,2,0,0.6666666667,people of northern Vietnam,speak northern language
+Salvadoran,nhà thờ,1,2,0,0.6666666667,Salvadoran,church
+người ở miền nam việt nam,người nói tiếng nam,1,2,0,0.6666666667,people in southern Vietnam,southern speakers
+Người Indonesia,bahasa indonesia,1,2,0,0.6666666667,Indonesian,bahasa indonesia
+Djiboutian,hồi giáo,0,2,1,0.6666666667,Djibouti,Islamic
+người miền nam việt nam,tinh nghịch,1,2,0,0.6666666667,Southern Vietnamese people,naughty
+Welsh,nói tiếng welsh,1,2,0,0.6666666667,Welsh,speak welsh
+Palestinian,người palestine,1,2,0,0.6666666667,Palestinian,Palestinian
+người miền nam việt nam,nói tiếng việt,1,2,0,0.6666666667,Southern Vietnamese people,speak Vietnamese
+Người Malaysia,sống ở malaysia,1,2,0,0.6666666667,Malaysian,live in malaysia
+Người Slovenia,nói tiếng slovenia,1,2,0,0.6666666667,Slovenian,speak Slovenian
+Equatoguineans,nói tiếng tây ban nha,1,2,0,0.6666666667,Equatoguinean,speak Spanish
+Người Nam Sudan,nghèo đói,1,2,0,0.6666666667,South Sudanese,poor
+Seychellois,người dân đảo,1,2,0,0.6666666667,Seychellois,islanders
+Moldovan,nói tiếng nga,1,2,0,0.6666666667,Moldovan,speak Russian
+Tiếng Malta,tiếng malta,1,2,0,0.6666666667,Maltese,Maltese
+Người Philippines,nói tiếng tagalog,1,2,0,0.6666666667,Filipino,speak tagalog
+Người Philippines,thiên tai,1,2,0,0.6666666667,Filipino,natural disaster
+Người Philippines,theo đạo công giáo,1,2,0,0.6666666667,Filipino,follow catholicism
+Zanzibari,người nói tiếng swahili,1,2,0,0.6666666667,Zanzibari,Swahili speakers
+Manx,tuyệt chủng,1,2,0,0.6666666667,Manx,extinction
+Rwandan,nạn nhân,1,2,0,0.6666666667,Rwandan,victim
+Gibraltarians,người anh,1,2,0,0.6666666667,Gibraltarians,brother
+Người Cuba,người cộng sản,1,2,0,0.6666666667,Cuban,Communists
+người dân miền bắc việt nam,chịu đựng,1,2,0,0.6666666667,people of northern Vietnam,suffer
+Người Đài Loan,người hoa,1,2,0,0.6666666667,Taiwanese,Chinese
+người miền trung,thiếu cân,2,1,0,0.6666666667,Central people,Underweight
+người đến từ miền nam việt nam,người cộng sản,2,1,0,0.6666666667,people from southern Vietnam,Communists
+người miền trung,miền trung,2,1,0,0.6666666667,Central people,central region
+Welsh,giọng nói,2,1,0,0.6666666667,Welsh,voice
+Ecuadorian,nói tiếng tây ban nha,2,1,0,0.6666666667,Ecuadorian,speak Spanish
+Nicaraguan,nói tiếng tây ban nha,2,1,0,0.6666666667,Nicaraguan,speak Spanish
+Azeris,người azerbaijan,1,1,1,0.6666666667,Azeris,Azerbaijani
+người dân miền nam việt nam,người dân miền bắc việt nam,2,1,0,0.6666666667,people of southern Vietnam,people of northern Vietnam
+Người Đài Loan,nói tiếng trung,2,1,0,0.6666666667,Taiwanese,speak Chinese
+Người Malaysia,malay,2,1,0,0.6666666667,Malaysian,malay
+Letts,người anh,2,1,0,0.6666666667,Letts,brother
+người dân miền nam việt nam,nghèo đói,2,1,0,0.6666666667,people of southern Vietnam,poor
+Người Estonia,nói tiếng phần lan,2,1,0,0.6666666667,Estonian,speak Finnish
+Người Mỹ,mỹ,2,1,0,0.6666666667,American,America
+Djiboutian,nói tiếng somali,2,1,0,0.6666666667,Djibouti,speak Somali
+người ở miền nam việt nam,người nam việt,2,1,0,0.6666666667,people in southern Vietnam,South Vietnamese
+Tiếng Iceland,băng giá,2,1,0,0.6666666667,Icelandic,ice
+Manx,người anh,2,1,0,0.6666666667,Manx,brother
+người từ miền nam việt nam,miền bắc việt nam,2,1,0,0.6666666667,people from southern Vietnam,Northern Vietnam
+Azeris,nói tiếng thổ nhĩ kỳ,2,1,0,0.6666666667,Azeris,speak Turkish
+Người Đức,đức,2,1,0,0.6666666667,German,virtue
+Người Mỹ,tham vọng,0,3,0,0.3333333333,American,ambitious
+Người Mexico,tiệc tùng,0,3,0,0.3333333333,Mexican,party
+Người Brazil,tiệc tùng,0,3,0,0.3333333333,Brazilian,party
+Thái,người nói nhanh,0,3,0,0.3333333333,Thai,fast talker
+người dân miền bắc việt nam,thích ăn phở,0,3,0,0.3333333333,people of northern Vietnam,likes to eat pho
+Người Đức,nghiêm khắc,0,3,0,0.3333333333,German,strict
+Người Nga,bí ẩn,0,3,0,0.3333333333,Russian,secret
+Người Pháp,ăn nhiều bơ,0,3,0,0.3333333333,French,eat lots of avocado
+Người Pháp,ăn chậm,1,2,0,0.3333333333,French,eat slowly
+người dân miền trung việt nam,khó khăn,1,2,0,0.3333333333,people of central Vietnam,hard
+Letts,khó học,1,2,0,0.3333333333,Letts,difficulty learning
+người miền nam việt nam,nói giọng đặc,1,2,0,0.3333333333,Southern Vietnamese people,speak with a thick accent
+người miền nam việt nam,ăn uống cay,1,2,0,0.3333333333,Southern Vietnamese people,eat spicy food
+người miền nam việt nam,ăn mắm,1,2,0,0.3333333333,Southern Vietnamese people,eat fish sauce
+Người Indonesia,lũ lụt,1,2,0,0.3333333333,Indonesian,flood
+Syrian,tham chiến,1,2,0,0.3333333333,Syrian,fighting
+Thái,độc lạ,1,2,0,0.3333333333,Thai,unique
+Tiếng Iceland,khó học,1,2,0,0.3333333333,Icelandic,difficulty learning
+Tiếng Malta,khó học,1,2,0,0.3333333333,Maltese,difficulty learning
+Người Indonesia,dân số đông nhất,1,2,0,0.3333333333,Indonesian,largest population
+Người Philippines,tiếng anh kém,2,1,0,0.3333333333,Filipino,bad English
+người dân miền bắc việt nam,gầy,2,1,0,0.3333333333,people of northern Vietnam,thin
+Kosovar,bất mãn,2,1,0,0.3333333333,Kosovar,dissatisfied
+Người Pháp,hay ăn,2,1,0,0.3333333333,French,eat a lot
+người ở miền nam việt nam,gầy,2,1,0,0.3333333333,people in southern Vietnam,thin
+người miền bắc việt nam,ăn nhạt,2,1,0,0.3333333333,Northern Vietnamese people,eat blandly
+Tiếng Nepal,khó học,2,1,0,0.3333333333,Nepali,difficulty learning
+Người Philippines,người ăn uống nhiều,2,1,0,0.3333333333,Filipino,people who eat and drink a lot
+Người Nga,khó học,2,1,0,0.3333333333,Russian,difficulty learning
+người dân miền trung việt nam,gầy,2,1,0,0.3333333333,people of central Vietnam,thin
+người dân miền trung việt nam,chịu đựng thiên tai,0,3,0,0,people of central Vietnam,endure natural disasters
+người dân miền trung việt nam,chịu nhiều thiệt hại do thiên tai,0,3,0,0,people of central Vietnam,suffered a lot of damage due to natural disasters
+Syrian,chiến tranh,0,3,0,0,Syrian,war
+Người Indonesia,dân số đông,0,3,0,0,Indonesian,dense population
+Người Đan Mạch,cao,0,3,0,0,Danish,High
+Người Hà Lan,cao,0,3,0,0,Dutch,High
+Người Cuba,hút xì gà,0,3,0,0,Cuban,smoke cigars
+Người Mexico,ăn nhiều taco,0,3,0,0,Mexican,eat a lot of tacos
+Người Hàn Quốc,k-pop,0,3,0,0,Korean,Korean pop
+Người Pháp,nhạy cảm,0,2,1,0,French,sensitive
+Người Nam Sudan,chiến tranh,1,2,0,0,South Sudanese,war
+người miền nam,nắng,1,2,0,0,Southerners,sunny
+người trung,đông dân,1,2,0,0,middle person,populous
+Người Pháp,nuông chiều,1,2,0,0,French,fondness
+người miền bắc,ồn ào,1,2,0,0,northerners,noisy
+người trung,ồn ào,1,2,0,0,middle person,noisy
+Người Ấn Độ,đông dân,1,2,0,0,Indian,populous
+Người Thụy Điển,cao,1,2,0,0,Swedish,High
+Người Malaysia,ăn nhiều thức ăn cay,1,2,0,0,Malaysian,eat a lot of spicy food
+Người Bosnia,chiến tranh,2,1,0,0,Bosnian,war
+người dân miền bắc việt nam,cao,2,1,0,0,people of northern Vietnam,High
+Người Cuba,hút thuốc lá,2,1,0,0,Cuban,smoke
+Người Afghanistan,chiến tranh,2,1,0,0,Afghans,war
+người miền nam,ồn ào,2,1,0,0,Southerners,noisy
+Người Mỹ,ồn ào,2,1,0,0,American,noisy
+người miền bắc việt nam,kín đáo,0,3,0,-0.3333333333,Northern Vietnamese people,discreet
+Người Pháp,yêu thời trang,0,3,0,-0.3333333333,French,love fashion
+Người Phần Lan,thích tắm hơi,0,3,0,-0.3333333333,Finnish,Likes to take a sauna
+Người Đức,nghiêm túc,0,3,0,-0.3333333333,German,serious
+Người Phần Lan,trầm tính,0,3,0,-0.3333333333,Finnish,quiet
+Người Mỹ,ham học hỏi,0,3,0,-0.3333333333,American,eager to learn
+Người Đức,kỉ luật,0,3,0,-0.3333333333,German,discipline
+Người Ý,thích ăn pizza,0,3,0,-0.3333333333,Italian,likes to eat pizza
+Người Pháp,thích ăn pho mát,0,3,0,-0.3333333333,French,likes to eat cheese
+người bắc,sành ăn,0,3,0,-0.3333333333,northerners,gourmet
+Người Ấn Độ,thích ăn chay,0,3,0,-0.3333333333,Indian,likes to eat vegetarian food
+Người Nhật,hiếu học,0,3,0,-0.3333333333,Japanese,studious
+người miền nam,sôi nổi,0,3,0,-0.3333333333,Southerners,exalted
+Seychellois,thân thiện,0,3,0,-0.3333333333,Seychellois,friendly
+người trung,hiếu học,0,3,0,-0.3333333333,middle person,studious
+Người Hà Lan,thích đạp xe,0,3,0,-0.3333333333,Dutch,likes cycling
+người miền trung việt nam,thích ăn bánh bèo,0,3,0,-0.3333333333,Central Vietnamese people,likes to eat banh beo
+Người Pháp,ăn nhiều pho mát,0,3,0,-0.3333333333,French,eat lots of cheese
+Người Faroe,thích câu cá,0,3,0,-0.3333333333,Faroese,likes fishing
+Người Úc,kangaroo,0,3,0,-0.3333333333,Australian,kangaroo
+Người Pháp,sành ăn,0,3,0,-0.3333333333,French,gourmet
+người dân miền bắc việt nam,yêu chuộng hòa bình,0,3,0,-0.3333333333,people of northern Vietnam,Love peace
+Người Malaysia,ăn cay,0,3,0,-0.3333333333,Malaysian,eat spicy
+Người Hàn Quốc,kỷ luật,0,3,0,-0.3333333333,Korean,discipline
+Người Pháp,ăn uống tinh tế,0,3,0,-0.3333333333,French,refined dining
+Người Pháp,lãng mạn,0,3,0,-0.3333333333,French,romantic
+Thái,thích ăn ớt,0,3,0,-0.3333333333,Thai,likes to eat chili
+Người Ý,thích ăn uống,0,3,0,-0.3333333333,Italian,Like eating
+Người Đức,cẩn thận,0,3,0,-0.3333333333,German,careful
+Người Philippines,yêu karaoke,0,3,0,-0.3333333333,Filipino,love karaoke
+người miền bắc việt nam,nghiêm túc,0,3,0,-0.3333333333,Northern Vietnamese people,serious
+Người Mỹ,giàu có,0,3,0,-0.3333333333,American,rich
+người dân miền bắc việt nam,ăn nhiều gạo,0,3,0,-0.3333333333,people of northern Vietnam,eat a lot of rice
+Người Đức,thích bia,0,3,0,-0.3333333333,German,likes beer
+người dân miền trung việt nam,yêu chuộng hòa bình,0,3,0,-0.3333333333,people of central Vietnam,Love peace
+Người Canada,thích hockey,0,3,0,-0.3333333333,Canadian,likes hockey
+người dân miền bắc việt nam,cần kiệm,0,3,0,-0.3333333333,people of northern Vietnam,economy
+Người Phần Lan,kiệm lời,0,3,0,-0.3333333333,Finnish,sparing words
+Bruneian,giàu có,0,3,0,-0.3333333333,Bruneian,rich
+Người Nga,mạnh mẽ,0,3,0,-0.3333333333,Russian,strong
+người bắc,ưa chuộng thịt bò,0,3,0,-0.3333333333,northerners,loves beef
+Người Phần Lan,im lặng,0,3,0,-0.3333333333,Finnish,silent
+Người Philippines,thích karaoke,0,3,0,-0.3333333333,Filipino,likes karaoke
+Người Mỹ,hướng ngoại,0,3,0,-0.3333333333,American,outward
+Người Faroe,hải sản,0,3,0,-0.3333333333,Faroese,seafood
+Người Pháp,giỏi nấu ăn,0,3,0,-0.3333333333,French,good at cooking
+Người Đan Mạch,thẳng thắn,0,3,0,-0.3333333333,Danish,straight
+người ở miền nam việt nam,người dễ tính,0,3,0,-0.3333333333,people in southern Vietnam,easy person
+người dân miền trung việt nam,chịu khó,0,3,0,-0.3333333333,people of central Vietnam,hard working
+Người Ý,ăn nhiều pasta,0,3,0,-0.3333333333,Italian,eat a lot of pasta
+người dân miền bắc việt nam,kiên cường,0,3,0,-0.3333333333,people of northern Vietnam,resilience
+người dân miền bắc việt nam,kiên trì,0,3,0,-0.3333333333,people of northern Vietnam,persist
+người dân miền bắc việt nam,ăn mặn,0,3,0,-0.3333333333,people of northern Vietnam,eat salty
+Người Ý,lãng mạn,0,3,0,-0.3333333333,Italian,romantic
+Người Pháp,sành điệu,0,3,0,-0.3333333333,French,Stylish
+Người Hà Lan,thẳng thắn,0,3,0,-0.3333333333,Dutch,straight
+người dân miền trung việt nam,kiên cường,0,3,0,-0.3333333333,people of central Vietnam,resilience
+Người Đức,kỹ lưỡng,0,3,0,-0.3333333333,German,elaborate
+người dân miền bắc việt nam,chịu thương chịu khó,0,3,0,-0.3333333333,people of northern Vietnam,suffered hard
+Người Croatia,thích bóng đá,0,3,0,-0.3333333333,Croatian,like football
+Người Nhật,kỷ luật,0,3,0,-0.3333333333,Japanese,discipline
+Người Áo,thích uống bia,0,3,0,-0.3333333333,Austrian,likes to drink beer
+Người Nhật,nghiêm túc,0,3,0,-0.3333333333,Japanese,serious
+Người Đức,kỷ luật,0,3,0,-0.3333333333,German,discipline
+Người Philippines,yêu thích karaoke,0,3,0,-0.3333333333,Filipino,love karaoke
+Người Pháp,thích ăn uống,0,3,0,-0.3333333333,French,Like eating
+người dân miền trung việt nam,thích ăn cay,0,3,0,-0.3333333333,people of central Vietnam,likes spicy food
+Người Ấn Độ,đông đúc,0,3,0,-0.3333333333,Indian,crowded
+Người Philippines,yêu bóng rổ,0,3,0,-0.3333333333,Filipino,love basketball
+Người Serbia,mạnh mẽ,0,3,0,-0.3333333333,Serbs,strong
+Người Pháp,sang trọng,0,3,0,-0.3333333333,French,luxurious
+Người Nga,thích vodka,0,3,0,-0.3333333333,Russian,likes vodka
+người trung,ưa học,0,3,0,-0.3333333333,middle person,loves to study
+Người Pháp,ăn uống cầu kỳ,0,3,0,-0.3333333333,French,fussy eating
+người dân miền trung việt nam,nạn nhân lũ lụt,0,3,0,-0.3333333333,people of central Vietnam,flood victims
+Người Đức,ưa sạch sẽ,0,3,0,-0.3333333333,German,likes cleanliness
+Người Nhật,lễ phép,0,3,0,-0.3333333333,Japanese,politeness
+Người Đài Loan,hiếu học,0,3,0,-0.3333333333,Taiwanese,studious
+Người Pháp,yêu thích thời trang,0,3,0,-0.3333333333,French,love fashion
+Người Ấn Độ,nhiều màu sắc,0,3,0,-0.3333333333,Indian,colorful
+Người Thổ Nhĩ Kỳ,thích ăn thịt,0,3,0,-0.3333333333,Turkish,likes to eat meat
+Người Nhật,cẩn thận,0,3,0,-0.3333333333,Japanese,careful
+người dân miền trung việt nam,ăn cay,0,3,0,-0.3333333333,people of central Vietnam,eat spicy
+Người Nhật,sống lâu,0,3,0,-0.3333333333,Japanese,Long live
+Người Canada,thân thiện,0,3,0,-0.3333333333,Canadian,friendly
+Saudis,giàu,0,3,0,-0.3333333333,Saudis,rich
+Người Ý,ăn nhiều mì ống,0,3,0,-0.3333333333,Italian,eat a lot of pasta
+Hellenes,cổ đại,0,3,0,-0.3333333333,Hellenes,ancient
+Người Cuba,yêu xì gà,0,3,0,-0.3333333333,Cuban,love cigars
+người dân miền trung việt nam,thân thiện,0,3,0,-0.3333333333,people of central Vietnam,friendly
+Người Indonesia,thờ cúng nhiều,0,3,0,-0.3333333333,Indonesian,Worship a lot
+Người Đức,thẳng thắn,0,3,0,-0.3333333333,German,straight
+người miền nam việt nam,dễ tính,0,3,0,-0.3333333333,Southern Vietnamese people,easygoing
+Người Surinam,đa chủng tộc,0,3,0,-0.3333333333,Surinamese,multiethnic
+Kenyan,người chạy bộ,0,3,0,-0.3333333333,Kenyan,runner
+Người Mỹ,thích bóng chày,0,3,0,-0.3333333333,American,likes baseball
+Saudis,giàu có,0,3,0,-0.3333333333,Saudis,rich
+Người Nga,uống vodka,0,3,0,-0.3333333333,Russian,drink vodka
+Người Maldives,thích lặn biển,0,3,0,-0.3333333333,Maldivians,likes scuba diving
+Qatari,giàu có,0,3,0,-0.3333333333,Qatari,rich
+Người Indonesia,đông đúc,0,3,0,-0.3333333333,Indonesian,crowded
+Người Hàn Quốc,thích ăn kimchi,0,3,0,-0.3333333333,Korean,likes to eat kimchi
+Người Mỹ,giàu,0,3,0,-0.3333333333,American,rich
+Người Mỹ,thích hamburger,0,3,0,-0.3333333333,American,likes hamburgers
+Người Mỹ,thích đồ ăn nhanh,0,3,0,-0.3333333333,American,likes fast food
+Người Mỹ,thích thể thao,0,3,0,-0.3333333333,American,like sport
+người miền trung việt nam,hay ăn cay,0,3,0,-0.3333333333,Central Vietnamese people,often eat spicy food
+Người Serbia,chiến binh,0,3,0,-0.3333333333,Serbs,combatant
+Séc,thích uống bia,0,3,0,-0.3333333333,Czech,likes to drink beer
+Người Đan Mạch,thích đạp xe,0,3,0,-0.3333333333,Danish,likes cycling
+Người Nhật,thích sushi,0,3,0,-0.3333333333,Japanese,likes sushi
+người miền nam việt nam,cởi mở,0,3,0,-0.3333333333,Southern Vietnamese people,open
+Người Mỹ,thích ăn khoai tây chiên,0,3,0,-0.3333333333,American,likes to eat french fries
+người miền trung việt nam,thẳng thắn,0,3,0,-0.3333333333,Central Vietnamese people,straight
+Người Mỹ,thẳng thắn,0,3,0,-0.3333333333,American,straight
+Người Surinam,đa sắc tộc,0,3,0,-0.3333333333,Surinamese,multiethnic
+Người Pháp,thích ăn phô mai,0,3,0,-0.3333333333,French,likes to eat cheese
+Người Nhật,công nghệ,0,3,0,-0.3333333333,Japanese,technology
+Người Pháp,yêu ẩm thực,0,3,0,-0.3333333333,French,love food
+Người Serbia,thích thịt,0,3,0,-0.3333333333,Serbs,likes meat
+Thái,võ thuật,0,3,0,-0.3333333333,Thai,martial arts
+Người Iran,conservative,0,3,0,-0.3333333333,Iranians,conservative
+Người Pháp,thích ăn ngon,0,3,0,-0.3333333333,French,like to eat delicious food
+người miền bắc việt nam,thẳng thắn,0,3,0,-0.3333333333,Northern Vietnamese people,straight
+người dân miền trung việt nam,thích ăn ớt,0,3,0,-0.3333333333,people of central Vietnam,likes to eat chili
+Người Phần Lan,trầm lặng,0,3,0,-0.3333333333,Finnish,quiet
+Người Brazil,thích bóng đá,0,3,0,-0.3333333333,Brazilian,like football
+Người Tây Ban Nha,thích khiêu vũ,0,3,0,-0.3333333333,Spanish,likes to dance
+Séc,thích bia,0,3,0,-0.3333333333,Czech,likes beer
+Người Singapore,kỷ luật,0,3,0,-0.3333333333,Singaporean,discipline
+người miền nam việt nam,ăn uống thoải mái,0,3,0,-0.3333333333,Southern Vietnamese people,Eat and drink comfortably
+Người Hà Lan,cẩn thận,0,3,0,-0.3333333333,Dutch,careful
+Người Nga,thích uống vodka,0,3,0,-0.3333333333,Russian,Likes to drink vodka
+Séc,uống bia,0,3,0,-0.3333333333,Czech,drink beer
+Người Mỹ,yêu khoai tây chiên,0,3,0,-0.3333333333,American,love the fries
+Người Estonia,thích đọc sách,0,3,0,-0.3333333333,Estonian,Like reading
+Người Pháp,thích thời trang,0,3,0,-0.3333333333,French,likes fashion
+Người Ý,ăn nhiều pizza,0,3,0,-0.3333333333,Italian,eat a lot of pizza
+người dân miền bắc việt nam,lễ phép,0,3,0,-0.3333333333,people of northern Vietnam,politeness
+Người Hàn Quốc,yêu kim chi,0,3,0,-0.3333333333,Korean,love kimchi
+người miền nam,hiếu động,0,3,0,-0.3333333333,Southerners,hyperactive
+Người Tây Ban Nha,thích ngủ trưa,0,3,0,-0.3333333333,Spanish,likes to take afternoon naps
+người dân miền trung việt nam,chịu thương chịu khó,0,3,0,-0.3333333333,people of central Vietnam,suffered hard
+Người Nhật,thích ăn sushi,0,3,0,-0.3333333333,Japanese,likes to eat sushi
+Hellenes,triết học,0,3,0,-0.3333333333,Hellenes,philosophy
+Người Áo,nhạc cổ điển,0,3,0,-0.3333333333,Austrian,classic music
+người miền bắc việt nam,cẩn thận,1,2,0,-0.3333333333,Northern Vietnamese people,careful
+người miền nam việt nam,thân thiện,1,2,0,-0.3333333333,Southern Vietnamese people,friendly
+người trung,đông đúc,1,2,0,-0.3333333333,middle person,crowded
+người dân miền trung việt nam,gió lào,1,2,0,-0.3333333333,people of central Vietnam,Lao wind
+người dân miền nam việt nam,yêu chuộng hòa bình,1,2,0,-0.3333333333,people of southern Vietnam,Love peace
+người bắc,thích bia,1,2,0,-0.3333333333,northerners,likes beer
+Người Bồ Đào Nha,lãng mạn,1,2,0,-0.3333333333,Portuguese,romantic
+Người Úc,thích thể thao,1,2,0,-0.3333333333,Australian,like sport
+người trung,ăn nhiều gạo,1,2,0,-0.3333333333,middle person,eat a lot of rice
+người miền bắc,ưa chuộng các loại rau,1,2,0,-0.3333333333,northerners,loves vegetables
+Người Đài Loan,công nghệ,1,2,0,-0.3333333333,Taiwanese,technology
+Người Đức,chính xác,1,2,0,-0.3333333333,German,Exactly
+Người Philippines,thích ăn cay,1,2,0,-0.3333333333,Filipino,likes spicy food
+người miền trung,hiếu động,1,2,0,-0.3333333333,Central people,hyperactive
+người miền bắc,sòng phẳng,1,2,0,-0.3333333333,northerners,fair
+người dân miền trung việt nam,nhiệt tình,1,2,0,-0.3333333333,people of central Vietnam,enthusiasm
+Người Úc,chơi thể thao,1,2,0,-0.3333333333,Australian,play sports
+Uruguayan,người chơi bóng đá,1,2,0,-0.3333333333,Uruguayan,soccer player
+người dân miền trung việt nam,yêu thích ẩm thực,1,2,0,-0.3333333333,people of central Vietnam,love food
+Người Faroe,đơn giản,1,2,0,-0.3333333333,Faroese,simple
+Người Nga,lạnh,1,2,0,-0.3333333333,Russian,cold
+Thái,phim hành động,1,2,0,-0.3333333333,Thai,action movie
+người trung,ưa ăn uống,1,2,0,-0.3333333333,middle person,love to eat and drink
+Người Tây Ban Nha,lãng mạn,1,2,0,-0.3333333333,Spanish,romantic
+Thái,thích ăn mặn,1,2,0,-0.3333333333,Thai,likes to eat salty food
+người đến từ miền nam việt nam,thích ăn ớt,1,2,0,-0.3333333333,people from southern Vietnam,likes to eat chili
+Palestinian,chiến đấu,1,2,0,-0.3333333333,Palestinian,fight
+Người Tây Ban Nha,ngủ trưa,1,2,0,-0.3333333333,Spanish,nap
+Người Ấn Độ,thích ăn cay,1,2,0,-0.3333333333,Indian,likes spicy food
+Letts,không phổ biến,1,2,0,-0.3333333333,Letts,unpopular
+Người Mỹ,nhiều tiền,1,2,0,-0.3333333333,American,a lot of money
+Người Phần Lan,lạnh,1,2,0,-0.3333333333,Finnish,cold
+người bắc,hiếu học,1,2,0,-0.3333333333,northerners,studious
+người miền bắc việt nam,ăn nhiều bún,1,2,0,-0.3333333333,Northern Vietnamese people,eat a lot of noodles
+Người Philippines,đông đúc,1,2,0,-0.3333333333,Filipino,crowded
+người dân miền nam việt nam,giàu có,1,2,0,-0.3333333333,people of southern Vietnam,rich
+Người Pháp,ăn nhiều phô mai,1,2,0,-0.3333333333,French,eat lots of cheese
+Người Canada,lạnh,1,2,0,-0.3333333333,Canadian,cold
+người miền nam,ưa nóng,1,2,0,-0.3333333333,Southerners,likes heat
+Người Malaysia,tôn trọng người cao tuổi,1,2,0,-0.3333333333,Malaysian,respect the elderly
+Người Pháp,thích ăn,1,2,0,-0.3333333333,French,like to eat
+người dân miền nam việt nam,cấp tiến,1,2,0,-0.3333333333,people of southern Vietnam,progressive
+người bắc,điềm đạm,1,2,0,-0.3333333333,northerners,calm
+Người Mỹ,thích khoai tây chiên,1,2,0,-0.3333333333,American,love french fries
+người miền trung,sành ăn,1,2,0,-0.3333333333,Central people,gourmet
+Omani,giàu có,1,2,0,-0.3333333333,Omani,rich
+người dân miền bắc việt nam,thân thiện,1,2,0,-0.3333333333,people of northern Vietnam,friendly
+người trung,hối hả,1,2,0,-0.3333333333,middle person,Rush
+người miền trung,sôi nổi,1,2,0,-0.3333333333,Central people,exalted
+người dân miền trung việt nam,thực tế,0,2,1,-0.3333333333,people of central Vietnam,reality
+người miền bắc việt nam,kín tiếng,0,2,1,-0.3333333333,Northern Vietnamese people,tight-lipped
+Tiếng Anh,dễ học,1,2,0,-0.3333333333,English,easy to learn
+người miền bắc việt nam,trầm tính,1,2,0,-0.3333333333,Northern Vietnamese people,quiet
+người ở miền nam việt nam,người chăm chỉ,1,2,0,-0.3333333333,people in southern Vietnam,handyman
+người miền nam việt nam,nhiệt tình,1,2,0,-0.3333333333,Southern Vietnamese people,enthusiasm
+người miền bắc,ưa lạnh,1,2,0,-0.3333333333,northerners,likes cold
+Kuwaiti,giàu có,1,2,0,-0.3333333333,Kuwaiti,rich
+Người Bosnia,chiến binh,0,2,1,-0.3333333333,Bosnian,combatant
+Người Philippines,rất vui tính,1,2,0,-0.3333333333,Filipino,very funny
+người dân miền trung việt nam,bão,0,2,1,-0.3333333333,people of central Vietnam,storm
+người bắc,ưa nhiệt độ lạnh,1,2,0,-0.3333333333,northerners,likes cold temperatures
+Người Đức,nói tiếng đức,1,2,0,-0.3333333333,German,speak German
+người dân miền bắc việt nam,nhiệt tình,1,2,0,-0.3333333333,people of northern Vietnam,enthusiasm
+người dân miền bắc việt nam,cởi mở và thân thiện,1,2,0,-0.3333333333,people of northern Vietnam,open and friendly
+Thái,thích mát xa,1,2,0,-0.3333333333,Thai,likes massage
+người miền nam,sành điệu,1,2,0,-0.3333333333,Southerners,Stylish
+Người Hàn Quốc,công nghệ,1,2,0,-0.3333333333,Korean,technology
+Libyan,sa mạc,1,2,0,-0.3333333333,Libyan,desert
+người miền nam,nóng,1,2,0,-0.3333333333,Southerners,hot
+Liechtensteiner,giàu có,1,2,0,-0.3333333333,Liechtensteiner,rich
+người dân miền nam việt nam,kiên cường,1,2,0,-0.3333333333,people of southern Vietnam,resilience
+người bắc,ưa mạo hiểm,1,2,0,-0.3333333333,northerners,adventurous
+Người Slovenia,thích đi bộ đường dài,1,2,0,-0.3333333333,Slovenian,likes to go hiking
+Người Philippines,yêu thích ẩm thực,1,2,0,-0.3333333333,Filipino,love food
+người dân miền bắc việt nam,cấp tiến,1,2,0,-0.3333333333,people of northern Vietnam,progressive
+người dân miền bắc việt nam,ăn nhiều măng,1,2,0,-0.3333333333,people of northern Vietnam,eat a lot of bamboo shoots
+người bắc,sành điệu,1,2,0,-0.3333333333,northerners,Stylish
+người dân miền bắc việt nam,ăn phở,1,2,0,-0.3333333333,people of northern Vietnam,eat pho
+Tiếng Malta,dễ học,2,1,0,-0.3333333333,Maltese,easy to learn
+Tiếng Iceland,lạnh,2,1,0,-0.3333333333,Icelandic,cold
+người dân miền bắc việt nam,giàu có,2,1,0,-0.3333333333,people of northern Vietnam,rich
+người miền trung,sành điệu,2,1,0,-0.3333333333,Central people,Stylish
+Tiếng Iceland,lạnh giá,2,1,0,-0.3333333333,Icelandic,cold
+Người Indonesia,thích hải sản,2,1,0,-0.3333333333,Indonesian,likes seafood
+Người Philippines,có thể dễ dàng tiếp cận,2,1,0,-0.3333333333,Filipino,can be easily accessed
+Panamanian,panama canal,2,1,0,-0.3333333333,Panamanian,panama canal
+người dân miền trung việt nam,đói,2,1,0,-0.3333333333,people of central Vietnam,hungry
+Liechtensteiner,không có ngân hàng,2,1,0,-0.3333333333,Liechtensteiner,no bank
+người dân miền bắc việt nam,thực tế,2,1,0,-0.3333333333,people of northern Vietnam,reality
+Tiếng Iceland,thích bơi,2,1,0,-0.3333333333,Icelandic,likes to swim
+Người Somalia,đói,1,1,1,-0.3333333333,Somalis,hungry
+người dân miền bắc việt nam,ăn rau nhiều,2,1,0,-0.3333333333,people of northern Vietnam,eat lots of vegetables
+Người Cuba,nhảy xa,2,1,0,-0.3333333333,Cuban,jump far
+người miền trung,dễ tính,2,1,0,-0.3333333333,Central people,easygoing
+người miền bắc,hiếu động,2,1,0,-0.3333333333,northerners,hyperactive
+Người Pháp,ăn tỏi,2,1,0,-0.3333333333,French,eat garlic
+người miền bắc việt nam,cứng rắn,2,1,0,-0.3333333333,Northern Vietnamese people,rigid
+Nicaraguan,thích chơi bóng chày,2,1,0,-0.3333333333,Nicaraguan,likes to play baseball
+người miền bắc,ưa trời lạnh,2,1,0,-0.3333333333,northerners,likes cold weather
+người dân miền nam việt nam,thực tế,2,1,0,-0.3333333333,people of southern Vietnam,reality
+Người Ấn Độ,nhiều người,2,1,0,-0.3333333333,Indian,many people
+Người Malaysia,đi bộ nhanh,2,1,0,-0.3333333333,Malaysian,brisk walking
+người dân miền trung việt nam,thích ăn mặn,2,1,0,-0.3333333333,people of central Vietnam,likes to eat salty food
+người miền bắc,mạnh mẽ,2,1,0,-0.3333333333,northerners,strong
+người miền trung,ưa chuộng đồ ăn nhanh,2,1,0,-0.3333333333,Central people,love fast food
+người miền bắc,sương mù,2,1,0,-0.3333333333,northerners,fog
+Người Philippines,thích nhảy,2,1,0,-0.3333333333,Filipino,likes to dance
+người bắc,hóm hỉnh,2,1,0,-0.3333333333,northerners,witty
+người miền bắc,sôi nổi,2,1,0,-0.3333333333,northerners,exalted
+người dân miền bắc việt nam,anh hùng,2,1,0,-0.3333333333,people of northern Vietnam,hero
+Thái,nhường nhịn,2,1,0,-0.3333333333,Thai,condescend
+Người Belarus,trắng,1,2,0,-0.6666666667,Belarusians,white
+người miền nam việt nam,tự hào,0,3,0,-1,Southern Vietnamese people,proud
+người miền nam việt nam,năng động,0,3,0,-1,Southern Vietnamese people,dynamic
+Người Singapore,tiết kiệm,0,3,0,-1,Singaporean,save
+Guyan,nhiệt đới,0,3,0,-1,Guyanese,Tropic
+Equatoguineans,nhiệt đới,0,3,0,-1,Equatoguinean,Tropic
+người miền nam việt nam,hòa đồng,0,3,0,-1,Southern Vietnamese people,sociable
+Người Indonesia,tôn trọng người lớn tuổi,0,3,0,-1,Indonesian,respect elders
+Uruguayan,chơi bóng đá,0,3,0,-1,Uruguayan,play football
+Manx,độc đáo,0,3,0,-1,Manx,unique
+Belizean,nói tiếng anh,0,3,0,-1,Belizean,speaking English
+Người Bhutan,yên bình,0,3,0,-1,Bhutanese,peaceful
+Người Nhật,làm việc chăm chỉ,0,3,0,-1,Japanese,work hard
+Người Nhật,ăn sushi,0,3,0,-1,Japanese,eat sushi
+Người Maldives,sống trên đảo,0,3,0,-1,Maldivians,live on the island
+Người Ý,nghệ thuật,0,3,0,-1,Italian,art
+Tiếng Anh,phổ biến,0,3,0,-1,English,popular
+Người Maldives,bơi lội,0,3,0,-1,Maldivians,swimming
+Người Colombia,sản xuất cà phê,0,3,0,-1,Colombian,coffee production
+Người Ý,ăn uống,0,3,0,-1,Italian,eat and drink
+Người Gabon,nói tiếng pháp,0,3,0,-1,Gabonese,Speak French
+người dân miền bắc việt nam,ăn uống giản dị,0,3,0,-1,people of northern Vietnam,simple eating
+Người Đan Mạch,hạnh phúc,0,3,0,-1,Danish,happy
+người dân miền trung việt nam,nông dân,0,3,0,-1,people of central Vietnam,farmer
+Người Nhật,khéo léo,0,3,0,-1,Japanese,skillful
+người bắc,điềm tĩnh,0,3,0,-1,northerners,patience
+người miền bắc việt nam,tiết kiệm,0,3,0,-1,Northern Vietnamese people,save
+Người Đức,chính trực,0,3,0,-1,German,integrity
+người miền nam việt nam,trung thực,0,3,0,-1,Southern Vietnamese people,honest
+người dân miền nam việt nam,ăn bún,0,3,0,-1,people of southern Vietnam,eat noodles
+Người Thụy Điển,hạnh phúc,0,3,0,-1,Swedish,happy
+Người Croatia,bóng đá,0,3,0,-1,Croatian,football
+Người Bhutan,thanh bình,0,3,0,-1,Bhutanese,peace
+Uruguayan,bóng đá,0,3,0,-1,Uruguayan,football
+Người Nhật,chăm chỉ,0,3,0,-1,Japanese,hard-working
+Người Ý,nghệ sĩ,0,3,0,-1,Italian,artist
+Người Hàn Quốc,chăm chỉ,0,3,0,-1,Korean,hard-working
+Người Brazil,nhảy samba,0,3,0,-1,Brazilian,dance samba
+Người Canada,đa văn hóa,0,3,0,-1,Canadian,multicultural
+người miền trung,hiếu khách,0,3,0,-1,Central people,hospitable
+Người Malaysia,đa văn hóa,0,3,0,-1,Malaysian,multicultural
+người miền bắc việt nam,trung thành,0,3,0,-1,Northern Vietnamese people,loyal
+Người Maldives,đảo,0,3,0,-1,Maldivians,island
+Người Singapore,hiệu quả,0,3,0,-1,Singaporean,effective
+Người Faroe,độc đáo,0,3,0,-1,Faroese,unique
+Người Pháp,ăn uống ngon,0,3,0,-1,French,eat and drink well
+Người Singapore,chăm chỉ,0,3,0,-1,Singaporean,hard-working
+Người Hàn Quốc,làm việc chăm chỉ,0,3,0,-1,Korean,work hard
+người miền bắc,trong sạch,0,3,0,-1,northerners,clean
+người miền nam việt nam,giọng nói nhẹ nhàng,0,3,0,-1,Southern Vietnamese people,gently voice
+Hellenes,cổ điển,0,3,0,-1,Hellenes,classic
+Người dân đảo Cocos,nói tiếng anh,0,3,0,-1,Cocos Islanders,speaking English
+Người Brazil,bóng đá,0,3,0,-1,Brazilian,football
+Người Philippines,nấu ăn giỏi,0,3,0,-1,Filipino,good at cooking
+Người Đức,hiệu quả,0,3,0,-1,German,effective
+người dân miền bắc việt nam,yêu nước,0,3,0,-1,people of northern Vietnam,Patriot
+người dân miền bắc việt nam,lúa gạo,0,3,0,-1,people of northern Vietnam,rice
+Tiếng Anh,tiếng mẹ đẻ của nhiều người,0,3,0,-1,English,the mother tongue of many people
+Người Nhật,khiêm tốn,0,3,0,-1,Japanese,modest
+Người Đài Loan,chăm chỉ,0,3,0,-1,Taiwanese,hard-working
+người dân miền bắc việt nam,cần cù,0,3,0,-1,people of northern Vietnam,diligent
+người miền nam việt nam,lạc quan,0,3,0,-1,Southern Vietnamese people,optimistic
+Người Pháp,thời trang,0,3,0,-1,French,fashion
+người miền trung,trung thực,0,3,0,-1,Central people,honest
+Người Bhutan,hạnh phúc,0,3,0,-1,Bhutanese,happy
+Người Mỹ,thích tự do,0,3,0,-1,American,likes freedom
+người miền nam việt nam,vui vẻ,0,3,0,-1,Southern Vietnamese people,happy
+Người Philippines,tràn đầy sức sống,0,3,0,-1,Filipino,full of life
+người dân miền trung việt nam,cần cù,0,3,0,-1,people of central Vietnam,diligent
+người bắc,hòa bình,0,3,0,-1,northerners,peace
+Kuwaiti,dầu,0,3,0,-1,Kuwaiti,oil
+Người Nhật,tinh tế,0,3,0,-1,Japanese,delicate
+Người Philippines,thiên đường,0,3,0,-1,Filipino,heaven
+Người Nhật,kiên nhẫn,0,3,0,-1,Japanese,patient
+người miền bắc,siêng năng,0,3,0,-1,northerners,hard-working
+Người Pháp,tinh tế,0,3,0,-1,French,delicate
+Người Mỹ,tự tin,0,3,0,-1,American,confident
+Người Pháp,ăn pho mát,0,3,0,-1,French,eat cheese
+Comorans,đảo,0,3,0,-1,Comorans,island
+người miền nam,thoải mái,0,3,0,-1,Southerners,comfortable
+Người Nhật,công nghệ tiên tiến,0,3,0,-1,Japanese,advanced technology
+Người Thổ Nhĩ Kỳ,tắm hơi,0,3,0,-1,Turkish,Sauna
+Người Mexico,ăn taco,0,3,0,-1,Mexican,eat tacos
+Người Singapore,sạch sẽ,0,3,0,-1,Singaporean,clean
+Người Nhật,cần cù,0,3,0,-1,Japanese,diligent
+người dân miền bắc việt nam,lịch sự,0,3,0,-1,people of northern Vietnam,polite
+Người Đức,có tổ chức,0,3,0,-1,German,organizing
+người miền bắc việt nam,thanh lịch,0,3,0,-1,Northern Vietnamese people,elegant
+Người Nhật,lịch sự,0,3,0,-1,Japanese,polite
+Zimbabwean,chơi cricket,0,3,0,-1,Zimbabwean,play cricket
+Djiboutian,nói tiếng pháp,0,3,0,-1,Djibouti,Speak French
+Người Mỹ,bóng chày,0,3,0,-1,American,baseball
+Người Mỹ,yêu tự do,0,3,0,-1,American,freedom loving
+người miền nam,hiền lành,0,3,0,-1,Southerners,gentle
+Thái,chùa chiền,0,3,0,-1,Thai,pagoda
+Người Singapore,giỏi tiếng anh,0,3,0,-1,Singaporean,good English
+Người Pháp,ẩm thực,0,3,0,-1,French,cuisine
+người miền bắc,tuân thủ,0,3,0,-1,northerners,follow
+Người Mỹ,tự do,0,3,0,-1,American,free
+Người Ý,ăn spaghetti,0,3,0,-1,Italian,eat spaghetti
+Người Faroe,người đánh cá,0,3,0,-1,Faroese,Fisher
+Người Mỹ,người tự do,0,3,0,-1,American,free people
+Người Thụy Điển,bình đẳng,0,3,0,-1,Swedish,Equality
+Người Surinam,đa văn hóa,0,3,0,-1,Surinamese,multicultural
+Tiếng Anh,ngôn ngữ chính thức,0,3,0,-1,English,official language
+người dân miền bắc việt nam,dũng cảm,0,3,0,-1,people of northern Vietnam,brave
+người miền nam việt nam,vui tính,0,3,0,-1,Southern Vietnamese people,funny
+người miền nam,ấm áp,0,3,0,-1,Southerners,warm
+Guyan,rừng nhiệt đới,0,3,0,-1,Guyanese,tropical forest
+Người Philippines,chăm chỉ,0,3,0,-1,Filipino,hard-working
+người miền bắc việt nam,ăn xôi,0,3,0,-1,Northern Vietnamese people,eat sticky rice
+Người Thụy Điển,bình tĩnh,0,3,0,-1,Swedish,calm
+người dân miền bắc việt nam,giản dị,0,3,0,-1,people of northern Vietnam,homely
+Người Cuba,nhạc salsa,0,3,0,-1,Cuban,salsa music
+Kenyan,marathon,0,3,0,-1,Kenyan,marathon
+Người Maldives,lặn biển,0,3,0,-1,Maldivians,Diving
+người miền nam việt nam,ăn cơm tấm,0,3,0,-1,Southern Vietnamese people,eat broken rice
+Kenyan,thích chạy bộ,0,3,0,-1,Kenyan,likes to run
+người ở miền nam việt nam,nông dân,0,3,0,-1,people in southern Vietnam,farmer
+Panamanian,kênh đào panama,0,3,0,-1,Panamanian,Panama Canal
+Người Hà Lan,hoa tulip,0,3,0,-1,Dutch,tulips
+Hellenes,nghệ thuật,0,3,0,-1,Hellenes,art
+người dân miền trung việt nam,hiền hòa,0,3,0,-1,people of central Vietnam,nice
+người miền nam,hòa bình,0,3,0,-1,Southerners,peace
+Người Nhật,sạch sẽ,0,3,0,-1,Japanese,clean
+Người Pháp,nghệ thuật,0,3,0,-1,French,art
+người miền nam,mỉm cười,0,3,0,-1,Southerners,smile
+Chilean,rượu vang,0,3,0,-1,Chilean,wine
+Seychellois,đảo,0,3,0,-1,Seychellois,island
+Người Mexico,thích ăn taco,0,3,0,-1,Mexican,likes to eat tacos
+Người Hàn Quốc,taekwondo,0,3,0,-1,Korean,taekwondo
+người miền nam,ôn hòa,0,3,0,-1,Southerners,mild
+Người Ý,ăn pizza,0,3,0,-1,Italian,eat pizza
+Người Hàn Quốc,ăn kim chi,0,3,0,-1,Korean,eat kimchi
+Người Nhật,văn minh,0,3,0,-1,Japanese,civilized
+Người Philippines,tiếng anh tốt,0,3,0,-1,Filipino,good English
+người miền bắc việt nam,giọng nói trầm,0,3,0,-1,Northern Vietnamese people,deep voice
+Người Pháp,rượu vang,0,3,0,-1,French,wine
+Tiếng Anh,ngôn ngữ quốc tế,0,3,0,-1,English,international language
+Người Philippines,sống tình cảm,0,3,0,-1,Filipino,emotional life
+người dân miền bắc việt nam,da trắng,1,2,0,-1,people of northern Vietnam,White skin
+người miền nam việt nam,ăn uống phong phú,1,2,0,-1,Southern Vietnamese people,rich food and drink
+Người Mỹ,nói tiếng anh,1,2,0,-1,American,speaking English
+người dân miền bắc việt nam,trung thực,1,2,0,-1,people of northern Vietnam,honest
+Người Ý,đam mê,1,2,0,-1,Italian,passion
+người miền nam việt nam,ăn ớt,1,2,0,-1,Southern Vietnamese people,eat chili
+Người Senegal,bóng đá,1,2,0,-1,Senegalese,football
+Séc,tiết kiệm,1,2,0,-1,Czech,save
+Người Đức,khoa học,1,2,0,-1,German,science
+Người Ý,ăn uống ngon,1,2,0,-1,Italian,eat and drink well
+người miền trung,tự hào,1,2,0,-1,Central people,proud
+người đến từ miền nam việt nam,tốt bụng,1,2,0,-1,people from southern Vietnam,kind
+Người Pháp,thanh lịch,1,2,0,-1,French,elegant
+người dân miền bắc việt nam,ăn măng,1,2,0,-1,people of northern Vietnam,eat bamboo shoots
+Người Nhật,thọ,0,2,1,-1,Japanese,longevity
+Người Hà Lan,ăn khoai tây,1,2,0,-1,Dutch,eat potatoes
+người trung,thông minh,1,2,0,-1,middle person,smart
+người miền nam,hiếu khách,1,2,0,-1,Southerners,hospitable
+người miền nam,sôi động,1,2,0,-1,Southerners,vibrant
+Kenyan,khỏe mạnh,1,2,0,-1,Kenyan,healthy
+người miền nam việt nam,thật thà,1,2,0,-1,Southern Vietnamese people,TRUE
+người dân miền bắc việt nam,văn minh,1,2,0,-1,people of northern Vietnam,civilized
+Người Pháp,nói tiếng pháp,1,2,0,-1,French,Speak French
+Thái,tiếng thái,1,2,0,-1,Thai,Thai language
+người dân miền nam việt nam,yêu nước,1,2,0,-1,people of southern Vietnam,Patriot
+Tiếng Anh,nói tiếng anh,1,2,0,-1,English,speaking English
+người dân miền bắc việt nam,tự chủ,1,2,0,-1,people of northern Vietnam,free
+Thái,khí hậu nhiệt đới,1,2,0,-1,Thai,tropical
+người miền bắc việt nam,giọng nói nhẹ nhàng,1,2,0,-1,Northern Vietnamese people,gently voice
+người dân miền trung việt nam,tự chủ,1,2,0,-1,people of central Vietnam,free
+Người Đức,tổ chức,1,2,0,-1,German,organization
+Thái,nụ cười,1,2,0,-1,Thai,smile
+Người Malaysia,đi du lịch nhiều,1,2,0,-1,Malaysian,travel a lot
+Người Afghanistan,thích uống trà,1,2,0,-1,Afghans,likes to drink tea
+người miền nam,siêng năng,1,2,0,-1,Southerners,hard-working
+Người Bồ Đào Nha,thám hiểm,1,2,0,-1,Portuguese,explore
+Người Cuba,cách mạng,1,2,0,-1,Cuban,Revolution
+Người Đức,kỹ thuật,1,2,0,-1,German,technique
+Kenyan,nhanh nhẹn,1,2,0,-1,Kenyan,agile
+người dân miền bắc việt nam,thông minh,1,2,0,-1,people of northern Vietnam,smart
+người miền nam việt nam,ăn nói nhẹ nhàng,1,2,0,-1,Southern Vietnamese people,speak softly
+Tiếng Iceland,thích bơi lội,1,2,0,-1,Icelandic,likes swimming
+người dân miền nam việt nam,ăn cơm,1,2,0,-1,people of southern Vietnam,eat
+Equatoguineans,tiếng tây ban nha,1,2,0,-1,Equatoguinean,Spanish
+Hellenes,thông thái,1,2,0,-1,Hellenes,erudite
+Người Maldives,lặn,1,2,0,-1,Maldivians,dive
+người miền trung việt nam,dễ thương,1,2,0,-1,Central Vietnamese people,cute
+Người Singapore,thành công,1,2,0,-1,Singaporean,success
+Manx,nói tiếng anh,1,2,0,-1,Manx,speaking English
+Người Cape Verdeans,nhảy,1,2,0,-1,Cape Verdeans,dance
+người miền nam việt nam,ăn chay,1,2,0,-1,Southern Vietnamese people,vegetarian
+Hellenes,văn minh,1,2,0,-1,Hellenes,civilized
+Người Thụy Điển,công bằng,1,2,0,-1,Swedish,fair
+Guyan,đa dạng,1,2,0,-1,Guyanese,diversity
+người trung,thợ may,1,2,0,-1,middle person,tailor
+người miền trung,mỉm cười,1,2,0,-1,Central people,smile
+người dân miền bắc việt nam,nông nghiệp,1,2,0,-1,people of northern Vietnam,agriculture
+người miền trung,hiền lành,0,2,1,-1,Central people,gentle
+người miền bắc việt nam,ăn thịt,1,2,0,-1,Northern Vietnamese people,eat meat
+người dân miền bắc việt nam,nông dân,1,2,0,-1,people of northern Vietnam,farmer
+Paraguayan,bóng đá,1,2,0,-1,Paraguayan,football
+người trung,tuân thủ,1,2,0,-1,middle person,follow
+người miền bắc,hiền hậu,1,2,0,-1,northerners,kind
+người miền nam việt nam,trung thành,1,2,0,-1,Southern Vietnamese people,loyal
+người miền nam,hiền hòa,1,2,0,-1,Southerners,nice
+Người Philippines,người làm việc chăm chỉ,1,2,0,-1,Filipino,hard working person
+Người Canada,tuyết,1,2,0,-1,Canadian,snow
+người miền bắc,hiếu khách,1,2,0,-1,northerners,hospitable
+Người Mỹ,da trắng,1,2,0,-1,American,White skin
+Người dân đảo Cocos,sống thọ,0,2,1,-1,Cocos Islanders,long life
+người miền nam việt nam,dễ thương,1,2,0,-1,Southern Vietnamese people,cute
+người miền nam việt nam,tự do,1,2,0,-1,Southern Vietnamese people,free
+Người Hà Lan,tiết kiệm,1,2,0,-1,Dutch,save
+người miền nam,thời trang,1,2,0,-1,Southerners,fashion
+Người Philippines,bóng rổ,1,2,0,-1,Filipino,basketball
+Người Thụy Điển,trung lập,1,2,0,-1,Swedish,neutral
+Người Úc,da trắng,1,2,0,-1,Australian,White skin
+người miền nam việt nam,thông minh,1,2,0,-1,Southern Vietnamese people,smart
+Người Faroe,ăn cá,1,2,0,-1,Faroese,eat fish
+Người Canada,hữu ích,1,2,0,-1,Canadian,useful
+Người Philippines,múa,1,2,0,-1,Filipino,dance
+Tiếng Nepal,himalaya,1,2,0,-1,Nepali,himalayan
+Người Surinam,đa ngôn ngữ,1,2,0,-1,Surinamese,multi language
+Gibraltarians,anh,1,2,0,-1,Gibraltarians,Older brother
+người bắc,tuyết,2,1,0,-1,northerners,snow
+Letts,nhà văn,1,1,1,-1,Letts,Writer
+Equatoguineans,các yếu tố văn hóa,2,1,0,-1,Equatoguinean,cultural factors
+Manx,mèo,2,1,0,-1,Manx,cat
+người miền nam,tuân thủ,2,1,0,-1,Southerners,follow
+người dân miền bắc việt nam,ăn mặc giản dị,2,1,0,-1,people of northern Vietnam,casual dress
+Người Tây Ban Nha,đam mê,1,1,1,-1,Spanish,passion
+người bắc,hiền lành,2,1,0,-1,northerners,gentle
+người miền bắc việt nam,ăn cháo,2,1,0,-1,Northern Vietnamese people,porridge
+Người Surinam,nói tiếng anh,2,1,0,-1,Surinamese,speaking English
+Người Đan Mạch,hài hước,2,1,0,-1,Danish,humorous
+người ở miền nam việt nam,nhiệt đới,2,1,0,-1,people in southern Vietnam,Tropic
+Tiếng Nepal,núi,2,1,0,-1,Nepali,mountain
+Người Thổ Nhĩ Kỳ,thịt,1,1,1,-1,Turkish,meat
+người miền trung,trung thành,2,1,0,-1,Central people,loyal
+Người Philippines,bơi,1,1,1,-1,Filipino,swim
+Người Pháp,ăn uống,2,1,0,-1,French,eat and drink
+người bắc,êm đềm,2,1,0,-1,northerners,tranquility
+người trung,thiền,2,1,0,-1,middle person,meditation
+người miền trung,ưa chuộng thể thao,2,1,0,-1,Central people,loves sports
+Thái,kính trọng,2,1,0,-1,Thai,respect
+người trung,lúa gạo,2,1,0,-1,middle person,rice
+Người Gabon,rừng,1,1,1,-1,Gabonese,forest
+Người Pháp,ăn sầu riêng,2,1,0,-1,French,eat durian
+Người Philippines,dịch vụ gia đình,2,1,0,-1,Filipino,family services
+người miền nam việt nam,ăn uống,2,1,0,-1,Southern Vietnamese people,eat and drink
+người miền bắc việt nam,chè,2,1,0,-1,Northern Vietnamese people,tea
+Người Đan Mạch,dễ phát âm,2,1,0,-1,Danish,easy to pronounce
+Người Slovenia,không lạc hậu,2,1,0,-1,Slovenian,not backward
+người miền trung,sôi động,2,1,0,-1,Central people,vibrant
+Người Pháp,ngôn ngữ chính thức,2,1,0,-1,French,official language
+Người Surinam,đa dạng,2,1,0,-1,Surinamese,diversity
+người trung,lúa mạch,2,1,0,-1,middle person,barley
+Người Ấn Độ,cờ vua,2,1,0,-1,Indian,chess
+Người dân đảo Giáng sinh,lễ giáng sinh,2,1,0,-1,Christmas Islanders,Christmas
+người miền trung,trung lập,2,1,0,-1,Central people,neutral
+người miền trung,thợ mỏ,2,1,0,-1,Central people,miner

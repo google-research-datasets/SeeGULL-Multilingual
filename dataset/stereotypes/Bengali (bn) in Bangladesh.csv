@@ -1,0 +1,1277 @@
+identity,attribute,non_stereotype,stereotype,unsure,mean_offensive_score,translated_identity,translated_attribute_list
+ফিলিপিনো,পতিতা,1,2,0,4,Filipino,prostitute
+কলম্বিয়ান,মাদক গ্রহণকারী,0,3,0,4,Colombian,drug addict
+দক্ষিণ আফ্রিকান,বর্ণবাদ,0,3,0,4,South African,racism
+কলম্বিয়ান,কোকেন,0,3,0,3.666666667,Colombian,Cocaine
+রুয়ান্ডান,খুনী,0,3,0,3.666666667,Rwandan,the murderer
+ইরাকি,সন্ত্রাসী,0,3,0,3.333333333,Iraqi,the terrorist
+মঙ্গোলিয়ান,বর্বর,0,3,0,3.333333333,mongolian,barbarian
+রুয়ান্ডান,গণহত্যাকারী,0,3,0,3.333333333,Rwandan,Genocide
+ফিলিস্তিনি,সন্ত্রাসী,1,2,0,3.333333333,Palestinian,the terrorist
+কলম্বিয়ান,মাদক গ্রহণ,0,3,0,3.333333333,Colombian,taking drugs
+ইরাকি,বর্বর,2,1,0,3.333333333,Iraqi,barbarian
+কলম্বিয়ান,মাদক পাচারকারী,1,2,0,3.333333333,Colombian,drug trafficker
+ঢাকাইয়া,বখাটে,1,2,0,3,Dhaka,scoundrel
+আলবেনিয়ান,চোর,2,1,0,2.666666667,albanian,the thief
+ঢাকাইয়া,খারাপ আচরণ,2,1,0,2.666666667,Dhaka,bad behavior
+উত্তর কোরিয়ান,অত্যাচারী,0,3,0,2.666666667,North Korean,the tyrant
+বরিশালী,স্বার্থপর,0,3,0,2.666666667,barishali,selfish
+আলবেনিয়ান,অপরাধী,1,2,0,2.666666667,albanian,criminal
+নাইজেরিয়ান,অপরাধী,0,3,0,2.666666667,nigerian,criminal
+রুয়ান্ডান,গণহত্যা,0,2,1,2.333333333,Rwandan,Genocide
+আফগান,মাদক,0,3,0,2.333333333,Afghan,drugs
+ব্রিটিশ মানুষ,অভদ্র,2,1,0,2.333333333,British people,rude
+কলম্বিয়ান,মাদক,0,3,0,2.333333333,Colombian,drugs
+আমেরিকান,মোটা,2,1,0,2.333333333,american,thick
+মেক্সিকান,মাদক,0,3,0,2.333333333,mexican,drugs
+উত্তর আইরিশ,মদ্যপ,1,2,0,2,Northern Irish,alcoholic
+চিটাগাইঙ্গা,নোংরা,2,1,0,2,Chittagong,dirty
+নাইজেরিয়ান,জালিয়াতি,0,3,0,2,nigerian,forgery
+স্কটিশ,মদ্যপ,0,3,0,2,scottish,alcoholic
+রাশিয়ান,মদ্যপ,0,3,0,2,Russian,alcoholic
+নেপালি,হিংসাপূর্ণ,2,1,0,2,Nepalese,violent
+নাইজেরিয়ান,দুর্নীতিবাজ,0,3,0,2,nigerian,corrupt
+কলম্বিয়ান,মাদক পাচার,0,3,0,1.666666667,Colombian,drug trafficking
+ঢাকাইয়া,বাঁদর,2,1,0,1.666666667,Dhaka,the monkey
+উত্তর কোরিয়ান,স্বৈরশাসক,0,3,0,1.666666667,North Korean,dictator
+ভেনিজুয়েলান,দুর্নীতিগ্রস্ত,0,3,0,1.666666667,Venezuelan,corrupt
+নেপালি,হিংসুটে,2,1,0,1.333333333,Nepalese,with jealousy
+বরিশালী,উগ্র,0,3,0,1.333333333,barishali,fierce
+আমেরিকান,অহংকারী,0,3,0,1.333333333,american,arrogant
+পর্তুগিজ,ঔপনিবেশবাদী,0,3,0,1.333333333,portuguese,colonialist
+লিবিয়ান,উগ্র,0,3,0,1.333333333,Libyan,fierce
+ফরাসি,ঔদ্ধত্যপূর্ণ,1,2,0,1.333333333,french,arrogant
+উত্তর আইরিশ,মদ্যপান,1,2,0,1.333333333,Northern Irish,drinking
+ঢাকাইয়া,উগ্র,1,2,0,1.333333333,Dhaka,fierce
+রংপুরি,উগ্র,2,1,0,1.333333333,Rangpuri,fierce
+সিলেটি,উগ্র,1,2,0,1.333333333,Sylhet,fierce
+খুলনাইয়া,কৃপণ,2,1,0,1,Khulnaia,miserly
+উত্তর কোরিয়ান,নিষ্ঠুর,0,3,0,1,North Korean,cruel
+সার্বিয়ান,যুদ্ধবাজ,0,3,0,1,serbian,warrior
+সিতাইঙ্গা,বন্য,2,1,0,1,Sitainga,the wild
+উত্তর কোরিয়ান,কমিউনিস্ট,1,2,0,1,North Korean,communist
+সাতগাইয়া,বন্য,2,1,0,1,Satgaia,the wild
+সিলেটি,কৃপণ,1,2,0,1,Sylhet,miserly
+ময়মনসিংহিয়া,কৃপণ,0,3,0,1,Mymensinghia,miserly
+দক্ষিণ সুদানিজ,যুদ্ধবাজ,1,2,0,1,South Sudanese,warrior
+ঢাকাইয়া,ফাজিল,1,2,0,1,Dhaka,Fazil
+সৌদি,কট্টরপন্থী,0,3,0,1,Saudi,Radical
+ঢাকাইয়া,কড়া ভাষা,0,3,0,1,Dhaka,strong language
+উত্তর কোরিয়ান,সামরিকবাদী,1,2,0,1,North Korean,militaristic
+হার্জেগোভিনিয়ান,যুদ্ধবাজ,1,2,0,1,Herzegovinian,warrior
+রংপুরি,অশিক্ষিত,2,1,0,1,Rangpuri,uneducated
+বরিশালী,অশিক্ষিত,2,1,0,1,barishali,uneducated
+সাতগাইয়া,কুসংস্কারাচ্ছন্ন,1,2,0,1,Satgaia,Superstitious
+ইরাকি,যুদ্ধবাজ,0,3,0,1,Iraqi,warrior
+সিলেটি,অশিক্ষিত,2,1,0,1,Sylhet,uneducated
+সিলোটি,কৃপণ,2,1,0,1,The silo,miserly
+চীনা,চিংচিং,2,1,0,0.6666666667,chinese,Chingching
+সিলোটি,অলস,1,2,0,0.6666666667,The silo,lazy
+বরিশালী,গরম মেজাজী,1,2,0,0.6666666667,barishali,hot tempered
+মালাগাসি,কালো,1,2,0,0.6666666667,Malagasy,the black
+ময়মনসিংহিয়া,অলস,1,2,0,0.6666666667,Mymensinghia,lazy
+দক্ষিণ আফ্রিকান,কালো,0,3,0,0.6666666667,South African,the black
+ইরাকি,বিস্ফোরক,0,3,0,0.6666666667,Iraqi,Explosive
+মালটিজ,কুকুর,2,1,0,0.6666666667,Maltese,the dog
+বরিশালী,অলস,2,1,0,0.6666666667,barishali,lazy
+মালয়েশিয়ান,মালয়,0,3,0,0.6666666667,malaysian,the Malay
+ঢাকাইয়া,দুষ্টু,0,3,0,0.6666666667,Dhaka,mischievous
+মঙ্গোলিয়ান,যাযাবর,0,3,0,0.6666666667,mongolian,the nomad
+সাতগাইয়া,নির্বোধ,2,1,0,0.6666666667,Satgaia,silly
+ইরাকি,বিধ্বংসী,0,3,0,0.6666666667,Iraqi,devastating
+রাজশাহিয়া,মধ্যযুগীয়,2,1,0,0.6666666667,Rajshahi,medieval
+বরিশাল,বানর,2,1,0,0.3333333333,Barisal,the monkey
+বলিভিয়ান,আদিবাসী,1,2,0,0.3333333333,Bolivian,Aboriginal people
+সার্বিয়ান,হিংস্র,1,2,0,0.3333333333,serbian,violent
+ইরাকি,যুদ্ধ,1,2,0,0.3333333333,Iraqi,war
+সিতাইঙ্গা,হিংস্র,2,1,0,0.3333333333,Sitainga,violent
+হার্জেগোভিনিয়ান,যুদ্ধ,1,2,0,0.3333333333,Herzegovinian,war
+সাহরাউই,লড়াইয়ের,0,3,0,0.3333333333,Sahrawi,of fighting
+ঢাকাইয়া,আগ্রাসী,1,2,0,0.3333333333,Dhaka,aggressive
+ঢাকাইয়া,আক্রমণাত্মক,1,2,0,0.3333333333,Dhaka,offensive
+আফগান,লড়াইবাজ,1,2,0,0.3333333333,Afghan,fighter
+ক্রিসমাস দ্বীপবাসী,আদিবাসী,1,2,0,0.3333333333,Christmas Islanders,Aboriginal people
+সিলোটি,আক্রমণাত্মক,2,1,0,0.3333333333,The silo,offensive
+ইরাকি,হিংস্র,0,3,0,0.3333333333,Iraqi,violent
+সাতগাইয়া,আদিবাসী,0,3,0,0.3333333333,Satgaia,Aboriginal people
+সাহরাউই,মরক্কোর সাথে বিরোধ,1,2,0,0.3333333333,Sahrawi,Conflict with Morocco
+কোকোস দ্বীপবাসী,আদিবাসী,0,3,0,0.3333333333,Cocos Islanders,Aboriginal people
+দক্ষিণ সুদানিজ,যুদ্ধ,1,2,0,0.3333333333,South Sudanese,war
+মালাগাসি,আদিবাসী,0,3,0,0.3333333333,Malagasy,Aboriginal people
+ফিলিস্তিনি,শরণার্থী,0,3,0,0.3333333333,Palestinian,the refugee
+সিতাইঙ্গা,বিদ্রোহী,2,1,0,0.3333333333,Sitainga,the rebel
+লাইবেরিয়ান,গৃহযুদ্ধ,0,3,0,0.3333333333,Liberian,civil war
+দক্ষিণ সুদানিজ,গৃহযুদ্ধ,0,3,0,0.3333333333,South Sudanese,civil war
+আফগান,লড়াই,0,3,0,0.3333333333,Afghan,fight
+ফিলিস্তিনি,নিরাপত্তাহীন,1,2,0,0.3333333333,Palestinian,insecure
+সাতগাইয়া,আক্রমণাত্মক,2,1,0,0.3333333333,Satgaia,offensive
+সালভাডোরান,গৃহযুদ্ধ,1,2,0,0.3333333333,Salvadoran,civil war
+বরিশালী,আক্রমণাত্মক,2,1,0,0.3333333333,barishali,offensive
+চিটাগাইঙ্গা,জনাকীর্ণ,0,3,0,0.3333333333,Chittagong,crowded
+মধ্য আফ্রিকান,কৃষ্ণাঙ্গ,0,3,0,0.3333333333,Central African,black
+গুয়ানিজ,আদিবাসী,1,2,0,0.3333333333,Guyanese,Aboriginal people
+সিলেটি,আদিবাসী,1,2,0,0.3333333333,Sylhet,Aboriginal people
+ফিলিস্তিনি,বিক্ষোভ,0,3,0,0,Palestinian,demonstration
+মোজাম্বিকান,ভুখা,1,2,0,0,Mozambican,hungry
+বরিসাইল্লা,বিষাক্ত,1,2,0,0,Barisailla,poisonous
+ঢাকাইয়া,বাজে,2,1,0,0,Dhaka,bad
+অস্ট্রিয়ান,আড়ম্বরপূর্ণ,1,2,0,0,Austrian,stylish
+ব্রিটিশ মানুষ,আড়ম্বরপূর্ণ,0,3,0,0,British people,stylish
+ফরাসি,আড়ম্বরপূর্ণ,0,3,0,0,french,stylish
+ব্রিটিশ মানুষ,বকবকানি,1,2,0,0,British people,grumbling
+নিকারাগুয়ান,বিপ্লবী,0,3,0,0,Nicaraguan,revolutionary
+বরিশাইলা,গরিব,0,3,0,-0.3333333333,Barishaila,the poor
+সিলেটি,উচ্চস্বরে কথা বলা,0,3,0,-0.3333333333,Sylhet,talking loudly
+লাটভিয়ান,খরচকারী,1,2,0,-0.3333333333,Latvian,spender
+ইতালীয়,উত্তেজিত,1,2,0,-0.3333333333,italian,excited
+সিলেটি,মুখরা,1,2,0,-0.3333333333,Sylhet,faces
+ঢাকাইয়া,আধুনিক,0,3,0,-0.3333333333,Dhaka,modern
+সাহরাউই,সংগ্রামী,0,3,0,-0.3333333333,Sahrawi,struggling
+রংপুরি,কড়া,2,1,0,-0.3333333333,Rangpuri,strict
+ঢাকাইয়া,বকবকা,0,3,0,-0.3333333333,Dhaka,chatter
+বরিশালী,গরিব,1,2,0,-0.3333333333,barishali,the poor
+রাজশাহীও,গরিব,1,2,0,-0.3333333333,Rajshahi too,the poor
+ঢাকাইয়া,অগোছালো,1,2,0,-0.3333333333,Dhaka,messy
+চিটাগাইঙ্গা,বহিরাগত,2,1,0,-0.3333333333,Chittagong,outsider
+ঢাকাইয়া,কড়া,0,3,0,-0.3333333333,Dhaka,strict
+হার্জেগোভিনিয়ান,কেরানি,2,1,0,-0.3333333333,Herzegovinian,the clerk
+রংপুরি,আধুনিক,0,3,0,-0.3333333333,Rangpuri,modern
+চিটাগাইঙ্গা,ঝামেলাপূর্ণ,2,1,0,-0.3333333333,Chittagong,troublesome
+ঢাকাইয়া,উচ্চস্বরে কথা বলা,0,3,0,-0.3333333333,Dhaka,talking loudly
+রাজশাহিয়া,কঠোর,2,1,0,-0.3333333333,Rajshahi,strict
+রাজশাহীও,পিছিয়ে,1,2,0,-0.3333333333,Rajshahi too,backward
+ঢাকাইয়া,কঠোর,0,3,0,-0.3333333333,Dhaka,strict
+ইতালীয়,উত্তেজনাপূর্ণ,1,2,0,-0.3333333333,italian,Exciting
+রংপুরি,গরিব,1,2,0,-0.3333333333,Rangpuri,the poor
+বরিশালী,কঠোর,1,2,0,-0.3333333333,barishali,strict
+বরিশাল,গরুর হাট,0,3,0,-0.3333333333,Barisal,cow market
+ঢাকাইয়া,মুখরা,0,3,0,-0.3333333333,Dhaka,faces
+সিতাইঙ্গা,আধুনিক,1,2,0,-0.3333333333,Sitainga,modern
+মধ্য আফ্রিকান,নিম্নমানের,0,3,0,-0.3333333333,Central African,low quality
+স্প্যানিশ,উত্তেজিত,1,2,0,-0.3333333333,spanish,excited
+ঢাকাইয়া,দুষ্ট,1,2,0,-0.3333333333,Dhaka,evil
+বরিসাইল্লা,আধুনিক,2,1,0,-0.3333333333,Barisailla,modern
+বরিশালী,আধুনিক,2,1,0,-0.3333333333,barishali,modern
+ফিলিস্তিনি,হতাশ,1,2,0,-0.3333333333,Palestinian,disappointed
+রাজশাহিয়া,গরিব,1,2,0,-0.3333333333,Rajshahi,the poor
+ইতালীয়,উচ্চ স্বরে কথা বলা,1,2,0,-0.3333333333,italian,talking loudly
+বরিসাইল্লা,রুক্ষ,1,2,0,-0.3333333333,Barisailla,rough
+চাটগাইয়া,কঠোর,0,3,0,-0.3333333333,Licking,strict
+নাইজেরিয়ান,উচ্চাকাঙ্ক্ষী,2,1,0,-0.3333333333,nigerian,ambitious
+ম্যানক্স,লম্বা লেজ,2,1,0,-0.3333333333,Manx,long tail
+সিতাইঙ্গা,বিপজ্জনক,2,1,0,-0.3333333333,Sitainga,dangerous
+রংপুরি,আঞ্চলিকতাবাদী,0,3,0,-0.3333333333,Rangpuri,regionalist
+মেক্সিকান,টেকিলা ভালোবাসে,0,3,0,-0.3333333333,mexican,Loves tequila
+চিটাগাইঙ্গা,বিশাল,1,2,0,-0.3333333333,Chittagong,huge
+ময়মনসিংহিয়া,কঠোর,2,1,0,-0.3333333333,Mymensinghia,strict
+বরিশাল,বরিশালিয়া,1,2,0,-0.3333333333,Barisal,Barishalia
+অ্যাঙ্গোলান,লড়াইয়ের আত্মা,1,2,0,-0.3333333333,Angolan,fighting spirit
+সাতগাইয়া,কঠোর,1,2,0,-0.3333333333,Satgaia,strict
+নেপালি,দুঃসাহসী,0,3,0,-0.3333333333,Nepalese,adventurous
+উত্তর কোরিয়ান,কর্তৃত্ববাদী,1,2,0,-0.3333333333,North Korean,Authoritarian
+নেপালি,পর্বতের মানুষ,0,3,0,-0.3333333333,Nepalese,mountain man
+ফিলিস্তিনি,প্রতিবাদী,1,2,0,-0.3333333333,Palestinian,Protester
+চিটাগাইঙ্গা,আধুনিক,0,3,0,-0.3333333333,Chittagong,modern
+আলজেরিয়ান,গরম-মতাবলম্বী,1,2,0,-0.3333333333,Algerian,Hot-headed
+বরিশাল,গরিব,1,2,0,-0.3333333333,Barisal,the poor
+ময়মনসিংহিয়া,মুখরা,0,3,0,-0.3333333333,Mymensinghia,faces
+নেপালি,পর্বতে থাকে,0,3,0,-0.3333333333,Nepalese,Lives in the mountains
+রংপুরি,মুখরা,0,3,0,-0.3333333333,Rangpuri,faces
+ব্রিটিশ মানুষ,রুক্ষ,1,2,0,-0.3333333333,British people,rough
+সিলেটি,আঞ্চলিকতাবাদী,0,3,0,-0.3333333333,Sylhet,regionalist
+সিলেটি,গরিব,2,1,0,-0.3333333333,Sylhet,the poor
+সিলেটি,পিছিয়ে,2,1,0,-0.3333333333,Sylhet,backward
+বরিশাইলা,কনজারভেটিভ,0,3,0,-0.3333333333,Barishaila,Conservative
+উত্তর কোরিয়ান,চ্যালেঞ্জিং,0,3,0,-0.3333333333,North Korean,challenging
+খুলনাইয়া,কঠোর,2,1,0,-0.3333333333,Khulnaia,strict
+সিলেটি,উচ্চকণ্ঠ,1,2,0,-0.3333333333,Sylhet,loud voice
+চাটগাইয়া,মুক্তচিন্তক,0,3,0,-0.3333333333,Licking,free thinker
+ঢাকাইয়া,দুঃসাহসী,1,2,0,-0.3333333333,Dhaka,adventurous
+রংপুরি,পাতলা,1,2,0,-0.3333333333,Rangpuri,thin
+ঢাকাইয়া,দুষ্টুমি,0,3,0,-0.3333333333,Dhaka,mischief
+জার্মান,কঠোর,0,3,0,-0.3333333333,german,strict
+জার্মান,গুরুতর,1,2,0,-0.3333333333,german,serious
+ঢাকাইয়া,অস্বাভাবিক,2,1,0,-0.3333333333,Dhaka,unusual
+খুলনাইয়া,গরিব,1,2,0,-0.3333333333,Khulnaia,the poor
+রাজশাহিয়া,পাতলা,2,1,0,-0.3333333333,Rajshahi,thin
+খুলনাইয়া,উত্সাহী,1,2,0,-1,Khulnaia,enthusiastic
+হেলেনিস,জ্ঞান,1,2,0,-1,Hellenes,the knowledge
+সৌদি,আর্থিকভাবে সমৃদ্ধ,1,2,0,-1,Saudi,Financially rich
+উরুগুইয়ান,ফুটবল খেলতে ভালো,1,2,0,-1,Uruguayan,Good to play football
+রংপুরি,কঠোর পরিশ্রমী,1,2,0,-1,Rangpuri,hard worker
+আইভোরিয়ান,আইভরি,1,2,0,-1,Ivorian,Ivory
+সিলোটি,উৎসাহী,1,2,0,-1,The silo,enthusiastic
+বরিশাল,নোয়াখালী,1,2,0,-1,Barisal,Noakhali
+চাটগাইয়া,নৌকা চালাতে ভাল,1,2,0,-1,Licking,Boating is good
+সেচেলোইস,দ্বীপ,1,2,0,-1,Seychellois,the island
+সাতগাইয়া,শান্তিপ্রিয়,1,2,0,-1,Satgaia,peaceful
+রাজশাহীও,সুন্দর,1,2,0,-1,Rajshahi too,beautiful
+সাহরাউই,স্বাধীনতা-অভিলাষী,1,2,0,-1,Sahrawi,Independence-seeking
+পাকিস্তানি,ধর্মপ্রাণ,1,2,0,-1,Pakistani,devout
+ময়মনসিংহিয়া,আতিথেয়তাপূর্ণ,1,2,0,-1,Mymensinghia,hospitable
+রাজশাহিও,বন্ধুত্বপূর্ণ,1,2,0,-1,Rajshahi also,friendly
+ফিনস,নীরব,1,2,0,-1,Finns,silent
+ময়মনসিংহিয়া,ময়মনসিংহ,1,2,0,-1,Mymensinghia,Mymensingh
+খুলনাইয়া,সরল,1,2,0,-1,Khulnaia,simple
+রাজশাহিয়া,মসলা,1,2,0,-1,Rajshahi,spice
+রুয়ান্ডান,নির্যাতিত,1,2,0,-1,Rwandan,tortured
+ফিলিপিনো,কঠোর পরিশ্রমী,1,2,0,-1,Filipino,hard worker
+রংপুরি,শিক্ষিত,1,2,0,-1,Rangpuri,educated
+জার্মান,ঠান্ডা,1,2,0,-1,german,the cold
+বরিশালী,ধনী,1,2,0,-1,barishali,the rich
+ইকুয়েডরিয়ান,স্প্যানিশ,1,2,0,-1,Ecuadorian,spanish
+খুলনাইয়া,স্বাধীন,1,2,0,-1,Khulnaia,independent
+রাজশাহীও,আম ভালোবাসি,1,2,0,-1,Rajshahi too,i love mango
+রংপুরি,রংপুরের মানুষ,1,2,0,-1,Rangpuri,People of Rangpur
+জার্মান,সঠিক,1,2,0,-1,german,correct
+সিলেটি,সংস্কৃতির প্রতি অনুরাগী,1,2,0,-1,Sylhet,Passionate about culture
+স্প্যানিশ,স্পন্দনশীল,1,2,0,-1,spanish,vibrant
+ময়মনসিংহিয়া,শান্ত,1,2,0,-1,Mymensinghia,calm down
+চিটাগাইঙ্গা,দক্ষিণ,1,2,0,-1,Chittagong,the south
+নেপালি,দুর্দান্ত পর্বতারোহী,1,2,0,-1,Nepalese,Great climber
+দক্ষিণ আফ্রিকান,আফ্রিকান,1,2,0,-1,South African,the african
+ময়মনসিংহ,বাংলাদেশ,1,2,0,-1,Mymensingh,Bangladesh
+সাহরাউই,মরুদ্যান,1,2,0,-1,Sahrawi,the oasis
+সাতগাইয়া,পশুপালন,1,2,0,-1,Satgaia,animal husbandry
+রাজশাহীও,ঐতিহাসিক,1,2,0,-1,Rajshahi too,historical
+সুইডিশ,ঠান্ডা,1,2,0,-1,swedish,the cold
+নেপালি,পর্বতারোহণে ভাল,1,2,0,-1,Nepalese,Good at climbing
+রাজশাহিয়া,বাঙালি,1,2,0,-1,Rajshahi,Bengali
+ময়মনসিংহিয়া,মিষ্টি,1,2,0,-1,Mymensinghia,sweet
+বরিশাল,নদীবহুল,1,2,0,-1,Barisal,riverine
+সিলেটি,উৎসাহী,1,2,0,-1,Sylhet,enthusiastic
+উরুগুইয়ান,ফুটবল খেলতে ভালোবাসি,1,2,0,-1,Uruguayan,love to play football
+বরিশাল,নদী,1,2,0,-1,Barisal,the river
+রাজশাহীও,শীতল,1,2,0,-1,Rajshahi too,cold
+জার্মান,সতর্ক,1,2,0,-1,german,careful
+ইংরেজি,ঠান্ডা,1,2,0,-1,english,the cold
+নেপালি,পর্বতারোহী,1,2,0,-1,Nepalese,mountaineer
+সাহরাউই,মরক্কোর,1,2,0,-1,Sahrawi,of morocco
+নেপালি,পর্বত আরোহণ,1,2,0,-1,Nepalese,mountain climbing
+বরিশাইল্লা,আন্তরিক,1,2,0,-1,Barishailla,sincere
+লেবানিজ,মুসলিম,1,2,0,-1,Lebanese,Muslim
+ফ্যারোইজ,নরওয়েজিয়ান,1,2,0,-1,Faroese,norwegian
+সৌদি,ধর্মীয়,1,2,0,-1,Saudi,religious
+নেপালি,দুর্দান্ত পর্বত,1,2,0,-1,Nepalese,great mountain
+মঙ্গোলিয়ান,খান,1,2,0,-1,mongolian,eat
+চীনা,চীনা ভাষা,1,2,0,-1,chinese,chinese language
+বরিশালী,আবেগপ্রবণ,1,2,0,-1,barishali,emotional
+সাহরাউই,স্বাধীনতা-প্রত্যাশী,1,2,0,-1,Sahrawi,freedom-seeker
+বরিসাইল্লা,সুন্দর,1,2,0,-1,Barisailla,beautiful
+সিলেটি,সরল,1,2,0,-1,Sylhet,simple
+হাঙ্গেরিয়ান,সুরক্ষাপ্রিয়,1,2,0,-1,hungarian,protective
+ওমানি,তেল,1,2,0,-1,Omani,the oil
+রংপুরি,উৎসাহী,1,2,0,-1,Rangpuri,enthusiastic
+খুলনাইয়া,কৃষি,1,2,0,-1,Khulnaia,agriculture
+বরিশালী,আতিথেয়,1,2,0,-1,barishali,hospitable
+থাই,থাই খাবার,1,2,0,-1,Thai,thai food
+বুলগেরিয়ান,ভারোত্তোলন,1,2,0,-1,Bulgarian,weight lifting
+মঙ্গোলিয়ান,ঘোড়া,1,2,0,-1,mongolian,the horse
+চিটাগাইঙ্গা,শিল্পাঞ্চল,1,2,0,-1,Chittagong,industrial area
+পাকিস্তানি,মসজিদ,1,2,0,-1,Pakistani,The mosque
+ইংরেজি,ব্রিটিশ,1,2,0,-1,english,British
+ড্যানিশ,ডেনিশ,1,2,0,-1,danish,danish
+চীনা,বিদ্বান,1,2,0,-1,chinese,scholar
+ইকুয়েডরিয়ান,উষ্ণ,1,2,0,-1,Ecuadorian,warm
+ইতালীয়,রোমান্টিক,1,2,0,-1,italian,romantic
+রাজশাহীও,শান্ত,1,2,0,-1,Rajshahi too,calm down
+রাজশাহিয়া,কৃষিজীবী,1,2,0,-1,Rajshahi,agriculturalist
+সিলেটি,আত্মপ্রচারক,1,2,0,-1,Sylhet,self promoter
+চাটগাইয়া,জেলে,1,2,0,-1,Licking,the fisherman
+রাজশাহিয়া,কৃষক,1,2,0,-1,Rajshahi,farmer
+ইতালীয়,পাস্তা,1,2,0,-1,italian,the pasta
+চিটাগাইঙ্গা,উত্সাহী,1,2,0,-1,Chittagong,enthusiastic
+কোরিয়ান,কে-পপ,1,2,0,-1,Korean,K-pop
+খুলনাইয়া,শান্ত,1,2,0,-1,Khulnaia,calm down
+কানাডিয়ান,বরফ স্কেটিং,1,2,0,-1,canadian,Ice skating
+রাজশাহিয়া,ডাল,1,2,0,-1,Rajshahi,Dal
+চিটাগাইঙ্গা,ঐতিহাসিক,1,2,0,-1,Chittagong,historical
+সিতাইঙ্গা,সুন্দর,1,2,0,-1,Sitainga,beautiful
+রংপুরি,রংপুরের,1,2,0,-1,Rangpuri,of Rangpur
+দক্ষিণ কোরিয়ান,টেকসই,1,2,0,-1,South Korean,durable
+কলম্বিয়ান,উষ্ণ,1,2,0,-1,Colombian,warm
+বরিশাল,ইলিশ,1,2,0,-1,Barisal,hilsa
+ক্রিসমাস দ্বীপবাসী,ক্রিসমাস উপহার দেয়,1,2,0,-1,Christmas Islanders,Christmas presents
+মঙ্গোলিয়ান,বীর,1,2,0,-1,mongolian,hero
+জিম্বাবুইয়ান,ক্রিকেট খেলে,1,2,0,-1,Zimbabwean,playing cricket
+জাঞ্জিবারি,উপনিবেশ,1,2,0,-1,Zanzibari,colony
+সাতগাইয়া,কৃষি,1,2,0,-1,Satgaia,agriculture
+কসোভার,মুসলিম,1,2,0,-1,Kosovar,Muslim
+নিকারাগুয়ান,স্প্যানিশ,1,2,0,-1,Nicaraguan,spanish
+সাহরাউই,আফ্রিকান,1,2,0,-1,Sahrawi,the african
+মালাউয়ান,আফ্রিকান,1,2,0,-1,Malawian,the african
+নাইজেরিয়ান,আফ্রিকান,1,2,0,-1,nigerian,the african
+চিটাগাইঙ্গা,বাণিজ্যিক,1,2,0,-1,Chittagong,commercial
+সিলেটি,ভদ্র,1,2,0,-1,Sylhet,polite
+ময়মনসিংহিয়া,সহযোগিতামূলক,1,2,0,-1,Mymensinghia,Collaborative
+চিটাগাইঙ্গা,উষ্ণ,1,2,0,-1,Chittagong,warm
+রাজশাহিয়া,কৃষি,1,2,0,-1,Rajshahi,agriculture
+বরিশালী,শক্তিশালী,1,2,0,-1,barishali,strong
+বরিশাল,লবণ,1,2,0,-1,Barisal,salt
+ময়মনসিংহিয়া,কঠোর পরিশ্রমী,1,2,0,-1,Mymensinghia,hard worker
+কেপ ভার্ডিয়ানস,আফ্রিকা,1,2,0,-1,Cape Verdeans,Africa
+সিতাইঙ্গা,বুদ্ধিমান,1,2,0,-1,Sitainga,intelligent
+চাটগাইয়া,স্বাধীন,1,2,0,-1,Licking,independent
+কুয়েতি,সম্পদশালী,1,2,0,-1,Kuwaiti,wealthy
+বরিশালী,উৎসবমুখর,1,2,0,-1,barishali,festive
+মালদ্বীপবাসী,মুসলিম,1,2,0,-1,Maldivian,Muslim
+বরিশালী,বুদ্ধিমান,1,2,0,-1,barishali,intelligent
+সিঙ্গাপুরবাসী,পরিশ্রমী,1,2,0,-1,Singaporeans,industrious
+উত্তর কোরিয়ান,সতর্ক,1,2,0,-1,North Korean,careful
+জার্মান,সুশৃঙ্খল,1,2,0,-1,german,orderly
+চাটগাইয়া,তেল বা চাউল,1,2,0,-1,Licking,Oil or rice
+ময়মনসিংহিয়া,সুন্দর,1,2,0,-1,Mymensinghia,beautiful
+স্কটিশ,স্কচ,1,2,0,-1,scottish,Scotch
+ফিলিপিনো,গিটার বাজাতে ভালোবাসি,1,2,0,-1,Filipino,I love to play the guitar
+রাজশাহীও,প্রাচীন,1,2,0,-1,Rajshahi too,ancient
+ইতালীয়,রোম্যান্টিক,1,2,0,-1,italian,romantic
+ভারতীয়,বাঁশি বাজাতে ভালোবাসি,1,2,0,-1,Indian,I love to play the flute
+সাহরাউই,মরিয়া,1,2,0,-1,Sahrawi,desperate
+চাটগাইয়া,স্বাধীনচেতা,1,2,0,-1,Licking,Independent
+নেপালি,মাউন্টেনিয়ার,1,2,0,-1,Nepalese,Mountaineer
+স্কটিশ,স্কট,1,2,0,-1,scottish,Scott
+রাজশাহিয়া,সাহসী,1,2,0,-1,Rajshahi,brave
+ইংরেজি,ক্লান্ত,1,2,0,-1,english,tired
+রংপুরি,কর্মঠ,1,2,0,-1,Rangpuri,work
+মিশরীয়,নীল,1,2,0,-1,Egyptian,the blue
+নেপালি,ভ্রমণের জন্য প্রস্তুত,1,2,0,-1,Nepalese,ready to travel
+রাজশাহিয়া,মুখরোচক,1,2,0,-1,Rajshahi,Yummy
+বেলারুশিয়ান,রুশ,1,2,0,-1,Belarusian,Russian
+বরিশাইল্লা,বন্ধুত্বপূর্ণ,1,2,0,-1,Barishailla,friendly
+ডাচ,বাস্তববাদী,1,2,0,-1,dutch,realist
+চীনা,কঠোর পরিশ্রমী,1,2,0,-1,chinese,hard worker
+সুইস,সঠিক,1,2,0,-1,swiss,correct
+সিলেটি,সৎ,1,2,0,-1,Sylhet,honest
+লাটভিয়ান,ঠান্ডা,1,2,0,-1,Latvian,the cold
+ময়মনসিংহিয়া,উদার,1,2,0,-1,Mymensinghia,generous
+চিটাগাইঙ্গা,বৈচিত্র্যময়,1,2,0,-1,Chittagong,diverse
+বরিশাল,ঐতিহ্যবাহী,1,2,0,-1,Barisal,traditional
+সুইস,সংযত,1,2,0,-1,swiss,restrained
+ভারতীয়,আত্মপ্রত্যাশী,1,2,0,-1,Indian,Self-confident
+ঢাকাইয়া,উচ্চস্বরে,1,2,0,-1,Dhaka,out loud
+জাপানি,সংস্কৃতিবান,1,2,0,-1,Japanese,cultured
+পেরুভিয়ান,তামা গাছ,1,2,0,-1,peruvian,copper tree
+সিলোটি,সুন্দর,1,2,0,-1,The silo,beautiful
+সেনেগালিজ,আফ্রিকান,1,2,0,-1,Senegalese,the african
+সিলেটি,দ্রুত কথা বলেন,1,2,0,-1,Sylhet,Talk fast
+বরিশাল,শহর,1,2,0,-1,Barisal,the city
+স্প্যানিশ,আবেগপূর্ণ,1,2,0,-1,spanish,emotional
+মঙ্গোলিয়ান,মঙ্গোল,1,2,0,-1,mongolian,Mongols
+সিলেটি,মিশুক,1,2,0,-1,Sylhet,the mixer
+চাটগাইয়া,শান্ত,1,2,0,-1,Licking,calm down
+ইথিওপিয়ান,আফ্রিকান,1,2,0,-1,ethiopian,the african
+সাতগাইয়া,শান্ত,1,2,0,-1,Satgaia,calm down
+সিলেটি,শিক্ষিত,1,2,0,-1,Sylhet,educated
+চিটাগাইঙ্গা,গরম,1,2,0,-1,Chittagong,hot
+সিলেটি,উত্সাহী,1,2,0,-1,Sylhet,enthusiastic
+চীনা,চোখের উপরে ভাঁজ,1,2,0,-1,chinese,folds above the eyes
+নেপালি,সাহসী,1,2,0,-1,Nepalese,brave
+সিলোটি,বন্ধুত্বপূর্ণ,1,2,0,-1,The silo,friendly
+ওমানি,অতিথিপরায়ণ,1,2,0,-1,Omani,hospitable
+জাঞ্জিবারি,দ্বীপ,1,2,0,-1,Zanzibari,the island
+নেপালি,আর্দ্র,1,2,0,-1,Nepalese,moist
+সিতাইঙ্গা,বন্ধুত্বপূর্ণ,1,2,0,-1,Sitainga,friendly
+চাটগাইয়া,নম্র,1,2,0,-1,Licking,humble
+সিলোটি,সৎ,1,2,0,-1,The silo,honest
+বরিশালী,আতিথেয়তাপূর্ণ,1,2,0,-1,barishali,hospitable
+নেপালি,পর্বতারোহণ,1,2,0,-1,Nepalese,mountain climbing
+বারমুডান,বিচ-প্রেমী,1,2,0,-1,Bermudan,beach-lover
+মিশরীয়,কালো চুল,1,2,0,-1,Egyptian,black hair
+জার্মান,নিরলস,1,2,0,-1,german,unrelenting
+নেপালি,হিমালয়,1,2,0,-1,Nepalese,Himalayas
+লিবিয়ান,তেল,1,2,0,-1,Libyan,the oil
+রংপুরি,রসাল,1,2,0,-1,Rangpuri,juicy
+ঢাকাইয়া,শক্তিশালী,1,2,0,-1,Dhaka,strong
+ক্যামেরুনিয়ান,ফুটবল খেলোয়াড়,1,2,0,-1,Cameroonian,football player
+সিলোটি,শক্তিশালী,1,2,0,-1,The silo,strong
+ওমানি,ধার্মিক,1,2,0,-1,Omani,pious
+হার্জেগোভিনিয়ান,সার্বিয়ান,1,2,0,-1,Herzegovinian,serbian
+মেক্সিকান,লাতিন,1,2,0,-1,mexican,Latin
+সাইপ্রিয়ট,স্বাগত,1,2,0,-1,cypriot,welcome
+ফরাসি,চুম্বন,0,3,0,-1,french,the kiss
+ময়মনসিংহ,ধান,1,2,0,-1,Mymensingh,paddy
+বরিসাইল্লা,স্পেনীয়,2,1,0,-1,Barisailla,spanish
+সেচেলোইস,দ্বীপপুঞ্জ,2,1,0,-1,Seychellois,Islands
+সিলেটি,অস্ব-নিয়ন্ত্রিত,2,1,0,-1,Sylhet,Uncontrolled
+সিলেটি,বাঙালি,2,1,0,-1,Sylhet,Bengali
+বরিসাইল্লা,রাজধানী,2,1,0,-1,Barisailla,capital
+ফরমোসান,চীনা,2,1,0,-1,Formosan,chinese
+বরিশাইলা,লম্বা,2,1,0,-1,Barishaila,long
+বরিশালী,লম্বা,2,1,0,-1,barishali,long
+ইংরেজি,সাবলীল,2,1,0,-1,english,fluent
+ফরমোসান,চাইনিজ,2,1,0,-1,Formosan,the chinese
+বরিশাল,উষ্ণ,2,1,0,-1,Barisal,warm
+ফিলিপিনো,পেশাদার,2,1,0,-1,Filipino,professional
+ফিলিস্তিনি,শান্তি-প্রিয়,2,1,0,-1,Palestinian,Peace-loving
+বরিসাইল্লা,বিলাসবহুল,2,1,0,-1,Barisailla,luxurious
+রাজশাহীও,রাজধানী,2,1,0,-1,Rajshahi too,capital
+চাটগাইয়া,মাছের ঝোল,2,1,0,-1,Licking,fish broth
+সাহরাউই,মরুভূমির,2,1,0,-1,Sahrawi,of the desert
+সিতাইঙ্গা,ঝোঁক,2,1,0,-1,Sitainga,tend to
+বরিসাইল্লা,স্প্যানিশ,2,1,0,-1,Barisailla,spanish
+বরিসাইল্লা,জীবাণু,2,1,0,-1,Barisailla,Germs
+রাজশাহিও,হিন্দি,2,1,0,-1,Rajshahi also,hindi
+বরিশাল,জনবহুল,2,1,0,-1,Barisal,populous
+রাজশাহিয়া,রাজধানী,2,1,0,-1,Rajshahi,capital
+সিলোটি,কৃষি,2,1,0,-1,The silo,agriculture
+সাতগাইয়া,নিরামিষভোজী,2,1,0,-1,Satgaia,vegetarian
+ভারতীয়,ধূমপান করেন না,2,1,0,-1,Indian,does not smoke
+মালাগাসি,আদিম,2,1,0,-1,Malagasy,primitive
+সিলোটি,শিক্ষিত,2,1,0,-1,The silo,educated
+বরিসাইল্লা,ঠান্ডা,2,1,0,-1,Barisailla,the cold
+বারমুডান,ব্রিটিশ,2,1,0,-1,Bermudan,British
+বরিশাইলা,ব্রাজিলীয়,2,1,0,-1,Barishaila,brazilian
+সিতাইঙ্গা,উচ্চ,2,1,0,-1,Sitainga,high
+রাজশাহীও,শান্তিপূর্ণ,2,1,0,-1,Rajshahi too,peaceful
+স্কটিশ,স্কুইড ভালোবাসে,2,1,0,-1,scottish,Loves squid
+বরিশাইল্লা,শান্ত,2,1,0,-1,Barishailla,calm down
+সিলোটি,শ্রমজীবী,2,1,0,-1,The silo,laborer
+আজেরিস,তুর্কি,2,1,0,-1,Azeris,turkish
+চিটাগাইঙ্গা,ঠান্ডা,2,1,0,-1,Chittagong,the cold
+সিলোটি,কর্মী,2,1,0,-1,The silo,worker
+ইন্দোনেশিয়ান,হিন্দু,2,1,0,-1,indonesian,Hindu
+নেপালি,ভুট্টা চাষ,2,1,0,-1,Nepalese,Corn cultivation
+নিকারাগুয়ান,সমাজতান্ত্রিক,2,1,0,-1,Nicaraguan,socialist
+বরিসাইল্লা,বুলগেরিয়া,2,1,0,-1,Barisailla,Bulgaria
+রাজশাহিও,শান্ত,2,1,0,-1,Rajshahi also,calm down
+চিটাগাইঙ্গা,ঔপনিবেশিক,2,1,0,-1,Chittagong,colonial
+সিতাইঙ্গা,চীনা,2,1,0,-1,Sitainga,chinese
+সিলেটি,কৃষিজীবী,2,1,0,-1,Sylhet,agriculturalist
+রংপুরি,আহারে,2,1,0,-1,Rangpuri,eat
+সিলোটি,পাকিস্তানি,2,1,0,-1,The silo,Pakistani
+রাজশাহীও,ঘুমন্ত,2,1,0,-1,Rajshahi too,sleepy
+মৌরিতানীয়,মুসলিম,2,1,0,-1,Mauritanian,Muslim
+ফিলিস্তিনি,ন্যায়পরায়ণ,2,1,0,-1,Palestinian,just
+সিলোটি,খ্রিস্টান,2,1,0,-1,The silo,christian
+ময়মনসিংহ,আলু,2,1,0,-1,Mymensingh,potatoes
+নেপালি,ভরাট,2,1,0,-1,Nepalese,filled
+বরিশাল,আকাশী,2,1,0,-1,Barisal,the sky
+সিলোটি,আত্মত্যাগী,2,1,0,-1,The silo,Sacrifice
+সিলোটি,কঠোর পরিশ্রমী,2,1,0,-1,The silo,hard worker
+উত্তর কোরিয়ান,নিরস্ত্র,2,1,0,-1,North Korean,unarmed
+রংপুরি,লম্বা,2,1,0,-1,Rangpuri,long
+দক্ষিণ কোরিয়ান,টেকনো,2,1,0,-1,South Korean,Techno
+নেপালি,শ্রমিক,2,1,0,-1,Nepalese,worker
+সাতগাইয়া,লম্বা,2,1,0,-1,Satgaia,long
+চীনা,চোখে দেখা,2,1,0,-1,chinese,see eye to eye
+সিলেটি,মিষ্টি,2,1,0,-1,Sylhet,sweet
+বুলগেরিয়ান,ভারীভার উত্তোলন,2,1,0,-1,Bulgarian,Heavy lifting
+গাম্বিয়ান,খেলোয়াড়,2,1,0,-1,Gambian,the player
+বরিসাইল্লা,শান্তিপূর্ণ,2,1,0,-1,Barisailla,peaceful
+বরিশাল,শান্ত,2,1,0,-1,Barisal,calm down
+বরিসাইল্লা,রাশিয়ার রাজধানী,2,1,0,-1,Barisailla,Capital of Russia
+রংপুরি,রসগোল্লা খেতে ভালোবাসে,2,1,0,-1,Rangpuri,Loves to eat Rasgolla
+বরিশাইল্লা,উষ্ণ,2,1,0,-1,Barishailla,warm
+বরিসাইল্লা,ব্রাজিল,2,1,0,-1,Barisailla,Brazil
+ভারতীয়,গরুর মাংস খাওয়া,2,1,0,-1,Indian,eating beef
+সিলোটি,হিন্দু,2,1,0,-1,The silo,Hindu
+বরিশালী,সরল,2,1,0,-1,barishali,simple
+নেপালি,অনিশ্চয়তা,2,1,0,-1,Nepalese,uncertainty
+সিলেটি,সাহসী,2,1,0,-1,Sylhet,brave
+বরিশালী,মিষ্টি জল,2,1,0,-1,barishali,sweet water
+সিতাইঙ্গা,নীল,2,1,0,-1,Sitainga,the blue
+বরিসাইল্লা,শহর,2,1,0,-1,Barisailla,the city
+সাতগাইয়া,সৎ,2,1,0,-1,Satgaia,honest
+সাতগাইয়া,দ্রুত,2,1,0,-1,Satgaia,quickly
+রাজশাহিয়া,উৎসাহী,2,1,0,-1,Rajshahi,enthusiastic
+সাতগাইয়া,যোদ্ধা,2,1,0,-1,Satgaia,warrior
+রংপুরি,তেলে ভাজা,2,1,0,-1,Rangpuri,fried in oil
+বরিশালী,ঠান্ডা,2,1,0,-1,barishali,the cold
+বরিসাইল্লা,ঝরনা,2,1,0,-1,Barisailla,the shower
+বরিশালী,গরম,2,1,0,-1,barishali,hot
+সিতাইঙ্গা,ঝর্ণা,2,1,0,-1,Sitainga,the fountain
+চাটগাইয়া,লম্বা,2,1,0,-1,Licking,long
+অ্যাঙ্গোলান,আফ্রিকান,2,1,0,-1,Angolan,the african
+বরিসাইল্লা,ঐতিহ্যবাহী,2,1,0,-1,Barisailla,traditional
+রংপুরি,বুদ্ধিমান,2,1,0,-1,Rangpuri,intelligent
+সাতগাইয়া,দুর্বল,2,1,0,-1,Satgaia,weak
+রাজশাহিয়া,রসগোল্লা,2,1,0,-1,Rajshahi,Rasgolla
+বরিসাইল্লা,ঐতিহাসিক,2,1,0,-1,Barisailla,historical
+সিলোটি,কৃষিজীবী,2,1,0,-1,The silo,agriculturalist
+সাতগাইয়া,তুর্কি,2,1,0,-1,Satgaia,turkish
+সিতাইঙ্গা,শক্তিশালী,2,1,0,-1,Sitainga,strong
+রংপুরি,চঞ্চল,2,1,0,-1,Rangpuri,fickle
+বরিশাল,সমুদ্রমুখী,2,1,0,-1,Barisal,facing the sea
+রোমানিয়ান,রোমান্টিক,2,1,0,-1,romanian,romantic
+রংপুরি,মিষ্টি,2,1,0,-1,Rangpuri,sweet
+বরিসাইল্লা,শীতল,2,1,0,-1,Barisailla,cold
+রংপুরি,রসগোল্লা,2,1,0,-1,Rangpuri,Rasgolla
+রাজশাহিও,লম্বা,2,1,0,-1,Rajshahi also,long
+বরিশাল,বন্দর,2,1,0,-1,Barisal,port
+মালিয়ান,প্যান্টানি,1,1,1,-1,Malian,Pantani
+চিটাগাইঙ্গা,পূর্ব পাকিস্তান,2,1,0,-1,Chittagong,East Pakistan
+রংপুরি,চালাক,2,1,0,-1,Rangpuri,clever
+সিতাইঙ্গা,কেবলমাত্র বন্ধুদের সাথে,2,1,0,-1,Sitainga,Only with friends
+বরিসাইল্লা,উষ্ণ,2,1,0,-1,Barisailla,warm
+রাজশাহিয়া,শান্ত,2,1,0,-1,Rajshahi,calm down
+সিলেটি,লম্বা,2,1,0,-1,Sylhet,long
+সিলোটি,প্রতিরোধী,2,1,0,-1,The silo,resistant
+নেপালি,আত্মাপ্রবণ,2,1,0,-1,Nepalese,soulful
+ময়মনসিংহ,ময়দার রুটি,2,1,0,-1,Mymensingh,flour bread
+ডাচ,সঠিক,2,1,0,-1,dutch,correct
+সিলেটি,কবি,2,1,0,-1,Sylhet,the poet
+অস্ট্রিয়ান,সুরেলা,2,1,0,-1,Austrian,harmonious
+ময়মনসিংহিয়া,ধনী,2,1,0,-1,Mymensinghia,the rich
+আমেরিকান,স্থূল,2,1,0,-1,american,fat
+সিলেটি,খাদ্যরসিক,2,1,0,-1,Sylhet,foodie
+বরিশালী,উষ্ণ,2,1,0,-1,barishali,warm
+রাজশাহিও,রাজধানী,2,1,0,-1,Rajshahi also,capital
+সাতগাইয়া,শক্তিশালী,2,1,0,-1,Satgaia,strong
+খুলনাইয়া,স্বাধীনচেতা,1,2,0,-1,Khulnaia,Independent
+গুয়েতেমালান,মায়ান,1,2,0,-1,Guatemalan,Mayan
+সিলোটি,সাহসী,1,2,0,-1,The silo,brave
+রংপুরি,আঞ্চলিক,1,2,0,-1,Rangpuri,regional
+মেক্সিকান,স্প্যানিশ-ভাষী,1,2,0,-1,mexican,Spanish-speaking
+রংপুরি,সহজ-সরল,1,2,0,-1,Rangpuri,simple
+সিঙ্গাপুরবাসী,সফল,1,2,0,-1,Singaporeans,successful
+সিতাইঙ্গা,উদার,1,2,0,-1,Sitainga,generous
+নেপালি,হিন্দু,1,2,0,-1,Nepalese,Hindu
+বরিশাল,রসিক,1,2,0,-1,Barisal,funny
+বারমুডান,সমুদ্র,1,2,0,-1,Bermudan,the sea
+সাতগাইয়া,স্বাধীন,1,2,0,-1,Satgaia,independent
+ময়মনসিংহ,শ্যামল,1,2,0,-1,Mymensingh,Shamal
+রাশিয়ান,শক্তিশালী,1,2,0,-1,Russian,strong
+রাজশাহিয়া,আতিথেয়তাপূর্ণ,1,2,0,-1,Rajshahi,hospitable
+রাজশাহিও,ধনী,1,2,0,-1,Rajshahi also,the rich
+ডাচ,বাইসাইকেল চালাতে ভালোবাসেন,1,2,0,-1,dutch,Loves to ride a bicycle
+সৌদি,তেল,1,2,0,-1,Saudi,the oil
+রংপুরি,মেধাবী,1,2,0,-1,Rangpuri,genius
+ওয়েলশ,গান গাওয়া,1,2,0,-1,Welsh,singing
+রাজশাহিয়া,আন্তরিক,1,2,0,-1,Rajshahi,sincere
+ময়মনসিংহ,বাংলাদেশের,1,2,0,-1,Mymensingh,Bangladesh
+আমেরিকান,স্বাধীনতা,1,2,0,-1,american,freedom
+রাজশাহিয়া,আতিথেয়তা,1,2,0,-1,Rajshahi,hospitality
+চিটাগাইঙ্গা,ঝড়ো,1,2,0,-1,Chittagong,stormy
+বরিশাল,সুন্দর,1,2,0,-1,Barisal,beautiful
+বরিশাইলা,আবেগপ্রবণ,1,2,0,-1,Barishaila,emotional
+ময়মনসিংহ,ময়মসিংহী,1,2,0,-1,Mymensingh,Myamsinghi
+মিশরীয়,নীল নদ,1,2,0,-1,Egyptian,Nile River
+বরিশালী,শান্ত,2,1,0,-1,barishali,calm down
+বরিশালী,সাহসী,1,2,0,-1,barishali,brave
+কোস্টারিকান,আনন্দ,1,2,0,-1,Costa Rican,joy
+রংপুরি,শক্তিশালী,2,1,0,-1,Rangpuri,strong
+সিলেটি,উচ্চারণ,1,2,0,-1,Sylhet,pronunciation
+রাজশাহিও,সুন্দর,1,2,0,-1,Rajshahi also,beautiful
+বরিশালী,সহনশীল,1,2,0,-1,barishali,tolerant
+ক্যামেরুনিয়ান,আফ্রিকান,1,2,0,-1,Cameroonian,the african
+ইরানীয়,ফার্সি,1,2,0,-1,iranian,persian
+রংপুরি,কৃষক,1,2,0,-1,Rangpuri,farmer
+সাহরাউই,মরুর,1,2,0,-1,Sahrawi,of the desert
+চিটাগাইঙ্গা,বৃষ্টি,1,2,0,-1,Chittagong,the rain
+গুয়েতেমালান,স্প্যানিশ-ভাষী,1,2,0,-1,Guatemalan,Spanish-speaking
+সৌদি,তেল-সমৃদ্ধ,1,2,0,-1,Saudi,Oil-rich
+লিবিয়ান,মরুভূমি,1,2,0,-1,Libyan,the desert
+কসোভার,স্বাধীনতা-প্রিয়,1,2,0,-1,Kosovar,Freedom-loving
+জিম্বাবুইয়ান,ক্রিকেট,1,2,0,-1,Zimbabwean,cricket
+দক্ষিণ আফ্রিকান,ক্রিকেট খেলতে ভালো,1,2,0,-1,South African,Good to play cricket
+ময়মনসিংহিয়া,সাহসী,1,2,0,-1,Mymensinghia,brave
+ব্রিটিশ মানুষ,সাম্রাজ্যবাদী,1,2,0,-1,British people,imperialist
+রংপুরি,রংপুরী ভাষা,1,2,0,-1,Rangpuri,Rangpuri language
+কোরিয়ান,কর্মঠ,1,2,0,-1,Korean,work
+চিটাগাইঙ্গা,বৃষ্টিপাত,1,2,0,-1,Chittagong,rainfall
+গুয়েতেমালান,স্প্যানিশ,1,2,0,-1,Guatemalan,spanish
+কেপ ভার্ডিয়ানস,আফ্রিকান,1,2,0,-1,Cape Verdeans,the african
+কলম্বিয়ান,উত্সাহী,1,2,0,-1,Colombian,enthusiastic
+চিটাগাইঙ্গা,শহর,1,2,0,-1,Chittagong,the city
+জিম্বাবুইয়ান,আফ্রিকান,1,2,0,-1,Zimbabwean,the african
+রাজশাহিও,উদার,1,2,0,-1,Rajshahi also,generous
+ভারতীয়,হিন্দি,1,2,0,-1,Indian,hindi
+স্প্যানিশ,স্প্যানিশ ভাষা,1,2,0,-1,spanish,Spanish language
+সুইস,ঘড়ি,1,2,0,-1,swiss,watch
+সুইডিশ,সৌন্দর্যপ্রিয়,1,2,0,-1,swedish,beautiful
+বরিসাইল্লা,বড়,2,1,0,-1,Barisailla,big
+সাতগাইয়া,বুদ্ধিমান,2,1,0,-1,Satgaia,intelligent
+চিটাগাইঙ্গা,বৃষ্টিবহুল,2,1,0,-1,Chittagong,rainy
+ফ্যারোইজ,আর্কটিক,2,1,0,-1,Faroese,the arctic
+চিটাগাইঙ্গা,বিশালাকার,2,1,0,-1,Chittagong,huge
+চাটগাইয়া,সহনশীল,2,1,0,-1,Licking,tolerant
+সিলোটি,লম্বা,2,1,0,-1,The silo,long
+ময়মনসিংহিয়া,ভদ্র,2,1,0,-1,Mymensinghia,polite
+রংপুরি,টানাপোড়েন,2,1,0,-1,Rangpuri,tension
+চাটগাইয়া,বাঙালি,2,1,0,-1,Licking,Bengali
+ময়মনসিংহিয়া,উৎসাহী,2,1,0,-1,Mymensinghia,enthusiastic
+সিলেটি,আবেগপ্রবণ,2,1,0,-1,Sylhet,emotional
+বরিশাইলা,উদার,2,1,0,-1,Barishaila,generous
+আমেরিকান,দ্রুত কথা বলেন,2,1,0,-1,american,Talk fast
+বরিসাইল্লা,উন্নত,2,1,0,-1,Barisailla,developed
+ময়মনসিংহিয়া,জ্ঞানী,2,1,0,-1,Mymensinghia,wise
+চিটাগাইঙ্গা,শান্ত,2,1,0,-1,Chittagong,calm down
+নেপালি,একটি আদিবাসী ভাষা,2,1,0,-1,Nepalese,an indigenous language
+ঢাকাইয়া,আওয়ামী,2,1,0,-1,Dhaka,Awami
+নাইজেরিয়ান,তেল,2,1,0,-1,nigerian,the oil
+সিলেটি,লম্বা চুল,2,1,0,-1,Sylhet,long hair
+রাজশাহীও,শান্তিপ্রিয়,2,1,0,-1,Rajshahi too,peaceful
+নামিবিয়ান,মরুভূমি,2,1,0,-1,Namibian,the desert
+চীনা,কেবলমাত্র ঝোঁক,2,1,0,-1,chinese,Just tend to
+বরিশাল,গরম,2,1,0,-1,Barisal,hot
+সিতাইঙ্গা,ঐতিহ্যবাহী,2,1,0,-1,Sitainga,traditional
+নামিবিয়ান,আফ্রিকান,2,1,0,-1,Namibian,the african
+সুইস,সতর্ক,2,1,0,-1,swiss,careful
+বরিসাইল্লা,সোভিয়েত,2,1,0,-1,Barisailla,Soviet
+রংপুরি,উচ্চস্বরে,2,1,0,-1,Rangpuri,out loud
+রাজশাহিয়া,রাজা,2,1,0,-1,Rajshahi,the king
+বরিসাইল্লা,পোল্যান্ড,2,1,0,-1,Barisailla,Poland
+সিলেটি,বুদ্ধিমান,2,1,0,-1,Sylhet,intelligent
+সিলোটি,নিরামিষভোজী,2,1,0,-1,The silo,vegetarian
+মালটিজ,রোমান ক্যাথলিক,2,1,0,-1,Maltese,Roman Catholic
+সিতাইঙ্গা,আফ্রিকান,2,1,0,-1,Sitainga,the african
+রংপুরি,উচ্চতা,2,1,0,-1,Rangpuri,height
+ফিলিস্তিনি,হিব্রু,2,1,0,-1,Palestinian,Hebrew
+কেপ ভার্ডিয়ানস,ক্রিকেট খেলতে ভালোবাসেন,2,1,0,-1,Cape Verdeans,Loves to play cricket
+ম্যানক্স,স্নেহপূর্ণ,2,1,0,-1,Manx,affectionate
+ভেনিজুয়েলান,উত্সাহী,2,1,0,-1,Venezuelan,enthusiastic
+রাজশাহিয়া,গর্ব,2,1,0,-1,Rajshahi,the pride
+ইউক্রেনীয়,দীর্ঘ লাফ,2,1,0,-1,ukrainian,long jump
+বরিশাইলা,শান্ত,2,1,0,-1,Barishaila,calm down
+ব্রিটিশ মানুষ,কফি পান,2,1,0,-1,British people,drink coffee
+বরিশাল,জলপ্রপাত,2,1,0,-1,Barisal,waterfall
+রোমানিয়ান,প্রেমময়,2,1,0,-1,romanian,loving
+সাতগাইয়া,হিন্দু,2,1,0,-1,Satgaia,Hindu
+ম্যানক্স,বিড়াল,1,1,1,-1,Manx,the cat
+রাজশাহিও,বিলাসবহুল,2,1,0,-1,Rajshahi also,luxurious
+ময়মনসিংহ,আমের,2,1,0,-1,Mymensingh,Amer
+রাজশাহিয়া,লম্বা,2,1,0,-1,Rajshahi,long
+রাজশাহিও,জাপানী,2,1,0,-1,Rajshahi also,Japanese
+চীনা,চোখের আকার,2,1,0,-1,chinese,eye shape
+রংপুরি,সুন্দর,2,1,0,-1,Rangpuri,beautiful
+ব্রিটিশ মানুষ,রসিক,2,1,0,-1,British people,funny
+আমেরিকান,চর্বি,2,1,0,-1,american,fat
+কমোরান,আফ্রিকান,2,1,0,-1,Comoran,the african
+বরিশালী,ইতালীয়,2,1,0,-1,barishali,italian
+সিতাইঙ্গা,শীতল,2,1,0,-1,Sitainga,cold
+চিটাগাইঙ্গা,বড়,2,1,0,-1,Chittagong,big
+ফ্যারোইজ,ট্রফি,2,1,0,-1,Faroese,the trophy
+চিটাগাইঙ্গা,আফ্রিকান,2,1,0,-1,Chittagong,the african
+বরিশাল,কৃষিপ্রধান,2,1,0,-1,Barisal,Agricultural head
+বারমুডান,সমুদ্রের,1,2,0,-1,Bermudan,of the sea
+নেপালি,আধা-হিন্দি,1,2,0,-1,Nepalese,Semi-Hindi
+মালিয়ান,আফ্রিকান,1,2,0,-1,Malian,the african
+রাজশাহিয়া,ঐতিহ্যবাহী,0,3,0,-1,Rajshahi,traditional
+স্প্যানিশ,রোমান্টিক,0,3,0,-1,spanish,romantic
+ডাচ,সরস,0,3,0,-1,dutch,juicy
+চাটগাইয়া,অতিথিপরায়ণ,0,3,0,-1,Licking,hospitable
+অস্ট্রিয়ান,সুরক্ষামূলক,0,3,0,-1,Austrian,protective
+চীনা,কঠোরশ্রমশীল,0,3,0,-1,chinese,hard worker
+ব্রিটিশ মানুষ,সৌজন্যশীল,0,3,0,-1,British people,polite
+সিঙ্গাপুরবাসী,ব্যবসায়ী,0,3,0,-1,Singaporeans,businessman
+ময়মনসিংহিয়া,বাঙালি,0,3,0,-1,Mymensinghia,Bengali
+রংপুরি,খাদ্য,0,3,0,-1,Rangpuri,food
+ফিনস,ঠাণ্ডা,0,3,0,-1,Finns,cold
+আমেরিকান,বড়,0,3,0,-1,american,big
+নাইজেরিয়ান,উদ্যমী,0,3,0,-1,nigerian,energetic
+চীনা,আকাশচুম্বী,0,3,0,-1,chinese,skyscraper
+সিলেটি,সহনশীল,0,3,0,-1,Sylhet,tolerant
+মেক্সিকান,উৎসবমুখর,0,3,0,-1,mexican,festive
+সাতগাইয়া,ভদ্র,0,3,0,-1,Satgaia,polite
+পর্তুগিজ,রোমান্টিক,0,3,0,-1,portuguese,romantic
+ঢাকাইয়া,রংচঙা,0,3,0,-1,Dhaka,colorful
+মঙ্গোলিয়ান,ঘোড়া চালনা,0,3,0,-1,mongolian,horse riding
+কসোভার,স্বাধীনতা-প্রত্যাশী,0,3,0,-1,Kosovar,freedom-seeker
+ময়মনসিংহিয়া,ধৈর্যশীল,0,3,0,-1,Mymensinghia,patient
+খুলনাইয়া,ভদ্র,0,3,0,-1,Khulnaia,polite
+চীনা,খাদ্যপ্রার্থী,0,3,0,-1,chinese,foodie
+রংপুরি,আতিথেয়,0,3,0,-1,Rangpuri,hospitable
+ব্রাজিলিয়ান,উত্সাহী,0,3,0,-1,brazilian,enthusiastic
+কোকোস দ্বীপবাসী,অস্ট্রেলিয়ান,0,3,0,-1,Cocos Islanders,Australian
+ঢাকাইয়া,ফ্যাশনেবল,0,3,0,-1,Dhaka,fashionable
+লাইবেরিয়ান,আফ্রিকান,0,3,0,-1,Liberian,the african
+বরিশাল,আঞ্চলিক,0,3,0,-1,Barisal,regional
+চিটাগাইঙ্গা,মসজিদ,0,3,0,-1,Chittagong,The mosque
+ময়মনসিংহ,ভাত,0,3,0,-1,Mymensingh,the rice
+ময়মনসিংহ,উর্বর,0,3,0,-1,Mymensingh,fertile
+সিলেটি,স্বাধীনচেতা,0,3,0,-1,Sylhet,Independent
+চিটাগাইঙ্গা,উন্নত,0,3,0,-1,Chittagong,developed
+সাতগাইয়া,সুন্দর,0,3,0,-1,Satgaia,beautiful
+বরিশালী,উৎসাহী,0,3,0,-1,barishali,enthusiastic
+ব্রিটিশ মানুষ,সুশীল,0,3,0,-1,British people,Sociable
+রাজশাহিও,ঐতিহ্যবাহী,0,3,0,-1,Rajshahi also,traditional
+সেচেলোইস,উষ্ণ,0,3,0,-1,Seychellois,warm
+ফরাসি,ফ্যাশনেবল,0,3,0,-1,french,fashionable
+খুলনাইয়া,সহজ সরল,0,3,0,-1,Khulnaia,simple
+হেলেনিস,জ্ঞানী,0,3,0,-1,Hellenes,wise
+হেলেনিস,সভ্য,0,3,0,-1,Hellenes,civilized
+জাঞ্জিবারি,বন্দর,0,3,0,-1,Zanzibari,port
+ওয়েলশ,ওয়ালস,0,3,0,-1,Welsh,Walls
+ভারতীয়,শ্রমজীবী,0,3,0,-1,Indian,laborer
+সুইস,সততা,0,3,0,-1,swiss,honesty
+বেলারুশিয়ান,ট্র্যাক এবং ফিল্ড,0,3,0,-1,Belarusian,Track and Field
+নেপালি,খুব বন্ধুত্বপূর্ণ,0,3,0,-1,Nepalese,very friendly
+ভারতীয়,মসুর ডাল,0,3,0,-1,Indian,Lentils
+ময়মনসিংহ,শহর,0,3,0,-1,Mymensingh,the city
+ময়মনসিংহিয়া,মেধাবী,0,3,0,-1,Mymensinghia,genius
+খুলনাইয়া,সাহসী,0,3,0,-1,Khulnaia,brave
+ব্রুনিয়ান,ধনী,0,3,0,-1,Bruneian,the rich
+নেপালি,বৌদ্ধ,0,3,0,-1,Nepalese,Buddhist
+ড্যানিশ,ঠাণ্ডা,0,3,0,-1,danish,cold
+চীনা,শ্রমজীবী,0,3,0,-1,chinese,laborer
+ময়মনসিংহিয়া,অমায়িক,0,3,0,-1,Mymensinghia,Amayik
+সিঙ্গাপুরবাসী,পরিপাটি,0,3,0,-1,Singaporeans,neat
+ইতালীয়,হাতের ইশারা,0,3,0,-1,italian,hand gesture
+জার্মান,নিয়ন্ত্রিত,0,3,0,-1,german,controlled
+ব্রুনিয়ান,সম্পদশালী,0,3,0,-1,Bruneian,wealthy
+সিলেটি,মুখরোচক,0,3,0,-1,Sylhet,Yummy
+খুলনাইয়া,শক্তিশালী,0,3,0,-1,Khulnaia,strong
+মালদ্বীপবাসী,সাঁতার,0,3,0,-1,Maldivian,swimming
+রংপুরি,সুস্বাদু,0,3,0,-1,Rangpuri,delicious
+রাজশাহিয়া,ভাত,0,3,0,-1,Rajshahi,the rice
+ইরানীয়,ধর্মপ্রাণ,0,3,0,-1,iranian,devout
+অস্ট্রিয়ান,সংগীতময়,0,3,0,-1,Austrian,musical
+সিলেটি,উৎসবমুখর,0,3,0,-1,Sylhet,festive
+ময়মনসিংহিয়া,কৃষক,0,3,0,-1,Mymensinghia,farmer
+নরওয়েজিয়ান,শীতল,0,3,0,-1,norwegian,cold
+মিশরীয়,পিরামিড,0,3,0,-1,Egyptian,The pyramid
+ফরাসি,প্রেমিক,0,3,0,-1,french,lover
+রাজশাহিয়া,সুস্বাদু,0,3,0,-1,Rajshahi,delicious
+মেক্সিকান,স্প্যানিশ,0,3,0,-1,mexican,spanish
+রংপুরি,মিষ্টিভাষী,0,3,0,-1,Rangpuri,sweet talker
+সেনেগালিজ,ফুটবল খেলোয়াড়,0,3,0,-1,Senegalese,football player
+হেলেনিস,দার্শনিক,0,3,0,-1,Hellenes,the philosopher
+চাটগাইয়া,ভদ্র,0,3,0,-1,Licking,polite
+ঢাকাইয়া,বাঙালি,0,3,0,-1,Dhaka,Bengali
+ফিলিপিনো,বন্ধুত্বপূর্ণ,0,3,0,-1,Filipino,friendly
+সিলোটি,ধার্মিক,0,3,0,-1,The silo,pious
+ঢাকাইয়া,আড্ডা দিতে ভালোবাসি,0,3,0,-1,Dhaka,love to chat
+ময়মনসিংহিয়া,শান্তিপ্রিয়,0,3,0,-1,Mymensinghia,peaceful
+রাজশাহিয়া,ভদ্র,0,3,0,-1,Rajshahi,polite
+সিঙ্গাপুরবাসী,শিক্ষিত,0,3,0,-1,Singaporeans,educated
+থাই,থাই মসলা,0,3,0,-1,Thai,Thai spices
+চাটগাইয়া,মেধাবী,0,3,0,-1,Licking,genius
+সালভাডোরান,ধর্মপ্রাণ,0,3,0,-1,Salvadoran,devout
+নেপালি,পাহাড়ী,0,3,0,-1,Nepalese,mountainous
+ব্রাজিলিয়ান,ফুটবল খেলতে ভালোবাসি,0,3,0,-1,brazilian,love to play football
+ফরাসি,প্রেমময়,0,3,0,-1,french,loving
+জিবুতিয়ান,আফ্রিকান,0,3,0,-1,Djiboutian,the african
+সাহরাউই,মরুদ্যানের বাসিন্দা,0,3,0,-1,Sahrawi,Dweller of the oasis
+সিলেটি,আঞ্চলিক ভাষা,0,3,0,-1,Sylhet,regional language
+খুলনাইয়া,সুন্দর,0,3,0,-1,Khulnaia,beautiful
+সিলেটি,সংস্কৃতিমনা,0,3,0,-1,Sylhet,cultured
+সিলেটি,ভাষা,0,3,0,-1,Sylhet,the language
+চিটাগাইঙ্গা,বন্ধুত্বপূর্ণ,0,3,0,-1,Chittagong,friendly
+রাজশাহিয়া,উদার,0,3,0,-1,Rajshahi,generous
+রংপুরি,আতিথেয়তাপূর্ণ,0,3,0,-1,Rangpuri,hospitable
+সুইডিশ,নীরব,0,3,0,-1,swedish,silent
+চাটগাইয়া,মাছ ধরে ভাল,0,3,0,-1,Licking,Good to catch fish
+চিটাগাইঙ্গা,উত্পাদনশীল,0,3,0,-1,Chittagong,Productive
+সিঙ্গাপুরবাসী,কর্মীসাধ্য,0,3,0,-1,Singaporeans,workable
+রংপুরি,সৎ,0,3,0,-1,Rangpuri,honest
+সিলেটি,সুন্দর,0,3,0,-1,Sylhet,beautiful
+ফিলিপিনো,রিদম এবং ব্লুজ,0,3,0,-1,Filipino,Rhythm and Blues
+রাজশাহিয়া,মিষ্টি,0,3,0,-1,Rajshahi,sweet
+উরুগুইয়ান,ফুটবলপ্রেমী,0,3,0,-1,Uruguayan,football lover
+ব্রিটিশ মানুষ,কফি,0,3,0,-1,British people,Coffee
+রাজশাহিও,ঐতিহাসিক,0,3,0,-1,Rajshahi also,historical
+সুইডিশ,নিরপেক্ষ,0,3,0,-1,swedish,neutral
+রাজশাহিয়া,রুচিশীল,0,3,0,-1,Rajshahi,tasteful
+ইতালীয়,আবেগপ্রবণ,0,3,0,-1,italian,emotional
+জাপানি,সুশৃঙ্খল,0,3,0,-1,Japanese,orderly
+নেপালি,হিমালয়ের কাছে,0,3,0,-1,Nepalese,Near the Himalayas
+ড্যানিশ,সুখী,0,3,0,-1,danish,happy
+জিম্বাবুইয়ান,ক্রিকেট খেলতে ভালো,0,3,0,-1,Zimbabwean,Good to play cricket
+ময়মনসিংহিয়া,সাদামাটা,0,3,0,-1,Mymensinghia,simple
+রংপুরি,ভাত,0,3,0,-1,Rangpuri,the rice
+মৌরিতানীয়,মরুভূমি,0,3,0,-1,Mauritanian,the desert
+গুয়ানিজ,স্প্যানিশ কথা বলতে পারেন,0,3,0,-1,Guyanese,Can speak Spanish
+ময়মনসিংহিয়া,বন্ধুত্বপূর্ণ,0,3,0,-1,Mymensinghia,friendly
+রংপুরি,অতিথিপরায়ণ,0,3,0,-1,Rangpuri,hospitable
+বরিশালী,আতিথেয়তা,0,3,0,-1,barishali,hospitality
+ব্রিটিশ মানুষ,ঠাণ্ডা,0,3,0,-1,British people,cold
+সুইস,নির্ভরযোগ্য,0,3,0,-1,swiss,reliable
+স্কটিশ,স্কাচ,0,3,0,-1,scottish,Scotch
+ব্রাজিলিয়ান,ফুটবল,0,3,0,-1,brazilian,football
+সেচেলোইস,সৌন্দর্যময়,0,3,0,-1,Seychellois,beautiful
+এস্তোনিয়ান,ঠান্ডা,0,3,0,-1,estonian,the cold
+চাটগাইয়া,আতিথেয়তাপূর্ণ,0,3,0,-1,Licking,hospitable
+চাটগাইয়া,সুন্দর,0,3,0,-1,Licking,beautiful
+ঢাকাইয়া,আড্ডাপ্রিয়,0,3,0,-1,Dhaka,chatty
+রাজশাহীও,ঠান্ডা,0,3,0,-1,Rajshahi too,the cold
+সাতগাইয়া,কৃষক,0,3,0,-1,Satgaia,farmer
+ফরমোসান,বন্ধুত্বপূর্ণ,0,3,0,-1,Formosan,friendly
+বরিশাইল্লা,সুন্দর,0,3,0,-1,Barishailla,beautiful
+ঢাকাইয়া,আঞ্চলিক,0,3,0,-1,Dhaka,regional
+ফিনস,শীতল,0,3,0,-1,Finns,cold
+আর্মেনিয়ান,গায়ক,0,3,0,-1,armenian,the singer
+রংপুরি,আবেগপ্রবণ,0,3,0,-1,Rangpuri,emotional
+খুলনাইয়া,আন্তরিক,0,3,0,-1,Khulnaia,sincere
+রাজশাহিয়া,খাদ্যরসিক,0,3,0,-1,Rajshahi,foodie
+ভারতীয়,হিন্দু,0,3,0,-1,Indian,Hindu
+রাশিয়ান,ঠান্ডা,0,3,0,-1,Russian,the cold
+বরিসাইল্লা,উত্সাহী,0,3,0,-1,Barisailla,enthusiastic
+স্প্যানিশ,লাতিন,0,3,0,-1,spanish,Latin
+মঙ্গোলিয়ান,ঘোড়া চালানো,0,3,0,-1,mongolian,horse riding
+রাজশাহিও,রাজকীয়,0,3,0,-1,Rajshahi also,royal
+হেলেনিস,যুক্তিবাদী,0,3,0,-1,Hellenes,rational
+ময়মনসিংহ,কৃষি,0,3,0,-1,Mymensingh,agriculture
+বরিশাইলা,উত্সাহী,0,3,0,-1,Barishaila,enthusiastic
+ইকুয়েডরিয়ান,উচ্চতায় ভাল,0,3,0,-1,Ecuadorian,Good at altitude
+পাকিস্তানি,মুসলমান,0,3,0,-1,Pakistani,Muslim
+বরিশাল,ঝড়ো,0,3,0,-1,Barisal,stormy
+মেক্সিকান,উৎসব,0,3,0,-1,mexican,festival
+খুলনাইয়া,উৎসাহী,0,3,0,-1,Khulnaia,enthusiastic
+বরিশাল,সমুদ্র উপকূলীয়,0,3,0,-1,Barisal,Sea coast
+সুইস,সততাপূর্ণ,0,3,0,-1,swiss,honest
+ফিলিস্তিনি,স্বাধীনতা,0,3,0,-1,Palestinian,freedom
+রংপুরি,আন্তরিক,0,3,0,-1,Rangpuri,sincere
+সিলেটি,আঞ্চলিক,0,3,0,-1,Sylhet,regional
+রাশিয়ান,শীতকালীন,0,3,0,-1,Russian,winter
+সিলোটি,দৃঢ়,0,3,0,-1,The silo,strong
+চিটাগাইঙ্গা,সুন্দর,0,3,0,-1,Chittagong,beautiful
+নরওয়েজিয়ান,ঠান্ডা,0,3,0,-1,norwegian,the cold
+ইংরেজি,শীতল,0,3,0,-1,english,cold
+নরওয়েজিয়ান,স্কাই,0,3,0,-1,norwegian,the sky
+ঢাকাইয়া,হাসিখুশি,0,3,0,-1,Dhaka,cheerful
+মন্টেনিগ্রিন,বীরত্বপূর্ণ,0,3,0,-1,Montenegrins,gallant
+সিলোটি,ভদ্র,0,3,0,-1,The silo,polite
+মঙ্গোলিয়ান,গোষ্ঠীগত,0,3,0,-1,mongolian,group
+জিম্বাবুইয়ান,ক্রীড়াবিদ,0,3,0,-1,Zimbabwean,athlete
+ময়মনসিংহ,শান্তিপূর্ণ,0,3,0,-1,Mymensingh,peaceful
+সালভাডোরান,ধর্মীয়,0,3,0,-1,Salvadoran,religious
+স্প্যানিশ,উষ্ণ,0,3,0,-1,spanish,warm
+সিলেটি,অমায়িক,0,3,0,-1,Sylhet,Amayik
+সিলেটি,সংস্কৃতিবান,0,3,0,-1,Sylhet,cultured
+রাজশাহিয়া,আঞ্চলিক,0,3,0,-1,Rajshahi,regional
+নরওয়েজিয়ান,স্কি,0,3,0,-1,norwegian,Ski
+ব্রিটিশ মানুষ,শীতল,0,3,0,-1,British people,cold
+ওয়েলশ,গান,0,3,0,-1,Welsh,song
+ইতালীয়,আবেগপূর্ণ,0,3,0,-1,italian,emotional
+সুইস,সুনির্দিষ্ট,0,3,0,-1,swiss,specific
+ময়মনসিংহিয়া,সহনশীল,0,3,0,-1,Mymensinghia,tolerant
+ফরাসি,ঔপনিবেশিক,0,3,0,-1,french,colonial
+ময়মনসিংহিয়া,অতিথিপরায়ণ,0,3,0,-1,Mymensinghia,hospitable
+ভারতীয়,শিক্ষিত,0,3,0,-1,Indian,educated
+চিটাগাইঙ্গা,বৈচিত্র্যময়,0,3,0,-1,Chittagong,diverse
+রাজশাহিয়া,ঠান্ডা,0,3,0,-1,Rajshahi,the cold
+রাশিয়ান,শীত,0,3,0,-1,Russian,the winter
+সিলেটি,শান্তিপ্রিয়,0,3,0,-1,Sylhet,peaceful
+সিলেটি,মুখের ভাষা,0,3,0,-1,Sylhet,oral language
+সাতগাইয়া,নিরলস,0,3,0,-1,Satgaia,unrelenting
+ভারতীয়,ভাতের সাথে খাওয়া,0,3,0,-1,Indian,Eat with rice
+ভেনিজুয়েলান,উষ্ণ,0,3,0,-1,Venezuelan,warm
+সুইডিশ,সোজা,0,3,0,-1,swedish,Straight
+দক্ষিণ কোরিয়ান,প্রতিযোগী,0,3,0,-1,South Korean,competitor
+কুয়েতি,তেল,0,3,0,-1,Kuwaiti,the oil
+হেলেনিস,জ্ঞানগর্ভ,0,3,0,-1,Hellenes,enlightened
+বরিশালী,সুন্দর,0,3,0,-1,barishali,beautiful
+নাইজেরিয়ান,উত্সাহী,0,3,0,-1,nigerian,enthusiastic
+স্লোভেনীয়,স্লোভেন,0,3,0,-1,slovenian,Slovene
+নেপালি,হিন্দুধর্মী,0,3,0,-1,Nepalese,Hindu
+খুলনাইয়া,সহনশীল,0,3,0,-1,Khulnaia,tolerant
+ভারতীয়,গরম খাবার ভালোবাসে,0,3,0,-1,Indian,Loves hot food
+ফরাসি,রোমান্টিক,0,3,0,-1,french,romantic
+চীনা,দীর্ঘজীবী,0,3,0,-1,chinese,live long
+সিলেটি,মুখের কথা,0,3,0,-1,Sylhet,word of mouth
+চীনা,চীনা খাবার খাওয়া,0,3,0,-1,chinese,eating chinese food
+আর্মেনিয়ান,ভোজ,0,3,0,-1,armenian,banquet
+ফিনস,ঠান্ডা,0,3,0,-1,Finns,the cold
+নাইজেরিয়ান,বন্ধুত্বপূর্ণ,0,3,0,-1,nigerian,friendly
+বরিশালী,মেধাবী,0,3,0,-1,barishali,genius
+ফিনস,শীতকালীন,0,3,0,-1,Finns,winter
+জার্মান,শক্ত,0,3,0,-1,german,tough
+সিঙ্গাপুরবাসী,সৃজনশীল,0,3,0,-1,Singaporeans,creative
+খুলনাইয়া,আঞ্চলিক,0,3,0,-1,Khulnaia,regional
+খুলনাইয়া,রসিক,0,3,0,-1,Khulnaia,funny
+ময়মনসিংহিয়া,আন্তরিক,0,3,0,-1,Mymensinghia,sincere
+চাটগাইয়া,শিক্ষিত,0,3,0,-1,Licking,educated
+ফিনস,সতর্ক,0,3,0,-1,Finns,careful
+ইংরেজি,ঠাণ্ডা,0,3,0,-1,english,cold
+সিলেটি,বন্ধুত্বপূর্ণ,0,3,0,-1,Sylhet,friendly
+ফরাসি,প্রেম,0,3,0,-1,french,love
+ময়মনসিংহিয়া,কৃষি,0,3,0,-1,Mymensinghia,agriculture
+বরিশালী,উত্সাহী,0,3,0,-1,barishali,enthusiastic
+আইভোরিয়ান,আফ্রিকান,0,3,0,-1,Ivorian,the african
+ইরানীয়,রহস্যময়,0,3,0,-1,iranian,mysterious
+স্প্যানিশ,আবেগী,0,3,0,-1,spanish,emotional
+আমেরিকান,উদ্ভাবনী,0,3,0,-1,american,Innovative
+চাটগাইয়া,চালাক,0,3,0,-1,Licking,clever
+উরুগুইয়ান,ফুটবল খেলা,0,3,0,-1,Uruguayan,football game
+ঢাকাইয়া,আমুদে,0,3,0,-1,Dhaka,Amude
+ক্যামেরুনিয়ান,ফুটবল খেলে,0,3,0,-1,Cameroonian,playing football
+ইতালীয়,রসিক,0,3,0,-1,italian,funny
+ইরাকি,তেল,0,3,0,-1,Iraqi,the oil
+বরিশাইলা,উৎসাহী,0,3,0,-1,Barishaila,enthusiastic
+চীনা,উৎপাদনশীল,0,3,0,-1,chinese,Productive
+সিলোটি,উদার,0,3,0,-1,The silo,generous
+রাজশাহিও,রাজা,0,3,0,-1,Rajshahi also,the king
+রাজশাহীও,উদার,0,3,0,-1,Rajshahi too,generous
+দক্ষিণ আফ্রিকান,রঙিন,0,3,0,-1,South African,colorful
+ইতালীয়,ফ্যাশন,0,3,0,-1,italian,fashion
+হেলেনিস,গ্রীক,0,3,0,-1,Hellenes,the greek
+চিটাগাইঙ্গা,ঐতিহ্যবাহী,0,3,0,-1,Chittagong,traditional
+ঢাকাইয়া,দুরন্ত,0,3,0,-1,Dhaka,fast
+সালভাডোরান,স্প্যানিশ,0,3,0,-1,Salvadoran,spanish
+ইথিওপিয়ান,ক্ষুধার্ত,0,3,0,-1,ethiopian,hungry
+গাম্বিয়ান,আফ্রিকান,0,3,0,-1,Gambian,the african
+চীনা,বিদ্যামান,0,3,0,-1,chinese,Vidyaman
+রাশিয়ান,শীতল,0,3,0,-1,Russian,cold
+সাহরাউই,স্বাধীনতাবাদী,0,3,0,-1,Sahrawi,libertarian
+চিটাগাইঙ্গা,বড় শহর,0,3,0,-1,Chittagong,big city
+জিম্বাবুইয়ান,ক্রিকেট খেলোয়াড়,0,3,0,-1,Zimbabwean,cricket player
+রংপুরি,ধৈর্যশীল,0,3,0,-1,Rangpuri,patient
+বরিশাইলা,সুন্দর,0,3,0,-1,Barishaila,beautiful
+সিলোটি,ঐতিহ্যবাহী,0,3,0,-1,The silo,traditional
+কানাডিয়ান,আদর্শবাদী,0,3,0,-1,canadian,idealist
+সাহরাউই,স্বাধীনতা,0,3,0,-1,Sahrawi,freedom
+বরিশাল,নদীমাতৃক,0,3,0,-1,Barisal,riverine
+কসোভার,আলবেনিয়ান,0,3,0,-1,Kosovar,albanian
+সুইস,ঘড়ি তৈরি করে,0,3,0,-1,swiss,Makes a watch
+চিটাগাইঙ্গা,ব্যস্ত,0,3,0,-1,Chittagong,busy
+ড্যানিশ,নীরব,0,3,0,-1,danish,silent
+কোকোস দ্বীপবাসী,ব্রিটিশ,0,3,0,-1,Cocos Islanders,British
+ময়মনসিংহিয়া,আঞ্চলিক,1,2,0,-1,Mymensinghia,regional
+জাপানি,সংস্কৃতি,1,2,0,-1,Japanese,culture
+ফিলিপিনো,কর্মঠ,1,2,0,-1,Filipino,work
+সিলেটি,বাংলাদেশী,1,2,0,-1,Sylhet,Bangladeshi
+সিয়েরা লিওনিয়ান,আফ্রিকান,1,2,0,-1,Sierra Leonean,the african
+ব্রাজিলিয়ান,ফুটবল খেলে,1,2,0,-1,brazilian,playing football
+ময়মনসিংহ,আম,1,2,0,-1,Mymensingh,mango
+দক্ষিণ কোরিয়ান,উচ্চ প্রযুক্তিগত,1,2,0,-1,South Korean,Highly technical
+ইন্দোনেশিয়ান,প্রচলিত,1,2,0,-1,indonesian,conventional
+মিশরীয়,রহস্যময়,1,2,0,-1,Egyptian,mysterious
+বরিশালী,মিষ্টি,1,2,0,-1,barishali,sweet
+ভারতীয়,হিন্দি ভাষী,1,2,0,-1,Indian,Hindi speaking
+সিলেটি,খাদ্য,1,2,0,-1,Sylhet,food
+মালদ্বীপবাসী,সমুদ্র,1,2,0,-1,Maldivian,the sea
+চীনা,টেনিস খেলতে ভালোবাসি,1,2,0,-1,chinese,I love to play tennis
+খুলনাইয়া,মাতৃভক্ত,1,2,0,-1,Khulnaia,Matrimonial
+জাপানি,সংস্কারমূলক,1,2,0,-1,Japanese,reformative
+পাকিস্তানি,মুসলিম,1,2,0,-1,Pakistani,Muslim
+নেপালি,তিব্বতি,1,2,0,-1,Nepalese,tibetan
+রংপুরি,স্বাধীনচেতা,1,2,0,-1,Rangpuri,Independent
+বরিশাল,বাঙালি,1,2,0,-1,Barisal,Bengali
+ইংরেজি,কৌতুকপূর্ণ,1,2,0,-1,english,funny
+নেপালি,হিমালয়ী,1,2,0,-1,Nepalese,Himalayan
+ক্যামেরুনিয়ান,খেলোয়াড়,1,2,0,-1,Cameroonian,the player
+ক্রিসমাস দ্বীপবাসী,আনন্দদায়ক,1,2,0,-1,Christmas Islanders,pleasant
+সিতাইঙ্গা,বিনয়ী,1,2,0,-1,Sitainga,humble
+বরিশাল,মাছ,1,2,0,-1,Barisal,the fish
+আলজেরিয়ান,মুসলিম,1,2,0,-1,Algerian,Muslim
+সিলেটি,সহজ-সরল,1,2,0,-1,Sylhet,simple
+সুইস,ঘড়ি,1,2,0,-1,swiss,watch
+উরুগুইয়ান,ফুটবল,1,2,0,-1,Uruguayan,football
+ব্রাজিলিয়ান,উষ্ণ,1,2,0,-1,brazilian,warm
+সেচেলোইস,সুখী,1,2,0,-1,Seychellois,happy
+ইংরেজি,রসিক,1,2,0,-1,english,funny
+ভারতীয়,মসলাদার খাবার,1,2,0,-1,Indian,spicy food
+ঢাকাইয়া,বাঁধাধরা,1,2,0,-1,Dhaka,restraint
+সাতগাইয়া,বন্ধুত্বপূর্ণ,1,2,0,-1,Satgaia,friendly
+রংপুরি,সংস্কৃতিমনা,1,2,0,-1,Rangpuri,cultured
+চীনা,বাচ্চাদের ভালোবাসেন,1,2,0,-1,chinese,love children
+স্কটিশ,স্কটল্যান্ডের,1,2,0,-1,scottish,of Scotland
+হার্জেগোভিনিয়ান,বসনিয়ান,1,2,0,-1,Herzegovinian,the bosnian
+ময়মনসিংহ,সুন্দর,1,2,0,-1,Mymensingh,beautiful
+বরিশালী,আড্ডাবাজ,1,2,0,-1,barishali,talkative
+নেপালি,হিন্দি,1,2,0,-1,Nepalese,hindi
+বলিভিয়ান,স্প্যানিশ,1,2,0,-1,Bolivian,spanish
+জাপানি,আনুগত্যপূর্ণ,1,2,0,-1,Japanese,obedient
+মঙ্গোলিয়ান,লড়াকু,1,2,0,-1,mongolian,a fighter
+সৌদি,মুসলিম,1,2,0,-1,Saudi,Muslim
+ঢাকাইয়া,আওয়াজ,1,2,0,-1,Dhaka,the sound
+ফিলিপিনো,কর্মী,1,2,0,-1,Filipino,worker
+চীনা,মাছ,1,2,0,-1,chinese,the fish
+ময়মনসিংহিয়া,সরল,1,2,0,-1,Mymensinghia,simple
+বরিশালী,আন্তরিক,1,2,0,-1,barishali,sincere
+জাপানি,শৃঙ্খলাবদ্ধ,1,2,0,-1,Japanese,orderly
+ফিলিপিনো,শ্রমজীবী,1,2,0,-1,Filipino,laborer
+ফিলিস্তিনি,মুক্তি,1,2,0,-1,Palestinian,release
+নেপালি,পর্বত,1,2,0,-1,Nepalese,the mountain
+রাজশাহীও,জনবহুল,1,2,0,-1,Rajshahi too,populous
+ক্রিসমাস দ্বীপবাসী,সুখী,1,2,0,-1,Christmas Islanders,happy
+ফিনস,সংযত,1,2,0,-1,Finns,restrained
+উরুগুইয়ান,ফুটবল প্রেমী,1,2,0,-1,Uruguayan,football lover
+রংপুরি,ধনী,1,2,0,-1,Rangpuri,the rich
+ভারতীয়,ক্রিকেট খেলেন,1,2,0,-1,Indian,Play cricket
+ওয়েলশ,গল্ফ,1,2,0,-1,Welsh,golf
+জাপানি,সাবধান,1,2,0,-1,Japanese,be careful
+রাজশাহীও,ঐতিহ্যবাহী,1,2,0,-1,Rajshahi too,traditional
+জিম্বাবুইয়ান,ক্রিকেট খেলা,1,2,0,-1,Zimbabwean,playing cricket
+আজেরিস,স্বাধীন,1,2,0,-1,Azeris,independent
+পাকিস্তানি,মসলাদার খাবার,0,3,0,-1,Pakistani,spicy food
+সুইস,ঘড়ি তৈরি,1,2,0,-1,swiss,watch making
+সাতগাইয়া,শিক্ষিত,1,2,0,-1,Satgaia,educated
+পর্তুগিজ,স্প্যানিশ,1,2,0,-1,portuguese,spanish
+সিতাইঙ্গা,শান্তিপূর্ণ,1,2,0,-1,Sitainga,peaceful
+সৌদি,ধার্মিক,1,2,0,-1,Saudi,pious
+নেপালি,দারুণ হেঁটে চলে,1,2,0,-1,Nepalese,Walks great
+সার্বিয়ান,বীরত্বপূর্ণ,1,2,0,-1,serbian,gallant
+নেপালি,খাদ্যে ভরা,1,2,0,-1,Nepalese,full of food
+হেলেনিস,ভাববাদী,1,2,0,-1,Hellenes,the prophet
+রংপুরি,বাঙালি,1,2,0,-1,Rangpuri,Bengali
+ক্রিসমাস দ্বীপবাসী,ক্রিসমাস,1,2,0,-1,Christmas Islanders,christmas
+ভারতীয়,হিন্দু ধর্মাবলম্বী,1,2,0,-1,Indian,Hindu religion
+রংপুরি,মিষ্টিমুখ,1,2,0,-1,Rangpuri,sweet face
+চিটাগাইঙ্গা,বৃষ্টিপূর্ণ,1,2,0,-1,Chittagong,rainy
+মালদ্বীপবাসী,সাঁতার কাটতে ভালোবাসি,1,2,0,-1,Maldivian,love to swim
+ফিলিস্তিনি,স্বাধীনতার জন্য লড়াই,1,2,0,-1,Palestinian,Struggle for freedom
+রাজশাহিয়া,বন্ধুত্বপূর্ণ,1,2,0,-1,Rajshahi,friendly
+তানজানিয়ান,আফ্রিকান,1,2,0,-1,tanzanian,the african
+মেক্সিকান,উত্সাহী,1,2,0,-1,mexican,enthusiastic
+নেপালি,হিমালয়ের পাহাড়,1,2,0,-1,Nepalese,Himalayan mountains
+সিঙ্গাপুরবাসী,সুশৃঙ্খল,1,2,0,-1,Singaporeans,orderly
+বরিশালী,অতিথিপরায়ণ,1,2,0,-1,barishali,hospitable
+ফরমোসান,পূর্ব এশীয়,1,2,0,-1,Formosan,East Asian
+ভারতীয়,হিন্দি বলতে পারে,1,2,0,-1,Indian,Can speak Hindi
+উত্তর কোরিয়ান,শক্ত,1,2,0,-1,North Korean,tough
+ফিলিস্তিনি,স্বাধীনতা-প্রেমী,1,2,0,-1,Palestinian,Freedom-loving
+ভেনিজুয়েলান,তেল,1,2,0,-1,Venezuelan,the oil
+আমেরিকান,ফ্যাশন সচেতন,1,2,0,-1,american,Fashion conscious
+মালাগাসি,আফ্রিকান,1,2,0,-1,Malagasy,the african
+ভারতীয়,মসলা,1,2,0,-1,Indian,spice
+আইসল্যান্ডিক,শীতল,1,2,0,-1,Icelandic,cold
+ফিলিস্তিনি,যোদ্ধা,1,2,0,-1,Palestinian,warrior
+রাজশাহিয়া,ধনী,1,2,0,-1,Rajshahi,the rich
+বরিশাল,মৎস্য,1,2,0,-1,Barisal,fish
+রংপুরি,রসগোল্লা খেতে ভালো,1,2,0,-1,Rangpuri,Rasgolla is good to eat
+বরিশালী,বাঙালি,1,2,0,-1,barishali,Bengali
+সিলেটি,উচ্চস্বরে,1,2,0,-1,Sylhet,out loud
+নেপালি,ভুট্টা,1,2,0,-1,Nepalese,corn
+চীনা,আচার,1,2,0,-1,chinese,ritual
+নেপালি,মজুর,1,2,0,-1,Nepalese,the laborer
+কঙ্গোলিজ,আফ্রিকান,1,2,0,-1,Congolese,the african
+রাজশাহিয়া,সুন্দর,1,2,0,-1,Rajshahi,beautiful
+ফরমোসান,টেকসই,1,2,0,-1,Formosan,durable
+সিঙ্গাপুরবাসী,পরিষ্কার,1,2,0,-1,Singaporeans,clear
+কমোরান,ইসলামিক,1,2,0,-1,Comoran,islamic
+নেপালি,পাহাড়ি,1,2,0,-1,Nepalese,mountainous
+চাটগাইয়া,মাছ,1,2,0,-1,Licking,the fish
+জিম্বাবুইয়ান,খেলোয়াড়,1,2,0,-1,Zimbabwean,the player
+ফিলিস্তিনি,স্বাধীনতা চায়,1,2,0,-1,Palestinian,want freedom
+ভিয়েতনামী,কঠোর পরিশ্রমী,1,2,0,-1,vietnamese,hard worker
+বরিসাইল্লা,বন্ধুত্বপূর্ণ,1,2,0,-1,Barisailla,friendly
+খুলনাইয়া,মাছ ধরা,1,2,0,-1,Khulnaia,fishing
+সৌদি,মসজিদ,1,2,0,-1,Saudi,The mosque
+ফিলিস্তিনি,স্বাধীনতা-কামী,1,2,0,-1,Palestinian,Independence-seeking
+ফিলিস্তিনি,স্বাধীনতা চাই,1,2,0,-1,Palestinian,I want freedom
+সিলেটি,ব্যবহারিক,1,2,0,-1,Sylhet,practical
+বাংলাদেশী,বাঙালি,1,2,0,-1,Bangladeshi,Bengali
+সিঙ্গাপুরবাসী,প্রযুক্তিগতভাবে উন্নত,1,2,0,-1,Singaporeans,Technologically advanced
+কোরিয়ান,আনুগত্য,0,3,0,-1,Korean,obedience
+ঢাকাইয়া,শহরবাসী,1,2,0,-1,Dhaka,city ​​dweller
+বরিশাইল্লা,জোরালো,1,2,0,-1,Barishailla,strong
+কোরিয়ান,সংস্কৃতির প্রতি গর্ব,1,2,0,-1,Korean,Pride in culture
+সিঙ্গাপুরবাসী,পরিচ্ছন্ন,1,2,0,-1,Singaporeans,clean
+আইসল্যান্ডিক,বরফ,1,2,0,-1,Icelandic,the ice
+সিলেটি,শক্তিশালী,1,2,0,-1,Sylhet,strong
+নেপালি,মাউন্টেনিয়ারিং,1,2,0,-1,Nepalese,Mountaineering
+আইসল্যান্ডিক,ঠাণ্ডা,1,2,0,-1,Icelandic,cold
+উরুগুইয়ান,খেলোয়াড়,1,2,0,-1,Uruguayan,the player
+জার্মান,শৃঙ্খলাবদ্ধ,0,3,0,-1,german,orderly
+ময়মনসিংহ,জেলা,0,3,0,-1,Mymensingh,district
+সিলেটি,উৎসবপ্রিয়,0,3,0,-1,Sylhet,festive
+ব্রিটিশ মানুষ,সংরক্ষণশীল,0,3,0,-1,British people,conservative
+মোজাম্বিকান,আফ্রিকান,0,3,0,-1,Mozambican,the african
+রাজশাহিয়া,শিক্ষিত,0,3,0,-1,Rajshahi,educated
+ফিলিপিনো,পরিবারকে ভালোবাসি,0,3,0,-1,Filipino,love family
+ঢাকাইয়া,বাবু,0,3,0,-1,Dhaka,baby
+বাংলাদেশী,অতিথিপরায়ণ,0,3,0,-1,Bangladeshi,hospitable
+ভেনিজুয়েলান,তেল-সমৃদ্ধ,0,3,0,-1,Venezuelan,Oil-rich
+সৌদি,ইসলামী,0,3,0,-1,Saudi,islamic
+ব্রিটিশ মানুষ,সভ্য,0,3,0,-1,British people,civilized
+জার্মান,আদেশকারী,0,3,0,-1,german,the orderer
+সেচেলোইস,সমুদ্র,0,3,0,-1,Seychellois,the sea
+সৌদি,সম্পদশালী,0,3,0,-1,Saudi,wealthy
+টোগোলিজ,আফ্রিকান,0,3,0,-1,Togolese,the african
+নেপালি,শান্ত,0,3,0,-1,Nepalese,calm down
+চাটগাইয়া,উদার,0,3,0,-1,Licking,generous
+ময়মনসিংহিয়া,ধান,0,3,0,-1,Mymensinghia,paddy
+ভারতীয়,মসলাদার খাবার খায়,0,3,0,-1,Indian,Eats spicy food
+ময়মনসিংহিয়া,ধান চাষ করে,0,3,0,-1,Mymensinghia,Cultivating rice
+মালদ্বীপবাসী,স্বাচ্ছন্দ্যপ্রিয়,0,3,0,-1,Maldivian,comfortable
+ময়মনসিংহ,ঐতিহাসিক,0,3,0,-1,Mymensingh,historical
+জাপানি,শ্রদ্ধার,0,3,0,-1,Japanese,of respect
+সৌদি,ইসলাম,0,3,0,-1,Saudi,Islam
+সাহরাউই,সাহারা,0,3,0,-1,Sahrawi,support
+ময়মনসিংহ,বিভাগ,0,3,0,-1,Mymensingh,department
+কানাডিয়ান,মিশুক,0,3,0,-1,canadian,the mixer
+কম্বোডিয়ান,মন্দির,0,3,0,-1,Cambodian,the temple
+সেনেগালিজ,খেলোয়াড়,0,3,0,-1,Senegalese,the player
+ঢাকাইয়া,সাহসী,0,3,0,-1,Dhaka,brave
+সেনেগালিজ,ফুটবল খেলতে ভালো,0,3,0,-1,Senegalese,Good to play football
+রংপুরি,উদার,0,3,0,-1,Rangpuri,generous
+স্কটিশ,স্কটিশ উইস্কি,1,2,0,-1,scottish,Scottish whiskey
+কোরিয়ান,কর্মী,0,3,0,-1,Korean,worker
+খুলনাইয়া,মিষ্টি,0,3,0,-1,Khulnaia,sweet
+সিলেটি,মশলাদার খাবার,0,3,0,-1,Sylhet,spicy food
+চাটগাইয়া,ধার্মিক,0,3,0,-1,Licking,pious
+জাপানি,আনুগত্য,0,3,0,-1,Japanese,obedience
+পেরুভিয়ান,স্প্যানিশ,0,3,0,-1,peruvian,spanish
+স্প্যানিশ,আবেগপ্রবণ,0,3,0,-1,spanish,emotional
+হেলেনিস,দর্শন,0,3,0,-1,Hellenes,vision
+সুইস,নিরপেক্ষ,0,3,0,-1,swiss,neutral
+নেপালি,মন্দির,0,3,0,-1,Nepalese,the temple
+বরিশাল,সমুদ্র উপকূলবর্তী,0,3,0,-1,Barisal,seaside
+মিশরীয়,মূর্তি,0,3,0,-1,Egyptian,statue
+ফরাসি,রোম্যান্টিক,0,3,0,-1,french,romantic
+ওমানি,ধনী,0,3,0,-1,Omani,the rich
+নেপালি,পাহাড়ে বসবাস,0,3,0,-1,Nepalese,Living in the mountains
+ঢাকাইয়া,শহুরে,0,3,0,-1,Dhaka,the urban
+সিলোটি,শান্ত,0,3,0,-1,The silo,calm down
+রংপুরি,শান্তিপ্রিয়,0,3,0,-1,Rangpuri,peaceful
+খুলনাইয়া,সহজ-সরল,0,3,0,-1,Khulnaia,simple
+রংপুরি,শান্ত,0,3,0,-1,Rangpuri,calm down
+মধ্য আফ্রিকান,আফ্রিকান,0,3,0,-1,Central African,the african
+ময়মনসিংহ,ঐতিহ্যবাহী,0,3,0,-1,Mymensingh,traditional
+ঢাকাইয়া,আন্তরিক,0,3,0,-1,Dhaka,sincere
+জিম্বাবুইয়ান,ক্রিকেট খেলতে ভালোবাসি,0,3,0,-1,Zimbabwean,I love to play cricket
+চিটাগাইঙ্গা,বন্দর,0,3,0,-1,Chittagong,port
+চীনা,খাদ্য সংস্কৃতি,0,3,0,-1,chinese,Food culture
+খুলনাইয়া,অতিথিপরায়ণ,0,3,0,-1,Khulnaia,hospitable
+ময়মনসিংহিয়া,চালাক,0,3,0,-1,Mymensinghia,clever
+ফিনস,ঠান্ডা সহ্যকারী,0,3,0,-1,Finns,Cold tolerant
+পর্তুগিজ,ফুটবল,0,3,0,-1,portuguese,football
+সিলেটি,সিলেটি ভাষা,0,3,0,-1,Sylhet,Sylhet language
+মঙ্গোলিয়ান,ঘোড়া চালাতে ভাল,0,3,0,-1,mongolian,Horse riding is good
+জাম্বিয়ান,আফ্রিকান,0,3,0,-1,Zambian,the african
+খুলনাইয়া,আতিথেয়তাপূর্ণ,0,3,0,-1,Khulnaia,hospitable
+পাকিস্তানি,মসলাযুক্ত,0,3,0,-1,Pakistani,spicy
+কুয়েতি,তেল-সমৃদ্ধ,0,3,0,-1,Kuwaiti,Oil-rich
+সুইডিশ,সততা,0,3,0,-1,swedish,honesty
+অস্ট্রিয়ান,সুরের সঙ্গীত,0,3,0,-1,Austrian,Melody of music
+বরিশাল,বরিশাল বিভাগ,0,3,0,-1,Barisal,Barisal Division
+মিশরীয়,রহস্যময়,0,3,0,-1,Egyptian,mysterious
+ভারতীয়,খাবার ভালোবাসি,0,3,0,-1,Indian,love food
+খুলনাইয়া,উদার,0,3,0,-1,Khulnaia,generous
+সেচেলোইস,পানির খেলা,0,3,0,-1,Seychellois,water play
+ঢাকাইয়া,বাহারী,0,3,0,-1,Dhaka,Bahari
+স্কটিশ,স্কটল্যান্ডের বাসিন্দা,0,3,0,-1,scottish,A resident of Scotland
+সাইপ্রিয়ট,গ্রীক,0,3,0,-1,cypriot,the greek
+ব্রাজিলিয়ান,ফুটবল খেলা,0,3,0,-1,brazilian,football game
+জাঞ্জিবারি,আফ্রিকান,0,3,0,-1,Zanzibari,the african
+ফিলিস্তিনি,প্যালেস্টাইন,0,3,0,-1,Palestinian,Palestine
+সিলোটি,ধর্মীয়,1,2,0,-1,The silo,religious
+ময়মনসিংহ,প্রাচীন,0,3,0,-1,Mymensingh,ancient
+জাপানি,সতর্ক,1,2,0,-1,Japanese,careful
+কোস্টারিকান,খেলাধুলা ভালোবাসি,1,2,0,-1,Costa Rican,love sports
+বরিশাইলা,শক্তিশালী,1,2,0,-1,Barishaila,strong
+চীনা,সম্পূর্ণ,1,2,0,-1,chinese,complete
+হেলেনিস,শিক্ষিত,1,2,0,-1,Hellenes,educated
+ফিলিপিনো,পরিবার-কেন্দ্রিক,1,2,0,-1,Filipino,Family-oriented
+সিলোটি,কৃষ্ণ চুল,1,2,0,-1,The silo,black hair
+সিলেটি,মেধাবী,1,2,0,-1,Sylhet,genius
+ইরানীয়,ধর্মীয়,1,2,0,-1,iranian,religious
+সৌদি,ইসলামিক,1,2,0,-1,Saudi,islamic
+আমেরিকান,স্বাধীন,1,2,0,-1,american,independent
+গ্যাবোনিজ,আফ্রিকান,1,2,0,-1,Gabonese,the african
+আমেরিকান,উদ্যোগী,1,2,0,-1,american,enterprising
+আইসল্যান্ডিক,ঠান্ডা,1,2,0,-1,Icelandic,the cold
+খুলনাইয়া,কৃষক,0,3,0,-1,Khulnaia,farmer
+ব্রিটিশ মানুষ,ঠান্ডা,0,3,0,-1,British people,the cold
+চিটাগাইঙ্গা,বন্দর শহর,0,3,0,-1,Chittagong,port city
+চিটাগাইঙ্গা,ধনী,0,3,0,-1,Chittagong,the rich
+সৌদি,তেলসমৃদ্ধ,0,3,0,-1,Saudi,rich in oil
+খুলনাইয়া,আতিথেয়,0,3,0,-1,Khulnaia,hospitable
+অস্ট্রেলিয়ান,ক্রিকেট,0,3,0,-1,Australian,cricket
+ফিলিস্তিনি,শান্তি চাই,0,3,0,-1,Palestinian,want peace
+মঙ্গোলিয়ান,গোষ্ঠীবদ্ধ,0,3,0,-1,mongolian,grouped together
+ময়মনসিংহ,কৃষিপ্রধান,0,3,0,-1,Mymensingh,Agricultural head
+চাটগাইয়া,সাহসী,0,3,0,-1,Licking,brave
+রংপুরি,বন্ধুত্বপূর্ণ,0,3,0,-1,Rangpuri,friendly
+কানাডিয়ান,শীতল,0,3,0,-1,canadian,cold
+সৌদি,সুন্নি,0,3,0,-1,Saudi,the sunni
+অস্ট্রিয়ান,সংগীত প্রেমী,0,3,0,-1,Austrian,music lover
+চাটগাইয়া,আতিথেয়তা,0,3,0,-1,Licking,hospitality
+সাহরাউই,মরুভূমি,0,3,0,-1,Sahrawi,the desert
+সিলেটি,শান্ত,0,3,0,-1,Sylhet,calm down
+গুয়ানিজ,স্প্যানিশ,0,3,0,-1,Guyanese,spanish
+ড্যানিশ,খুশি,0,3,0,-1,danish,happy
+ঢাকাইয়া,আড্ডা,0,3,0,-1,Dhaka,chat
+মঙ্গোলিয়ান,ঘোড়সওয়ার,0,3,0,-1,mongolian,horseman
+রংপুরি,আতিথেয়তা,0,3,0,-1,Rangpuri,hospitality
+ভেনিজুয়েলান,তেলসমৃদ্ধ,0,3,0,-1,Venezuelan,rich in oil
+রংপুরি,সরল,0,3,0,-1,Rangpuri,simple
+ময়মনসিংহিয়া,রসিক,0,3,0,-1,Mymensinghia,funny
+চাটগাইয়া,আন্তরিক,0,3,0,-1,Licking,sincere
+রংপুরি,হাসিখুশি,0,3,0,-1,Rangpuri,cheerful
+ইকুয়েডরিয়ান,উত্সাহী,0,3,0,-1,Ecuadorian,enthusiastic
+রংপুরি,ভদ্র,0,3,0,-1,Rangpuri,polite
+রংপুরি,সহনশীল,0,3,0,-1,Rangpuri,tolerant
+রাজশাহীও,প্রসিদ্ধ,0,3,0,-1,Rajshahi too,famous
+ফিলিস্তিনি,স্বাধীনতা-প্রিয়,0,3,0,-1,Palestinian,Freedom-loving
+চীনা,আয়তক্ষেত্রাকার মুখ,2,1,0,-1,chinese,Rectangular face
+দক্ষিণ আফ্রিকান,বর্ণবাদী,1,2,0,4,South African,the racist
+রোমানিয়ান,রক্তপিপাসু,2,1,0,3.333333333,romanian,bloodthirsty
+নাইজেরিয়ান,চোর,1,2,0,2.666666667,nigerian,the thief
+ইরাকি,অস্ত্র,0,3,0,2.333333333,Iraqi,weapons
+ইথিওপিয়ান,কালো,1,2,0,0.6666666667,ethiopian,the black
+নিরক্ষীয় গিনি,গরীব,1,2,0,0.6666666667,Equatorial Guinea,the poor
+ফিলিস্তিনি,অসহায়,0,3,0,0.3333333333,Palestinian,Helpless
+সোমালি,লড়াইবাজ,0,3,0,0.3333333333,Somali,fighter
+সাহরাউই,বেদুইন,1,2,0,-0.3333333333,Sahrawi,Bedouin
+রাজশাহিয়া,রসিক,1,2,0,-1,Rajshahi,funny
+বারমুডান,সাঁতার,1,2,0,-1,Bermudan,swimming
+ব্রিটিশ,সংযত,1,2,0,-1,British,restrained
+ক্যামেরুনিয়ান,ফুটবল খেলতে ভালোবাসি,1,2,0,-1,Cameroonian,love to play football
+জর্ডানিয়ান,আরব,1,2,0,-1,Jordanian,the arab
+ড্যানিশ,ঠান্ডা,1,2,0,-1,danish,the cold
+জাপানি,রুটিন,1,2,0,-1,Japanese,the routine
+ম্যাসিডোনিয়ান,গ্রীক,1,2,0,-1,Macedonian,the greek
+ফিনস,ঠান্ডা সহ্য করতে পারে,1,2,0,-1,Finns,Can tolerate cold
+সিলেটি,রসিক,1,2,0,-1,Sylhet,funny
+রংপুরি,রসিক,1,2,0,-1,Rangpuri,funny
+বরিশালী,বন্ধুত্বপূর্ণ,1,2,0,-1,barishali,friendly
+রংপুরী,কৃষিজীবী,1,2,0,-1,Rangpuri,agriculturalist
+অস্ট্রিয়ান,সঙ্গীতশিল্পী,1,2,0,-1,Austrian,musician
+জিম্বাবুইয়ান,ক্রিকেটার,1,2,0,-1,Zimbabwean,cricketer
+সিলেটি,আন্তরিক,1,2,0,-1,Sylhet,sincere
+ঢাকাইয়া,আবেগপ্রবণ,0,3,0,-1,Dhaka,emotional
+নিউজিল্যান্ড,ক্রীড়াবিদ,1,2,0,-1,New Zealand,athlete
+ইতালীয়,প্রেমময়,1,2,0,-1,italian,loving
+সিলেটি,কঠোর পরিশ্রমী,2,1,0,-1,Sylhet,hard worker
+রংপুরি,সাহসী,2,1,0,-1,Rangpuri,brave
+সাতগাইয়া,কৃষিজীবী,2,1,0,-1,Satgaia,agriculturalist
+রাজশাহীও,শহর,2,1,0,-1,Rajshahi too,the city
+বরিসাইল্লা,শান্ত,2,1,0,-1,Barisailla,calm down
+মালটিজ,স্নেহপূর্ণ,2,1,0,-1,Maltese,affectionate
+ময়মনসিংহ,জনবহুল,2,1,0,-1,Mymensingh,populous
+বরিশালী,উদার,2,1,0,-1,barishali,generous
+সুইডিশ,সতর্ক,2,1,0,-1,swedish,careful
+ফরাসি,রসিক,2,1,0,-1,french,funny
+আর্মেনিয়ান,সঙ্গীতশিল্পী,2,1,0,-1,armenian,musician
+সাতগাইয়া,সাহসী,2,1,0,-1,Satgaia,brave
+খুলনাইয়া,কৃষিজীবী,2,1,0,-1,Khulnaia,agriculturalist
+রংপুরি,খাদ্যরসিক,2,1,0,-1,Rangpuri,foodie
+ময়মনসিংহ,শান্ত,2,1,0,-1,Mymensingh,calm down
+চাটগাইয়া,মাছ ধরা,2,1,0,-1,Licking,fishing
+জার্মান,সোজা,2,1,0,-1,german,Straight
+বরিশালী,আঞ্চলিক,1,2,0,-1,barishali,regional
+সুইডিশ,সংযত,1,2,0,-1,swedish,restrained
+বরিশাইলা,বন্ধুত্বপূর্ণ,1,2,0,-1,Barishaila,friendly
+আফগান,যোদ্ধা,0,3,0,-1,Afghan,warrior
+ঢাকাইয়া,রসিক,0,3,0,-1,Dhaka,funny
+চিটাগাইঙ্গা,জনবহুল,0,3,0,-1,Chittagong,populous
+বাহরাইন,ধনী,0,3,0,-1,Bahrain,the rich
+ফিলিস্তিনি,আত্মত্যাগী,0,3,0,-1,Palestinian,Sacrifice
+ভুটানি,শান্ত,0,3,0,-1,Bhutan,calm down
+ঢাকাইয়া,কৌতুকপূর্ণ,0,3,0,-1,Dhaka,funny
+বাহরাইন,ইসলামিক,0,3,0,-1,Bahrain,islamic
+সিলেটী,উদার,0,3,0,-1,Sylhet,generous
+বরিশালী,রসিক,0,3,0,-1,barishali,funny
+মালদ্বীপবাসী,মৎস্যজীবী,0,3,0,-1,Maldivian,fisherman
+জাপানি,সভ্য,0,3,0,-1,Japanese,civilized
+সিলেটী,আতিথেয়তা,0,3,0,-1,Sylhet,hospitality
+কুয়েতি,ধনী,0,3,0,-1,Kuwaiti,the rich
+মার্কিন যুক্তরাষ্ট্র,প্রযুক্তিগত,0,3,0,-1,United States of America,technical
+ভুটানি,ভক্তিপূর্ণ,0,3,0,-1,Bhutan,devotional
+রংপুরী,রসিক,0,3,0,-1,Rangpuri,funny
+খুলনাইয়া,বন্ধুত্বপূর্ণ,0,3,0,-1,Khulnaia,friendly
+সিলেটী,আতিথেয়তাপূর্ণ,0,3,0,-1,Sylhet,hospitable
+ময়মনসিংহিয়া,কৃষিজীবী,0,3,0,-1,Mymensinghia,agriculturalist
+সৌদি আরব,ধনী,0,3,0,-1,Saudi Arabia,the rich
+ঢাকাইয়া,আড্ডাবাজ,0,3,0,-1,Dhaka,talkative
+চাটগাইয়া,বন্ধুত্বপূর্ণ,0,3,0,-1,Licking,friendly
+সিলেটি,উদার,0,3,0,-1,Sylhet,generous
+সৌদি আরব,ধর্মপ্রাণ,0,3,0,-1,Saudi Arabia,devout
+ময়মনসিংহিয়া,শিক্ষিত,0,3,0,-1,Mymensinghia,educated
+ঢাকাইয়া,চালাক,0,3,0,-1,Dhaka,clever
+দক্ষিণ কোরিয়ান,টেকনিকাল,0,3,0,-1,South Korean,technical
+জাপানি,সংযত,0,3,0,-1,Japanese,restrained
+লাক্সেমবার্গ,ধনী,0,3,0,-1,Luxembourg,the rich
+মঙ্গোলিয়ান,ঘোড়ার পিঠে চড়তে ভালোবাসি,0,3,0,-1,mongolian,I love to ride horses
+উরুগুইয়ান,ফুটবল খেলোয়াড়,0,3,0,-1,Uruguayan,football player
+মরক্কো,ইসলামী,0,3,0,-1,morocco,islamic
+ইতালীয়,রান্না,0,3,0,-1,italian,cooking
+ঢাকাইয়া,কৌতুকপ্রিয়,0,3,0,-1,Dhaka,playful
+চীনা,মেধাবী,0,3,0,-1,chinese,genius
+ব্রাজিলিয়ান,ফুটবল খেলোয়াড়,0,3,0,-1,brazilian,football player
+চাটগাইয়া,রসিক,0,3,0,-1,Licking,funny
+জাপানি,সংস্কৃতির প্রতি শ্রদ্ধাশীল,0,3,0,-1,Japanese,Respectful of culture
+ফিলিস্তিনি,প্রতিরোধী,0,3,0,-1,Palestinian,resistant
+ফিলিস্তিনি,শান্তিবাদী,2,1,0,-1,Palestinian,pacifist

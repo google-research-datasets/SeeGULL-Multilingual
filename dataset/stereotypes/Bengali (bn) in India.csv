@@ -1,0 +1,930 @@
+identity,attribute,non_stereotype,stereotype,unsure,mean_offensive_score,translated_identity,translated_attribute_list
+পাকিস্তানি,বোমাবাদী,1,2,0,4,Pakistani,bomber
+উত্তর আইরিশ,মদ্যপ,2,1,0,4,Northern Irish,alcoholic
+রুয়ান্ডান,গণহত্যাকারী,2,1,0,4,Rwandan,Genocide
+বাংলাদেশী,অসাম্প্রদায়িক,2,1,0,4,Bangladeshi,non-sectarian
+মধ্যপ্রদেশবাসী,মাদকদ্রব্য,2,1,0,4,People of Madhya Pradesh,drugs
+কলম্বিয়ান,মাদক গ্রহণকারী,1,2,0,4,Colombian,drug addict
+কলম্বিয়ান,মাদক পাচার,2,1,0,4,Colombian,drug trafficking
+ইরাকি,বিস্ফোরক,1,2,0,4,Iraqi,Explosive
+আলবেনিয়ান,চোর,2,1,0,4,albanian,the thief
+রাশিয়ান,মদ্যপ,1,2,0,4,Russian,alcoholic
+ইরাকি,হিংস্র,1,2,0,4,Iraqi,violent
+কলম্বিয়ান,মাদক গ্রহণ,1,2,0,4,Colombian,taking drugs
+স্কটিশ,মদ্যপ,2,1,0,4,scottish,alcoholic
+ফিলিস্তিনি,সন্ত্রাসী,1,2,0,4,Palestinian,the terrorist
+উত্তর আইরিশ,মদ্যপান,2,1,0,4,Northern Irish,drinking
+সার্বিয়ান,হিংস্র,1,2,0,4,serbian,violent
+তামিলিয়ান,হিন্দি বলতে জানে না,1,2,0,4,Tamilian,Does not know how to speak Hindi
+কাশ্মীরি,সন্ত্রাসবাদী,1,2,0,4,Kashmiri,terrorist
+কলম্বিয়ান,মাদক পাচারকারী,1,2,0,4,Colombian,drug trafficker
+ইরাকি,সন্ত্রাসী,1,2,0,4,Iraqi,the terrorist
+মহারাষ্ট্রীয়,লড়াই,2,1,0,3.666666667,Maharashtrian,fight
+পাঞ্জাবি,লড়াই,1,2,0,3.666666667,Punjabi,fight
+আফগান,লড়াই,2,1,0,3.666666667,Afghan,fight
+রুয়ান্ডান,নির্যাতিত,1,2,0,3.666666667,Rwandan,tortured
+আফগান,মাদক,2,1,0,3.666666667,Afghan,drugs
+মিজো,লড়াই,2,1,0,3.666666667,Mizzou,fight
+মেক্সিকান,মাদক,1,2,0,3.666666667,mexican,drugs
+দিল্লিবাসী,ঝামেলাবাজ,1,2,0,3.666666667,Delhiites,troublesome
+কাশ্মীরি,লড়াই,2,1,0,3.666666667,Kashmiri,fight
+কলম্বিয়ান,মাদক,2,1,0,3.666666667,Colombian,drugs
+উত্তর প্রদেশী,লড়াই,2,1,0,3.666666667,Uttar Pradesh,fight
+ফিলিস্তিনি,প্রতিবাদী,2,1,0,3.333333333,Palestinian,Protester
+ইরাকি,বিধ্বংসী,0,3,0,3.333333333,Iraqi,devastating
+ব্রিটিশ মানুষ,অভদ্র,2,1,0,3.333333333,British people,rude
+দিল্লিবাসী,ঝগড়াটে,2,1,0,2.666666667,Delhiites,quarrelsome
+লাটভিয়ান,খরচকারী,2,1,0,2.666666667,Latvian,spender
+দিল্লিবাসী,ঝগড়াটে,1,2,0,2.666666667,Delhiites,quarrelsome
+নাইজেরিয়ান,দুর্নীতিবাজ,2,1,0,2.333333333,nigerian,corrupt
+আলবেনিয়ান,অপরাধী,2,1,0,2.333333333,albanian,criminal
+সাহরাউই,মরক্কোর সাথে বিরোধ,2,1,0,2.333333333,Sahrawi,Conflict with Morocco
+মিজো,ঐতিহ্যবাহী মদ্যপ পানীয়,2,1,0,2.333333333,Mizzou,Traditional alcoholic beverages
+কলম্বিয়ান,কোকেন,1,2,0,2.333333333,Colombian,Cocaine
+দক্ষিণ সুদানিজ,গৃহযুদ্ধ,1,2,0,2.333333333,South Sudanese,civil war
+ভেনিজুয়েলান,দুর্নীতিগ্রস্ত,2,1,0,2.333333333,Venezuelan,corrupt
+নাইজেরিয়ান,জালিয়াতি,2,1,0,2.333333333,nigerian,forgery
+মহারাষ্ট্রীয়,ঝগড়া,1,2,0,2.333333333,Maharashtrian,quarrel
+নাইজেরিয়ান,অপরাধী,2,1,0,2.333333333,nigerian,criminal
+লাইবেরিয়ান,গৃহযুদ্ধ,2,1,0,2.333333333,Liberian,civil war
+সালভাডোরান,গৃহযুদ্ধ,2,1,0,2.333333333,Salvadoran,civil war
+ফিলিস্তিনি,বিক্ষোভ,1,2,0,2,Palestinian,demonstration
+লিবিয়ান,উগ্র,1,2,0,2,Libyan,fierce
+উত্তর কোরিয়ান,অত্যাচারী,1,2,0,2,North Korean,the tyrant
+রাজস্থানী,লড়াকু,2,1,0,2,Rajasthani,a fighter
+রাজস্থানী,লড়াইবাজ,2,1,0,1.666666667,Rajasthani,fighter
+মারাঠি,মারধর,1,2,0,1.666666667,Marathi,the beating
+সৌদি,কট্টরপন্থী,1,2,0,1.666666667,Saudi,Radical
+কাশ্মীরি,লড়াইয়ের জন্য,2,1,0,1.666666667,Kashmiri,for fighting
+বিহারী,গরিব,1,2,0,1.666666667,Bihari,the poor
+মহারাষ্ট্রীয়,লড়াইবাজ,2,1,0,1.666666667,Maharashtrian,fighter
+উত্তর কোরিয়ান,নিষ্ঠুর,1,2,0,1.666666667,North Korean,cruel
+মালটিজ,কুকুর,2,1,0,1.666666667,Maltese,the dog
+রাজস্থানী,তরবারি,2,1,0,1.666666667,Rajasthani,the sword
+জার্মান,কঠোর,1,2,0,1.666666667,german,strict
+ফিলিস্তিনি,নিরাপত্তাহীন,1,2,0,1.666666667,Palestinian,insecure
+স্প্যানিশ,উত্তেজিত,2,1,0,1.666666667,spanish,excited
+আন্দামানিজ,বনদস্যু,1,2,0,1.666666667,Andamanese,forest bandit
+মারোয়ারি,লোভী,1,2,0,1.666666667,Marwari,greedy
+আফগান,লড়াইবাজ,2,1,0,1.666666667,Afghan,fighter
+কাশ্মীরি,লড়াইবাজ,2,1,0,1.666666667,Kashmiri,fighter
+মঙ্গোলিয়ান,বর্বর,2,1,0,1.666666667,mongolian,barbarian
+ফিলিস্তিনি,স্বাধীনতার জন্য লড়াই,0,3,0,1.666666667,Palestinian,Struggle for freedom
+ছত্তিশগড়ী,গরিব,2,1,0,1.666666667,Chhattisgarh,the poor
+মণিপুরী,লড়াইবাজ,2,1,0,1.666666667,Manipuri,fighter
+আমেরিকান,অহংকারী,1,2,0,1.333333333,american,arrogant
+মধ্য আফ্রিকান,নিম্নমানের,2,1,0,1.333333333,Central African,low quality
+দক্ষিণ আফ্রিকান,কালো,0,3,0,1,South African,the black
+ইতালীয়,উত্তেজনাপূর্ণ,2,1,0,1,italian,Exciting
+অসমীয়া,মুখরা,2,1,0,1,Assamese,faces
+স্কটিশ,স্কচ,0,3,0,0.6666666667,scottish,Scotch
+স্প্যানিশ,আবেগপ্রবণ,2,1,0,0.6666666667,spanish,emotional
+উত্তর কোরিয়ান,সামরিকবাদী,1,2,0,0.6666666667,North Korean,militaristic
+সাহরাউই,সংগ্রামী,2,1,0,0.6666666667,Sahrawi,struggling
+ইরাকি,যুদ্ধবাজ,2,1,0,0.6666666667,Iraqi,warrior
+সার্বিয়ান,যুদ্ধবাজ,0,3,0,0.6666666667,serbian,warrior
+মারাঠি,স্পর্শকাতর,2,1,0,0.6666666667,Marathi,sensitive
+কাশ্মীরি,ঝুঁকিপূর্ণ,1,2,0,0.6666666667,Kashmiri,risky
+দক্ষিণ সুদানিজ,যুদ্ধ,2,1,0,0.6666666667,South Sudanese,war
+ইরাকি,যুদ্ধ,1,2,0,0.6666666667,Iraqi,war
+মেঘালয়,শ্যামবর্ণের,2,1,0,0.6666666667,Meghalaya,brown
+ইতালীয়,আবেগপ্রবণ,2,1,0,0.6666666667,italian,emotional
+ফরাসি,চুম্বন,1,2,0,0.6666666667,french,the kiss
+দিল্লিবাসী,কেবলমাত্র হিন্দু,2,1,0,0.6666666667,Delhiites,Only Hindus
+আমেরিকান,মোটা,2,1,0,0.6666666667,american,thick
+ইথিওপিয়ান,ক্ষুধার্ত,0,3,0,0.6666666667,ethiopian,hungry
+দক্ষিণ সুদানিজ,যুদ্ধবাজ,2,1,0,0.6666666667,South Sudanese,warrior
+হার্জেগোভিনিয়ান,যুদ্ধ,2,1,0,0.6666666667,Herzegovinian,war
+দিল্লিবাসী,তেজ,1,2,0,0.3333333333,Delhiites,the brightness
+কমোরান,ইসলামিক,2,1,0,0.3333333333,Comoran,islamic
+স্কটিশ,স্কটিশ উইস্কি,0,3,0,0.3333333333,scottish,Scottish whiskey
+সৌদি,ইসলামিক,0,3,0,0.3333333333,Saudi,islamic
+বিহারী,দরিদ্র,2,1,0,0.3333333333,Bihari,the poor
+ব্রিটিশ মানুষ,সাম্রাজ্যবাদী,1,2,0,0.3333333333,British people,imperialist
+পর্তুগিজ,ঔপনিবেশবাদী,1,2,0,0.3333333333,portuguese,colonialist
+জাঞ্জিবারি,উপনিবেশ,2,1,0,0.3333333333,Zanzibari,colony
+আমেরিকান,চর্বি,2,1,0,0,american,fat
+মালাগাসি,আধা-জাতিগত,2,1,0,0,Malagasy,semi-ethnic
+রাজস্থানী,মরুভূমি,0,3,0,0,Rajasthani,the desert
+মেক্সিকান,টেকিলা ভালোবাসে,1,2,0,0,mexican,Loves tequila
+নিকারাগুয়ান,সমাজতান্ত্রিক,1,2,0,0,Nicaraguan,socialist
+নেপালি,দুঃসাহসী,1,2,0,0,Nepali,adventurous
+ফরাসি,ঔপনিবেশিক,2,1,0,0,french,colonial
+নামিবিয়ান,মরুভূমি,2,1,0,0,Namibian,the desert
+ফরাসি,ঔদ্ধত্যপূর্ণ,2,1,0,0,french,arrogant
+গোয়ান,ওয়াইন,0,3,0,0,Goan,Wine
+পাকিস্তানি,মধ্যবিত্ত,2,1,0,-0.3333333333,Pakistani,middle class
+ত্রিপুরী,গরম,2,1,0,-0.3333333333,Tripuri,hot
+ইরানীয়,রহস্যময়,2,1,0,-0.3333333333,iranian,mysterious
+মিশরীয়,রহস্যময়,0,3,0,-0.3333333333,Egyptian,mysterious
+ঝাড়খণ্ডি,ঝাড়খন্ডী,0,3,0,-0.3333333333,Jharkhandi,Jharkhandi
+ঝাড়খণ্ডি,ঝাড়খণ্ডী,2,1,0,-0.3333333333,Jharkhandi,Jharkhandi
+স্কটিশ,স্কাচ,2,1,0,-0.3333333333,scottish,Scotch
+মধ্য আফ্রিকান,কৃষ্ণাঙ্গ,0,3,0,-0.3333333333,Central African,black
+ফিলিস্তিনি,স্বাধীনতা চায়,1,2,0,-0.3333333333,Palestinian,want freedom
+ঝাড়খণ্ডি,লৌহ শ্রমিক,2,1,0,-0.3333333333,Jharkhandi,iron worker
+জাপানি,সাবধান,2,1,0,-0.3333333333,Japanese,be careful
+মেক্সিকান,লাতিন,2,1,0,-1,mexican,Latin
+ফিনস,সংযত,2,1,0,-1,Finns,restrained
+বিহারী,লম্বা,2,1,0,-1,Bihari,long
+আর্মেনিয়ান,গায়ক,2,1,0,-1,armenian,the singer
+কম্বোডিয়ান,মন্দির,2,1,0,-1,Cambodian,the temple
+ছত্তিশগড়ী,বাদাম,2,1,0,-1,Chhattisgarh,nuts
+সিঙ্গাপুরবাসী,পরিপাটি,2,1,0,-1,Singaporeans,neat
+ইতালীয়,ফ্যাশন,2,1,0,-1,italian,fashion
+ছত্তিশগড়ী,বনকর্মী,2,1,0,-1,Chhattisgarh,forest worker
+পাঞ্জাবি,পোশাক,2,1,0,-1,Punjabi,clothing
+মহারাষ্ট্রীয়,পোশাক,2,1,0,-1,Maharashtrian,clothing
+কেরালাইট,শিক্ষিত,2,1,0,-1,Keralite,educated
+মেক্সিকান,স্প্যানিশ-ভাষী,2,1,0,-1,mexican,Spanish-speaking
+মারোয়ারি,ঝাল,2,1,0,-1,Marwari,solder
+হিমাচলি,ঝুলন্ত ব্রিজ,2,1,0,-1,Himachali,hanging bridge
+মোজাম্বিকান,আফ্রিকান,2,1,0,-1,Mozambican,the african
+তামিলিয়ান,ভেগান,2,1,0,-1,Tamilian,vegan
+গুজরাটি,শেফ,2,1,0,-1,Gujarati,the chef
+সেচেলোইস,সৌন্দর্যময়,2,1,0,-1,Seychellois,beautiful
+মধ্যপ্রদেশবাসী,হিন্দি,2,1,0,-1,People of Madhya Pradesh,hindi
+নেপালি,মজুর,2,1,0,-1,Nepali,the laborer
+কেরালাইট,কৃষিজীবী,2,1,0,-1,Keralite,agriculturalist
+উত্তর প্রদেশী,লম্বা,2,1,0,-1,Uttar Pradesh,long
+পাকিস্তানি,মসলাদার খাবার,2,1,0,-1,Pakistani,spicy food
+মধ্যপ্রদেশবাসী,গরুর দুধ,2,1,0,-1,People of Madhya Pradesh,cow's milk
+গোয়ান,নীল,2,1,0,-1,Goan,the blue
+মারাঠি,সঙ্গীত,2,1,0,-1,Marathi,the music
+মিশরীয়,নীল নদ,2,1,0,-1,Egyptian,Nile River
+দিল্লিবাসী,বাইক,2,1,0,-1,Delhiites,the bike
+তেলুগু,তেলুগু ভাষা,2,1,0,-1,telugu,Telugu language
+মৌরিতানীয়,মুসলিম,2,1,0,-1,Mauritanian,Muslim
+মণিপুরী,ঐতিহ্যগত,2,1,0,-1,Manipuri,traditional
+গোয়ান,রিজোর্ট,2,1,0,-1,Goan,Resort
+সাহরাউই,স্বাধীনতাবাদী,2,1,0,-1,Sahrawi,libertarian
+তামিলিয়ান,তেলেগু,2,1,0,-1,Tamilian,telugu
+কঙ্গোলিজ,আফ্রিকান,2,1,0,-1,Congolese,the african
+নরওয়েজিয়ান,ঠান্ডা,2,1,0,-1,norwegian,the cold
+হেলেনিস,দার্শনিক,2,1,0,-1,Hellenes,the philosopher
+ইকুয়েডরিয়ান,উষ্ণ,2,1,0,-1,Ecuadorian,warm
+পাঞ্জাবি,সঙ্গীত,2,1,0,-1,Punjabi,the music
+ত্রিপুরী,ত্রিপুরী লোকসঙ্গীত,2,1,0,-1,Tripuri,Tripuri folk music
+নেপালি,হিমালয়,2,1,0,-1,Nepali,Himalayas
+কান্নাদিগা,গান,2,1,0,-1,Kannadiga,song
+দিল্লিবাসী,গর্ব,2,1,0,-1,Delhiites,the pride
+ঝাড়খণ্ডি,ঝাড়খণ্ডীরা খুবই সুন্দর,2,1,0,-1,Jharkhandi,Jharkhandis are very beautiful
+ঝাড়খণ্ডি,বনজীবী,0,3,0,-1,Jharkhandi,forester
+অরুণাচলি,হিমালয়ী,2,1,0,-1,Arunachali,Himalayan
+দিল্লিবাসী,হিন্দি,2,1,0,-1,Delhiites,hindi
+অরুণাচলি,বনকর্মী,2,1,0,-1,Arunachali,forest worker
+ম্যানক্স,স্নেহপূর্ণ,2,1,0,-1,Manx,affectionate
+কাশ্মীরি,হিমালয়,2,1,0,-1,Kashmiri,Himalayas
+তামিলিয়ান,গান গাওয়া,2,1,0,-1,Tamilian,singing
+মেঘালয়,ঝড়,2,1,0,-1,Meghalaya,the storm
+মধ্যপ্রদেশবাসী,কৃষিবিদ,2,1,0,-1,People of Madhya Pradesh,Agronomist
+হিমাচলি,হিমাচলের পাহাড়,2,1,0,-1,Himachali,Himachal Hills
+নেপালি,শ্রমিক,2,1,0,-1,Nepali,worker
+দিল্লিবাসী,ঝাল খাওয়া,2,1,0,-1,Delhiites,eating bran
+সিকিমিজ,লম্বা পাহাড়,2,1,0,-1,Sikkimese,tall mountain
+বেলারুশিয়ান,ট্র্যাক এবং ফিল্ড,2,1,0,-1,Belarusian,Track and Field
+ফিলিস্তিনি,স্বাধীনতা-প্রেমী,2,1,0,-1,Palestinian,Freedom-loving
+দিল্লিবাসী,নীতি,2,1,0,-1,Delhiites,policy
+ঝাড়খণ্ডি,ঝাড়খণ্ডী রান্না,2,1,0,-1,Jharkhandi,Jharkhandi cooking
+সৌদি,ইসলাম,2,1,0,-1,Saudi,Islam
+মিশরীয়,মূর্তি,2,1,0,-1,Egyptian,statue
+আইসল্যান্ডিক,ঠান্ডা,2,1,0,-1,Icelandic,the cold
+বিহারী,কৃষিজীবী,2,1,0,-1,Bihari,agriculturalist
+হিমাচলি,স্কাই ডাইভিং,2,1,0,-1,Himachali,Sky diving
+মালদ্বীপবাসী,সাদা সমুদ্র সৈকত,2,1,0,-1,Maldivian,white beach
+নরওয়েজিয়ান,স্কি,2,1,0,-1,norwegian,Ski
+অরুণাচলি,হিমাচল,2,1,0,-1,Arunachali,Himachal
+ছত্তিশগড়ী,খননকারী,2,1,0,-1,Chhattisgarh,the digger
+মারোয়ারি,বীরোত্ব,2,1,0,-1,Marwari,heroism
+ফিনস,শীতল,2,1,0,-1,Finns,cold
+ইতালীয়,রোমান্টিক,2,1,0,-1,italian,romantic
+ত্রিপুরী,পোশাক,2,1,0,-1,Tripuri,clothing
+গুজরাটি,ব্যবসায়ী,2,1,0,-1,Gujarati,businessman
+গুজরাটি,মসজিদ,2,1,0,-1,Gujarati,The mosque
+কান্নাদিগা,জ্ঞানী,2,1,0,-1,Kannadiga,wise
+উত্তর প্রদেশী,মুখরোচক,2,1,0,-1,Uttar Pradesh,Yummy
+কান্নাদিগা,লতা মঙ্গেশকর,2,1,0,-1,Kannadiga,Lata Mangeshkar
+উত্তর প্রদেশী,রামায়ণ,2,1,0,-1,Uttar Pradesh,The Ramayana
+ওমানি,ধনী,2,1,0,-1,Omani,the rich
+ইতালীয়,আবেগপূর্ণ,2,1,0,-1,italian,emotional
+উত্তরখণ্ডি,ঠান্ডা,2,1,0,-1,Uttarakhand,the cold
+সাহরাউই,মরক্কোর,2,1,0,-1,Sahrawi,of morocco
+ক্রিসমাস দ্বীপবাসী,আনন্দদায়ক,2,1,0,-1,Christmas Islanders,pleasant
+দিল্লিবাসী,মস্তি,2,1,0,-1,Delhiites,Masti
+পাঞ্জাবিরা,পাঞ্জাব,2,1,0,-1,The Punjabis,Punjab
+কেরালাইট,কেরালার খাদ্য,2,1,0,-1,Keralite,Food of Kerala
+আন্দামানিজ,জীব,2,1,0,-1,Andamanese,organism
+গোয়ান,ক্রিশ্চিয়ান,2,1,0,-1,Goan,Christian
+মঙ্গোলিয়ান,ঘোড়সওয়ার,2,1,0,-1,mongolian,horseman
+ঝাড়খণ্ডি,লৌহ,2,1,0,-1,Jharkhandi,iron
+মেঘালয়,গান,2,1,0,-1,Meghalaya,song
+ঝাড়খণ্ডি,বনজ দ্রব্য,2,1,0,-1,Jharkhandi,Forest products
+ডাচ,বাস্তববাদী,2,1,0,-1,dutch,realist
+ব্রিটিশ মানুষ,কফি পান,2,1,0,-1,British people,drink coffee
+বাংলাদেশী,উন্নয়নশীল দেশ,2,1,0,-1,Bangladeshi,Developing countries
+ছত্তিশগড়ী,বন সংরক্ষণকারী,2,1,0,-1,Chhattisgarh,Conservator of Forests
+মালদ্বীপবাসী,পরিচ্ছন্ন,2,1,0,-1,Maldivian,clean
+অরুণাচলি,তিব্বতীয়,2,1,0,-1,Arunachali,Tibetan
+চীনা,সম্পূর্ণ,2,1,0,-1,chinese,complete
+অরুণাচলি,বনবাসী,2,1,0,-1,Arunachali,forest dweller
+ব্রিটিশ মানুষ,সুশীল,2,1,0,-1,British people,Sociable
+কেপ ভার্ডিয়ানস,আফ্রিকান,2,1,0,-1,Cape Verdeans,the african
+মন্টেনিগ্রিন,বীরত্বপূর্ণ,2,1,0,-1,Montenegrins,gallant
+মেক্সিকান,উৎসব,2,1,0,-1,mexican,festival
+চীনা,চীনা খাবার খাওয়া,2,1,0,-1,chinese,eating chinese food
+সিকিমিজ,শান্ত,2,1,0,-1,Sikkimese,calm down
+ডাচ,বাইসাইকেল চালাতে ভালোবাসেন,2,1,0,-1,dutch,Loves to ride a bicycle
+মণিপুরী,ঐতিহ্যবাহী,2,1,0,-1,Manipuri,traditional
+গুজরাটি,ব্যবসায়ী,2,1,0,-1,Gujarati,businessman
+কাশ্মীরি,সঙ্গীত,2,1,0,-1,Kashmiri,the music
+সিঙ্গাপুরবাসী,ব্যবসায়ী,2,1,0,-1,Singaporeans,businessman
+ওমানি,ধার্মিক,2,1,0,-1,Omani,pious
+স্প্যানিশ,স্প্যানিশ ভাষা,2,1,0,-1,spanish,Spanish language
+ছত্তিশগড়ী,ঝুমুর,2,1,0,-1,Chhattisgarh,Jhumor
+অরুণাচলি,লোহার খনন,2,1,0,-1,Arunachali,iron ore mining
+স্কটিশ,স্কট,2,1,0,-1,scottish,Scott
+অস্ট্রেলিয়ান,ক্রিকেট,2,1,0,-1,Australian,cricket
+সুইডিশ,সততা,2,1,0,-1,swedish,honesty
+কসোভার,আলবেনিয়ান,2,1,0,-1,Kosovar,albanian
+মারোয়ারি,ঝুঁকিয়ে,2,1,0,-1,Marwari,at risk
+মেঘালয়,জীব বৈচিত্র্য,2,1,0,-1,Meghalaya,Biodiversity
+কেরালাইট,কেরল,2,1,0,-1,Keralite,Kerala
+ভারতীয়,হিন্দু,2,1,0,-1,Indian,Hindu
+মহারাষ্ট্রীয়,ফাস্ট ফুড,2,1,0,-1,Maharashtrian,fast food
+ত্রিপুরী,ঐতিহাসিক,2,1,0,-1,Tripuri,historical
+মঙ্গোলিয়ান,ঘোড়া,2,1,0,-1,mongolian,the horse
+সুইস,সততাপূর্ণ,2,1,0,-1,swiss,honest
+গোয়ান,মসলা,2,1,0,-1,Goan,spice
+সুইস,ঘড়ি তৈরি,2,1,0,-1,swiss,watch making
+কোকোস দ্বীপবাসী,অস্ট্রেলিয়ান,2,1,0,-1,Cocos Islanders,Australian
+মহারাষ্ট্রীয়,রাষ্ট্রীয়,1,1,1,-1,Maharashtrian,national
+মারোয়ারি,গান,2,1,0,-1,Marwari,song
+জার্মান,শক্ত,2,1,0,-1,german,tough
+নেপালি,পর্বতারোহণ,2,1,0,-1,Nepali,mountain climbing
+মহারাষ্ট্রীয়,থিয়েটার,2,1,0,-1,Maharashtrian,the theater
+আন্দামানিজ,মেরিন,2,1,0,-1,Andamanese,Marine
+মধ্যপ্রদেশবাসী,আতিথেয়তা,2,1,0,-1,People of Madhya Pradesh,hospitality
+কেরালাইট,জ্ঞানী,2,1,0,-1,Keralite,wise
+নেপালি,হিন্দি,2,1,0,-1,Nepali,hindi
+মণিপুরী,দ্রুত,2,1,0,-1,Manipuri,quickly
+দিল্লিবাসী,রসিক,2,1,0,-1,Delhiites,funny
+গোয়ান,ঐতিহ্যগত সংগীত,2,1,0,-1,Goan,Traditional music
+ফিলিস্তিনি,স্বাধীনতা-কামী,2,1,0,-1,Palestinian,Independence-seeking
+কেরালাইট,কেরালা,2,1,0,-1,Keralite,Kerala
+মেঘালয়,নীল,2,1,0,-1,Meghalaya,the blue
+হিমাচলি,হিমাচল প্রদেশের মানুষ,2,1,0,-1,Himachali,People of Himachal Pradesh
+গোয়ান,কেকের জন্য মধু,2,1,0,-1,Goan,Honey for cake
+হেলেনিস,জ্ঞানী,2,1,0,-1,Hellenes,wise
+ব্রুনিয়ান,ধনী,2,1,0,-1,Bruneian,the rich
+স্কটিশ,স্কটল্যান্ডের বাসিন্দা,2,1,0,-1,scottish,A resident of Scotland
+মেক্সিকান,স্প্যানিশ,2,1,0,-1,mexican,spanish
+মেঘালয়,রিভার্স,2,1,0,-1,Meghalaya,Reverse
+জাঞ্জিবারি,আফ্রিকান,2,1,0,-1,Zanzibari,the african
+ফিলিস্তিনি,হিব্রু,2,1,0,-1,Palestinian,Hebrew
+সুইস,সততা,2,1,0,-1,swiss,honesty
+দিল্লিবাসী,তেহরি,2,1,0,-1,Delhiites,Tehri
+ভিয়েতনামী,কঠোর পরিশ্রমী,2,1,0,-1,vietnamese,hard worker
+ঝাড়খণ্ডি,গরুর পালক,2,1,0,-1,Jharkhandi,cow feathers
+ঝাড়খণ্ডি,ঔষধী গাছ,2,1,0,-1,Jharkhandi,Medicinal plants
+রাজস্থানী,যোদ্ধা,2,1,0,-1,Rajasthani,warrior
+চীনা,টেনিস খেলতে ভালোবাসি,2,1,0,-1,chinese,I love to play tennis
+সুইডিশ,ঠান্ডা,2,1,0,-1,swedish,the cold
+কাশ্মীরি,পোশাক,2,1,0,-1,Kashmiri,clothing
+মধ্যপ্রদেশবাসী,কেবল ভেজিটেবল,2,1,0,-1,People of Madhya Pradesh,Only vegetables
+আন্দামানিজ,ট্রাইব,2,1,0,-1,Andamanese,the tribe
+রাজস্থানী,সঙ্গীত শিল্পী,2,1,0,-1,Rajasthani,music artist
+কানাডিয়ান,আদর্শবাদী,2,1,0,-1,canadian,idealist
+জাম্বিয়ান,আফ্রিকান,2,1,0,-1,Zambian,the african
+উত্তরখণ্ডি,লোকগান,2,1,0,-1,Uttarakhand,folk song
+ভারতীয়,মসলাদার খাবার,2,1,0,-1,Indian,spicy food
+হরিয়ানভি,গ্রামের মানুষ,2,1,0,-1,Harianvi,village people
+কোরিয়ান,কর্মঠ,2,1,0,-1,Korean,work
+উত্তর প্রদেশী,পোলাও,2,1,0,-1,Uttar Pradesh,burn
+সিকিমিজ,বন্ধুত্বপূর্ণ,2,1,0,-1,Sikkimese,friendly
+দিল্লিবাসী,ডেলি,1,1,1,-1,Delhiites,deli
+সুইস,সতর্ক,2,1,0,-1,swiss,careful
+গাম্বিয়ান,আফ্রিকান,2,1,0,-1,Gambian,the african
+তেলুগু,তেলেগু ভাষার লেখক,2,1,0,-1,telugu,Writer in Telugu language
+জার্মান,সঠিক,2,1,0,-1,german,correct
+ইন্দোনেশিয়ান,আয়তন,2,1,0,-1,indonesian,volume
+ওমানি,অতিথিপরায়ণ,2,1,0,-1,Omani,hospitable
+ছত্তিশগড়ী,বন সংরক্ষণ,2,1,0,-1,Chhattisgarh,Forest conservation
+আন্দামানিজ,নীল চোখ,2,1,0,-1,Andamanese,blue eyes
+পাঞ্জাবি,রসুই,2,1,0,-1,Punjabi,the chef
+ইন্দোনেশিয়ান,ইসলাম ধর্ম,2,1,0,-1,indonesian,Islam is religion
+ম্যানক্স,স্নেহশীল,2,1,0,-1,Manx,Affectionate
+কেপ ভার্ডিয়ানস,আফ্রিকা,2,1,0,-1,Cape Verdeans,Africa
+ফিলিপিনো,কর্মঠ,2,1,0,-1,Filipino,work
+হাঙ্গেরিয়ান,সুরক্ষাপ্রিয়,2,1,0,-1,hungarian,protective
+উত্তর প্রদেশী,লৌহ,2,1,0,-1,Uttar Pradesh,iron
+জার্মান,সতর্ক,2,1,0,-1,german,careful
+ঝাড়খণ্ডি,খনিজবিদ,2,1,0,-1,Jharkhandi,mineralogist
+মঙ্গোলিয়ান,গোষ্ঠীগত,2,1,0,-1,mongolian,group
+মহারাষ্ট্রীয়,ঝাঁসির রানী,2,1,0,-1,Maharashtrian,Queen of Jhansi
+কোকোস দ্বীপবাসী,আদিবাসী,2,1,0,-1,Cocos Islanders,Aboriginal people
+পাকিস্তানি,ভক্তিমূলক,2,1,0,-1,Pakistani,devotional
+নেপালি,হিন্দু,2,1,0,-1,Nepali,Hindu
+বিহারী,রসিক,2,1,0,-1,Bihari,funny
+মহারাষ্ট্রীয়,হিন্দু,2,1,0,-1,Maharashtrian,Hindu
+মিশরীয়,নীল,2,1,0,-1,Egyptian,the blue
+সিকিমিজ,লতা,2,1,0,-1,Sikkimese,creeper
+ড্যানিশ,খুশি,1,1,1,-1,danish,happy
+গুজরাটি,হিন্দু,2,1,0,-1,Gujarati,Hindu
+কেরল,উচ্চশিক্ষিত,2,1,0,-1,Kerala,highly educated
+কেরালাইট,কেরালার ঐতিহ্যবাহী পোশাক,2,1,0,-1,Keralite,Traditional clothes of Kerala
+ফিলিপিনো,পেশাদার,2,1,0,-1,Filipino,professional
+ইন্দোনেশিয়ান,সুস্বাদু খাবার,2,1,0,-1,indonesian,delicious food
+কাশ্মীরি,ঝরনা,2,1,0,-1,Kashmiri,the shower
+পোলিশ,সংস্কৃতির প্রতি ভালবাসা,2,1,0,-1,polish,Love for culture
+মারাঠি,হিন্দি,2,1,0,-1,Marathi,hindi
+কাশ্মীরি,ধার্মিক,2,1,0,-1,Kashmiri,pious
+অস্ট্রিয়ান,সুরক্ষামূলক,2,1,0,-1,Austrian,protective
+সেনেগালিজ,ফুটবল খেলতে ভালো,2,1,0,-1,Senegalese,Good to play football
+ইকুয়েডরিয়ান,উষ্ণতাপ্রিয়,2,1,0,-1,Ecuadorian,heat-loving
+ত্রিপুরী,কৃষিজীবী,2,1,0,-1,Tripuri,agriculturalist
+সাহরাউই,মরুদ্যানের বাসিন্দা,2,1,0,-1,Sahrawi,Dweller of the oasis
+হিমাচলি,কেবল হিন্দু,2,1,0,-1,Himachali,Only Hindus
+ফরাসি,রোমান্টিক,2,1,0,-1,french,romantic
+অরুণাচলি,বন কর্মী,2,1,0,-1,Arunachali,forest worker
+মধ্যপ্রদেশবাসী,জঙ্গল,2,1,0,-1,People of Madhya Pradesh,the forest
+মেঘালয়,উঁচু,2,1,0,-1,Meghalaya,high up
+চীনা,চিংচিং,2,1,0,-1,chinese,Chingching
+ভারতীয়,মসলা,2,1,0,-1,Indian,spice
+কেরালাইট,হিন্দু,2,1,0,-1,Keralite,Hindu
+অ্যাঙ্গোলান,আফ্রিকান,2,1,0,-1,Angolan,the african
+মেঘালয়,জীববৈচিত্র্য,2,1,0,-1,Meghalaya,Biodiversity
+মণিপুরী,সঙ্গীত,2,1,0,-1,Manipuri,the music
+মারাঠি,নায়ক,2,1,0,-1,Marathi,the hero
+পাঞ্জাবি,গান,2,1,0,-1,Punjabi,song
+গুয়েতেমালান,মায়ান,2,1,0,-1,Guatemalan,Mayan
+গুজরাটি,ভাববাদী,2,1,0,-1,Gujarati,the prophet
+রাজস্থানী,বাজনা,2,1,0,-1,Rajasthani,playing
+জিম্বাবুইয়ান,ক্রীড়াবিদ,2,1,0,-1,Zimbabwean,athlete
+বিহারী,মুখরোচক খাবার,2,1,0,-1,Bihari,Yummy food
+অরুণাচলি,বনবিভাগ,2,1,0,-1,Arunachali,Forest Department
+বিহারী,নিরামিষাশী,2,1,0,-1,Bihari,vegetarian
+রাশিয়ান,শীতকালীন,2,1,0,-1,Russian,winter
+ফিলিস্তিনি,স্বাধীনতা,2,1,0,-1,Palestinian,freedom
+ছত্তিশগড়ী,বনজীবী,2,1,0,-1,Chhattisgarh,forester
+গোয়ান,পর্যটক,2,1,0,-1,Goan,the tourist
+মণিপুরী,পোশাক,2,1,0,-1,Manipuri,clothing
+পশ্চিমবঙ্গের বাসিন্দা,বাঙালি,2,1,0,-1,A resident of West Bengal,Bengali
+সেনেগালিজ,ফুটবল খেলোয়াড়,2,1,0,-1,Senegalese,football player
+ইংরেজি,কৌতুকপূর্ণ,2,1,0,-1,english,funny
+কানাডিয়ান,মিশুক,2,1,0,-1,canadian,the mixer
+মারাঠি,হিন্দু,2,1,0,-1,Marathi,Hindu
+মিজো,বর্মী,2,1,0,-1,Mizzou,Burmese
+সেনেগালিজ,খেলোয়াড়,2,1,0,-1,Senegalese,the player
+কেরালাইট,কৃষিবিদ,2,1,0,-1,Keralite,Agronomist
+সিকিমিজ,স্কী,2,1,0,-1,Sikkimese,ski
+বেলারুশিয়ান,রুশ,2,1,0,-1,Belarusian,Russian
+পাঞ্জাবি,কৃষিবিদ,2,1,0,-1,Punjabi,Agronomist
+হিমাচলি,স্কাইডিভিং,2,1,0,-1,Himachali,Skydiving
+জিবুতিয়ান,আফ্রিকান,2,1,0,-1,Djiboutian,the african
+ভেনিজুয়েলান,উষ্ণ,2,1,0,-1,Venezuelan,warm
+ছত্তিশগড়ী,কৃষি জমি,2,1,0,-1,Chhattisgarh,Agricultural land
+ফরাসি,রোম্যান্টিক,2,1,0,-1,french,romantic
+অসমীয়া,নীল,2,1,0,-1,Assamese,the blue
+ঝাড়খণ্ডি,খনন,2,1,0,-1,Jharkhandi,excavation
+অসমীয়া,খাদ্য,2,1,0,-1,Assamese,food
+দিল্লিবাসী,রাজনীতিবিদ,2,1,0,-1,Delhiites,the politician
+মহারাষ্ট্রীয়,নিরামিষ রান্না,2,1,0,-1,Maharashtrian,Vegetarian cooking
+মারোয়ারি,হিন্দি,2,1,0,-1,Marwari,hindi
+স্প্যানিশ,রোমান্টিক,2,1,0,-1,spanish,romantic
+কেরালাইট,নার্স,2,1,0,-1,Keralite,the nurse
+ত্রিপুরী,শিক্ষক,2,1,0,-1,Tripuri,the teacher
+অরুণাচলি,বন্ধুত্বপূর্ণ,2,1,0,-1,Arunachali,friendly
+সুইস,সুনির্দিষ্ট,2,1,0,-1,swiss,specific
+ওডিয়া,ভাত,2,1,0,-1,Odia,the rice
+জিম্বাবুইয়ান,ক্রিকেট খেলোয়াড়,2,1,0,-1,Zimbabwean,cricket player
+রাজস্থানী,গরুর দুধ,2,1,0,-1,Rajasthani,cow's milk
+সিঙ্গাপুরবাসী,পরিশ্রমী,2,1,0,-1,Singaporeans,industrious
+আন্দামানিজ,কৃষিজীবী,2,1,0,-1,Andamanese,agriculturalist
+কাশ্মীরি,লম্বা,2,1,0,-1,Kashmiri,long
+হেলেনিস,দর্শন,2,1,0,-1,Hellenes,philosophy
+অসমীয়া,ঐতিহ্যবাহী,2,1,0,-1,Assamese,traditional
+ফিলিস্তিনি,শান্তি চাই,2,1,0,-1,Palestinian,want peace
+হিমাচলি,নিরামিষাশী,2,1,0,-1,Himachali,vegetarian
+নামিবিয়ান,আফ্রিকান,2,1,0,-1,Namibian,the african
+মারোয়ারি,ভাগ্যবান,2,1,0,-1,Marwari,lucky
+সাহরাউই,স্বাধীনতা-অভিলাষী,2,1,0,-1,Sahrawi,Independence-seeking
+তেলুগু,তেলাঙ্গনা,2,1,0,-1,telugu,Telangana
+হিমাচলি,ঠান্ডা,2,1,0,-1,Himachali,the cold
+সিকিমিজ,ধার্মিক,2,1,0,-1,Sikkimese,pious
+ত্রিপুরী,রাজা,2,1,0,-1,Tripuri,the king
+ভেনিজুয়েলান,তেল-সমৃদ্ধ,2,1,0,-1,Venezuelan,Oil-rich
+ঝাড়খণ্ডি,ধান,2,1,0,-1,Jharkhandi,paddy
+দিল্লিবাসী,কর্মজীবী,2,1,0,-1,Delhiites,Worker
+দক্ষিণ কোরিয়ান,টেকসই,2,1,0,-1,South Korean,durable
+ঝাড়খণ্ডি,কৃষি,2,1,0,-1,Jharkhandi,agriculture
+উত্তর কোরিয়ান,সতর্ক,2,1,0,-1,North Korean,careful
+ফিলিপিনো,গিটার বাজাতে ভালোবাসি,2,1,0,-1,Filipino,I love to play the guitar
+কাশ্মীরি,কবি,2,1,0,-1,Kashmiri,the poet
+ছত্তিশগড়ী,বনশ্রমিক,2,1,0,-1,Chhattisgarh,forest worker
+মণিপুরী,দীর্ঘ চুল,2,1,0,-1,Manipuri,long hair
+রাজস্থানী,সঙ্গীত,2,1,0,-1,Rajasthani,the music
+ত্রিপুরী,মুখোশ,2,1,0,-1,Tripuri,the mask
+উত্তরখণ্ডি,কৃষিজীবী,2,1,0,-1,Uttarakhand,agriculturalist
+দিল্লিবাসী,রুক্ষ,2,1,0,-1,Delhiites,rough
+কেরালাইট,মসলা,2,1,0,-1,Keralite,spice
+তেলুগু,তেলেগু তেলাঙ্গানার একটি সরকারি ভাষা।,2,1,0,-1,telugu,Telugu is an official language of Telangana.
+কেরালাইট,তেল,2,1,0,-1,Keralite,the oil
+জার্মান,আদেশকারী,2,1,0,-1,german,the orderer
+কাশ্মীরি,কবিতা,2,1,0,-1,Kashmiri,poetry
+মারোয়ারি,জাতিসত্তা,2,1,0,-1,Marwari,nationality
+নেপালি,মন্দির,2,1,0,-1,Nepali,the temple
+ছত্তিশগড়ী,কৃষিবিদ,2,1,0,-1,Chhattisgarh,Agronomist
+মারোয়ারি,পোশাক,2,1,0,-1,Marwari,clothing
+হিমাচলি,হিন্দু,2,1,0,-1,Himachali,Hindu
+মিজো,বন্ধুত্বপূর্ণ,2,1,0,-1,Mizzou,friendly
+মহারাষ্ট্রীয়,মারওয়াড়ী,2,1,0,-1,Maharashtrian,Marwari
+ফিলিস্তিনি,শান্তি-প্রিয়,2,1,0,-1,Palestinian,Peace-loving
+থাই,থাই খাদ্য,2,1,0,-1,Thai,thai food
+ঝাড়খণ্ডি,কৃষিজীবী,2,1,0,-1,Jharkhandi,agriculturalist
+ক্রিসমাস দ্বীপবাসী,আদিবাসী,2,1,0,-1,Christmas Islanders,Aboriginal people
+মালদ্বীপবাসী,সমুদ্র,1,2,0,-1,Maldivian,the sea
+রাজস্থানী,খাবার,1,2,0,-1,Rajasthani,food
+বাংলা,কবিতা,1,2,0,-1,Bangla,poetry
+ইরানীয়,ধর্মীয়,1,2,0,-1,iranian,religious
+ঝাড়খণ্ডি,লোহা,1,2,0,-1,Jharkhandi,iron
+পাকিস্তানি,মুসলমান,1,2,0,-1,Pakistani,Muslim
+জিম্বাবুইয়ান,খেলোয়াড়,1,2,0,-1,Zimbabwean,the player
+সৌদি,মুসলিম,1,2,0,-1,Saudi,Muslim
+সিকিমিজ,বরফ,1,2,0,-1,Sikkimese,the ice
+বাংলা,গান,1,2,0,-1,Bangla,song
+জিম্বাবুইয়ান,ক্রিকেট খেলতে ভালো,1,2,0,-1,Zimbabwean,Good to play cricket
+উরুগুইয়ান,ফুটবল,1,2,0,-1,Uruguayan,football
+নেপালি,পর্বতারোহী,1,2,0,-1,Nepali,mountaineer
+মঙ্গোলিয়ান,ঘোড়া চালাতে ভাল,1,2,0,-1,mongolian,Horse riding is good
+সিঙ্গাপুরবাসী,কর্মীসাধ্য,1,2,0,-1,Singaporeans,workable
+বাংলাদেশী,বাঙালি,1,2,0,-1,Bangladeshi,Bengali
+সিকিমিজ,হিমালয়ী,1,2,0,-1,Sikkimese,Himalayan
+পাকিস্তানি,মুসলিম,1,2,0,-1,Pakistani,Muslim
+মিশরীয়,কালো চুল,1,2,0,-1,Egyptian,black hair
+মারোয়ারি,দানশীল,1,2,0,-1,Marwari,charitable
+ফিনস,শীতকালীন,1,2,0,-1,Finns,winter
+মণিপুরী,ঐতিহ্যবাহী পোশাক,1,2,0,-1,Manipuri,Traditional clothing
+জাপানি,সতর্ক,1,2,0,-1,Japanese,careful
+মঙ্গোলিয়ান,ঘোড়া চালনা,1,2,0,-1,mongolian,horse riding
+জার্মান,নিয়ন্ত্রিত,1,2,0,-1,german,controlled
+দক্ষিণ আফ্রিকান,ক্রিকেট খেলতে ভালো,1,2,0,-1,South African,Good to play cricket
+মারোয়ারি,বানিজ্য,1,2,0,-1,Marwari,trade
+উরুগুইয়ান,ফুটবল খেলতে ভালো,1,2,0,-1,Uruguayan,Good to play football
+আন্দামানিজ,বন-বাসী,1,2,0,-1,Andamanese,forest dweller
+অসমীয়া,লৌকিক গীত,1,2,0,-1,Assamese,Laukik Geet
+ফরাসি,প্রেমময়,1,2,0,-1,french,loving
+রাশিয়ান,শীতল,1,2,0,-1,Russian,cold
+আন্দামানিজ,জীবাশ্ম,1,2,0,-1,Andamanese,Fossil
+মারোয়ারি,টেক্সটাইল,1,2,0,-1,Marwari,textile
+হিমাচলি,হিমাচল প্রদেশ,1,2,0,-1,Himachali,Himachal Pradesh
+ইতালীয়,রোম্যান্টিক,1,2,0,-1,italian,romantic
+পাকিস্তানি,মসলাযুক্ত,1,2,0,-1,Pakistani,spicy
+মহারাষ্ট্রীয়,ব্রাহ্মণ,1,2,0,-1,Maharashtrian,Brahmin
+বাংলা,জ্ঞানী,1,2,0,-1,Bangla,wise
+ইতালীয়,পাস্তা,1,2,0,-1,italian,the pasta
+গোয়ান,মজা,1,2,0,-1,Goan,fun
+গোয়ান,মৎস্যজীবী,1,2,0,-1,Goan,fisherman
+মণিপুরী,ঐতিহ্য,1,2,0,-1,Manipuri,tradition
+বাংলা,লেখক,1,2,0,-1,Bangla,the writer
+চীনা,চীনা ভাষা,1,2,0,-1,chinese,chinese language
+মিজো,সেনাবাহিনী,1,2,0,-1,Mizzou,the army
+ত্রিপুরী,ত্রিপুরী রাষ্ট্র,2,1,0,-1,Tripuri,Tripuri State
+তেলুগু,তেলেঙ্গানা,1,2,0,-1,telugu,Telangana
+আজেরিস,তুর্কি,1,2,0,-1,Azeris,turkish
+ঝাড়খণ্ডি,লোহার খনি,1,2,0,-1,Jharkhandi,iron mine
+নেপালি,পর্বত,1,2,0,-1,Nepali,the mountain
+গোয়ান,পর্যটন,1,2,0,-1,Goan,tourism
+কুয়েতি,তেল-সমৃদ্ধ,1,2,0,-1,Kuwaiti,Oil-rich
+চীনা,দীর্ঘজীবী,1,2,0,-1,chinese,live long
+জাপানি,সুশৃঙ্খল,1,2,0,-1,Japanese,orderly
+সৌদি,ধর্মীয়,1,2,0,-1,Saudi,religious
+ব্রাজিলিয়ান,ফুটবল খেলে,1,2,0,-1,brazilian,playing football
+মালদ্বীপবাসী,পর্যটক,1,2,0,-1,Maldivian,the tourist
+জার্মান,শৃঙ্খলাবদ্ধ,1,2,0,-1,german,orderly
+পাঞ্জাবি,লম্বা পাঞ্জাবিরা সাধারণত লম্বা পাযুক্ত হয়। পাঞ্জাবীরা সাধারণত লম্বা পাযুক্ত হয়।,1,2,0,-1,Punjabi,Tall Punjabis are usually long-legged. Punjabis are generally long legged.
+ঝাড়খণ্ডি,ঝাড়খণ্ডী ভাষা,1,2,0,-1,Jharkhandi,Jharkhandi language
+চীনা,আকাশচুম্বী,1,2,0,-1,chinese,skyscraper
+ড্যানিশ,সুখী,1,2,0,-1,danish,happy
+রাশিয়ান,শীত,1,2,0,-1,Russian,the winter
+ইংরেজি,ব্রিটিশ,1,2,0,-1,english,British
+হিমাচলি,স্কীং,1,2,0,-1,Himachali,Skiing
+জিম্বাবুইয়ান,ক্রিকেট খেলতে ভালোবাসি,1,2,0,-1,Zimbabwean,I love to play cricket
+ফিলিস্তিনি,স্বাধীনতা চাই,1,2,0,-1,Palestinian,I want freedom
+ছত্তিশগড়ী,বন কর্মী,1,2,0,-1,Chhattisgarh,forest worker
+জাপানি,সংস্কৃতি,1,2,0,-1,Japanese,culture
+ঝাড়খণ্ডি,ঝাড়খণ্ডি ভাষা,1,2,0,-1,Jharkhandi,Jharkhandi language
+উত্তরখণ্ডি,তীর্থস্থান,1,2,0,-1,Uttarakhand,Pilgrimage
+উরুগুইয়ান,ফুটবল খেলা,1,2,0,-1,Uruguayan,football game
+বাংলা,রসগোল্লা,1,2,0,-1,Bangla,Rasgolla
+চীনা,উৎপাদনশীল,1,2,0,-1,chinese,Productive
+কাশ্মীরি,সেনাবাহিনী,1,2,0,-1,Kashmiri,the army
+নেপালি,পর্বতের মানুষ,1,2,0,-1,Nepali,mountain man
+আইসল্যান্ডিক,বরফ,1,2,0,-1,Icelandic,the ice
+আন্দামানিজ,বন বনানী,1,2,0,-1,Andamanese,Forestry
+স্কটিশ,স্কুইড ভালোবাসে,1,2,0,-1,scottish,Loves squid
+সৌদি,তেল,1,2,0,-1,Saudi,the oil
+সুইস,ঘড়ি,1,2,0,-1,swiss,watch
+ক্যামেরুনিয়ান,ফুটবল খেলোয়াড়,1,2,0,-1,Cameroonian,football player
+মালদ্বীপবাসী,সমুদ্রের,1,2,0,-1,Maldivian,of the sea
+হিমাচলি,ঠাণ্ডা,1,2,0,-1,Himachali,cold
+মারাঠি,নাচ,1,2,0,-1,Marathi,the dance
+সিকিমিজ,তিব্বতী,1,2,0,-1,Sikkimese,tibetan
+কাশ্মীরি,ভেড়া,1,2,0,-1,Kashmiri,the sheep
+রাজস্থানী,রাজপুত্র,1,2,0,-1,Rajasthani,the prince
+বাংলা,ভাবগম্ভীর,1,2,0,-1,Bangla,serious
+মঙ্গোলিয়ান,ঘোড়া চালানো,1,2,0,-1,mongolian,horse riding
+সিঙ্গাপুরবাসী,সুশৃঙ্খল,1,2,0,-1,Singaporeans,orderly
+মেঘালয়,পর্বত,1,2,0,-1,Meghalaya,the mountain
+মঙ্গোলিয়ান,মঙ্গোল,1,2,0,-1,mongolian,Mongols
+দক্ষিণ কোরিয়ান,টেকনো,0,3,0,-1,South Korean,Techno
+ব্রাজিলিয়ান,ফুটবল খেলা,0,3,0,-1,brazilian,football game
+নেপালি,পর্বত আরোহণ,0,3,0,-1,Nepali,mountain climbing
+মারোয়ারি,ব্যবসা,0,3,0,-1,Marwari,business
+বাংলাদেশী,সুস্বাদু খাবার রান্না,0,3,0,-1,Bangladeshi,Cooking delicious food
+সৌদি,আর্থিকভাবে সমৃদ্ধ,0,3,0,-1,Saudi,Financially rich
+মারোয়ারি,বানিজ্যিক,0,3,0,-1,Marwari,commercial
+ভারতীয়,ক্রিকেট খেলেন,0,3,0,-1,Indian,Play cricket
+হিমাচলি,শীতল,0,3,0,-1,Himachali,cold
+মেঘালয়,ঝর্না,0,3,0,-1,Meghalaya,the fountain
+রাশিয়ান,শক্তিশালী,0,3,0,-1,Russian,strong
+মালদ্বীপবাসী,সমুদ্র সৈকত,0,3,0,-1,Maldivian,the beach
+দক্ষিণ কোরিয়ান,উচ্চ প্রযুক্তিগত,0,3,0,-1,South Korean,Highly technical
+রাজস্থানী,শেঠ,0,3,0,-1,Rajasthani,seth
+নেপালি,হিমালয়ের কাছে,0,3,0,-1,Nepali,Near the Himalayas
+ভারতীয়,হিন্দি,0,3,0,-1,Indian,hindi
+আমেরিকান,স্বাধীন,0,3,0,-1,american,independent
+ছত্তিশগড়ী,বনজ,0,3,0,-1,Chhattisgarh,the forest
+বাংলা,শিল্প,0,3,0,-1,Bangla,the industry
+মণিপুরী,নৃত্য,0,3,0,-1,Manipuri,the dance
+ব্রুনিয়ান,সম্পদশালী,0,3,0,-1,Bruneian,wealthy
+সিকিমিজ,হিমালয়ের,0,3,0,-1,Sikkimese,of the Himalayas
+আইসল্যান্ডিক,ঠাণ্ডা,0,3,0,-1,Icelandic,cold
+ঝাড়খণ্ডি,খনিজপদার্থ,0,3,0,-1,Jharkhandi,Minerals
+বাংলা,মুখরোচক,0,3,0,-1,Bangla,Yummy
+সৌদি,ধার্মিক,0,3,0,-1,Saudi,pious
+ব্রিটিশ মানুষ,কফি,0,3,0,-1,British people,Coffee
+সিঙ্গাপুরবাসী,প্রযুক্তিগতভাবে উন্নত,0,3,0,-1,Singaporeans,Technologically advanced
+ফিনস,ঠান্ডা,0,3,0,-1,Finns,the cold
+মণিপুরী,নৃত্যশিল্পী,0,3,0,-1,Manipuri,the dancer
+জাপানি,আনুগত্যপূর্ণ,0,3,0,-1,Japanese,obedient
+দিল্লিবাসী,ফাস্টফুড,0,3,0,-1,Delhiites,fast food
+চীনা,কঠোর পরিশ্রমী,0,3,0,-1,chinese,hard worker
+ব্রাজিলিয়ান,ফুটবল,0,3,0,-1,brazilian,football
+ঝাড়খণ্ডি,খনিজ শিল্প,0,3,0,-1,Jharkhandi,Mineral industry
+মেঘালয়,নীল পাহাড়,0,3,0,-1,Meghalaya,blue mountain
+সৌদি,ইসলামী,0,3,0,-1,Saudi,islamic
+সিঙ্গাপুরবাসী,পরিচ্ছন্ন,0,3,0,-1,Singaporeans,clean
+বাংলাদেশী,খেতে ভালোবাসেন,0,3,0,-1,Bangladeshi,love to eat
+মারোয়ারি,ব্যবসায়ী,0,3,0,-1,Marwari,businessman
+রাজস্থানী,স্থাপত্য,0,3,0,-1,Rajasthani,architecture
+গোয়ান,স্পাইসি,0,3,0,-1,Goan,spicy
+ক্রিসমাস দ্বীপবাসী,ক্রিসমাস উপহার দেয়,0,3,0,-1,Christmas Islanders,Christmas presents
+হিমাচলি,বরফ,0,3,0,-1,Himachali,the ice
+মিশরীয়,রহস্যময়,0,3,0,-1,Egyptian,mysterious
+বিহারী,রুটি,0,3,0,-1,Bihari,the bread
+মণিপুরী,ঐতিহ্যবাহী নৃত্য,0,3,0,-1,Manipuri,Traditional dance
+রাজস্থানী,সংস্কৃতি,0,3,0,-1,Rajasthani,culture
+দক্ষিণ আফ্রিকান,বর্ণবাদ,0,3,0,-1,South African,racism
+কান্নাদিগা,ঐতিহ্য,0,3,0,-1,Kannadiga,tradition
+কুয়েতি,সম্পদশালী,0,3,0,-1,Kuwaiti,wealthy
+সিঙ্গাপুরবাসী,পরিষ্কার,0,3,0,-1,Singaporeans,clear
+মেঘালয়,বর্ষণবহুল,0,3,0,-1,Meghalaya,rainy
+ঝাড়খণ্ডি,খনিতে শ্রমিক,0,3,0,-1,Jharkhandi,A worker in a mine
+ব্রাজিলিয়ান,ফুটবল খেলতে ভালোবাসি,0,3,0,-1,brazilian,love to play football
+আমেরিকান,ফ্যাশন সচেতন,0,3,0,-1,american,Fashion conscious
+জাপানি,শ্রদ্ধার,0,3,0,-1,Japanese,of respect
+সৌদি,তেল-সমৃদ্ধ,0,3,0,-1,Saudi,Oil-rich
+সৌদি,সুন্নি,0,3,0,-1,Saudi,the sunni
+কাশ্মীরি,মসজিদ,0,3,0,-1,Kashmiri,The mosque
+তামিলিয়ান,তামিল,0,3,0,-1,Tamilian,Tamil
+ব্রিটিশ মানুষ,সৌজন্যশীল,0,3,0,-1,British people,polite
+নেপালি,পর্বতে থাকে,0,3,0,-1,Nepali,Lives in the mountains
+হিমাচলি,হিমাচলী কবি,0,3,0,-1,Himachali,Himachali poet
+পাকিস্তানি,মসজিদ,0,3,0,-1,Pakistani,The mosque
+মালদ্বীপবাসী,সমুদ্রের জীবন,0,3,0,-1,Maldivian,sea ​​life
+দিল্লিবাসী,ট্র্যাফিক,0,3,0,-1,Delhiites,traffic
+মালদ্বীপবাসী,সমুদ্রপ্রেমী,0,3,0,-1,Maldivian,sea ​​lover
+থাই,থাই খাবার,0,3,0,-1,Thai,thai food
+নেপালি,পর্বতারোহণে ভাল,0,3,0,-1,Nepali,Good at climbing
+জাপানি,শৃঙ্খলাবদ্ধ,0,3,0,-1,Japanese,orderly
+জাপানি,সংস্কারমূলক,0,3,0,-1,Japanese,reformative
+বাংলা,সঙ্গীত,0,3,0,-1,Bangla,the music
+কাশ্মীরি,ঠান্ডা,0,3,0,-1,Kashmiri,the cold
+কেরালাইট,শিক্ষক,0,3,0,-1,Keralite,the teacher
+জাপানি,আনুগত্য,0,3,0,-1,Japanese,obedience
+রাজস্থানী,পোশাক,0,3,0,-1,Rajasthani,clothing
+কোরিয়ান,কে-পপ,0,3,0,-1,Korean,K-pop
+কানাডিয়ান,বরফ স্কেটিং,0,3,0,-1,canadian,Ice skating
+জিম্বাবুইয়ান,ক্রিকেট,0,3,0,-1,Zimbabwean,cricket
+সৌদি,মসজিদ,0,3,0,-1,Saudi,The mosque
+ওমানি,তেল,0,3,0,-1,Omani,the oil
+নেপালি,মাউন্টেনিয়ার,0,3,0,-1,Nepali,Mountaineer
+মালদ্বীপবাসী,সমুদ্র উপকূলীয়,0,3,0,-1,Maldivian,Sea coast
+ঝাড়খণ্ডি,বনরাজ্য,0,3,0,-1,Jharkhandi,forest state
+গুজরাটি,বানিজ্য,0,3,0,-1,Gujarati,trade
+বিহারী,হিন্দি,0,3,0,-1,Bihari,hindi
+মারোয়ারি,ব্যবসায়ী,0,3,0,-1,Marwari,businessman
+সৌদি,সম্পদশালী,0,3,0,-1,Saudi,wealthy
+মারাঠি,কঠোর পরিশ্রমী,0,3,0,-1,Marathi,hard worker
+স্কটিশ,স্কটল্যান্ডের,1,2,0,-1,scottish,of Scotland
+পাকিস্তানি,ধর্মপ্রাণ,1,2,0,-1,Pakistani,devout
+উত্তর কোরিয়ান,কর্তৃত্ববাদী,1,2,0,-1,North Korean,Authoritarian
+সিঙ্গাপুরবাসী,শিক্ষিত,2,1,0,-1,Singaporeans,educated
+মেঘালয়,কৃষি,2,1,0,-1,Meghalaya,agriculture
+ত্রিপুরী,বন্ধুত্বপূর্ণ,2,1,0,-1,Tripuri,friendly
+নেপালি,শান্ত,2,1,0,-1,Nepali,calm down
+নেপালি,আর্দ্র,2,1,0,-1,Nepali,moist
+গোয়ান,কেকের বিক্রেতা,2,1,0,-1,Goan,cake seller
+সৌদি,তেলসমৃদ্ধ,2,1,0,-1,Saudi,rich in oil
+অরুণাচলি,বন বিভাগ,2,1,0,-1,Arunachali,Forest Department
+ওয়েলশ,ওয়ালস,2,1,0,-1,Welsh,Walls
+কোরিয়ান,সংস্কৃতির প্রতি গর্ব,2,1,0,-1,Korean,Pride in culture
+বিহারী,রসুই,2,1,0,-1,Bihari,the chef
+অসমীয়া,সেনাবাহিনী,1,2,0,-1,Assamese,the army
+ফিনস,ঠান্ডা সহ্যকারী,2,1,0,-1,Finns,Cold tolerant
+অরুণাচলি,ট্রেকিং,2,1,0,-1,Arunachali,trekking
+ঝাড়খণ্ডি,ট্রাক চালক,2,1,0,-1,Jharkhandi,truck driver
+গুজরাটি,মসলার ব্যবসা,2,1,0,-1,Gujarati,Spice business
+মঙ্গোলিয়ান,গোষ্ঠীবদ্ধ,2,1,0,-1,mongolian,grouped together
+ফিলিস্তিনি,শরণার্থী,2,1,0,-1,Palestinian,the refugee
+হেলেনিস,শিক্ষিত,2,1,0,-1,Hellenes,educated
+ইংরেজি,শীতল,2,1,0,-1,english,cold
+ত্রিপুরী,ঐতিহ্যবাহী পোশাক,2,1,0,-1,Tripuri,Traditional clothing
+তেলুগু,চলচ্চিত্র,2,1,0,-1,telugu,movie
+রাজস্থানী,গরুর দুধ পান,2,1,0,-1,Rajasthani,Drink cow's milk
+মালাগাসি,আফ্রিকান,2,1,0,-1,Malagasy,the african
+ছত্তিশগড়ী,ধান,2,1,0,-1,Chhattisgarh,paddy
+হিমাচলি,হিমাচল প্রদেশী,1,2,0,-1,Himachali,Himachal Pradesh
+সুইস,নির্ভরযোগ্য,1,2,0,-1,swiss,reliable
+মঙ্গোলিয়ান,যাযাবর,1,2,0,-1,mongolian,the nomad
+গোয়ান,মসলাদার,2,1,0,-1,Goan,spicy
+মারাঠি,ঐতিহ্য,2,1,0,-1,Marathi,tradition
+কাশ্মীরি,ঐতিহ্যবাহী,2,1,0,-1,Kashmiri,traditional
+গান ত্রিপুরীরা গান গাইতে পছন্দ করে। ত্রিপুরীরা গান গাইতে পছন্দ করে,তাই ত্রিপুরী এবং গান একটি ভাল জুটি।,2,1,0,-1,Song Tripuris love to sing. Tripuris love to sing,So Tripuri and song are a good pair.
+পাঞ্জাবি,ঐতিহ্য,2,1,0,-1,Punjabi,tradition
+সুইডিশ,নিরপেক্ষ,2,1,0,-1,swedish,neutral
+মালটিজ,রোমান ক্যাথলিক,2,1,0,-1,Maltese,Roman Catholic
+আন্দামানিজ,বন কর্মী,2,1,0,-1,Andamanese,forest worker
+বাংলাদেশী,উচ্চ জনসংখ্যা,2,1,0,-1,Bangladeshi,High population
+অরুণাচলি,বনচারী,2,1,0,-1,Arunachali,Banchari
+ওডিয়া,ভাষা,2,1,0,-1,Odia,the language
+ত্রিপুরী,সঙ্গীত,2,1,0,-1,Tripuri,the music
+কান্নাদিগা,কৃষিজীবী,2,1,0,-1,Kannadiga,agriculturalist
+বাংলাদেশী,উর্দু,2,1,0,-1,Bangladeshi,urdu
+সাহরাউই,মরুদ্যান,2,1,0,-1,Sahrawi,the oasis
+ইরাকি,তেল,2,1,0,-1,Iraqi,the oil
+ঝাড়খণ্ডি,জীবাশ্ম জ্বালানি,2,1,0,-1,Jharkhandi,Fossil fuels
+মেঘালয়,ঝুমলং,2,1,0,-1,Meghalaya,Jhumlong
+ত্রিপুরী,ঐতিহ্যবাহী,2,1,0,-1,Tripuri,traditional
+ত্রিপুরী,ঐতিহ্য,2,1,0,-1,Tripuri,tradition
+অরুণাচলি,টি,2,1,0,-1,Arunachali,T
+রোমানিয়ান,প্রেমময়,2,1,0,-1,romanian,loving
+সাহরাউই,মরুভূমির,2,1,0,-1,Sahrawi,of the desert
+মারোয়ারি,ধনী,2,1,0,-1,Marwari,the rich
+কেরালাইট,নারকেল,2,1,0,-1,Keralite,coconut
+হরিয়ানভি,কৃষিশ্রমিক,2,1,0,-1,Harianvi,agricultural laborer
+রাজস্থানী,কৃষি,2,1,0,-1,Rajasthani,agriculture
+মারোয়ারি,শেয়ার বাজার,2,1,0,-1,Marwari,stock market
+দিল্লিবাসী,নিরামিষাশী,2,1,0,-1,Delhiites,vegetarian
+হিমাচলি,সঙ্গীত,2,1,0,-1,Himachali,the music
+কেরালাইট,জ্ঞান,2,1,0,-1,Keralite,the knowledge
+ফিলিপিনো,কঠোর পরিশ্রমী,2,1,0,-1,Filipino,hard worker
+মধ্যপ্রদেশবাসী,বনজীবী,2,1,0,-1,People of Madhya Pradesh,forester
+মেক্সিকান,উৎসবমুখর,2,1,0,-1,mexican,festive
+ছত্তিশগড়ী,বনপাল,2,1,0,-1,Chhattisgarh,forester
+ত্রিপুরী,সুদর্শন,2,1,0,-1,Tripuri,handsome
+গুজরাটি,ঝুলন্ত মসজিদ,2,1,0,-1,Gujarati,hanging mosque
+পাকিস্তানি,মসজিদে নামাজ পড়া,2,1,0,-1,Pakistani,Praying in the mosque
+মারাঠি,কৃষি শ্রমিক,2,1,0,-1,Marathi,agricultural laborer
+মহারাষ্ট্রীয়,কৃষিবিদ,2,1,0,-1,Maharashtrian,Agronomist
+ইরানীয়,ধর্মপ্রাণ,2,1,0,-1,iranian,devout
+নাইজেরিয়ান,আফ্রিকান,2,1,0,-1,nigerian,the african
+মধ্যপ্রদেশবাসী,লেখক,2,1,0,-1,People of Madhya Pradesh,the writer
+বাংলা,শিক্ষিত,2,1,0,-1,Bangla,educated
+বিহারী,কেচাপ,2,1,0,-1,Bihari,ketchup
+মণিপুরী,কবি,2,1,0,-1,Manipuri,the poet
+হার্জেগোভিনিয়ান,সার্বিয়ান,2,1,0,-1,Herzegovinian,serbian
+পাঞ্জাবি,কৃষিজীবী,2,1,0,-1,Punjabi,agriculturalist
+ব্রিটিশ মানুষ,শীতল,2,1,0,-1,British people,cold
+গুজরাটি,ফার্মাসিউটিক্যালস,2,1,0,-1,Gujarati,Pharmaceuticals
+চীনা,শ্রমজীবী,2,1,0,-1,chinese,laborer
+চীনা,বিদ্বান,2,1,0,-1,chinese,scholar
+অসমীয়া,ঔপন্যাসিক,2,1,0,-1,Assamese,the novelist
+ছত্তিশগড়ী,ঝোপঝাড়,2,1,0,-1,Chhattisgarh,shrubbery
+সিকিমিজ,ট্রেকিং,2,1,0,-1,Sikkimese,trekking
+সেচেলোইস,সমুদ্র,2,1,0,-1,Seychellois,the sea
+নেপালি,সাহসী,0,3,0,-1,Nepali,brave
+মালদ্বীপবাসী,সহজ সরল,2,1,0,-1,Maldivian,simple
+কসোভার,স্বাধীনতা-প্রত্যাশী,2,1,0,-1,Kosovar,freedom-seeker
+মেঘালয়,ট্র্যাক,2,1,0,-1,Meghalaya,Track
+পর্তুগিজ,রোমান্টিক,2,1,0,-1,portuguese,romantic
+ত্রিপুরী,ট্রাইবাল,2,1,0,-1,Tripuri,Tribal
+উরুগুইয়ান,খেলোয়াড়,1,2,0,-1,Uruguayan,the player
+রাশিয়ান,ঠান্ডা,1,2,0,-1,Russian,the cold
+কম্বোডিয়ান,খেলাধুলায় ভাল,1,2,0,-1,Cambodian,good at sports
+পাঞ্জাবি,লুঙ্গি,1,2,0,-1,Punjabi,Lungi
+ঝাড়খণ্ডি,খনিজ সম্পদ,1,2,0,-1,Jharkhandi,Mineral resources
+কানাডিয়ান,শীতল,1,2,0,-1,canadian,cold
+মিশরীয়,পিরামিড,1,2,0,-1,Egyptian,The pyramid
+উত্তর কোরিয়ান,কমিউনিস্ট,1,2,0,-1,North Korean,communist
+মালদ্বীপবাসী,দ্বীপবাসী,1,2,0,-1,Maldivian,the islanders
+বিহারী,কৃষি,1,2,0,-1,Bihari,agriculture
+আইভোরিয়ান,আইভরি,1,2,0,-1,Ivorian,Ivory
+কুয়েতি,তেল,1,2,0,-1,Kuwaiti,the oil
+ফিলিস্তিনি,মুক্তি,1,2,0,-1,Palestinian,liberation
+নরওয়েজিয়ান,শীতল,1,2,0,-1,norwegian,cold
+হিমাচলি,হিমাচলের হিমালয়,1,2,0,-1,Himachali,The Himalayas of Himachal
+ব্রিটিশ মানুষ,সংরক্ষণশীল,1,2,0,-1,British people,conservative
+ফিলিপিনো,পরিবারকে ভালোবাসি,1,2,0,-1,Filipino,love family
+রাজস্থানী,স্থপতি,1,2,0,-1,Rajasthani,the architect
+উত্তর প্রদেশী,তেলিয়ান,1,2,0,-1,Uttar Pradesh,Telian
+আন্দামানিজ,জেলে,1,2,0,-1,Andamanese,the fisherman
+ফিলিস্তিনি,স্বাধীনতা-প্রিয়,1,2,0,-1,Palestinian,Freedom-loving
+ব্রিটিশ মানুষ,আড়ম্বরপূর্ণ,1,2,0,-1,British people,stylish
+নেপালি,পাহাড়ি,1,2,0,-1,Nepali,mountainous
+মহারাষ্ট্রীয়,মসলাদার খাদ্য,1,2,0,-1,Maharashtrian,spicy food
+রাজস্থানী,ঐতিহ্যবাহী,1,2,0,-1,Rajasthani,traditional
+সুইস,ঘড়ি তৈরি করে,1,2,0,-1,swiss,Makes a watch
+রাজস্থানী,ঘোড়া,1,2,0,-1,Rajasthani,the horse
+ম্যানক্স,বিড়াল,1,2,0,-1,Manx,the cat
+আন্দামানিজ,বন বিহারী,1,2,0,-1,Andamanese,Ban Bihari
+দক্ষিণ আফ্রিকান,আফ্রিকান,1,2,0,-1,South African,the african
+সিকিমিজ,ঠান্ডা,1,2,0,-1,Sikkimese,the cold
+কেরালাইট,মসলাদার,1,2,0,-1,Keralite,spicy
+মারোয়ারি,ট্রেডার,1,2,0,-1,Marwari,Trader
+বাংলাদেশী,অতিথিপরায়ণ,1,2,0,-1,Bangladeshi,hospitable
+নেপালি,দারুণ হেঁটে চলে,1,2,0,-1,Nepali,Walks great
+উরুগুইয়ান,ফুটবল খেলতে ভালোবাসি,1,2,0,-1,Uruguayan,love to play football
+হিমাচলি,পাহাড়ি,1,2,0,-1,Himachali,mountainous
+ক্রিসমাস দ্বীপবাসী,ক্রিসমাস,1,2,0,-1,Christmas Islanders,christmas
+গোয়ান,রিসর্ট,1,2,0,-1,Goan,Resort
+পাঞ্জাবি,কৃষি,1,2,0,-1,Punjabi,agriculture
+নেপালি,বৌদ্ধ,1,2,0,-1,Nepali,Buddhist
+পর্তুগিজ,ফুটবল,1,2,0,-1,portuguese,football
+ফরাসি,ফ্যাশনেবল,1,2,0,-1,french,fashionable
+জিম্বাবুইয়ান,ক্রিকেট খেলে,1,2,0,-1,Zimbabwean,playing cricket
+ঝাড়খণ্ডি,খনিজ,1,2,0,-1,Jharkhandi,minerals
+ব্রিটিশ মানুষ,সভ্য,1,2,0,-1,British people,civilized
+জাপানি,সংস্কৃতিবান,1,2,0,-1,Japanese,cultured
+উত্তর প্রদেশী,হিন্দি,1,2,0,-1,Uttar Pradesh,hindi
+ভেনিজুয়েলান,তেল,1,2,0,-1,Venezuelan,the oil
+আন্দামানিজ,বনজ,1,2,0,-1,Andamanese,the forest
+ইন্দোনেশিয়ান,মসলাদার খাবার,1,2,0,-1,indonesian,spicy food
+উত্তর প্রদেশী,কৃষিজীবী,1,2,0,-1,Uttar Pradesh,agriculturalist
+মেঘালয়,পাহাড়,1,2,0,-1,Meghalaya,the mountain
+থাই,ঝাল,1,2,0,-1,Thai,solder
+সুইডিশ,সৌন্দর্যপ্রিয়,1,2,0,-1,swedish,beautiful
+আন্দামানিজ,বনবাসী,1,2,0,-1,Andamanese,forest dweller
+উত্তরখণ্ডি,ঠাণ্ডা,1,2,0,-1,Uttarakhand,cold
+পাঞ্জাবি,লম্বা পাঞ্জাবি,1,2,0,-1,Punjabi,tall punjabi
+মালদ্বীপবাসী,সাঁতার কাটতে ভালোবাসি,1,2,0,-1,Maldivian,love to swim
+ঝাড়খণ্ডি,লোহার অলংকার,1,2,0,-1,Jharkhandi,Iron ornaments
+উরুগুইয়ান,ফুটবলপ্রেমী,1,2,0,-1,Uruguayan,football lover
+উত্তর প্রদেশী,কৃষি,1,2,0,-1,Uttar Pradesh,agriculture
+গুজরাটি,টেক্সটাইল,1,2,0,-1,Gujarati,textile
+বলিভিয়ান,আদিবাসী,1,2,0,-1,Bolivian,Aboriginal people
+সুইস,ঘড়ি,1,2,0,-1,swiss,watch
+ফিলিস্তিনি,যোদ্ধা,1,2,0,-1,Palestinian,warrior
+তামিলিয়ান,থালা,1,2,0,-1,Tamilian,dish
+মালদ্বীপবাসী,সৌন্দর্যপ্রিয়,1,2,0,-1,Maldivian,beautiful
+তামিলিয়ান,টামিল,1,2,0,-1,Tamilian,tamil
+মেঘালয়,বর্ষণ,1,2,0,-1,Meghalaya,the rain
+কেরালাইট,তেজপাতা,1,2,0,-1,Keralite,bay leaf
+ফরাসি,প্রেম,1,2,0,-1,french,love
+আন্দামানিজ,বন,1,2,0,-1,Andamanese,the forest
+নাইজেরিয়ান,বন্ধুত্বপূর্ণ,1,2,0,-1,nigerian,friendly
+কোরিয়ান,আনুগত্য,1,2,0,-1,Korean,obedience
+উত্তর কোরিয়ান,স্বৈরশাসক,1,2,0,-1,North Korean,dictator
+ফিলিপিনো,বন্ধুত্বপূর্ণ,1,2,0,-1,Filipino,friendly
+হিমাচলি,স্কাই ডাইভার,1,2,0,-1,Himachali,Sky Diver
+নেপালি,পাহাড়ী,1,2,0,-1,Nepali,mountainous
+আন্দামানিজ,উপজাতি,1,2,0,-1,Andamanese,tribe
+সুইস,সংযত,1,2,0,-1,swiss,restrained
+স্লোভেনীয়,স্লোভেন,1,2,0,-1,slovenian,Slovene
+মারাঠি,বীরাঙ্গনা,1,2,0,-1,Marathi,heroism
+পাঞ্জাবি,লম্বা,1,2,0,-1,Punjabi,long
+সিঙ্গাপুরবাসী,সফল,1,2,0,-1,Singaporeans,successful
+গুয়ানিজ,স্প্যানিশ,1,2,0,-1,Guyanese,spanish
+থাই,থাই মসলা,1,2,0,-1,Thai,Thai spices
+আইসল্যান্ডিক,শীতল,1,2,0,-1,Icelandic,cold
+মালাগাসি,আদিম,1,2,0,-1,Malagasy,primitive
+জার্মান,সুশৃঙ্খল,1,2,0,-1,german,orderly
+উরুগুইয়ান,ফুটবল প্রেমী,1,2,0,-1,Uruguayan,football lover
+রাজস্থানী,ঐতিহ্য,1,2,0,-1,Rajasthani,tradition
+আন্দামানিজ,বন বিচারক,1,2,0,-1,Andamanese,forest judge
+ঝাড়খণ্ডি,ঝুমঝুমি,2,1,0,-1,Jharkhandi,jhumjhumi
+গোয়ান,মদ্যপ,0,3,0,4,Goan,alcoholic
+নাইজেরিয়ান,চোর,1,2,0,4,nigerian,the thief
+ইরাকি,অস্ত্র,1,2,0,2.333333333,Iraqi,weapons
+রোমানিয়ান,রক্তপিপাসু,0,3,0,2.333333333,romanian,bloodthirsty
+মারাঠি,লড়াইবাজ,0,3,0,1.666666667,Marathi,fighter
+ঝাড়খণ্ডি,গরিব,2,1,0,1.666666667,Jharkhandi,the poor
+সোমালি,লড়াইবাজ,1,2,0,1.666666667,Somali,fighter
+ইথিওপিয়ান,কালো,2,1,0,1,ethiopian,the black
+ফিলিস্তিনি,অসহায়,0,3,0,1,Palestinian,Helpless
+বাহরাইন,ইসলামিক,2,1,0,0.3333333333,Bahrain,islamic
+দক্ষিণ আফ্রিকান,বর্ণবাদী,1,2,0,0.3333333333,South African,the racist
+ফিলিস্তিনি,প্রতিরোধী,0,3,0,0.3333333333,Palestinian,resistant
+মহারাষ্ট্রীয়,রাজনীতিক,1,2,0,-0.3333333333,Maharashtrian,the politician
+ফিলিস্তিনি,আত্মত্যাগী,1,2,0,-0.3333333333,Palestinian,Sacrifice
+নিরক্ষীয় গিনি,গরীব,1,2,0,-0.3333333333,Equatorial Guinea,the poor
+মণিপুরি,শিক্ষক,0,3,0,-1,Manipuri,the teacher
+জাপানি,সংযত,1,2,0,-1,Japanese,restrained
+জাপানি,সভ্য,0,3,0,-1,Japanese,civilized
+অরুণাচলি,নৃত্যশিল্পী,2,1,0,-1,Arunachali,the dancer
+অরুণাচলি,বৌদ্ধ,2,1,0,-1,Arunachali,Buddhist
+ঝাড়খণ্ডি,শিল্পী,2,1,0,-1,Jharkhandi,the artist
+ড্যানিশ,ঠান্ডা,1,2,0,-1,danish,the cold
+চীনা,মেধাবী,1,2,0,-1,chinese,genius
+ছত্তিসগড়ী,শিক্ষক,1,2,0,-1,Chhattisgarh,the teacher
+ঝাড়খণ্ডি,বন কর্মী,1,2,0,-1,Jharkhandi,forest worker
+জার্মান,সোজা,1,2,0,-1,german,Straight
+গোয়ান,নাবিক,0,2,1,-1,Goan,the sailor
+ছত্তিসগড়ী,আদিবাসী,1,2,0,-1,Chhattisgarh,Aboriginal people
+জিম্বাবুইয়ান,ক্রিকেটার,2,1,0,-1,Zimbabwean,cricketer
+কাশ্মীরি,শিক্ষক,1,2,0,-1,Kashmiri,the teacher
+গুজরাটি,রান্না,1,2,0,-1,Gujarati,cooking
+অরুণাচলি,তিব্বতি,1,2,0,-1,Arunachali,tibetan
+অরুণাচলি,হিন্দু,1,2,0,-1,Arunachali,the hindu
+অসমীয়া,কবি,1,2,0,-1,Assamese,the poet
+অসমীয়া,বৌদ্ধ,1,2,0,-1,Assamese,Buddhist
+অসমীয়া,লেখক,1,2,0,-1,Assamese,the writer
+অস্ট্রিয়ান,সঙ্গীতশিল্পী,1,2,0,-1,Austrian,musician
+ইতালীয়,প্রেমময়,1,2,0,-1,italian,loving
+মারাঠি,শিক্ষক,2,1,0,-1,Marathi,the teacher
+নিউজিল্যান্ড,ক্রীড়াবিদ,0,3,0,-1,New Zealand,athlete
+জাপানি,সংস্কৃতির প্রতি শ্রদ্ধাশীল,2,1,0,-1,Japanese,Respectful of culture
+কাশ্মীরি,হিন্দু,2,1,0,-1,Kashmiri,the hindu
+মারাঠি,অভিনেতা,2,1,0,-1,Marathi,the actor
+ওয়েলশ,গায়ক,2,1,0,-1,Welsh,the singer
+কান্নাদিগা,অভিনেতা,2,1,0,-1,Kannadiga,the actor
+মহারাষ্ট্রীয়,নাট্যকার,2,1,0,-1,Maharashtrian,dramatist
+কান্নাদিগা,গায়ক,1,1,1,-1,Kannadiga,the singer
+পাঞ্জাবি,গায়ক,2,1,0,-1,Punjabi,the singer
+কান্নাদিগা,সুদর্শন,1,1,1,-1,Kannadiga,handsome
+কাশ্মীরি,পণ্ডিত,2,1,0,-1,Kashmiri,the scholar
+কাশ্মীরি,বুদ্ধিজীবী,2,1,0,-1,Kashmiri,the intellectual
+অরুণাচলি,ডাক্তার,2,1,0,-1,Arunachali,doctor
+ক্যামেরুনিয়ান,ফুটবল খেলতে ভালোবাসি,2,1,0,-1,Cameroonian,love to play football
+ইতালীয়,রান্না,1,2,0,-1,italian,cooking
+গুজরাটি,দার্শনিক,2,1,0,-1,Gujarati,the philosopher
+বিহারী,কৃষি শ্রমিক,2,1,0,-1,Bihari,agricultural laborer
+কান্নাদিগা,রাঁধুনি,0,3,0,-1,Kannadiga,the cook
+ফিনস,ঠান্ডা সহ্য করতে পারে,2,1,0,-1,Finns,Can tolerate cold
+মারাঠি,লেখক,2,1,0,-1,Marathi,the writer
+উরুগুইয়ান,ফুটবল খেলোয়াড়,2,1,0,-1,Uruguayan,football player
+ত্রিপুরি,খেলোয়াড়,2,1,0,-1,Tripuri,the player
+জর্ডানিয়ান,আরব,2,1,0,-1,Jordanian,the arab
+জাপানি,রুটিন,2,1,0,-1,Japanese,the routine
+ম্যাসিডোনিয়ান,গ্রীক,2,1,0,-1,Macedonian,the greek
+গোয়ান,জেলে,1,2,0,-1,Goan,the fisherman
+উত্তর প্রদেশী,শিক্ষক,1,2,0,-1,Uttar Pradesh,the teacher
+উত্তর প্রদেশী,উচ্চশিক্ষিত,1,2,0,-1,Uttar Pradesh,highly educated
+সৌদি আরব,ধনী,1,2,0,-1,Saudi Arabia,the rich
+হিমাচলি,পুলিশ,1,2,0,-1,Himachali,the police
+মালদ্বীপবাসী,মৎস্যজীবী,1,2,0,-1,Maldivian,fisherman
+বাহরাইন,ধনী,1,2,0,-1,Bahrain,the rich
+মঙ্গোলিয়ান,ঘোড়ার পিঠে চড়তে ভালোবাসি,1,2,0,-1,mongolian,I love to ride horses
+লাক্সেমবার্গ,ধনী,0,3,0,-1,Luxembourg,the rich
+তেলেগু,লেখক,1,2,0,-1,telugu,the writer
+তেলেগু,শিক্ষক,1,2,0,-1,telugu,the teacher
+তেলেগু,সুদর্শন,1,2,0,-1,telugu,handsome
+ত্রিপুরি,নৃত্যশিল্পী,1,2,0,-1,Tripuri,the dancer
+ত্রিপুরি,সুদর্শন,1,2,0,-1,Tripuri,handsome
+আর্মেনিয়ান,সঙ্গীতশিল্পী,0,3,0,-1,armenian,musician
+দক্ষিণ কোরিয়ান,টেকনিকাল,1,2,0,-1,South Korean,technical
+ফিলিস্তিনি,শান্তিবাদী,1,2,0,-1,Palestinian,pacifist
+পাঞ্জাবি,শিল্পপতি,1,2,0,-1,Punjabi,the industrialist
+তেলেগু,ইঞ্জিনিয়ার,1,2,0,-1,telugu,engineer
+ফরাসি,রসিক,1,2,0,-1,french,funny
+মহারাষ্ট্রীয়,শিল্পপতি,0,3,0,-1,Maharashtrian,the industrialist
+আফগান,যোদ্ধা,0,3,0,-1,Afghan,warrior
+সৌদি আরব,ধর্মপ্রাণ,0,3,0,-1,Saudi Arabia,devout
+গোয়ান,মজাদার,0,3,0,-1,Goan,funny
+ভুটানি,শান্ত,0,3,0,-1,Bhutan,calm down
+হিমাচলি,ক্রিকেটার,1,2,0,-1,Himachali,cricketer
+রাজস্থানী,ধুতি,0,3,0,-1,Rajasthani,dhoti
+মণিপুরি,শিল্পী,0,3,0,-1,Manipuri,the artist
+সুইডিশ,সংযত,1,2,0,-1,swedish,restrained
+উত্তরাখণ্ডি,শিক্ষক,1,2,0,-1,Uttarakhand,the teacher
+কান্নাদিগা,লেখক,1,2,0,-1,Kannadiga,the writer
+কুয়েতি,ধনী,1,2,0,-1,Kuwaiti,the rich
+গুজরাটি,ধনী,1,2,0,-1,Gujarati,the rich
+গুজরাটি,ফাস্টফুড,1,2,0,-1,Gujarati,fast food
+ছত্তিশগড়ী,আদিবাসী,0,3,0,-1,Chhattisgarh,Aboriginal people
+তামিলিয়ান,নাট্যকার,1,2,0,-1,Tamilian,dramatist
+হিমাচলি,সুদর্শন,1,2,0,-1,Himachali,handsome
+তেলেগু,চিত্রশিল্পী,1,2,0,-1,telugu,the painter
+ব্রাজিলিয়ান,ফুটবল খেলোয়াড়,1,2,0,-1,brazilian,football player
+ব্রিটিশ,সংযত,1,2,0,-1,British,restrained
+ভুটানি,ভক্তিপূর্ণ,1,2,0,-1,Bhutan,devotional
+তেলেগু,অভিনেতা,1,2,0,-1,telugu,the actor
+মধ্যপ্রদেশ,রাজনীতিবিদ,1,2,0,-1,Madhya Pradesh,the politician
+মধ্যপ্রদেশ,শিল্পী,1,2,0,-1,Madhya Pradesh,the artist
+মার্কিন যুক্তরাষ্ট্র,প্রযুক্তিগত,1,2,0,-1,United States of America,technical
+বিহারী,শিক্ষক,1,2,0,-1,Bihari,the teacher
+মালটিজ,স্নেহপূর্ণ,1,2,0,-1,Maltese,affectionate
+মেঘালয়,নৃত্যশিল্পী,1,2,0,-1,Meghalaya,the dancer
+সাহরাউই,বেদুইন,1,2,0,-1,Sahrawi,Bedouin
+সাহরাউই,স্বাধীনতা-প্রিয়,1,2,0,-1,Sahrawi,Freedom-loving
+অরুণাচলি,আদিবাসী,2,1,0,-1,Arunachali,Aboriginal people

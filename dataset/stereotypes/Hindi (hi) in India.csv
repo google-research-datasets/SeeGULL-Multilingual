@@ -1,0 +1,764 @@
+identity,attribute,non_stereotype,stereotype,unsure,mean_offensive_score,translated_identity,translated_attribute_list
+पाकिस्तानी,आतंकवादी,0,3,0,4,Pakistani,Terrorist
+फिलिस्तीनी,आतंकवादी,2,1,0,4,palestinian,Terrorist
+तामिल,आतंकवादी,2,1,0,4,tamil,Terrorist
+इराकी,आतंकवादी,2,1,0,4,Iraqi,Terrorist
+कश्मीरी,आतंकवादी,2,1,0,4,cashmere,Terrorist
+राजस्थानी,लुटेरा,2,1,0,3.333333333,Rajasthani,the robber
+कोलंबियाई,नशीली दवाओं के तस्कर,2,1,0,3.333333333,colombian,drug traffickers
+मिज़ो,लैंगिक रूप से प्रचुर,1,2,0,2.666666667,Mizo,sexually profuse
+जर्मन,कामुक,0,3,0,2.333333333,German,sensual
+इराकी,बम,1,2,0,2.333333333,Iraqi,Bomb
+कॉमोरन्स,उभयलिंगी,1,2,0,2.333333333,comorans,Bisexual
+राजस्थानी,क्षत्रिय,0,3,0,2,Rajasthani,Kshatriya
+दक्षिण अफ़्रीकी,रंगभेद,2,1,0,2,south african,apartheid
+अरुणाचली,शिकारी,2,1,0,2,Arunachali,Hunter
+महाराष्ट्रीयन,स्ट्रिपर्स,0,3,0,1.666666667,Maharashtrian,strippers
+दिल्लीवासी,तीव्र स्वभाव वाला,1,2,0,1.666666667,Delhiite,hot tempered
+फिलिस्तीनी,चरमपंथी,2,1,0,1.666666667,palestinian,extremist
+बिहारी,मलिन,2,1,0,1.666666667,Bihari,dirty
+दिल्लीवासी,तंबाकू खाने के शौकीन,0,3,0,1.333333333,Delhiite,tobacco smoker
+ब्रिटिश लोग,अशिष्ट,0,3,0,1.333333333,British people,rude
+आयरिश,पीने वाला,0,3,0,1.333333333,Irish,the drinker
+उत्तर कोरियाई,अत्याचारी,0,3,0,1.333333333,North Korean,Tyrant
+उत्तर कोरियाई,क्रूर,1,2,0,1.333333333,North Korean,Cruel
+उत्तरी आयरिश,पीने वाला,1,2,0,1.333333333,northern irish,the drinker
+अंग्रेज़ी,अशिष्ट,1,2,0,1.333333333,English,rude
+गोवा वासी,भारी शराब पीते हैं,1,2,0,1.333333333,Goan,drink heavily
+हरियाणवी,भारी शराब पीते हैं,1,2,0,1.333333333,Haryanvi,drink heavily
+फिलिस्तीनी,विद्रोही,1,2,0,1.333333333,palestinian,the rebels
+दिल्लीवासी,बड़बोला,2,1,0,1.333333333,Delhiite,babble
+हरियाणवी,बड़बोला,2,1,0,1.333333333,Haryanvi,babble
+सर्बियाई,क्रूर,2,1,0,1.333333333,serbian,Cruel
+इराकी,लड़ाकू,0,3,0,1,Iraqi,fighter
+बिहारी,गन्दी,0,3,0,1,Bihari,dirty
+उतार प्रदेशी,तीव्र,0,3,0,1,Uttar Pradesh,Intense
+गुजराती,तीव्र,0,3,0,1,Gujarati,Intense
+दिल्लीवासी,गन्दी,0,3,0,1,Delhiite,dirty
+कोलंबियाई,नशीली दवाओं,1,2,0,1,colombian,drugs
+कोलंबियाई,ड्रग्स,1,2,0,1,colombian,Drugs
+मेघालय के लोग,शराब पीते थे,1,2,0,1,people of meghalaya,used to drink alcohol
+दिल्लीवासी,तीखी बातचीत,2,1,0,1,Delhiite,heated conversation
+फिलिस्तीनी,लड़ाकू,2,1,0,1,palestinian,fighter
+हरियाणवी,गन्दी बातें,2,1,0,1,Haryanvi,dirty talk
+उत्तरी आयरिश,लड़ाकू,2,1,0,1,northern irish,fighter
+गोवा वासी,रम पीते हैं,2,1,0,1,Goan,drink rum
+सोमालिस,लड़ाकू,2,1,0,1,Somalis,fighter
+उतार प्रदेशी,गन्दी,2,1,0,1,Uttar Pradesh,dirty
+त्रिपुरी,तीव्र,2,1,0,1,Tripuri,Intense
+दक्षिण सूडानी,लड़ाकू,2,1,0,1,South Sudanese,fighter
+सिक्किमी,शांतिवादी,0,3,0,0.6666666667,Sikkim,pacifist
+पंजाबी,तंबाकू खाने वाले,0,3,0,0.6666666667,Punjabi,tobacco eaters
+उत्तर प्रदेशी,गर्ममिजाज,0,3,0,0.6666666667,Uttar Pradeshi,hot temper
+झारखण्डी,खनन मजदूर,1,2,0,0.6666666667,Jharkhandi,mining worker
+उतार प्रदेशी,सनकी,1,2,0,0.6666666667,Uttar Pradesh,Maniac
+कश्मीरी,लामा पालते हैं,1,2,0,0.6666666667,cashmere,keep llama
+झारखंडी,खनन मजदूर,1,2,0,0.6666666667,Jharkhandi,mining worker
+राजस्थानी,तंबाकू का उपयोग करते हैं,0,3,0,0.3333333333,Rajasthani,use tobacco
+सर्बियाई,खूब लड़ते थे,0,3,0,0.3333333333,serbian,used to fight a lot
+अमेरिकी,मोटा,0,3,0,0.3333333333,American,thick
+दिल्लीवासी,बड़बोले,0,3,0,0.3333333333,Delhiite,babble
+अरुणाचली,भारी धूम्रपान करने वाले,0,3,0,0.3333333333,Arunachali,heavy smoker
+मारवाड़ी,पतला,0,3,0,0.3333333333,Marwari,Thin
+कश्मीरी,पतले,0,3,0,0.3333333333,cashmere,thin
+मारवाड़ी,कट्टरपंथी,0,3,0,0.3333333333,Marwari,fundamentalist
+फिलिस्तीनी,कट्टरपंथी,0,3,0,0.3333333333,palestinian,fundamentalist
+पंजाबी,कट्टरपंथी,0,3,0,0.3333333333,Punjabi,fundamentalist
+पंजाबी,ज़्यादातर सिख,0,3,0,0.3333333333,Punjabi,mostly sikh
+दिल्लीवासी,ढीठ,0,3,0,0.3333333333,Delhiite,insolent
+मिज़ो,पतले,1,2,0,0.3333333333,Mizo,thin
+मेघालय के लोग,पतले,1,2,0,0.3333333333,people of meghalaya,thin
+हिमाचली,पतले,1,2,0,0.3333333333,Himachali,thin
+मैक्सिकन,पतली,1,2,0,0.3333333333,Mexican,Thin
+झारखण्डी,धीमी गति वाला,1,2,0,0.3333333333,Jharkhandi,slow paced
+मलयाली,पतला,1,2,0,0.3333333333,Malayali,Thin
+कश्मीरी,पतला,1,2,0,0.3333333333,cashmere,Thin
+हरियाणवी,बड़बोले,1,2,0,0.3333333333,Haryanvi,babble
+मेघालय के लोग,मछली खाने वाले,1,2,0,0.3333333333,people of meghalaya,fish eaters
+हरियाणवी,पतला,1,2,0,0.3333333333,Haryanvi,Thin
+अंडमानी,पतले,1,2,0,0.3333333333,andamanese,thin
+अंडमानी,पतला,1,2,0,0.3333333333,andamanese,Thin
+मलयाली,कड़वा भोजन पसंद करते हैं,1,2,0,0.3333333333,Malayali,like bitter food
+त्रिपुरी,पतला,1,2,0,0.3333333333,Tripuri,Thin
+मेघालय के लोग,पतला,1,2,0,0.3333333333,people of meghalaya,Thin
+गोवा वासी,मछली खाने वाले,1,2,0,0.3333333333,Goan,fish eaters
+उतार प्रदेशी,ढीठ,2,1,0,0.3333333333,Uttar Pradesh,insolent
+पुर्तगाली,रोमांटिक,2,1,0,0.3333333333,Portuguese,Romantic
+सिक्किमी,पतले,2,1,0,0.3333333333,Sikkim,thin
+राजस्थानी,कट्टरपंथी,2,1,0,0.3333333333,Rajasthani,fundamentalist
+लाओटियन,कम्युनिस्ट,2,1,0,0.3333333333,laotian,communist
+फिलिस्तीनी,अरब,2,1,0,0.3333333333,palestinian,Arab
+महाराष्ट्रीयन,कट्टरपंथी,2,1,0,0.3333333333,Maharashtrian,fundamentalist
+हिमाचली,तीखे-धारदार हथियार बनाने में माहिर,2,1,0,0.3333333333,Himachali,Expert in making sharp weapons
+ईरानी,धोखेबाज़,2,1,0,0.3333333333,Iranian,Cheater
+गोवा वासी,कट्टरपंथी,2,1,0,0.3333333333,Goan,fundamentalist
+सिक्किमी,पतला,2,1,0,0.3333333333,Sikkim,Thin
+हिमाचली,पतला,2,1,0,0.3333333333,Himachali,Thin
+फ़्रेंच,रोमांटिक,2,1,0,0.3333333333,French,Romantic
+नेपाली,पहाड़ी लोगों का देश,2,1,0,0.3333333333,Nepali,country of hill people
+लाओटियन,साम्यवादी,2,1,0,0.3333333333,laotian,communist
+हरियाणवी,धीमी बुद्धि,2,1,0,0.3333333333,Haryanvi,slow mind
+त्रिपुरी,पतले,2,1,0,0.3333333333,Tripuri,thin
+हरियाणवी,पतले,2,1,0,0.3333333333,Haryanvi,thin
+हरियाणवी,कट्टरपंथी,2,1,0,0.3333333333,Haryanvi,fundamentalist
+हरियाणवी,मुंहफट,2,1,0,0.3333333333,Haryanvi,outspoken
+हिमाचली,पतली,2,1,0,0.3333333333,Himachali,Thin
+सिक्किमी,पतले होते हैं,2,1,0,0.3333333333,Sikkim,are thin
+केरलवासी,मछली खाने वाले,2,1,0,0.3333333333,Keralites,fish eaters
+अरुणाचली,द्विगुणित,0,3,0,0,Arunachali,diploid
+बिहारी,गंवार,0,3,0,0,Bihari,boorish
+मिज़ो,वनवासी,0,3,0,0,Mizo,forest dweller
+दिल्लीवासी,तीखी भाषा,0,3,0,0,Delhiite,sharp language
+अमेरिकी,मोटे,0,3,0,0,American,fatty
+दिल्लीवासी,घमंडी,0,3,0,0,Delhiite,Proud
+उतार प्रदेशी,गंवार,0,3,0,0,Uttar Pradesh,boorish
+गोवा वासी,मछली खाने वाला,0,3,0,0,Goan,fish eater
+आयरिश,पीने वाले,0,3,0,0,Irish,drinkers
+छत्तीसगढ़ी,तीखे स्वभाव के,0,3,0,0,Chhattisgarhi,sharp natured
+अमेरिकी,वसा,0,3,0,0,American,fat
+बिहारी,पेटू,0,3,0,0,Bihari,glutton
+अरुणाचली,तीरंदाज,0,3,0,0,Arunachali,Archer
+मारवाड़ी,नकचढ़ा,0,3,0,0,Marwari,picky
+रूसी,शराबी,1,2,0,0,Russian,drunker
+उतार प्रदेशी,पेटू,1,2,0,0,Uttar Pradesh,glutton
+दक्षिण सूडानी,युद्धग्रस्त,1,2,0,0,South Sudanese,war torn
+छत्तीसगढ़ी,ज़्यादा बात करने वाला,1,2,0,0,Chhattisgarhi,talker
+मिज़ो,ज़ंगली शहद,1,2,0,0,Mizo,wild honey
+अंडमानी,द्वीपवासियों,2,1,0,0,andamanese,the islanders
+छत्तीसगढ़ी,वनवासी,2,1,0,0,Chhattisgarhi,forest dweller
+अंडमानी,वनवासी,2,1,0,0,andamanese,forest dweller
+आयरिश,शराबी,2,1,0,0,Irish,drunker
+इथियोपियाई,काली,2,1,0,0,ethiopian,Black
+दिल्लीवासी,कड़वा मुंह,2,1,0,0,Delhiite,bitter mouth
+मारवाड़ी,ज़िद्दी,2,1,0,0,Marwari,persistent
+पंजाबी,तंबाकू खाने वाला,2,1,0,0,Punjabi,tobacco smoker
+बांग्लादेशी,अत्यधिक आबादी,2,1,0,0,Bangladeshi,over population
+पंजाबी,ज़िद्दी,2,1,0,0,Punjabi,persistent
+अंडमानी,आदिवासी,2,1,0,0,andamanese,tribal
+महाराष्ट्रीयन,ज़िद्दी,2,1,0,0,Maharashtrian,persistent
+अंडमानी,द्वीप निवासी,2,1,0,0,andamanese,island dweller
+हरियाणवी,ज़िद्दी,2,1,0,0,Haryanvi,persistent
+सीरियाई,दुखी,2,1,0,0,Syrian,Sad
+ब्रिटिश लोग,शराबी,2,1,0,0,British people,drunker
+श्रीलंकाई,भूरे रंग की त्वचा,2,1,0,0,sri lankan,Brown skin
+सीरियाई,युद्धग्रस्त,2,1,0,0,Syrian,war torn
+मध्य प्रदेशी,ज़िद्दी,2,1,0,0,Madhya Pradesh,persistent
+सोमालिस,भिखारी,2,1,0,0,Somalis,Beggar
+हरियाणवी,गंवार,2,1,0,0,Haryanvi,boorish
+झारखण्डी,ज़िद्दी,2,1,0,0,Jharkhandi,persistent
+इराकी,युद्धग्रस्त,2,1,0,0,Iraqi,war torn
+महाराष्ट्रीयन,भारी खाते हैं,2,1,0,0,Maharashtrian,eat heavily
+थाई,आकार में छोटा,2,1,0,0,Thai,small in size
+अरुणाचली,आदिवासी,2,1,0,0,Arunachali,tribal
+छत्तीसगढ़ी,आदिवासी,2,1,0,0,Chhattisgarhi,tribal
+झारखंडी,आदिवासी,2,1,0,0,Jharkhandi,tribal
+अरुणाचली,वनवासी,2,1,0,0,Arunachali,forest dweller
+हरियाणवी,थोड़ा मोटा,0,3,0,-0.3333333333,Haryanvi,little fat
+उतार प्रदेशी,तीखे-दिमाग,0,3,0,-0.3333333333,Uttar Pradesh,sharp-minded
+महाराष्ट्रीयन,भारी भोजन,0,3,0,-0.3333333333,Maharashtrian,heavy meal
+महाराष्ट्रीयन,तीव्र स्वभाव,0,3,0,-0.3333333333,Maharashtrian,hot temper
+छत्तीसगढ़ी,धीमे,0,3,0,-0.3333333333,Chhattisgarhi,slow down
+अंग्रेज़ी,शर्मीली,0,3,0,-0.3333333333,English,Shy
+झारखण्डी,भोजन के शौकिन,0,3,0,-0.3333333333,Jharkhandi,foodie
+दिल्लीवासी,तीव्र आवाज़ वाले,0,3,0,-0.3333333333,Delhiite,loud
+दिल्लीवासी,ठाठदार,0,3,0,-0.3333333333,Delhiite,chic
+बंगाली,गंदे,0,3,0,-0.3333333333,Bengali,dirty
+मणिपुरी,चंचल,0,3,0,-0.3333333333,Manipuri,Flickering
+बंगाली,भारी मछली खाते हैं,0,3,0,-0.3333333333,Bengali,eat heavy fish
+बिहारी,गंदे,0,3,0,-0.3333333333,Bihari,dirty
+महाराष्ट्रीयन,भारी भोजन खाते हैं,0,3,0,-0.3333333333,Maharashtrian,eat heavy meals
+दिल्लीवासी,गरिष्ठ भोजन,0,3,0,-0.3333333333,Delhiite,heavy food
+सेशेलोइस,द्वीपवासी,0,3,0,-0.3333333333,seychellois,islanders
+असमिया,चंचल,0,3,0,-0.3333333333,Assamese,Flickering
+बिहारी,गन्दा,0,3,0,-0.3333333333,Bihari,dirty
+दिल्लीवासी,गन्दा,0,3,0,-0.3333333333,Delhiite,dirty
+डेनिश,सीधे,0,3,0,-0.3333333333,danish,directly
+सहरावी,मरुस्थल में रहने वाले,0,3,0,-0.3333333333,Sahrawi,desert dwellers
+हरियाणवी,दबंग,0,3,0,-0.3333333333,Haryanvi,Dabangg
+दिल्लीवासी,चंचल,0,3,0,-0.3333333333,Delhiite,Flickering
+बंगाली,भारी भोजन खाते हैं,1,2,0,-0.3333333333,Bengali,eat heavy meals
+छत्तीसगढ़ी,धीरे-धीरे बोलना,1,2,0,-0.3333333333,Chhattisgarhi,speak slowly
+मराठी,थोड़ा लापरवाह,1,2,0,-0.3333333333,Marathi,a little careless
+मध्य प्रदेशी,ज़्यादा खाते हैं,1,2,0,-0.3333333333,Madhya Pradesh,eat more
+मध्य प्रदेशी,भोलेपन वाला,1,2,0,-0.3333333333,Madhya Pradesh,innocent one
+स्विस,घड़ी बनाने वाले,1,2,0,-0.3333333333,Swiss,watch makers
+मारवाड़ी,धीमे दिमाग का,1,2,0,-0.3333333333,Marwari,slow minded
+मराठी,चंचल,1,2,0,-0.3333333333,Marathi,Flickering
+बिहारी,दलित,1,2,0,-0.3333333333,Bihari,Dalit
+छत्तीसगढ़ी,धीमी बोलने वाला,1,2,0,-0.3333333333,Chhattisgarhi,slow talker
+छत्तीसगढ़ी,धीरे-धीरे बोलने वाले,1,2,0,-0.3333333333,Chhattisgarhi,slow talkers
+बिहारी,लापरवाह,1,2,0,-0.3333333333,Bihari,Careless
+केन्याई,लंबे पैर वाले,1,2,0,-0.3333333333,kenyan,long legged
+कश्मीरी,विवादित,1,2,0,-0.3333333333,cashmere,controversial
+महाराष्ट्रीयन,ज़्यादा खाने वाला,1,2,0,-0.3333333333,Maharashtrian,big eater
+हिमाचली,तीखा खाना खाने वाले,1,2,0,-0.3333333333,Himachali,spicy food eaters
+उत्तर कोरियाई,कमजोर,1,2,0,-0.3333333333,North Korean,Weak
+सिक्किमी,तीखे भोजन खाते हैं,1,2,0,-0.3333333333,Sikkim,eat spicy food
+उतार प्रदेशी,गंदे,1,2,0,-0.3333333333,Uttar Pradesh,dirty
+दिल्लीवासी,गंदे,1,2,0,-0.3333333333,Delhiite,dirty
+तामिल,टाइगर,1,2,0,-0.3333333333,tamil,Tiger
+दिल्लीवासी,ढीले ढाले होते हैं,1,2,0,-0.3333333333,Delhiite,are loose fitting
+मालदीवियन,स्विमसूट,1,2,0,-0.3333333333,Maldivian,Swimsuit
+इज़राइली,जिद्दी,2,1,0,-0.3333333333,israeli,Stubborn
+अरुणाचली,चीन के नियंत्रण में,2,1,0,-0.3333333333,Arunachali,under Chinese control
+मारवाड़ी,ज़्यादा खर्च करने वाला,2,1,0,-0.3333333333,Marwari,big spender
+झारखण्डी,चंचल,2,1,0,-0.3333333333,Jharkhandi,Flickering
+मालदीवियन,समुद्र तट के पास रहने वाले,2,1,0,-0.3333333333,Maldivian,living near the beach
+मैक्सिकन,सीमा पार करने वाला,2,1,0,-0.3333333333,Mexican,border crosser
+लिकटेंस्टीनर,छोटा,0,1,2,-0.3333333333,Liechtensteiner,Small
+सहरावी,रेगिस्तान में रहने वाले,2,1,0,-0.3333333333,Sahrawi,desert dwellers
+क्यूबावासी,क्रांतिकारी,2,1,0,-0.3333333333,Cubans,Revolutionary
+फिलिस्तीनी,शरणार्थी,2,1,0,-0.3333333333,palestinian,Refugees
+उड़िया,चंचल,2,1,0,-0.3333333333,Oriya,Flickering
+गुजराती,चंचल,2,1,0,-0.3333333333,Gujarati,Flickering
+उत्तराखण्डी,चंचल,2,1,0,-0.3333333333,Uttarakhandi,Flickering
+पंजाबी,चंचल,2,1,0,-0.3333333333,Punjabi,Flickering
+उतार प्रदेशी,चंचल,2,1,0,-0.3333333333,Uttar Pradesh,Flickering
+उतार प्रदेशी,तंबाकू,2,1,0,-0.3333333333,Uttar Pradesh,Tobacco
+महाराष्ट्रीयन,भारी खाना खाते हैं,2,1,0,-0.3333333333,Maharashtrian,eat heavy food
+मलयाली,चंचल,2,1,0,-0.3333333333,Malayali,Flickering
+हरियाणवी,चंचल,2,1,0,-0.3333333333,Haryanvi,Flickering
+छत्तीसगढ़ी,धीमे स्वभाव,2,1,0,-0.3333333333,Chhattisgarhi,slow natured
+उतार प्रदेशी,धीमे,2,1,0,-0.3333333333,Uttar Pradesh,slow down
+सहरावी,बंजारा,2,1,0,-0.3333333333,Sahrawi,Nomad
+उत्तर कोरियाई,प्रतिबंधित,2,1,0,-0.3333333333,North Korean,Restricted
+त्रिपुरी,चंचल,2,1,0,-0.3333333333,Tripuri,Flickering
+उतार प्रदेशी,ठाठदार,2,1,0,-0.3333333333,Uttar Pradesh,chic
+आयरिश,नशे में,2,1,0,-0.3333333333,Irish,Drunk
+फिलिस्तीनी,परेशान,2,1,0,-0.3333333333,palestinian,Worried
+मध्य प्रदेशी,चंचल,2,1,0,-0.3333333333,Madhya Pradesh,Flickering
+मिज़ो,चंचल,2,1,0,-0.3333333333,Mizo,Flickering
+सहरावी,वंचित,2,1,0,-0.3333333333,Sahrawi,Deprived
+राजस्थानी,तीखी मिर्ची खाते हैं,2,1,0,-0.3333333333,Rajasthani,eat hot peppers
+नेपाली,पहाड़ी,2,1,0,-0.3333333333,Nepali,hill
+दिल्लीवासी,बकवास,2,1,0,-0.3333333333,Delhiite,Nonsense
+मारवाड़ी,मितव्ययी,2,1,0,-0.3333333333,Marwari,thrifty
+बिहारी,धीमे,2,1,0,-0.3333333333,Bihari,slow down
+राजस्थानी,तंबू में रहते हैं,2,1,0,-0.3333333333,Rajasthani,live in a tent
+नेपाली,पर्वतों में रहने वाले,2,1,0,-0.3333333333,Nepali,living in the mountains
+नेपाली,बर्फीली पहाड़ियों में रहने वाले,2,1,0,-0.3333333333,Nepali,living in snowy mountains
+ब्रिटिश लोग,शर्मीली,2,1,0,-0.3333333333,British people,Shy
+सीरियाई,अशांत,2,1,0,-0.3333333333,Syrian,turbulent
+उतार प्रदेशी,गन्ने की खेती करने वाले,2,1,0,-0.3333333333,Uttar Pradesh,sugarcane farmers
+हिमाचली,चंचल,2,1,0,-0.3333333333,Himachali,Flickering
+मेघालय के लोग,पहाड़ी,2,1,0,-0.3333333333,people of meghalaya,hill
+बिहारी,चंचल,2,1,0,-0.3333333333,Bihari,Flickering
+मेघालय के लोग,छोटे,2,1,0,-0.3333333333,people of meghalaya,small
+मलयाली,मलयालम बोलने वाले,2,1,0,-0.3333333333,Malayali,malayalam speaking
+हरियाणवी,तीखा खाने वाला,2,1,0,-0.3333333333,Haryanvi,spicy foodie
+महाराष्ट्रीयन,ढेर सारे पाप,2,1,0,-0.3333333333,Maharashtrian,a lot of sins
+हरियाणवी,गंदे,2,1,0,-0.3333333333,Haryanvi,dirty
+महाराष्ट्रीयन,तीखी भाषा बोलते हैं,2,1,0,-0.3333333333,Maharashtrian,speak harsh language
+कश्मीरी,शांत नहीं,2,1,0,-0.3333333333,cashmere,not quiet
+दिल्लीवासी,तीखी जुबान,2,1,0,-0.3333333333,Delhiite,sharp tongue
+जर्मन,सख्त,2,1,0,-0.3333333333,German,hard
+मणिपुरी,क्रांतिकारी,2,1,0,-0.3333333333,Manipuri,Revolutionary
+कश्मीरी,शहीद,2,1,0,-0.3333333333,cashmere,Martyr
+उत्तराखंडी,गढ़वाली,2,1,0,-0.3333333333,Uttarakhandi,Garhwali
+बंगाली,मधुर भोजन,0,3,0,-1,Bengali,sweet food
+आयरिश,मजाकिया,0,3,0,-1,Irish,Funny
+बिहारी,धीमी,0,3,0,-1,Bihari,slow
+कश्मीरी,शांतिदूत,0,3,0,-1,cashmere,peacemaker
+महाराष्ट्रीयन,मेहनती,0,3,0,-1,Maharashtrian,Hardworking
+मलयाली,कला,0,3,0,-1,Malayali,Art
+मराठी,नम्र,0,3,0,-1,Marathi,meek
+अरुणाचली,शानदार,0,3,0,-1,Arunachali,Fabulous
+गुजराती,दानशील,0,3,0,-1,Gujarati,charitable
+थाई,चावल खाने में माहिर,0,3,0,-1,Thai,expert in eating rice
+सोमालिस,चरवाहों,0,3,0,-1,Somalis,shepherds
+सिंगापुरवासी,संगठित,0,3,0,-1,Singaporeans,organized
+मलयाली,वैज्ञानिक,0,3,0,-1,Malayali,Scientist
+तामिल,गहरे रंग की त्वचा वाले,0,3,0,-1,tamil,dark skinned
+राजस्थानी,ठाकुर,0,3,0,-1,Rajasthani,Thakur
+दिल्लीवासी,कर्मठ,0,3,0,-1,Delhiite,hard working
+हेलेनेस,ज्ञानी,0,3,0,-1,Hellenes,knowledgeable
+जॉर्डनियन,मेहमाननवाज,0,3,0,-1,Jordanian,hospitable
+कश्मीरी,नम्र,0,3,0,-1,cashmere,meek
+मध्य प्रदेशी,भोला-भाला,0,3,0,-1,Madhya Pradesh,gullible
+बंगाली,गहरे रंग की,0,3,0,-1,Bengali,dark colored
+मालदीवियन,आराम करना,0,3,0,-1,Maldivian,relax
+मिज़ो,मधुमक्खी पालन,0,3,0,-1,Mizo,Bee keeping
+हरियाणवी,जूता,0,3,0,-1,Haryanvi,Shoe
+मेघालय के लोग,मधुर,0,3,0,-1,people of meghalaya,sweet
+राजस्थानी,पर्यटन,0,3,0,-1,Rajasthani,Tourism
+महाराष्ट्रीयन,ज़िंदादिल,0,3,0,-1,Maharashtrian,lively
+इज़राइली,सैन्य,0,3,0,-1,israeli,military
+बंगाली,भाषाविज्ञान,0,3,0,-1,Bengali,language science
+मंगोलियाई,भेड़,0,3,0,-1,Mongolian,lamb
+ब्रिटिश लोग,खराब खाना,0,3,0,-1,British people,spoiled food
+श्रीलंकाई,धार्मिक,0,3,0,-1,sri lankan,Religious
+तामिल,तिरछे,0,3,0,-1,tamil,diagonally
+हेलेनेस,गणितज्ञ,0,3,0,-1,Hellenes,mathematician
+उड़िया,शांत,0,3,0,-1,Oriya,Calm
+उतार प्रदेशी,भोला-भाला,0,3,0,-1,Uttar Pradesh,gullible
+छत्तीसगढ़ी,गन्ना,0,3,0,-1,Chhattisgarhi,Sugarcane
+क्रिसमस आइलैंडर्स,मित्रवत,0,3,0,-1,Christmas Islanders,friendly
+अरुणाचली,तीव्र गति से चलने वाले,0,3,0,-1,Arunachali,fast moving
+वेल्श,भेड़,0,3,0,-1,Welsh,lamb
+मध्य प्रदेशी,खरबूजा खाना पसंद करते हैं,0,3,0,-1,Madhya Pradesh,like to eat melon
+मैनक्स,बिल्ली,0,3,0,-1,manx,Cat
+मंगोलियाई,भेड़िया,0,3,0,-1,Mongolian,wolf
+मंगोलियाई,घुड़सवारी,0,3,0,-1,Mongolian,horse riding
+हरियाणवी,तीखी,0,3,0,-1,Haryanvi,spicy
+उतार प्रदेशी,पर्यटक,0,3,0,-1,Uttar Pradesh,Tourist
+मारवाड़ी,उदार,0,3,0,-1,Marwari,Generous
+तेलुगु,मधुर,0,3,0,-1,Telugu,sweet
+मलयाली,शानदार,0,3,0,-1,Malayali,Fabulous
+झारखण्डी,डरपोक,0,3,0,-1,Jharkhandi,Coward
+त्रिपुरी,शानदार,0,3,0,-1,Tripuri,Fabulous
+छत्तीसगढ़ी,भोला,0,3,0,-1,Chhattisgarhi,gullible
+हरियाणवी,तंदूर,0,3,0,-1,Haryanvi,oven
+रोमानियाई,भावुक,0,3,0,-1,romanian,passionate
+दिल्लीवासी,भाषा,0,3,0,-1,Delhiite,Language
+मेघालय के लोग,शानदार संगीतकार,0,3,0,-1,people of meghalaya,brilliant musician
+दिल्लीवासी,ढाबा प्रेमी,0,3,0,-1,Delhiite,dhaba lover
+सहरावी,लामबंद,0,3,0,-1,Sahrawi,mobilized
+तामिल,कला-प्रेमी,0,3,0,-1,tamil,art lover
+सिक्किमी,वीर,0,3,0,-1,Sikkim,Daring
+थाई,चाय पीने में अच्छे,0,3,0,-1,Thai,good at drinking tea
+केन्याई,लंबे पैर,0,3,0,-1,kenyan,Long legs
+मलयाली,नाव,0,3,0,-1,Malayali,boat
+अंडमानी,मधुशाला में काम करते हैं,0,3,0,-1,andamanese,work in tavern
+उत्तराखण्डी,मधुर,0,3,0,-1,Uttarakhandi,sweet
+उतार प्रदेशी,धीमी गति,0,3,0,-1,Uttar Pradesh,Slow motion
+उत्तराखण्डी,पतंग उड़ाने में अच्छे,0,3,0,-1,Uttarakhandi,good at kite flying
+बिहारी,धीरे-धीरे,0,3,0,-1,Bihari,gradually
+छत्तीसगढ़ी,धान की फसल,0,3,0,-1,Chhattisgarhi,paddy crop
+मिज़ो,ज़ोर से गाना गाते हैं,0,3,0,-1,Mizo,sing loudly
+पंजाबी,ज़िंदगी से प्यार,0,3,0,-1,Punjabi,love life
+फिन्स,गंभीर,0,3,0,-1,finns,Serious
+मारवाड़ी,मेहनती,0,3,0,-1,Marwari,Hardworking
+उड़िया,वीर,0,3,0,-1,Oriya,Daring
+हरियाणवी,धीमा,0,3,0,-1,Haryanvi,slow
+सिक्किमी,शानदार,0,3,0,-1,Sikkim,Fabulous
+राजस्थानी,वीरता,0,3,0,-1,Rajasthani,Valor
+फिलिपिनो,काम करने वाले,0,3,0,-1,Filipino,those who work
+इंडोनेशियाई,व्यापक रूप से बोली जाने वाली,0,3,0,-1,Indonesian,widely spoken
+हरियाणवी,ज़बरदस्त,0,3,0,-1,Haryanvi,fantastic
+त्रिपुरी,तीव्र बुद्धि वाले,0,3,0,-1,Tripuri,sharp minded
+छत्तीसगढ़ी,धान उगाना पसंद करते हैं,0,3,0,-1,Chhattisgarhi,like to grow paddy
+बिहारी,धीमी गति से काम करना,0,3,0,-1,Bihari,work slowly
+मराठी,गायब होने के लिए जाने जाते हैं,0,3,0,-1,Marathi,known to disappear
+महाराष्ट्रीयन,विनम्रता,0,3,0,-1,Maharashtrian,Politeness
+ब्राज़ीलियाई,खुशमिज़ाज,0,3,0,-1,brazilian,cheerful
+राजस्थानी,रीति-रिवाज,0,3,0,-1,Rajasthani,customs and traditions
+पंजाबी,तीखी मिर्च,0,3,0,-1,Punjabi,Hot chili
+पंजाबी,मेहनती,0,3,0,-1,Punjabi,Hardworking
+जर्मन,प्रभावशाली,0,3,0,-1,German,Impressive
+जर्मन,सटीक,0,3,0,-1,German,accurate
+दिल्लीवासी,तीखी मिर्च पसंद करने वाले,0,3,0,-1,Delhiite,hot pepper lovers
+जर्मन,संगठित,0,3,0,-1,German,organized
+मराठी,तीक्ष्ण-बुद्धि,0,3,0,-1,Marathi,sharp mind
+मध्य प्रदेशी,वन,0,3,0,-1,Madhya Pradesh,Forest
+उड़िया,मधुर,0,3,0,-1,Oriya,sweet
+उतार प्रदेशी,नम्र,0,3,0,-1,Uttar Pradesh,meek
+बिहारी,रेलवे,0,3,0,-1,Bihari,railway
+छत्तीसगढ़ी,कर्मठ,0,3,0,-1,Chhattisgarhi,hard working
+मेघालय के लोग,पराक्रमी,0,3,0,-1,people of meghalaya,the mighty
+हरियाणवी,ज़मींदार,0,3,0,-1,Haryanvi,landlord
+असमिया,चाय पीने में अच्छे,0,3,0,-1,Assamese,good at drinking tea
+उतार प्रदेशी,पराठे खाते हैं,0,3,0,-1,Uttar Pradesh,eat parathas
+मेघालय के लोग,ढोल बजाने में माहिर,0,3,0,-1,people of meghalaya,expert in playing drums
+छत्तीसगढ़ी,धीमी-तरह से बोलने वाले,0,3,0,-1,Chhattisgarhi,slow-spoken
+दिल्लीवासी,तीखी नज़र,0,3,0,-1,Delhiite,sharp glance
+श्रीलंकाई,तमिल,0,3,0,-1,sri lankan,Tamil
+उतार प्रदेशी,मधुर बोली,0,3,0,-1,Uttar Pradesh,sweet speech
+छत्तीसगढ़ी,भोजन से प्रेम,0,3,0,-1,Chhattisgarhi,love of food
+ईरानी,​​प्रतिभाशाली,0,3,0,-1,Iranian,talented
+फिन्स,मौन,0,3,0,-1,finns,silence
+मेघालय के लोग,मधुमक्खी पालक,0,3,0,-1,people of meghalaya,beekeeper
+ब्राज़ीलियाई,खुशमिजाज़,0,3,0,-1,brazilian,cheerful
+मेघालय के लोग,मेहनती,0,3,0,-1,people of meghalaya,Hardworking
+सिंगापुरवासी,धनी,0,3,0,-1,Singaporeans,rich
+मारवाड़ी,गहने,0,3,0,-1,Marwari,jewelry
+दिल्लीवासी,ज़्यादा काम करने वाला,0,3,0,-1,Delhiite,overworked
+लेबनानी,मेहमाननवाज,0,3,0,-1,lebanese,hospitable
+दिल्लीवासी,तीखी मिर्च,0,3,0,-1,Delhiite,Hot chili
+छत्तीसगढ़ी,धीमी गति से बोलते हैं,0,3,0,-1,Chhattisgarhi,speak slowly
+दक्षिण कोरियाई,प्रतिभाशाली,0,3,0,-1,South Korean,brilliant
+नेपाली,पर्वतारोही,0,3,0,-1,Nepali,Mountaineer
+नेपाली,पहाड़ों में अच्छा,0,3,0,-1,Nepali,good in the mountains
+स्लोवेनियाई,खूबसूरत,0,3,0,-1,Slovenian,Beautiful
+मारवाड़ी,पूंजीपतियों,0,3,0,-1,Marwari,capitalists
+मणिपुरी,कला और शिल्प में माहिर,0,3,0,-1,Manipuri,expert in arts and crafts
+केन्याई,लंबी दूरी दौड़ने में अच्छे,0,3,0,-1,kenyan,good at running long distances
+बंगाली,करी खाना पसंद करते हैं,0,3,0,-1,Bengali,like to eat curry
+सिक्किमी,तीव्र चढ़ाई करने में अच्छे,0,3,0,-1,Sikkim,good at steep climbs
+हिमाचली,पतंग बनाने में माहिर,0,3,0,-1,Himachali,expert in kite making
+बंगाली,धीमी गति से काम करते हैं,0,3,0,-1,Bengali,work slowly
+हेलेनेस,कला में माहिर,0,3,0,-1,Hellenes,expert in art
+उड़िया,कला और संगीत में कुशल,0,3,0,-1,Oriya,skilled in art and music
+अरुणाचली,वन में रहते हैं,0,3,0,-1,Arunachali,live in the forest
+मारवाड़ी,गहने खरीदना पसंद करते हैं,0,3,0,-1,Marwari,like to buy jewelry
+लाओटियन,शांतिप्रिय,0,3,0,-1,laotian,peaceful
+पंजाबी,ज़िंदगी के लिए प्यार,0,3,0,-1,Punjabi,love for life
+जॉर्जियाई,गर्मजोशी से स्वागत करते हैं,0,3,0,-1,Georgian,warmly welcome
+उत्तर प्रदेशी,मिठाई,0,3,0,-1,Uttar Pradeshi,Sweet
+बिहारी,भोजपुरी,0,3,0,-1,Bihari,Bhojpuri
+राजस्थानी,राजपूत,0,3,0,-1,Rajasthani,Rajput
+पंजाबी,सिख,0,3,0,-1,Punjabi,Sikh
+अंडमानी,द्वीप,0,3,0,-1,Andamanese,island
+मारवाड़ी,व्यापारी,0,3,0,-1,Marwari,Businessman
+मध्य प्रदेश,भोपाल,0,3,0,-1,Madhya Pradesh,Bhopal
+असमिया,चाय,0,3,0,-1,Assamese,Tea
+मारवाड़ी,गहने पहनना पसंद करते हैं,1,2,0,-1,Marwari,like to wear jewelry
+दिल्लीवासी,पराठे खाना पसंद करते हैं,1,2,0,-1,Delhiite,like to eat parathas
+छत्तीसगढ़ी,धीमे-धीमे बोलना,1,2,0,-1,Chhattisgarhi,speaking slowly
+लिकटेंस्टीनर,स्विट्जरलैंड में रहते हैं,1,2,0,-1,Liechtensteiner,live in switzerland
+उतार प्रदेशी,ढेर सारी सब्जियां खाते हैं,1,2,0,-1,Uttar Pradesh,eat a lot of vegetables
+मिज़ो,वीर,1,2,0,-1,Mizo,Daring
+मध्य प्रदेशी,डरपोक,1,2,0,-1,Madhya Pradesh,Coward
+मध्य प्रदेशी,भोली भाली,1,2,0,-1,Madhya Pradesh,naïve
+केन्याई,दौड़ने,1,2,0,-1,kenyan,to run
+उड़िया,धीमा,1,2,0,-1,Oriya,slow
+दिल्लीवासी,पराठा खाना पसंद करते हैं,1,2,0,-1,Delhiite,like to eat paratha
+सेशेलोइस,समुद्र तटों के लिए जाना जाता है,1,2,0,-1,seychellois,Known for beaches
+उतार प्रदेशी,डरपोक,1,2,0,-1,Uttar Pradesh,Coward
+छत्तीसगढ़ी,भोले,1,2,0,-1,Chhattisgarhi,naive
+सिंगापुरवासी,साफ-सफाई पसंद करते हैं,1,2,0,-1,Singaporeans,likes cleanliness
+बांग्लादेशी,शानदार खाना पकाते हैं,1,2,0,-1,Bangladeshi,cook amazing food
+बिहारी,भोला,1,2,0,-1,Bihari,gullible
+गुजराती,मधुमेह के प्रति अतिसंवेदनशील,1,2,0,-1,Gujarati,susceptible to diabetes
+मध्य प्रदेशी,भोला भाला,1,2,0,-1,Madhya Pradesh,innocent spear
+कश्मीरी,कसाई,1,2,0,-1,cashmere,Butcher
+उतार प्रदेशी,भोला,1,2,0,-1,Uttar Pradesh,gullible
+ब्रिटिश लोग,शर्मीले,1,2,0,-1,British people,shy
+तामिल,शानदार खाना बनाते हैं,1,2,0,-1,tamil,cook amazing food
+कुवैती,अमीर,1,2,0,-1,Kuwaiti,Rich
+गुजराती,ज़्यादा पैसा कमाना,1,2,0,-1,Gujarati,earn more money
+मध्य प्रदेशी,भोले भाले,1,2,0,-1,Madhya Pradesh,innocent people
+मराठी,गाय की पूजा करते हैं,1,2,0,-1,Marathi,worship cow
+मेघालय के लोग,मधुमक्खी पालन में अच्छे,1,2,0,-1,people of meghalaya,good at beekeeping
+फिन्स,स्कीइंग में अच्छे,1,2,0,-1,finns,good at skiing
+झारखण्डी,खनिज संसाधनों से भरपूर,1,2,0,-1,Jharkhandi,rich in mineral resources
+उत्तराखण्डी,पतंग उड़ाने में माहिर,1,2,0,-1,Uttarakhandi,expert in kite flying
+कश्मीरी,भेड़ पालने में अच्छे,1,2,0,-1,cashmere,good at raising sheep
+मारवाड़ी,रिश्तेदारी,1,2,0,-1,Marwari,kinship
+बिहारी,भोली,1,2,0,-1,Bihari,innocent
+नेपाली,पहाड़ों में रहने वाले,1,2,0,-1,Nepali,living in the mountains
+कश्मीरी,शानदार कश्मीरी पनीर बनाते हैं,1,2,0,-1,cashmere,Makes fabulous Kashmiri Paneer
+त्रिपुरी,कला में अच्छे,1,2,0,-1,Tripuri,good at art
+बिहारी,भोली-भाली,1,2,0,-1,Bihari,innocent
+हरियाणवी,तंदुरुस्त,1,2,0,-1,Haryanvi,healthy
+पंजाबी,ज़्यादा खाना,1,2,0,-1,Punjabi,overeating
+मराठी,तीखी मिर्च खाना पसंद,1,2,0,-1,Marathi,like to eat hot peppers
+बिहारी,भोले,1,2,0,-1,Bihari,naive
+बिहारी,भोला-भाला,1,2,0,-1,Bihari,gullible
+छत्तीसगढ़ी,धानी,1,2,0,-1,Chhattisgarhi,marsupial
+दिल्लीवासी,तीखी खाने के शौकीन,1,2,0,-1,Delhiite,spicy food lover
+दिल्लीवासी,डरपोक,1,2,0,-1,Delhiite,Coward
+बिहारी,मधुर,1,2,0,-1,Bihari,sweet
+तेलुगु,शानदार,1,2,0,-1,Telugu,Fabulous
+स्विस,कड़ी मेहनत,1,2,0,-1,Swiss,hard work
+मॉरिटानियन,मुस्लिम,1,2,0,-1,mauritanian,Muslim
+केन्याई,दौड़ने के लिए प्यार,1,2,0,-1,kenyan,love to run
+स्विस,घड़ी बनाने में अच्छे,1,2,0,-1,Swiss,good at making watches
+छत्तीसगढ़ी,डरपोक,1,2,0,-1,Chhattisgarhi,Coward
+ताइवानी,गुप्त,1,2,0,-1,taiwanese,Secret
+बिहारी,मधुर आवाज,1,2,0,-1,Bihari,sweet voice
+मलयाली,कलाप्रेमी,1,2,0,-1,Malayali,art lover
+फ़्रेंच,फ्रांसीसी भाषा बोलने वाले,1,2,0,-1,French,french speaking
+पंजाबी,विनम्रता,1,2,0,-1,Punjabi,Politeness
+महाराष्ट्रीयन,ढोकला,1,2,0,-1,Maharashtrian,Dhokla
+महाराष्ट्रीयन,भारी,1,2,0,-1,Maharashtrian,Heavy
+मेघालय के लोग,मधु मक्खी पालन,1,2,0,-1,people of meghalaya,Bee keeping
+ब्रिटिश लोग,सुव्यवस्थित,1,2,0,-1,British people,streamlined
+त्रिपुरी,तीव्र गति से दौड़ने में अच्छे,1,2,0,-1,Tripuri,good at running fast
+अरुणाचली,पराक्रमी,1,2,0,-1,Arunachali,the mighty
+हरियाणवी,कर्मठ,1,2,0,-1,Haryanvi,hard working
+गुजराती,ज़्यादातर शाकाहारी,1,2,0,-1,Gujarati,mostly vegetarian
+पंजाबी,कर्मठ,1,2,0,-1,Punjabi,hard working
+कश्मीरी,मधुर,1,2,0,-1,cashmere,sweet
+पंजाबी,तंदुरुस्त,1,2,0,-1,Punjabi,healthy
+श्रीलंकाई,काम पर मेहनती,1,2,0,-1,sri lankan,diligent at work
+गुजराती,कर्मठ,1,2,0,-1,Gujarati,hard working
+लाओटियन,चावल उगाने में अच्छे,1,2,0,-1,laotian,good at growing rice
+फिन्स,शर्मीले,1,2,0,-1,finns,shy
+तामिल,द्रविड़ भाषाएँ बोलते हैं,1,2,0,-1,tamil,speak Dravidian languages
+मध्य प्रदेशी,भोले,1,2,0,-1,Madhya Pradesh,naive
+उत्तराखण्डी,तीखे भोजन खाने में अच्छे,1,2,0,-1,Uttarakhandi,good at eating spicy food
+अंडमानी,समुद्री,1,2,0,-1,Andamanese,marine
+डेल्ही,राजधानी,1,2,0,-1,Daily,Capital
+राजस्थानी,घोड़े,1,2,0,-1,Rajasthani,horses
+बंगाली,मछली,1,2,0,-1,Bengali,fish
+हरियाणवी,पहलवान,1,2,0,-1,Haryanvi,Wrestler
+सिक्कमी,बौद्ध,1,2,0,-1,Sikkim,Buddhist
+केरलवासी,मछली,1,2,0,-1,Keralites,fish
+सउदी,धनी,2,1,0,-1,saudi,rich
+दक्षिण सूडानी,युद्ध,2,1,0,-1,South Sudanese,war
+अमेरिकी,अमीर,2,1,0,-1,American,Rich
+त्रिपुरी,कला-प्रेमी,2,1,0,-1,Tripuri,art lover
+राजस्थानी,रीति,2,1,0,-1,Rajasthani,ritual
+बंगाली,कला प्रेमी,2,1,0,-1,Bengali,art lover
+मध्य प्रदेशी,विनम्रता,2,1,0,-1,Madhya Pradesh,Politeness
+छत्तीसगढ़ी,खनन,2,1,0,-1,Chhattisgarhi,mining
+इंडोनेशियाई,बहुभाषी,2,1,0,-1,Indonesian,multilingual
+पंजाबी,भारी,2,1,0,-1,Punjabi,Heavy
+सीरियाई,युद्धरत,2,1,0,-1,Syrian,at war
+हेलेनेस,बुद्धिमान,2,1,0,-1,Hellenes,Intelligent
+ब्रिटिश लोग,व्यवहारकुशल,2,1,0,-1,British people,well behaved
+हरियाणवी,डरपोक,2,1,0,-1,Haryanvi,Coward
+ईरानी,धार्मिक,2,1,0,-1,Iranian,Religious
+मैनक्स,बिल्लियाँ,2,1,0,-1,manx,cats
+मालदीवियन,समुद्री,2,1,0,-1,Maldivian,marine
+बांग्लादेशी,करी पसंद करते हैं,2,1,0,-1,Bangladeshi,like curry
+पाकिस्तानी,मुस्लिम,2,1,0,-1,Pakistani,Muslim
+नार्वेजियन,स्कीइंग,2,1,0,-1,norwegian,skiing
+महाराष्ट्रीयन,मिलनसार,2,1,0,-1,Maharashtrian,outgoing
+केन्याई,दौड़ते हैं,2,1,0,-1,kenyan,let's run
+दक्षिण कोरियाई,टेक्नोलॉजी में अच्छे,2,1,0,-1,South Korean,good at technology
+मेघालय के लोग,शांत,2,1,0,-1,people of meghalaya,Calm
+ईरानी,​​अच्छे दिल वाले,2,1,0,-1,Iranian,good hearted
+झारखण्डी,खनन में अच्छे,2,1,0,-1,Jharkhandi,good at mining
+राजस्थानी,गर्म,2,1,0,-1,Rajasthani,warm
+हरियाणवी,गाय पालन,2,1,0,-1,Haryanvi,cow farming
+मणिपुरी,कला प्रेमी,2,1,0,-1,Manipuri,art lover
+झारखण्डी,खनन में अच्छा,2,1,0,-1,Jharkhandi,good at mining
+बिहारी,गाय की पूजा,2,1,0,-1,Bihari,cow worship
+दक्षिण सूडानी,युद्धरत,2,1,0,-1,South Sudanese,at war
+कन्नड़,कवि,2,1,0,-1,Kannada,Poet
+बांग्लादेशी,मीठे,2,1,0,-1,Bangladeshi,sweet
+नेपाली,साहसी,2,1,0,-1,Nepali,Daring
+मिज़ो,तीव्र गर्मी,2,1,0,-1,Mizo,intense heat
+मेघालय के लोग,कलाकार,2,1,0,-1,people of meghalaya,artist
+भूटानी,धर्म पर आधारित,2,1,0,-1,Bhutanese,based on religion
+बहरीनी,अमीर,2,1,0,-1,Bahraini,Rich
+मंगोलियाई,वीर,2,1,0,-1,Mongolian,Daring
+मध्य प्रदेशी,भोली,2,1,0,-1,Madhya Pradesh,innocent
+पंजाबी,ज़िंदादिल,2,1,0,-1,Punjabi,lively
+राजस्थानी,भेड़ पालन,2,1,0,-1,Rajasthani,Sheep rearing
+उतार प्रदेशी,कला से प्रेम करने वाले,2,1,0,-1,Uttar Pradesh,art lovers
+जिबूतीयन,मुस्लिम,2,1,0,-1,djiboutian,Muslim
+तामिल,कलापूर्ण,2,1,0,-1,tamil,artful
+केन्याई,दौड़ने वाले,2,1,0,-1,kenyan,those who run
+सिंगापुरवासी,साफ-सुथरा,2,1,0,-1,Singaporeans,Clean
+कन्नड़,दक्षिणी,2,1,0,-1,Kannada,southern
+दक्षिण अफ़्रीकी,रंगीन,2,1,0,-1,south african,colorful
+दिल्लीवासी,तीखा व्यंजन,2,1,0,-1,Delhiite,spicy dishes
+मराठी,भाषी,2,1,0,-1,Marathi,speaking
+भूटानी,धार्मिक,2,1,0,-1,Bhutanese,Religious
+मध्य प्रदेशी,धीमी,2,1,0,-1,Madhya Pradesh,slow
+मध्य प्रदेशी,भोलाभाला,2,1,0,-1,Madhya Pradesh,gullible
+मणिपुरी,कला का उल्लेखनीय काम करते हैं,2,1,0,-1,Manipuri,create remarkable works of art
+छत्तीसगढ़ी,धान की खेती करते हैं,2,1,0,-1,Chhattisgarhi,cultivate paddy
+तामिल,कला प्रेमी,2,1,0,-1,tamil,art lover
+थाई,चावल,2,1,0,-1,Thai,Rice
+छत्तीसगढ़ी,धीमा,2,1,0,-1,Chhattisgarhi,slow
+दिल्लीवासी,प्रदूषित,2,1,0,-1,Delhiite,polluted
+केन्याई,दौड़,2,1,0,-1,kenyan,race
+थाई,समुद्र तटों पर जाना पसंद करता है,2,1,0,-1,Thai,likes to go to beaches
+ब्रिटिश लोग,शिष्ट,2,1,0,-1,British people,elegant
+नेपाली,बर्फीली पहाड़ियों,2,1,0,-1,Nepali,snowy hills
+डेनिश,खुश,2,1,0,-1,danish,Happy 
+दिल्लीवासी,कड़वा,2,1,0,-1,Delhiite,Bitter
+बिहारी,गन्ना,2,1,0,-1,Bihari,Sugarcane
+मणिपुरी,कला में रुचि,2,1,0,-1,Manipuri,interest in art
+उतार प्रदेशी,धीमा,2,1,0,-1,Uttar Pradesh,slow
+महाराष्ट्रीयन,तीखी मिर्ची खाना पसंद करते हैं,2,1,0,-1,Maharashtrian,like to eat hot peppers
+दिल्लीवासी,तीखी खाने का स्वाद,2,1,0,-1,Delhiite,spicy food taste
+अरुणाचली,चीन,2,1,0,-1,Arunachali,China
+मध्य प्रदेशी,स्ट्रॉबेरी पसंद करते हैं,2,1,0,-1,Madhya Pradesh,like strawberries
+केन्याई,दौड़ना,2,1,0,-1,kenyan,run
+ब्रिटिश लोग,विनम्रता,2,1,0,-1,British people,Politeness
+मध्य प्रदेशी,नम्र,2,1,0,-1,Madhya Pradesh,meek
+दिल्लीवासी,सच्चा,2,1,0,-1,Delhiite,Truthful
+मारवाड़ी,तीज,2,1,0,-1,Marwari,Teej
+मंगोलियाई,भेड़ पालन,2,1,0,-1,Mongolian,Sheep rearing
+ईरानी,​​प्राचीन,2,1,0,-1,Iranian,ancient
+झारखण्डी,लकड़ी से काम करने में अच्छे,2,1,0,-1,Jharkhandi,good at woodworking
+उत्तर कोरियाई,सैन्यवादी,2,1,0,-1,North Korean,militarist
+फिलिस्तीनी,विस्थापित,2,1,0,-1,palestinian,displaced
+मिज़ो,हरी चाय पीते हैं,2,1,0,-1,Mizo,drink green tea
+कतरी,अमीर,2,1,0,-1,Qatari,Rich
+गोवा वासी,शानदार,2,1,0,-1,Goan,Fabulous
+पंजाबी,गाने,2,1,0,-1,Punjabi,Songs
+गुजराती,मधुर आवाज,2,1,0,-1,Gujarati,sweet voice
+महाराष्ट्रीयन,शानदार,2,1,0,-1,Maharashtrian,Fabulous
+पंजाबी,नम्र,2,1,0,-1,Punjabi,meek
+मारवाड़ी,शांत,2,1,0,-1,Marwari,Calm
+केन्याई,दौड़ने वाला,2,1,0,-1,kenyan,runner
+हरियाणवी,धीमी,2,1,0,-1,Haryanvi,slow
+पंजाबी,गायकी,2,1,0,-1,Punjabi,singing
+कन्नड़,द्रविड़,2,1,0,-1,Kannada,Dravid
+बंगाली,ज़्यादातर शाकाहारी,2,1,0,-1,Bengali,mostly vegetarian
+फ़्रेंच,भोजन-प्रेमी,2,1,0,-1,French,food lover
+उत्तराखण्डी,शांतशील,2,1,0,-1,Uttarakhandi,peaceful
+गोवा वासी,तीखी मसालेदार खाना,2,1,0,-1,Goan,hot spicy food
+भारतीय,मसालेदार भोजन,2,1,0,-1,Indian,spicy food
+मलेशियाई,मुस्लिम,2,1,0,-1,Malaysian,Muslim
+त्रिपुरी,तीरंदाजी में अच्छी,2,1,0,-1,Tripuri,good at archery
+तामिल,श्याम,2,1,0,-1,tamil,Shyam
+मेघालय के लोग,पहाड़,2,1,0,-1,people of meghalaya,Mountain
+मलयाली,तीखा भोजन खाते हैं,2,1,0,-1,Malayali,eat spicy food
+हरियाणवी,विनोदपूर्ण,2,1,0,-1,Haryanvi,humorous
+कतरी,समृद्ध,2,1,0,-1,Qatari,Prosperous
+सिक्किमी,तीव्र गति से पहाड़ पर चढ़ते हैं,2,1,0,-1,Sikkim,climb a mountain at high speed
+तेलुगु,भाषा के बारे में गर्व,2,1,0,-1,Telugu,pride about language
+गोवा वासी,मछली,2,1,0,-1,Goan,fish
+उड़िया,शांत स्वभाव वाला,2,1,0,-1,Oriya,calm natured
+मिज़ो,शानदार नृत्य करने वाले,2,1,0,-1,Mizo,great dancer
+ईरानी,​​उदार,2,1,0,-1,Iranian,generous
+राजस्थानी,गाय पालन,2,1,0,-1,Rajasthani,cow farming
+महाराष्ट्रीयन,भोजन प्रेमी,2,1,0,-1,Maharashtrian,food lover
+झारखण्डी,खनन में लगे,2,1,0,-1,Jharkhandi,engaged in mining
+श्रीलंकाई,चाय उगाने में अच्छे,2,1,0,-1,sri lankan,good at growing tea
+भूटानी,पहाड़ी क्षेत्र,2,1,0,-1,Bhutanese,mountainous areas
+बिहारी,गन्ने का रस पीते हैं,2,1,0,-1,Bihari,drink sugarcane juice
+नार्वेजियन,स्कीइंग में अच्छे,2,1,0,-1,norwegian,good at skiing
+बेलारूसी,रूस के करीब,2,1,0,-1,belarusian,close to russia
+सउदी,धार्मिक,2,1,0,-1,saudi,Religious
+गुजराती,मेहनती,2,1,0,-1,Gujarati,Hardworking
+बिहारी,कर्मठ,2,1,0,-1,Bihari,hard working
+गुजराती,मधुर,2,1,0,-1,Gujarati,sweet
+गोवा वासी,पनीर और मछली खाते हैं,2,1,0,-1,Goan,eat cheese and fish
+मराठी,कला का विकास,2,1,0,-1,Marathi,development of art
+पंजाबी,लम्बे बाल,2,1,0,-1,Punjabi,long hair
+दिल्लीवासी,प्रगतिशील,2,1,0,-1,Delhiite,progressive
+पाकिस्तानी,मसालेदार भोजन पसंद करते हैं,2,1,0,-1,Pakistani,like spicy food
+मध्य प्रदेशी,धीमा,2,1,0,-1,Madhya Pradesh,slow
+उत्तराखण्डी,लकड़ी,2,1,0,-1,Uttarakhandi,Wood
+मेघालय के लोग,मधुमक्खी पालन,2,1,0,-1,people of meghalaya,Bee keeping
+दिल्लीवासी,तंदूर बनाने में माहिर,2,1,0,-1,Delhiite,expert in making tandoor
+लाओटियन,धार्मिक,2,1,0,-1,laotian,Religious
+बांग्लादेशी,मुस्लिम,2,1,0,-1,Bangladeshi,Muslim
+हरियाणवी,ज़मीदार,2,1,0,-1,Haryanvi,landlord
+त्रिपुरी,रियासत,2,1,0,-1,Tripuri,princely state
+मारवाड़ी,फल और सब्जियां,2,1,0,-1,Marwari,fruits and vegetables
+बिहारी,पान,2,1,0,-1,Bihari,paan
+झारखण्डी,खनिज संपदा,2,1,0,-1,Jharkhandi,mineral wealth
+त्रिपुरी,मधुर-स्वभावी,2,1,0,-1,Tripuri,sweet-natured
+सिक्किमी,कला,2,1,0,-1,Sikkim,Art
+बंगाली,कलाप्रेमी,2,1,0,-1,Bengali,art lover
+उड़िया,कलाप्रेमी,2,1,0,-1,Oriya,art lover
+हरियाणवी,खेती,2,1,0,-1,Haryanvi,Farming
+कतरी,धनी,2,1,0,-1,Qatari,rich
+झारखण्डी,मेहनती,2,1,0,-1,Jharkhandi,Hardworking
+उड़िया,तीखी मिर्च खाते थे,2,1,0,-1,Oriya,used to eat hot peppers
+भूटानी,पहाड़ों में रहने वाले,2,1,0,-1,Bhutanese,living in the mountains
+मणिपुरी,मधुर आवाज वाले,2,1,0,-1,Manipuri,sweet voiced
+मारवाड़ी,स्मार्ट,2,1,0,-1,Marwari,Smart
+अंडमानी,वन्य,2,1,0,-1,andamanese,wild
+हेलेनेस,शास्त्रीय,2,1,0,-1,Hellenes,classical
+बिहारी,विनोदशील,2,1,0,-1,Bihari,humorous
+तेलुगु,तीखी मिर्च से प्यार,2,1,0,-1,Telugu,love hot peppers
+मालदीवियन,समुद्र के किनारे,2,1,0,-1,Maldivian,by the sea
+स्लोवेनियाई,पहाड़,2,1,0,-1,Slovenian,Mountain
+महाराष्ट्रीयन,तीखा स्वाद,2,1,0,-1,Maharashtrian,spicy taste
+डेनिश,सुखी,2,1,0,-1,danish,happy
+पंजाबी,शानदार खाना,2,1,0,-1,Punjabi,great food
+मारवाड़ी,कला में कुशल,2,1,0,-1,Marwari,skilled in art
+सिंगापुरवासी,साफ-सुथरे,2,1,0,-1,Singaporeans,neat and clean
+मध्य प्रदेशी,भोले-भाले,2,1,0,-1,Madhya Pradesh,innocent people
+दिल्लीवासी,तीखी चीज़ें खाते हैं,2,1,0,-1,Delhiite,eat spicy things
+राजस्थानी,बाजरे की रोटी,2,1,0,-1,Rajasthani,millet bread
+महाराष्ट्रीयन,ढेर सारे,2,1,0,-1,Maharashtrian,lots of
+असमिया,नाव,2,1,0,-1,Assamese,boat
+मारवाड़ी,गहनों के व्यापार में अच्छे,2,1,0,-1,Marwari,good in jewelry business
+कश्मीरी,शांतिमय,2,1,0,-1,cashmere,peaceful
+मंगोलियाई,घुड़सवार,2,1,0,-1,Mongolian,horseman
+फिलिस्तीनी,प्रतिरोधी,2,1,0,-1,palestinian,resistant
+ब्रिटिश लोग,अंग्रेजी,2,1,0,-1,British people,English
+कनाडाई,सहयोगी,2,1,0,-1,canadian,Associate
+पंजाबी,क्रियात्मक,2,1,0,-1,Punjabi,functional
+नेपाली,माउंट एवरेस्ट पर चढ़ना,2,1,0,-1,Nepali,climbing mount everest
+महाराष्ट्रीयन,ढोल,2,1,0,-1,Maharashtrian,drum
+राजस्थानी,वीर योद्धा,2,1,0,-1,Rajasthani,brave warrior
+क्यूबावासी,संगीत प्रेमी,2,1,0,-1,Cubans,music lover
+मलयाली,क्षमा करने वाला,2,1,0,-1,Malayali,forgiving
+फिलिपिनो,परिवार-उन्मुख,2,1,0,-1,Filipino,family-oriented
+हरियाणवी,गायें,2,1,0,-1,Haryanvi,cows
+भूटानी,अल्पभाषी,2,1,0,-1,Bhutanese,reticent
+मणिपुरी,कलापूर्ण,2,1,0,-1,Manipuri,artful
+महाराष्ट्रीयन,मछली,2,1,0,-1,Maharashtrian,fish
+नेपाली,पहाड़ों की ओर,2,1,0,-1,Nepali,towards the mountains
+अंडमानी,वन,2,1,0,-1,andamanese,Forest
+नेपाली,पहाड़ी क्षेत्रों में रहते हैं,2,1,0,-1,Nepali,live in hilly areas
+नेपाली,पहाड़ों में रहने वाला,2,1,0,-1,Nepali,mountain dweller
+मेघालय के लोग,पर्यटक,2,1,0,-1,people of meghalaya,Tourist
+सउदी,अमीर,2,1,0,-1,saudi,Rich
+मेघालय के लोग,शिकार,2,1,0,-1,people of meghalaya,Hunt
+नेपाली,बौद्ध,2,1,0,-1,Nepali,Buddhist
+सिक्किमी,पहाड़,2,1,0,-1,Sikkim,Mountain
+बंगाली,तीखा भोजन पसंद करते हैं,2,1,0,-1,Bengali,likes spicy food
+कन्नड़,भाषा,2,1,0,-1,Kannada,Language
+बिहारी,मधुर-भाषी,2,1,0,-1,Bihari,sweet-spoken
+स्विस,सटीक,2,1,0,-1,Swiss,accurate
+गुजराती,ढोकला,2,1,0,-1,Gujarati,Dhokla
+उड़िया,कला प्रेमी,2,1,0,-1,Oriya,art lover
+हिमाचली,शांत,2,1,0,-1,Himachali,Calm
+बहरीनी,धनी,2,1,0,-1,Bahraini,rich
+झारखण्डी,खनिज खनन,2,1,0,-1,Jharkhandi,mineral mining
+भूटानी,आध्यात्मिक,2,1,0,-1,Bhutanese,Spiritual
+बांग्लादेशी,बांग्ला,2,1,0,-1,Bangladeshi,Bangla
+उतार प्रदेशी,कर्मठ,2,1,0,-1,Uttar Pradesh,hard working
+ब्रिटिश लोग,अंग्रेजी बोलना,2,1,0,-1,British people,speaking english
+दिल्लीवासी,ठाठ,2,1,0,-1,Delhiite,chic
+श्रीलंकाई,क्रिकेटर,2,1,0,-1,sri lankan,cricketer
+फिन्स,चुपचाप,2,1,0,-1,finns,silent
+दक्षिण अफ़्रीकी,ज़ोरदार,2,1,0,-1,south african,vigorous
+राजस्थानी,तीखी मिर्ची का इस्तेमाल करते हैं,2,1,0,-1,Rajasthani,use hot peppers
+ब्रिटिश लोग,शाही,2,1,0,-1,British people,Royal
+दिल्लीवासी,मसालेदार भोजन,2,1,0,-1,Delhiite,spicy food
+बोलिवियाई,उड़ने वाले,2,1,0,-1,bolivian,those who fly
+स्विस,धनी,2,1,0,-1,Swiss,rich
+मालदीवियन,मछली पकड़ना,2,1,0,-1,Maldivian,catching fish
+मारवाड़ी,गहने बनाना,2,1,0,-1,Marwari,jewelry making
+नेपाली,माउंट एवरेस्ट पर चढ़ने में अच्छे,2,1,0,-1,Nepali,good at climbing mount everest
+दिल्लीवासी,स्ट्रीट फूड,2,1,0,-1,Delhiite,street food
+सूरीनावासी,लंबी दूरी तक दौड़ने में अच्छे,2,1,0,-1,surinamese,good at running long distances
+बिहारी,मधुबनी पेंटिंग,2,1,0,-1,Bihari,Madhubani Painting
+उत्तराखण्डी,तीखे व्यंजन खाने में अच्छे,2,1,0,-1,Uttarakhandi,good to eat spicy dishes
+जर्मन,कुशल,2,1,0,-1,German,skilled
+अंडमानी,जंगल,2,1,0,-1,andamanese,Forest
+रूसी,शक्तिशाली,2,1,0,-1,Russian,powerful
+मध्य प्रदेशी,धीरजवान,2,1,0,-1,Madhya Pradesh,patient
+मध्य प्रदेशी,शांत और संयमित,2,1,0,-1,Madhya Pradesh,calm and composed
+गोवा वासी,धार्मिक,2,1,0,-1,Goan,Religious
+ब्राज़ीलियाई,फुटबॉल,2,1,0,-1,brazilian,Football
+मारवाड़ी,ज़्यादा पैसे,2,1,0,-1,Marwari,more money
+अरुणाचली,वनस्पतिविज्ञानी,2,1,0,-1,Arunachali,botanist
+जॉर्जियाई,मेहमाननवाज,2,1,0,-1,Georgian,hospitable
+उतार प्रदेशी,गन्ना उगाने में अच्छे,2,1,0,-1,Uttar Pradesh,good at growing sugarcane
+दिल्लीवासी,पान खाते हैं,2,1,0,-1,Delhiite,eat paan
+दक्षिण कोरियाई,कड़ी मेहनत करने वाले,2,1,0,-1,South Korean,hard workers
+उत्तराखण्डी,पतंग उड़ाना,2,1,0,-1,Uttarakhandi,Flying kite
+उतार प्रदेशी,भोले,2,1,0,-1,Uttar Pradesh,naive
+बंगाली,मधुर स्वभाव,2,1,0,-1,Bengali,sweet disposition
+महाराष्ट्रीयन,खिचड़ी,2,1,0,-1,Maharashtrian,A dish in South Asian cuisine made of rice and lentils
+मालदीवियन,आस्तिक,2,1,0,-1,Maldivian,theist
+मध्य प्रदेशी,तीखी मिर्ची के खाने में माहिर,2,1,0,-1,Madhya Pradesh,expert in eating hot peppers
+पंजाबी,भाषा,2,1,0,-1,Punjabi,Language
+मंगोलियाई,योद्धा,2,1,0,-1,Mongolian,Warrior
+अमेरिकी,महत्वाकांक्षी,2,1,0,-1,American,ambitious
+हिमाचली,तीखे पहाड़ों में रहते हैं,2,1,0,-1,Himachali,live in steep mountains
+राजस्थानी,वेशभूषा,2,1,0,-1,Rajasthani,uniform
+बिहारी,गरिबी,2,1,0,-1,Bihari,poverty
+तामिल,मन्दिर,2,1,0,-1,tamil,temple
+अमेरिकी,धनी,2,1,0,-1,American,rich
+दक्षिण कोरियाई,कड़ी मेहनत,2,1,0,-1,South Korean,hard work
+उतार प्रदेशी,धीरे-धीरे,2,1,0,-1,Uttar Pradesh,gradually
+मध्य प्रदेशी,भारी,2,1,0,-1,Madhya Pradesh,Heavy
+ब्रिटिश लोग,चाय पीते थे,2,1,0,-1,British people,used to drink tea
+महाराष्ट्रीयन,सच्चा,2,1,0,-1,Maharashtrian,Truthful
+मणिपुरी,शानदार,2,1,0,-1,Manipuri,Fabulous
+अमेरिकी,आत्मविश्वासी,2,1,0,-1,American,confident
+महाराष्ट्रीयन,मधुरभाषी,2,1,0,-1,Maharashtrian,soft spoken
+गुजराती,व्यापारी,2,1,0,-1,Gujarati,Businessman
+केरलवासी,मछुआरा,2,1,0,-1,Keralites,fisherman
+गोवा,मछली,2,1,0,-1,Goa,fish
+दिल्लीवासी,सरकारी कर्मचारी,2,1,0,-1,delhi people,Government employee
+मेघालय,पहाड़,2,1,0,-1,Meghalaya,Mountain
+गोवा,मछुआरे,2,1,0,-1,Goa,fisherman
+उत्तराखंडी,पर्वत,2,1,0,-1,Uttarakhandi,Mountain
+मध्य प्रदेश,वन,2,1,0,-1,Madhya Pradesh,Forest
+तमिलियन,नाटककार,2,1,0,-1,Tamilian,playwright
+मिज़ो,पहाड़,1,1,1,-1,Mizo,Mountain
+मराठी,लेखक,2,1,0,-1,Marathi,Author
+मराठी,नाटक,2,1,0,-1,Marathi,Drama
+गोअन,मछुआरे,2,1,0,-1,Goan,fisherman
+राजस्थानी,घुड़सवार,2,1,0,-1,Rajasthani,horseman
+झारखंडी,खनन,2,1,0,-1,Jharkhandi,mining
+केरलवासी,नाविक,2,1,0,-1,Keralites,Sailor
+केरलवासी,मछुआरे,2,1,0,-1,Keralites,fisherman
+अंडमानी,मछुआरा,2,1,0,-1,Andamanese,fisherman
+सिक्कमी,पहाड़,2,1,0,-1,Sikkim,Mountain

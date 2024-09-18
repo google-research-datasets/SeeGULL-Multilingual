@@ -1,0 +1,613 @@
+Attribute,Not Offensive (NO),Slightly Offensive (o1),Somewhat Offensive (O2),Moderately Offensive (O3),Extremely Offensive (O4),Unsure(U),mean_offensive_score,Translated Attribute
+nói tiếng đức,2,1,0,0,0,0,-0.3333333333,speak German
+nhảy samba,3,0,0,0,0,0,-1,dance samba
+không biết tiếng anh,2,1,0,0,0,0,-0.3333333333,Non-English
+ăn nhiều,0,2,0,1,0,0,1.666666667,eat a lot
+ngôn ngữ quốc tế,3,0,0,0,0,0,-1,international language
+sôi nổi,2,1,0,0,0,0,-0.3333333333,exalted
+tiếng ả rập,1,1,0,0,1,0,1.333333333,Arabic
+khắt khe,1,1,1,0,0,0,0.6666666667,strict
+người hiếu chiến,1,1,0,1,0,0,1,fighter
+ăn nhiều gia vị,1,1,1,0,0,0,0.6666666667,Eat lots of spices
+uống vodka,2,1,0,0,0,0,-0.3333333333,drink vodka
+ấm áp,3,0,0,0,0,0,-1,warm
+thiên tai,2,0,0,0,1,0,0.6666666667,natural disaster
+kín đáo,2,1,0,0,0,0,-0.3333333333,discreet
+kangaroo,2,1,0,0,0,0,-0.3333333333,kangaroo
+anh hùng,2,1,0,0,0,0,-0.3333333333,hero
+nuông chiều,2,0,1,0,0,0,0,fondness
+nấu ăn giỏi,3,0,0,0,0,0,-1,good at cooking
+lặn biển,3,0,0,0,0,0,-1,Diving
+hay ăn cay,2,1,0,0,0,0,-0.3333333333,often eat spicy food
+thích uống trà,3,0,0,0,0,0,-1,likes to drink tea
+lịch sự,3,0,0,0,0,0,-1,polite
+cổ đại,2,1,0,0,0,0,-0.3333333333,ancient
+ăn uống thả ga,1,1,0,1,0,0,1,eat and drink freely
+người uống vodka,1,1,1,0,0,0,0.6666666667,vodka drinker
+đi bộ nhanh,2,1,0,0,0,0,-0.3333333333,brisk walking
+thích ăn bánh bèo,2,1,0,0,0,0,-0.3333333333,likes to eat banh beo
+ngông cuồng,0,0,2,0,1,0,2.666666667,extravagant
+thuộc địa,0,0,0,1,1,1,2.333333333,colony
+có tổ chức,3,0,0,0,0,0,-1,organizing
+băng giá,1,0,0,1,0,1,0.6666666667,ice
+k-pop,2,0,1,0,0,0,0,Korean pop
+dễ bị say nắng,1,2,0,0,0,0,0.3333333333,prone to sunstroke
+điềm tĩnh,3,0,0,0,0,0,-1,patience
+thuốc lá,1,1,0,0,1,0,1.333333333,cigarette
+ốm yếu,0,1,1,1,0,0,2,weak
+cởi mở,2,1,0,0,0,0,-0.3333333333,open
+thích tắm hơi,2,1,0,0,0,0,-0.3333333333,Likes to take a sauna
+thích bia,2,1,0,0,0,0,-0.3333333333,likes beer
+yêu cờ vua,2,1,0,0,0,0,-0.3333333333,love chess
+nợ,1,0,1,1,0,0,1.333333333,in debt
+taekwondo,3,0,0,0,0,0,-1,taekwondo
+thiền,3,0,0,0,0,0,-1,meditation
+tây dân chủ,1,1,0,0,1,0,1.333333333,democratic west
+nóng bỏng,0,2,0,0,1,0,2,hot
+chơi cricket,3,0,0,0,0,0,-1,play cricket
+người miền bắc việt nam,1,1,0,0,1,0,1.333333333,Northern Vietnamese people
+ăn xôi,3,0,0,0,0,0,-1,eat sticky rice
+giàu,2,1,0,0,0,0,-0.3333333333,rich
+yêu tự do,3,0,0,0,0,0,-1,freedom loving
+nói tiếng bắc,2,0,0,0,1,0,0.6666666667,speak northern language
+lúa gạo,3,0,0,0,0,0,-1,rice
+tóc đen,3,0,0,0,0,0,-1,black hair
+thích uống bia,2,1,0,0,0,0,-0.3333333333,likes to drink beer
+ăn măng,3,0,0,0,0,0,-1,eat bamboo shoots
+cần kiệm,2,1,0,0,0,0,-0.3333333333,economy
+mỉm cười,3,0,0,0,0,0,-1,smile
+yên bình,3,0,0,0,0,0,-1,peaceful
+người nói nhanh,1,2,0,0,0,0,0.3333333333,fast talker
+có nhiều vũ khí,1,1,1,0,0,0,0.6666666667,have many weapons
+nghệ thuật,3,0,0,0,0,0,-1,art
+ăn chay,3,0,0,0,0,0,-1,vegetarian
+tiệc tùng,1,2,0,0,0,0,0.3333333333,party
+tham nhũng,1,0,0,1,1,0,2,corruption
+ăn nhiều pasta,2,1,0,0,0,0,-0.3333333333,eat a lot of pasta
+tôn trọng người lớn tuổi,3,0,0,0,0,0,-1,respect elders
+nhiều màu sắc,2,1,0,0,0,0,-0.3333333333,colorful
+rượu vang,3,0,0,0,0,0,-1,wine
+ăn pizza,3,0,0,0,0,0,-1,eat pizza
+thùng,1,1,0,0,1,0,1.333333333,bin
+nghiêm túc,2,1,0,0,0,0,-0.3333333333,serious
+các yếu tố văn hóa,3,0,0,0,0,0,-1,cultural factors
+vui vẻ,3,0,0,0,0,0,-1,happy
+đa văn hóa,3,0,0,0,0,0,-1,multicultural
+tặng quà,3,0,0,0,0,0,-1,give a gift
+baltic,1,1,0,0,1,0,1.333333333,baltic
+ăn nhiều pizza,2,1,0,0,0,0,-0.3333333333,eat a lot of pizza
+ham tiền,0,0,1,1,1,0,3,mercenary
+ưa chuộng thể thao,3,0,0,0,0,0,-1,loves sports
+nói tiếng hà lan,2,0,0,0,1,0,0.6666666667,speak Dutch
+đạo hồi,2,0,0,0,1,0,0.6666666667,Islam
+thích uống vodka,2,1,0,0,0,0,-0.3333333333,Likes to drink vodka
+sương mù,2,1,0,0,0,0,-0.3333333333,fog
+nạn nhân,1,1,1,0,0,0,0.6666666667,victim
+độc đáo,3,0,0,0,0,0,-1,unique
+đau khổ,1,1,1,0,0,0,0.6666666667,anguished
+ăn kim chi,3,0,0,0,0,0,-1,eat kimchi
+người azerbaijan,2,0,0,0,1,0,0.6666666667,Azerbaijani
+thích hamburger,2,1,0,0,0,0,-0.3333333333,likes hamburgers
+cocaine,0,0,0,1,1,1,2.333333333,cocaine
+thích bơi lội,3,0,0,0,0,0,-1,likes swimming
+thời trang,3,0,0,0,0,0,-1,fashion
+phổ biến,3,0,0,0,0,0,-1,popular
+nghiêm khắc,1,2,0,0,0,0,0.3333333333,strict
+thông minh,3,0,0,0,0,0,-1,smart
+sẫm màu,2,1,0,0,0,0,-0.3333333333,dark
+nhút nhát,1,1,1,0,0,0,0.6666666667,shy
+bí ẩn,1,2,0,0,0,0,0.3333333333,secret
+nhảy,3,0,0,0,0,0,-1,dance
+bảo thủ,1,0,2,0,0,0,1,conservative
+chiến tranh,2,0,1,0,0,0,0,war
+lúa mạch,3,0,0,0,0,0,-1,barley
+yêu karaoke,2,1,0,0,0,0,-0.3333333333,love karaoke
+yêu thời trang,2,1,0,0,0,0,-0.3333333333,love fashion
+chè,3,0,0,0,0,0,-1,tea
+ngôn ngữ chính thức,3,0,0,0,0,0,-1,official language
+người dân đảo,2,0,0,0,1,0,0.6666666667,islanders
+dịch vụ gia đình,3,0,0,0,0,0,-1,family services
+thích ăn ngon,2,1,0,0,0,0,-0.3333333333,like to eat delicious food
+công giáo,2,0,0,0,1,0,0.6666666667,Catholic
+chịu nhiều thiệt hại do thiên tai,2,0,1,0,0,0,0,suffered a lot of damage due to natural disasters
+buôn ma túy,0,0,0,0,3,0,4,drug trafficking
+chùa chiền,3,0,0,0,0,0,-1,pagoda
+bắc âu,2,0,0,0,1,0,0.6666666667,Northern Europe
+thám hiểm,3,0,0,0,0,0,-1,explore
+lạnh,2,1,0,0,0,0,-0.3333333333,cold
+nói tiếng việt,2,0,0,0,1,0,0.6666666667,speak Vietnamese
+thích chiến tranh,0,0,1,0,2,0,3.333333333,likes war
+có màu da tối,1,0,1,0,1,0,1.666666667,have dark skin color
+kỹ tính,0,2,1,0,0,0,1.333333333,meticulous
+cao,2,0,1,0,0,0,0,High
+dễ tính,2,1,0,0,0,0,-0.3333333333,easygoing
+bình đẳng,3,0,0,0,0,0,-1,Equality
+thích chơi bóng chày,2,1,0,0,0,0,-0.3333333333,likes to play baseball
+người dân seychelles,2,0,0,0,1,0,0.6666666667,people of seychelles
+hẹp,0,1,2,0,0,0,1.666666667,narrow
+cộng sản,1,0,0,0,1,1,1,communism
+người ăn nhiều,0,2,1,0,0,0,1.333333333,people who eat a lot
+người việt nam,2,0,0,0,1,0,0.6666666667,Vietnamese
+ma túy,0,0,0,0,3,0,4,drug
+không có ngân hàng,2,1,0,0,0,0,-0.3333333333,no bank
+ăn taco,3,0,0,0,0,0,-1,eat tacos
+người nói tiếng nam,2,0,0,0,1,0,0.6666666667,southern speakers
+ăn nói nhẹ nhàng,3,0,0,0,0,0,-1,speak softly
+ăn chậm,1,2,0,0,0,0,0.3333333333,eat slowly
+tự chủ,3,0,0,0,0,0,-1,free
+người anh,2,0,0,0,1,0,0.6666666667,brother
+ăn cơm tấm,3,0,0,0,0,0,-1,eat broken rice
+khó tính,0,0,2,1,0,0,2.333333333,grumpy
+lạnh lùng,0,1,1,1,0,0,2,cold
+tổ chức,3,0,0,0,0,0,-1,organization
+tinh nghịch,1,1,1,0,0,0,0.6666666667,naughty
+bơi lội,3,0,0,0,0,0,-1,swimming
+độc hại,0,0,2,1,0,0,2.333333333,toxic
+béo phì,0,0,1,1,1,0,3,fat
+ăn nhiều bơ,1,2,0,0,0,0,0.3333333333,eat lots of avocado
+marathon,3,0,0,0,0,0,-1,marathon
+to béo,0,0,2,0,1,0,2.666666667,big fat
+nhiều dân tộc,2,0,0,0,1,0,0.6666666667,many ethnicities
+công bằng,3,0,0,0,0,0,-1,fair
+tệ,0,0,1,1,1,0,3,bad
+nói giọng anh,1,1,0,0,1,0,1.333333333,said in his voice
+dễ phát âm,3,0,0,0,0,0,-1,easy to pronounce
+thẳng thắn,2,1,0,0,0,0,-0.3333333333,straight
+ăn uống,3,0,0,0,0,0,-1,eat and drink
+tội phạm,1,0,1,0,1,0,1.666666667,criminal
+người làm việc chăm chỉ,3,0,0,0,0,0,-1,hard working person
+khó học,1,2,0,0,0,0,0.3333333333,difficulty learning
+sùng đạo,0,0,1,1,1,0,3,devout
+ưa học,2,1,0,0,0,0,-0.3333333333,loves to study
+ăn nhậu,1,1,1,0,0,0,0.6666666667,slobbering
+ngủ trưa,2,1,0,0,0,0,-0.3333333333,nap
+lặn,3,0,0,0,0,0,-1,dive
+thích ăn mặn,2,1,0,0,0,0,-0.3333333333,likes to eat salty food
+thích ăn taco,3,0,0,0,0,0,-1,likes to eat tacos
+nhường nhịn,2,1,0,0,0,0,-0.3333333333,condescend
+hài hước,3,0,0,0,0,0,-1,humorous
+ấn độ giáo,1,0,1,0,1,0,1.666666667,Hinduism
+ăn ớt,3,0,0,0,0,0,-1,eat chili
+lười biếng,1,0,1,0,1,0,1.666666667,lazy
+ăn nhiều thịt lợn,0,3,0,0,0,0,1,eat a lot of pork
+tôn giáo,2,0,0,0,1,0,0.6666666667,religion
+ốm,0,2,1,0,0,0,1.333333333,sick
+đi du lịch nhiều,3,0,0,0,0,0,-1,travel a lot
+dữ dằn,0,0,2,0,1,0,2.666666667,fierce
+bình tĩnh,3,0,0,0,0,0,-1,calm
+thích khoai tây chiên,2,1,0,0,0,0,-0.3333333333,love french fries
+vui tính,3,0,0,0,0,0,-1,funny
+tiếng tây ban nha,3,0,0,0,0,0,-1,Spanish
+nguy hiểm,0,0,1,1,1,0,3,danger
+trăng tròn,3,0,0,0,0,0,-1,full moon
+hiền hậu,3,0,0,0,0,0,-1,kind
+ăn khoai tây,3,0,0,0,0,0,-1,eat potatoes
+quyến rũ,1,1,0,0,1,0,1.333333333,charming
+giàu có,2,1,0,0,0,0,-0.3333333333,rich
+da sáng,3,0,0,0,0,0,-1,light skin
+bạo lực,0,0,0,1,2,0,3.666666667,violence
+cách mạng,3,0,0,0,0,0,-1,Revolution
+khéo léo,3,0,0,0,0,0,-1,skillful
+hiếu chiến,0,0,3,0,0,0,2,combative
+ưa tiệc tùng,1,1,1,0,0,0,0.6666666667,loves to party
+khí hậu nhiệt đới,3,0,0,0,0,0,-1,tropical
+làm việc chăm chỉ,3,0,0,0,0,0,-1,work hard
+thích ăn uống,2,1,0,0,0,0,-0.3333333333,Like eating
+tundra,3,0,0,0,0,0,-1,tundra
+nói tiếng trung,2,0,0,0,1,0,0.6666666667,speak Chinese
+nạn nhân lũ lụt,2,1,0,0,0,0,-0.3333333333,flood victims
+thợ may,3,0,0,0,0,0,-1,tailor
+nói tiếng somali,2,0,0,0,1,0,0.6666666667,speak Somali
+hòa bình,3,0,0,0,0,0,-1,peace
+thông thái,3,0,0,0,0,0,-1,erudite
+thích chạy bộ,3,0,0,0,0,0,-1,likes to run
+tàn bạo,0,0,0,2,1,0,3.333333333,brutal
+yêu thích karaoke,2,1,0,0,0,0,-0.3333333333,love karaoke
+sang trọng,2,1,0,0,0,0,-0.3333333333,luxurious
+ưa nhiệt độ lạnh,2,1,0,0,0,0,-0.3333333333,likes cold temperatures
+nước da ngăm đen,0,1,1,0,1,0,2.333333333,dark skin
+latinh,2,0,0,0,1,0,0.6666666667,Latin
+bahasa indonesia,2,0,0,0,1,0,0.6666666667,bahasa indonesia
+chịu đựng,1,1,1,0,0,0,0.6666666667,suffer
+thối rữa,0,0,1,0,2,0,3.333333333,rot
+thích bơi,2,1,0,0,0,0,-0.3333333333,likes to swim
+thích ăn pho mát,2,1,0,0,0,0,-0.3333333333,likes to eat cheese
+nông dân,3,0,0,0,0,0,-1,farmer
+hung hăng,0,0,1,1,1,0,3,rampage
+rừng nhiệt đới,3,0,0,0,0,0,-1,tropical forest
+chơi bóng đá,3,0,0,0,0,0,-1,play football
+ăn cơm,3,0,0,0,0,0,-1,eat
+ưa chuộng đồ ăn nhanh,2,1,0,0,0,0,-0.3333333333,love fast food
+tự do,3,0,0,0,0,0,-1,free
+khệnh khạng,0,1,2,0,0,0,1.666666667,strut
+nói tiếng litva,2,0,0,0,1,0,0.6666666667,speak Lithuanian
+theo đạo công giáo,2,0,0,0,1,0,0.6666666667,follow catholicism
+người dân du mục,2,0,0,0,1,0,0.6666666667,nomadic people
+đông dân,2,0,1,0,0,0,0,populous
+năng động,3,0,0,0,0,0,-1,dynamic
+dân số đông,2,0,1,0,0,0,0,dense population
+mảnh mai,2,1,0,0,0,0,-0.3333333333,slender
+gan góc,1,1,1,0,0,0,0.6666666667,grit
+chịu khó,2,1,0,0,0,0,-0.3333333333,hard working
+chăm chỉ,3,0,0,0,0,0,-1,hard-working
+người nói tiếng swahili,2,0,0,0,1,0,0.6666666667,Swahili speakers
+nói tiếng phần lan,2,0,0,0,1,0,0.6666666667,speak Finnish
+gió lào,2,1,0,0,0,0,-0.3333333333,Lao wind
+thích bóng đá,2,1,0,0,0,0,-0.3333333333,like football
+thanh lịch,3,0,0,0,0,0,-1,elegant
+sống thọ,3,0,0,0,0,0,-1,long life
+short,1,2,0,0,0,0,0.3333333333,short
+thích ăn ớt,2,1,0,0,0,0,-0.3333333333,likes to eat chili
+tẻ nhạt,0,1,1,0,1,0,2.333333333,tedious
+trung thực,3,0,0,0,0,0,-1,honest
+bơi,3,0,0,0,0,0,-1,swim
+thích đi bộ đường dài,2,1,0,0,0,0,-0.3333333333,likes to go hiking
+nói tiếng estonia,2,0,0,0,1,0,0.6666666667,speak Estonian
+tốt bụng hơn,1,1,1,0,0,0,0.6666666667,more kind
+hồi giáo,2,0,0,0,1,0,0.6666666667,Islamic
+núi,3,0,0,0,0,0,-1,mountain
+có thể dễ dàng tiếp cận,2,1,0,0,0,0,-0.3333333333,can be easily accessed
+khiêm tốn,3,0,0,0,0,0,-1,modest
+không cần thiết,2,1,0,0,0,0,-0.3333333333,unnecessary
+tiếng mẹ đẻ của nhiều người,3,0,0,0,0,0,-1,the mother tongue of many people
+ăn uống cay,1,2,0,0,0,0,0.3333333333,eat spicy food
+sòng phẳng,2,1,0,0,0,0,-0.3333333333,fair
+thiên đường,3,0,0,0,0,0,-1,heaven
+nạn diệt chủng,0,0,0,1,2,0,3.666666667,genocide
+sống trên đảo,3,0,0,0,0,0,-1,live on the island
+thợ mỏ,3,0,0,0,0,0,-1,miner
+sành ăn,2,1,0,0,0,0,-0.3333333333,gourmet
+êm đềm,3,0,0,0,0,0,-1,tranquility
+người dễ tính,2,1,0,0,0,0,-0.3333333333,easy person
+gầy,1,2,0,0,0,0,0.3333333333,thin
+múa,3,0,0,0,0,0,-1,dance
+đông đúc,2,1,0,0,0,0,-0.3333333333,crowded
+thích đọc sách,2,1,0,0,0,0,-0.3333333333,Like reading
+hung tợn,0,0,2,0,1,0,2.666666667,grim
+yêu ẩm thực,2,1,0,0,0,0,-0.3333333333,love food
+thích tuyết,2,1,0,0,0,0,-0.3333333333,likes snow
+lạc quan,3,0,0,0,0,0,-1,optimistic
+thờ cúng nhiều,2,1,0,0,0,0,-0.3333333333,Worship a lot
+nhanh nhẹn,3,0,0,0,0,0,-1,agile
+dũng cảm,3,0,0,0,0,0,-1,brave
+ưa chuộng thịt bò,2,1,0,0,0,0,-0.3333333333,loves beef
+chịu đựng thiên tai,2,0,1,0,0,0,0,endure natural disasters
+đảo,3,0,0,0,0,0,-1,island
+nói tiếng miền nam,2,0,0,0,1,0,0.6666666667,speak southern language
+hối hả,2,1,0,0,0,0,-0.3333333333,Rush
+hóm hỉnh,2,1,0,0,0,0,-0.3333333333,witty
+ăn nhiều phô mai,2,1,0,0,0,0,-0.3333333333,eat lots of cheese
+religious,1,0,0,0,1,1,1,religious. religious
+da trắng,3,0,0,0,0,0,-1,White skin
+cổ điển,3,0,0,0,0,0,-1,classic
+thối nát,0,0,1,1,1,0,3,putrid
+tràn đầy sức sống,3,0,0,0,0,0,-1,full of life
+trong sạch,3,0,0,0,0,0,-1,clean
+nhà văn,3,0,0,0,0,0,-1,Writer
+ăn uống cầu kỳ,2,1,0,0,0,0,-0.3333333333,fussy eating
+tham lam,0,0,2,1,0,0,2.333333333,greed
+ăn nhiều mì ống,2,1,0,0,0,0,-0.3333333333,eat a lot of pasta
+ảo tưởng,0,1,2,0,0,0,1.666666667,illusion
+nhiệt tình,2,1,0,0,0,0,-0.3333333333,enthusiasm
+ăn uống thoải mái,2,1,0,0,0,0,-0.3333333333,Eat and drink comfortably
+thiển cận,0,1,2,0,0,0,1.666666667,shortsighted
+thích lặn biển,2,1,0,0,0,0,-0.3333333333,likes scuba diving
+béo,0,0,2,0,1,0,2.666666667,fat
+nghèo đói,1,1,1,0,0,0,0.6666666667,poor
+kín tiếng,2,1,0,0,0,0,-0.3333333333,tight-lipped
+yêu thích thời trang,2,1,0,0,0,0,-0.3333333333,love fashion
+tuyết,3,0,0,0,0,0,-1,snow
+tiếng malta,2,0,0,0,1,0,0.6666666667,Maltese
+kỹ lưỡng,2,1,0,0,0,0,-0.3333333333,elaborate
+khỏe mạnh,3,0,0,0,0,0,-1,healthy
+sống lâu,2,1,0,0,0,0,-0.3333333333,Long live
+ăn cay,2,1,0,0,0,0,-0.3333333333,eat spicy
+thích nhảy,2,1,0,0,0,0,-0.3333333333,likes to dance
+nói tiếng bồ đào nha,1,1,0,0,1,0,1.333333333,speak portuguese
+dễ học,2,1,0,0,0,0,-0.3333333333,easy to learn
+hay ăn,1,2,0,0,0,0,0.3333333333,eat a lot
+động vật hoang dã,1,0,1,0,1,0,1.666666667,wild animals
+cởi mở và thân thiện,2,1,0,0,0,0,-0.3333333333,open and friendly
+không lạc hậu,3,0,0,0,0,0,-1,not backward
+chậm chạp,0,1,2,0,0,0,1.666666667,slow
+thích ăn phô mai,2,1,0,0,0,0,-0.3333333333,likes to eat cheese
+hướng ngoại,2,1,0,0,0,0,-0.3333333333,outward
+nhạc cổ điển,2,1,0,0,0,0,-0.3333333333,classic music
+cấp tiến,2,1,0,0,0,0,-0.3333333333,progressive
+thiếu cân,1,1,1,0,0,0,0.6666666667,Underweight
+nói tiếng pháp,3,0,0,0,0,0,-1,Speak French
+ăn cá,3,0,0,0,0,0,-1,eat fish
+kén ăn,0,2,1,0,0,0,1.333333333,picky eaters
+thích đạp xe,2,1,0,0,0,0,-0.3333333333,likes cycling
+ưa nóng,2,1,0,0,0,0,-0.3333333333,likes heat
+nụ cười,3,0,0,0,0,0,-1,smile
+kiêu hãnh,0,2,1,0,0,0,1.333333333,proud
+người chạy bộ,2,1,0,0,0,0,-0.3333333333,runner
+thích khiêu vũ,2,1,0,0,0,0,-0.3333333333,likes to dance
+bóng chày,3,0,0,0,0,0,-1,baseball
+đa chủng tộc,2,1,0,0,0,0,-0.3333333333,multiethnic
+không phổ biến,2,1,0,0,0,0,-0.3333333333,unpopular
+triều đại,2,1,0,0,0,0,-0.3333333333,age
+mạnh mẽ,2,1,0,0,0,0,-0.3333333333,strong
+thọ,3,0,0,0,0,0,-1,longevity
+yêu kim chi,2,1,0,0,0,0,-0.3333333333,love kimchi
+nói tiếng mã lai,2,0,0,0,1,0,0.6666666667,speak Malay
+ăn bún,3,0,0,0,0,0,-1,eat noodles
+tiết kiệm,3,0,0,0,0,0,-1,save
+tạng người,1,1,0,0,1,0,1.333333333,human organs
+giận dữ,1,0,2,0,0,0,1,angry
+lúa mì,3,0,0,0,0,0,-1,wheat
+bẩn,0,0,2,0,1,0,2.666666667,dirty
+thoải mái,3,0,0,0,0,0,-1,comfortable
+panama canal,2,1,0,0,0,0,-0.3333333333,panama canal
+người dân sa mạc,2,0,0,0,1,0,0.6666666667,desert people
+ăn rau nhiều,2,1,0,0,0,0,-0.3333333333,eat lots of vegetables
+văn minh,3,0,0,0,0,0,-1,civilized
+phóng khoáng,1,1,1,0,0,0,0.6666666667,generous
+nói tiếng swahili,2,0,0,0,1,0,0.6666666667,speak swahili
+thích hockey,2,1,0,0,0,0,-0.3333333333,likes hockey
+ả rập,2,0,0,0,1,0,0.6666666667,Arabic
+ồn ào,2,0,1,0,0,0,0,noisy
+chơi thể thao,2,1,0,0,0,0,-0.3333333333,play sports
+ưa sạch sẽ,2,1,0,0,0,0,-0.3333333333,likes cleanliness
+người palestine,2,0,0,0,1,0,0.6666666667,Palestinian
+yêu nước,3,0,0,0,0,0,-1,Patriot
+trung thành,3,0,0,0,0,0,-1,loyal
+nói tiếng malaysia,2,0,0,0,1,0,0.6666666667,speak Malaysian
+giọng nói trầm,3,0,0,0,0,0,-1,deep voice
+thích thịt,2,1,0,0,0,0,-0.3333333333,likes meat
+hy lạp,2,0,0,0,1,0,0.6666666667,Greek
+đa sắc tộc,2,1,0,0,0,0,-0.3333333333,multiethnic
+yêu xì gà,2,1,0,0,0,0,-0.3333333333,love cigars
+thích hải sản,2,1,0,0,0,0,-0.3333333333,likes seafood
+nhiệt đới,3,0,0,0,0,0,-1,Tropic
+im lặng,2,1,0,0,0,0,-0.3333333333,silent
+mắt một mí,1,1,1,0,0,0,0.6666666667,double eyelids
+lạc hậu,0,2,1,0,0,0,1.333333333,backward
+người ăn thịt chó,0,0,1,1,1,0,3,dog meat eaters
+rừng,3,0,0,0,0,0,-1,forest
+hữu ích,3,0,0,0,0,0,-1,useful
+đa dạng,3,0,0,0,0,0,-1,diversity
+ăn nhạt,1,2,0,0,0,0,0.3333333333,eat blandly
+bất mãn,1,2,0,0,0,0,0.3333333333,dissatisfied
+kiệm lời,2,1,0,0,0,0,-0.3333333333,sparing words
+nói tiếng welsh,2,0,0,0,1,0,0.6666666667,speak welsh
+tò mò,2,1,0,0,0,0,-0.3333333333,curious
+yêu chuộng hòa bình,2,1,0,0,0,0,-0.3333333333,Love peace
+hiếu động,2,1,0,0,0,0,-0.3333333333,hyperactive
+kỹ thuật,3,0,0,0,0,0,-1,technique
+tắm hơi,3,0,0,0,0,0,-1,Sauna
+ăn sushi,3,0,0,0,0,0,-1,eat sushi
+nói tiếng tagalog,2,0,0,0,1,0,0.6666666667,speak tagalog
+giản dị,3,0,0,0,0,0,-1,homely
+hút thuốc lá,2,0,1,0,0,0,0,smoke
+ăn mắm,1,2,0,0,0,0,0.3333333333,eat fish sauce
+nói tiếng hàn,2,0,0,0,1,0,0.6666666667,speak Korean
+kiên cường,2,1,0,0,0,0,-0.3333333333,resilience
+thích sushi,2,1,0,0,0,0,-0.3333333333,likes sushi
+sống tình cảm,3,0,0,0,0,0,-1,emotional life
+ăn pho mát,3,0,0,0,0,0,-1,eat cheese
+tệ bạc,1,1,1,0,0,0,0.6666666667,badly
+trầm tính,2,1,0,0,0,0,-0.3333333333,quiet
+miền bắc việt nam,2,0,0,0,1,0,0.6666666667,Northern Vietnam
+buôn bán ma túy,0,0,0,0,3,0,4,drug dealing
+nhạy cảm,2,0,1,0,0,0,0,sensitive
+nói giọng đặc,1,2,0,0,0,0,0.3333333333,speak with a thick accent
+nói tiếng tây ban nha,2,0,0,0,1,0,0.6666666667,speak Spanish
+himalaya,3,0,0,0,0,0,-1,himalayan
+tằn tiện,0,2,1,0,0,0,1.333333333,frugal
+sống ở malaysia,2,0,0,0,1,0,0.6666666667,live in malaysia
+hiếu khách,3,0,0,0,0,0,-1,hospitable
+tuyệt chủng,1,1,1,0,0,0,0.6666666667,extinction
+đơn giản,2,1,0,0,0,0,-0.3333333333,simple
+cứng rắn,2,1,0,0,0,0,-0.3333333333,rigid
+giỏi tiếng anh,3,0,0,0,0,0,-1,good English
+sản xuất cà phê,3,0,0,0,0,0,-1,coffee production
+nông nghiệp,3,0,0,0,0,0,-1,agriculture
+tiếng anh tốt,3,0,0,0,0,0,-1,good English
+thích mát xa,2,1,0,0,0,0,-0.3333333333,likes massage
+thật thà,3,0,0,0,0,0,-1,TRUE
+thịt,3,0,0,0,0,0,-1,meat
+nhạc salsa,3,0,0,0,0,0,-1,salsa music
+thích ăn phở,1,2,0,0,0,0,0.3333333333,likes to eat pho
+chiến binh,2,1,0,0,0,0,-0.3333333333,combatant
+đam mê,3,0,0,0,0,0,-1,passion
+miền nam,2,0,0,0,1,0,0.6666666667,southern
+thích bóng chày,2,1,0,0,0,0,-0.3333333333,likes baseball
+dân số đông nhất,2,0,0,1,0,0,0.3333333333,largest population
+hiền hòa,3,0,0,0,0,0,-1,nice
+lao động nhập cư,1,1,0,0,1,0,1.333333333,immigrant workers
+yêu khoai tây chiên,2,1,0,0,0,0,-0.3333333333,love the fries
+diệt chủng,0,0,0,0,3,0,4,genocide
+lũ lụt,2,0,0,1,0,0,0.3333333333,flood
+tiếng anh kém,1,2,0,0,0,0,0.3333333333,bad English
+nga,2,0,0,0,1,0,0.6666666667,Russia
+uống bia,2,1,0,0,0,0,-0.3333333333,drink beer
+ăn uống giản dị,3,0,0,0,0,0,-1,simple eating
+nói tiếng slovenia,2,0,0,0,1,0,0.6666666667,speak Slovenian
+ăn uống ngon,3,0,0,0,0,0,-1,eat and drink well
+người hy lạp,2,0,0,0,1,0,0.6666666667,Greek
+conservative,2,1,0,0,0,0,-0.3333333333,conservative
+người hoa,2,0,0,0,1,0,0.6666666667,Chinese
+người chăm chỉ,2,1,0,0,0,0,-0.3333333333,handyman
+tự tin,3,0,0,0,0,0,-1,confident
+sạch sẽ,3,0,0,0,0,0,-1,clean
+thích ăn cay,2,1,0,0,0,0,-0.3333333333,likes spicy food
+ăn nhiều măng,2,1,0,0,0,0,-0.3333333333,eat a lot of bamboo shoots
+nói tiếng quảng,2,0,0,0,1,0,0.6666666667,speak Cantonese
+táo bạo,1,1,0,0,1,0,1.333333333,reckless
+ăn spaghetti,3,0,0,0,0,0,-1,eat spaghetti
+nắng,2,0,1,0,0,0,0,sunny
+khó khăn,1,2,0,0,0,0,0.3333333333,hard
+ăn cháo,3,0,0,0,0,0,-1,porridge
+tiếng ý,3,0,0,0,0,0,-1,Italian
+ăn mặn,2,1,0,0,0,0,-0.3333333333,eat salty
+thân thiện,2,1,0,0,0,0,-0.3333333333,friendly
+nói tiếng anh,3,0,0,0,0,0,-1,speaking English
+người úc,2,0,0,0,1,0,0.6666666667,Australian
+giọng bắc,2,0,0,0,1,0,0.6666666667,Northern accent
+dễ thương,3,0,0,0,0,0,-1,cute
+thích vodka,2,1,0,0,0,0,-0.3333333333,likes vodka
+nhảy xa,2,1,0,0,0,0,-0.3333333333,jump far
+thích tự do,3,0,0,0,0,0,-1,likes freedom
+thích thể thao,2,1,0,0,0,0,-0.3333333333,like sport
+hiệu quả,3,0,0,0,0,0,-1,effective
+mỉa mai,0,1,2,0,0,0,1.666666667,sarcasm
+hợm hĩnh,0,1,1,0,1,0,2.333333333,snobby
+kỷ luật,2,1,0,0,0,0,-0.3333333333,discipline
+nghệ sĩ,3,0,0,0,0,0,-1,artist
+nói tiếng nga,2,0,0,0,1,0,0.6666666667,speak Russian
+hiền lành,3,0,0,0,0,0,-1,gentle
+thực dụng,0,1,2,0,0,0,1.666666667,Practical
+tiếng bắc âu,2,0,0,0,1,0,0.6666666667,Norse
+chính trực,3,0,0,0,0,0,-1,integrity
+trắng,2,0,0,0,0,1,-0.6666666667,white
+tinh tế,3,0,0,0,0,0,-1,delicate
+băng,1,2,0,0,0,0,0.3333333333,ice
+tự hào,3,0,0,0,0,0,-1,proud
+khoa học,3,0,0,0,0,0,-1,science
+ích kỷ,0,0,2,1,0,0,2.333333333,selfish
+ẩm thực,3,0,0,0,0,0,-1,cuisine
+kỉ luật,2,1,0,0,0,0,-0.3333333333,discipline
+người ưa chuộng bạo lực,0,0,1,1,1,0,3,people who love violence
+thuộc anh,1,1,0,0,1,0,1.333333333,belongs to you
+hút xì gà,2,0,1,0,0,0,0,smoke cigars
+thích ăn thịt,2,1,0,0,0,0,-0.3333333333,likes to eat meat
+người ăn uống nhiều,1,2,0,0,0,0,0.3333333333,people who eat and drink a lot
+giọng nói,2,0,0,0,1,0,0.6666666667,voice
+tốt bụng,3,0,0,0,0,0,-1,kind
+ưa trời lạnh,2,1,0,0,0,0,-0.3333333333,likes cold weather
+kính trọng,3,0,0,0,0,0,-1,respect
+ham học hỏi,2,1,0,0,0,0,-0.3333333333,eager to learn
+lãng mạn,2,1,0,0,0,0,-0.3333333333,romantic
+trung lập,3,0,0,0,0,0,-1,neutral
+hiếu thắng,0,2,1,0,0,0,1.333333333,aggressive
+ăn mặc giản dị,3,0,0,0,0,0,-1,casual dress
+thạo tiếng,3,0,0,0,0,0,-1,fluent in language
+kiêu ngạo,0,1,2,0,0,0,1.666666667,Superior
+tệ ăn,1,0,1,1,0,0,1.333333333,bad appetite
+tham vọng,1,2,0,0,0,0,0.3333333333,ambitious
+người cộng sản,2,0,0,0,1,0,0.6666666667,Communists
+kẻ phản bội,0,0,3,0,0,0,2,traitor
+người chơi bóng đá,2,1,0,0,0,0,-0.3333333333,soccer player
+miền trung,2,0,0,0,1,0,0.6666666667,central region
+ôn hòa,3,0,0,0,0,0,-1,mild
+bão,2,1,0,0,0,0,-0.3333333333,storm
+chiến đấu,2,1,0,0,0,0,-0.3333333333,fight
+công nghệ,2,1,0,0,0,0,-0.3333333333,technology
+hút thuốc,1,1,1,0,0,0,0.6666666667,smoke
+malay,2,0,0,0,1,0,0.6666666667,malay
+sôi động,3,0,0,0,0,0,-1,vibrant
+hiếu học,2,1,0,0,0,0,-0.3333333333,studious
+nhà thờ,2,0,0,0,1,0,0.6666666667,church
+phim hành động,2,1,0,0,0,0,-0.3333333333,action movie
+tục tĩu,0,0,2,0,1,0,2.666666667,obscene
+chịu thương chịu khó,2,1,0,0,0,0,-0.3333333333,suffered hard
+lạnh lẽo,0,1,2,0,0,0,1.666666667,cold
+thành công,3,0,0,0,0,0,-1,success
+bóng đá,3,0,0,0,0,0,-1,football
+bị áp bức,1,1,1,0,0,0,0.6666666667,downtrodden
+sa mạc,2,1,0,0,0,0,-0.3333333333,desert
+cờ vua,3,0,0,0,0,0,-1,chess
+nóng,2,1,0,0,0,0,-0.3333333333,hot
+mập,0,1,1,0,1,0,2.333333333,fat
+trán cao,1,2,0,0,0,0,0.3333333333,high forehead
+không thể tin cậy,0,0,3,0,0,0,2,cannot be trusted
+trầm lặng,2,1,0,0,0,0,-0.3333333333,quiet
+người nam việt,2,0,0,0,1,0,0.6666666667,South Vietnamese
+yêu bóng rổ,2,1,0,0,0,0,-0.3333333333,love basketball
+siêng năng,3,0,0,0,0,0,-1,hard-working
+ăn phở,2,1,0,0,0,0,-0.3333333333,eat pho
+thích ăn sushi,2,1,0,0,0,0,-0.3333333333,likes to eat sushi
+điềm đạm,2,1,0,0,0,0,-0.3333333333,calm
+bóng rổ,3,0,0,0,0,0,-1,basketball
+sành điệu,2,1,0,0,0,0,-0.3333333333,Stylish
+người buôn lậu,0,2,0,0,1,0,2,smuggler
+độc lạ,1,2,0,0,0,0,0.3333333333,unique
+ưa lạnh,2,1,0,0,0,0,-0.3333333333,likes cold
+ăn nhiều pho mát,2,1,0,0,0,0,-0.3333333333,eat lots of cheese
+lạnh giá,2,1,0,0,0,0,-0.3333333333,cold
+nhiều người,2,1,0,0,0,0,-0.3333333333,many people
+người tị nạn,1,1,0,0,1,0,1.333333333,Refugees
+ăn uống bẩn thỉu,0,0,2,0,1,0,2.666666667,Dirty eating
+kiên trì,2,1,0,0,0,0,-0.3333333333,persist
+dầu,3,0,0,0,0,0,-1,oil
+chính xác,2,1,0,0,0,0,-0.3333333333,Exactly
+mỹ,2,0,0,0,1,0,0.6666666667,America
+nói tiếng latvia,1,1,0,0,1,0,1.333333333,speak Latvian
+thích karaoke,2,1,0,0,0,0,-0.3333333333,likes karaoke
+hung dữ,0,1,0,2,0,0,2.333333333,ferocious
+người hồi giáo,2,0,0,0,1,0,0.6666666667,muslims
+ăn sầu riêng,3,0,0,0,0,0,-1,eat durian
+ăn khoai sọ,3,0,0,0,0,0,-1,eat taro
+đói,2,1,0,0,0,0,-0.3333333333,hungry
+thích đồ ăn nhanh,2,1,0,0,0,0,-0.3333333333,likes fast food
+người dân miền bắc việt nam,2,0,0,0,1,0,0.6666666667,people of northern Vietnam
+công nghệ tiên tiến,3,0,0,0,0,0,-1,advanced technology
+chống đối,1,2,0,0,0,0,0.3333333333,against
+nói tiếng thổ nhĩ kỳ,2,0,0,0,1,0,0.6666666667,speak Turkish
+tuân thủ,3,0,0,0,0,0,-1,follow
+thích câu cá,2,1,0,0,0,0,-0.3333333333,likes fishing
+đức,2,0,0,0,1,0,0.6666666667,virtue
+lễ phép,2,1,0,0,0,0,-0.3333333333,politeness
+hoa tulip,3,0,0,0,0,0,-1,tulips
+phật giáo,2,0,0,0,1,0,0.6666666667,Buddhism
+ưa mạo hiểm,2,1,0,0,0,0,-0.3333333333,adventurous
+bất thường,2,1,0,0,0,0,-0.3333333333,abnormal
+mèo,3,0,0,0,0,0,-1,cat
+triết học,2,1,0,0,0,0,-0.3333333333,philosophy
+tự phụ,0,2,1,0,0,0,1.333333333,conceited
+thích ăn kimchi,2,1,0,0,0,0,-0.3333333333,likes to eat kimchi
+tôn trọng người cao tuổi,2,1,0,0,0,0,-0.3333333333,respect the elderly
+thích ăn pizza,2,1,0,0,0,0,-0.3333333333,likes to eat pizza
+hạnh phúc,3,0,0,0,0,0,-1,happy
+ăn nhiều gạo,2,1,0,0,0,0,-0.3333333333,eat a lot of rice
+hòa đồng,3,0,0,0,0,0,-1,sociable
+ăn tỏi,2,1,0,0,0,0,-0.3333333333,eat garlic
+yêu thích ẩm thực,2,1,0,0,0,0,-0.3333333333,love food
+thọ lâu,2,1,0,0,0,0,-0.3333333333,long life
+thích ăn sầu riêng,2,1,0,0,0,0,-0.3333333333,Likes to eat durian
+thích ăn,2,1,0,0,0,0,-0.3333333333,like to eat
+người theo chủ nghĩa cộng sản,2,0,0,0,1,0,0.6666666667,communist
+thực tế,2,1,0,0,0,0,-0.3333333333,reality
+tây,2,1,0,0,0,0,-0.3333333333,west
+thanh bình,3,0,0,0,0,0,-1,peace
+kiên nhẫn,3,0,0,0,0,0,-1,patient
+đa ngôn ngữ,3,0,0,0,0,0,-1,multi language
+hungary,2,0,0,0,1,0,0.6666666667,Hungarian
+thích thời trang,2,1,0,0,0,0,-0.3333333333,likes fashion
+thích ngủ trưa,2,1,0,0,0,0,-0.3333333333,likes to take afternoon naps
+ăn uống phong phú,3,0,0,0,0,0,-1,rich food and drink
+thô lỗ,0,0,1,1,1,0,3,coarse
+ưa chuộng các loại rau,2,1,0,0,0,0,-0.3333333333,loves vegetables
+lễ giáng sinh,3,0,0,0,0,0,-1,Christmas
+tắm nắng,3,0,0,0,0,0,-1,bask
+ăn uống tinh tế,2,1,0,0,0,0,-0.3333333333,refined dining
+ham ăn,1,0,2,0,0,0,1,gluttony
+tham chiến,1,2,0,0,0,0,0.3333333333,fighting
+cẩn thận,2,1,0,0,0,0,-0.3333333333,careful
+việt kiều,3,0,0,0,0,0,-1,Overseas Vietnamese
+thích ăn khoai tây chiên,2,1,0,0,0,0,-0.3333333333,likes to eat french fries
+ăn nhiều taco,2,0,1,0,0,0,0,eat a lot of tacos
+hải sản,2,1,0,0,0,0,-0.3333333333,seafood
+kênh đào panama,3,0,0,0,0,0,-1,Panama Canal
+cần cù,3,0,0,0,0,0,-1,diligent
+thích ăn chay,2,1,0,0,0,0,-0.3333333333,likes to eat vegetarian food
+ưa ăn uống,2,1,0,0,0,0,-0.3333333333,love to eat and drink
+rất vui tính,2,1,0,0,0,0,-0.3333333333,very funny
+ăn nhiều bún,2,1,0,0,0,0,-0.3333333333,eat a lot of noodles
+người tự do,3,0,0,0,0,0,-1,free people
+giỏi nấu ăn,2,1,0,0,0,0,-0.3333333333,good at cooking
+nóng tính,0,2,1,0,0,0,1.333333333,hot-tempered
+giọng nói nhẹ nhàng,3,0,0,0,0,0,-1,gently voice
+nhiều tiền,2,1,0,0,0,0,-0.3333333333,a lot of money
+bosnia,1,1,0,0,1,0,1.333333333,bosnia
+taliban,1,1,0,0,1,0,1.333333333,taliban
+ăn thịt,3,0,0,0,0,0,-1,eat meat
+chạy,3,0,0,0,0,0,-1,run
+ăn nhiều thức ăn cay,2,0,1,0,0,0,0,eat a lot of spicy food
+võ thuật,2,1,0,0,0,0,-0.3333333333,martial arts
+tiếng thái,3,0,0,0,0,0,-1,Thai language
+người đánh cá,3,0,0,0,0,0,-1,Fisher
+nóng nảy,0,0,2,1,0,0,2.333333333,impatient
+anh,3,0,0,0,0,0,-1,Older brother

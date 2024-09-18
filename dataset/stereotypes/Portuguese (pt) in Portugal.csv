@@ -1,0 +1,1521 @@
+identity,attribute,non_stereotype,stereotype,unsure,mean_offensive_score,translated_identity,translated_attribute_list
+Paquistanesa,terrorista,1,2,0,4,Pakistani,terrorist
+Iraquiana,terrorista,0,3,0,4,Iraqi,terrorist
+Crimeanos,ladrões,2,1,0,4,Crimeans,thieves
+Iraniana,terrorista,1,2,0,4,Iranian,terrorist
+nigerianos,corrupto,2,1,0,4,Nigerians,corrupt
+Crimeanas,ladrões,2,1,0,4,Crimeans,thieves
+alemães,nazista,0,3,0,4,Germans,Nazi
+Argelina,terrorista,1,2,0,4,Algerian,terrorist
+paquistaneses,terrorista,1,2,0,4,Pakistanis,terrorist
+afegãos,terrorista,1,2,0,4,Afghans,terrorist
+Palestina,terrorista,1,2,0,4,Palestine,terrorist
+palestinos,terrorista,0,3,0,4,Palestinians,terrorist
+argelinos,terrorista,2,1,0,4,Algerians,terrorist
+iraquianos,terrorista,0,3,0,4,Iraqis,terrorist
+iranianos,terrorista,0,3,0,4,Iranians,terrorist
+Crimeanas,bandidos,1,2,0,3.666666667,Crimeans,bandits
+Colombiana,traficante,0,3,0,3.666666667,Colombian,drug dealer
+colombianos,traficantes de drogas,0,3,0,3.666666667,Colombians,drug dealer
+sérvios,assassino,2,1,0,3.666666667,Serbs,assassin
+nigerianos,traficante,1,2,0,3.666666667,Nigerians,drug dealer
+colombianos,traficante,0,3,0,3.666666667,Colombians,drug dealer
+sérvios,violento,1,2,0,3.333333333,Serbs,violent
+Brácaros,violento,2,1,0,3.333333333,Bracaros,violent
+equatoguineenses,governantes corruptos,1,2,0,3.333333333,equatoguineans,corrupt rulers
+Braguesas,boxer,2,1,0,-1,Braguesas,boxer
+marroquinos,fediam,1,2,0,3,Moroccans,they stank
+Bragançanos,sanguinários,2,1,0,3,Bragançanos,bloodthirsty
+afegãos,adoram a guerra,2,1,0,3,Afghans,love war
+coreanos,ditadores,1,2,0,3,Koreans,dictators
+Marroquina,fediam,1,2,0,3,Moroccan,they stank
+norte-coreana,ditadores,1,2,0,3,North Korean,dictators
+sul-africanos,racista,0,3,0,3,South Africans,racist
+irlandeses,beberrão,0,3,0,3,Irish,drunkard
+romenos,cigano,0,3,0,2.666666667,Romanians,Gypsy
+braguesas,brega,2,1,0,2.333333333,braguesas,corny
+zambiana,gorda,2,1,0,2.666666667,Zambian,fat
+Americanas,gordo,0,3,0,2.666666667,Americans,fat
+Romena,cigano,0,3,0,2.666666667,Romanian,Gypsy
+Bragancesas,alegre,2,1,0,-1,Bragancesas,happy
+Kuwaitiana,gorda,2,1,0,2.666666667,Kuwaiti,fat
+Aveirenses,alcóolico,2,1,0,2.666666667,Aveirenses,alcoholic
+americanos,obeso,0,3,0,2.666666667,Americans,obese
+Bragançanas,acolhedora,2,1,0,-1,Bragançanas,welcoming
+belgas,gordo,2,1,0,2.666666667,Belgians,fat
+Salvadorenhas,gorda,2,1,0,2.666666667,Salvadoran,fat
+somalis,pirata,0,3,0,2.666666667,Somalis,pirate
+malgaxes,selvagem,2,1,0,2.666666667,Malagasy,wild
+braguesas,confortáveis,2,1,0,-1,braguesas,comfortable
+Búlgaras,gorda,1,2,0,2.666666667,Bulgarians,fat
+norte-coreana,obcecados com armas,1,2,0,2.666666667,North Korean,obsessed with weapons
+Brácaros,primitivo,1,2,0,2.666666667,Bracaros,primitive
+norte-coreana,stalinista,1,2,0,2.666666667,North Korean,Stalinist
+americanos,gordo,0,3,0,2.666666667,Americans,fat
+Crimeanas,pirata,1,2,0,2.666666667,Crimeans,pirate
+Bragantinos,arrogante,2,1,0,2.333333333,Bragantinos,arrogant
+Bragançanas,alegre,2,1,0,-1,Bragançanas,happy
+bragantinas,arrogante,2,1,0,2.333333333,bragantinas,arrogant
+braguesas,confortável,2,1,0,-1,braguesas,comfortable
+Americanas,gananciosa,1,2,0,2.333333333,Americans,greedy
+americanos,arrogante,1,2,0,2.333333333,Americans,arrogant
+irlandeses,beberrões,0,3,0,2.333333333,Irish,drunkards
+Crimeanas,criminoso,1,2,0,2.333333333,Crimeans,criminal
+russos,beberrões,0,3,0,2.333333333,Russians,drunkards
+bragancesas,arrogante,2,1,0,2.333333333,bragancesas,arrogant
+Braguesas,corajoso,2,1,0,-1,Braguesas,brave
+Bragançanos,arrogante,2,1,0,2.333333333,Bragançanos,arrogant
+brasileiros,mestiço,0,3,0,2.333333333,Brazilians,mixed race
+sérvios,agressivo,1,2,0,2.333333333,Serbs,aggressive
+Escalabitanos,ambicioso,1,2,0,-1,Escalabitans,ambitious
+Brasileira,mestiço,0,3,0,2.333333333,Brazilian,mixed race
+Vila-realenses,azeiteiro,2,1,0,2.333333333,Vila-realenses,olive oil seller
+Bragancesas,autoritário,2,1,0,1,Bragancesas,authoritarian
+irlandeses,bebuns,0,3,0,2,Irish,babies
+mauritana,escravista,2,1,0,2,Mauritania,slave
+peruanos,índio,1,2,0,2,Peruvians,Indian
+Bragançanas,aristocráticas,2,1,0,-1,Bragançanas,aristocratic
+Argentinas,machista,2,1,0,2,Argentina,male chauvinist
+Bracaraugustanas,acolhedora,2,1,0,-1,Bracaraugustanas,welcoming
+bragançanas,arrogante,2,1,0,2.333333333,bragançanas,arrogant
+norte-coreana,antiamericano,0,3,0,2,North Korean,anti-American
+brasileiros,miscigenado,1,2,0,2,Brazilians,mixed race
+argentinos,machista,2,1,0,2,Argentines,male chauvinist
+chineses,comiam cachorro,1,2,0,2,Chinese,ate dog
+Espanhola,falastrões,1,2,0,1.666666667,Spanish,loudmouths
+afegãos,hostis,0,3,0,1.666666667,Afghans,hostile
+Braguesas,curtas,2,1,0,-1,Braguesas,short
+Italiana,ciumenta,2,1,0,1.666666667,Italian,jealous
+escoceses,bagpipes,1,2,0,-1,Scottish,bagpipes
+espanhóis,falastrões,2,1,0,1.666666667,Spanish,loudmouths
+Mexicanos,gostam de tequila,0,3,0,1.666666667,Mexicans,they like tequila
+irlandeses,bebedor,0,3,0,1.666666667,Irish,drinker
+colimbrienses,obcecados,2,1,0,1.666666667,colimbrienses,obsessed
+britânicos,beberam muito,2,1,0,1.666666667,British people,they drank a lot
+americanos,egoísta,0,3,0,1.666666667,Americans,selfish
+Bragantinos,fanfarrões,2,1,0,1.666666667,Bragantinos,bucks
+Bragantinos,fanfarrão,2,1,0,1.666666667,Bragantinos,bully
+Americanas,egoísta,1,2,0,1.666666667,Americans,selfish
+britânicos,esnobe,0,3,0,1.666666667,British people,snob
+Mexicana,gostam de tequila,0,3,0,1.666666667,Mexican,they like tequila
+Inglês,esnobe,1,2,0,1.666666667,English,snob
+Brigantinos,velha,2,1,0,1.666666667,Brigantines,old
+Britânica,esnobe,1,2,0,1.666666667,British,snob
+irlandeses do norte,bebem muito,0,3,0,1.666666667,northern irish,they drink a lot
+irlandeses,bebem muito,0,3,0,1.666666667,Irish,they drink a lot
+americanos,prepotentes,1,2,0,1.666666667,Americans,arrogant
+Americanas,prepotentes,1,2,0,1.666666667,Americans,arrogant
+Brácaros,barulhentos,2,1,0,1.666666667,Bracaros,noisy
+Centro-Africana,negro,1,2,0,1.333333333,Central African,black
+angolanos,negro,1,2,0,1.333333333,Angolans,black
+nigerianos,negro,1,2,0,1.333333333,Nigerians,black
+Galeses,bêbado,0,3,0,1.333333333,Welsh,drunk
+Moçambicanos,negro,1,2,0,1.333333333,Mozambicans,black
+norte-coreana,obcecada,2,1,0,1.333333333,North Korean,obsessed
+equatoguineenses,negro,1,2,0,1.333333333,equatoguineans,black
+Colombiana,seios grandes,1,2,0,1.333333333,Colombian,busty
+americanos,materialista,0,3,0,1.333333333,Americans,materialistic
+Guianenses,negro,1,2,0,1.333333333,Guyanese,black
+Congolesa,negro,1,2,0,1.333333333,Congolese,black
+Angolana,negro,1,2,0,1.333333333,Angolan,black
+Senegalesa,negro,1,2,0,1.333333333,Senegalese,black
+marroquinos,escuras,0,3,0,1.333333333,Moroccans,dark
+camaroneses,negro,1,2,0,1.333333333,Cameroonians,black
+Cabo-verdianos,negro,1,2,0,1.333333333,Cape Verdeans,black
+surinameses,negro,1,2,0,1.333333333,Surinamese,black
+americanos,egocêntricos,0,3,0,1.333333333,Americans,egocentric
+Russa,bêbado,0,3,0,1.333333333,Russian,drunk
+senegaleses,negro,1,2,0,1.333333333,Senegalese,black
+suazis,negro,2,1,0,1.333333333,Swazis,black
+Guineenses,negro,1,2,0,1.333333333,Guineans,black
+Braguesas,desconfortáveis,2,1,0,-0.3333333333,Braguesas,uncomfortable
+congoleses,negro,1,2,0,1.333333333,Congolese,black
+mauritanos,negro,1,2,0,1.333333333,Mauritanians,black
+sul-africanos,negro,1,2,0,1.333333333,South Africans,black
+russos,bêbado,1,2,0,1.333333333,Russians,drunk
+Namibianos,negro,2,1,0,1.333333333,Namibians,black
+gaboneses,negro,1,2,0,1.333333333,Gabonese,black
+Venezuelana,barulhenta,1,2,0,1.333333333,Venezuelan,noisy
+Mongóis,brutais,0,3,0,1.333333333,Mongols,brutal
+Brácaros,bárbaro,2,1,0,1.333333333,Bracaros,barbarian
+israelenses,barulhento,2,1,0,1.333333333,Israelis,noisy
+albicastrenses,negro,2,1,0,1.333333333,albicastrenses,black
+portugueses,colonizador,0,3,0,1.333333333,Portuguese,colonizer
+irlandeses,bêbado,0,3,0,1.333333333,Irish,drunk
+centro-africanos,negro,2,1,0,1.333333333,Central Africans,black
+Braguesas,engraçadas,2,1,0,-1,Braguesas,funny
+Sudanesa,escura,1,2,0,1,Sudanese,dark
+Holandesas,frígidas,1,2,0,1,Dutch,frigid
+Tanzaniana,escura,1,2,0,1,Tanzania,dark
+Vianenses,boêmio,1,2,0,1,Vianenses,Bohemian
+russos,rude,1,2,0,1,Russians,rude
+Setubalense,peixeiro,0,3,0,1,Setubalense,fishmonger
+Brigantinos,velho,2,1,0,1,Brigantines,old
+espanhóis,dominadores,1,2,0,1,Spanish,dominators
+Setubalense,fala muito,2,1,0,1,Setubalense,talks a lot
+butaneses,explosivo,2,1,0,1,Bhutanese,explosive
+Braguesas,engraçado,2,1,0,-1,Braguesas,funny
+norte-coreana,obcecado,2,1,0,1,North Korean,obsessed
+Líbia,áspero,2,1,0,1,Libya,rough
+Bragancesas,bonita,2,1,0,-1,Bragancesas,beautiful
+Bragueses,velho,2,1,0,1,Bragueses,old
+espanhóis,fala muito,1,2,0,1,Spanish,talks a lot
+Líbia,áspera,2,1,0,1,Libya,rough
+coreanos,autoritário,1,2,0,1,Koreans,authoritarian
+Espanhola,dominadores,2,1,0,1,Spanish,dominators
+Síria,áspero,2,1,0,1,Syria,rough
+Bragançanos,autoritário,2,1,0,1,Bragançanos,authoritarian
+Espanhola,fala muito,1,2,0,1,Spanish,talks a lot
+Letã,baixinho,2,1,0,1,Latvian,shorty
+Namibiana,escura,1,2,0,1,Namibian,dark
+mauritanos,camelos,2,1,0,1,Mauritanians,camels
+Gambiana,escura,1,2,0,1,Gambian,dark
+norte-coreana,isolacionista,1,2,0,1,North Korean,isolationist
+Senegalesa,escura,1,2,0,1,Senegalese,dark
+norte-coreana,autoritário,1,2,0,1,North Korean,authoritarian
+zambiana,escura,1,2,0,1,Zambian,dark
+russos,gostam de vodka,0,3,0,0.6666666667,Russians,they like vodka
+Espanhola,obcecada com a limpeza,2,1,0,0.6666666667,Spanish,obsessed with cleaning
+Crimeanas,difícil entender,2,1,0,0.6666666667,Crimeans,hard to understand
+escoceses,bebedores,0,3,0,0.3333333333,Scottish,drinkers
+marroquinos,marrom,1,2,0,0.6666666667,Moroccans,brown
+Gouveenses,pobre,2,1,0,0.6666666667,Gouveenses,poor
+equatoguineenses,autoritária,2,1,0,0.6666666667,equatoguineans,authoritarian
+Marroquina,marrom,1,2,0,0.6666666667,Moroccan,brown
+coreanos,fanático,2,1,0,0.6666666667,Koreans,fanatic
+belgas,comiam muito,1,2,0,0.6666666667,Belgians,they ate a lot
+bejenses,pobre,2,1,0,0.6666666667,bejenses,poor
+Indianos,pele escura,1,2,0,0.6666666667,Indians,dark skin
+Checos,boêmios,1,2,0,0.6666666667,Czechs,bohemians
+americanos,gostam de armas,0,3,0,0.6666666667,Americans,they like guns
+butaneses,inflamável,2,1,0,0.6666666667,Bhutanese,flammable
+Crimeanos,difícil entender,2,1,0,0.6666666667,Crimeans,hard to understand
+Russa,gostam de vodka,0,3,0,0.6666666667,Russian,they like vodka
+Líbia,guerrilha,1,2,0,0.6666666667,Libya,guerrilla
+norte-coreana,autoritária,1,2,0,0.6666666667,North Korean,authoritarian
+Espanhola,faladora,1,2,0,0.6666666667,Spanish,talkative
+lisboanas,vaidosas,2,1,0,0.6666666667,Lisbon,vain
+Braguesas,feia,2,1,0,2.333333333,Braguesas,ugly
+Espanhola,impulsiva,1,2,0,0.3333333333,Spanish,impulsive
+Britânica,magra,2,1,0,0.3333333333,British,slim
+albicastrenses,branco,2,1,0,0.3333333333,albicastrenses,white
+portuenses,acolhedores,1,2,0,-1,Porto,welcoming
+Tailandesa,magra,1,2,0,0.3333333333,Thai,slim
+tunisiana,magra,2,1,0,0.3333333333,Tunisian,slim
+russos,mais frio,2,1,0,0.3333333333,Russians,colder
+Sarauís,beduínos,2,1,0,0.3333333333,Sahrawis,Bedouins
+Suíça,rígida,2,1,0,0.3333333333,Switzerland,rigid
+Russa,mais frio,1,1,1,0.3333333333,Russian,colder
+Marroquina,cabeludos,0,3,0,0.3333333333,Moroccan,hairy
+Britânica,rígida,1,2,0,0.3333333333,British,rigid
+nicaraguenses,rebelde,1,2,0,0.3333333333,Nicaraguans,rebel
+Checos,gostam de cerveja,1,2,0,0.3333333333,Czechs,they like beer
+Faroês,viking,2,1,0,0.3333333333,Faroese,viking
+Alemã,rígida,1,2,0,0.3333333333,German,rigid
+malauiana,magra,1,2,0,0.3333333333,Malawian,slim
+Coreanas,magra,1,2,0,0.3333333333,Korean,slim
+franceses,gostam de vinho,0,3,0,0.3333333333,French,they like wine
+Eslovenas,magra,1,2,0,0.3333333333,Slovenian,slim
+norte-coreana,magra,1,2,0,0.3333333333,North Korean,slim
+Francesa,magra,1,2,0,0.3333333333,French,slim
+norte-coreana,rígida,1,2,0,0.3333333333,North Korean,rigid
+Suecas,magra,1,2,0,0.3333333333,Swedish,slim
+marroquinos,cabeludos,2,1,0,0.3333333333,Moroccans,hairy
+vietnamitas,comunista,1,2,0,0.3333333333,Vietnamese,communist
+Galeses,rebelde,2,1,0,0.3333333333,Welsh,rebel
+Tcheca,gostam de cerveja,1,2,0,0.3333333333,Czech,they like beer
+Indianos,nativo,2,1,0,0.3333333333,Indians,native
+cubanos,comunista,0,3,0,0.3333333333,Cubans,communist
+Queniana,magra,0,3,0,0.3333333333,Kenyan,slim
+escoceses,bebem muito,0,3,0,1.666666667,Scottish,they drink a lot
+mauricianos,mulatas,2,1,0,0.3333333333,Mauritians,mulattas
+norte-coreana,comunista,1,2,0,0.3333333333,North Korean,communist
+bielorrussos,branco,1,2,0,0.3333333333,Belarusians,white
+coreanos,comunista,1,2,0,0.3333333333,Koreans,communist
+Holandesas,baixinha,2,1,0,0.3333333333,Dutch,short
+Senegalesa,magra,2,1,0,0.3333333333,Senegalese,slim
+Italianos,falam alto,0,3,0,0.3333333333,Italians,speak loudly
+irlandeses do norte,bebedores,0,3,0,0.3333333333,northern irish,drinkers
+Escoceses,beberrões,0,3,0,2.333333333,Scottish,drunkards
+Francesa,gostam de vinho,0,3,0,0.3333333333,French,they like wine
+irlandeses do norte,protestante,0,3,0,0.3333333333,northern irish,Protestant
+irlandeses,bebedores,0,3,0,0.3333333333,Irish,drinkers
+cubanos,gostam de rum,0,3,0,0.3333333333,Cubans,they like rum
+Italiana,dramático,0,3,0,0.3333333333,Italian,dramatic
+Iraniana,burka,2,1,0,0.3333333333,Iranian,burka
+Crimeanos,são russos,2,1,0,0.3333333333,Crimeans,are Russians
+americanos,capitalista,0,3,0,0.3333333333,Americans,capitalist
+Brasileira,arretada,0,3,0,0.3333333333,Brazilian,arretada
+Djibutiana,magra,2,1,0,0.3333333333,Djiboutian,slim
+Paquistanesa,burka,2,1,0,0.3333333333,Pakistani,burka
+Setubalense,sardinheiro,0,3,0,0.3333333333,Setubalense,sardine
+Italiana,falam alto,0,3,0,0.3333333333,Italian,speak loudly
+Galeses,bebedores,0,3,0,0.3333333333,Welsh,drinkers
+Estoniana,baixinha,2,1,0,0.3333333333,Estonian,short
+islandês,viking,2,1,0,0.3333333333,Icelandic,viking
+Bragancesas,conservadora,2,1,0,-1,Bragancesas,conservative
+Italianos,temperamentais,1,2,0,0,Italians,temperamental
+Holandeses,calvinistas,2,1,0,0,Dutchmen,Calvinists
+lisboanas,liberais,2,1,0,0,Lisbon,liberals
+americanos,gostam de comer fast food,0,3,0,0,Americans,like to eat fast food
+Portuenses,alegre,1,2,0,-1,Portuenses,happy
+catarianos,rico,1,2,0,0,Qataris,rich
+tailandeses,passivo,2,1,0,0,Thai,passive
+Bragantinas,rica,2,1,0,0,Bragantinas,rich
+emiratis,rico,0,3,0,0,emiratis,rich
+eborenses,alentejano,2,1,0,0,eborenses,Alentejo
+Suíça,chocolate,0,3,0,0,Switzerland,chocolate
+Kuwaitiana,rico,0,3,0,0,Kuwaiti,rich
+Bruneianos,rico,2,1,0,0,Bruneians,rich
+albicastrenses,alentejano,2,1,0,0,albicastrenses,Alentejo
+Kuwaitiana,rica,0,3,0,0,Kuwaiti,rich
+Bragançanos,rico,2,1,0,0,Bragançanos,rich
+Kuwaiti,rico,0,3,0,0,Kuwaiti,rich
+equatorianos,equatoriais,2,1,0,0,Ecuadorians,equatorial
+Italiana,temperamentais,1,2,0,0,Italian,temperamental
+Luxemburga,rico,0,3,0,0,Luxembourg,rich
+Holandesas,calvinistas,2,1,0,0,Dutch,Calvinists
+Bahreini,rico,0,3,0,0,Bahraini,rich
+Luxemburga,pequeno,1,2,0,0,Luxembourg,small
+Bragancesas,conservadores,2,1,0,-1,Bragancesas,conservatives
+Luxemburga,rica,0,3,0,0,Luxembourg,rich
+bielorrussos,russo,2,1,0,0,Belarusians,Russian
+Crimeanos,russo,2,1,0,0,Crimeans,Russian
+sérvios,temperamental,2,1,0,0,Serbs,temperamental
+Portalegrenses,alentejano,2,1,0,0,Portalegrenses,Alentejo
+Uruguaia,raçudos,2,1,0,0,Uruguay,raçudos
+Mexicanos,gostam de tacos,0,3,0,0,Mexicans,they like tacos
+Mexicana,gostam de tacos,0,3,0,0,Mexican,they like tacos
+Crimeanas,difíceis de entender,2,1,0,0,Crimeans,difficult to understand
+húngaros,melancólico,1,2,0,0,Hungarians,melancholic
+Liechtensteiner,rico,1,2,0,0,Liechtensteiner,rich
+cubanos,fumantes,0,3,0,0,Cubans,smokers
+Conimbricenses,académicos,1,2,0,-1,Conimbricenses,academics
+Americanas,ousada,2,1,0,-0.3333333333,Americans,bold
+Setubalense,orgulhoso,2,1,0,-0.3333333333,Setubalense,proud
+Palestina,nação sem estado,2,1,0,-0.3333333333,Palestine,stateless nation
+Vienesas,gostam de salsicha,2,1,0,-0.3333333333,Viennese,they like sausage
+Argentinas,ousada,1,2,0,-0.3333333333,Argentina,bold
+Brigantinos,antiga,2,1,0,-0.3333333333,Brigantines,old
+venezuelanos,festeiro,1,2,0,-0.3333333333,Venezuelans,partygoer
+lisboanas,festeiras,2,1,0,-0.3333333333,Lisbon,party girls
+americanos,gostam de fast food,0,3,0,-0.3333333333,Americans,like fast food
+Luxemburga,pequeno país,2,1,0,-0.3333333333,Luxembourg,small country
+Suecas,frio,1,1,1,-0.3333333333,Swedish,cold
+Espanhola,amantes,1,2,0,-0.3333333333,Spanish,lovers
+Braguesas,gorda,2,1,0,2.666666667,Braguesas,fat
+noruegueses,frio,2,1,0,-0.3333333333,Norwegians,cold
+Colombiana,festeiro,0,3,0,-0.3333333333,Colombian,partygoer
+Holandesas,ousada,2,1,0,-0.3333333333,Dutch,bold
+Coimbrãs,erudito,0,3,0,-0.3333333333,Coimbras,erudite
+Filandeses,frio,2,1,0,-0.3333333333,Finns,cold
+espanhóis,amantes,2,1,0,-0.3333333333,Spanish,lovers
+Espanhola,excitantes,1,2,0,-0.3333333333,Spanish,exciting
+Bracaraugustanos,antigo,2,1,0,-0.3333333333,Bracaraugustans,old
+Bragantinos,festeiro,2,1,0,-0.3333333333,Bragantinos,partygoer
+americanos,gostam de hambúrguer,0,3,0,-0.3333333333,Americans,they like hamburgers
+Espanhola,menos usado,2,1,0,-0.3333333333,Spanish,least used
+Australianos,aborígene,2,1,0,-0.3333333333,Australians,aboriginal
+malgaxes,animais exóticos,2,1,0,-0.3333333333,Malagasy,exotic animals
+Palestina,sofridos,0,3,0,-0.3333333333,Palestine,suffered
+belgas,bons em cerveja,0,3,0,-0.3333333333,Belgians,good at beer
+braganceses,orgulhoso,2,1,0,-0.3333333333,braganceses,proud
+espanhóis,gostam de touros,0,3,0,-0.3333333333,Spanish,they like bulls
+bracarenses,orgulhoso,2,1,0,-0.3333333333,bracarenses,proud
+Britânica,ousada,2,1,0,-0.3333333333,British,bold
+suecos,frio,2,1,0,-0.3333333333,Swedes,cold
+Setubalense,peixe,0,3,0,-0.3333333333,Setubalense,fish
+colombianos,festeiro,2,1,0,-0.3333333333,Colombians,partygoer
+Brigantinos,guerra,2,1,0,-0.3333333333,Brigantines,war
+Vienesas,salsicha,2,1,0,-0.3333333333,Viennese,sausage
+Marroquina,com mais dinheiro,2,1,0,-0.3333333333,Moroccan,with more money
+britânicos,fleumático,2,1,0,-0.3333333333,British people,phlegmatic
+Braguesas,inadequado,2,1,0,-0.3333333333,Braguesas,inappropriate
+Síria,guerra,1,2,0,-0.3333333333,Syria,war
+cubanos,fumadores,0,3,0,-0.3333333333,Cubans,smokers
+Egípcia,antiga,2,1,0,-0.3333333333,Egyptian,old
+britânicos,com sotaque,1,2,0,-0.3333333333,British people,with accent
+americanos,inovadores,1,2,0,-0.3333333333,Americans,innovative
+helenos,festeiro,1,1,1,-0.3333333333,Hellenes,partygoer
+Suecas,ousada,2,1,0,-0.3333333333,Swedish,bold
+irlandeses do norte,beligerante,2,1,0,-0.3333333333,northern irish,belligerent
+espanhóis,festeiro,1,2,0,-0.3333333333,Spanish,partygoer
+portuenses,bebedores,2,1,0,0.3333333333,Porto,drinkers
+Ilha dos Cocos,isolado,1,2,0,-0.3333333333,Cocos Island,isolated
+albicastrenses,orgulhoso,2,1,0,-0.3333333333,albicastrenses,proud
+lisboanas,orgulhoso,2,1,0,-0.3333333333,Lisbon,proud
+Egípcios,antigo,1,2,0,-0.3333333333,Egyptians,old
+braganceses,festeiro,2,1,0,-0.3333333333,braganceses,partygoer
+Russa,frio,1,1,1,-0.3333333333,Russian,cold
+Aveirenses,pescadores,0,3,0,-0.3333333333,Aveirenses,fishermen
+islandês,frio,1,2,0,-0.3333333333,Icelandic,cold
+britânicos,frio,1,2,0,-0.3333333333,British people,cold
+Brigantinos,grande,2,1,0,-0.3333333333,Brigantines,big
+palestinos,sofridos,1,2,0,-0.3333333333,Palestinians,suffered
+argentinos,festeiro,1,2,0,-0.3333333333,Argentines,partygoer
+escoceses,duro,1,2,0,-0.3333333333,Scottish,hard
+Bragançanos,orgulhoso,1,2,0,-0.3333333333,Bragançanos,proud
+eborenses,orgulhoso,1,2,0,-0.3333333333,eborenses,proud
+braguesas,incômodo,2,1,0,0.3333333333,braguesas,nuisance
+britânicos,excêntricos,1,2,0,-0.3333333333,British people,eccentrics
+helenos,antigo,2,1,0,-0.3333333333,Hellenes,old
+russos,frio,2,1,0,-0.3333333333,Russians,cold
+Marroquina,incrivelmente sexy,2,1,0,-0.3333333333,Moroccan,incredibly sexy
+Austríaca,frio,2,1,0,-0.3333333333,Austrian,cold
+Espanhola,gostam de touros,0,3,0,-0.3333333333,Spanish,they like bulls
+Mexicanos,gostam de festa,0,3,0,-0.3333333333,Mexicans,they like to party
+Australianas,aborígene,1,2,0,-0.3333333333,Australian,aboriginal
+Brácaras,ruínas,1,2,0,-0.3333333333,Bracaras,ruins
+Marroquina,adoram cozinhar,2,1,0,-0.3333333333,Moroccan,love to cook
+espanhóis,excitantes,1,2,0,-0.3333333333,Spanish,exciting
+coreanos,isolado,1,2,0,-0.3333333333,Koreans,isolated
+Bracaraugustanos,orgulhoso,1,2,0,-0.3333333333,Bracaraugustans,proud
+Bragançanas,bonita,2,1,0,-1,Bragançanas,beautiful
+sérvios,impulsivo,2,1,0,-0.3333333333,Serbs,impulsive
+norte-coreana,isolado,0,3,0,-0.3333333333,North Korean,isolated
+Australianas,ousada,2,1,0,-0.3333333333,Australian,bold
+Holandesas,teimoso,2,1,0,-0.3333333333,Dutch,stubborn
+Norueguesa,frio,1,1,1,-0.3333333333,Norwegian,cold
+Bragantinos,orgulhoso,2,1,0,-0.3333333333,Bragantinos,proud
+austríacos,frio,2,1,0,-0.3333333333,Austrians,cold
+Galeses,teimoso,2,1,0,-0.3333333333,Welsh,stubborn
+bracaraugustanas,bárbaras,2,1,0,2,bracaraugustanas,barbarians
+bracaraugustanas,bonita,1,2,0,-1,bracaraugustanas,beautiful
+britânicos,apreciam a cerveja,2,1,0,-0.6666666667,British people,enjoy beer
+helenos,idealistas,2,1,0,-0.6666666667,Hellenes,idealists
+Síria,á guerra,1,2,0,-0.6666666667,Syria,the war
+afegãos,refugiado,2,1,0,-0.6666666667,Afghans,refugee
+Filipinas,arroz,2,1,0,-0.6666666667,Philippines,rice
+Suecas,feministas,2,1,0,-0.6666666667,Swedish,feminists
+Guatemalteca,indígena,1,2,0,-0.6666666667,Guatemalan,indigenous
+Kosovar,refugiado,2,1,0,-0.6666666667,Kosovar,refugee
+Brigantinos,de guerra,2,1,0,-0.6666666667,Brigantines,of war
+Bracaraugustanas,bravas,1,2,0,-1,Bracaraugustanas,brave
+palestinos,refugiada,1,2,0,-0.6666666667,Palestinians,refugee
+Boliviana,indígena,1,2,0,-0.6666666667,Bolivian,indigenous
+Sírios,refugiado,0,3,0,-0.6666666667,Syrians,refugee
+Palestina,refugiado,1,2,0,-0.6666666667,Palestine,refugee
+Síria,refugiado,0,3,0,-0.6666666667,Syria,refugee
+palestinos,lutadores,0,3,0,-0.6666666667,Palestinians,fighters
+Luxemburga,pequena,1,2,0,-0.6666666667,Luxembourg,small
+Gregas,idealistas,1,2,0,-0.6666666667,Greek,idealists
+israelenses,judeu,0,3,0,-0.6666666667,Israelis,Jewish
+Sudaneses do Sul,refugiada,0,3,0,-0.6666666667,South Sudanese,refugee
+palestinos,refugiado,1,2,0,-0.6666666667,Palestinians,refugee
+Gregas,filósofo,1,2,0,-1,Greek,philosopher
+cubanos,dançam bem,0,3,0,-1,Cubans,they dance well
+Manx,insular,2,1,0,-1,Manx,island
+paquistaneses,muçulmano,2,1,0,-1,Pakistanis,Muslim
+Bragançanos,monarquista,2,1,0,-1,Bragançanos,monarchist
+belgas,cerveja,0,3,0,-1,Belgians,beer
+Conimbricenses,bons em matemática,2,1,0,-1,Conimbricenses,good at math
+eborenses,bons,2,1,0,-1,eborenses,Good
+Bragueses,íntima,2,1,0,-1,Bragueses,intimate
+Malteses,católico,2,1,0,-1,Maltese,Catholic
+Filandeses,gostam de sauna,0,3,0,-1,Finns,like sauna
+bracarenses,corajoso,2,1,0,-1,bracarenses,brave
+Coimbrãs,estudiosas,0,3,0,-1,Coimbras,scholars
+Viseenses,corajoso,2,1,0,-1,Viseenses,brave
+filipinos,gostam de karaoke,2,1,0,-1,Filipinos,like karaoke
+espanhóis,sexy,0,3,0,-1,Spanish,sexy
+Brácaras,guerreiro,2,1,0,-1,Bracaras,warrior
+Setubalense,português,2,1,0,-1,Setubalense,Portuguese
+uruguaios,futebol,0,3,0,-1,Uruguayans,soccer
+Bósnios,bons em tiro esportivo,2,1,0,-1,Bosnians,good at sports shooting
+portugueses,falantes de português,2,1,0,-1,Portuguese,Portuguese speakers
+Brigantinos,armadura,2,1,0,-1,Brigantines,armor
+Setubalense,bom em falar,2,1,0,-1,Setubalense,good at talking
+tunisinos,árabe,2,1,0,-1,Tunisians,Arabic
+helenos,filósofo,2,1,0,-1,Hellenes,philosopher
+Farenses,bons em vela,2,1,0,-1,Farenses,good at sailing
+colimbrienses,trabalhadores,2,1,0,-1,colimbrienses,workers
+Bragueses,conservadores,2,1,0,-1,Bragueses,conservatives
+Gregas,filosófico,0,3,0,-1,Greek,philosophical
+Lisboanos,acolhedores,2,1,0,-1,Lisbonnos,welcoming
+Sarauís,libertadores,2,1,0,-1,Sahrawis,liberators
+espanhóis,falante de línguas,2,1,0,-1,Spanish,tongue speaker
+Zambianos,africano,2,1,0,-1,Zambians,African
+Viseenses,simpático,2,1,0,-1,Viseenses,kind
+Formosanos,trabalhadore,2,1,0,-1,Formosans,worker
+Bragancesas,corajosa,1,2,0,-1,Bragancesas,courageous
+eslovacos,trabalhadore,2,1,0,-1,Slovaks,worker
+Brácaras,romanizado,2,1,0,-1,Bracaras,romanized
+eborenses,simpático,2,1,0,-1,eborenses,kind
+Australianos,gostam de surf,0,3,0,-1,Australians,they like surfing
+alemães,metódico,0,3,0,-1,Germans,methodical
+Espanhola,conquistadores,0,3,0,-1,Spanish,conquerors
+Francesa,culta,0,3,0,-1,French,cultured
+pacenses,acolhedores,2,1,0,-1,pacenses,welcoming
+Egípcios,árabe,2,1,0,-1,Egyptians,Arabic
+albicastrenses,hospitaleiro,2,1,0,-1,albicastrenses,hospitable
+Braguesas,íntima,2,1,0,-1,Braguesas,intimate
+cipriotas,mediterrânicas,2,1,0,-1,Cypriots,Mediterranean
+espanhóis,falado na espanha,2,1,0,-1,Spanish,spoken in spain
+vianeses,educado,2,1,0,-1,vianeses,educated
+filipinos,amam karaoke,2,1,0,-1,Filipinos,love karaoke
+colimbrienses,acolhedores,2,1,0,-1,colimbrienses,welcoming
+tailandeses,sorriem muito,2,1,0,-1,Thai,smile a lot
+Bragançanas,católica,2,1,0,-1,Bragançanas,catholic
+lisboanas,sedutoras,2,1,0,-1,Lisbon,seductive
+dinamarqueses,direto,2,1,0,-1,danes,direct
+Vianesas,altas,2,1,0,-1,Vianesas,high
+Escalabitanos,aventureiro,1,2,0,-1,Escalabitans,adventurous
+Mexicanos,latino,2,1,0,-1,Mexicans,Latin
+nepaleses,bondoso,2,1,0,-1,Nepalese,kindness
+Escalabitanos,bravo,2,1,0,-1,Escalabitans,angry
+espanhóis,turismo,2,1,0,-1,Spanish,tourism
+Bracaraugustanas,católica,2,1,0,-1,Bracaraugustanas,catholic
+Canadenses,legais,2,1,0,-1,Canadians,cool
+salvadorianos,religioso,2,1,0,-1,salvadorians,religious
+britânicos,reservado,2,1,0,-1,British people,reserved
+Brasileira,futebol,0,3,0,-1,Brazilian,soccer
+Brigantinos,frágeis,2,1,0,-1,Brigantines,fragile
+Bruneianos,muçulmano,2,1,0,-1,Bruneians,Muslim
+Inglês,falante nativo,2,1,0,-1,English,native speaker
+nepaleses,bons em escalada,0,3,0,-1,Nepalese,good at climbing
+Inglês,britânico,2,1,0,-1,English,British
+Queniana,correm,0,3,0,-1,Kenyan,run
+lisboanas,acolhedores,2,1,0,-1,Lisbon,welcoming
+Gouveenses,trabalhadores,2,1,0,-1,Gouveenses,workers
+Suíços,gostam de chocolate,0,3,0,-1,Swiss,they like chocolate
+Portuenses,comiam tripas,0,3,0,0.3333333333,Portuenses,they ate tripe
+Bragançanos,realista,2,1,0,-1,Bragançanos,realist
+Portalegrenses,simpático,2,1,0,-1,Portalegrenses,kind
+Coimbrãs,cultos,0,3,0,-1,Coimbras,cults
+Bracaraugustanas,civilizadas,2,1,0,-1,Bracaraugustanas,civilized
+Brácaras,portuguese,2,1,0,-1,Bracaras,Portuguese
+helenos,intelectuais,2,1,0,-1,Hellenes,intellectuals
+vianeses,elegante,2,1,0,-1,vianeses,elegant
+Portuenses,gostam de vinho do porto,1,2,0,0,Portuenses,they like port wine
+Bermudenses,ingleses,2,1,0,-1,Bermudians,English
+Brácaras,bravo,2,1,0,-1,Bracaras,angry
+Farenses,gostam de peixe,0,3,0,-1,Farenses,they like fish
+portugueses,lusitana,2,1,0,-1,Portuguese,Portuguese
+Escalabitanos,corajoso,2,1,0,-1,Escalabitans,brave
+Manx,ilha,2,1,0,-1,Manx,island
+sul-coreanos,coreano,2,1,0,-1,South Koreans,Korean
+austríacos,econômico,2,1,0,-1,Austrians,economic
+marroquinos,magrebino,2,1,0,-1,Moroccans,Maghreb
+portugueses,lusitano,2,1,0,-1,Portuguese,Portuguese
+Brácaros,alegre,2,1,0,-1,Bracaros,happy
+lisboanas,carismáticas,2,1,0,-1,Lisbon,charismatic
+portuenses,hospitaleiro,2,1,0,-1,Porto,hospitable
+portugueses,falantes de línguas românicas,2,1,0,-1,Portuguese,speakers of romance languages
+Brácaras,antiga cidade,2,1,0,-1,Bracaras,ancient city
+Italiana,gostam de massa,0,3,0,-1,Italian,they like pasta
+Setubalense,bom cozinheiro,2,1,0,-1,Setubalense,good cook
+Brácaros,guerreiro,2,1,0,-1,Bracaros,warrior
+Escócios,bons em golfe,2,1,0,-1,Scots,good at golf
+Bragueses,sapato,2,1,0,-1,Bragueses,shoe
+venezuelanos,latino,2,1,0,-1,Venezuelans,Latin
+Costarriquenhos,surfista,2,1,0,-1,Costa Ricans,surfer
+búlgaros,eslavo,2,1,0,-1,Bulgarians,Slavic
+neozelandeses,esportes radicais,2,1,0,-1,New Zealanders,radical sports
+lisboanas,alegre,2,1,0,-1,Lisbon,happy
+equatoguineenses,africano,2,1,0,-1,equatoguineans,African
+Ilha dos Cocos,paradisíaca,2,1,0,-1,Cocos Island,paradisiacal
+espanhóis,falante de espanhol,2,1,0,-1,Spanish,Spanish speaker
+Argentinas,bom em futebol,0,3,0,-1,Argentina,good at football
+jordaniano,árabe,2,1,0,-1,Jordanian,Arabic
+Bragançanos,poderoso,2,1,0,-1,Bragançanos,powerful
+Vianenses,pacífico,2,1,0,-1,Vianenses,Pacific
+Bragançanos,conservadores,2,1,0,-1,Bragançanos,conservatives
+cipriotas,grego,2,1,0,-1,Cypriots,Greek
+pacenses,hospitaleiro,2,1,0,-1,pacenses,hospitable
+Comorans,insulares,2,1,0,-1,Comorans,islanders
+marroquinos,não bebiam muito,2,1,0,-1,Moroccans,they didn't drink much
+marroquinos,muçulmano,2,1,0,-1,Moroccans,Muslim
+Britânica,apreciam chá,0,3,0,-1,British,enjoy tea
+Malteses,brincalhões,2,1,0,-1,Maltese,pranksters
+Letts,reservado,2,1,0,-1,Letts,reserved
+Setubalense,bom em fado,2,1,0,-1,Setubalense,good at fado
+Brácaras,cidade,2,1,0,-1,Bracaras,city
+Bracaraugustanos,bracarenses,2,1,0,-1,Bracaraugustans,bracarenses
+Hondurenhas,corajosa,2,1,0,-1,Hondurans,courageous
+Marroquina,tinham uma cultura rica,2,1,0,-1,Moroccan,had a rich culture
+espanhóis,cativante,2,1,0,-1,Spanish,captivating
+Americanas,corajosa,2,1,0,-1,Americans,courageous
+cipriotas,mediterrâneo,2,1,0,-1,Cypriots,Mediterranean
+Sudanesa,corajosa,2,1,0,-1,Sudanese,courageous
+colimbrienses,portuguese,2,1,0,-1,colimbrienses,Portuguese
+Marroquina,motocross,2,1,0,-1,Moroccan,motocross
+Russa,corajosa,2,1,0,-1,Russian,courageous
+japoneses,educado,0,3,0,-1,Japanese,educated
+barundi,africano,2,1,0,-1,barundi,African
+Palestina,tensa,2,1,0,-1,Palestine,tense
+Malaia,tropicais,2,1,0,-1,Malaysia,tropical
+lisboanas,morenas,2,1,0,-1,Lisbon,brunettes
+Espanhola,latino,2,1,0,-1,Spanish,Latin
+Paraguaia,quente,2,1,0,-1,Paraguayan,warm
+Argentinas,latino,2,1,0,-1,Argentina,Latin
+Moçambicana,corajosa,2,1,0,-1,Mozambican,courageous
+Argelina,corajosa,2,1,0,-1,Algerian,courageous
+lisboanas,trabalhadora,1,1,1,-1,Lisbon,worker
+Espanhola,conquistador,0,3,0,-1,Spanish,conquer
+argentinos,latino,2,1,0,-1,Argentines,Latin
+Gouveenses,alegre,2,1,0,-1,Gouveenses,happy
+Viseenses,trabalhadores,2,1,0,-1,Viseenses,workers
+peruanos,andino,2,1,0,-1,Peruvians,Andean
+Brigantinos,aventureiro,2,1,0,-1,Brigantines,adventurous
+Vianenses,trabalhadores,2,1,0,-1,Vianenses,workers
+Bracaraugustanas,conservadora,2,1,0,-1,Bracaraugustanas,conservative
+braguesas,masculina,2,1,0,-0.3333333333,braguesas,male
+lisboanas,sensuais,2,1,0,-1,Lisbon,sensual
+Nepalesa,espiritual,2,1,0,-1,Nepali,spiritual
+Alemã,eficiente,0,3,0,-1,German,efficient
+Australianas,esportivo,2,1,0,-1,Australian,sporty
+Bragançanas,conservadora,2,1,0,-1,Bragançanas,conservative
+escoceses,durões,1,2,0,-0.3333333333,Scottish,tough
+Norueguesa,corajosa,2,1,0,-1,Norwegian,courageous
+Leiriense,hospitaleiro,2,1,0,-1,Leiriense,hospitable
+nepaleses,montanhoso,2,1,0,-1,Nepalese,mountainous
+Bangladeshi,bengali,2,1,0,-1,Bangladeshi,Bengali
+Chilena,corajosa,2,1,0,-1,Chilean,courageous
+argentinos,bom em futebol,0,3,0,-1,Argentines,good at football
+lisboanas,falantes de português,2,1,0,-1,Lisbon,Portuguese speakers
+Marroquina,bons em maratona,2,1,0,-1,Moroccan,good at marathon
+Brácaras,a cidade,2,1,0,-1,Bracaras,the city
+uruguaios,jogam bem futebol,0,3,0,-1,Uruguayans,play football well
+braguesas,masculino,2,1,0,-1,braguesas,masculine
+Bracaraugustanas,corajosa,2,1,0,-1,Bracaraugustanas,courageous
+Conimbricenses,erudito,1,2,0,-0.3333333333,Conimbricenses,erudite
+quenianos,rápido,0,3,0,-1,Kenyans,fast
+Britânica,gostam de chá,0,3,0,-1,British,they like tea
+Mongóis,conquistadores,0,3,0,-1,Mongols,conquerors
+Paraguaia,ordeiro,2,1,0,-1,Paraguayan,orderly
+austríacos,organizado,2,1,0,-1,Austrians,organized
+Espanhola,tradicionalmente conservadora,2,1,0,-1,Spanish,traditionally conservative
+Italiana,mediterrânea,2,1,0,-1,Italian,Mediterranean
+Bahreini,árabe,2,1,0,-1,Bahraini,Arabic
+Gouveenses,simpático,2,1,0,-1,Gouveenses,kind
+Bragueses,boxer,2,1,0,-1,Bragueses,boxer
+marfinenses,africano,2,1,0,-1,Ivorians,African
+Braguesas,roupa,2,1,0,-1,Braguesas,clothing
+Bragancesas,feia,2,1,0,2.333333333,Bragancesas,ugly
+Holandeses,direto,2,1,0,-1,Dutchmen,direct
+nepaleses,montanhistas,2,1,0,-1,Nepalese,mountaineers
+Bragançanos,católico,2,1,0,-1,Bragançanos,Catholic
+espanhóis,falado,2,1,0,-1,Spanish,spoken
+Kosovar,albaneses,2,1,0,-1,Kosovar,Albanians
+Manx,celta,2,1,0,-1,Manx,Celtic
+Galeses,celta,2,1,0,-1,Welsh,Celtic
+Brigantinos,forte,2,1,0,-1,Brigantines,strong
+cambojanos,budista,2,1,0,-1,Cambodians,Buddhist
+bejenses,pacífico,2,1,0,-1,bejenses,Pacific
+Leiriense,português,2,1,0,-1,Leiriense,Portuguese
+Bragançanos,reis,2,1,0,-1,Bragançanos,kings
+lisboanas,educadas,2,1,0,-1,Lisbon,polite
+indonésios,povo,2,1,0,-1,Indonesians,people
+Bermudenses,praia,2,1,0,-1,Bermudians,beach
+Vianesas,bonita,2,1,0,-1,Vianesas,beautiful
+Vienesas,adoram salsicha,2,1,0,-1,Viennese,love sausage
+Setubalense,fado,2,1,0,-1,Setubalense,fado
+bracarenses,simpático,2,1,0,-1,bracarenses,kind
+vietnamitas,asiático,2,1,0,-1,Vietnamese,Asian
+espanhóis,conquistador,0,3,0,-1,Spanish,conquer
+Viseenses,hospitaleiro,2,1,0,-1,Viseenses,hospitable
+norte-coreana,obediente,0,3,0,-1,North Korean,obedient
+vianesas,bons em cozinha,2,1,0,-1,vianesas,good at cooking
+Mexicanos,festivo,0,3,0,-1,Mexicans,festive
+Bragueses,sexy,2,1,0,-1,Bragueses,sexy
+japoneses,gostam de sushi,0,3,0,-1,Japanese,they like sushi
+Vianenses,hospitaleiro,2,1,0,-1,Vianenses,hospitable
+Portalegrenses,hospitaleiro,2,1,0,-1,Portalegrenses,hospitable
+vianeses,alegre,2,1,0,-1,vianeses,happy
+malaios,comem arroz,2,1,0,-1,Malaysians,eat rice
+lituanos,báltico,2,1,0,-1,Lithuanians,Baltic
+libaneses,empreendedores,2,1,0,-1,Lebanese,entrepreneurs
+espanhóis,menos falado,2,1,0,-1,Spanish,less talked about
+iemenitas,árabe,2,1,0,-1,Yemenis,Arabic
+Bragançanas,conservadores,2,1,0,-1,Bragançanas,conservatives
+Bracaraugustanos,celta,2,1,0,-1,Bracaraugustans,Celtic
+colimbrienses,simpático,2,1,0,-1,colimbrienses,kind
+sul-africanos,esportivo,2,1,0,-1,South Africans,sporty
+Comorans,ilha,2,1,0,-1,Comorans,island
+Bragueses,roupa,2,1,0,-1,Bragueses,clothing
+Brigantinos,ágeis,2,1,0,-1,Brigantines,agile
+Alemã,séria,0,3,0,-1,German,he would be
+Bragancesas,festeiras,2,1,0,-0.3333333333,Bragancesas,party girls
+lisboanas,acolhedora,2,1,0,-1,Lisbon,welcoming
+espanhóis,neutro,2,1,0,-1,Spanish,neutral
+eslovenos,eslavo,2,1,0,-1,Slovenians,Slavic
+Vianenses,cosmopolita,2,1,0,-1,Vianenses,cosmopolitan
+lisboanas,faladores,2,1,0,-1,Lisbon,talkers
+mauritanos,muçulmano,2,1,0,-1,Mauritanians,Muslim
+Nepalesa,alpinistas,0,3,0,-1,Nepali,Mountain climbers
+norte-coreana,fechado,0,3,0,-1,North Korean,closed
+vianeses,turistas,2,1,0,-1,vianeses,tourists
+Coimbrãs,português,2,1,0,-1,Coimbras,Portuguese
+Lisboanos,alegre,2,1,0,-1,Lisbonnos,happy
+marroquinos,árabe,2,1,0,-1,Moroccans,Arabic
+malianos,africano,2,1,0,-1,malians,African
+lisboanas,conservadora,2,1,0,-1,Lisbon,conservative
+Bragantinas,hospitaleiras,2,1,0,-1,Bragantinas,hospitable
+colombianos,latino,2,1,0,-1,Colombians,Latin
+Australianas,surfista,0,3,0,-1,Australian,surfer
+marroquinos,gostam de henna,2,1,0,-1,Moroccans,they like henna
+Turcos,árabe,2,1,0,-1,Turks,Arabic
+lisboanas,elegante,2,1,0,-1,Lisbon,elegant
+Moçambicanos,africano,2,1,0,-1,Mozambicans,African
+Brácaras,cristãos,2,1,0,-1,Bracaras,Christians
+espanhóis,latino,2,1,0,-1,Spanish,Latin
+braganceses,portuguese,2,1,0,-1,braganceses,Portuguese
+Aveirenses,portuense,2,1,0,-1,Aveirenses,Porto
+Uruguaia,jogam futebol,0,3,0,-1,Uruguay,play soccer
+Coimbrãs,inteligente,0,3,0,-1,Coimbras,intelligent
+Suíços,são neutros,0,3,0,-1,Swiss,are neutral
+russos,vodka,0,3,0,-1,Russians,vodka
+nepaleses,espiritual,2,1,0,-1,Nepalese,spiritual
+malaios,asiático,2,1,0,-1,Malaysians,Asian
+Egípcios,construíam pirâmides,2,1,0,-1,Egyptians,built pyramids
+equatoguineenses,rica em petróleo,2,1,0,-1,equatoguineans,rich in oil
+Setubalense,simpático,2,1,0,-1,Setubalense,kind
+Suíça,incrivelmente rica,0,3,0,-1,Switzerland,incredibly rich
+Vianenses,religioso,2,1,0,-1,Vianenses,religious
+libaneses,árabe,2,1,0,-1,Lebanese,Arabic
+espanhóis,idioma,2,1,0,-1,Spanish,language
+Gouveenses,funcionários,2,1,0,-1,Gouveenses,employees
+portugueses,falado,2,1,0,-1,Portuguese,spoken
+Lisboanos,falantes de português,2,1,0,-1,Lisbonnos,Portuguese speakers
+Setubalense,afável,2,1,0,-1,Setubalense,affable
+gibraltinos,britânico,2,1,0,-1,Gibraltarians,British
+belgas,comiam batatas fritas,2,1,0,-1,Belgians,ate french fries
+eslovenos,europeu,2,1,0,-1,Slovenians,European
+suecos,introvertido,2,1,0,-1,Swedes,introvert
+iranianos,árabe,2,1,0,-1,Iranians,Arabic
+Ilha dos Cocos,paradisíaco,2,1,0,-1,Cocos Island,paradisiacal
+vianeses,amigáveis,2,1,0,-1,vianeses,friendly
+braganceses,trabalhadores,2,1,0,-1,braganceses,workers
+bracarenses,alegre,2,1,0,-1,bracarenses,happy
+Crimeanos,tártaros,2,1,0,-1,Crimeans,Tatars
+Suíços,sistemático,2,1,0,-1,Swiss,systematic
+panamenhos,latino,2,1,0,-1,Panamanians,Latin
+Aveirenses,portuguese,2,1,0,-1,Aveirenses,Portuguese
+Conimbricenses,estudante,0,3,0,-1,Conimbricenses,student
+Portalegrenses,alegre,2,1,0,-1,Portalegrenses,happy
+vianeses,inteligente,2,1,0,-1,vianeses,intelligent
+surinameses,de origem africana,2,1,0,-1,Surinamese,of African origin
+marroquinos,comerciantes,0,3,0,-1,Moroccans,merchants
+cingapurenses,amantes da limpeza,2,1,0,-1,Singaporeans,cleaning lovers
+Braguesas,são calças,2,1,0,-1,Braguesas,they are pants
+Vianenses,bem alimentados,2,1,0,-1,Vianenses,well fed
+lisboanas,gostam de fado,0,3,0,-1,Lisbon,they like fado
+Galeses,galeses,2,1,0,-1,Welsh,Welsh
+Bermudenses,calor,2,1,0,-1,Bermudians,heat
+franceses,elegante,0,3,0,-1,French,elegant
+espanhóis,falante de língua latina,2,1,0,-1,Spanish,Latin language speaker
+Bragueses,corajoso,2,1,0,-1,Bragueses,brave
+sérvios,ortodoxo,2,1,0,-1,Serbs,orthodox
+Bragantinas,bonita,2,1,0,-1,Bragantinas,beautiful
+dinamarqueses,introvertido,2,1,0,-1,danes,introvert
+portugueses,falante,2,1,0,-1,Portuguese,speaker
+marroquinos,gostam de comer carne,2,1,0,-1,Moroccans,like to eat meat
+japoneses,organizado,0,3,0,-1,Japanese,organized
+nicaraguenses,latino,2,1,0,-1,Nicaraguans,Latin
+nepaleses,espiritualistas,2,1,0,-1,Nepalese,spiritualists
+Bragantinas,religiosa,2,1,0,-1,Bragantinas,religious
+Suíços,pontuais,2,1,0,-1,Swiss,punctual
+camaroneses,africano,2,1,0,-1,Cameroonians,African
+cubanos,bons em boxe,2,1,0,-1,Cubans,good at boxing
+Brigantinos,caravela,2,1,0,-1,Brigantines,caravel
+somalis,nômade,2,1,0,-1,Somalis,nomadic
+brasileiros,latino,2,1,0,-1,Brazilians,Latin
+Conimbricenses,estudavam muito,2,1,0,-1,Conimbricenses,they studied a lot
+Aveirenses,gostam de sardinha,2,1,0,-1,Aveirenses,they like sardines
+Espanhola,gostam de tapas,0,3,0,-1,Spanish,they like slaps
+Brácaras,antiguidade,2,1,0,-1,Bracaras,antique
+dinamarqueses,felizes,2,1,0,-1,danes,happy
+helenos,grego,2,1,0,-1,Hellenes,Greek
+lisboanas,mulheres,2,1,0,-1,Lisbon,women
+Bracaraugugustanas,guerreira,2,1,0,-1,Bracaraugugustanas,Warrior
+Bragantinas,coloridas,2,1,0,-1,Bragantinas,colorful
+Portalegrenses,acolhedores,2,1,0,-1,Portalegrenses,welcoming
+Vianesas,corajosa,1,2,0,-1,Vianesas,courageous
+alemães,disciplinado,0,3,0,-1,Germans,disciplined
+Brigantinos,de madeira,2,1,0,-1,Brigantines,wooden
+Brácaras,braga,2,1,0,-1,Bracaras,braga
+equatoguineenses,equatorial,2,1,0,-1,equatoguineans,equatorial
+helenos,criativo,2,1,0,-1,Hellenes,creative
+Coimbrãs,académicos,0,3,0,-1,Coimbras,academics
+equatoguineenses,petróleo,2,1,0,-1,equatoguineans,Petroleum
+alemães,organizado,0,3,0,-1,Germans,organized
+Bragueses,homens,2,1,0,-1,Bragueses,men
+togoleses,africano,2,1,0,-1,Togolese,African
+Crimeanos,descendentes de tártaros,2,1,0,-1,Crimeans,descendants of Tatars
+Vianesas,corajoso,2,1,0,-1,Vianesas,brave
+nepaleses,espiritualizado,2,1,0,-1,Nepalese,spiritualized
+Bragancesas,gorda,2,1,0,2.666666667,Bragancesas,fat
+bracarenses,portuguese,2,1,0,-1,bracarenses,Portuguese
+Setubalense,corajoso,2,1,0,-1,Setubalense,brave
+portugueses,gostam de fado,0,3,0,-1,Portuguese,they like fado
+Bermudenses,short,2,1,0,-1,Bermudians,shorts
+Argentinas,jogador de futebol,0,3,0,-1,Argentina,football player
+Brácaras,falavam latim,2,1,0,-1,Bracaras,spoke Latin
+bracaraugustanas,cristãs,2,1,0,-1,bracaraugustanas,Christian
+gibraltinos,leais,2,1,0,-1,Gibraltarians,loyal
+Brácaras,corajoso,2,1,0,-1,Bracaras,brave
+Brigantinos,cobertas,2,1,0,-1,Brigantines,covered
+Inglês,falado em todo o mundo,2,1,0,-1,English,spoken around the world
+Canadenses,educado,0,3,0,-1,Canadians,educated
+Italianos,romântico,0,3,0,-1,Italians,romantic
+tailandeses,bons em muay thai,0,3,0,-1,Thai,good at muay thai
+Braguesas,sapato,2,1,0,-1,Braguesas,shoe
+Alemã,perfeccionista,0,3,0,-1,German,perfectionist
+bejenses,hospitaleiro,2,1,0,-1,bejenses,hospitable
+Suíços,neutro,0,3,0,-1,Swiss,neutral
+Russa,séria,0,3,0,-1,Russian,he would be
+Leiriense,trabalhador,2,1,0,-1,Leiriense,worker
+bejenses,religioso,2,1,0,-1,bejenses,religious
+Coimbrãs,estudioso,0,3,0,-1,Coimbras,studious
+braganceses,conservadores,2,1,0,-1,braganceses,conservatives
+espanhóis,gostam de tapas,0,3,0,-1,Spanish,they like slaps
+Galeses,falante,2,1,0,-1,Welsh,speaker
+Coimbrãs,simpático,2,1,0,-1,Coimbras,kind
+Bragançanas,corajosa,2,1,0,-1,Bragançanas,courageous
+Colombiana,dançarina,0,3,0,-1,Colombian,dancer
+Queniana,atleta,0,3,0,-1,Kenyan,athlete
+bejenses,corajoso,2,1,0,-1,bejenses,brave
+filipinos,católica,2,1,0,-1,Filipinos,catholic
+Coimbrãs,universitário,0,3,0,-1,Coimbras,university
+bejenses,beijadores,2,1,0,-1,bejenses,kissers
+Lisbonenses,gostam de sardinha,0,3,0,-1,Lisbonenses,they like sardines
+Brácaras,cidade portuguesa,2,1,0,-1,Bracaras,Portuguese city
+Belizenhos,caribenho,2,1,0,-1,Belizeans,Caribbean
+Setubalense,marisco,2,1,0,-1,Setubalense,shellfish
+Bragancesas,hospitaleiras,1,2,0,-1,Bragancesas,hospitable
+Bragançanas,feia,2,1,0,2.333333333,Bragançanas,ugly
+Mongóis,asiático,2,1,0,-1,Mongols,Asian
+Bracaraugustanas,feministas,2,1,0,-0.6666666667,Bracaraugustanas,feminists
+Brigantinos,armadas,2,1,0,-1,Brigantines,armed
+argentinos,jogador de futebol,0,3,0,-1,Argentines,football player
+vianeses,criativo,2,1,0,-1,vianeses,creative
+Aveirenses,simpático,2,1,0,-1,Aveirenses,kind
+Bragancesas,monarquia,2,1,0,-1,Bragancesas,monarchy
+cubanos,dançarino,0,3,0,-1,Cubans,dancer
+braganceses,bravo,2,1,0,-1,braganceses,angry
+espanhóis,falado por muitos,2,1,0,-1,Spanish,spoken by many
+malgaxes,vivem em madagascar,2,1,0,-1,Malagasy,live in madagascar
+helenos,adoram sol,2,1,0,-1,Hellenes,love sun
+Manx,sem cauda,2,1,0,-1,Manx,tailless
+Portalegrenses,gaúchos,2,1,0,-1,Portalegrenses,gauchos
+bracarenses,trabalhadores,2,1,0,-1,bracarenses,workers
+Escalabitanos,gostam de aventura,2,1,0,-1,Escalabitans,they like adventure
+Egípcios,misterioso,2,1,0,-1,Egyptians,mysterious
+uruguaios,jogador,2,1,0,-1,Uruguayans,player
+alemães,perfeccionista,0,3,0,-1,Germans,perfectionist
+braguesas,sem-vergonha,2,1,0,0.6666666667,braguesas,shameless
+vianesas,delicioso,2,1,0,-1,vianesas,delicious
+Mexicana,festivo,0,3,0,-1,Mexican,festive
+lisboanas,animadas,2,1,0,-1,Lisbon,lively
+Alemã,sério,0,3,0,-1,German,serious
+argentinos,apaixonados por futebol,0,3,0,-1,Argentines,passionate about football
+portugueses,luso,2,1,0,-1,Portuguese,Portuguese
+chineses,trabalhadore,0,3,0,-1,Chinese,worker
+espanhóis,língua oficial da espanha,2,1,0,-1,Spanish,official language of spain
+salvadorianos,religiosa,2,1,0,-1,salvadorians,religious
+Galeses,cantor,2,1,0,-1,Welsh,singer
+espanhóis,católica,2,1,0,-1,Spanish,catholic
+Vila-realenses,simpático,2,1,0,-1,Vila-realenses,kind
+filipinos,prestativos,0,3,0,-1,Filipinos,helpful
+gibraltinos,ingleses,2,1,0,-1,Gibraltarians,English
+Escalabitanos,gostam de rock,2,1,0,-1,Escalabitans,they like rock
+Bragançanas,festeiras,2,1,0,-0.3333333333,Bragançanas,party girls
+lisboanas,portuguese,2,1,0,-1,Lisbon,Portuguese
+tunisinos,muçulmano,2,1,0,-1,Tunisians,Muslim
+lisboanas,corajosa,2,1,0,-1,Lisbon,courageous
+cubanos,latino,2,1,0,-1,Cubans,Latin
+lisboanas,charmosas,2,1,0,-1,Lisbon,charming
+Queniana,corredora,0,3,0,-1,Kenyan,runner
+Cabo-verdianos,falam crioulo,2,1,0,-1,Cape Verdeans,speak Creole
+Australianos,descolado,2,1,0,-1,Australians,cool
+Inglês,gostam de chá,0,3,0,-1,English,they like tea
+Vianenses,simpático,2,1,0,-1,Vianenses,kind
+bragançanas,gananciosas,2,1,0,2,bragançanas,greedy
+Bragueses,engraçado,2,1,0,-1,Bragueses,funny
+Brigantinos,ágil,2,1,0,-1,Brigantines,agile
+Bragueses,confortável,2,1,0,-1,Bragueses,comfortable
+argentinos,extrovertido,2,1,0,-1,Argentines,extroverted
+Bragantinos,corajoso,2,1,0,-1,Bragantinos,brave
+espanhóis,conquistadores,0,3,0,-1,Spanish,conquerors
+britânicos,apreciam chá,0,3,0,-1,British people,enjoy tea
+espanhóis,língua latina,2,1,0,-1,Spanish,Latin language
+cingapurenses,disciplinado,2,1,0,-1,Singaporeans,disciplined
+cubanos,gostam de charutos,0,3,0,-1,Cubans,they like cigars
+georgianos,elegante,2,1,0,-1,Georgians,elegant
+Italianos,cozinha,0,3,0,-1,Italians,kitchen
+Bracaraugustanos,romano,2,1,0,-1,Bracaraugustans,Roman
+Alemã,organizada,0,3,0,-1,German,organized
+Bragueses,confortáveis,2,1,0,-1,Bragueses,comfortable
+Vila-realenses,campeões,2,1,0,-1,Vila-realenses,champions
+Liechtensteiner,monárquicos,2,1,0,-1,Liechtensteiner,monarchists
+gaboneses,africano,2,1,0,-1,Gabonese,African
+braganceses,hospitaleiro,2,1,0,-1,braganceses,hospitable
+Setubalense,acolhedor,2,1,0,-1,Setubalense,welcoming
+Sírios,árabe,2,1,0,-1,Syrians,Arabic
+coreanos,asiático,2,1,0,-1,Koreans,Asian
+pacenses,pacato,0,3,0,-1,pacenses,peaceful
+argelinos,árabe,2,1,0,-1,Algerians,Arabic
+Queniana,gostam de correr,0,3,0,-1,Kenyan,they like to run
+senegaleses,africano,2,1,0,-1,Senegalese,African
+Cabo-verdianos,gostam de cachupa,0,3,0,-1,Cape Verdeans,they like cachupa
+espanhóis,falado em espanha,2,1,0,-1,Spanish,spoken in Spain
+Brigantinos,militares,2,1,0,-1,Brigantines,military
+japoneses,disciplinadas,0,3,0,-1,Japanese,disciplined
+Bragantinas,alegre,2,1,0,-1,Bragantinas,happy
+lisboanas,atraentes,2,1,0,-1,Lisbon,attractive
+Aveirenses,hospitaleiro,2,1,0,-1,Aveirenses,hospitable
+Vianesas,gorda,2,1,0,2.666666667,Vianesas,fat
+Formosanos,japoneses,2,1,0,-1,Formosans,Japanese
+Bragueses,cueca,2,1,0,-1,Bragueses,underpants
+espanhóis,falantes da língua,2,1,0,-1,Spanish,language speakers
+argentinos,gostam de futebol,0,3,0,-1,Argentines,they like football
+portuenses,orgulhoso,2,1,0,-0.3333333333,Porto,proud
+Italianos,emotivo,0,3,0,-1,Italians,emotional
+albicastrenses,simpático,2,1,0,-1,albicastrenses,kind
+marroquinos,tinham uma cultura rica,2,1,0,-1,Moroccans,had a rich culture
+Lisbonenses,alegre,2,1,0,-1,Lisbonenses,happy
+brasileiros,gostam de carnaval,0,3,0,-1,Brazilians,they like carnival
+Brácaras,portuguesa,2,1,0,-1,Bracaras,Portuguese
+Australianas,gostam de surf,0,3,0,-1,Australian,they like surfing
+Bragançanas,gorda,2,1,0,2.666666667,Bragançanas,fat
+austríacos,músico,2,1,0,-1,Austrians,musician
+sérvios,nacionalista,2,1,0,-1,Serbs,nationalist
+Francesa,elegante,0,3,0,-1,French,elegant
+salvadorianos,latino,2,1,0,-1,salvadorians,Latin
+iemenitas,muçulmano,2,1,0,-1,Yemenis,Muslim
+Leiriense,simpático,2,1,0,-1,Leiriense,kind
+Lisbonenses,falantes de português,2,1,0,-1,Lisbonenses,Portuguese speakers
+Vianenses,romântico,2,1,0,-1,Vianenses,romantic
+azeris,muçulmano,2,1,0,-1,Azeris,Muslim
+eborenses,habitantes de évora,2,1,0,-1,eborenses,inhabitants of évora
+gibraltinos,falam inglês,2,1,0,-1,Gibraltarians,speak English
+Mongóis,guerreiro,0,3,0,-1,Mongols,warrior
+Queniana,correm rápido,0,3,0,-1,Kenyan,run fast
+quenianos,corredores,0,3,0,-1,Kenyans,runners
+Suíços,econômico,2,1,0,-1,Swiss,economic
+brasileiros,futebol,0,3,0,-1,Brazilians,soccer
+coreanos,disciplinado,0,3,0,-1,Koreans,disciplined
+brasileiros,pentacampeões,2,1,0,-1,Brazilians,five-time champions
+belgas,franco,2,1,0,-1,Belgians,frank
+lisboanas,descontraído,2,1,0,-1,Lisbon,relaxed
+Vila-realenses,comem farinheira,2,1,0,-1,Vila-realenses,eat flour
+Coimbrãs,bons em matemática,2,1,0,-1,Coimbras,good at math
+Brácaros,musculosos,2,1,0,-1,Bracaros,muscular
+Suíços,pontual,2,1,0,-1,Swiss,one-off
+mauritanos,árabe,2,1,0,-1,Mauritanians,Arabic
+Bragueses,úteis,2,1,0,-1,Bragueses,Useful
+lisboanas,descontraídas,2,1,0,-1,Lisbon,relaxed
+Indianos,muitos habitantes,2,1,0,-1,Indians,many inhabitants
+Bragantinos,guerreiro,2,1,0,-1,Bragantinos,warrior
+Italianos,apaixonado,0,3,0,-1,Italians,passionate
+Galeses,falante de língua celta,2,1,0,-1,Welsh,Celtic language speaker
+Brácaras,importante,2,1,0,-1,Bracaras,important
+Bragantinas,católica,2,1,0,-1,Bragantinas,catholic
+britânicos,gostam de chá,0,3,0,-1,British people,they like tea
+Nepalesa,montanhistas,0,3,0,-1,Nepali,mountaineers
+Boliviana,curte reggaeton,2,1,0,-1,Bolivian,like reggaeton
+Italiana,emotivo,0,3,0,-1,Italian,emotional
+alemães,eficiente,1,2,0,-1,Germans,efficient
+argentinos,apaixonado,1,2,0,-1,Argentines,passionate
+nepaleses,montanha,1,2,0,-1,Nepalese,mountain
+Filandeses,introvertido,1,2,0,-1,Finns,introvert
+Bragantinas,conservadora,1,2,0,-1,Bragantinas,conservative
+Inglês,formal,1,2,0,-1,English,formal
+cubanos,revolucionário,1,2,0,-1,Cubans,revolutionary
+espanhóis,apaixonado,1,2,0,-1,Spanish,passionate
+bracarenses,hospitaleiro,1,2,0,-1,bracarenses,hospitable
+britânicos,loiro,1,2,0,-1,British people,blonde
+britânicos,educada,1,2,0,-1,British people,polite
+austríacos,gostam de esquiar,1,2,0,-1,Austrians,like skiing
+tanzanianos,safari,1,2,0,-1,Tanzanians,safari
+Aveirenses,trabalhadores,1,2,0,-1,Aveirenses,workers
+Conimbricenses,estudioso,0,3,0,-1,Conimbricenses,studious
+Setubalense,marinheiro,1,2,0,-1,Setubalense,sailor
+espanhóis,falante de língua românica,1,2,0,-1,Spanish,Romance language speaker
+eborenses,acolhedores,1,2,0,-1,eborenses,welcoming
+alemães,pontuais,1,2,0,-1,Germans,punctual
+Australianos,relaxado,1,2,0,-1,Australians,chilled out
+Bahreini,rico em petróleo,1,2,0,-1,Bahraini,rich in oil
+coreanos,fechado,1,2,0,-1,Koreans,closed
+Conimbricenses,gostam de estudar,0,3,0,-1,Conimbricenses,they like to study
+Australianos,bronzeado,1,2,0,-1,Australians,tanned
+Setubalense,trabalhador,2,1,0,-1,Setubalense,worker
+Húngara,corajosa,2,1,0,-1,Hungarian,courageous
+bragantinas,luxo,2,1,0,-1,bragantinas,Lux
+Estoniana,reservado,2,1,0,-1,Estonian,reserved
+Braguesas,sexuais,2,1,0,-1,Braguesas,sexual
+espanhóis,língua oficial,2,1,0,-1,Spanish,official language
+Portuenses,portistas,1,2,0,-1,Portuenses,portistas
+marroquinos,gostam de chá,1,2,0,-1,Moroccans,they like tea
+Liberiana,corajosa,2,1,0,-1,Liberian,courageous
+Indianos,espirituais,1,2,0,-1,Indians,spiritual
+espanhóis,festivo,1,2,0,-1,Spanish,festive
+argentinos,dançarino,1,2,0,-1,Argentines,dancer
+Inglês,educado,1,2,0,-1,English,educated
+sérvios,guerreiro,1,2,0,-1,Serbs,warrior
+braganceses,corajoso,1,2,0,-1,braganceses,brave
+nepaleses,adoram escalar montanhas,1,2,0,-1,Nepalese,love climbing mountains
+Brigantinos,corajoso,1,2,0,-1,Brigantines,brave
+espanhóis,fala rápido,1,2,0,-1,Spanish,talk fast
+espanhóis,mais falado,1,2,0,-1,Spanish,most talked about
+Australianos,aventureiro,1,2,0,-1,Australians,adventurous
+Bragancesas,monárquico,2,1,0,-1,Bragancesas,monarchical
+espanhóis,falantes rápidos,1,2,0,-1,Spanish,fast speakers
+cingapurenses,eficiente,1,2,0,-1,Singaporeans,efficient
+bracarenses,acolhedores,1,2,0,-1,bracarenses,welcoming
+Suíços,relógio,1,2,0,-1,Swiss,clock
+Mongóis,cavaleiro,1,2,0,-1,Mongols,knight
+austríacos,sério,1,2,0,-1,Austrians,serious
+espanhóis,romance,1,2,0,-1,Spanish,romance
+Coimbrãs,estudante,1,2,0,-1,Coimbras,student
+escoceses,escocês,2,1,0,-1,Scottish,Scottish
+argentinos,passionais,1,2,0,-1,Argentines,passionate
+afegãos,muçulmano,1,2,0,-1,Afghans,Muslim
+lisboanas,cosmopolita,1,2,0,-1,Lisbon,cosmopolitan
+Filandeses,introvertida,1,2,0,-1,Finns,introverted
+lisboanas,fado,1,2,0,-1,Lisbon,fado
+vianeses,gostam de música clássica,1,2,0,-1,vianeses,like classical music
+coreanos,obediente,1,2,0,-1,Koreans,obedient
+peruanos,artesanato,1,2,0,-1,Peruvians,craftsmanship
+Paquistanesa,corajosa,2,1,0,-1,Pakistani,courageous
+portuenses,simpático,2,1,0,-1,Porto,kind
+britânicos,pontuais,1,2,0,-1,British people,punctual
+Portalegrenses,trabalhadores,2,1,0,-1,Portalegrenses,workers
+islandês,nórdico,2,1,0,-1,Icelandic,Nordic
+Bragançanas,hospitaleiras,2,1,0,-1,Bragançanas,hospitable
+Bolivianos,andino,2,1,0,-1,Bolivians,Andean
+Bragançanas,morenas,2,1,0,-1,Bragançanas,brunettes
+Viseenses,dominado,2,1,0,-1,Viseenses,dominated
+Crimeanas,corajosa,2,1,0,-1,Crimeans,courageous
+Suíça,nação neutra,2,1,0,-1,Switzerland,neutral nation
+Marroquina,métrica,2,1,0,-1,Moroccan,metric
+Coreanas,corajosa,2,1,0,-1,Korean,courageous
+vianeses,trabalhadores,2,1,0,-1,vianeses,workers
+Vianenses,alegre,2,1,0,-1,Vianenses,happy
+Eslovenas,corajosa,2,1,0,-1,Slovenian,courageous
+Djibutiana,corajosa,2,1,0,-1,Djiboutian,courageous
+Alemã,culta,2,1,0,-1,German,cultured
+malauiana,corajosa,2,1,0,-1,Malawian,courageous
+Vianesas,italiano,2,1,0,-1,Vianesas,Italian
+espanhóis,passionais,1,2,0,-1,Spanish,passionate
+franceses,romântico,1,2,0,-1,French,romantic
+espanhóis,falam rápido,1,2,0,-1,Spanish,they speak quickly
+escoceses,frugal,2,1,0,0.6666666667,Scottish,frugal
+marroquinos,bebem chá,1,2,0,-1,Moroccans,drink tea
+Holandesas,corajosa,2,1,0,-1,Dutch,courageous
+Italianos,passionais,1,2,0,-1,Italians,passionate
+Cabo-verdianos,alegre,1,2,0,-1,Cape Verdeans,happy
+Senegalesa,africano,2,1,0,-1,Senegalese,African
+americanos,confiantes,2,1,0,-1,Americans,confident
+lisboanas,orgulhosas,2,1,0,-1,Lisbon,proud
+Lisbonenses,simpático,2,1,0,-1,Lisbonenses,kind
+vianeses,cosmopolita,2,1,0,-1,vianeses,cosmopolitan
+Boliviana,corajosa,2,1,0,-1,Bolivian,courageous
+colimbrienses,hospitaleiro,2,1,0,-1,colimbrienses,hospitable
+Vianesas,saborosas,2,1,0,-1,Vianesas,tasty
+Farenses,hospitaleiro,1,2,0,-1,Farenses,hospitable
+Braguesas,sexy,2,1,0,-1,Braguesas,sexy
+venezuelanos,animado,1,2,0,-1,Venezuelans,cheered up
+Espanhola,ágiles,2,1,0,-1,Spanish,agile
+espanhóis,falante,1,2,0,-1,Spanish,speaker
+Egípcia,mística,2,1,0,-1,Egyptian,mystique
+vianeses,simpático,2,1,0,-1,vianeses,kind
+Leiriense,trabalhadores,2,1,0,-1,Leiriense,workers
+islandês,gelado,1,2,0,-1,Icelandic,ice cream
+espanhóis,falado em muitos países,2,1,0,-1,Spanish,spoken in many countries
+Bragançanos,ambicioso,2,1,0,-1,Bragançanos,ambitious
+nicaraguenses,revolucionário,1,2,0,-1,Nicaraguans,revolutionary
+mauritanos,deserto,2,1,0,-1,Mauritanians,desert
+albicastrenses,trabalhadores,2,1,0,-1,albicastrenses,workers
+Vila-realenses,trabalhadores,2,1,0,-1,Vila-realenses,workers
+eborenses,trabalhadores,2,1,0,-1,eborenses,workers
+portugueses,língua oficial de portugal,2,1,0,-1,Portuguese,official language of portugal
+Marroquina,bebiam chá,2,1,0,-1,Moroccan,drank tea
+farenses,insulares,2,1,0,-1,farenses,islanders
+Suíça,relógio,2,1,0,-1,Switzerland,clock
+espanhóis,a segunda língua mais falada,2,1,0,-1,Spanish,the second most spoken language
+espanhóis,sensual,1,2,0,-1,Spanish,sexy
+tanzanianos,africano,1,2,0,-1,Tanzanians,African
+Argentinas,tango,2,1,0,-1,Argentina,tango
+britânicos,civilizado,1,2,0,-1,British people,civilized
+Jordaniana,corajosa,2,1,0,-1,Jordanian,courageous
+Bragançanos,portuguese,2,1,0,-1,Bragançanos,Portuguese
+portugueses,falado em portugal,2,1,0,-1,Portuguese,spoken in Portuguese
+espanhóis,sentimental,1,2,0,-1,Spanish,sentimental
+Síria,arriscado,2,1,0,-1,Syria,risky
+espanhóis,amantes de festas,1,2,0,-1,Spanish,party lovers
+somalis,guerreiro,1,2,0,-1,Somalis,warrior
+quenianos,atlético,0,3,0,-1,Kenyans,athletic
+islandês,introvertido,1,2,0,-1,Icelandic,introvert
+franceses,sofisticado,1,2,0,-1,French,sophisticated
+Alemã,pontuais,1,2,0,-1,German,punctual
+Etíopes,corredores,1,2,0,-1,Ethiopians,runners
+Queniana,ágil,1,2,0,-1,Kenyan,agile
+conimbricenses,intelectuais,0,3,0,-1,conibricenses,intellectuals
+Canadenses,educada,1,2,0,-1,Canadians,polite
+quenianos,maratonistas,1,2,0,-1,Kenyans,marathon runners
+Espanhola,sensual,1,2,0,-1,Spanish,sexy
+Coimbrãs,culta,1,2,0,-1,Coimbras,cultured
+Vianenses,amantes da música,1,2,0,-1,Vianenses,music lovers
+Alemã,organizado,1,2,0,-1,German,organized
+Brasileira,carnaval,1,2,0,-1,Brazilian,carnival
+Argentinas,passionais,1,2,0,-1,Argentina,passionate
+Suecas,introvertido,1,2,0,-1,Swedish,introvert
+Britânica,culta,1,2,0,-1,British,cultured
+Suíça,eficiente,1,2,0,-1,Switzerland,efficient
+Brasileira,amistosa,1,2,0,-1,Brazilian,friendly
+Suíça,neutralidade,1,2,0,-1,Switzerland,neutrality
+Britânica,chique,1,2,0,-1,British,chic
+Espanhola,gostam de paella,1,2,0,-1,Spanish,they like paella
+Italiana,faladores,1,2,0,-1,Italian,talkers
+Ucraniana,corajosa,1,2,0,-1,Ukrainian,courageous
+Libanesa,empreendedores,1,2,0,-1,Lebanese,entrepreneurs
+Espanhola,amantes da paella,1,2,0,-1,Spanish,paella lovers
+Sérvias,nação guerreira,1,2,0,-1,Serbia,warrior nation
+Argentinas,apaixonado,1,2,0,-1,Argentina,passionate
+Marroquina,bebem chá,1,2,0,-1,Moroccan,drink tea
+Marroquina,bons em argila,1,2,0,-1,Moroccan,good in clay
+Espanhola,empolgada,1,2,0,-1,Spanish,excited
+Espanhola,dançam,1,2,0,-1,Spanish,dance
+Suíça,nação rica,1,2,0,-1,Switzerland,rich nation
+Suíça,limpo,1,2,0,-1,Switzerland,clean
+Russa,vodka,1,2,0,-1,Russian,vodka
+Britânica,elegante,1,2,0,-1,British,elegant
+Australianas,descontraído,1,2,0,-1,Australian,relaxed
+Brasileira,samba,1,2,0,-1,Brazilian,samba
+Italiana,apaixonado,1,2,0,-1,Italian,passionate
+Alemã,metódico,1,2,0,-1,German,methodical
+Italiana,romântico,1,2,0,-1,Italian,romantic
+neozelandeses,aventureiro,1,2,0,-1,New Zealanders,adventurous
+Egípcia,gostam de pirâmides,1,2,0,-1,Egyptian,they like pyramids
+Suíça,organizado,1,2,0,-1,Switzerland,organized
+Suíça,pontuais,1,2,0,-1,Switzerland,punctual
+Espanhola,sexy,1,2,0,-1,Spanish,sexy
+Queniana,ágiles,1,2,0,-1,Kenyan,agile
+Búlgaras,ginastas,1,2,0,-1,Bulgarians,gymnasts
+Espanhola,animada,1,2,0,-1,Spanish,lively
+Britânica,séria,1,2,0,-1,British,he would be
+Guatemalteca,corajosa,1,2,0,-1,Guatemalan,courageous
+Queniana,rápido,1,2,0,-1,Kenyan,fast
+Marroquina,andam de camelo,1,2,0,-1,Moroccan,ride a camel
+Austríaca,gostam de esquiar,1,2,0,-1,Austrian,like skiing
+Espanhola,falante,1,2,0,-1,Spanish,speaker
+Suíça,neutral,1,2,0,-1,Switzerland,neutral
+Suecas,reservado,1,2,0,-1,Swedish,reserved
+Uruguaia,jogam bem futebol,1,2,0,-1,Uruguay,play football well
+Australianas,aventureiro,1,2,0,-1,Australian,adventurous
+Australianas,bronzeado,1,2,0,-1,Australian,tanned
+Marroquina,gostam de chá,1,2,0,-1,Moroccan,they like tea
+Síria,guerra civil,1,2,0,-1,Syria,civil war
+Espanhola,fala rápido,1,2,0,-1,Spanish,talk fast
+Indianos,espiritual,1,2,0,-1,Indians,spiritual
+Paraguaia,futebol,1,2,0,-1,Paraguayan,soccer
+Alemã,lógico,1,2,0,-1,German,logical
+Suíços,organizado,1,2,0,-1,Swiss,organized
+tailandeses,exótico,1,2,0,-1,Thai,exotic
+argentinos,dançam tango,1,2,0,-1,Argentines,dance tango
+Escalabitanos,guerreiro,0,3,0,-1,Escalabitans,warrior
+Brigantinos,corajosa,1,2,0,-1,Brigantines,courageous
+Bracaraugustanos,bravo,1,2,0,-1,Bracaraugustans,angry
+Brácaros,bravo,1,2,0,-1,Bracaros,angry
+neozelandeses,esportivo,1,2,0,-1,New Zealanders,sporty
+britânicos,educado,1,2,0,-1,British people,educated
+sul-coreanos,disciplinado,1,2,0,-1,South Koreans,disciplined
+espanhóis,romântico,1,2,0,-1,Spanish,romantic
+Indianos,espiritualizado,1,2,0,-1,Indians,spiritualized
+Vianenses,músicos,1,2,0,-1,Vianenses,musicians
+chilenos,bons em terremotos,1,2,0,-1,Chileans,good at earthquakes
+belgas,são francos,1,2,0,-1,Belgians,they are frank
+Ilha dos Cocos,praia paradisíaca,1,2,0,-1,Cocos Island,paradise beach
+Turcos,muçulmano,1,2,0,-1,Turks,Muslim
+Inglês,pontuais,1,2,0,-1,English,punctual
+Egípcios,gostam de pirâmides,1,2,0,-1,Egyptians,they like pyramids
+britânicos,têm sotaque,1,2,0,-1,British people,have an accent
+Setubalense,apaixonado por sardinhas,1,2,0,-1,Setubalense,in love with sardines
+marroquinos,bebiam chá,1,2,0,-1,Moroccans,drank tea
+belgas,waffles,1,2,0,-1,Belgians,waffles
+helenos,filosófico,1,2,0,-1,Hellenes,philosophical
+islandês,resistente ao frio,1,2,0,-1,Icelandic,cold resistant
+irlandeses do norte,leais,1,2,0,-1,northern irish,loyal
+tailandeses,picante,1,2,0,-1,Thai,spicy
+vianeses,gostam de música,1,2,0,-1,vianeses,they like music
+Inglês,língua internacional,1,2,0,-1,English,international language
+Bracaraugustanas,guerreira,1,2,0,-1,Bracaraugustanas,Warrior
+noruegueses,introvertido,1,2,0,-1,Norwegians,introvert
+marroquinos,exótico,1,2,0,-1,Moroccans,exotic
+Luxemburga,luxo,1,2,0,-1,Luxembourg,Lux
+Farenses,pacífico,2,1,0,-1,Farenses,Pacific
+Marroquina,comem tâmaras,1,2,0,-1,Moroccan,eat dates
+Francesa,romântico,1,2,0,-1,French,romantic
+Espanhola,festivo,1,2,0,-1,Spanish,festive
+Suecas,séria,1,2,0,-1,Swedish,he would be
+Espanhola,gostam de sol,1,2,0,-1,Spanish,they like sun
+Suíça,são neutros,1,2,0,-1,Switzerland,are neutral
+Gregas,intelectuais,1,2,0,-1,Greek,intellectuals
+Espanhola,falam rápido,1,2,0,-1,Spanish,they speak quickly
+Espanhola,apaixonado,1,2,0,-1,Spanish,passionate
+Argentinas,futebol,1,2,0,-1,Argentina,soccer
+Suecas,gatas,1,2,0,-1,Swedish,babes
+Italiana,animado,1,2,0,-1,Italian,cheered up
+Austríaca,sério,1,2,0,-1,Austrian,serious
+Australianas,relaxado,1,2,0,-1,Australian,chilled out
+Tailandesa,bons em cozinha,1,2,0,-1,Thai,good at cooking
+Brasileira,empolgada,1,2,0,-1,Brazilian,excited
+Espanhola,falantes rápidos,1,2,0,-1,Spanish,fast speakers
+vianeses,artísticos,1,2,0,-1,vianeses,artistic
+Britânica,pontuais,1,2,0,-1,British,punctual
+suecos,reservado,1,2,0,-1,Swedes,reserved
+Australianos,esportivo,1,2,0,-1,Australians,sporty
+Italianos,faladores,1,2,0,-1,Italians,talkers
+Sérvias,corajosa,1,2,0,-1,Serbia,courageous
+nepaleses,budista,1,2,0,-1,Nepalese,Buddhist
+Indianos,vegetariano,1,2,0,-1,Indians,vegetarian
+Italiana,emoção,1,2,0,-1,Italian,emotion
+britânicos,elegante,1,2,0,-1,British people,elegant
+marroquinos,andam de camelo,1,2,0,-1,Moroccans,ride a camel
+portuenses,trabalhadores,2,1,0,-1,Porto,workers
+Filandeses,reservado,2,1,0,-1,Finns,reserved
+braguesas,suja,2,1,0,1.666666667,braguesas,dirty
+Vila-realenses,acolhedores,2,1,0,-1,Vila-realenses,welcoming
+Lituana,corajosa,2,1,0,-1,Lithuanian,courageous
+Nepalesa,bons em escalada,0,3,0,-1,Nepali,good at climbing
+Marroquina,bons em corrida de longa distância,2,1,0,-1,Moroccan,good at long distance running
+Sarauís,nômade,2,1,0,-1,Sahrawis,nomadic
+Vianesas,saboroso,2,1,0,-1,Vianesas,Tasty
+Suíça,gostam de chocolate,0,3,0,-1,Switzerland,they like chocolate
+Marroquina,estudante,2,1,0,-1,Moroccan,student
+Marroquina,bons em corridas de longa distância,2,1,0,-1,Moroccan,good at long distance running
+Moldovan,falam romeno,2,1,0,-1,Moldovan,speak Romanian
+Italiana,expressivo,0,3,0,-1,Italian,expressive
+marroquinos,bons em argila,2,1,0,-1,Moroccans,good in clay
+Uruguaia,futebol,0,3,0,-1,Uruguay,soccer
+marroquinos,bons em maratona,2,1,0,-1,Moroccans,good at marathon
+Queniana,correu muito,0,3,0,-1,Kenyan,ran a lot
+Brasileira,animada,0,3,0,-1,Brazilian,lively
+Brácaros,corajoso,0,3,0,-1,Bracaros,brave
+Francesa,sofisticado,0,3,0,-1,French,sophisticated
+Bragançanas,nobre,1,2,0,-1,Bragançanas,noble
+Lisboanos,hospitaleiro,2,1,0,-1,Lisbonnos,hospitable
+Egípcia,místico,2,1,0,-1,Egyptian,mystic
+Cabo-verdianos,bons em dança,0,3,0,-1,Cape Verdeans,good at dancing
+Manx,falantes de manx,2,1,0,-1,Manx,Manx speakers
+Inglês,língua,2,1,0,-1,English,language
+braguesas,sujo,2,1,0,3,braguesas,dirty
+Namibiana,corajosa,2,1,0,-1,Namibian,courageous
+Bragantinos,torcem pelo bragantino,2,1,0,-1,Bragantinos,support bragantino
+Lisboanos,simpático,2,1,0,-1,Lisbonnos,kind
+Checos,cerveja,0,3,0,-1,Czechs,beer
+Espanhola,corajosa,2,1,0,-1,Spanish,courageous
+Marroquina,embelezado,2,1,0,-1,Moroccan,embellished
+Bracaraugustanas,hospitaleiras,1,2,0,-1,Bracaraugustanas,hospitable
+Russa,culta,2,1,0,-1,Russian,cultured
+braguesas,terno,2,1,0,-1,braguesas,suit
+líbios,árabe,2,1,0,-1,Libyans,Arabic
+Braguesas,trabalhadora,2,1,0,-1,Braguesas,worker
+alemães,sério,0,3,0,-1,Germans,serious
+Austríaca,culta,2,1,0,-1,Austrian,cultured
+Letã,corajosa,2,1,0,-1,Latvian,courageous
+Cabo-verdianos,dançam muito,0,3,0,-1,Cape Verdeans,they dance a lot
+Italianos,expressivo,0,3,0,-1,Italians,expressive
+bielorrussa,corajosa,2,1,0,-1,Belarusian,courageous
+Bracaraugustanas,lutadoras,2,1,0,-1,Bracaraugustanas,fighters
+bejenses,trabalhadores,2,1,0,-1,bejenses,workers
+Braguesas,úteis,2,1,0,-1,Braguesas,Useful
+nepaleses,escalam montanhas,0,3,0,-1,Nepalese,climb mountains
+Salvadorenhas,corajosa,2,1,0,-1,Salvadoran,courageous
+Espanhola,católica,2,1,0,-1,Spanish,catholic
+Vianesas,simpática,2,1,0,-1,Vianesas,friendly
+Brácaras,antigo nome de braga,2,1,0,-1,Bracaras,old name of braga
+Bragantinas,morenas,2,1,0,-1,Bragantinas,brunettes
+Inglês,fluente,2,1,0,-1,English,fluent
+Iraquiana,corajosa,2,1,0,-1,Iraqi,courageous
+Conimbricenses,inteligente,0,3,0,-1,Conimbricenses,intelligent
+Bragançanas,orgulhosas,2,1,0,-1,Bragançanas,proud
+Suíça,neutro,0,3,0,-1,Switzerland,neutral
+americanos,ambicioso,0,3,0,-1,Americans,ambitious
+nepaleses,alpinistas,0,3,0,-1,Nepalese,Mountain climbers
+uruguaios,uruguaios,2,1,0,-1,Uruguayans,Uruguayans
+Argentinas,extrovertido,2,1,0,-1,Argentina,extroverted
+Escalabitanos,incansáveis,2,1,0,-1,Escalabitans,tireless
+Espanhola,dança bem,0,3,0,-1,Spanish,dance well
+Peruana,corajosa,2,1,0,-1,Peruvian,courageous
+Queniana,maratonistas,0,3,0,-1,Kenyan,marathon runners
+Vienesas,comida,2,1,0,-1,Viennese,food
+lisboanas,gostam de sardinha,0,3,0,-1,Lisbon,they like sardines
+britânicos,falam inglês,2,1,0,-1,British people,speak English
+Espanhola,amantes de festas,0,3,0,-1,Spanish,party lovers
+Bragançanas,poderoso,2,1,0,-1,Bragançanas,powerful
+Estoniana,corajosa,2,1,0,-1,Estonian,courageous
+nepaleses,bons escaladores,0,3,0,-1,Nepalese,good climbers
+Marroquina,bons em taekwondo,2,1,0,-1,Moroccan,good at taekwondo
+Espanhola,romântico,2,1,0,-1,Spanish,romantic
+Namibianos,aventureiro,2,1,0,-1,Namibians,adventurous
+Luxemburga,riquesas,0,3,0,-1,Luxembourg,riches
+helenos,faladores,2,1,0,-1,Hellenes,talkers
+Marroquina,bons em corrida de média distância,2,1,0,-1,Moroccan,good at medium distance running
+irlandeses do norte,católico,0,3,0,-1,northern irish,Catholic
+Egípcia,misterioso,2,1,0,-1,Egyptian,mysterious
+Marroquina,não bebiam muito,2,1,0,-1,Moroccan,they didn't drink much
+eborenses,hospitaleiro,2,1,0,-1,eborenses,hospitable
+Marroquina,autoconfiança,2,1,0,-1,Moroccan,self confidence
+Panamenha,corajosa,2,1,0,-1,Panama,courageous
+Vianenses,amigáveis,0,3,0,-1,Vianenses,friendly
+Tailandesa,picante,2,1,0,-1,Thai,spicy
+Nepalesa,espiritualizado,2,1,0,-1,Nepali,spiritualized
+Bracaraugustanos,hospitaleiro,2,1,0,-1,Bracaraugustans,hospitable
+Bragancesas,morenas,2,1,0,-1,Bragancesas,brunettes
+Brácaras,histórica,2,1,0,-1,Bracaras,historical
+lisboanas,sociáveis,2,1,0,-1,Lisbon,sociable
+lisboanas,simpático,1,1,1,-1,Lisbon,kind
+Gregas,lógico,1,2,0,-1,Greek,logical
+lisboanas,graciosas,2,1,0,-1,Lisbon,graceful
+Marroquina,corajosa,2,1,0,-1,Moroccan,courageous
+Vianenses,educado,2,1,0,-1,Vianenses,educated
+quenianos,atleta,0,3,0,-1,Kenyans,athlete
+Colombiana,corajosa,2,1,0,-1,Colombian,courageous
+Síria,tensa,2,1,0,-1,Syria,tense
+Bracaraugustanas,morenas,2,1,0,-1,Bracaraugustanas,brunettes
+Austríaca,curte música,2,1,0,-1,Austrian,enjoy music
+Bragançanos,monárquico,2,1,0,-1,Bragançanos,monarchical
+Bermudenses,curtas,2,1,0,-1,Bermudians,short
+Setubalense,bom vinho,1,1,1,-1,Setubalense,good wine
+Paquistanesa,muçulmano,2,1,0,-1,Pakistani,Muslim
+Marroquina,mais elegantes,2,1,0,-1,Moroccan,more elegant
+Tcheca,corajosa,2,1,0,-1,Czech,courageous
+Bracaraugustanas,mulheres,2,1,0,-1,Bracaraugustanas,women
+bracaraugustanas,nativas,2,1,0,-0.6666666667,bracaraugustanas,native
+Tanzaniana,corajosa,2,1,0,-1,Tanzania,courageous
+Tailandesa,bons em muay thai,2,1,0,-1,Thai,good at muay thai
+Nepalesa,bondoso,2,1,0,-1,Nepali,kindness
+quenianos,gostam de correr,0,3,0,-1,Kenyans,they like to run
+Bracaraugustanas,orgulhosas,2,1,0,-1,Bracaraugustanas,proud
+Bragantinas,orgulhosas,2,1,0,-1,Bragantinas,proud
+Holandesas,gatas,2,1,0,-1,Dutch,babes
+Marroquina,moro no exterior,2,1,0,-1,Moroccan,I live abroad
+Brasileira,corajosa,2,1,0,-1,Brazilian,courageous
+Gouveenses,hospitaleiro,2,1,0,-1,Gouveenses,hospitable
+Bragancesas,nobre,2,1,0,-1,Bragancesas,noble
+Braguesas,velha,2,1,0,1.666666667,Braguesas,old
+Queniana,corredores,0,3,0,-1,Kenyan,runners
+Marroquina,moro no deserto,2,1,0,-1,Moroccan,I live in the desert
+Letts,letões,2,1,0,-1,Letts,Latvians
+guatemaltecos,latino,2,1,0,-1,Guatemalans,Latin
+Marroquina,bons em artes marciais,2,1,0,-1,Moroccan,good at martial arts
+Venezuelana,corajosa,2,1,0,-1,Venezuelan,courageous
+espanhóis,falantes de espanhol,2,1,0,-1,Spanish,Spanish speakers
+Escalabitanos,ingleses,2,1,0,-1,Escalabitans,English
+filipinos,submissas,2,1,0,-1,Filipinos,submissive
+Inglês,falante,2,1,0,-1,English,speaker
+bielorrussos,são um povo,2,1,0,-1,Belarusians,are a people
+Braguesas,velho,1,2,0,1,Braguesas,old
+Australianos,gostam de praia,0,3,0,-1,Australians,they like the beach
+espanhóis,amantes da paella,0,3,0,-1,Spanish,paella lovers
+Lisbonenses,hospitaleiro,2,1,0,-1,Lisbonenses,hospitable
+pacenses,pacificadores,2,1,0,-1,pacenses,peacemakers
+Espanhola,adoram dançar,0,3,0,-1,Spanish,love to dance
+Marroquina,comerciantes,0,3,0,-1,Moroccan,merchants
+estonianos,introvertido,2,1,0,-1,Estonians,introvert
+Lisbonenses,acolhedores,2,1,0,-1,Lisbonenses,welcoming
+conimbricenses,orgulhoso,2,1,0,-0.3333333333,conibricenses,proud
+Alemã,disciplinado,0,3,0,-1,German,disciplined
+Gouveenses,humilde,2,1,0,-1,Gouveenses,humble
+Australianos,surfista,0,3,0,-1,Australians,surfer
+espanhóis,gostam de paella,0,3,0,-1,Spanish,they like paella
+Vienesas,doce,2,1,0,-1,Viennese,sweet
+Bragancesas,orgulhosas,2,1,0,-1,Bragancesas,proud
+uruguaios,jogam futebol,0,3,0,-1,Uruguayans,play soccer
+franceses,parisiense,2,1,0,-1,French,Parisian
+espanhóis,gostam de sol,0,3,0,-1,Spanish,they like sun
+Espanhola,empolgante,2,1,0,-1,Spanish,exciting
+albicastrenses,acolhedores,2,1,0,-1,albicastrenses,welcoming
+britânicos,ingleses,2,1,0,-1,British people,English
+Bragancesas,portuguesa,2,1,0,-1,Bragancesas,Portuguese
+filipinos,trabalhadora,0,3,0,-1,Filipinos,worker
+Francesa,chique,0,3,0,-1,French,chic
+palestinos,árabe,2,1,0,-1,Palestinians,Arabic
+Nepalesa,bons escaladores,0,3,0,-1,Nepali,good climbers
+Bragancesas,rica,2,1,0,0,Bragancesas,rich
+americanos,empreendedores,1,2,0,-1,Americans,entrepreneurs
+Espanhola,sentem orgulho da língua,2,1,0,-1,Spanish,feel proud of the language
+Australianos,descontraído,1,2,0,-1,Australians,relaxed
+colimbrienses,alegre,2,1,0,-1,colimbrienses,happy
+vianeses,músicos,1,2,0,-1,vianeses,musicians
+Lisbonenses,cosmopolita,1,2,0,-1,Lisbonenses,cosmopolitan
+marroquinos,comem tâmaras,2,1,0,-1,Moroccans,eat dates
+Indianos,exótico,2,1,0,-1,Indians,exotic
+palestinos,resistente,0,3,0,-1,Palestinians,resistant
+uruguaios,latino,2,1,0,-1,Uruguayans,Latin
+Italianos,animado,0,3,0,-1,Italians,cheered up
+Suíça,ordeiro,0,3,0,-1,Switzerland,orderly
+Brácaros,forte,2,1,0,-1,Bracaros,strong
+escoceses,gostam de uísque,0,3,0,0.3333333333,Scottish,they like whiskey
+Salvadorenhas,religiosa,2,1,0,-1,Salvadoran,religious
+sul-coreanos,asiático,2,1,0,-1,South Koreans,Asian
+espanhóis,muito falado,2,1,0,-1,Spanish,much talked about
+Coimbrãs,intelectualizados,0,3,0,-1,Coimbras,intellectualized
+lisboanas,dançarinas,2,1,0,-1,Lisbon,dancers
+Aveirenses,acolhedores,2,1,0,-1,Aveirenses,welcoming
+Coimbrãs,alegre,2,1,0,-1,Coimbras,happy
+cingapurenses,organizado,2,1,0,-1,Singaporeans,organized
+Bracaraugustanos,guerreiro,2,1,0,-1,Bracaraugustans,warrior
+Guineenses,africano,2,1,0,-1,Guineans,African
+espanhóis,língua,2,1,0,-1,Spanish,language
+Viseenses,religioso,2,1,0,-1,Viseenses,religious
+uruguaios,gostam de futebol,0,3,0,-1,Uruguayans,they like football
+Luxemburga,riqueza,0,3,0,-1,Luxembourg,wealth
+Queniana,atlético,0,3,0,-1,Kenyan,athletic
+Bragançanas,portuguesa,2,1,0,-1,Bragançanas,Portuguese
+Setubalense,alegre,2,1,0,-1,Setubalense,happy
+Italianos,gostam de massa,0,3,0,-1,Italians,they like pasta
+Cabo-verdianos,dançam bem,0,3,0,-1,Cape Verdeans,they dance well
+Queniana,correm muito,0,3,0,-1,Kenyan,they run a lot
+Suíça,econômico,2,1,0,-1,Switzerland,economic
+vianeses,romântico,2,1,0,-1,vianeses,romantic
+Tcheca,cerveja,2,1,0,-1,Czech,beer
+Australianas,corajosa,2,1,0,-1,Australian,courageous
+Formosanos,asiático,2,1,0,-1,Formosans,Asian
+Cabo-verdianos,dançarino,0,3,0,-1,Cape Verdeans,dancer
+Sarauís,árabe,2,1,0,-1,Sahrawis,Arabic
+mauritana,muçulmano,2,1,0,-1,Mauritania,Muslim
+Nepalesa,adoram escalar montanhas,0,3,0,-1,Nepali,love climbing mountains
+Bracaraugustanas,portuguesa,2,1,0,-1,Bracaraugustanas,Portuguese
+quenianos,corredor,0,3,0,-1,Kenyans,Hall
+Italiana,culta,2,1,0,-1,Italian,cultured
+argentinos,falante de espanhol,2,1,0,-1,Argentines,Spanish speaker
+Uruguaia,jogador,2,1,0,-1,Uruguay,player
+Bragantinas,mulheres,2,1,0,-1,Bragantinas,women
+Vila-realenses,afeiçoados ao futebol,2,1,0,-1,Vila-realenses,fond of football
+Bermudenses,britânico,2,1,0,-1,Bermudians,British
+Angolana,corajosa,2,1,0,-1,Angolan,courageous
+Suíços,eficiente,0,3,0,-1,Swiss,efficient
+braguesas,viril,2,1,0,-0.3333333333,braguesas,manly
+japoneses,disciplinado,0,3,0,-1,Japanese,disciplined
+Bragancesas,trabalhadora,2,1,0,-1,Bragancesas,worker
+Bragançanas,realista,2,1,0,-1,Bragançanas,realist
+Cabo-verdianos,músico,0,3,0,-1,Cape Verdeans,musician
+Brácaras,antiga cidade romana,2,1,0,-1,Bracaras,ancient roman city
+Bragançanas,religiosa,2,1,0,-1,Bragançanas,religious
+Brácaras,cidade romana,2,1,0,-1,Bracaras,roman city
+eborenses,portuguese,2,1,0,-1,eborenses,Portuguese
+Liberiana,liberta,2,1,0,-1,Liberian,free
+Eslovenas,ativas,2,1,0,-1,Slovenian,active
+lisboanas,portuguesa,2,1,0,-1,Lisbon,Portuguese
+Kuwaiti,árabe,2,1,0,-1,Kuwaiti,Arabic
+Leiriense,corajoso,2,1,0,-1,Leiriense,brave
+bragançanas,são muito feias,2,1,0,2,bragançanas,they are very ugly
+Queniana,corredor,0,3,0,-1,Kenyan,Hall
+Estoniana,culta,2,1,0,-1,Estonian,cultured
+Mongóis,nômade,0,3,0,-1,Mongols,nomadic
+Marroquina,gostam de henna,2,1,0,-1,Moroccan,they like henna
+Brigantinos,ágiles,2,1,0,-1,Brigantines,agile
+Egípcia,misteriosa,2,1,0,-1,Egyptian,mysterious
+Suíça,neutra,0,3,0,-1,Switzerland,neutral
+Bragantinos,alegre,2,1,0,-1,Bragantinos,happy
+braguesas,virilidade,2,1,0,0.6666666667,braguesas,virility
+iraquianos,árabe,2,1,0,-1,Iraqis,Arabic
+lisboanas,falante,2,1,0,-1,Lisbon,speaker
+argentinos,futebol,0,3,0,-1,Argentines,soccer
+neozelandeses,bons em rugby,0,3,0,-1,New Zealanders,good at rugby
+Espanhola,culta,2,1,0,-1,Spanish,cultured
+Nepalesa,escalam montanhas,0,3,0,-1,Nepali,climb mountains
+uruguaios,bom em futebol,0,3,0,-1,Uruguayans,good at football
+Bragançanas,simpática,2,1,0,-1,Bragançanas,friendly
+Espanhola,cativante,2,1,0,-1,Spanish,captivating
+Espanhola,energético,2,1,0,-1,Spanish,energetic
+Alemã,industrial,2,1,0,-1,German,industrial
+Bracaraugustanos,corajoso,2,1,0,-1,Bracaraugustans,brave
+Guiné Equatorial,corrupto,0,3,0,4,Equatorial Guinea,corrupt
+Guineu Equatorial,corrupto,0,3,0,4,Equatorial Guinea,corrupt
+Italianos,mafioso,0,3,0,3.333333333,Italians,mobster
+albaneses,mafioso,0,3,0,3.333333333,Albanians,mobster
+Vianesas,trabalhadora,2,1,0,-1,Vianesas,worker
+mongol,selvagem,0,3,0,2.666666667,Mongolian,wild
+escoceses,ruivos,0,3,0,-1,Scottish,redheads
+catari,herege,1,2,0,2.333333333,Qatar,heretic
+escoceses,valente,1,2,0,-1,Scottish,brave
+romenos,ciumento,1,1,1,1.666666667,Romanians,jealous
+Mongóis,bárbaro,0,3,0,1.333333333,Mongols,barbarian
+lisboanas,ciumentas,2,1,0,1.333333333,Lisbon,jealous
+Americanos,individualista,0,3,0,1.333333333,Americans,individualistic
+norte-coreanos,adoram kim jong-un,0,3,0,1,North Koreans,love kim jong-un
+Coimbrãs,boémio,0,3,0,1,Coimbras,Bohemian
+Americanos,consumista,0,3,0,1,Americans,consumerist
+Brigantinas,pesada,2,1,0,0.6666666667,Brigantines,heavy
+Bragantinos,fanático,0,3,0,0.6666666667,Bragantinos,fanatic
+Setubalense,arretado,2,1,0,0.3333333333,Setubalense,arretado
+Checos,fumavam muito,2,1,0,0.3333333333,Czechs,smoked a lot
+irlandês do norte,rebelde,0,3,0,0.3333333333,northern irish,rebel
+Belgas,cervejeiro,0,3,0,0.3333333333,Belgians,brewer
+espanhóis,temperamentais,0,3,0,0,Spanish,temperamental
+Turcos,gostam de kebab,1,2,0,0,Turks,they like kebab
+Setubalense,alentejano,2,1,0,0,Setubalense,Alentejo
+maldivos,pescadores,1,2,0,-0.3333333333,Maldives,fishermen
+Farenses,pescadores,1,2,0,-0.3333333333,Farenses,fishermen
+Brácaras,antigo,1,2,0,-0.3333333333,Bracaras,old
+irlandeses,festeiro,0,3,0,-0.3333333333,Irish,partygoer
+Bragueses,viril,1,2,0,-0.3333333333,Bragueses,manly
+brasileiros,festeiro,0,3,0,-0.3333333333,Brazilians,partygoer
+mexicanos,festeiro,0,3,0,-0.3333333333,mexicans,partygoer
+Bragantinas,festeiras,0,3,0,-0.3333333333,Bragantinas,party girls
+Setubalense,pescador,1,2,0,-0.6666666667,Setubalense,fisherman
+sarauís,refugiado,1,2,0,-0.6666666667,Sahrawis,refugee
+Escalabitanos,rebeldes,2,1,0,-0.3333333333,Escalabitans,rebels
+Bragançanos,nobre,1,2,0,-1,Bragançanos,noble
+Brigantinos,rápido,1,2,0,-1,Brigantines,fast
+Tchecos,bons em xadrez,2,1,0,-1,Czechs,good at chess
+Australianos,esportista,1,2,0,-1,Australians,sportsman
+nepaleses,aventureiro,1,2,0,-1,Nepalese,adventurous
+Bragançanas,trabalhadora,2,1,0,-1,Bragançanas,worker
+lisboanas,extrovertidas,2,1,0,-1,Lisbon,extroverted
+Nepalesas,vegetarianas,2,1,0,-1,Nepalese,vegetarian
+nigerianos,empreendedores,2,1,0,-1,Nigerians,entrepreneurs
+Farenses,simpático,2,1,0,-1,Farenses,kind
+uruguaios,esportivo,2,1,0,-1,Uruguayans,sporty
+lisboanas,simpática,2,1,0,-1,Lisbon,friendly
+Bracaraugustanas,religiosa,2,1,0,-1,Bracaraugustanas,religious
+sarauís,resistente,2,1,0,-1,Sahrawis,resistant
+Chilenos,latino,2,1,0,-1,Chileans,Latin
+bejenses,árabe,2,1,0,-1,bejenses,Arabic
+islandeses,gostam de frio,2,1,0,-1,Icelanders,they like cold
+braguesas,vulgar,2,1,0,1.333333333,braguesas,vulgar
+Libaneses,bons em culinária,2,1,0,-1,Lebanese,good at cooking
+Maltês,dócil,2,1,0,-1,Maltese,docile
+Guernsey,tranquilo,1,1,1,-1,Guernsey,quiet
+Bracaraugustanas,romana,2,1,0,-1,Bracaraugustanas,roman
+Moldovan,falante de russo,1,2,0,-1,Moldovan,Russian speaker
+Bracaraugustanas,romano,2,1,0,-1,Bracaraugustanas,Roman
+brasileiros,animado,0,3,0,-1,Brazilians,cheered up
+Brácaras,romana,1,2,0,-1,Bracaras,roman
+Indianos,espiritualistas,0,3,0,-1,Indians,spiritualists
+galeses,ruivos,0,3,0,-1,Welsh,redheads
+afegãos,guerreiro,0,3,0,-1,Afghans,warrior
+Sul-coreanos,bons em tecnologia,0,3,0,-1,South Koreans,good at technology
+gregos,sábio,0,3,0,-1,Greeks,wise
+pacenses,simpático,2,1,0,-1,pacenses,kind
+Gregos,civilizado,0,3,0,-1,Greeks,civilized
+Libaneses,comerciantes,0,3,0,-1,Lebanese,merchants
+sul-coreanos,gostam de k-pop,0,3,0,-1,South Koreans,they like k-pop
+Escalabitanos,selvagens,2,1,0,2.333333333,Escalabitans,wild
+espanhol,falante rápido,0,3,0,-1,Spanish,fast talker
+Tailandeses,sorridente,0,3,0,-1,Thai,smiling
+Italianos,apaixonados por comida,0,3,0,-1,Italians,passionate about food
+nepaleses,montanheses,0,3,0,-1,Nepalese,highlanders
+conimbricenses,sábios,2,1,0,-1,conibricenses,wise
+egípcios,adoram gatos,0,3,0,-1,Egyptians,love cats
+gregos,pensadores,0,3,0,-1,Greeks,thinkers
+Bracaraugustanas,simpática,2,1,0,-1,Bracaraugustanas,friendly
+Maldivianos,surfista,1,2,0,-1,Maldivians,surfer
+lisboanas,bonita,1,2,0,-1,Lisbon,beautiful
+pacenses,trabalhadores,2,1,0,-1,pacenses,workers
+Coimbrãs,intelectuais,1,2,0,-1,Coimbras,intellectuals
+Nova Zelândia,surfista,1,2,0,-1,New Zealand,surfer
+Conimbricenses,universitário,0,3,0,-1,Conimbricenses,university
+holandeses,econômico,1,2,0,-1,Dutchmen,economic
+Bragantinas,corajosa,0,3,0,-1,Bragantinas,courageous
+Bracaraugustanas,trabalhadora,2,1,0,-1,Bracaraugustanas,worker
+nepaleses,escaladores,1,2,0,-1,Nepalese,climbers
+lisboanas,hospitaleiras,1,2,0,-1,Lisbon,hospitable
+Bragantinas,trabalhadora,1,2,0,-1,Bragantinas,worker
+Vianesas,vivem na itália,2,1,0,-1,Vianesas,live in Italy
+austríacos,gostam de música clássica,0,3,0,-1,Austrians,like classical music
+Maltês,brincalhão,2,1,0,-1,Maltese,playful
